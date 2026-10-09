@@ -7,875 +7,1656 @@ publish_date: '2026-10-09'
 duration_seconds: 13686
 duration: 3h 48m
 view_count: 16468
-model: mesolitica/malaysian-whisper-medium-v2
-note: Raw transcript from the local ASR fallback (no Gemini access), mesolitica/malaysian-whisper-medium-v2 with VAD chunking. Speaker turns are labeled via pyannote.audio acoustic diarization (anonymous "Speaker N" labels, not yet mapped to real names). See interview.md for the polished newspaper-style rewrite.
+model: openai/whisper-large-v3-turbo
+note: 'Raw transcript from openai/whisper-large-v3-turbo run locally, verbatim style, with word times from forced alignment (scripts/lib_forced_align.py). Speaker labels come from the show''s own camera cuts (scripts/camera_speakers.py, an on-screen active-speaker reference) at the time of each word; turns of three words or fewer keep the current raw.md''s label, and words the camera does not cover fall back to it. Built by scripts/mai_camera_raw.py; the word sequence is the engine''s, unchanged, apart from the reviewed name corrections in fix_proper_nouns.py and the owner-verified passage kept from the previous transcript (no gold passage recorded for this video; owner rulings over the camera: none recorded for this episode). See interview.md for the polished newspaper-style rewrite.'
 ---
+
+<!-- nav -->
+**Yang Berhenti Menteri episode 67 — Belanjawan 2027 & Belanjawan Bayangan Kancil 2027**  
+9 October 2026 · 3h 48m · [watch on YouTube](https://www.youtube.com/watch?v=WH54kzAN9cQ)
+
+This episode: **verbatim raw transcript**  
+The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../README.ms.md) · [how these were made](../../../METHODOLOGY.md)
+<!-- /nav -->
 
 # Raw Transcript
 
-[03:58] Speaker 1: Assalamualaikum dan salam sejahtera Podcast Yang Merti Menteri episod ke-67 Episod Belanjawan Macam biasa bersama saudara Rafizie Ramli Dan yang sudah semakin biasa Bersama saudara Samdik Joe Waalaikumsalam Kenapa kau
+[03:58] Haziq: Assalamualaikum dan salam sejahtera Podcast Yang Merti Menteri episod ke-67 Episod Belanjawan Macam biasa bersama saudara Rafi Ziramli Dan yang sudah semakin biasa Bersama saudara Samdik Joe Waalaikumsalam
 
-[04:14] Speaker 2: macam
+[04:13] Rafizi: Waalaikumsalam Kenapa kau macam tadi Anti-climax
 
-[04:14] Speaker 1: tadi anti-climax je? Oh sebab dia kata boleh start, oh belum lagi Oh eh, oh Hari ni kita akan cepat-cepat baby Untuk beria je lah cepat kan Untuk beria, dan saudara Samdik Jo akan membelah dirinya kepada dua Satu di podcast ini, tapi dalam masa sama kejap lagi dia akan pergi ke Astro Astro Awani ya? Betul Untuk komentari berkaitan bajet juga semula. Yes. Itu menunjukkan podcast memang panjang. Alright. Okay, weh. Kita pergi beria terus. Kita letak banyak maybe Yang pertama musim jerebu Jadi kita ada orang yang ambil Precautionary step lah Dengan ni lah
+[04:17] Haziq: Oh sebab dia kata Boleh start Oh belum lagi Boleh start belum lagi Hari ni kita akan cepat-cepat YB Untuk beria je lah cepat kan Untuk beria Dan saudara Samdik Joe akan Membelah dirinya Kepada dua Satu di podcast ini Tapi dalam masa selama Kejap lagi dia akan pergi ke Astro Astro Abani ya Betul Untuk komentari Berkaitan bajet juga Betul Dan datang sini semula Itu menunjukkan podcast yang panjang Alright, ok V Kita pergi beria terus Kita tak banyak. Yang pertama, musim jerebu. Jadi kita ada orang yang ambil precautionary step lah. Dengan ni lah.
 
-[05:00] Speaker 2: Beria, cuma nasihat dia, dia hidup lagi ke tidak? Yang lawak tu satu hal lah, tapi berhati-hati je kan dengan social media ni. Sebab benda yang berbahaya seperti ini, tidak sewajarnya dijadikan bahan konten. Takut kan, sebab... Budak-budak kalau dia tengok ke apa Ini adalah Salah satu punca utama pembunuhan yang berpunca daripada asphyxiation.
+[05:00] Speaker 2: Beria,
 
-[05:31] Speaker 1: Hmm.
+[05:01] Speaker 2: cuma nasihat dia.
 
-[05:33] Speaker 2: Selalunya serial
+[05:03] Rafizi: Dia hidup lagi ke tidak ni?
 
-[05:34] Speaker 1: killer je buat
+[05:06] Haziq: Yang lawak ni satu hal lah. Tapi berhati-hati je kat dengan sosial media ni.
 
-[05:34] Speaker 2: benda ni.
+[05:10] Rafizi: Sebab benda yang berbahaya seperti ini. Tidak sewajarnya dijadikan bahan konten. Sebab... Budak-budak kalau dia tengok ke apa Ini adalah Salah satu punca utama pembunuhan yang berpunca daripada asfixiation. Selalunya serial killer je buat benda ni.
 
-[05:37] Speaker 1: Tapi dia farm engagement tu banyak lah.
+[05:37] Haziq: Tapi the farm engagement tu banyak lah.
 
-[05:38] Speaker 2: Haa tu adalah berjaya lah dapat
+[05:39] Rafizi: Tu adalah berjaya lah dapat engagement. Tetapi termasuk di YB. Ya lah. Cuma aku kira... Polite sikit lah. The danger is kalau kita normalize perkara-perkara yang sebenarnya agak berbahaya sebab budak-budak tengok.
 
-[05:40] Speaker 3: engagement.
+[06:02] Speaker 2: Ada
 
-[05:41] Speaker 1: Tetapi... Termasuk
+[06:04] Speaker 1: PSA
 
-[05:43] Speaker 3: dari YB? Haa iyalah. Cuma aku kira... Polite sikit lah. The danger is kalau kita
+[06:05] Haziq: kat situ. Alright, next YB. Menekan-tekan Lee Chen Chung.
 
-[05:55] Speaker 2: normalize perkara-perkara yang sebenarnya agak berbahaya sebab budak-budak tengok. Okay, ada
+[06:19] Speaker 2: Ini live eh, ini live eh Inilah juga salah satu sebabnya
 
-[06:04] Speaker 1: PSA kat situ. Alright, next maybe. Menekan-tekan Lee Chen Chong Oh... Ini live eh,
+[06:23] Speaker 2: Kenapa
 
-[06:21] Speaker 2: inilah juga salah satu sebabnya kenapa kalau tengok Tak ada podcast yang buat live,
+[06:24] Speaker 2: kalau tengok
 
-[06:28] Speaker 3: kepada
+[06:26] Speaker 2: Tak ada podcast yang buat live
 
-[06:29] Speaker 2: yang tanya Ada 2-3 orang yang selalu buat bising, complain, kenapa tak live Bolehlah bagilah kita orang 10 juta, then we can put everything in place Kalau kita buat secara amateur begini Dia akan ada masalah-masalah yang kita nak kena selesaikan on the fly lah Dan operation yang hanya ada tiga orang Maintaining everything tak mudah lah So sound dah ok ke belum? Fixing, belum lagi.
+[06:28] Rafizi: Kepada yang tanya Ada dua tiga orang yang selalu buat bising Komplain, kenapa tak Kenapa tak live, kenapa tak live Boleh lah bagilah kita orang sepuluh juta Then we can put everything in place Kalau kita buat secara amateur begini Dia akan ada masalah-masalah yang kita nak kena selesaikan on the fly lah Dan Operation yang hanya ada tiga orang Maintaining everything tak mudah lah So sound dah okay ke belum? Fixing Oh belum lagi
 
-[07:05] Speaker 1: So, kita teruskan lah. Kita teruskan saja. Cakap kuat-kuat lah. Menekan-nekan Lee Chen Chong. Ini pasal apa? Ini lepas Lee Chen Chong resign. Jumaat lepas. Okay. Yelah, pasal siapa yang menekan dia? Ramai, Dato' Sri Anwar, Tengku Zafrul pun dia formal, dia buat juga video. Dia cakap, yelah kenapa nak resign, mandat tu dah diberi. Awak bukannya tunggul kayu, boleh je bercakap bersuara dalam parlimen. Yelah, apa
+[07:05] Haziq: So Kita teruskan lah Kita teruskan saja Cakap kuat-kuat lah Menekan-tekan Lee Cencung
 
-[07:34] Speaker 2: nama ni Tengku Zafrul bolehlah cakap macam tu, dia tak pernah dapat mandat. Dia tak faham konsep mandat tu. Anyway, berialah dia orang semua.
+[07:11] Rafizi: Ini waktu Ini pasal apa? Ini lepas Lee Cencung resign Jumat lepas
 
-[07:44] Speaker 1: Tahniah dia orang semua berialah. Kichong happy je. Yalah Hincong happy betul Okay baby Next Sebab pasal Empat orang juga
+[07:17] Haziq: Okay Yelah, pasal siapa yang menekan dia? Ramai. Dato' Sri Anwar, Tengku Zafrul pun dia formal. Dia buat juga video. Dia cakap, yelah, kenapa nak resign? Mandat tu dah diberi. Awak bukannya tunggul kayu. Boleh je bercakap bersuara dalam parlimen. Yelah, penama ni Tengku Zafrul bolehlah cakap macam tu. Dia tak pernah dapat mandat.
 
-[07:55] Speaker 3: Hmm
+[07:38] Rafizi: Dia tak faham konsep mandat tu. Anyway, beria lah dia orang semua. Tahniah dia orang semua beria. Kicong happy je.
 
-[07:58] Speaker 1: Jadi ahli parlimen PKR
+[07:47] Haziq: Betul. Dan Yalah Macam happy, betul. Okay, YB. Next, sebab pasal empat orang juga. Jadi ahli parlimen PKR
 
-[08:00] Speaker 2: Nasib baiklah Pak Hassan Sebab dia buat cerita ni Masa siaran kita mengenai belanjawan Jadi aku tak boleh komen panjang Sebab masa tak ada Jangan kritik PKR dan ANUAR. Kritik kerajaan boleh? Jangan kritik PKR. Pak Hassan, Pak Hassan saya cadangkan masuk UMNO. Atau masuk PAS. Sebab itu konsep yang ada... Untuk mengkritik tapi mengkritik berpilih-pilih Macam mana tak kritik PKR dengan Anwar Ibrahim Ya Anwar Ibrahim Perdana Menteri Dia orang yang paling berkuasa dalam kerajaan Dan PKR itu ialah parti yang paling banyak Menteri Kabinet Jadi bila you kritik kerajaan Memang you kritik Anwar Ibrahim lah Terutamanya ialah apabila Nada dan gaya dan lengguk kerajaan itu Ditentukan oleh Dato' Sri Anwar Yang mahukan hanya orang yang cium tangan keliling dia je Kan? Jadi Mungkin Pak Hassan terlupa kot PKR dulu-dulu-dulu tu lain-lain Mungkin sebab Dah berada dalam kerajaan bersama-sama dengan UMNO ni lama sangat
+[08:00] Rafizi: Nasib baiklah Pak Hassan Sebab dia buat cerita ni Masa siaran kita mengenai belanjawan Jadi aku tak boleh komen panjang Sebab masa tak ada Kritik, jangan kritik PKR dan ANWR. Kritik kerajaan boleh? Jangan kritik PKR. Pahasan, saya cadangkan masuk UMNO. Atau masuk PAS. Sebab itu konsep yang ada... untuk mengkritik tapi mengkritik berpilih-pilih. Macam mana tak kritik PKR dengan Anwar Ibrahim? Ya, Anwar Ibrahim Perdana Menteri. Dia orang yang paling berkuasa dalam kerajaan. Dan PKR itu ialah parti yang paling banyak Menteri Kabinet. Jadi bila awak kritik kerajaan, memang awak kritik Anwar Ibrahim lah. Terutamanya ialah apabila Nada dan gaya dan lenggok kerajaan itu ditentukan oleh Dato' Seri Anwar yang mahukan hanya orang yang cium tangan keliling dia saja. Mungkin Pak Hassan terlupa kok PKR dulu-dulu-dulu tu lain-lain. Mungkin sebab dah berada dalam kerajaan bersama-sama dengan UMNO ni lama sangat. Dia pun terikut-ikut kot. Terikut-ikut.
 
-[09:15] Speaker 1: Dia pun terikut-ikut kot Terikut-ikut Okay baik baby Itu yang ketiga baby Yang terakhir sebab ada berkaitan dengan Belanjawan Alternative. Actually mungkin saya tak.
+[09:17] Haziq: Baik, YB. Itu yang ketiga, YB. Yang terakhir, mungkin saya tanya Selepas itu ada kaitan dengan belanja alternatif Sebenarnya mungkin saya
 
-[09:26] Speaker 4: Oh ya? Sebab Hassan punya kenyataan saya rasa, it depends on how people see it. Tapi untuk sesiapa yang memahami sejarah China. Oh, Gang of Four. Gang
+[09:27] Speaker 4: tak Sebab Hassan punya kenyataan Saya rasa
 
-[09:39] Speaker 2: of Four. Ya, Gang of Four. Jahat. Mungkin ramai orang tak tahu who is gang of four lah. Ya. So, Pak Hassan ni daripada parti rakyat dulu. So, ada history of left, of the left. Jadi, bila dia sebut gang of four ni, dia nak imply lah yang kita orang empat ni sama macam gang of four di China.
+[09:31] Speaker 4: It depends on how people say Tapi untuk
 
-[10:00] Speaker 4: Hmm. Dan itu berniat jahat sebab gang of four ni memainkan peranan yang utama dalam...
+[09:33] Speaker 4: sesiapa yang
 
-[10:07] Speaker 2: Membodek Mao
+[09:34] Speaker 4: memahami History
 
-[10:09] Speaker 4: Zedong.
+[09:36] Speaker 4: sejarah China
 
-[10:13] Speaker 2: yang
+[09:38] Speaker 4: Gang of four
 
-[10:13] Speaker 4: menyebabkan ramai orang kematian.
+[09:39] Rafizi: Ya, gang of four Jahat Mungkin ramai orang tak tahu who is gang of four lah. So Pak Asan ni daripada parti rakyat dulu. So ada history of left, of the left. Jadi bila disebut gang of four ni dia nak imply lah yang kita orang empat ni sama macam gang of four di China.
 
-[10:16] Speaker 2: Sebenarnya, kalau dalam konteks Malaysia sekarang, Gang of Four ni peranan dia dulu adalah peranan Chaploss. Tapi dalam PKR dia tak boleh jadi Gang of Four lah. Dia kena jadi Gang of Chaploss. Banyak
+[10:00] Speaker 4: Dan itu berniat jahat sebab
 
-[10:32] Speaker 3: dia orang ni.
+[10:02] Speaker 4: gang of four ni memainkan peranan yang
 
-[10:35] Speaker 1: Baik, tanya. Kali terakhir Tak ada belanja alternatif Tak apa Kami dah ada banyak Pelan Indo Aku
+[10:04] Speaker 4: utama dalam...
 
-[10:42] Speaker 2: baca
+[10:07] Rafizi: Membodik Mao Zedong.
 
-[10:43] Speaker 1: Haa
+[10:08] Speaker 2: Membodik Mao Zedong dan juga
 
-[10:45] Speaker 2: Oh iya ke Ada pelan Indo Pelan induk dia ialah...
+[10:11] Speaker 4: Initiat, Cultural Revolution
 
-[10:50] Speaker 1: Itu lah
+[10:13] Speaker 2: Yang menyebabkan
 
-[10:51] Speaker 2: inspirasi lah tu yang wawasan
+[10:14] Speaker 2: Ramai orang kematian
 
-[10:53] Speaker 1: Induk Negara Sejahtera 2051
+[10:16] Rafizi: Sebenarnya, kalau dalam konteks Malaysia sekarang Gang of Four ni, peranan dia dulu Adalah peranan Chaplos Betul Tapi dalam PKR, dia tak boleh jadi Gang of Four Dia kena jadi Gang Gang of Chaplos Banyak dia orang Baik, tanya
 
-[10:56] Speaker 2: Dia sama lah macam mana awal-awal aku pun pelan Induk dia macam tu lah Mula-mula macam dia cerita pasal tiang rumah dulu lah
+[10:36] Haziq: La sekali... Tak ada belanja alternatif, tak apa. Kami dah ada banyak pelan Indor. Aku baca tau, dia baca tu semua.
 
-[11:06] Speaker 1: Dia cakap dalam konteks Belanjawan 2027, saya baca sekali. Pelan Induk ini menawarkan suatu kerangka dasar yang relevan untuk membaiki struktur ekonomi, ukur kedudukan fiskal, meningkatkan kesejahteraan rakyat tapi kita tak nampak apa-apa lepas itulah. Kalau Joe mungkin boleh kongsilah sebab isu berjalan jawat alternatif ni hangat juga bila bersama keluarkan orang tanya Pembangkang kenapa tak keluarkan? Sebab ada yang mungkin kata, yelah kami bukan kerajaan, kami tak ada data apa semua
+[10:45] Rafizi: Oh, iya ke? Ada pelan Indor? Pelan induk dia ialah...
 
-[11:41] Speaker 4: Actually data ada dan paling penting kena emphasize kita tak ada member of parliament pun dalam parti kita Tapi kita manage to membentangkan satu shadow budget, so kenapa diorang tak boleh buat to Syahir punya tweet. Oh, okay. So, saya ada...
+[10:50] Haziq: Pelan
 
-[12:00] Speaker 2: Kau sekarang ni pakai apa namanya? Twitter. Twitter dengan trend lah. Bahaya lah. Kau pakai bulldoze je pergi kacau semua orang.
+[10:51] Rafizi: Inspirasi lah tu yang Wawasan Indok Negara Sejahtera 2051 Dia sama lah macam mana awal-awal Aku pun pelan Indok dia macam tu Mula-mula Macam dia cerita pasal tiang rumah dululah Masa tempat tu
 
-[12:09] Speaker 4: Tak, sebab check and balance kan. Well, technically speaking, check and balance should be done by apa tu? By pihak berbangkang. Tapi pihak berbangkang kita macam tak memainkan fungsi itu. So, that's why we have to step up lah. So, kita kena step up. Faham. of Parliament pun tapi kita nak step up, kita membentangkan shadow budget dan it's very funny it's about yesterday saya pun buat satu, saya sempat buat satu forum, forum podcast dengan Ubat. So Ubat pun kata eh kenapa pelik lah pihak perbankan kita pass PN semua, kenapa tak ada shadow budget? So saya rasa You have to ask them lah kenapa
+[11:06] Haziq: Yelah, dia cakap dalam konteks Belanjawan 2027, saya baca kala. Plan Indok ini menawarkan suatu kerangka dasar yang relevan untuk membaiki struktur ekonomi, pukuh kedudukan fiskal, meningkatkan kesehatan rakyat tapi kita tak nampak apa-apa lepas itulah. Kalau Joe mungkin boleh kongsi lah sebab yelah isu berjalan-jalan alternatif ni hangat juga bila bersama keluarkan orang tanya. Pembangkang kenapa tak keluarkan? Sebab ada yang mungkin kata yelah kami bukan kerajaan kami tak ada data apa semua.
 
-[12:44] Speaker 2: tu Tak apa sebab dia ada wins 2051 Kalau dia secara berterusan macam ni dia akan jadi lose 2051 Wah lebih akronim yang hebat eh Wins lose lah 2051 Tak apalah teruskan dengan wins 2051 korang By that time entah-entah Malaysia dah jadi apa pun aku tak
+[11:41] Speaker 4: Actually data ada
 
-[13:06] Speaker 4: tahu
+[11:42] Speaker 4: dan paling penting kena emphasize kita tak ada member of parliament pun
 
-[13:07] Speaker 2: dah
+[11:46] Speaker 4: dalam parti kita.
 
-[13:08] Speaker 4: kan Tapi saya memang rasa cringe lah sebab He's the only one kan, Syaril is the only one Yang hanya ada twitter nama dia, Nomix, Economics
+[11:47] Speaker 4: Tapi kita manage to membentangkan satu shadow budget.
 
-[13:16] Speaker 1: Syahinomics Okay
+[11:50] Speaker 4: So kenapa diorang tak boleh buat? So, in fact, saya pun ada
 
-[13:17] Speaker 4: baik-baik,
+[11:53] Speaker 4: reply to
 
-[13:18] Speaker 1: habis Bobby? Dah masa 10 minit, mungkin kita pilih satu
+[11:57] Speaker 4: Syahir yang tweet.
 
-[13:21] Speaker 2: No boleh tahan Tak tahu lah Joe, you pilih lah. Since you comment this one, bagi dia menang. Ya, kena lah bagi dia menang. Lagipun sebab dia punya plan tu nama win.
+[11:58] Rafizi: Oh, okay. So, saya ada reply. Kau sekarang ni pakai, apa namanya, Twitter dengan Twitter lah. Bahaya lah. Kau pakai bulldozer pergi kacau semua orang.
 
-[13:35] Speaker 1: Okay, baik, baik, baik. Okay, baik, settle. Sebelum kita ke topik utama, kita dah okay ke sound part kan? Baiklah. Okey, baik-baik. Okey, penonton jadi teruslah menyokong kami.
+[12:08] Speaker 4: But, it's about check and balance kan.
 
-[13:55] Speaker 2: Alright. Dan kepada penonton, boleh type soalan di ruang komen itu dan insyaAllah Pak Han akan cuba pilih soalan-soalan yang bersesuaian. Kalau soalan troll itu tak payah. Baik,
+[12:11] Speaker 4: Well, technically, speaking check and balance should be done by, apa tu,
 
-[14:13] Speaker 1: kita teruskan belanjawan di tahun 2027 dan belanjawan bayangan kancil. Mungkin untuk kita mulakan YB, untuk memberikan konteks kepada semua, belanjawan ini macam-macam... Orang dengar sebab macam-macam sebab lah. Tapi apa matlamat utama, kenapa kita ada belanjawan? Apa yang ada first place tu? Saya
+[12:15] Speaker 4: by pihak berbangkang. Tapi, pihak berbangkang kita macam
 
-[14:40] Speaker 2: cakap dulu kemudian bagus juga sebelum Joe cabut lari. Ya, 9.45 ya? Eh, 9.20. Okay, okay. 5 minit lagi. So cakap sikit je, lepas tu Joe boleh bagi perspektif. Sebab memang kerja dia sebelum ini ialah menilai belanjawan negara-negara. Jepun ke ASEAN kan? Biarlah dia ada perspektif yang lain-lain Kalau macam rakyat tu dia kita telah dibiasakan dan dibudayakan yang belanjawan ni dengan gula-gula. Apa kami dapat? Yeay! Satu peratus potongan cukai! Happy! I love PMX! Dia macam tu lah daripada dulu lah. Tapi di kebanyakan negara lain sambutan rakyat kepada belanjawan tu tak adalah macam itu kan. Tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tidak, tak, tak, tak, tak, tak, tak, tak, tak, tak, tak, tak, tak, tak, tak, tak, tak, tak, tak, tak, tak, tak, tak, tak, tak, tak, tak, tak, tak, tak, tak, tak, tak, tak, tak, tak, tak, tak, tak, tak, tak, tak, tak, tak, tak, tak, tak, tak, tak, tak, tak, tak, tak, tak, tak, tak, tak, tak, tak, tak, tak, tak, tak, tak, tak, tak, tak, tak, tak, tak, tak, tak, tak, tak, tak, tak, tak, tak, tak, tak, tak, tak, tak, tak, tak, tak, tak, tak, tak, tak, tak, tak, tak, tak, tak, tak, tak, tak, tak, tak, tak, tak, tak, tak, tak, tak, tak, tak, tak, tak, tak, tak, tak, tak, tak, tak, tak, tak, tak, tak, tak, tak, tak, tak, tak, tak, tak, tak, tak, tak, tak, tak, tak, tak, tak, tak, tak, tak, tak, tak, tak, tak, tak, tak, tak, tak, tak, tak, tak, tak, tak, tak, tak, tak, tak, tak, tak, tak, tak, tak, tak, tak, tak, tak, tak, tak, tak, tak, tak, tak, tak, tak, tak, tak, tak, tak, tak, tak, tak, tak, tak, tak, tak, tak, tak, tak, tak, tak, tak, tak, tak, tak, tak, tak, tak, tak, tak, tak, tak, tak, tak, tak, tak, tak, tak, Sebab rakyat kita telah dilatih dan dibudayakan with a begging bowl. With a begging bowl. Benda tu, itu saya agak beza orang yang menyertai bersama dengan yang banyak yang lain tu. Because kita... Tidak mahu bergantung kepada orang. Yang kita minta ialah supaya kerajaan yang ada itu, satu, jangan curi duit. Kedua, jangan menyusahkan orang. Ketiga, buat tanggungjawab betul-betul. Kita tak minta apa-apa daripada dia. So, But generally lah Kalau Ya Allah kenapa pula aku ada elam pukul 9 Bahaya Sila suku elam Apa ni Kalau daripada perspektif saya Dulu lah kan dan sebahagian besar tugas saya daripada korporat ialah memang menyediakan belanjawan you know as a corporate planner, as a business planner kan dia mesti kalau belanjawan negara ni mesti ada tiga matlamat utama kan pertama ialah rakyat dan juga pasaran lah yang Joe boleh komen nanti nak melihat bagaimana kemampanan Betul. You kata you nak belanja. Okay, fair enough. Yang you umum-umum tu, you nak bayar macam mana? Sebab akhirnya kerajaan ni tak ada duit. Dia hanya ada duit kalau dia kutip cukai ataupun dia berhutang, dua-dua rakyat kena bayar. So satu ialah soal always about financial and fiscal sustainability. Yang kedua ialah apa yang mereka akan gunakan daripada hasil itu untuk menambah mutu kehidupan rakyat. Yang itu banyaklah program dan yang ketiga rakyat nak tengok ialah apa perancangan kerajaan untuk growth untuk perkembangan. Perkembangan ekonomi, pelaburan sebab itu soal pendidikan macam mana, hospital macam mana kan. So growth is important kerana Kalau ekonomi itu tidak berkembang, negara tak berkembang, yang tanggungnya rakyat, gaji tak naik lah nanti, pekerjaan tak ada dan macam-macam lah. Joe bagi opening remark sebelum dia kena campak keluar. Silakan Joe. Okay,
+[12:17] Speaker 4: tak
 
-[17:58] Speaker 4: so mungkin boleh add sikit lah. So I think based on experience kat law negara, biasanya ramai orang dia memberi Perhatian atau tumpuan kepada dasar Lebih tertumpu kepada dasar Ataupun measures yang di-announcekan Rather than benefit So kat Malaysia sini Saya rasa ada orang Memang memberi perhatian kepada Oh SDR benefit Untuk tahun ke depan How much they are going to get Berapa dia akan dapat semua di negara lain lebih kurang sebab memang jumlah itu dah terjamin ya sebab dia dah dimasukkan dalam satu akta dia dah diinstitutionalize so memang tak wujud apa itu tak wujud the need surprise announcement Santa Claus tak ada so kenapa Malaysia ada ni sebab kita punya social assistance program semuanya semua ni tidak diaktarkan so eventually people have to rely on or budget announcement Baikan
+[12:18] Speaker 4: memainkan fungsi itu.
 
-[18:56] Speaker 1: hati seorang Menteri Keuangan.
+[12:19] Speaker 4: So, that's why we have to step up lah. Jadi kita kena step up,
 
-[18:58] Speaker 4: Exactly. So, pemandu taksi kena dapat berapa, B40 boleh dapat berapa. Padahal di negara lain memang dah dijamin. So, memang that's exactly apa yang kita mencadangkan di parti bersama di mana kita... technically we have to institutionalize it. So, bolehlah at least memberi tumpuan kepada dasar rather than just benefit of SARA ataupun STR. So, okay. So, saya kena gerak dulu. Sila pergi, Joe. Okay.
+[12:22] Speaker 4: walaupun kita tak ada member of parliament pun Tapi
 
-[19:28] Speaker 2: So, betul-betul 9.20.
+[12:25] Speaker 4: kita nak step up, kita membentangkan shadow budget
 
-[19:29] Speaker 4: Okay, dan jumpa nanti pada 11. Okay,
+[12:27] Speaker 4: Dan
 
-[19:32] Speaker 1: Joe. Jumpa lagi. Jangan lama-lama. Okay, baik. Inilah
+[12:28] Speaker 4: it's very funny, it's about yesterday saya pun buat satu forum
 
-[19:38] Speaker 2: nasib aku, kalau ada partner yang lebih muda ke apa, selama dia tinggalkan aku, takkan take macam ni kan. Okay,
+[12:32] Speaker 4: Program forum podcast dengan
 
-[19:49] Speaker 1: baik Bobby, kita dah tengok pasal... Nanti jap,
+[12:33] Speaker 4: Ubat
 
-[19:52] Speaker 2: itu opening remark je. Opening
+[12:34] Speaker 4: So Ubat pun kata, eh,
 
-[19:53] Speaker 1: remark. Haa,
+[12:36] Speaker 4: kenapa pelik lah
 
-[19:55] Speaker 2: kan. So, kalau kita kembali kepada tiga perkara tadi lah. Yes, tiga perkara. Satu soal kemampanan kewangan dan ekonomi negara kan. Kedua ialah soal mutu hidup rakyat. Ketiga ialah... Pertumbuhan negara kan. So, take the first one. Kemampanan kewangan kan Macam saya sebut tadi Pusing macam mana pun rakyat akan bayar Kalau untuk zaman sekarang kan... Seseorang yang mendapat sesuatu Dia mungkin rasa itu durian runtuh untuk dialah Dan dia rasa itu adalah pemberian daripada kerajaan Sebenarnya yang membayarnya ialah orang lain Jadi sebab itu kalau tidak berhati-hati Kita akan ambil daripada satu kumpulan Dan bagi kepada satu kumpulan Itulah yang menjadi kritikan kepada Datuk Seri Anwar sejak dia jadi Menteri Kewangan lah. Sebahagiannya kerana ada persepsi Oleh kerana dia kekal dengan pendekatan lama yang diwarisi daripada pentadbiran Datuk Seri Najib pun lagi kan. Contohnya STR. Yes. STR tu asalnya BRIM. Dan daripada awal lagi, kalau kaedahnya itu ialah kerajaan mengumumkan setiap tahun dan setiap tahun diumumkan dengan lebih tinggi dan lebih tinggi tetapi dia tidak diinstitusikan seperti yang Joe kata tadi. Akhirnya, someone has got to pay. Jadi sebab itulah pembayaran itu datang daripada kutipan cukai yang diumumkan lebih tinggi dan lebih tinggi. Nanti kita tengok agaknya siapa yang bayar cukai. Yang bayar cukai itu ialah peniaga-peniaga. Sebab kita tak banyak pembayar cukai sebenarnya kan. Pembayar cukai pendapatan kita tak banyak. Kalau kita nak ambil... Logik mudah kan. Median wage, maksudnya gaji penengah di Malaysia, gaji pertengahan di Malaysia ialah RM3,000. Untuk membayar cukai, paling kurang you kena gaji close to RM5,000 sebab you nak kena tolak personal allowance kan, kemudian tolak beli buku lah, itulah ini kan. Hanya orang yang gaji RM4,000 close to RM5,000 yang bayar cukai. Sedangkan 50% daripada pekerja kita gajinya bawah RM3,000. So you can imagine... So, tax base untuk pendapatan cukai pendapatan individu ni sebenarnya agak kecil. Jadi akhirnya yang lebih besar hanya ada dua lah. Satu ialah SST dan kalau untuk cukai pendapatan yang lebih besar ialah cukai... Corporate lah. Dan sebab itu segala jenis e-invoice tak e-invoisnya lah kemudian kutip cukai sebab advance assessment Kena bayar tiap-tiap bulan lepas tu akhir tahun rupanya tak payah bayar cukai tapi dah bayar kepada LHDN Lepas tu LHDN tak bayar balik simpan duit tu lama-lama kan Itulah yang menimbulkan kemarahan orang yang menjadi tekanan di kalangan rakyat M40 dan T20. Jadi itu yang pertama kalau soal cukai. Kemudian yang lebih besar ialah sebenarnya soal hutang yang kita akan ulas dengan lebih panjang iaitu memanglah rakyat biasa kata dia tak ada kena-mengena dia. Apa sibuk-sibuk nak fikir pasal hutang semua ni kan? Ya. Tapi satu, kita kena ingat tau, kita bukan hidup sekarang ni je. Rakyat, orang sekarang ni hidup sampai umur 80-90 tahun. Kita bekerja mungkin sampai umur 60-an je. So kita ada 20 tahun lagi nak hidup ni. Masa kita hidup, kita dah tua pension, kita takkan ada pendapatan yang tinggi macam sekarang. Jadi banyak benda itu kita bergantung kepada khidmat kerajaan. Maksudnya terutamanya kesihatan. Malah kalau soal pencin ataupun soal bantuan, itu semua kena datang daripada poket orang lain iaitu poket generasi sekarang tau. Kalau kerajaan terus berhutang, Dan hutang itu telah menyebabkan bayaran faedah tahunan itu menjadi tinggi sehingga setiap Ringgit cukai ataupun pendapatan kerajaan itu Sebahagiannya dihabiskan untuk rolling hutang Untuk bayar interest kan Dan oleh kerana peraturan negara Perbelanjaan mengurus negara ini tak boleh berhutang Dia hanya didiahatkan oleh pendapatan negara Itu yang disebut sebagai ruang fiskal Jadi kalau kita tidak berhati-hati Kalau belanjawan itu tidak mampan Maka dia sebenarnya menidakkan hak masa depan untuk mendapat kehidupan yang lebih baik. Jadi, mungkinlah orang tak payah fikir, dia rasa ini bukan masalah dia. Dia sebenarnya masalah semua orang tau. Bukan masalah ahli ekonomi sahaja yang duk cakap ni kan. Kalau 10 tahun daripada sekarang, contohnya, kita ada kekangan kewangan yang mana kita tak boleh belanja beli ubat. Naya gitu Siapa yang pakcik makcik Ataupun pesakit jantung Yang kena bayar Saya tahulah Saya kena bayar ubat Saya kena bayar ubat Untuk saya Tiap-tiap bulan Untuk Yalah Keadaan kesihatan jantung saya dan juga untuk ayah saya. Tiap-tiap bulan kena bayar tau. Dan tak, yalah kami bayar lah sebab satu kami T20, keduanya sebab yalah kami pergi ke kardiologi swasta semua kan. Berat tau Kena bayar Kos tu mahal Tapi untuk orang biasa Dan juga untuk Pensioner Semua ni kan Yang itu ditanggung oleh kerajaan. Sebab itu kebelakangan ini, satu dua tahun masa saya pemerintah pun. Salah satu daripada kebimbangan yang disuarakan oleh hospital-hospital ialah kerana mereka belanja mengurus yang diberikan kepada mereka itu rasanya kecil dan tidak lagi boleh menampung jumlah pesakit yang semakin besar. Jadi contohnya, kapas-kapas semua tu, kadang-kadang dia kena pinjam tau daripada hospital lain. Sebab dia dah habis bajet untuk beli kan. Jadi benda ini bukanlah sekarang. Kita mungkin boleh pentingkan diri kata, asalkan kami dapat, Tak apa Tapi sebenarnya Pusing ke mana pun Satu hari nanti Dia akan menjadi ancaman Kepada setiap keluarga Malaysia Yang kedua Yang pasal mutu hidup rakyat Ya Rakyat akan minta kalau di Malaysia ini ialah macam mana kerajaan ingin menurunkan kos sehari hidup. Agaknya macam mana kerajaan, apa yang rakyat harap untuk kerajaan menurunkan kos sehari hidup.
+[12:37] Speaker 4: Pihak pembangkang kita PAS, PAS, semua
 
-[28:17] Speaker 1: Seperti apa yang diumumkan dekat belanjawan tadi lah kot. Which is? Apa ni tolong kurangkan cukai kami, kalau ada sedikit wang tambahan boleh bagi kepada kami supaya kami boleh bernafas lega, tak adalah kami kena ikat perut.
+[12:39] Speaker 4: Kenapa tak ada shadow budget?
 
-[28:30] Speaker 2: Hmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm Apa lagi yang kerajaan boleh buat?
+[12:41] Speaker 4: So saya rasa
 
-[28:35] Speaker 1: Kalau yang betul-betul ke?
+[12:42] Speaker 4: You have to ask them lah Kenapa
 
-[28:37] Speaker 2: Yelah kalau kau jadi Menteri Kewangan. So apa lagi yang patut kajian buat?
+[12:44] Rafizi: tu Tak apa sebab dia Ada Wins 2051 Kalau dia secara berterusan macam ni Dia akan jadi Loose 2051 YB Akronim yang hebat Wins Loose lah 2051 Tak apalah Teruskan dengan Wins 2051 korang By that time Entah entah Malaysia dah jadi apa pun aku tak tahu Tapi saya memang rasa cringe lah He's the only one kan, Syahriah is the only one
 
-[28:42] Speaker 1: Saya kaitiru ayat YB lah. Kita kena ubah struktur.
+[13:12] Speaker 4: Yang hanya ada
 
-[28:45] Speaker 2: Apa maksud ubah struktur tu?
+[13:14] Speaker 4: Twitter, nama dia Nomics, ekonomics
 
-[28:47] Speaker 1: Maksudnya kita kena tengok macam mana kita berbelanja tu. Kita tengok adakah... Kita berbelanja tu sekadar apa macam Dia tengah
+[13:16] Haziq: Syahriah Nomics Baik-baik, habis YB Dah masa 10 minit, mungkin kita pilih satu
 
-[28:57] Speaker 2: pusing tau, dia tengah cari akal macam mana nak menjawab soalan ni
+[13:22] Rafizi: Boleh tahan Tak tahulah Joe, you pilih lah. Since you comment this one, bagi dia menang. Ya, kenalah bagi dia menang. Lagipun, sebab dia punya plan tu nama win.
 
-[29:01] Speaker 1: Bakar duit maksudnya sekali guna ataupun satu Kita punya expenditure tu boleh serve banyak tujuan Contohnya kita bagi duit untuk allow anak tu kan Kita selesaikan banyak masalah ekonomi Rather than kita spend kepada blanket subsidi
+[13:35] Haziq: Okey, baik-baik-baik. Okey, baik settle. Sebelum kita ke topik utama, kita dah okey ke? Sound part kan? Menter, menter. Okey. Okey. Okay, baik-baik-baik. Okay, penonton, jadi teruslah menyokong kami. Alright.
 
-[29:18] Speaker 2: Itu sebenarnya masih lagi satu kaedah iaitu kaedah bagi duit
+[13:56] Rafizi: Dan kepada penonton, boleh type soalan di ruang komen itu dan insyaAllah Pa'an akan cuba pilih soalan-soalan yang bersesuaian. Kalau soalan troll itu tak payah.
 
-[29:22] Speaker 1: Kaedah bagi duit
+[14:12] Haziq: Okay, baik. Kita teruskan Belanjawan 2027 dan Belanjawan Bayangan Kancil. Mungkin untuk kita start YB, to give context kepada semua. Yalah, Belanjawan ni macam-macam... Orang dengar sebab macam-macam sebab lah. Tapi apa matlamat utama? Kenapa kita ada belanjawan at the first place tu?
 
-[29:24] Speaker 2: Itu masih lagi kesan. Dia... Bila rakyat kita bercakap tentang menurunkan kos sehari hidup kan? Kursus ini, ia mempunyai dua sisi, dua sisi koin yang sama. Ambil side yang pertamalah yang jarang hendak disentuh. Dia soal pendapatan. Soal pendapatan, soal gaji, soal pekerjaan. Saya pernah cakap contohnya kalau di US kan. Tapi sekarang ni semua mengalami masalah yang sama di dunia kan. Tapi masa orang kata Pax Americana, Golden Age of America, 1950s, 1960s masa baby boomer kan. Seorang yang hanya keluar sekolah menengah. Dia kerja kilang sebagai operator sahaja. Dia sebenarnya mampu untuk membeli rumah, bungalow sebiji, kereta, pergi bercuti dan hantar anak-anak dia ke universiti. Bayar anak-anak dia ke universiti. Sebabnya ialah pada ketika itu, on the income side, income itu strong. Dan dia mampu untuk bayar itulah. Jadi income ini ialah soal yang bersabit dengan perkara struktur. Jadi kalau nak memastikan gaji rakyat itu baik sebab itu dia kena ada contohnya sistem di antara pekerja dengan majikan yang kuat. Supaya majikan ada timbal balik dengan pekerja dan kenaikan gaji itu selaras. Kedua, Soal skruptur ialah soal produktiviti ekonomi So kalau ekonomi sesebuah negara itu Produktivitinya tinggi Dan yang ini saya ulang berkali-kali tau Walaupun yang last kali itu Aku duk tanya korang pasal produktiviti semua kan Saya baca komen-komen tau Orang yang komen tu kan Kebanyakan komen masih lagi menyentuh produktiviti dari segi kecekapan Macam kalau instead of buat 5 mesin dalam 1 jam dia buat 10 mesin dalam 1 jam Itu yang dalam kepala kita lah produktif-produktiviti Output lebih banyak dalam masa Soalnya output lebih banyak kan Tapi sebenarnya Productivity dalam zaman ini adalah jauh lebih besar daripada soal cekap melakukan sesuatu perkara yang sama. Productivity itu maknanya jangan buat benda yang duit tak banyak. Buat benda lain. Itu maksudnya productivity. Duit tak banyak. Contohnya, kalau kita... Buat ekonomi kita banyaknya contohnya lah pertanian Pertanian tu cakap macam mana pun Kalau jual tu raw commodity Harga dia tetap macam tu lah You pasang robot pun untuk kait buah Walaupun produktiviti dia lebih baik daripada berbanding manusia lah kan sebab dia robot kan. Tapi akhirnya nilai yang jual CPO tu, buah kelapa sawit mentah tu, tandan kelapa sawit mentah tu, dia masih lagi sama. Jadi negara-negara lain dia buat macam mana? Dia tak buat dah benda tu. Dia buat robot. Jadi sama macam di US kan. Sebagai contoh yang baik US lah kan. Sebenarnya US ni manufacturing output dia dah sangat merudum Dia tak boleh lawan China Tapi tengok tak GDP dia tetap naik tinggi Dan masih lagi yang terbesar di dunia Dan productivity dia memang tinggi Apa dia buat?
+[14:39] Rafizi: Saya cakap dulu kemudian bagus juga sebelum Joe cabut lari. Ya, 945 ya? Eh, 920 lah. Okey, okey, okey. 5 mil lagi. So cakap sikit je, lepas tu Joe boleh bagi perspektif. Sebab memang kerja dia sebelum ini ialah menilai belanjawan negara-negara. China ke Korea ke Jepun ke ASEAN biarlah dia ada perspektif yang lain-lain lah kalau macam rakyat tu, kita telah dibiasakan dan dibudayakan yang belanjawan ni dengar gula-gula. Apa kami dapat? Yeay, 1% potongan cukai. Happy, I love PMX. Jadi macam tu lah, daripada dulu lah. Tapi dikebanyakkan negara lain, sambutan rakyat kepada belanjawan tu tak adalah macam itu kan. Type dia tak macam ni. dia sebahagiannya sebab Sebab rakyat kita telah dilatih dan dibudayakan with a bagging bowl. With a bagging bowl, benda tu. Itu saya agak beza orang yang menyertai bersama dengan yang banyak yang lain tu. Because kita... Tidak mahu bergantung kepada orang yang kita minta ialah supaya kerajaan yang ada tu satu jangan curi duit, kedua jangan menyusahkan orang, ketiga buat tanggungjawab betul-betul, kita tak minta apa-apa daripada dia, kan? So... But generally lah Kalau Ya Allah kenapa pula aku ada elam pukul 9 Bahaya Sila suku elam kan Apa ni Kalau daripada perspektif saya dulu lah kan Dan sebagian besar tugas saya daripada korporat ialah memang menyediakan belanjawan. You know, as a corporate planner, as a business planner kan. Dia mesti kalau belanjawan negara ni mesti ada tiga matlamat utama kan. Pertama ialah rakyat dan juga pasaran lah yang Joe boleh komen nanti nak melihat bagaimana kemampanan. Betul. You kata you nak belanja, okay, fair enough. Yang you umum-umum tu, you nak bayar macam mana? Sebab akhirnya kerajaan ni tak ada duit. Dia hanya ada duit kalau dia kutip cukai ataupun dia berhutang, dua-dua rakyat kena bayar. So satu ialah soal always about financial and fiscal sustainability. Yang kedua ialah apa yang mereka akan gunakan daripada hasil itu untuk menambah mutu kehidupan rakyat. Yang itu banyaklah program semua. Dan yang ketiga rakyat nak tengok ialah apa perancangan kerajaan untuk growth untuk perkembangan, perkembangan ekonomi, pelaburan sebab itu soal pendidikan macam mana, hospital macam mana kan. So growth is important kerana Kalau ekonomi itu tidak berkembang, negara tak berkembang, yang tanggungnya rakyat. Gaji tak naik lah nanti, pekerjaan tak ada dan macam-macam lah. Joe bagi opening remark sebelum dia kena campak keluar. Silakan Joe. Okay. So mungkin boleh add sikit lah.
 
-[33:30] Speaker 1: Negara yang didorong
+[18:00] Speaker 4: So I think based on experience dengan law negara,
 
-[33:32] Speaker 2: Dalam high value production tu maksudnya So contohnya lah 5-6 syarikat terbesar di dunia ni Semua daripada US Dia buat Google sebiji Google buat benda yang tak pernah dibuat oleh orang Korang faham lah Google kan. Sama macam sekarang OpenNI buat chat GPT, Entropic buat clot. Benda yang tak pernah dibuat oleh siapa-siapa, satu dunia kena beli daripada dia. Jadi pekerja yang terlibat tu sikit je tapi nilai kepada ekonominya tinggi kan. Jadi itu yang disebut sebagai complexity of economy. Jadi productivity di Malaysia ini, dia belum ada anjakan yang menjadi tumpuan kerajaan. Bukan saya ingat, pemerhatian saya. Setiap kali orang bercakap mengenai produktiviti Orang cakap pasal membuat sesuatu yang sama dengan lebih cekap Actually it's not You have to leave that sunset industry And go and do something else altogether Yang menawarkan nilai yang lebih tinggi Benda tu tak boleh berlaku sendirilah Jadi awal-awalnya dia perlukan kerajaan. Mungkin early investments kerajaan kena buat semua kan. So that is on the income side. Dan kalau tengok kan semuanya itu... Semuanya adalah structural yang tidak boleh diselesaikan dengan hanya gula-gula kerajaan. Dia perlu overhaul of the economy secara dasar, secara besar-besaran lah. That is on the income. On the cost side, rakyat. Bila dia kata... turunkan kos, apa ni turunkan kos sehari hidup, dia suruh kerajaan turunkan harga lah kan. Turunkan harga barang. So, not that easy lah untuk kerajaan turunkan dan I always believe that sebenarnya asalkan inflasi itu terkawal. Maksudnya, inflasi dalam, inflasi purata. keseluruhan dalam 2%, inflasi makanan itu dalam 4% ke 5%, then to me that's okay kan. So, you tak boleh nak expect Harga nasi lemak sebelum tu RM10 tiba-tiba turun RM5. Selalunya tak jadilah sebab orang bila dah jual pada satu harga tu dia dah semua cost structure tu is build around that price. So untuk dia menurunkan kecuali Kalau dia ada kapasiti untuk reach the scale, yang instead of buat 10 barang, tiba-tiba dia boleh buat 100 barang dalam masa yang sama kan. So, cost is quite difficult untuk diturunkan so long as inflation itu... Boleh dikekalkan kan Tapi orang kita Dia nak suruh harga tu Harga barang tu turun So apa yang kerajaan duk buat sekarang ni
+[18:03] Speaker 4: biasanya ramai orang
 
-[36:39] Speaker 1: Kerajaan bagi Subsidi blanket Untuk round 95 Itu satulah Lagi
+[18:04] Speaker 4: dia memberi
 
-[36:49] Speaker 2: Not really, itu bukan soal kos harga barang Turunkan bilik elektrik Itu lebih kepada cash transfer untuk direct assistance More like social safety Cuma it's not institutionalized Dan dia jadi bahan gula-gula Dan dia banyak inclusion and exclusion error Pasal kos harga barang ni Sebenarnya apa satu-satunya kerajaan buat Berapa sangat ada Berapa berkesan sangatnya Price control adalah gula Minyak Minyak Lagi apa dia lagi
+[18:06] Speaker 4: perhatian atau tumpuan kepada dasar,
 
-[37:26] Speaker 1: Price catcher
+[18:09] Speaker 4: lebih tertumpu kepada dasar ataupun
 
-[37:27] Speaker 2: Okay tak I'm not
+[18:11] Speaker 4: measures yang di-announce rather than
 
-[37:29] Speaker 1: immune Tapi memang buat lah Cubaan dia kan Sebab mood will be okay Okay Haa
+[18:14] Speaker 4: benefit.
 
-[37:38] Speaker 2: Tak, dia akhirnya kalau tengok di bawah kerajaan madani ni, akhirnya tengok apa yang dia buat. Dia buat jualan rahmah. Dia buat jualan rahmah daripada bajet 100 juta. Sekarang bajet dah jadi berapa? 700 juta. I think RM600-700 juta lah Apa masalah kalau buat jualan rahmah Jualan rahmah as a band aid Okey lah, you tak payah nak bergaduh lah Kalau dia hanya program sekali-sekala Tetapi dia tak akan mengubah struktur yang mempengaruhi kos sehari hidup Sebabnya satu ialah you tak boleh buat Jualan rahmah ni di merata-rata all the time.
+[18:15] Speaker 4: So,
 
-[38:20] Speaker 1: Ya.
+[18:15] Speaker 4: kat Malaysia sini saya rasa ada orang memang memberi perhatian kepada
 
-[38:22] Speaker 2: Yang keduanya ialah jualan rahmah itu does not change the cost structure.
+[18:19] Speaker 4: SDR benefit
 
-[38:28] Speaker 3: Hmm.
+[18:20] Speaker 4: untuk tahun
 
-[38:29] Speaker 2: Dia hanya bagi, dia beli daripada pembekal atau penjual tu pada harga yang biasa. Kemudian dia jual murah kepada rakyat. Rakyat pun pergi berebut siapa yang dapat peluang lah. Jadi akhirnya siapa yang paling untung dalam jualan rahmat? Orang yang jual barang tu lah. Vendor. Oh this vendor lah. Vendor memang happy lah daripada peruntukkan 100 juta Kalau dah jadi 600 juta kan Jadi akhirnya Kalau tidak berhati-hati Bila belanjawan itu... telah dibiasakan sebagai belanjawan yang hanya pengumuman-pengumuman Maka satu ialah dia tak tackle head on di root cause of the problem. Jadi harga barang tu tak turun lah. Keduanya ialah dia distort lah kerana hanya sesetengah orang saja yang dapat berpeluang kan. Sebab tu lama-lama orang marah. Orang kata duk, bila nak tuang ke barang, bila nak tuang ke barang. So, what is the structural way of managing especially food prices ni? Production. Production. It's production. It's production. It's basically distribution channel. Kan? Yang itu ada kita dengar. Kerajaan setahun demi setahun. You know, bila kita buat IPR Intan tu, is a subtle way to try to encourage kerajaan. Sebab kalau aku lebih-lebih, dia kata, kau bukan menteri pertanian. Hmm. Sedangkan kita dah kata dah we have to modernize our farming and also shift considerably to food production. Dan you takkan boleh turunkan harga dengan cepat kalau you tak boleh increase production. You tak boleh increase production kalau cara kita menanam masih lagi macam dulu. Maka cara kita menanam, menguruskan food production ini mestilah dengan cara modern so that dia ada economies of scale. Kan? Tapi ya lah. Jadi itu sebagai contoh lah kalau macam mana. untuk kita menilai belanjawan setiap tahun actually you kena tengok what are the Structural intervention daripada belanjawan itu Yang akan menyelesaikan masalah Permanently Dia bukan band aid. Bila dia band aid, masalah tu tak selesai. Dia macam Panadol lah. You pening makan Panadol sebijik. Oh tak, tak habis pening. Apa nama ni makan dua bijik, makan tiga bijik. Lama-lama ada side effect yang lain lah.
+[18:21] Speaker 4: ke depan, how much they are going to get, how much they are going to get, how much they are going to get, how much they are going to get,
 
-[41:22] Speaker 1: Habis talk Panadol tadi. Habis.
+[18:25] Speaker 4: In other countries,
 
-[41:24] Speaker 2: What's that?
+[18:27] Speaker 4: lesser sebab
 
-[41:25] Speaker 1: Okay.
+[18:28] Speaker 4: memang amount itu
 
-[41:26] Speaker 2: Kita pasal bajet ni dah. Ya, wrong
+[18:29] Speaker 4: dah terjamin.
 
-[41:33] Speaker 3: mood.
+[18:30] Speaker 4: Yes, but
 
-[41:34] Speaker 2: So
+[18:31] Speaker 4: dia dah
 
-[41:35] Speaker 3: apa nama ni,
+[18:32] Speaker 4: dimasukkan dalam satu akta.
 
-[41:38] Speaker 2: tengok habis aku punya train of thought. Okay saya dah buat dah So saya nak kena apa nama ni pendamkan apa yang saya nak cakap kat Haziq tu di dalam sambil saya senyum kalau tidak nanti orang kata Haziq kena bully kan dan yang ketiga orang tengok especially kalau Joe, Annalise semuanya lah Dia nak tengok sebenarnya What are the Structural intervention For growth Jadi kalau macam Malaysia ni Dan dalam ekonomi ni kan dia ada banyak perkara lah Satu dia ada distortion, herutan Contoh yang baik ialah subsidi lah Kalau kita bercakap pasal subsidi kan Subsidi bahan api contohnya kan. Yang selalu disebut-sebut ialah wang negara subsidi RM40 bilion, RM60 bilion untuk kekalkan harga kan. Walaupun itu bukan soalan ekonomi sebenar. Apakah diskursi struktural sebenar tentang harga minyak di Malaysia?
+[18:34] Speaker 4: Dia dah de-institutionalise.
 
-[43:02] Speaker 1: Err... Flatuation dia? Hmm... No...
+[18:37] Speaker 4: So memang tak wujud,
 
-[43:06] Speaker 2: Pan? Boleh lah kau nak buat lawa-lawa bodoh Tapi kau kena Cuba dapatkan yang berkualiti sedikit
+[18:39] Speaker 4: apa tu, tak wujud
 
-[43:15] Speaker 5: Okay. What was the question again? Sorry, saya
+[18:41] Rafizi: the need. Surprise announcement. Santa Claus tak ada.
 
-[43:18] Speaker 2: tengah baca komen. Okay. No, no, okay. Contohnya, kita cakap pasal growth kan? Ya. So, bila orang menilai belanjawan sesuatu negara, dia nak tengok macam mana you fix the structure of the economy supaya boleh berkembang. Dan satu perkara yang perlu diselesaikan ialah distortion in the economy. Herutan dalam ekonomi lah. Jadi kalau benda yang selalu dibincangkan dan selalu dilihat bertahun-tahun bila orang menilai dasar kerajaan Malaysia ialah distortion in round 95 semua ni lah. So what exactly is the distortion?
+[18:45] Speaker 4: So kenapa Malaysia ada ni? Sebab kita punya social assistance program,
 
-[44:03] Speaker 5: Our subsidy bill per year?
+[18:49] Speaker 4: semua ni tidak diaktakan.
 
-[44:05] Speaker 2: Well, itu yang selalu dibincangkan lah pasal subsidy bill dan sebagainya kan. But that is one level of inefficiency lah kerana kita misallocate daripada benda yang sepatutnya boleh lebih productive, you just allocate kepada consumption yang semata-mata. What is even the deeper distortion daripada itu?
+[18:51] Speaker 4: So eventually people have to rely on
 
-[44:31] Speaker 1: Apa ni dia punya... Tersasar dia punya... Uh... Apa kita maksud? Keterisan?
+[18:53] Haziq: budget announcement, Kebaikan hati seorang Menteri Kewangan
 
-[44:41] Speaker 2: No, no. Itu still daripada soal allocation of money. Bagaimana dengan Ron 95 dan bahan api itu sendiri yang sangat terganggu di Malaysia?
+[18:59] Speaker 4: So pemandu teksi kena dapat berapa
 
-[44:54] Speaker 5: Saya akan melihat... berapa banyak yang sebenarnya kita perlukan I mean in terms of volume and all that
+[19:01] Speaker 4: B40
 
-[45:01] Speaker 2: Yelah consumption lah Consumption The biggest distortion Yelah Energy consumption dalam negara kita Kan So sebab RON95 tu Lebih murah daripada air mineral Sebab itu semua orang nak pakai kereta Sebab itu juga partly contohnya kenapa susah nak buat public transport. Sebab buat public transport orang tak pakai. Sebab dia ada kereta semua kan. Dia ada kereta tu because operating cost is cheap kan. So... Bila you consume more than you need, dia akan jadi membazir lah. And membazir itu dalam mana-mana ekonomi is very dangerous. Especially so dalam keadaan sekarang atas beberapa sebab utama. Satu ialah kerana... Kita dah jadi pengimport bersih. Refine product. Refine product. Haa. Struktur dan keadaan masyarakat dan ekonomi kita sebenarnya telah berubah. Dulu kita boleh kata, sebab minyak kita murah, kita banyak minyak. Sebenarnya itu tidak lagi berlaku. Jadi, kalau sesuatu perkara itu pada kos benar dan kos itu mahal, anda hanya akan pakai atau beli apabila perlu dan berpada-pada. distorted. Then your consumption also distorted. Yang kedua kenapa dia berbahaya ialah kerana of the geopolitical situations in the world.
+[19:02] Speaker 4: boleh dapat berapa
 
-[46:46] Speaker 1: Yang harga fluctuate tadi
+[19:03] Speaker 4: Padahal di negeri lain memang dah dijamin
 
-[46:47] Speaker 2: tu. Harga fluctuate tak apa, harga tinggi. Kalau harga fluctuate dia jatuh tu aku okey je lagi kan, harga tinggi. For the CEO of Aramco beritahu, you know for the foreseeable future dia tak nampak harga akan kembali ke 50 ke 60 dolar. So dia fluctuate macam tu lah, 90, 100, 80 lebih semua kan. Lino Tegus, kalau $90 per barrel, Subsidi RON95 ni Dia akan jadi dalam RM40 bilion lebih
+[19:05] Speaker 4: So
 
-[47:20] Speaker 3: Haa
+[19:06] Speaker 4: memang
 
-[47:21] Speaker 2: Kan So Haa Dan untuk mengubah Consumption behavior Sesuatu ekonomi Sesuatu masyarakat Itu tak mudah Dia ambil masa yang panjang Dia sama macam orang kita Mandi Ya Sebenarnya kat luar negara kan, ni mungkin orang ramai mungkin tak ada pengalaman. Tak ada pengalaman lah. Eh orang lain tak mandi, air banyak-banyak kita. Sebab air kat Malaysia murah, sebab air mahal. Jadi memang dia mandi berpada-pada lah. Dia tak macam kita kan. Dia sama gula. Gula Malaysia subsidi Punyalah tinggi So kita semua Manis tak mampus Orang lain tak Jadi Benda itu sebenarnya Kita sedia maklum Benda itu berlaku Kan Jadi Sebab itu Bila ada belanjawan Dia akan tengok benda-benda yang structural macam itu. What is government's measures to remove consumption distortions dalam masyarakat? Kemudian dia tengok pula kepada growth. idea and creativity. So ambil contoh yang baik saya ingat Korea dengan Taiwan and of course lah kalau nak bagi contoh China lah tapi masalahnya bagi contoh China semua dia buat kan. Taiwan in the 70s kan. Kamu tahu, SMC itu. Perkongsian Semi-Konduktor Taiwan Contohnya lah Taiwan ni negara miskin Dalam 60-an Dia selepas Chiang Kai-shek Mengalah dengan komunis Dia bawa 3 juta penyokong dia Seberang pergi ke Taiwan So you know It has more manufacturing here and there Kemudian, you know, largely dia agrarian society pun
+[19:06] Speaker 4: that's exactly Apa yang kita
 
-[49:31] Speaker 3: kan.
+[19:08] Speaker 4: mencadangkan Di parti bersama di mana kita
 
-[49:31] Speaker 2: Sebab tu pertanian dia bagus sampai sekarang kan. Kemudian in the early 70s, ini yang menukar sebahagiannya, menukar masa depan Taiwan kan. I can't remember TSMC punya founder. Cuba google nama dia. TSMC punya founder. If I'm not mistaken, Dia Atu Dulu is Chief Engineer for Texas Instruments. Maurice Chang. Maurice Chang. Kan? Dia is chief engineer dekat Texas Instrument kan, dekat US kan. That's correct kan? Betul.
+[19:11] Speaker 4: technically, we have to institutionalize it.
 
-[50:07] Speaker 3: Hmm.
+[19:14] Speaker 4: So,
 
-[50:08] Speaker 2: Tapi dia... Tak pernah naik lah Sebab dia Cina kan
+[19:15] Speaker 4: bolehlah
 
-[50:12] Speaker 3: Hmm
+[19:17] Speaker 4: at least
 
-[50:14] Speaker 2: So kerajaan Taiwan actually jemput dia tau And bantu dia with everything semua untuk dia memulakan TSMC, Taiwan Semiconductor Corporation. Untuk buat chip fabrication. Ni tahun 70-an tau. Dia punya foresightedness. Bear in mind, Intel mula-mula wujud in mid to late 60s. Maksudnya, early 70s ni, konsep semiconductor ni pun orang tak faham. Dia nak pergi Taiwan ni, dia nak pergi buat fabrication tu, wafer fabrication kan. Kalau tak kena TSMC semua tu, you tak ada lah Taiwan yang ada sekarang ni. Kerana akhirnya, TSMC menjadi joggernaut, hampir monopoli pembentukan wafer. Dan kelebihan itu oleh kerajaan Taiwan pada masa itu, yang menyediakan landasan sampai Taiwan sekarang. You know kita kan, kerajaan Malaysia kan, kita duduk tepuk. Bagusnya lah pertumbuhan ekonomi yang di luar jangkaan bagi tahun 2026 sebab lebih kurang 5.6%. Guess pertumbuhan ekonomi Taiwan untuk jangkaan 2026 ni. Kira-kira 12.7%. Hmm Bukan sahaja double, more than double Malaysia. Sebabnya bila ada AI boom, maka yang paling mendapat laba ni is of course TSMC dan juga Taiwan. So berbalik kepada cerita belanjawan ni kan, jadi sepatutnya setiap belanjawan itu dia kena nilai tiga perkara tadi. Satu soal kesan dan kejayaan kerajaan yang membentangkan belanja awan itu untuk mengukuhkan kemampanan dan kedudukan ekonomi. kedudukan kewangan untuk tempoh akan datang. Benda-benda yang akan dilihat ialah berapa banyak hasil, berapa banyak perbelanjaan dan yang paling penting berapa banyak bayar interest. Itu satu. Yang kedua ialah soal bagaimana kerajaan menggunakan wang yang dikutip daripada rakyat itu untuk menaikkan mutu. Yang ini yang orang selalu tunggu gula-gula lah kan Dan yang ketiga ialah bagaimana belanjawan itu membina asas pertumbuhan ekonomi yang lebih cepat dan lebih rancak untuk masa akan datang
+[19:18] Speaker 4: memberi tumpuan kepada dasar
 
-[52:54] Speaker 1: Okay, itu bercakap tentang tiga matlamat utama lah Dan kita, ialah satu matlamat Satu lagi adalah sebenarnya nak tengok juga macam mana Tak ada
+[19:20] Speaker 4: rather than just benefit
 
-[53:06] Speaker 2: soalan ke? Apaan?
+[19:21] Speaker 4: of
 
-[53:08] Speaker 1: Ya ada tapi later on lah Apa ni proses kerajaan dalam membuat bajet ni sebenarnya Apa yang kerajaan refer bila bajet tu dibuat dan unjuran tu secara tahunan semua Dan mungkin consideration-consideration yang kerajaan ambil dalam membuat
+[19:22] Speaker 4: SARA ataupun SDR.
 
-[53:28] Speaker 2: Saya tak tahulah berapa ramai orang, ialah tak ramai orang yang pernah menguruskan belanjawan kan. Bukan sahaja belanjawan negara, belanjawan syarikat pun tak ramai orang buat kan. Belanjawan ni By and large terutamanya kerajaan Malaysia lah By and large dia bottom up process
+[19:24] Speaker 4: So,
 
-[53:53] Speaker 3: Hmm
+[19:24] Speaker 4: okay. So, saya kena gerak dulu.
 
-[53:55] Speaker 2: Jadi kita duduk sibuk belanjawan 20% 27 ni kan Yes Proses untuk buat belanjawan 2028 tu dah nak bermula dah. Jadi dia bermula dengan jabatan-jabatan Kemudian mereka akan menyediakan berapa dia nak belanja Dia nak buat apa Kemudian mereka akan memikirkan Apa inisiatif-inisiatif yang dia nak buat So dia tengok Kalau yang bersabit dengan infrastruktur tu dia nak bina apa. Kalau JKR lah dia decide lah dia nak bina jalan manalah, bangunan manakah. Macam wishlist ke? Tidak, tidak. Ini bukan senarai keinginan, sayang. Itu part and parcel of kerja dia lah. So kalau contohnya JKR.
+[19:26] Speaker 4: Sila pergi, Joe.
 
-[54:46] Speaker 3: Kan. Hmm.
+[19:28] Rafizi: So, betul-betul 9.20. Okay, dan jumpa nanti pada tahun 11. Okay, Joe, jumpa lagi.
 
-[54:47] Speaker 2: Dia ada dalam perancangan dia. Satu ialah jalan yang belum dinaik taraf. Satu contohnya, jalan-jalan yang sekarang ini mungkin sudah mengalami kesesakan teruk yang perlu diperluaskan. Satu mungkin dia tengok perlukan leburaya baru kan. So benda itu memang ada running plan dia. So dia tengok tahun ini yang mana pula kita nak buat. So proses itu bermula daripada bawah. Samalah juga dengan Kementerian Kesihatan. Dia tahulah hospital mana yang perlu dinaik taraf. Kawasan mana yang capaian khidmat kesihatan itu tak sampai lagi. Perlukan mungkin klinik kelas 5 ke kelas 4 ke kelas 3 ke. Dia tengoklah. So dia ada proses itu semua kan. Jadi semua ini disusun dan dia akan melalui peringkat-peringkat-peringkat. Sampailah di peringkat kementerian.
+[19:34] Haziq: Jangan lama-lama. Okay, baik.
 
-[55:47] Speaker 4: Hmm.
+[19:38] Rafizi: Inilah nasib aku, kalau ada partner yang lebih muda ke apa, selama dia tinggal kaku terkotak-kantik macam ni kan
 
-[55:48] Speaker 2: Dan daripada peringkat kementerian itulah dibawa kepada kementerian kewangan. Kementerian kewangan itu ialah untuk mendapatkan kelulusan belanja mengurus. Ini termasuklah manning dia berapa. Manning itu berapa dia nak tambah orang ke apa. Selain daripada kementerian kewangan, dia kena dapat kelulusan GPA jugalah.
+[19:48] Haziq: Okay, baik YB, kita dah tengok pasal Nanti jap, itu opening remark
 
-[56:07] Speaker 4: Hmm.
+[19:55] Rafizi: So, kalau kita kembali kepada tiga perkara tadi lah Yes, tiga perkara Satu soal kemampanan kewangan dan ekonomi negara kan Kedua ialah soal mutu hidup rakyat Ketiga ialah Pertumbuhan negara kan. So, take the first one. Kemampanan kewangan, macam saya sebut tadi, pusing macam mana pun rakyat akan bayar. Kalau untuk zaman sekarang kan seseorang yang mendapat sesuatu Dia mungkin rasa itu durian runtuh untuk dia lah Dan dia rasa itu adalah pemberian daripada kerajaan Sebenarnya yang membayarnya ialah orang lain Jadi sebab itu kalau tidak berhati-hati Kita akan ambil daripada satu kumpulan dan bagi kepada satu kumpulan Itulah yang menjadi kritikkan kepada Datuk Seri Anwar sejak dia jadi Menteri Kewangan lah. Sebahagiannya kerana ada persepsi yang oleh kerana dia kekal dengan pendekatan lama yang diwarisi daripada pentadbiran Datuk Seri Najib pun lagi kan. Contohnya SDR. Yes. STR itu asalnya BRIM dan daripada awal lagi kalau kaedahnya itu ialah kerajaan mengumumkan setiap tahun dan setiap tahun diumumkan dengan lebih tinggi dan lebih tinggi tetapi dia tidak diinstitusikan seperti yang Joe kata tadi. Akhirnya, someone has got to pay. Jadi sebab itulah pembayaran itu datang daripada kutipan cukai yang diumumkan lebih tinggi dan lebih tinggi. Nanti kita tengok agaknya siapa yang bayar cukai. Yang bayar cukai itu ialah peniaga-peniaga. Sebab kita tak banyak pembayar cukai sebenarnya, kan? Pembayar cukai pendapatan, kita tak banyak. Kalau kita nak ambil... Logik mudah. Median wage, maksudnya gaji penengah di Malaysia, gaji pertengahan di Malaysia ialah RM3,000. Untuk membayar cukai, paling kurang you kena gaji close to RM5,000 sebab you nak kena tolak personal allowance, kemudian tolak beli bukulah, itulah ini kan. Hanya orang yang gaji RM4,000 close to RM5,000 yang bayar cukai Sedangkan 50% daripada pekerja kita gajinya bawah RM3,000 So you can imagine Teks base untuk pendapatan cukai, cukai pendapatan individu ni sebenarnya agak kecil. Jadi akhirnya yang lebih besar hanya ada dua lah. Satu ialah SST dan kalau untuk cukai pendapatan yang lebih besar ialah cukai SST. corporate lah. Dan sebab itu segala jenis e-invoice tak e-invoisenya lah, kemudian kutip cukai sebab advance assessment, kena bayar tiap-tiap bulan, lepas tu akhir tahun rupanya tak payah bayar cukai. Tapi dah bayar kepada LHTN. Lepas tu LHTN tak bayar balik. Simpan duit tu lama-lama kan. Itulah yang menimbulkan kemarahan orang yang menjadi tekanan di kalangan rakyat M40 dan T20. Jadi itu yang pertama kalau soal cukai. Kemudian yang lebih besar ialah sebenarnya soal hutang yang kita akan ulas dengan lebih panjang iaitu memanglah rakyat biasa kata dia tak ada kena mengena dengan dia. Apa sibuk-sibuk nak fikir tentang hutang semua ni kan. Tapi satu, kita kena ingat tau, kita bukan hidup sekarang ni je. Rakyat, orang sekarang ni hidup sampai umur 80-90 tahun. Kita bekerja mungkin sampai umur 60-nya. So kita ada 20 tahun lagi nak hidup ni. Masa kita hidup, kita dah tua pencin, kita takkan ada pendapatan yang tinggi macam sekarang. Jadi banyak benda itu kita bergantung kepada khidmat kerajaan. Maksudnya terutamanya kesihatan. Malah kalau soal pencen ataupun soal bantuan, itu semua kena datang daripada poket orang lain iaitu poket generasi sekarang tahu. Kalau kerajaan terus berhutang... dan hutang itu telah menyebabkan bayaran faedah tahunan itu menjadi tinggi sehingga setiap Cukai ataupun pendapatan kerajaan itu Sebahagiannya dihabiskan untuk rolling hutang Untuk bayar interest kan Dan oleh kerana peraturan negara perbelanjaan mengurus negara ini tak boleh berhutang. Dia hanya dihadkan oleh pendapatan negara. Itu yang disebut sebagai ruang fiskal. Jadi kalau kita tidak berhati-hati, kalau ekonomi itu, belanjawan itu tidak mampan, maka dia sebenarnya menidakkan hak masa depan untuk mendapat kehidupan yang lebih baik. Jadi mungkinlah orang tak payah fikir. Dia rasa ini bukan masalah dia. Dia sebenarnya masalah semua orang tahu. Bukan masalah ahli ekonomi sahaja yang duk cakap saja kan. Kalau 10 tahun daripada sekarang, contohnya, kita ada kekangan kewangan yang mana kita tak boleh belanja beli ubat. Nanya kita Siapa yang pakcik-makcik Ataupun pesakit jantung Yang kena bayar Saya tahulah Saya kena bayar ubat Saya kena bayar ubat Untuk saya Tek-tek bulan Untuk Yalah keadaan kesihatan jantung saya dan juga untuk ayah saya tiap-tiap bulan kena bayar tau dan tak apa ialah kami bayarlah sebab satu kami T20 keduanya sebab ialah kami pergi ke kardiologi swasta semua kan Berat tau Kena bayar kos tu mahal Tapi untuk orang biasa Dan juga untuk pensioner Semua ni kan Yang itu ditanggung oleh kerajaan. Sebab itu kebelakangan ini satu dua tahun masa saya pementeri pun. Salah satu daripada kebimbangan yang disuarakan oleh hospital-hospital ialah kerana mereka belanja mengurus yang diberikan kepada mereka itu rasanya kecil dan tidak lagi boleh menampung jumlah pesakit yang semakin besar. Jadi contohnya, you know, kapas-kapas semua tu. Kadang-kadang dia kena pinjam tau daripada hospital lain. Sebab dia dah habis bajet untuk beli kan. Jadi, benda ini bukanlah sekarang. Kita mungkin boleh pentingkan diri kata, asalkan kami dapat, Tak apa Tapi sebenarnya Pusing kot mana pun Satu hari nanti Dia akan menjadi ancaman Kepada setiap keluarga Malaysia Yang kedua Yang pasal mutu hidup rakyat Ya Rakyat akan minta kalau di Malaysia ini ialah macam mana kerajaan ingin menurunkan kos hari hidup. Agaknya macam mana kerajaan, apa yang rakyat harap untuk kerajaan menurunkan kos hari hidup.
 
-[56:09] Speaker 2: Kemudian untuk belanja lain lah, elektrisiti lah, sewa lah, dia nak buat program ke apa semua, training semua masuk dalam belanja mengurus kan. Untuk CAPEX, belanja pembangunan, dia nak buat bangunan baru ke, dia nak buat sekolah baru ke, apa dia kena pergi kepada Kementerian Ekonomi
+[28:17] Haziq: Seperti apa yang diumumkan dekat belanjawan tadi lah kot. Which is? Tolong kurangkan cukai kami, kalau ada sedikit wang tambahan boleh bagi kepada kami supaya kami boleh bernafas lega, tak adalah kami kena ikat perut.
 
-[56:27] Speaker 3: kan.
+[28:32] Rafizi: Apa lagi yang kerajaan boleh buat?
 
-[56:28] Speaker 2: Semua ni selalunya akan... muktamat menjelang bulan Mac setiap tahun lah. Oh, seawal tu. So, you bayangkan yang tahun ni ni, yang Dato' Sri Anwar bentangkan tadi, sebenarnya semua senarai itu, benda itu semua telah dibincangkan seawal Oktober 2020. Lima Haa Seawal Oktober 2025 Dan ini untuk tahun 2027 Dan dia dimuktamadkan Menjelang Apa nama ni March April 2026 Kemudian Daripada April sampai ke August tu, itu di peringkat dia panggil central agency, agency pusat lah. Di peringkat kementerian kewangan, di peringkat kementerian ekonomi semua kan. Jadi it's very much bottom up. Apa masalah kalau di bottom up?
+[28:35] Haziq: Kalau yang betul-betul ke?
 
-[57:30] Speaker 1: Berdasarkan... Dia tak tengok perspektif yang broader
+[28:37] Rafizi: Yalah kalau kau jadi Menteri Kewangan. So, apa lagi yang patut kerajaan buat?
 
-[57:36] Speaker 2: Itu satu, dia tak ada bersight view
+[28:42] Haziq: Saya akan tiru ayat YB lah. Kita kena ubah struktur. Apa maksud ubah struktur tu? Maksudnya kita kena tengok macam mana kita berbelanja tu. Kita tengok adakah... Kita berbelanja tu sekadar macam... Dia tengah pusing je tau.
 
-[57:40] Speaker 5: Maksud saya... Vision dengan direction negara Normally from top to bottom So they would duduk Kita nak this, this, this, this And then therefore all the
+[28:58] Rafizi: Dia tengah jari akal. Macam mana nak menjawab soalan ni?
 
-[57:52] Speaker 2: Well, dia orang akan kata Sebenarnya itu telah ditetapkan di dalam rancangan Malaysia yang 5 tahun tu Jadi kepada orang yang kata Apa dia ni masa jadi menteri, dia tak buat apa semua kan Aku dalam hati gelap Yang korang duk buat semua bajet semua tu Itu semua berpandukan kepada rancangan Malaysia 5 tahun yang aku tinggalkan So to be fair Direction of the country itu memang dah set daripada di atas. Cuma masalahnya direction itu dia tidak semestinya... Ada program design ataupun macam mana nak laksanakan kearah mencapai dasar itu, yang itu diserahkan kepada... Kementerian-kementerian. Sebab tu dia jadi Plan ni elok Malaysia. Plan 10 tahun cantik, plan 5 tahun cantik semua kan Tapi lepas 10 tahun tak menjadi. Kerana By and large, bila benda tu is bottom up And as you say, dia tak ada bird's eye view Dia akan menjadi penerusan kepada benda-benda yang telah dibuat sebelum itu. So it's actually business as usual. Sebab, kalaulah ada satu orang ketua jabatan, tiba-tiba dia nak buat benda baru, oh letih dia lah, dia nak kena yakinkan bos dia, lepas tu dia nak kena yakinkan KSU dia, lepas tu dia nak kena bawa ke Kementerian Ekonomi semua kan. Jadi yang mudah apa dia? Teruskan je lah apa yang ada tu kan. Lain pertama Yang mana ialah, kalau... At the very top Di kementerian Kalau menteri itu Tidak ambil Serius mengenai deliverable dan juga macam mana program yang dia nak buat itu Sama ada menyelesaikan masalah struktur Sama ada menambah baik secara permanent kan Menteri pun tak ada idea macam mana nak buat So dia jadi betul-betul business as usual So daripada kementerian tu bila pergi ke kerajaan and The final buck stops with Perdana Menteri lah. Kalau Perdana Menteri itu tidak ada wawasan ke mana dia nak bawa... Malaysia secara ekonomi bagaimana semua ni kan. Akhirnya bottom up proses ni dia akan jadi seperti biasa Perdana Menteri akan tanya you nak buat apa? You nak buat apa? You nak buat apa? Jadi PMO dengan MOF ni kemudian pilih yang ni sombat cantik ni kita masukkan. Yang ni sombat cantik ni kita masukkan. Sebab itu akhirnya ucapan belanjawan itu menjadi senarai pengumuman gula-gula. Sedangkan kalau daripada awal you know exactly what you want to do kan, itu memang your ultimate focus untuk jangka masa sederhana kan. Dia akan berlaku terbalik. Orang tahu sebenarnya di bawah Dato' Sri Anwar Ibrahim ini, ini 4-5 benda pasal ekonomi ini yang by hook or by crook dia nak buat benda ini jadi. And ini pet dia. Ini ialah sesuatu yang dia rasa betul-betul personal and passionately about that. Jadi yang lain semua tu, dia akan realign. Untuk support that vision kan. So let me ask you. Sebenarnya, apa visi ekonomi Dato' Sri Anwar?
+[29:01] Haziq: Bakar duit maksudnya sekali guna ataupun satu expenditure tu boleh serve banyak tujuan. Contohnya kita bagi duit untuk allowance anak tu kan. Kita selesaikan banyak masalah ekonomi. Rather than kita spend kepada blanket subsidi...
 
-[1:01:36] Speaker 1: Menggapai di langit Mengakar Menggapai di langit
+[29:18] Rafizi: Itu sebenarnya masih lagi satu kaedah iaitu kaedah bagi duit.
 
-[1:01:39] Speaker 2: Ya Macam mana nak gapai langit tu Okay, name me one economic project yang originally daripada Dato' Sri Anwar Ibrahim yang dia betul-betul passionate about. What about kerangka ekonomi
+[29:22] Haziq: Kaedah bagi duit.
 
-[1:01:54] Speaker 1: madani?
+[29:24] Rafizi: Terima kasih kerana menonton! Dia... Bila rakyat kita bercakap tentang menurunkan kos sehari hidup kan, Cost ni, dia ada 2 sides, 2 sides of the same coin. Ambil site yang pertama lah yang jarang hendak disentuh. Dia soal pendapatan. Soal pendapatan, soal gaji, soal pekerjaan. Saya pernah cakap contohnya kalau di US kan, tapi sekarang ni semua mengalami masalah yang sama di dunia kan. Tapi masa orang kata Pax Americana, Golden Age of America, 1950s, 1960s, masa baby boomer kan. Seorang yang hanya keluar sekolah menengah, Dia kerja kilang sebagai operator sahaja. Dia sebenarnya mampu untuk membeli rumah, bungalow sebijik, kereta, pergi bercuti dan hantar anak-anak ke universiti. Bayar anak-anak ke universiti. Sebabnya ialah pada ketika itu, on the income side, income itu strong. Dan dia mampu untuk bayar itulah. Jadi income ini ialah soal yang bersabit dengan perkara struktur. Jadi kalau nak memastikan gaji rakyat itu baik, sebab itu dia kena ada contohnya sistem di antara pekerja dengan majikan yang kuat. Supaya majikan ada timbal balik dengan pekerja dan kenaikan gaji itu selaras. Kedua, Soal struktur Ialah soal produktiviti ekonomi So kalau Ekonomi sebuah negara itu Produktivitinya tinggi Dan yang ini saya ulang berkali-kali tau Walaupun yang last kali itu Aku duduk tanya orang pasal produktiviti Semua kan Saya baca komen-komen tau Orang yang komen tu kan Kebanyakan komen masih lagi menyentuh produktiviti dari segi kecekapan. Macam kalau instead of buat 5 mesin dalam 1 jam, dia buat 10 mesin dalam 1 jam. Itu yang dalam kepala kita lah, produktif-produktiviti. Output lebih banyak dalam masa. Sebenarnya output lebih banyak kan. Tapi sebenarnya, Produktiviti dalam zaman ini adalah jauh lebih besar daripada soal cekap melakukan sesuatu perkara yang sama. Produktiviti itu maknanya, jangan buat benda yang duit tak banyak. Buat benda lain. Itu maksudnya produktiviti. Duit tak banyak. Contohnya, kalau kita... Buat ekonomi kita banyaknya contohnya lah pertanian Pertanian tu Cekap macam mana pun Kalau jual tu raw commodity Harga dia tu tak macam tu lah You pasang robot pun untuk kait buah Walaupun produktiviti dia lebih baik daripada berbanding manusia lah kan sebab dia robot kan. Tapi akhirnya nilai yang jual CPO tu, buah kelapa sawit mentah tu, tandan kelapa sawit mentah tu, dia masih lagi sama. Jadi negara-negara lain dia buat macam mana? Dia tak buat dah benda tu. Dia buat robot. Jadi sama macam di US kan. Sebagai contoh yang baik US lah kan. Sebenarnya US ni Manufacturing output dia Dah sangat merudum Dia tak boleh lawan China Tapi tengok tak GDP dia tetap naik tinggi Dan masih lagi yang terbesar di dunia Dan produktiviti dia Memang tinggi Apa dia buat?
 
-[1:01:55] Speaker 2: Itu masih lagi besar. Okay, to be fair, dia mention tiga tadi, NIMP, NETR, Itu bukan dia punya. NETR itu kita punya. Kemudian satu lagi Putera itu kita punya. Jaya Sasi
+[33:30] Haziq: Negara dia driven Bila high value production tu maksudnya
 
-[1:02:11] Speaker 1: Zaid.
+[33:38] Rafizi: So contohnya lah 5-6 syarikat terbesar di dunia ni Semua daripada US Dia buat Google sebiji Google buat benda yang tak pernah dibuat oleh orang Korang fahamlah Google kan. Sama macam sekarang open NI buat check GPT. Entropic buat clot. Benda yang tak pernah dibuat oleh siapa-siapa, satu dunia kena beli daripada dia. Jadi pekerja yang terlibat itu sikit saja tapi nilai kepada ekonominya tinggi kan. Jadi itu yang disebut sebagai complexity of economy. Jadi produktiviti di Malaysia ini dia belum ada anjakan yang menjadi tumpuan kerajaan sehingga kan saya ingat pemerhatian saya. Setiap kali orang bercakap mengenai produktiviti, orang cakap pasal membuat sesuatu yang sama dengan lebih cakap. Actually it's not. You have to leave that sunset industry and go and do something else all together yang menawarkan nilai yang lebih tinggi. Benda itu tak boleh berlaku sendirilah. Jadi awal-awalnya dia perlukan kerajaan. Mungkin early investments kerajaan kena buat semua kan. So that is on the income side. Dan kalau tengok kan semuanya itu Semuanya adalah struktur yang tidak boleh diselesaikan dengan hanya gula-gula kerajaan. Dia perlu overhaul of the economy secara dasar, secara besar-besaran lah. That is on the income. On the cost side, rakyat. Bila dia kata... Turunkan kos, apa ni, turunkan kos sara hidup. Dia suruh kerajaan turunkan harga lah kan. Turunkan harga harga. So, not that easy lah untuk kerajaan turunkan. Dan I always believe that sebenarnya asalkan inflasi itu terkawal. Maksudnya, inflasi dalam inflasi purata... keseluruhan dalam 2%, inflasi makanan tu dalam 4 ke 5%, then to me that's okay, kan? So, you tak boleh nak expect harga nasi lemak sebelum tu RM10, tiba-tiba RM5. Selalunya tak jadi lah. Sebab orang bila dah jual pada satu harga tu, dia dah semua cost structure tu is built around that price. So untuk dia menurunkan kecuali kalau dia ada capacity untuk reach the scale yang instead of buat 10 barang, tiba-tiba dia boleh buat 100 barang dalam masa yang sama kan. So cost is quite difficult untuk diturunkan so long as inflation itu Boleh dikekalkan kan Tapi orang kita Dia nak suruh harga tu Harga barang tu Turun So apa yang kerajaan Duk buat sekarang
 
-[1:02:12] Speaker 2: Kita punya. So kalau malam ini kita orang nak buat nakal kan, kita highlightkan semua yang disebut tadi itu yang mana sebenarnya asalnya daripada Kementerian Ekonomi. Letih lah kita. Sebab tiga dasar utama ekonomi negara daripada tiga itu, satu daripada MITI, dua daripada Kementerian Ekonomi tau. Bukan dia punya. Okay, I think people can associate certain things that I'm so passionate about. Kan, energy transition lah, semiconductor lah, scaling up SME semua kan. Actually, masa Tun Mahathir dulu. Okay, even go back even earlier, masa Tun Razak, apa yang Tun Razak so passionately about, yang vision ekonomi dia? Dasar ekonomi baru, membasmi kemiskinan. Membasmi kemiskinan, yang diterjemahkan melalui dasar ekonomi baru. Daripada situ nampaklah Felda, semua itu kan? Masa Tun Mahathir?
+[36:39] Haziq: Kerajaan bagi Subsidi Blanket Untuk round 95 Itu satulah Lagi
 
-[1:03:12] Speaker 1: Um... Orang associate dengan Bapa pemodenan So Yelah apa dia
+[36:49] Rafizi: Not really, itu bukan soal kos harga barang Turunkan bil elektrik Itu lebih kepada cash transfer untuk direct assistance More like social safety Cuma it's not institutionalized Dan dia jadi bahan gula-gula Dan dia banyak inclusion and exclusion error Pasal kos harga barang ni Sebenarnya apa satu-satunya kerajaan buat Berapa sangat ada Berapa berkesan sangatnya Price control adalah gula Minyak Minyak Lagi apa dia lagi
 
-[1:03:18] Speaker 2: Apa projek ekonomi Yang Yang sangat Associated That is identified with him Oil
+[37:26] Haziq: Price catcher
 
-[1:03:26] Speaker 5: and
+[37:27] Speaker 2: Okay tak
 
-[1:03:26] Speaker 2: gas lah KLCC, Surajaya I mean Well it's basically Industrialization lah Sebab tu Di bawah dia tu Ada semua Apa nama ni Buat kereta lah Buat besi lah Itu semua kan Bawajar Kan Then of course Oil and gas tu Satu hal lah kan And to be fair Zaman di bawah Tun Mahathir jugalah The downstreaming Of oil and gas daripada setakat hanya menapis minyak buat petrochemical semua lah kan so it's quite obvious that industrialization and dia memang kalau yang dia champion tu dia champion betul-betul lah Dato' Sri Anwar selepas 4 tahun actually apa projek ekonomi yang dia betul-betul orang nampak ada vision for growth Susah soalan tu. Saya bukak kepada orang ramai untuk tanya soalan itu.
+[37:29] Rafizi: I'm not amused
 
-[1:04:22] Speaker 5: Okay, chat cepat.
+[37:31] Haziq: Tapi memang buat lah Cubaan dia kan
 
-[1:04:23] Speaker 2: Answer,
+[37:35] Speaker 1: Sebab mood lebih okay Okay haa
 
-[1:04:24] Speaker 5: answer, answer.
+[37:38] Rafizi: Tak, dia akhirnya kalau tengok di bawah kerajaan Madani ni, akhirnya tengok apa yang dia buat? Dia buat jualan rahmah. Dia buat jualan rahmah daripada bajet 100 juta. Sekarang bajet dah jadi berapa? 700 juta. I think 600-700 juta lah. Apa masalah kalau buat jualan rahmah? Jualan rahmah as a band-aid. Okey lah, you tak payah nak bergaduh lah kalau dia hanya program sekali-sekala. Tetapi dia tak akan mengubah struktur yang mempengaruhi kos hari hidup. Sebabnya satu ialah you tak boleh buat... Jualan rahmah ni di merata-rata all the time. Ya. Yang keduanya ialah jualan rahmah itu does not change the cost structure. Ya. Dia hanya bagi, dia beli daripada pembekal atau penjual itu pada harga yang biasa, kemudian dia jual murah kepada rakyat. Rakyat pun pergi bergebut, siapa yang dapat peluang lah. Jadi akhirnya, siapa yang paling untung dalam jualan rahmat? Orang yang jual barang itulah. Vendor. Oh, just vendor lah. vendor memang happy lah daripada peruntukan 100 juta kalau dah jadi 600 juta kan jadi akhirnya kalau tidak berhati-hati Bila pelanjawan itu... ...telah dibiasakan sebagai belanjawan yang hanya pengumuman-pengumuman... Maka satu ialah dia tak tackle head on Di root cause of the problem Jadi harga barang tu tak turun lah Keduanya ialah dia distort lah Kerana hanya sesetengah orang sahaja yang dapat berpeluang Sebab tu lama-lama orang marah Orang kata, bila nak tuan ke barang? Bila nak tuan ke barang? So, what is the structural way of managing especially food prices ni? Produksi. Produksi. Produksi. It's production. It's production, it's basically distribution channel, kan? Yang itu ada kita dengar, kerajaan setahun demi setahun. You know, bila kita buat IPR Intan itu, it's a subtle way to try to encourage kerajaan. Sebab kalau aku lebih-lebih, dia kata, kau bukan menteri pertanian. Sedangkan kita dah kata, we have to modernize our farming and also shift considerably to food production. dan awak takkan boleh turunkan harga dengan cepat kalau awak tak boleh meningkatkan produksi. You tak boleh increase production kalau cara kita menanam masih lagi macam dulu. Maka cara kita menanam, menguruskan food production ini mestilah dengan cara modern so that they are the economies of scale. Tapi ialah. Jadi itu sebagai contohlah kalau macam mana. untuk kita menilai belanjawan setiap tahun, actually you kena tengok what are the Structural intervention daripada belanjawan itu Yang akan menyelesaikan masalah Permanently Dia bukan band-aid. Bila dia band-aid, masalah itu tak selesai Dia macam Panadol lah. You pening, makan Panadol sebijik. Oh tak, tak habis pening. Apa namanya, makan dua bijik. Makan tiga bijik. Lama-lama ada side effect yang lain lah. Habis stop Panadol tadi?
 
-[1:04:25] Speaker 2: So, sebab itu, kalau tidak ada identification yang tertentu, Dia akan jadi bisnes as usual lah. Dan pengalaman saya duduk perhati sebelum ini macam itulah. Bila dia terlalu bottom up. Oleh kerana dia tak ada clarity about growth yang dia nak pacu tu kan. Akhirnya. Dia akan jadi bisnes as usual Dia akan tanya, ok You nak buat apa? Ok lah, ambil yang itu masuk sikit I umum yang inilah, jadi macam tu kan Now, when it's bottom up, bisnes as usual Apa risiko kepada belanjawan negara tiap-tiap tahun?
+[41:23] Haziq: Habis. What's that? Okay.
 
-[1:05:17] Speaker 5: The risk of kementerian-kementerian meminta lebih peruntukan, peruntukan, peruntukan lah. So dia jadi berebut peruntukan
+[41:26] Rafizi: Kita pasal bajet ni dah. Okay. Ya, wrong mood. Wrong mood lagi. So, apa namanya, tengok habis aku punya train of thought. So aku cuba untuk tak maki So saya nak kena apa nama ni Pendamkan Apa yang saya nak cakap kat Haziq tu Di dalam Sambil saya senyum Kalau tidak nanti orang kata Haziq kena boli Dan yang ketiga orang tengok Especially kalau Joe Analyst semua je lah Dia nak tengok sebenarnya, what are the structural intervention for growth. Jadi kalau macam Malaysia ni, Dan dalam ekonomi ni kan dia ada banyak perkara Satu dia ada distortion, herotan Contoh yang baik ialah subsidi Kalau kita bercakap pasal subsidi kan Subsidi bahan api contohnya kan. Yang selalu disebut-sebut ialah wang negara subsidi RM40 bilion, RM60 bilion untuk kekalkan harga kan. Itu bukan pertanyaan ekonomi sebenarnya. Apa pertanyaan struktur sebenar tentang harga minyak di Malaysia?
 
-[1:05:25] Speaker 2: lah. Sebab it's free for all, dia berebut peruntukan lah. Dan itu juga yang sebahagiannya menjadi ada kesan buruk yang boleh mencambahkan corruption lah. Kerana kalau kementerian masing-masing Dia Okeylah kita berubah peruntukan semua kan Maka dia kalau pula yang menjaga kementerian itu, dia dah ada kaki-kaki dia kat luar. So dia nak dapat peruntukan yang lebih besar lah Kerana dapat peruntukan yang lebih besar itu Itu akan banyak kontraktor dapat lah Dia sama macam jualan ramah Yang jaga jualan ramah ni Ialah Fuzia Saleh So Bila jualan ramah ni Budgetnya daripada mungkin dulu 100 juta Sekarang 600 juta Boleh buat madanimat lah Sebab banyak Banyak apa Pembekal-pembekal ni Dia jadi suddenly Very powerful economically And from Because dia control bajet yang besar kan Jadi Bila Business as usual, maka dia akan jadi medan untuk berebut bajet. Dan bila jadi medan untuk berebut bajet, itu yang orang selalu lawak. Actually, kita tak perlukan jalan baru kat kampung ni. Tapi tiap-tiap tahun, jalan ini diturak. Sebab dia bukan atas keperluan Dia nak bajet itu Kerana bila dapat bajet itu Dia boleh lantik kontraktor Dan kalau dia dah ada kaki-kaki dia untuk kontraktor Memang turap jalan sajalah Sedangkan ada je kampung ataupun kementerian lain Yang sepatutnya ada peruntukan itu Tapi tak dapat Sebab yang itu dapat besar Yang ini dapat besar kan Dan yang ini juga berbahaya Kerana senioriti menteri itu Bila berebut bajet dan peruntukan Dan dia ada upper hand Itu yang dulu banyak surat-surat kepada Menteri Ekonomi Dan yang itu jugalah yang Dato' Sri Anwar complain belakang-belakang aku. Okay. And that's why aku tak pernah layan. Then my answer to him, yeah, but if I layan, menteri tu minta tu orang ni minta ni semua kan, the whole process will be compromise. Hmm. Kerana you start main politik, you stop Objectively evaluating Projects by its Economic spillover By infrastructure needs Semua lah kan Dan Bila dia Apa nama ni, begitu. Sebab itulah kesan akhirnya yang minta bajet ni, dia bukan peduli pun. Kos naik ke, projek tak jadi ke apa. Because dia tak ada burst eye view. Dan bila di emphasis itu, ialah bottom up, you nak buat apa, okay, dapat sila-sila buat kan. Dia bukan driven from the top. Maka responsibility, fiscal responsibility itu hanya ada di peringkat MOF ataupun mungkin Kementerian Ekonomi. Itu saja. Jadi yang kat bawah ni dah dapat bajet tu, ikut sekedera dia nak buat apa. So itu yang banyak perkara-perkara yang saya rasa ada risiko-risiko dalam cara kita membangunkan belanjawan yang ada. In fact, I brought this issue kepada Dato' Sri Anwar berkali-kali. We need to improve the way that we do our budget Sebab dia ada moral hazard Kepada cara yang sedang dibuat sekarang Tapi ya lah Ya, di sini kita berada. Baiklah. So ada soalan dah sebelum kita masuk kepada angka. Sebab lepas ni dah nak masukkan angka-angka ni lah. Ada
+[43:02] Haziq: Flatuation dia No
 
-[1:09:25] Speaker 5: soalan tapi saya rasa macam tak kena lagi. Apa soalan? Sebab dia pasal kenaikan gaji, pasal... Oh,
+[43:06] Rafizi: Pardon? boleh lah kau nak buat lawa-lawa bodoh tapi kau kena cuba dapatkan yang berkualiti sedikit
 
-[1:09:32] Speaker 2: kita tak masuk.
+[43:15] Farhan (Pa'an): Ok What was the question a little bit? Sorry, saya tengah baca komen. Okay.
 
-[1:09:32] Speaker 5: Oh,
+[43:20] Rafizi: No, no, okay. Contohnya, kita cakap pasal growth, kan? So, bila orang menilai belanjawan sesuatu negara, dia nak tengok macam mana you fix the structure of the economy supaya boleh berkembang. Dan satu perkara yang perlu diselesaikan ialah distortion in the economy. Herotan dalam ekonomi lah. Jadi kalau benda yang selalu dibincangkan dan selalu dilihat bertahun-tahun bila orang menilai dasar kerajaan Malaysia ialah distortion in Ron 95 semua inilah. So what exactly is the distortion?
 
-[1:09:33] Speaker 2: itemize kan.
+[44:03] Farhan (Pa'an): Our subsidy bill per year?
 
-[1:09:33] Speaker 5: Okay, okay.
+[44:05] Rafizi: Well, itu yang selalu dibincangkan lah. Pasal subsidy bill dan sebagainya ni kan. But that is one level of inefficiency lah kerana kita misallocate daripada benda yang sepatutnya boleh lebih produktif, you just allocate kepada consumption yang semata-mata. What is even the deeper distortion daripada itu?
 
-[1:09:35] Speaker 2: Dan bolehlah kita proceed. Okay, kita ada lebih kurang satu jam sebelum Joe balik kan. So, tak payah tunggu Joe lah.
+[44:31] Haziq: Apa ni, dia punya... tersasar dia punya ... Apa kita maklumat keterisan?
 
-[1:09:44] Speaker 1: Kita ke next soalan, Sobi. Okay. Kita bercakap tentang Jadi
+[44:40] Rafizi: Tidak, itu masih daripada soal alokasi wang. Bagaimana dengan Ron 95 dan fuel itu sendiri yang sangat disuruh di Malaysia?
 
-[1:09:48] Speaker 2: kita dah faham apa yang perlu kita perhalusi untuk menilai bajet Kita dah faham macam mana bajet itu dibuat dan risiko-risiko moral hazardnya semua kan Sebelum kita seperti biasa lah orang ramai ni dia nak tahu pasal apa dia dapat, itu semua ni kan Tapi kita kena tengok macam Haziq kata tadi lah first dulu lah.
+[44:54] Farhan (Pa'an): I'm going to say... berapa banyak kita sebenarnya perlu I mean, in terms of volume and all that Yelah, consumption lah Consumption Consumption
 
-[1:10:19] Speaker 1: Kita, yelah macam YB sebut tadi, belanjawan ni yang pertama adalah kita tengok dekat dari segi perbelanjaan, sorry revenue. Hasil dulu. Hasil masuk. Jadi mungkin YB ada analisis YB daripada yelah apa yang dah berlaku di 2025, kemudian 2026 sehinggalah apa yang unjuran terbaru yang dimaklumkan tadi.
+[45:04] Rafizi: The biggest distortion, yelah ...energi konsumsi dalam negara kita.
 
-[1:10:44] Speaker 2: Bila belanjawan tu, kita sebenarnya nak angka-angka terkini daripada kerajaan kan. Angka 2025 tu kita memang ada lah kerana itu adalah angka yang telah berlaku. 2026 tak habis lagi ni. So dia kena semak balik unjuran berapa hasil. setakat untuk satu tahun dah. Kerana angka-angka yang di dalam belanjawan yang dibentangkan di parlimen itu untuk tahun 2026 ini Dia setakat Jun je. So dia hanya separuh tau. Daripada situ dia nak kena unjurkan lah. So yang itu dia jadi angka unjuran. Kemudian based on that kita nak tengok sebenarnya apa unjuran untuk 2027 lah kan. Jadi kalau kita tengok yang jeng jeng jeng kita nak tahu hasil lah kan.
+[45:10] Speaker ?: Kan?
 
-[1:11:39] Speaker 1: Yes.
+[45:11] Rafizi: So, sebab......RON95 itu lebih murah daripada air mineral. Sebab itu semua orang nak pakai kereta. Sebab itu juga, partly contohnya, kenapa susah nak buat public transport. Sebab buat public transport, orang tak pakai. Sebab dia ada kereta semua kan. Dia ada kereta itu because operating cost is cheap. So... Bila you consume more than you need, dia akan jadi membazir lah. And membazir itu dalam mana-mana ekonomi is very dangerous. Especially so dalam keadaan sekarang atas beberapa sebab utama. Satu ialah kerana Kita dah jadi pengimport bersih. Refined product. Haa. The very structure and nature of our society dan ekonomi sebenarnya telah berubah. Dulu kita boleh katalah, siapa? Sebab minyak kita murah, kita banyak minyak. Actually, there's no longer the case. Jadi, kalau sesuatu perkara itu pada kos benar dan kos itu mahal, you hanya akan pakai or beli, you know, when it's necessary lah dan berpada-pada lah kan. Tapi bila the cost is distorted, then your consumption also distorted. Yang kedua, kenapa dia berbahaya ialah kan of the geopolitical situations in the world. Yang harga fluctuate tadi tu? Yang harga fluctuate tak apa, harga tinggi. Kalau harga fluctuate dia jatuh tu aku ok je lagi kan, harga tinggi. For the CEO of Aramco, beritahu you know, for the foreseeable future dia tak nampak harga akan kembali ke 50 ke 60 dolar. So dia fluctuate macam tu lah 90, 100, 80 lebih semua kan. So kepada yang menonton, you roughly know, Tegus, kalau $90 per barrel, subsidi RON95 ini, dia akan jadi dalam RM40 bilion lebih, kan? So, dan untuk mengubah consumption behavior sesuatu ekonomi sesuatu masyarakat itu tak mudah dia ambil masa yang panjang kan dia sama macam orang kita mandi tau Actually kat kat luar negara kan Ini mungkin orang ramai Mungkin Tak ada pengalaman Tak ada pengalaman lah Eh orang lain tak mandi Air banyak-banyak kita Sebab air kat mandi saya murah Sebab lain air mahal Jadi memang dia mandi berpada-pada Dia tak macam kita kan Dia sama gula Gula Malaysia subsidi, punyalah tinggi. So, kita semua manis tak mampus, orang lain tak. Jadi, benda itu sebenarnya kita sedia maklum, benda itu berlaku kan. Jadi, sebab itu bila ada belanjawan, Dia akan tengok benda-benda yang struktural macam itu. Apa yang kerajaan kerajaan untuk mengambil konsumsi dan distorsi dalam masyarakat? Kemudian ditengok pula kepada kembali. idea and creativity. So ambil contoh yang baik saya ingat Korea dengan Taiwan and of course lah kalau nak bagi contoh China lah tapi maksudnya bagi contoh China semua semua dia buat kan. Taiwan in the 70s kan You know, SMC, lah. Taiwan Semiconductor Corporation Semiconductor Corporation Contohnya lah Taiwan ni negara miskin dalam 60-an Dia selepas Chiang Kai-shek kalah dengan komunis, dia bawa 3 juta penyokong dia seberang pergi ke Taiwan. So, you know, it has more manufacturing here and there. Kemudian largely dia agrarian society pun. Sebab itu pertanian dia bagus sampai sekarang kan. Kemudian in the early 70s ini yang menukar sebahagiannya menukar masa depan Taiwan kan. Saya tak ingat TSMC punya founder, cuba google nama dia, TSMC punya founder. If I'm not mistaken, dia itu dulu is Chief Engineer for Texas Instrument. Maurice Chang. Maurice Chang. Kan? Dia is chief engineer dekat Texas Instruments kan, dekat US kan. That's correct kan? Betul Tapi dia... Tak pernah naik lah. Sebab dia Cina kan. Ya. So kerajaan Taiwan actually jemput dia lah. Dan bantu dia with everything semua untuk dia memulakan TSMC, Taiwan Semiconductor Corporation, untuk buat cheap fabrication. Ini dah berlaku 70-an tau. Dia punya foresightedness. Bear in mind, Intel mula-mula wujud in mid to late 60s. Maksudnya early 70s ni konsep semiconductor ni orang tak faham. Dia nak pergi Taiwan ni dia nak pergi buat fabrication tu wafer fabrication kan. Kalau tak kerana TSMC semua tu, you tak adalah Taiwan yang ada sekarang ni. Kerana akhirnya, TSMC menjadi joggenot, almost monopoli of wafer purification. Dan is that foresightedness oleh kerajaan Taiwan pada masa itu, yang menyediakan landasan sampai Taiwan. You know kita kan, kerajaan Malaysia kan, kita duduk tepuk bagusnya lah pertumbuhan ekonomi yang di luar jangkaan bagi tahun 2026 sebab lebih kurang 5.6%. Guess pertumbuhan ekonomi Taiwan untuk jangkaan 2026 ni. sekitar 12.7%. Bukan sahaja double, more than double Malaysia. Sebabnya bila ada AI boom, maka yang paling mendapat laba ni is of course TSMC lah kan dan juga Taiwan lah kan. So berbalik kepada cerita belanjawan ni kan. Jadi sepatutnya setiap belanjawan itu dia kena nilai tiga perkara tadi. Satu soal kesan dan kejayaan kerajaan yang membentangkan belanja awan itu untuk mengukuhkan kemampanan dan kedudukan ekonomi. kedudukan kewangan untuk tempoh akan datang. Benda-benda yang akan dilihat ialah berapa banyak hasil, berapa banyak perbelanjaan dan yang paling penting, berapa banyak bayar interest. Itu satu. Yang kedua ialah soal bagaimana kerajaan menggunakan wang yang dikutip daripada rakyat itu untuk menaikkan mutu. Yang ini orang selalu tunggu gula-gula Dan yang ketiga ialah bagaimana belanjawan itu Membina asas pertumbuhan ekonomi yang lebih cepat dan lebih rancak untuk masa akan datang
 
-[1:11:41] Speaker 2: So hasil daripada corporate income tax tahun depan ialah RM107 bilion. Meningkat daripada RM102 bilion lah. Jadi meningkat RM5 bilion syarikat terus bayar tax lah kan. Hmm. Untuk cukai individu, dia naik lebih kurang RM3 bilion daripada RM49 bilion unjuran 2026. kepada RM52 bilion untuk 2027 Kemudian... Kita tengok pelik sikit lah. Ini saya pelik sikit macam mana dia buat unjuran ni kan. Untuk petroleum income tax. Petroleum income tax unjuran 2026 ialah RM21 bilion. RM2027, RM21 bilion juga. Juga. Ha. Sedangkan harga minyak melambung, 2026 ni. Then, maksudnya bila petroleum income tax 2027 tu dia tengok one year ke belakang. Dia bukan tengok one year ahead, dia tengok one year ke belakang kan. Jadi, you know, I would have thought that sebenarnya peningkatan pita tu tinggi lah. Tapi kalau tengok ni, dia macam... Tak banyak beza lah kan, 2025, 18 bilion, 2026, revise, unjuran yang disemak pun naik 20.5, naik lebih kurang 2 bilion.
+[52:54] Haziq: Itu bercakap tentang tiga matlamat utama Dan kita, yalah satu matlamat Satu lagi adalah sebenarnya nak tengok juga macam mana Tak ada soalankah
 
-[1:13:13] Speaker 1: Conventional wisdom-nya
+[53:07] Rafizi: Pa'an?
 
-[1:13:14] Speaker 2: sepatutnya
+[53:08] Farhan (Pa'an): Ya ada tapi later on lah Haa
 
-[1:13:14] Speaker 1: lebih
+[53:10] Haziq: ok Apa ni proses kerajaan dalam membuat bajet ni sebenarnya Apa yang kerajaan refer bila bajet tu dibuat dan unjuran tu secara tahunan semua Dan mungkin consideration-consideration yang kerajaan ambil dalam membuat
 
-[1:13:14] Speaker 2: tinggi lah. Sepatutnya lebih tinggi lah, kerana dia historic high kan. Faham. Hmm. Kemudian SST, SST menanggik SST naik banyak lah. Malah SST naik lagi banyak daripada corporate income tax. Corporate income tax naik RM5 bilion kan. So kalau you tengok SST, RM20, RM25, RM56 bilion. 2026 naik 67. 11 bilion meningkat tau dalam satu tahun. Kemudian 2027 tu dia fokus kurang sikit lah, 73. That still 67 ke 73 itu masih lagi 6 bilion lebih. Dan itu lebih tinggi daripada peningkatan corporate income tax kan. Kemudian ada cukai-cukai yang lain lah. Dia lebih kurang konsisten lah. Jadi jumlah cukai yang dijangka dikutip. Untuk 2027 adalah RM297 bilion Berbanding RM281 bilion Unjuran 2026 Kemudian campur pula non-tax revenue Hasil bukan cukai Hasil bukan cukai ni sebenarnya dividend lah Dividend Petronas, dividend Bank Negara Dividend semua lah kan Adalah benda-benda lain Royalty ke apa kan So yang itu dia quite consistent lah Dalam RM83 bilion Sila berasa bebas untuk menyukai, melanggan, maju dan memberi ganjaran untuk menyokong lajur Der Spiegel dan Diandian. Jumlah hasil keseluruhan 2025 ialah RM336 bilion. 226 unjuran yang disemak ialah RM364 bilion. Kemudian RM2027 bilion. Dia diunjukkan hasil keseluruhan kerajaan ialah RM381 bilion. Cuba tolak RM381 bilion dengan RM336. Itu lebih kurang berapa? Itu RM45 bilion. 45 45 kan Jadi Ini perspektif dia Tahu Kepada rakyat kan So cuba kira Base dia 20-25 dalam 2 tahun kan 45 bahagi 3-3-6 Itu berapa belas peratus naik tu? Kos 13 lah 13 peratus lah 13 peratus Maksudnya dalam 1 Dalam 2 tahun Hasil naik 13% lebih Maksudnya kita tak tahu 6% Hasil dalam 2 tahun ni Daripada 2025 sampai Untuk 2027 tu Dia akan meningkat 45 bilion kan Actually, kalau RM45 bilion, cuba kau bayangkan RM45 bilion, kan? Sepatutnya, you would expect ada... Significant incremental change To the country Sebab Every year ni Ada dalam 20 bilion tambahan 20 bilion tambahan So Itu yang kita nak kena ukur lah kepada perkara-perkara yang diumumkan hari inilah adakah that significant change, significant increase in revenue lebih kurang 20 bilion setahun lebih kan adakah itu berjaya diterjemahkan kepada hidup rakyat yang lebih baik ataupun ekonomi yang lebih rancak untuk masa depan Ataupun kita berjaya mengukuhkan kedudukan kewangan kita di masa akan datang. And you know the answer lah. No. If anything itu yang bila saya tengok semua itu, saya kata Allah letih kita macam ni maksudnya. Ambil contoh, kau gaji makin naik. Katakanlah gaji kau kan. Gaji kau tahun ni RM10,000. Hmm. Tahun depan jadi RM11,500. Lepas tu tahun, sekali lagi dah jadi RM13,000. Tapi hidup kau, sama je tau, gaji tu naik. So then you have to ask question, eh... You know, what went wrong lah. So, dan itu yang kita nak juga nilai sekarang lah kan. Jadi... Itu revenue Next kita ke
+[53:28] Rafizi: Saya tak tahulah berapa ramai orang, ialah tak ramai orang yang pernah menguruskan belanjawan kan. Bukan sahaja belanjawan negara, belanjawan syarikat pun tak ramai orang buat kan. Belanjawan ni Buy and Lash terutamanya Kerajaan Malaysia lah Buy and Lash dia bottom up Proses jadi kita duduk sibuk belanjawan dua puluh 27 ni kan? Proses untuk buat belanjawan 2028 tu dah nak bermula dah. Jadi dia bermula dengan jabatan-jabatan, kemudian mereka akan menyediakan berapa dia nak belanja, dia nak buat apa. Kemudian mereka akan memikirkan apa inisiatif-inisiatif yang dia nak buat. Jadi dia tengok. Kalau yang bersabit dengan infrastruktur tu, dia nak bina apa. Kalau JKR lah, dia decide lah dia nak bina jalan manalah, bangunan manakah. Macam wish list eh? No, no, it's not a wish list, dear... Itu part and parcel of kerja dia lah So kalau contohnya JKR kan Dia ada dalam perancangan dia. Satu ialah jalan yang belum dinaik taraf. Satu contohnya jalan-jalan yang sekarang ini mungkin sudah mengalami kesesakan teruk yang perlu diperluaskan. Satu mungkin dia tengok perlukan lebuh raya baru kan. So benda itu memang ada running plan dia. So dia tengok tahun ini yang mana pula kita nak buat. So proses itu bermula daripada bawah. Sama lah juga dengan Kementerian Kesihatan. Dia tahulah hospital mana yang perlu dinaik taraf, kawasan mana yang capaian khidmat kesihatan itu tak sampai lagi. Perlukan mungkin klinik kelas 5 ke, kelas 4 ke, kelas 3 ke, dia tengok lah. So dia ada proses itu semua kan. Jadi semua ini disusun dan dia akan melalui peringkat-peringkat-peringkat sampai lah di peringkat kementerian. Dan daripada peringkat kementerian itulah dibawa kepada Kementerian Kewangan. Kementerian Kewangan itu ialah untuk mendapatkan kelulusan belanja mengurus. Ini termasuklah manning dia berapa. Manning itu berapa dia nak tambah orang ke apa. Selain daripada Kementerian Kewangan, dia kena dapat kelulusan GPA juga lah. Kemudian untuk belanja lain lah Electricity lah, sewa lah Dia nak buat program ke apa semua maksud Training semua maksud dalam belanja mengurus kan Untuk capex, belanja pembangunan Dia nak buat bangunan baru ke Dia nak buat sekolah baru ke Dia kena pergi kepada Kementerian Ekonomi Semua ni selalunya akan Muktamad menjelang bulan Mac setiap tahun. Oh, seawal itu. So, you bayangkan yang tahun ini, yang Datuk Seri Anwar bentangkan tadi, sebenarnya semua senarai itu, benda itu semua telah dibincangkan seawal Oktober 2021. Lima seawal Oktober 2025 dan ini untuk tahun 2027 lah dan dia dimuktamadkan menjelang apa nama ni Mac, April 2026, kemudian Daripada April sampai ke August itu, itu di peringkat, dia panggil Central Agency, agensi pusat lah. Di peringkat Kementerian Kewangan, di peringkat Kementerian Ekonomi, semua kan. Jadi it's very much bottom up. Apa masalah kalau dia bottom up?
 
-[1:17:49] Speaker 1: Expenditure
+[57:30] Haziq: Berdasarkan... Dia tak tengok perspektif yang berada? Itu satu, dia tak ada best eye view
 
-[1:17:50] Speaker 2: pula Expenditure
+[57:40] Farhan (Pa'an): I mean... Vision dengan direction negara Normally from top to bottom So they would Set. Kita nak this, this, this and therefore all the...
 
-[1:17:51] Speaker 1: kan Macam mana pecahan
+[57:52] Rafizi: Well, diorang akan kata sebenarnya itu telah ditetapkan di dalam rancangan Malaysia yang lima tahun tu. Jadi kepada orang yang kata, apa dia ni masa jadi menteri, dia tak buat apa semua kan. Aku dalam hati gelap, ha Yang korang duk buat semua bajet semua tu, itu semua berpandukan kepada rancangan Malaysia lima tahun ni yang aku tinggalkan. So, to be fair, direction of the country itu memang dah set daripada di atas. Cuma masalahnya direction itu tidak semestinya ada program desain ataupun macam mana nak laksanakan ke arah mencapai dasar itu tu, yang itu disegahkan kepada Kementerian-kementerian. Sebab itu dia jadi. Plan ni elok Malaysia. Plan 10 tahun cantik, plan 5 tahun cantik semua kan. Tapi lepas 10 tahun tak menjadi kerana by and large bila benda tu is bottom up and as you say dia tak ada bird's eye view. dia akan menjadi penerusan kepada benda-benda yang telah dibuat sebelum itu. So it's actually business as usual. Sebab, kalaulah ada satu orang, ketua jabatan, tiba-tiba dia nak buat benda baru, oh letih dia, dia nak kena yakinkan bos dia, lepas tu dia nak kena yakinkan KSU dia, lepas tu dia nak kena bawa ke Kementerian Ekonomi semua kan. Jadi yang mudah apa dia? Teruskan je lah apa yang ada tu kan. So, itu menjadi fault line pertama. Which is, kalau... at the very top di kementerian, kalau menteri itu tidak ambil Serius mengenai deliverable Dan juga macam mana program yang dia nak buat itu Sama ada menyelesaikan masalah struktur Sama ada menambah baik secara permanent kan Menteri pun tak ada idea macam mana nak buat So dia jadi betul-betul business as usual So daripada kementerian tu bila pergi ke kerajaan And And ...the final bug stops with Perdana Menteri lah. Kalau Perdana Menteri itu tidak ada wawasan ke mana dia nak bawa... Malaysia secara ekonomi bagaimana semua ni kan akhirnya bottom up proses ni dia akan jadi seperti biasa Perdana Menteri akan tanya you nak buat apa? you nak buat apa? you nak buat apa? jadi PMO dengan MOF ni kemudian pilih yang ni soundbite cantik ni kita masukkan yang ni soundbite cantik ni kita masukkan sebab itu akhirnya ucapan belanjawan itu menjadi senarai pengumuman gula-gula Sedangkan kalau daripada awal, you know exactly what you want to do, kan, itu memang your ultimate focus untuk jangka masa sederhana, kan, Dia akan berlaku terbalik tu Orang tahu sebenarnya Di bawah Datuk Seri Anwar Ibrahim ini Ini empat lima benda Pasal ekonomi ini Yang by who or by crew Dia nak buat benda ini jadi And ini pet dia. Ini ialah sesuatu yang dia rasa betul-betul personal and passionately about that. Jadi yang lain semua tu, dia akan realign untuk support that vision kan. So let me ask you. Sebenarnya apa vision ekonomi Datuk Zerian Noir?
 
-[1:17:53] Speaker 2: Daripada situ kita dah boleh Mula nampak lah Sedikit sebanyak kan So kerajaan Daripada RM381 bilion tu kan Belanja mengurus kerajaan ialah RM377 bilion. RM381 tolak RM377. Eh tak payah pakai lah yang tu boleh kira dengan kepala. Okay. RM381 tolak RM377. RM4 bilion. RM4 bilion. Haa. So you bayangkan kan, tambah-tambah RM20 bilion sehari tu, tapi belanjanya makin tinggi dan makin tidak terkawal, so dia jadi macam... Nyawa-nyawa ikan setiap tahun tu. Sedangkan rakyat duk kata, Allah makin teruk, cukai makin aku kena banyak bayar. And you tak boleh nak salahkan rakyat tu. Memang betul. Cukai bertambah dengan tinggi tiap-tiap tahun. Lebih kurang RM20 bilion setiap tahun rakyat kena bayar. Cukai pendapatan naik, cukai korporat naik, SST naik, semua ada. Kutip lagi banyak ni kan. Erm... Of course lah, dia akan kata, oh salah nak sebut macam itu. Kami kutip lebih banyak kerana GDP berkembang. Well, dia bergantung juga. Sebab kita dah bincang dalam podcast yang sebelum-sebelum ni kan. GDP tu angka kasar negara. Bila GDP berkembang, bukan semua orang atau semua bisnes tu dapat laba. Sila berasa bebas untuk menyukai, melanggan, maju dan memberi ganjaran untuk menyokong lajur Der Spiegel dan Diandian. Dan kita dah tengok untuk Malaysia, GDP yang diwawakan, pertumbuhan ekonomi yang diwawakan 5.6% tu, sebahagian besarnya dipacu oleh beberapa industri sahaja, terutamanya yang berorientasikan ekspor dan semi-kodakta. Yang lain, kalau kau pergi kat kedai sungai besi, aku rasa dia mengangkap macam biasa. Dia masih lagi kena bayar SST semua kan. So, You know, sebab itu you have to ask the question, macam mana kutip semua ni tapi masih lagi nyangon-nyangon ikan, you get the answer bila tengok kepada perbelanjaan. Sebab perbelanjaan pun sama naik, tinggi kan. Satu, kita dah tahu maksudnya hasil tolak belanja mengurus tinggal 4 bilion. Jadi... Sebenarnya kalau tak nak berhutang, kalau nak mencapai, maksudnya tak ada fiscal deficit langsung lah. Tak ada fiscal deficit langsung. Maksudnya kita hanya ada 4 bilion untuk buat sekolah, untuk... Untuk buat hospital, untuk semua lah, semua capital. Memang tak cukup lah untuk 4 bilion kan. Jadi akhirnya kerajaan kena buat apa? Berhutang. Kerajaan pun kena sambung berhutang. Jadi sebab itu tiap-tiap tahun kerajaan kena berhutang lah. 70 bilion lebih, 80 bilion. Yang itu yang disebut sebagai fiscal deficit. Jumlah hutang yang diambil itu Bila dibandingkan dengan saiz ekonomi, yang itu yang dapat 3.5%, 3.3% yang disebut sebagai fiscal deficit lah.
+[1:01:36] Haziq: Menggapai di langit, mengakar, menggapai di langit.
 
-[1:21:20] Speaker 1: Utang di, apa, compare dengan saiz ekonomi keseluruhan.
+[1:01:39] Rafizi: Ya macam mana nak gapai langit tau? Okay, name me one economic project yang originally daripada Datuk Seri Anwar Ibrahim yang dia betul-betul passionate about.
 
-[1:21:24] Speaker 2: Jadi, ada dua senario contohnya kan. Katakanlah kita kutip cukai dengan sebegitu baiklah Tahun depan RM381 bilion kan Tapi perbelanjaan kita Instead of naik RM20 bilion Makan semua kenaikan cukai Kutipan cukai lebih handu Sebenarnya dia hanya 10 bilion saja Separuh saja Instead of 20 bilion dia 10 bilion Jadi 381 Tolak tiga tujuh. Tujuh. Maksudnya ada RM14 bilion. Sekarang ni kan bila kita tolak RM381, tolak RM377, tinggal RM4 kan? Yang lain tu kita kena pinjam semua kan? Tapi kalau senario yang berbeza, kutip RM381 tapi sebab kita berjaya mengekang Kenaikan perbelanjaan mengurus kerajaan kan Jadi instead of belanja 377 You belanja 367 So you ada Basically current surplus lah Kan Surplus masa You ada 14 billion Sekarang, You boleh buat keputusan, saya masih lagi akan meminjam RM78 bilion yang perlu dipinjam, yang sekarang ini dipinjam. Tapi beza dia apa? Jumlah yang boleh digunakan untuk... Melabur untuk buat sekolah, untuk buat hospital, untuk buat infrastruktur Tambah 14, daripada 83 jadi tambah 14 bilion, 100 bilion Yang itu yang rakyat akan nampak sebenarnya banyak benda yang berlaku Sebab belanja mengurus ni orang tak nampak Dia belanja bayar gaji, nanti kita go through Bayar gaji lah, bayar tu orang tak nampak Yang orang nampak ni ialah belanja pembangunan Jadi, yang itu jadi orang duduk garu kepala, eh hutang makin naik, cukai makin tinggi tapi aku tengok sama
+[1:01:53] Haziq: What about kerangka ekonomi madani?
 
-[1:23:23] Speaker 3: je.
+[1:01:55] Rafizi: Itu masih lagi besar. Okay,
 
-[1:23:24] Speaker 2: Sebabnya ialah kerana belanja pembangunan itu dia, dia bila semua kutipan cukai dan kenaikan cukai itu digunakan untuk membayar mengurus, then you don't have anything left untuk belanja pembangunan. Kalaupun, kenapa contohnya sekarang, Bila tinggal 4 bilion je, kenapa kerajaan tak boleh nak berbelanja 100 bilion untuk belanja pembangunan? Supaya lebih cepat hospital, sekolah, rumah semua ni.
+[1:01:57] Farhan (Pa'an): to be fair, dia mention tiga tadi.
 
-[1:23:55] Speaker 1: Logically, kalau dia pinjam lagi banyak, Nanti dia kena bayar kos itu lagi besar. Well, itu
+[1:02:01] Rafizi: NIMP, NETR, Itu bukan dia punya. Itulah. And ETR tu kita punya. Kemudian satu lagi putera. Itu kita punya. Jangan sesejai. Kita punya. So kalau malam ini kita orang nak buat nakal kan. Kita highlightkan semua yang dia sebut tadi tu. Yang mana sebenarnya asalnya daripada Kementerian Ekonomi. Letih lah kita. Sebab tiga dasar utama ekonomi negara. Daripada tiga tu. Satu daripada MITI. Dua daripada Kementerian Ekonomi tau. Bukan dia punya. Ya. So apa, okay, I think people can associate certain things that I'm so passionate about. Kan, energy transition lah, semiconductor lah, scaling up, SME semua kan. Actually masa Tuan Mahathir dulu. Okay, even go back, even earlier, masa Tun Razak, apa yang Tun Razak so passionately about, yang vision ekonomi dia? Dasar ekonomi baru, membasmi kemiskinan, yang diterjemahkan melalui dasar ekonomi baru, daripada situ nampaklah FELDA semua tu kan, masa Tun Mahathir?
 
-[1:24:03] Speaker 2: satu lah. Itu satu. Tapi sasaran kerajaan. Dia akan merosakkan sasaran kerajaan. Kerana kita ada... Datuk Sri Anwar memang dah komik. Dan itu dah memang jadi akta dan aku pun dulu memang antara yang paling kuat menjerit Bahawa jumlah hutang semua ni tak boleh berhutang banyak Jadi sebab itu ada sasaran defisit Dan sasaran defisitnya ialah menjelang tahun 2028 Kena turun kepada 3% sahaja So kalau dia pinjam tahun ini Apa nama ni 100 bilion Tahun ini dia tak jadi 3.3 lah Aku malah nak kira, Joe tak ada. So because of that, because you kena control your deficit, maka dia menghadkan berapa boleh belanja. Sebab you berhutang, you duduk berhutang dengan orang kan. So the way to make sure pembangunan kemudahan kepada rakyat itu lebih cepat ialah dengan memastikan belanja mengurus itu Terkawal Supaya jangan you kutip 381 you pergi belanja 377 Super tak payah kutip banyak tu So kalau tengok 2025, 26, 27 kan Dipanggil current surplus Current surplus maksudnya Hasil tolak perbelanjaan Belanjaan menguruskan lebih kurang sama So kutip banyak Belanja mengurus pembanyak, akhirnya untuk pembangunan ini kekal sama. Jadi bila kekal sama, tu orang tak rasa berubah-ubah. Satu lagi perkara yang Saya dah sebut tau tahun lepas Ya Saya nak kena sebut lagi tahun ini. Ini adalah perkara yang paling membimbangkan berkenaan dengan belanjawan-belanjawan sejak Dato' Sri Anwar dan Dato' Sri Amir Hamzah ni memegang MOF. Dia tak pernah berlaku zaman dulu. Hata zaman Najib. Tak pernah berlaku. Dan dia saya rasa tak dibuat oleh negara lain. Apa dia?
+[1:03:12] Haziq: Uhhh... Orang associate dengan bapa pemoden kan?
 
-[1:26:19] Speaker 1: Boleh jawab YB? Boleh lah Sebab saya ingat yang YB sebut dalam belanjawan tahun lepas punya podcast juga Penglibatan GLC dan GLEAK
+[1:03:17] Rafizi: Yelah apa dia. Apa projek ekonomi yang sangat... Associated that is Identified with him Oil and gas lah KLCC, Terjaya Well it's basically industrialization lah Sebab tu di bawah dia tu ada semua Apa namanya, buat kereta lah Buat kereta, buat besi lah Itu semua kan Then of course Oil and gas tu satu hal lah kan And to be fair zaman di bawah Tuan Mahathir jugalah The down streaming of oil and gas Daripada setakat hanya menapai minyak, buat petrokemikal, semualah kan. So it's quite obvious that industrialization and dia memang kalau yang dia champion, dia champion betul-betul lah. Dato' Sri Anwar selepas 4 tahun, actually apa projek ekonomi yang dia betul-betul orang nampak ada vision for growth? Susah soalan tu Saya bukakan pada orang ramai untuk tanya soalan itu Okay chat cepat Answer, answer, answer So sebab itu Kalau tidak ada identification yang tertentu Dia akan jadi business as usual lah. Dan pengalaman saya duk perhati sebelum ini macam tu lah. Bila dia terlalu bottom up oleh kerana dia tak ada clarity about growth yang dia nak pacu tu kan. Akhirnya, Dia akan jadi business as usual Kadang-kadang dia akan tanya Okay, you nak buat apa? You nak buat apa? You nak buat apa? Okay lah, I ambil yang itu masuk sikit Yang umumnya inilah Jadi macam tu kan? Okay Now, when is bottom up Business as usual Okay Apa risiko kepada belanjawan negara tiap-tiap tahun?
 
-[1:26:29] Speaker 2: Kita tak nak dibayang. Jadi bila dia umum kan. Dato' Sri Umum. Dato' Sri Anwar Umum. Bunyi dia hebat tau. Tahun ini. Ini. Kerajaan memperuntukkan RM510 bilion Wah, RM510 bilion Bila kita tengok sebenarnya Yang akan dibelanjakan RM510 bilion Sebenarnya RM25 bilion daripada GLEEC Hmm Kemudian daripada konsesi PPP, Public Private Partnership, ini yang kita pernah ulas lah. Ini antara sebab kenapa hutang kita teruk semualah. PPP ada lagi, 11 bilion projek baru. Baru ke? Yalah of course. Bila diumum dalam bajet 2027, maksudnya yang baru lah tu. Sebab yang lama dah masuk di dalam OPEX dengan OE dengan DE ni Yang itu dah factor in dah, dah sign kontrak dan dah nak kena bayar tiap-tiap tahun Macam kena bayar pasal UITM oh Dah sign dulu tiap-tiap tahun bayar, bayar, bayar kan Bila dia tulis akan ada perbelanjaan 11 bilion daripada PPP ni yang baru ni Baru, ada lagi Kemudian badan berkanun dan juga anak-anak syarikat, Kementerian Kewangan diperbadankan, MKD.
+[1:05:17] Farhan (Pa'an): The risk of kementerian-kementerian meminta lebih peruntukan, peruntukan, peruntukan lah.
 
-[1:27:54] Speaker ?: 14
+[1:05:23] Rafizi: So dia jadi berebut peruntukan lah. Sebab it's free for all, dia berebut peruntukan lah. Dan itu juga yang sebahagiannya menjadi ada kesan buruk yang boleh mencambahkan korupsi. kerana kalau kementerian masing-masing dia kita berubuk peruntukkan semua kan Maka dia kalau pula yang menjaga kementerian tu, dia dah ada kaki-kaki dia kat luar. So dia nak dapat peruntukan yang lebih besar lah Kerana dapat peruntukan yang lebih besar itu Itu akan banyak kontraktor dapat lah Dia sama macam jualan ramah Yang jaga jualan ramah ni ialah Fuziah Salleh So bila jualan ramah ni Bajetnya daripada mungkin dulu 100 juta Sekarang 600 juta Boleh buat madan imat lah Sebab banyak pembekal-pembekal ni Dia jadi suddenly very powerful economically And from, because dia control bajak yang besar kan Jadi, bila... business as usual maka dia akan jadi medan untuk berebut bajet dan bila jadi medan untuk bubut bajet, itu yang orang selalu lawak actually, kita tak perlukan jalan baru kat kampung ni tapi tiap-tiap tahun jalan ini diturak sebab dia bukan atas keperluan dia nak bajet itu kerana bila dapat bajet itu dia boleh lantik kontraktor dan kalau dia dah ada kaki-kaki dia untuk kontraktor memang tugap jalan sajalah sedangkan ada je kampung ataupun kementerian lain yang sepatutnya ada peruntukan itu tapi tak dapat sebab yang itu dapat besar yang ini dapat besar kan dan yang ini juga berbahaya kerana senioriti menteri itu bila berebut bajet dan peruntukan dan dia ada upper hand itu yang dulu banyak surat-surat kepada Menteri Ekonomi Dan yang itu jugalah yang Datuk Seri Anwar komplain belakang-belakang aku. Kerana sebab aku tak pernah layan. Dan my answer to him, ya but if I layan, menteri tu minta tu, orang ni minta ni semua kan, the whole process will be compromise. Kerana you start main politik, you stop. ...objectively evaluating projek by its economic spillover, by infrastructure needs, semua lah kan. Dan bila dia... apa nama ni begitu, sebab itulah kesan akhirnya yang minta bajet ni, dia bukan peduli pun, kos naik ke, projek tak jadik ke apa, because dia tak ada best eye view dan bila di-emphasis itu, ialah bottom up, you nak buat apa, dapat sila-sila buat kan, dia bukan driven from the top, maka responsibility, fiscal responsibility itu hanya ada di peringkat MOF ataupun mungkin Kementerian Ekonomi. Itu saja. Jadi yang kat bawah ni dah dapat bajet tu. Ikut sekedirah dia nak buat apa. Itu yang banyak perkara-perkara yang saya rasa ada risiko-risiko dalam cara kita membangunkan belanjawan yang ada. In fact, I brought this issue kepada Dato' Sri Anwar berkali-kali. We need to improve the way that we do our budget. Sebab dia ada moral hazard kepada cara yang sedang dibuat sekarang. Tapi ialah. Yeah Here we are Hey Yeah So ada soalan dah sebelum kita masuk kepada angka Sebab lepas ni dah nak masukkan angka-angka ni lah Ada soalan tapi
 
-[1:27:54] Speaker 2: bilion. Kila campur 3 tu 25 campur 11 36 campur 14 50 Dia umum 50 bilion Yang sebenarnya bukan belanjawan pun Haa
+[1:09:26] Farhan (Pa'an): saya rasa macam tak kena lagi Sebab dia pasal kenaikan gaji Pasal Oh kita tak masuk Oh itemize
 
-[1:28:11] Speaker 5: Anda melihat yang... Sebenarnya ini bukan amalan Adakah anda mempunyai
+[1:09:35] Rafizi: Dan bolehlah kita proceed Kita ada lebih kurang satu jam sebelum Joe balik So letakkan tunggu Joe lah
 
-[1:28:18] Speaker 2: kerajaan? Tidak. Dan bila Joe contohnya lah Juru Yelah economist katakan lah macam Joe Dekat Joe Dulu makro dia panggil apa Makro ASEAN Plus 3 kan Ataupun dekat IMF Ataupun dekat OECD Ataupun dekat World Bank Semualah in the world ni kan Even dekat bank negara pun I'm sure Dia orang tetap look kepada Standard reporting dunia tau Bila dia nak kira Dia sebenarnya hanya kira yang kat atas dua tu je OPEC sebab yang itu je yang dibelanjakan daripada cukai So yang itu yang dibelanjakan daripada cukai dan pinjaman oleh kerajaan Dan satu lagi ialah kesemua yang disebut yang lain tu Gleek Investment, PPP, Stat Bodies dengan MKD semua ni kan Semua ni di luar kawalan kerajaan
+[1:09:44] Haziq: Kita ke next Kita Kita bercakap tentang... Jadi,
 
-[1:29:11] Speaker 5: Tapi, ok, jadi, saja nak main devil's advocate kan? Dia akan kata, especially Glick dengan Under MYF Incorporated, dia akan kata, look, yelah, they are not government coffers, tapi they are semi-government, so they have extra money, why not we use them macam kita ambil I don't know whether it's a good comparison of Petronas' dividend. Why can't we
+[1:09:48] Rafizi: kita dah faham apa yang perlu kita perhalusi untuk menilai bajet. Kita dah faham macam mana bajet itu dibuat dan risiko-risiko moral hazardnya semua kan. Sebelum kita, seperti biasa lah, orang ramai ni dia nak tahu pasal apa dia dapat itu semua ni kan. Tapi, kita kena tengok macam Haziq kata tak Dila, you need to have a best eye view so we need to see the top numbers dululah
 
-[1:29:38] Speaker 2: use... There is a very bad example because Petronas' dividend lain. Petronas' dividend bila dibayar kepada kerajaan, itu jadi hasil kerajaan. Bila dah masuk ke kumpulan wang disatukan, consolidated fund kerajaan, then terpulang kerajaan lah macam mana dia nak membelanjakan. Yang ini, duit tak masuk kerajaan langsung ni. 25 bilion Glee investment Ini bukannya Glee bagi 25 bilion Kepada kerajaan Glee buat hal dia Aja Cuma projek-projek yang Gleek buat je tu is announced sebagai projek kerajaan. So one good example. So you
+[1:10:19] Haziq: kita, yelah macam YB sebut tadi, belanjawan ni yang pertama adalah kita tengok dekat dari segi perbelanjaan sorry, revenue hasil masuk, hasil masuk jadi mungkin YB ada analisis YB daripada, yelah apa yang dah berlaku 2025, kemudian 2026 sehinggalah apa yang, unjuran terbaru Yang dimaklumkan tadi
 
-[1:30:19] Speaker 5: announce
+[1:10:44] Rafizi: Bila belanjawan tu Kita sebenarnya nak angka-angka terkini daripada kerajaan Angka 20-25 tu kita memang ada lah Kerana itulah angka yang telah berlaku 20-26 tak habis lagi ni So dia kena semak balik Unjuran berapa hasil ...setakat untuk satu tahun dah kerana......angka-angka yang di dalam belanjawan yang dibentangkan di Parlimen itu......untuk tahun 2026 ini... Dia setakat Jun je. So, dia hanya separuh sahaja. Daripada situ, dia nak kena unjurkan lah. So, yang itu dia jadi angka unjuran. Kemudian, based on that, kita nak tengok sebenarnya apa unjuran untuk 2027 lah kan. Jadi, kalau kita tengok yang jeng-jeng-jeng, kita nak tahu hasil lah kan. Yes. So hasil daripada corporate income tax tahun depan ialah RM107 bilion. Meningkat daripada RM102 bilion lah. Jadi meningkat RM5 bilion. Syarikat terus bayar tax lah kan? Mereka. Untuk cukai individu, dia naik lebih kurang 3 bilion lah daripada 49 bilion unjuran 2026. ...kepada RM52 bilion untuk 2027... Kemudian... Kita tengok pelik sikit lah. Ini saya pelik sikit macam mana dia buat unjuran ni kan. Untuk Petroleum Income Tax. Petroleum Income Tax unjuran 2026 ialah RM21 bilion. 2027, RM21 bilion juga. Juga. Sedangkan, harga minyak melambung tahun 2026 ni. Then, maksudnya, bila petroleum income tax 2027 tu, dia tengok 1 year ke belakang. Dia bukan tengok 1 year ahead, dia tengok 1 year ke belakang kan. Jadi, you know, I would have thought that sebenarnya peningkatan PITAR tu tinggi lah. Tapi kalau tengok ni, dia macam Tak banyak beza lah kan. 20-25, 18 bilion. 20-26, revise. Unjuran yang disemak pun naik 20.5, naik lebih kurang 2 bilion.
 
-[1:30:20] Speaker 2: as projek kerajaan. Dia tak ada kena-mengena dengan kerajaan. Contoh dia, Kazana setahun, dua tahun lepas dan diumumkan di dalam belanjawan-belanjawan yang lepas. Kazana buat dua projek. Satu ialah Kakosa Asli Negara Satu lagi ialah Bangunan Sultan Abdul Samad kan Dalam belanjawan umum lah 500 juta semua
+[1:13:13] Haziq: Conventional wisdomnya sepatutnya lebih tinggi lah.
 
-[1:30:42] Speaker 5: Time Najib diorang buat Taman Tugu
+[1:13:15] Rafizi: Sepatutnya lebih tinggi lah kerana dia historic high kan. Faham. Kemudian SSD SSD menarik SST naik banyak lah malah SST naik lagi banyak daripada corporate income tax corporate income tax naik 5 bilion kan so kalau you tengok SST 20-25 56 bilion 2026 naik 67. 11 bilion meningkat tau dalam satu tahun. Kemudian 2027 tu dia fokus kurang sikit lah. 73. That still 67 ke 73 itu masih lagi 6 bilion lebih. Dan itu lebih tinggi daripada peningkatan corporate income tax kan. Ya. Kemudian ada cukai-cukai yang lain lah Dia lebih kurang konsisten lah Jadi jumlah cukai yang dijangka dikutip Untuk 2027 adalah RM297 bilion berbanding RM281 bilion unjuran 2026. Kemudian campur pula non-tax revenue, hasil bukan cukai. Hasil bukan cukai ni selalunya dividen lah. Dividen Petronas, dividen Bank Negara, dividen semua lah kan. Adalah benda-benda lain, royalty ke apa kan. So yang itu dia quite consistent lah dalam RM83 bilion. Terima kasih kerana menonton! jumlah hasil keseluruhan 2025 ialah Rp336 bilion 226 unjuran yang disemak ialah 364 bilion. Kemudian 2027... Dia diunjukkan hasil keseluruhan kerajaan ialah RM381 bilion. Cuba tolak RM381 bilion dengan RM336. Itu lebih kurang berapa? Itu RM45 bilion. 45 kan. Jadi ini perspektif dia lah. kepada rakyat kan So cuba key ke Base dia 20-25 Dalam 2 tahun kan 45 bahagi 3-3-6 Itu berapa peratus naik tu 13 lah 13 peratus Maksudnya dalam Dalam 2 tahun hasil naik 13% lebih maksudnya Encik tak tahu 6% hasil dalam 2 tahun ni daripada 2025 sampai untuk 2027 tu dia akan meningkat 45 bilion kan Sebenarnya, kalau RM45 bilion, cuba aku bayangkan RM45 bilion, kan? Sepatutnya, you would expect ada... Significant incremental change To the country Sebab Every year ni Ada dalam 20 billion tambahan 20 billion tambahan So Itu yang kita nak kena ukur lah kepada perkara-perkara yang diumumkan hari inilah, adakah that significant change, significant increase in revenue, lebih kurang 20 billion setahun lebih kan, adakah itu berjaya diterjemahkan kepada hidup rakyat yang lebih baik ataupun ekonomi yang lebih rancang untuk masa depan, Ataupun kita berjaya mengukuhkan kedudukan kewangan kita di masa akan datang. And you know the answer lah. No. If anything, itu yang bila saya tengok semua itu, saya kata Allah, letih kita macam ni maksudnya. Ambil contoh lah, kau gaji makin naik tu. Katakanlah gaji kau kan. Gaji kau tahun ni RM10,000. Tahun depan jadi RM11,500. Lepas tu tahun sekali lagi dah jadi RM13,000. Tapi hidup kau sama je tau, gaji tu naik. So then you have to ask question, eh, you know, what went wrong lah, so dan itu yang kita nak juga nilai sekarang kan, jadi Itu revenue
 
-[1:30:47] Speaker 2: So Apa nama ni? Yang itu diumumkan bila dia sebut jumlah perbelanjaan tahun depan ialah RM510 bilion itu seolah-olah, bukan seolah-olah lah, itu bila dimasukkan di dalam belanjawan kerajaan. Itu ialah projek kerajaan
+[1:17:48] Haziq: Next kita ke Expenditure pulak Expenditure kan Macam mana pecahan
 
-[1:31:07] Speaker 5: Hmm, ok
+[1:17:53] Rafizi: Daripada situ kita dah boleh Mula nampak lah sedikit sebanyak kan So kerajaan daripada RM381 bilion Belanja mengurus kerajaan ialah RM377 bilion. 381 Tolak 377 Eh tak payah pakai lah Yang tu boleh kirikan kepala 381 Tolak 377 4 bilion So you bayangkan Tambah-tambah 20 bilion setahun tu Tapi belanjanya Makin tinggi Dan makin tidak terkawal So dia jadi macam nyawa-nyawa ikan setiap tahun tu. Sedangkan rakyat duk kata, Allah makin teruk, cukai makin aku kena banyak bayar, and you tak boleh nak salahkan rakyat tu. Memang betul. Cukai bertambah dengan tinggi tiap-tiap tahun. Lebih kurang 20 bilion setiap tahun rakyat kena bayar. Cukai pendapatan naik, cukai korporat naik, SST naik, semua ada kutip lagi banyak ni kan. Of course lah, dia akan kata, oh salah nak sebut macam itu. Kami kutip lebih banyak kerana GDP berkembang. Well, dia bergantung juga sebab kita dah bincang dalam podcast yang sebelum-sebelum ni kan. GDP tu angka kasar negara. Bila GDP berkembang, bukan semua orang atau semua bisnes tu dapat laba. Terima kasih kerana menonton! Dan kita dah tengok untuk Malaysia, GDP yang diwawakan, pertumbuhan ekonomi yang diwawakan 5.6% tu, sebahagian besarnya dipacu oleh beberapa industri sahaja, terutamanya yang berorientasikan ekspor dan semikodator. Yang lain, kalau kau pergi kat kedai sungai besi, aku rasa dia mengangkap macam biasa. Dia masih lagi kena bayar SST semua kan. So... You know, sebab itu, you have to ask the question, macam mana kutip semua ni tapi masih lagi nyangor-nyangor ikan, you get the answer bila tengok kepada perbelanjaan. Sebab perbelanjaan pun sama naik, tinggi kan. Satu, kita dah tahu maksudnya hasil tolak belanja mengurus tinggal 4 bilion. So... Sebenarnya kalau tak nak berhutang, kalau nak mencapai, maksudnya tak ada fiscal deficit langsung lah. Tak ada fiscal deficit langsung, maksudnya kita hanya ada empat bilir untuk buat sekolah, untuk... Untuk buat hospital, untuk semua lah, semua kapital memang kan. Memang tak cukup lah untuk 4 bilion kan. Jadi akhirnya kerajaan kena buat apa? Berhutang. Kerajaan pun kena sambung berhutang. Jadi sebab itu tiap tahun kerajaan kena berhutang lah. 70 bilion lebih, 80 bilion. Yang itu yang disebut sebagai fiscal deficit. Jumlah hutang yang diambil itu, Bila dibandingkan dengan saiz ekonomi, iaitu yang dapat 3.5%, 3.3% yang disebut sebagai fiscal deficit lah.
 
-[1:31:09] Speaker 2: ok That's not, ok kan So, dari segi pelaporannya Benda tu tak betul,
+[1:21:19] Haziq: Hutang di compare dengan saiz ekonomi itu kan?
 
-[1:31:15] Speaker 5: kan In layman terms, can I say Kaki klaim?
+[1:21:24] Rafizi: Jadi ada dua sinar duit contohnya kan? Katakanlah kita kutip cukai dengan sebegitu baiklah. Tahun depan 381 bilion kan. Tapi perbelanjaan kita, instead of naik 20 bilion, Makan semua kenaikan cukai Kutipan cukai lebihan tu Sebenarnya dia hanya 10 bilion sahaja Separuh sahaja Instead of 20 bilion dia 10 bilion Jadi 381 Tolak Tiga Tujuh Tujuh Maksudnya ada 14 bilion. Sekarang ni kan bila kita tolak 381, tolak 377, tinggal 4 kan. Yang lain tu kita kena pinjam semua kan. Tapi kalau senario yang berbeza, kutip 381, tapi sebab kita berjaya mengekang kenaikan perbelanjaan mengurus kerajaan kan, jadi instead of belanja 377, you belanja 367 so you ada basically current surplus lah kan, surplus masa you ada 14 bilion Terima kasih kerana menonton! You boleh buat keputusan, saya masih lagi akan meminjam RM78 bilion yang perlu dipinjam, yang sekarang ini dipinjam. Tapi beza dia apa itu? Jumlah yang boleh digunakan untuk... melabur untuk buat sekolah, untuk buat hospital, untuk buat infrastruktur. Tambah 14, daripada 83, jadi tambah 14 bilion, 100 bilion. Yang itu yang rakyat akan nampak sebenarnya banyak benda yang berlaku. Sebab belanja mengurus ni orang tak nampak. Dia belanja bayar gaji, nanti kita go through, bayar gaji lah, bayar tu orang tak nampak. Yang orang nampak ni ialah belanja pembangunan. Jadi, yang itu jadi orang duk garu kepala. Eh, hutang makin naik, cukai makin tinggi tapi aku tengok sama saja. Sebabnya ialah kerana belanja pembangunan itu dia bila semua kutipan cukai dan kenaikan cukai itu digunakan untuk membayar mengurus, then you don't have anything left untuk belanja pembangunan. Kalaupun, kenapa contohnya sekarang? Bila tinggal 4 bilion je, kenapa kerajaan tak boleh nak berbelanja 100 bilion untuk belanja pembangunan supaya lebih cepat hospital, sekolah, rumah semua ni.
 
-[1:31:20] Speaker 2: Well, aku tak kisah kalau orang klaim, kaki klaim semua tu kalau dia tak ada kesan governance yang tinggi. Which is what I want to come next. Kenapa aku sangat bimbang bila Dato' Sri Anwar ni di bawah dia dengan Dato' Sri M. Hamzah ni, dia mencampur adukkan antara kerajaan dengan glik, dengan step bodies, dengan MKD semua ni tu. Sebabnya dia ada isu governance yang sangat tinggi Dan kita pernah melalui benda ini kan Moral hazard ni tu adalah sangat tinggi Yang Dato' Sri Anwar nak claim tu ke suka dia lah dia claim apa Tapi kesan dia kepada financial governance dan economic governance is sangat tinggi kan Contohnya kan Yang paling bahaya ialah You buka pintu, GLICS dan stat body semua ni, agensi apa nama ni, JLC semua ni, you buka pintu kepada politician. Contohnya, contohnya. Katakanlah Datuk Seri Anwar kalah pilihan raya akan datang. Masuk pula Datuk Seri Zahid Amidi jadi Perdana Menteri. Dia pun jadi Menteri Keuangan juga kan? Dia arahkan KWSP Pergi buat satu pusat industri baru di Bagandatuh. Benda tu KDRSP tau, satu is not my business, I'm a fund investor tau. I don't run projects, I don't fund specific projects. Asset allocation saya ni lain, saya beli bond, equity pun saya beli sikit je. Because as a pension fund, my asset allocation strategy is very different. I don't run company. Tapi, You suruh I pergi take a risk untuk habiskan RM500 juta untuk buat satu taman industri di Bagan Datuk
+[1:23:55] Haziq: Logically, kalau dia pinjam lagi banyak, Nanti dia kena bayar kos itu lagi besar. Well, itu satulah, itu satu.
 
-[1:33:29] Speaker 3: kan
+[1:24:04] Rafizi: Tapi, sasaran kerajaan. Dia akan merosakkan sasaran kerajaan. Kerana kita ada, Datuk Seri Anwar memang dah komit, Dan itu dah memang jadi akta Dan aku pun dulu memang antara yang paling kuat menjerit Bahawa jumlah hutang semua ni tak boleh berhutang banyak Jadi sebab itu ada sasaran defisit Dan sasaran defisitnya ialah menjelang tahun 2028 Kena turun kepada 3% sahaja So kalau dia pinjam tahun ini 100 bilion Tahun ini dia tak jadi 3.3 lah Aku malah nak kira juo tak ada So because of that Because you can control your deficit Maka dia menghadkan berapa boleh belanja Sebab you butang orang So the way to make sure Pembangunan kemudahan kepada rakyat itu lebih cepat Ialah dengan memastikan Belanja mengurus itu Terkawal Supaya jangan You kutip 381 You pergi belanja 377 Supaya tak payah kutip banyak tu So Kalau tengok 2025, 206, 207 Dipanggil Current surplus Current surplus maksudnya hasil Tolak perbelanjaan, belanjaan menguruskan Lebih kurang sama je So kutip banyak Belanja mengurus pembanyak, akhirnya untuk pembangunan ini kekal sama. Jadi bila kekal sama, orang tak rasa berubah-ubah. Satu lagi perkara yang Saya dah sebut tau tahun lepas Ya Saya nak kena sebut lagi tahun ini, ini adalah perkara yang paling membimbangkan berkenaan dengan belanjawan-belanjawan sejak Datuk Seri Anwar dan Datuk Seri Amir Hamzah ini memegang MOF. Dia tak pernah berlaku zaman dulu, Hatta zaman Najib. Tak pernah berlaku. Dan dia saya rasa tak dibuat oleh negara lain.
 
-[1:33:31] Speaker 2: Now kalau masa tu Datuk Seri Zaid Hamidi kalau you nak gaduh Anwar Ibrahim angkat tangan Tak boleh ini governance teruk Tata kelola Tata kelola teruk Zaid Hamidi gelak Well aku ikut engkau, engkau yang buat macam tu dulu So ambil contoh yang diumumkan di dalam Dalam belanjawan ni kan Korang perasan tak Ya aku baca tu line by line Siksa hidup aku Nak boleh sampai ke malam ni kan Kumpulan wang amanah persaraan Kuap akan membelanjakan sekitar RM650 juta untuk membina asrama-asrama di UNISA di enam universiti termasuk di UNISA dan UITM. What business does Kuap has Ini Kuap Okay satu eh Ini Kuap bagi bercuma ke apa? 650 juta ini untuk bina asrama di universiti itu ialah projek kerajaan yang sepatutnya tak ada pulangan. Itu memang government obligation, well not CSR, it's government obligation. Memang kerja kerajaan membina infrastruktur yang tak ada pulangan kepada kerajaan kerana dia kutip cukai daripada rakyat. Kerja dia ialah kutip cukai and decide macam mana nak mengembalikan cukai itu dalam bentuk public infrastructure For rakyat public utility kan So kalau kerajaan buat Dengan peruntukan dia RM650 juta Make sense lah Memang itulah So ambillah daripada peruntukan Yang kutip cukai Semua tu kan Ini tak tau Dia suruh kuap Kuap yang akan buat ni kan So kalau 650 juta Kuap buat kan Now, dia jadi hewaya. Satu, you nak classify benda ni apa? CSR. Jadi, Going back to yang aku kata tadi kan, buka pintu kepada politik. Hari ini suruh buat asrama dekat UITM semua ni. Pakai duit pension tu, pakai duit kuap kan. Eh kalau Zahid Hamidi suruh buat pusat litar lumba motor besar di Bagan Datuk. CSR itu untuk orang bagan datuk main motor besar Jadi, bagaimana? Dia PM. Dan Dato' Sri Anwar yang selalu menjerit Tata Kelola tu dia yang mulakan semua Dia
+[1:26:17] Haziq: Apa dia? Boleh jawab, YB? Bolehlah. Sebab saya ingat yang YB sebut dalam Belanjawan Tahun Lepas Bunyi Podcast juga, penglibatan GLC dan Gleek.
 
-[1:36:09] Speaker 5: macam Seperti apa yang kita lihat di Telda Macam what we saw dekat skandal-skandal Mak Mara and all that kind of stuff right?
+[1:26:30] Rafizi: Jadi bila dia umum kan, Datuk Seri Umum, Datuk Seri Anwar Umum, bunyi dia hebat tau. Tahun ini. Kerajaan memperuntukkan 510 bilion Wah, 510 bilion Bila kita tengok, sebenarnya Yang akan dibelanjakan RM510 bilion Sebenarnya RM25 bilion Daripada GLEG Kemudian daripada konsesi, PPP, Public Private Partnership, ini yang kita pernah ulas. Ini antara sebab kenapa hutang kita teruk semualah. PPP ada lagi, 11 bilion projek baru. Baru ke? Ya lah, of course. Bila dia umum dalam bajet 2027, maksudnya yang baru lah tu. Kan Sebab Yang lama Dah masuk di dalam OPEX Dengan OE Dengan DE ni Yang itu dah factor in lah Dah sign contract Dan dah nak kena bayar Tiap-tiap tahun Macam kena bayar Pasal UiTM Dah sign dulu Tiap-tiap tahun Bayar Bayar Bila dia tulis Akan ada perbelanjaan 11 bilion Daripada PPP Ini yang baru Baru Ada lagi Ya Kemudian, Badan Berkanun dan juga anak-anak syarikat, Kementerian Kewangan Diperbadankan, MKD. 14 bilion Kila campur 3 itu 25, campur 11, 36, 36, campur 14, 50. Dia umum 50 bilion yang sebenarnya bukan belanjawan pun.
 
-[1:36:22] Speaker 1: Against mandat yang sepatutnya dia buat. Okay that goes to the second
+[1:28:10] Farhan (Pa'an): So, you are seeing yang... Sebenarnya ini bukan amalan... Any government lah? No.
 
-[1:36:25] Speaker 2: thing. Itu yang maksudnya yang satu itu buka pintu kepada politician lah kan. Secondly you rightly point out setiap badan ini ada akta dia. Ada mandat dia. Dan kalau kuat, mandat dia ialah untuk jaga wang pencin rakyat. And because of that, dia ada investment panel dia, dia ada proses dia, dia tak boleh nak melabur dalam projek-projek infrastruktur macam ini. Kan? Kecualilah kerajaan akan membayar dua kali ganda. Kecualilah dia pun dah mula menjadi pemegang konsesi macam Tajuddin Rahman dulu. Pegang konsesi untuk buat. But then again, you have to ask the investment panel. Do you have the expertise untuk buat construction project? You are investment fund. So panjang cerita non-stop kan Sebab the moment dia lari daripada mandat dia kan Then last time lah benda ni berlaku Yang kita semua tahu Ialah masa zaman YMDB lah Haa, kuat. Kena bagi pinjaman kepada SRC, 4 bilion. Even then is pinjaman. Now it's just outright. Ni outright buat tau. So benda ni sangat-sangat membimbangkan kan. Jadi kemudian in the future nanti bila you dah buka pintu GLIX, JLC, StatBodies, MKD ni kepada politician Then dia akan kata lah, eh macam ni lah saya nak run program apa nama ni untuk buat majlis raya dekat kawasan saya 500 ribu bajet. You host lah dekat kawasan saya. We all know menteri banyak buat macam tu. That's why korang gelak. Sekarang ni berlaku, every year berlaku. Aku seorang je yang tak buat. Walaupun orang offer semua, aku macam mana pun kalau masa aku jadi menteri dulu dekat pandan tu, kesian orang pandan. Memang majlis open house raya aku paling cikai, paling murah sekali pakai duit kita orang. Sebab kau tidak, ini jadinya. You know, I ada program untuk pengundi I lah, you bayar. Dan inilah tata kelola yang akhirnya kembali kepada zaman dulu. So kalau orang luar duk tanya saya, why? You tak puas hati. Tu Hassan Karim tadi. Tanya, jangan kritik Anwar Ibrahim. What do you expect me to do? Kan, kita spend 20 tahun, 20 lebih tahun to fight all this, budaya macam ini. And then dia dibacakan dengan bangganya di dalam ucapan belanjawan. So, happy lah. Memang lah semua orang sekarang cium tangan dia, Anwar Ibrahim. Dr. Sri nak apa? Nanti saya buat semua. But, you know, you open the gates, then kalaulah. Kalau lah contohnya, Erm... Kerajaan bertukar And BNPN masuk You think PH has any moral Standing untuk complain pasal benda ni Tinggal kita kat bersama je lah Yang boleh melalak pasal benda ni Tapi kita parti kecil We cannot fight all this Kan Tapi orang akan kata Oh janganlah bagi PH kalah Nanti BNPN Memerintah Apa bezanya dia buat sebiji macam BNPN In fact zaman BNPN Zaman BN dulu Tak pernah kuat kena pergi buat Benda-benda macam ni Tak pernah kena buat infrastruktur semua kan Alah kuap tak habis lagi cerita e-fisery 250 juta. Betul kan? Kan? Dan satu lagi benda yang saya dah sebut tadi lah. Yang membimbangkan bila kita tengok in total ni kan Maksudnya pattern PPP tu masih lagi ada lah Pattern konsesi 11 bilion tahun depan Akan ada konsesi baru 11 bilion Dulu sama lah kita duduk bising lawan IPP ni semua konsesi lah IPP ke apa semua lebur raya yang merugikan rakyat You would have thought lah benda ni dikawal dengan bagus lah Nak buat PPP boleh Tapi dia kena jadi macam yang dicadangkan di dalam Belanjawan Bayangan Bersama. Dia kena ada Suruhanjaya Kewangan Awam, Public Finance Commission. Supaya apa yang kerajaan luluskan dan tanda tangan bagi pihak rakyat untuk 30 tahun akan datang di belakang pintu, Yang itu mesti dinilai dan menjadi pengetahuan umum melalui kaedah satu suruhanjaya kewangan awam yang bebas. So that public finance commission tu boleh tengok and dia kata, actually kerajaan kau ni mengugikan. Kalau buat macam ini, rakyat akan bayar banyak-banyak. Ini tanggungan dia macam-macam. Dia tak boleh dah macam sekarang ni, semua konsesi PPP rahsia sulit negara. Bila kita bercakap atau kita dedahkan saja, masuk penjara. Tak boleh lah. So but dalam ucapan belanjawan tak adalah. There's no safeguards, there's no guardrails, there's no reform kepada mekanisme PPP yang ada sekarang ni. Again, Penerusan amalan-amalan yang dulu Dato' Sri Anwar lawan. Kau bercakap sikit aku penat. Aku stres beria aku bila
+[1:28:19] Rafizi: Dan bila Joe contohnya juru ekonomis katakanlah macam Joe dekat Joe Dulu makro dia panggil apa makro ASEAN plus 3 kan Ataupun dekat IMF ataupun dekat OECD ataupun dekat World Bank Semualah in the world ni kan Even dekat bank negara pun I'm sure Diorang tetap look kepada standard reporting dunia tau Bila dia nak kira Dia sebenarnya hanya kira yang kat atas dua tu je, OPEC. Sebab yang itu je yang dibelanjakan daripada cukai. So yang itu yang dibelanjakan daripada cukai dan pinjaman oleh kerajaan. Dan satu lagi ialah kesemua yang disebut yang lain tu, GLEG Investment, PPP, StatBodies dengan MKD semua ni kan. Semua ni di luar kawalan kerajaan.
 
-[1:42:21] Speaker 1: tengok macam ini kan letih aku. Okay baik YB. Yang ni mungkin kita dah selesai yang bab ni lah. Next mungkin kita sentuh bab yang YB pernah sentuh dekat thread baru-baru ni lah yang ada orang mendakwa YB cakap.
+[1:29:11] Farhan (Pa'an): Okay, so Sarje nak main Devil's Advocate kan? Dia akan kata, especially Gleek dengan under MOF Incorporated, dia akan kata, look, yelah, they are not government coffers, tapi they are semi-government, so they have extra money, why not we use them, macam kita ambil... I don't know whether it's a good, in comparison lah, Petronas ni dividen. Why can't we use SPAR?
 
-[1:42:38] Speaker 2: Kesian kat dia. Dia sebenarnya menonton podcast aku kita kan. Jadi dia kata aku mencelah salah konteks. Tak apalah so.
+[1:29:38] Rafizi: That is a very bad example because Petronas dividen lain. Petronas dividen, bila dibayar kepada kerajaan, itu jadi hasil kerajaan. Bila dah masuk ke kumpulan wang disatukan, consolidated fund kerajaan, then terpulang kerajaan lah macam mana dia nak membelanjakan. Yang ini, duit tak masuk kerajaan langsung ni. RM25 Bilion Gelik investment Ini bukannya gelik bagi RM25 Bilion kepada kerajaan Gelik buat hal dia je Cuma, projek-projek yang Gleek buat dia itu is announced sebagai projek kerajaan. So, one good example, ya, ya, ya. So, dia announced as projek kerajaan. Dia tak ada kena-kena dengan kerajaan. Contoh dia, Kazana setahun, dua tahun lepas dan diumumkan di dalam belanjawan-belanjawan yang lepas. Kazana buat dua projek. Satu ialah kakosah asli negara. Satu lagi ialah bangunan Ustaz Abdul Sahamak kan? Dalam belanjawan umum lah. Pang, pang, pang, lima ratus juta semua.
 
-[1:42:47] Speaker 1: Tapi tak tahu apa yang dia dengar lah. Tak tahu
+[1:30:42] Farhan (Pa'an): Pertama Najib diorang buat taman Tugu.
 
-[1:42:48] Speaker 2: apa yang dia dengar lah. Aku memang daripada dulu membebek pasal hutang.
+[1:30:46] Rafizi: Ya, ya, ya. So... Apa nama ni? Yang itu diumumkan bila dia sebut jumlah perbelanjaan tahun depan ialah RM510 bilion itu seolah-olah, bukan seolah-olah lah, itu bila dimasukkan di dalam belanjawan kerajaan, ...itu ialah projek kerajaan. Okay, okay. And then that's not... Okay, kan? So, dari segi pelaporannya, benda itu tak betul.
 
-[1:42:53] Speaker 1: Dia kata hutang ni tak ada masalah. Tapi saya rasa kalau saya terdengar pula dalam launching bersama punya belak-belak bajet bayangan. WB kata conventional wisdomnya adalah... Memang tak ada masalah untuk roll over hutang Sebab ialah kerajaan dia immortal So memang dia akan roll over roll over roll over Dan sebab itu So dia dengar kat situ je ke? Mungkin lah tak ada masalah hutang Haa Kan lojin Mungkin lah Tapi mungkin kita akan kupas benda ni lah Sebab kalau jadi rakyat pun ni lah rakyat As long as ada gula-gula kepada kita untuk meringankan sikit beban kita ni Tak apalah kerajaan nak hutang semua Well, tak nampak dia punya kesan kepada kita So mungkin YB boleh sedarkan kami semua
+[1:31:15] Farhan (Pa'an): Okay. In layman terms, can I say kaki klaim? Kaki klaim?
 
-[1:43:47] Speaker ?: Sigh...
+[1:31:20] Rafizi: Well, aku tak kisah kalau orang klaim, kaki klaim semua itu kalau dia tak ada kesan governance yang tinggi. Which is what I want to come next. Kenapa aku sangat bimbang bila Dato' Sri Anwar ni, di bawah dia dengan Dato' Sri Amin Hamzah ni, dia mencampur adukkan antara kerajaan dengan gelik, dengan step bodies, dengan MKD semua ni tau. Sebabnya dia ada isu pemerintahan yang sangat tinggi. Dan kita pernah melalui benda ini kan. Moral hazard itu adalah sangat tinggi. Yang Datuk Sri Anwar nak klaim itu ke sekedialah dia klaim apa. Tapi kesan dia kepada pemerintahan dan pemerintahan ekonomi sangat tinggi kan. Contohnya kan, yang paling bahaya ialah Kamu buka pintu, GLEKS dan State Body semua ini, agensi, apa namanya, JLC semua ini, kamu buka pintu kepada politisya. Contohnya Katakanlah Datuk Seri Anwar kalah pilihan raya akan datang. Masuk pula Datuk Seri Zaid Amidi jadi Perdana Menteri. Dia pun jadi Menteri Kewangan juga kan? Dia arahkan KWSP Pergi buat satu pusat industri baru di bagian Datuk. Benda itu KDRSP tahu, satu, it's not my business. I'm a fund investor. I don't run projects. I don't fund specific projects. Asset allocation saya ni lain. Saya beli bond. Equity bond saya beli sikit je. Because as a pension fund, my asset allocation strategy is very different. I don't run company. Tapi... You suruh I pergi take a risk untuk habiskan RM500 juta untuk buat satu taman industri di bagian Datuk, kan? Now, kalau masa tu Datuk Seri Zahid Amidi, kalau you nak gaduh, Anwar Ibrahim akan tak boleh, ini governance teruk. Tata kelola. Tata kelola teruk. Zahid Amidi gelap, well aku ikut engkau, engkau yang buat macam tu dulu. So ambil contoh yang diumumkan di dalam Dalam belanjawan ni kan Korang perasan tak Eh aku baca tau line by line Seksa hidup aku Nak boleh sampai ke malam ni kan Kumpulan wang amanah persaraan Kuap akan membelanjakan sekitar RM650 juta untuk membina asrama-asrama di UNIZA, di enam universiti termasuk di UNIZA dan UiTM. What business does co-op has Ni co-op Okay, satu ya Ini co-op bagi percuma ke apa? 650 juta ini untuk bina asrama di universiti itu ialah projek kerajaan yang sepatutnya tak ada pulangan. Memang kerja kerajaan membina infrastruktur yang tak ada pulangan kepada kerajaan kerana dia kutip cukai daripada rakyat. Kerja dia ialah kutip cukai and decide macam mana nak mengembalikan cukai itu dalam bentuk publik infrastruktur For rakyat, public utility kan. So kalau kerajaan buat dengan peruntukan dia 650 juta, make sense lah. Memang itulah. So ambillah daripada peruntukan yang kutip syukai semua tu kan. Ini tak tahu Dia suruh kuap-kuap yang akan buat ni kan So kalau 650 juta kuap buat kan Now, dia jadi hewaya. Satu, you nak classify benda ni apa? CSR. So Coming back, going back tu yang aku kata tadi kan. Buka pintu kepada politik. Hari ni suruh buat asrama dekat UiTM semua ni. Pakai duit pension tu, pakai duit kuat kan. Kalau Zahid Hamidi suruh buat Pusat Lita Lumba Motor Besar di bagian Datuk itu untuk orang bagandatuh main motor besar Jadi, bagaimana? Dia PM. Dan Datuk Seri Anwar yang selalu menjigit tatah kelola itu dia yang mulakan semua.
 
-[1:43:49] Speaker 3: Aku rasa aku mati awal Sabar Stress tengok semua ni kan Dah lah
+[1:36:05] Farhan (Pa'an): Dia macam... Seperti apa yang kita lihat di FELDA Macam what we saw dekat skandal-skandal mak marah and all that kind of stuff, right?
 
-[1:43:57] Speaker 2: Minggu lepas stress Buat assignment last minute So lain kali jangan buat assignment last minute lah kan Bila tengok semua ni stress Bahagiannya kan projection aku tu tak lari jauh kan, ok, tengok eh kita akan berbelanja 300 aa 77 bilion. Dalam lanjir mengurus kan
+[1:36:22] Haziq: Against mandat yang sepatutnya dia buat. Okay, that goes to the second thing.
 
-[1:44:23] Speaker 1: Hmm
+[1:36:26] Rafizi: Itu yang maksudnya yang satu tu buka pintu kepada politisian lah kan. Secondly, you rightly point out setiap badan ini ada akta dia. Ada mandat dia. Dan kalau keluar, mandat dia ialah untuk jaga wang pencin rakyat. And because of that, dia ada investment panel dia, dia ada proses dia, dia tak boleh nak melabur dalam projek-projek infrastruktur macam ini. Kan? Kecualilah kerajaan akan membayar dua kali ganda. Kecualilah dia pun dah mula menjadi pemegang konsesi macam Tajuddin Rahman dulu. Pegang konsesi untuk buat. But then again, you have to ask the investment panel. Do you, QAAP ni, do you have the expertise untuk buat construction project? You are investment fund. so panjang cerita non-stop kan sebab the moment dia lari daripada mandat dia kan dan last time lah benda ni berlaku Yang kita semua tahu ialah yang masih sama UMDB lah. Kena bagi pinjaman kepada SRC 4 bilion even then is pinjaman even then now it's just alright ni alright buat tau so so benda ni sangat sangat membimbangkan jadi kemudian in the future nanti bila you dah buka pintu GLEK GLC stat bodies MK MKD ni kepada politician Then dia akan katalah eh macam ni lah saya nak run program apa namanya untuk buat majlis raya dekat kawasan saya RM500,000 bajet. You host lah dekat kawasan saya. We all know menteri banyak buat macam tu. That's why korang gelap. Sekarang ni berlaku, every year berlaku. Aku seorang je yang tak buat. Walaupun orang offer semua, aku macam mana pun, kalau masa aku jadi menteri dulu dekat pandan tu, kesian orang pandan. Memang majlis open house raya aku paling cikai, paling murah sekali pakai duit kita orang dekat. Sebab kau tidak, ini jadinya. You know, I ada program untuk pengundi I, you bayar. Dan inilah tata kelola yang akhirnya kembali kepada zaman dulu. So kalau orang luar duk tanya saya, why you tak puas hati? Itu Hassan Karim tadi. Tanya, jangan kritik Anwar Ibrahim. What do you expect me to do? Kan kita spend 20 tahun, 20 lebih tahun to fight all this, budaya macam ini and then dia dibacakan dengan bangganya di dalam ucapan belanjawan. dia happy lah memang lah semua orang sekarang cium tangan dia Anwar Ibrahim, Datuk Seri nak apa nanti saya buat semua but you know you open the gates then kalaulah Kalau lah contohnya Kerajaan bertukar. And BNPN was so. You think PH has any moral... Untuk komplain bersama benda ni Tinggal kita kat bersama je lah Yang boleh melalak bersama benda ni Tapi kita parti kecil We cannot fight all this Kan Tapi orang akan kata Oh janganlah bagi PH Kalah Nanti BNPN Memerintah Apa bezanya Dia buat sebijik macam BNPN In fact zaman BNPN Zaman BN dulu Tak pernah kuap Kena pergi buat Benda-benda macam ni Tak pernah kena buat infrastruktur Semua kan Dahlah kuap tak habis lagi cerita E-Fishery 250 juta Betul kan Dan satu lagi benda yang saya dah sebut tadilah. Yang membimbangkan bila kita tengok in total ni kan. Maksudnya pattern PPP tu masih lagi ada lah. Pattern konsesi 11 bilion tahun depan. Akan ada konsesi baru. 11 bilion. Dulu sama lah. Kita duduk bising lawan IPP. Ini semua konsesi lah. IPP, kelepas semua lebuh raya yang merugikan rakyat. You would have thought lah benda ni dikawal dengan bagus lah. Nak buat PPP boleh. Tapi dia kena jadi macam yang dicadangkan di dalam belanjawan bayangan bersama. Dia kena ada suruhan jaya kewangan awam, Public Finance Commission. Supaya apa yang kerajaan luluskan dan tanda tangan bagi pihak rakyat untuk 30 tahun akan datang di belakang pintu, Yang itu mesti dinilai dan menjadi pengetahuan umum melalui kaedah satu suruhan jaya kewangan awam yang bebas. So that public finance commission tu boleh tengok and dia kata, actually kerajaan kau ni mengugikan. Kalau buat macam ni, rakyat akan bayar banyak-banyak ni tanggungan dia macam-macam ni. Dia tak boleh dah macam sekarang ni, semua konsesi PPP rahsia sulit negara. Bila kita bercakap atau kita dedahkan saja, masuk penjara. Tak bolehlah. So but dalam ucapan belanjawan tak adalah. There's no safeguards, there's no guardrails, there's no reform kepada mekanisme PPP yang ada sekarang ni. Again. penerusan amalan-amalan yang dulu Datuk Seri Anwar lawan Kau bercakap sikit Aku penat Aku stress Beria aku Bila tengok Macam ini kan Letih aku
 
-[1:44:25] Speaker 2: pecahan-pecahan sama juga tau, dia dalam pelaporan antarabangsa semua ni, dia Dia ada minimum requirement of disclosure lah Apa belanja kategori perbelanjaan dengan Kerajaan Malaysia MOF punya perincian tu sebenarnya Agak Agak kurang Negara-negara lain Yang aku pernah check Dia lebih mendalam Tapi At the very least Tak apalah Kita tengok kan Jadi Macam mana 377 juta itu Akan dibelanjakan kan Hmm Perbelanjaan yang terbesar sebanyak RM112 bilion adalah gaji. Okay now. I think part of it sebenarnya sebab aku dah buat bising selama ni pasal subsidi, pasal debt service charge memang kan Dia gabungkan tau subsidi and social assistance jadi satu Ada tahun-tahun yang sebelum itu sebenarnya dia asingkan Subsidi lain, social assistance lain. Dalam belanjawan. Ya kan? Remember kan? Ya.
+[1:42:24] Haziq: Okay Baik YB Yang ni mungkin kita dah Selesai Yang bab ni lah Next Mungkin kita sentuh Bab yang YB pernah sentuh Dekat thread Baru-baru ni lah Yang ada orang mendakwa YB cakap Kesian kat dia Dia sebenarnya Menonton podcast aku
 
-[1:45:46] Speaker 4: Sebab it's actually very misleading. Sebab kita tak boleh nampak berapa actually spend
+[1:42:41] Rafizi: Kita kan Jadi dia kata Aku mencelah Salah konteks Tak apalah so
 
-[1:45:49] Speaker 2: specifically on subsidy. So I remember, in fact 2-3 tahun yang lepas, so even before that, subsidy is shown as one line, ada transfers lah, social assistance is shown separately lah kan. Sekarang dia combine kan. Bang! kepada pemahaman mengenai belanjawan ni kerana Kalau you split, kalau ikut senarai sekarang lah Aku dah boleh agak lah jawapan MOF macam mana Dia kata Rafizi buat bising je Sebab sebenarnya belanja kedua terbesar ialah untuk rakyat Subsidi dan bantuan sosial Ya itu sebab you combine the number kan Kalau you split the number Selepas gaji, belanja yang paling besar adalah Bayar faedah, debt service charge Dia dah jadi second dah And I think Barely 2-3 tahun yang lepas Dia nombor 3 Dia selalunya yang paling tinggi For some years, ialah gaji, kemudian pension, kemudian debt service charge. Oleh kerana subsidi dengan social assistance, so separated, subsidi dengan social assistance memang lebih bawah daripada debt service charge. Now, dia dah combine kan? Tapi kalau tengok debt service charge ni kepada orang ramai, Untuk tahun 2027, Kita akan membayar RM61 bilion. And I did my, you know, back of the envelope projection lah. And I thought that at the rate kerajaan berhutang ni kan, menjelang tahun 2030, kita punya bayaran interest dah cross RM70 bilion. Tapi kalau gaya macam ni aku rasa lagi awal. So
+[1:42:47] Haziq: Tapi tak tahu apa yang dia dengar lah Tak tahu apa yang dia dengar
 
-[1:47:45] Speaker 4: mengikut unjuran saya, kita akan mencecah RM70 bilion dalam debt service charge menjelang 2030. In 3 years time, 4 years
+[1:42:49] Rafizi: Aku memang dari dulu membebek pasal hutang
 
-[1:47:56] Speaker 2: time. So kita akan cross, you know. Kita orang kira berasingan tau, dia kira asing aku kira asing kan. So the number, tengok ini mengesahkan lah yang kita akan cross RM70 bilion. Terima kasih kerana menonton! Kita tengok berapa kita kutip cukai tadi kan Nanti jam eh nak tengok eh Haa ya Kita kutip cukai SST untuk RM27.73 bilion. So that is how big is RM70 bilion. Maksudnya lah kan 3 tahun lagi... Kutip cukai tu, satu cukai tu kita kutip untuk bayar interest je tau. Kita ni hidup sebagai rakyat Malaysia, membayar satu cukai tu ialah untuk bayar interest. Kalau tengok untuk tahun 2027, banding kena bayar interest RM61 bilion, banding dengan kutipan cukai individu. Actually cukai individu RM52 bilion, bayar interest RM61 bilion. Maksudnya yang orang semua ni duk bayar cukai. Income tax masing-masing. Hei duit korang tak cukup tau untuk bayar interest kejap. So sebab itu I wanted to shift the discussion. You know, kita tak boleh semata-mata just nak tengok high level number Kata, ah it's okay You know, it's still sustainable Kita ada pendapatan Kalau you bayar sampai 61 bilion Sama macam satu cukai seluruh negara yang kutip untuk bayar interest Something is wrong with macam mana kita mengendalikan hutang kita lah Kalau contohnya Ini bukan hutang negara, ini hutang peribadi you kan. I don't think you buat macam ni. I don't think you boleh hidup gaji kerja-kerja 20% pergi bayar interest. Bukan principal tau, bayar interest sahaja. Kalau campur principal, most probably 40% bayar interest dengan principal kan. So itu benda yang... Apa nama ni terbesarlah daripada kita tengok OPEX ni kan Jadi maksudnya bila debt service charge ni dah mencecah 61 bilion Jumlah kita bayar interest ni Lebih besar sebenarnya daripada kita bayar RON95 Lebih besar daripada SARA, STR semua ni SARA, STR 16 bilion je lah Bagi kepada orang tua JKM Dia umumkan peningkatan 200 ribu orang akan dapat 3 bilion je Tapi you bayar interest 61 bilion That is the perspective Dan selalunya bila kita bercakap pasal ekonomi negara ni Rasmi-rasmi ni They don't want to put Perspective Into it kan Jadi Bila tolak semua, kemudian pension, kena bayar pension RM45 bilion. Kemudian satu lagi kategori yang besar, dia panggil transfer lah sebenarnya. Transfer ni ada dua jenis sebenarnya. Satu ialah untuk membayar step bodies. Jadi badan-badan kerajaan ni kan lembaga lah, lembaga sana, lembaga sini semua. Badan itu, badan ini kan. Dia ada akta sendiri. So they are not part of the kerajaan as we understand it, kementerian ke apa. dia dibiayai oleh kerajaan. Jadi termasuklah universiti semua ni semua masuk dalam transfer lah. Dan juga kepada kerajaan-kerajaan negeri. Jadi ini yang direct. Maris masuk kat sini. I think Maris capitation grant. Capitation grant masuk sini. Maksudnya perlembagaan kita menetapkan bayar sekepala. Setiap penduduk dalam negeri itu berapa ramai kali berapa-berapa transfer RM42 bilion. So, Ada beberapa perbelanjaan yang kita tak boleh lari. Dia panggil locked in expenses. Oh, charge expenditure lah. Haa, charge expenditure. Belum buat apa-apa, you dah memang kena bayar benda tu lah kan. Gaji tak boleh lari. Kemudian apa nama ni? That service charge tak boleh lari. That service charge tak boleh lari. Kemudian pension tak boleh lagi kan transfer tu pun sebenarnya tak boleh lagi Sebab dia dalam perlembagaan kan? Satu sebab dia dalam perlembagaan. Satu lagi sebab dia sebenarnya berkaitan gaji. Oh, okey. So, bila you transfer to staff bodies, you tak transfer kat dia, dia tak boleh bayar gaji lah. Dia orang tu semuanya basically quasi government. Haa kan? Cuma dia ada government dia sendiri. So, even transfer sebenarnya you tak boleh lari sangat kan? So, bila you tolak semua tu, semua ni dah lock in, lock in, lock in. Satu ialah subsidi dan juga social assistance. Satu lagi dipanggil supplies and services. Dan kalau tengok ni... Sebenarnya apa yang dalam supplies and services ni? Perbekalan ni, what exactly is in perbekalan?
+[1:42:53] Haziq: Dia kata Hutang ni tak ada masalah Tapi saya rasa Kalau saya terdengar pula lah Dalam apa ni Launching bersama Punya belak bajet bayangan WP kata conventional wisdomnya adalah ...memang tak ada masalah untuk rollover hutang. Sebab ialah kerajaan dia immortal. So memang dia akan rollover, rollover, rollover......dan sebab itu... So dia dengar kat situ je ke? Mungkinlah. Tak ada masalah hutang. Kan, Login? Mungkinlah. Tapi mungkin kita akan kupas benda inilah. Sebab kalau jadi rakyat pun, inilah rakyat... As long as ada gula-gula kepada kita untuk meringankan sikit beban kita ni, tak apalah kerajaan nak hutang semua well, tak nampak dia punya kesan kepada kita. So mungkin YB boleh sedarkan kami semua.
 
-[1:53:25] Speaker 4: So, seperti beli stationary, computer, travel, semua kan?
+[1:43:47] Speaker ?: Sari kata oleh Sari kata oleh Sari kata oleh Sari kata oleh Sari kata oleh Sari kata oleh Sari kata oleh Sari kata oleh Sari kata oleh Sari kata oleh Sari kata oleh Sari kata oleh Sari kata oleh Sari kata oleh Sari kata oleh Sari kata oleh Sari kata oleh Sari kata oleh Sari kata oleh Sari kata oleh Sari kata oleh Sari kata oleh Sari kata oleh Sari kata oleh Sari kata oleh Sari kata oleh Sari kata oleh Sari kata oleh Sari kata oleh Sari kata oleh Sari kata oleh Sari kata oleh Sari kata oleh Sari kata oleh Sari kata oleh Sari kata oleh Sari kata oleh Sari kata oleh Sari kata oleh Sari kata oleh Sari kata oleh Sari kata oleh Sari kata oleh Sari kata oleh Sari kata oleh Sari kata oleh Sari kata oleh Sari kata oleh Sari kata oleh Sari kata oleh Sari kata oleh Sari kata oleh Sari kata oleh Sari kata oleh Sari kata oleh Sari kata oleh Sari kata oleh Sari kata oleh Sari kata oleh Sari kata oleh Sari kata oleh Sari kata oleh Sari kata oleh Sari kata oleh Sari kata oleh Sari kata oleh Sari kata oleh Sari kata oleh Sari kata oleh Sari kata oleh Sari kata oleh Sari kata oleh Sari kata oleh Sari kata oleh Sari kata oleh Sari kata oleh Sari kata oleh Sari kata oleh Sari kata oleh Sari kata oleh Sari kata oleh Sari kata oleh Sari kata oleh Sari kata oleh Sari kata oleh Sari kata oleh Sari kata oleh Sari kata oleh Sari kata
 
-[1:53:31] Speaker 2: Basically, semua benda lain. Maksudnya daripada bayar lettering, bayar sewa, bayar apa nama ni, consumable. Kemudian untuk semua lah, khidmat yang lain semua tu, semua masuk dalam supplies and services.
+[1:43:49] Rafizi: Aku rasa aku mati awal Stres tengok semua ni kan Dah lah Minggu lepas stres Buat assignment last minute So lain kali jangan buat assignment last minute lah kan Bila tengok semua ni stres Bahagiannya kan Projection aku tu tak lari jauh Kita akan berbelanja RM300 RM77 bilion. dalam belanja mengurus. pecahan-pecahan sama juga tau dia dalam pelaporan antarabangsa semua ni dia Dia ada minimum requirement of disclosure lah Apa belanja kategori perbelanjaan Kerajaan Malaysia MOF punya perincian tu sebenarnya Agak Agak kurang Negara-negara lain Yang aku pernah cek Dia lebih mendalam Tapi At the very least Tak apalah Kita tengok kan Jadi Macam mana 377 juta itu Akan dibelanjakan kan Perbelanjaan yang terbesar sebanyak... RM112 bilion adalah gaji Okay now I think part of it sebenarnya sebab aku dah buat bising selama ni pasal subsidi, pasal debt service charge Dia gabungkan tau subsidi and social assistance jadi satu Ada tahun-tahun yang sebelum itu sebenarnya dia asingkan Subsidi lain, social assistance lain. Dalam Belanjawan. Dalam Belanjawan. Ya, kan? Remember kan? Ya. Ya, ya, ya.
 
-[1:53:51] Speaker 4: Overhead cost.
+[1:45:44] Speaker 4: Tak, sebab it's actually very misleading.
 
-[1:53:52] Speaker 2: Overhead, it's basically overhead cost. Kalau dalam account syarikat swasta kan, kan you ada revenue, lepas tu you telah cost of sale kan, kemudian you dapat gross profit kan. Now, supply and services adalah admin charges. Semua tu dalam admin charges tu lah. Nadi dan nyawa untuk jabatan kerajaan dan kerajaan berfungsi ni sebenarnya ialah dalam supply and services. So bila kita tolak semua, kita hanya ada RM45 bilion je untuk cover satu kerajaan. Dan itu adalah antara perbelanjaan yang paling rendah. Berbanding perbelanjaan yang locked in, yang lain, charge in, yang dah memang tak boleh lari. Sebab itu kalau tengok. Setiap musim, negara kita ada masalah kewangan sedikit, sebab tu orang mula komplain, kertas tak ada, toner tak ada. Okay, itu tak apa lagi. Selalunya repair and services jadi mangsa. Lampu tak boleh ganti, bumbung rosak, semua itu yang lama-lama jadi daif tau. Sebab those are not capital in nature. Itu adalah semua belanja yang anything you kena spend untuk running di organisation, itu masuk di dalam supplies and services. And finally, kita hanya ada... Supply and services, jadi kita hanya ada 4 bilion sahaja daripada current surplus kita dan kami dah ulas sahaja. When you have 4 billion current surplus, maksudnya because you have a fiscal deficit target 3%, 3.5%, that restricts how much you boleh belanja untuk belanja pembangunan. And that leaves where we are today lah.
+[1:45:47] Rafizi: Sebab kita tak boleh nampak berapa actually spend specifically on subsidy. So, I remember 2-3 tahun yang lepas. So, even before that, subsidy is shown as one line. Other transfers lah, social assistance is shown separately lah kan. Betul. Sekarang dia combine kan. Now, dia ada significant impact. Kepada pemahaman mengenai belanjawan ni Kerana Kalau you split, kalau ikut senarai sekarang lah, aku dah boleh agak lah, jawapan MOF macam mana. Dia kata Rafi Zee buat bising je sebab sebenarnya belanja kedua terbesar ialah untuk rakyat, subsidi dan bantuan sosial. Ya, itu sebab you combine the number kan. Kalau you split the number, selepas gaji, belanja yang paling besar adalah bayar faedah, Debt service charge. Dia dah jadi 2 tahun dah. And I think Beli 2-3 tahun yang lepas, dia nombor 3. Dia selalunya yang paling tinggi For some years ialah gaji, kemudian pension, kemudian debt service charge. Oleh kerana subsidi dengan social assistance, so separated, subsidi dengan social assistance memang lebih bawah daripada debt service charge. Now, dia dah combine kan? Tapi kalau tengok debt service charge ni kepada orang ramai eh, Untuk tahun 2027... Kita akan membayar RM61 bilion. And I did my back of the envelope projection. And I thought that at the rate kerajaan berhutang ni kan, menjelang tahun 2030, kita punya bayaran interest dah cross RM70 bilion. Tapi kalau gaya macam ni, aku rasa Lagi awal sesak So, mengikut unjuran saya, kita akan Mencecah
 
-[1:55:46] Speaker 4: Dan mungkin ada satu point yang saya nak ulas ialah when you only have 4 billion current surplus, it's very dangerous apabila oil price short come again. So let's say kalau ada kejutan oil price harga minyak, then we have to cut again lah. So macam tahun ni.
+[1:47:48] Speaker 4: RM70 bilion dalam Dat service charge
 
-[1:56:01] Speaker 2: Sebab itulah, bila dekat eh, bila dekat contohnya, macam tahun ni kan ada bila supply tu dekat. Agaknya dekat daripada mana ni? Supplies and services lah. Untuk hospital contohnya, bila dia kat KKM, supply and services ni sebenarnya apa dia dekat hospital ni? Elektrik semua kan? Elektrik semua tu ok lagi, apa lagi? Pekakas tu okey lagi apa lagi? Consumable ubat, medicine Medicine is not capex Ubat is there lah So degeneration lah ubat dia Consumable kat hospital tu semua ada kan What they call that, needle tak needle ni semua tu Everything lah Glove tak glove, everything generation So, untuk jabatan kerajaan biasa yang tidak banyak menggunakan consumable, dia tak ada. Dia bolehlah cuba tutup aircon ke apa semua kan. Tapi kalau kena hospital, KKM, you potong supply and services dia, then dia naya. So, dengan 4 bilion untuk tahun depan, Well, doa lah tak ada perang lagi. Because bila ada oil shock ke, ataupun ada gempa bumi ke, Okay, now for example, kalau ada... A.I. Crash
+[1:47:52] Speaker 4: Menjelang
 
-[1:57:27] Speaker 4: Demand crash lah kan
+[1:47:55] Rafizi: RM20.30 So, kita akan Cross, you know Kita orang kira berasingan tau, dia kira asing Aku kira asing, kan So, the number tengok ini Mengesahkan lah, yang kita akan Cross RM70 bilion Faedah I mean, just to give a perspective. Kita tengok berapa kita kutip cukai tadi kan Nanti jam eh nak tengok eh Haa eh Kita kutip cukai SST untuk 20, 27, 73 miliar. So, that is how big is 70 miliar. Maksudnya, kan, 3 tahun lagi... Kutip cukai tu, satu cukai tu kita kutip untuk bayar interest je. Kita ni hidup sebagai rakyat Malaysia, membayar satu cukai tu ialah untuk bayar interest. Kalau tengok untuk tahun 2027, banding kena bayar interest RM61 bilion, banding dengan kutipan cukai individu. sebenarnya cukai individu RM52 bilion bayar interest RM61 bilion itu tak cukup maksudnya yang orang semua ni duduk bayar cukai income tax masing-masing hey duit korang tak cukup tau untuk bayar interest kajahat so sebab itu I wanted to shift the discussion Kita tak boleh semata-mata Just nak tengok high level number Kata, ah it's okay It's still sustainable Kita ada pendapatan Kalau you bayar sampai 61 bilion Sama macam satu cukai seluruh negara yang kutip Untuk bayar interest Something is wrong with macam mana Kita mengendalikan hutang kita lah Kalau contohnya Ini bukan hutang negara, ini hutang peribadi you kan. I don't think you buat macam ni. I don't think you boleh hidup, gaji, kerja-kerja-kerja, 20% pergi bayar interest. Bukan prinsipal tau, bayar interest sahaja. Kalau campur prinsipal, most probably 40% bayar interest dengan prinsipal kan. So, itu benda yang... apa nama ni terbesar lah daripada kita tengok OPEX ni kan jadi maksudnya bila debt service charge ni dah mencecah 61 bilion jumlah kita bayar interest ni Lebih besar sebenarnya daripada kita bayar RON95. Lebih besar daripada SARA, STR semua ni. SARA, STR 16 bilion je. Bagi kepada orang tua JKM, dia umumkan peningkatan. 200 ribu orang akan dapat, 3 bilion je. Tapi you bayar interest, 61 bilion. That is the perspective. Dan selalunya bila kita bercakap pasal ekonomi negara ni, yang rasmi-rasmi ni they don't want to put perspektif into it kan jadi Bila tolak semua, kemudian pensyen, kena bayar pensyen 45 bilion Kemudian satu lagi kategori yang besar, dia panggil transfer. Transfer ni ada dua jenis sebenarnya. Satu ialah untuk membayar step bodies. Jadi badan-badan kerajaan ni kan lembaga lah, lembaga sana, lembaga sini semua. Badan itu, badan ini kan. Dia ada akta sendiri So they are not part of the kerajaan As we understand it Kementerian ke apa Tapi dia dibiayai oleh kerajaan Jadi termasuklah universiti Semua ni semua masuk dalam transfer lah Dan juga kepada kerajaan-kerajaan negeri Jadi ini yang direct Maris masuk kat sini I think Maris Capitation grant Capitation grant masuk sini Maksudnya Perlembagaan kita menetapkan Bayar sekepala Setiap penduduk Dalam negeri tu Berapa ramai Kali berapa-berapa Bayar kan Itu semua masuk Itu pun transfer 42 bilion So Ada beberapa perbelanjaan Yang kita tak boleh lari Dia panggil locked in expenses Or charge expenditure Belum buat apa-apa You dah memang kena bayar benda tu lah kan Gaji tak boleh lari Kemudian apa nama ni Dead service charge tak boleh lari Kemudian pensyen tak ada lagi kan transfer tu pun sebenarnya tak boleh lagi Sebab dia dalam perlembagaan? Satu sebab dia dalam perlembagaan. Satu lagi sebab dia sebenarnya berkaitan gaji. So bila you transfer to stat bodies, you tak transfer kat dia. Dia tak boleh bayar gaji lah. Dia orang tu semuanya basically quasi government. Cuma dia ada governance dia sendiri. So even transfer sebenarnya you tak boleh lari sangat kan. So bila you tolak semua tu, semua ni dah lock in, lock in, lock in. Tinggal ada dua je yang within government's control Satu ialah Subsidi lah dan juga Social assistance Satu lagi dipanggil supplies and services Dan kalau tengok ni Sebenarnya apa yang dalam Supplies & Services ni? Perbekalan ni, what exactly is in perbekalan?
 
-[1:57:29] Speaker 2: Ya ya Basically Kalau ada AI Boom burst Okay
+[1:53:25] Speaker 4: So,
 
-[1:57:33] Speaker 4: Bubble dia
+[1:53:26] Speaker 4: seperti
 
-[1:57:34] Speaker 2: burst lah Bubble dia
+[1:53:26] Speaker 4: beli,
 
-[1:57:35] Speaker 4: burst
+[1:53:27] Speaker 4: stationary,
 
-[1:57:36] Speaker 2: You know I follow ni kan Orang kata 2027 Tengok lah You tengok And then Dia akan mula Apa nama ni Shake The global Finance And sekarang ni pun bond yields memang historic high, record high. Kalau ada AI burst, that will disorientate the market even more. Dan dimula akan ada kesan lah kan, ringgit will be affected. Contohnya kan, because, okey lah dia panjang sikit lah. Macam contohnya, kalau anything like that happens, kalau People tend to go for safe haven You know If dollar strengthens Then Kalau dollar strengthens Harga minyak naik Subsidi pula meletup And ringgit akan weakens So Dia punya spillover effect Dia punya satu masalah tu kan Jadi sebab itu As much as possible You want to have a much bigger Current surplus Supaya ada buffer Hmm Okay, Joe dah ada. Kau boleh komen yang lain-lain pasal debt, pasal DSC yang lain lah, debt service charge kepada... debt to GDP ratio ke aku nak berehat je.
+[1:53:28] Speaker 4: computer,
 
-[1:59:01] Speaker 4: So mengenai apa tu budget tahun 2027 kan. So actually tadi kat interview dengan Ashraf ni saya pun ditanya lah. So what is my view, apa pendapat saya tentang debt to GDP ratio. Terutamanya kemampanan fiskal lah. So saya nak katakan di sini, Jika kita teruskan dengan status sekarang, model perniagaan sekarang seperti biasa, ia tidak mampan. Sebab kita ada satu akta, Public Finance and Fiscal Responsibility Act Dan akta ini dah menentukan We have to meet our debt to GDP ratio By 60% by 2028 Agak mustahil Agak mustahil sebab kat 2027 So based on deficit Berdasarkan deficit yang dinyatakan dalam budget 2027 Deficit Sorry debt to GDP ratio Is going to be at 63.7% So dalam satu tahun macam mana boleh bawah Macam mana boleh mengurangkan ke bawah 60% agama mustahil it's almost impossible so let's say worst case lah kita memang tak boleh mencapai 60% what are we going to do? So kita kena pergi ke parlimen MK2 atau MK kena, Menteri Keuangan kenalah bentangkan satu plan untuk convince dan explain, menerangkan kenapa kita tidak boleh mencapai. Tapi dia ada kesan yang lebih wider consequences. Apa kesan dia? Kesan dia is what if rating agency come in dan buat rating dan kata eh kenapa you tak mencapai. So rating agency akan macam SMP ke Moody's ke Fitch ke dia akan datang dan tengok eh kenapa you tak boleh buat ini. And then fiscal credibility you dah affected. So kita akan raise your rating. Sorry we are going to downgrade your rating. So kalau rating agency downgrade kita punya rating, it's going to be a problem. Sebab it means that kadar faedah akan naik lagi. Dan kalau kadar faedah naik lagi, DSC ni that service charge kena naik lagi.
+[1:53:29] Speaker 4: travel,
 
-[2:01:16] Speaker 2: DSC mungkin jadi RM70 bilion 2028 Jadi kita bayar cukai banyak-banyak hanya untuk bayar interest lah. Faedah. The funny thing lah pasal Fiscal Responsibility Act ni kan. Dia dibentangkan tahun 2023. I was happy for it. Kan. Hmm. As a person, I never believe myself. I mean, I never trust myself as a person. Maksudnya, hidup kita ni kena ada guardrails. Kita kena ada basically parameters. The do's and don'ts, right and wrong. Dia sama juga managing a country's finance. Kita tak boleh ikut kepala kita sajalah. Dan kalau kita tak... Tak letakkan di dalam akta Jadi dia janji tinggal janji lah. Nak buat, nak buat, tak buat kan. Jadi bila FRA dibentangkan 2023, I was very happy kan. And you know, I was very serious about fiscal glides, about semua ni kan. The irony is this. Melihat kepada kedudukan sekarang, projection, maksudnya FRA menetapkan menjelang 2028, fiscal deficit kena 3%. Yang itu mungkin boleh dicapai. Tapi that... 2GDP ratio 60% Kecualilah Tiba-tiba ada 60-70 bilion Jatuh daripada langit Kita pergi retire utang kita 60 bilion It's not that easy lah kan Jadi maksudnya 20-28 Apabila penilaian Menurut kehendak FRA itu dibentangkan di parlimen Memang akan gagal lah Yang Joe kata tadi tu Rating agency Semua tu satu hal lah Tapi yang politically maksudnya apa tau? Inilah legasi Dato' Sri Anwar Ibrahim sebagai Menteri Kewangan. Maksudnya, dia Menteri Kewangan yang membentangkan FRA, yang menetapkan we will achieve this through reform and fiscal discipline semua ini. Kemudian, di akhirnya, dia juga langgar dan dia juga gagal. So that is going, he's going. I mean I think now kita dah 2026 ni kan, masa 2027, I think we can, it's safe to say that dia akan gagal. Dia akan gagal. Jadi kalau dia masih lagi menteri kewangan masa tu, dia bolehlah bagi alasan semua kan. Tapi katakanlah kerajaan bertukar. Dia bukan Menteri Kewangan Parlimen will have a field day Lanyak Haa Kepada cap loss, cap loss Yang selalu duk kata Kenapa lah you bising Semua kan You know, saya sebenarnya tak bimbang sangat bila orang duk kata kenapa, itu semua kan. Because... Masa akan beritahu. Dan beberapa orang daripada kalangan kami ini... Kita bukan jenis suka sembang kosong. There are certain things that we say that has not happened yet. Tapi besar kemungkinan akan berlaku yang akan memalukan Dato' Sri Anwar and his record sendiri. Dan I don't think dia nak bagi alasan apa kalau yang ini kan. And dalam kes mengenai... Prestasi dia sebagai Menteri Kewangan Terutamanya sebab sebelum dia jadi Perdana Menteri Kita semua memang bimbang pasal hutang Dia pun dah ulang, dia dah maki Zafrul You know, kalau jadi Menteri Kewangan Kalau dia jadi PM, saya takkan lantik Zafrul semua ni kan Sebab hutang sebahagiannya sebab tu lah kan Now dia jadi Menteri Kewangan Rekod dia sebenarnya adalah Sama lah Kan Or even lebih buruk And the reason for that Yang Yang berlaku ialah kerana dia meneruskan apa yang telah dibuat berpuluh-puluh tahun sebelum dia. Itu yang maksudnya. Sebab itu I think when we continue to criticize, saya harap in 2028 nanti jemput balik saya dengan Joe to say we are from the future. Sebab itu kan kita dah kata dua tahun lepas dia akan gagal. Kalau boleh masa perbahasan parlimen itu, Tapi katakanlah kita orang tak ada kat parlimen Dan kita ada lah kat galeri kan dah cakap kan. If only dia dengar kepada kita orang, tak adalah jadi macam ini.
+[1:53:30] Speaker 4: semua kan?
 
-[2:06:18] Speaker 1: Mungkin sebelum kita... tamatkan yang berhutang ni just nak check Joe lah kita dah compare indicator dari tahun ke tahun and also kita tengok fiscal deficit, fiscal debt dari segi real GDP growth tu macam mana?
+[1:53:31] Rafizi: Basically, semua benda lain. Maksudnya daripada bayar elektrik, bayar sewa, bayar consumable, Kemudian untuk semualah, khidmat yang lain semua tu, semua masuk dalam supplies and services. Overhead cost. Overhead, it's basically overhead cost. Kalau dalam account syarikat swasta kan, kan you ada revenue, petunjukkan cost of sale kan, kemudian you dapat gross profit kan. Now, supply and services adalah admin charges. Semua tu dalam admin charges tu lah. Maksudnya, nadi dan nyawa untuk jabatan kerajaan dan kerajaan berfungsi ni sebenarnya ialah dalam supply and services. So, bila kita tolak semua, kita hanya ada RM45 bilion je untuk cover satu kerajaan. Dan itu adalah antara perbelanjaan yang paling gendah berbanding perbelanjaan yang locked in, yang lain charged in, yang dah memang tak boleh lari dah kan. Sebab itu kalau tengok. Setiap musim, negara kita ada masalah kewangan sedikit, sebab tu orang mula komplain, kertas tak ada. Apa nama ni? Toner tak ada. Toner tak ada. Okey, itu tak apa lagi. Selanjutnya, repair and services jadi mangsa. Lampu tak boleh ganti. Bumbung rosak. Semua itu yang lama-lama jadi daif tau. Okey. Sebab those are not capital in nature. Itu adalah semua belanja yang anything you kena spend untuk running di organisation, itu masuk di dalam supplies and services. And finally, kita hanya ada... Supply and services. Jadi kita hanya ada 4 bilion sahaja daripada current surplus kita. And then kami dah ulas sahaja. When you have 4 bilion current surplus, maksudnya because you have a fiscal deficit target 3%, 3.5%, that restricts how much you boleh belanja untuk belanja pembangunan. And that leaves where we are today. Dan mungkin ada satu poin yang saya nak ulas ialah when you only have 4 billion current surplus, it's very dangerous apabila
 
-[2:06:40] Speaker 4: real GDP growth saya rasa lebih on the optimistic side dia lebih on the higher side sebab kalau tak silap dia
+[1:55:53] Speaker 4: oil price shock come again.
 
-[2:06:48] Speaker 2: punya maksudnya dia punya midpoint of range tu is actually lower tapi still quite optimistic lah kot dah
+[1:55:55] Speaker 4: So let's say kalau ada kejutan oil price, harga minyak,
 
-[2:06:57] Speaker 4: Ya sebab dia punya kalau tak silap dia punya growth range is between 4.2 and 5.2 kan so it's actually higher from projection kita so projection party country dalam belanjuan bayangan kita we put it at 4 to 5% Lebih konservatif sikit So I think they are quite optimistic lah Dia ada downside risk Downside risk is external demand So kalau ada global AI Kalau bubble tu Kalau global AI bubble tu pecah Then very likely we won't be able to meet Target ni Sebab kebanyakan growth driver Pada tahun ini Dan mungkin tahun depan Kebanyakan Actually driven by external It's global It's global export boom In fact
+[1:55:58] Speaker 4: then we have to cut again.
 
-[2:07:43] Speaker 2: Kalaupun I hope tak ada Global AI Bubble burst lah Sebab nanti Habislah duit aku Okay shares aku dalam tech company yang kecil-kecil, I don't have much lah but you know I buy shares here and there lah sebab you know dia punya apa nama ni increase has been phenomenal kan so aku tak nak lah ada global bubble burst ni kan tapi yalah you monitor nampak at some point sebenarnya dia You know, quite difficult kalau I just hope that is a soft landing, it's not burst kan. Sebab kepada orang ramai lah untuk, ini benda-benda yang dalam belanjawan tak sebut tau. I would have thought bila growth tu is so driven by external demand, especially cheap demand kan. The biggest issue about cheap demand sekarang ialah this global AI bubble burst ni I would have thought that at least dia dia comment sikit lah, mention sikit lah kan but Jo eh, even kalau tak ada global bubble burst walaupun I, you know, I have my concern sebab Untuk menahan keperluan AI yang murah, anda mula melihat semua syarikat teknologi besar seperti Nvidia, Google, mereka telah memulakan pengisian kewangan. Mungkin tidak terlalu berkeliling. Tetapi pada dasarnya, Nvidia atau Google membeli wang dan kemudian Dia bagi duit dekat the smaller company tu untuk beli chip dia.
+[1:55:59] Speaker 4: So
 
-[2:09:37] Speaker 4: Ya, saya rasa
+[1:56:00] Speaker 4: macam tahun ni.
 
-[2:09:39] Speaker 2: saya telah menemui sesuatu. Jadi sebenarnya ia agak mengenai. Sejauh ini, pasaran berjaya
+[1:56:01] Rafizi: Sebab itulah. Bila dia cut, contohnya. Macam tahun ni kan ada bila surplus tu, dia cut. Agaknya dia cut daripada mana ni? Supplies and services lah. Dia 10 bilion. Dia cut dekat supply and services lah. Untuk hospital contohnya. Bila dia cut KKM pun ni kan. Supply and services ni sebenarnya apa dia dekat hospital ni? Electric semua kan? Electric semua tu okey lagi? Apa lagi? Perkakas tu okey lagi? Apa lagi? Consumable, ubat, medicine. Medicine is not Chemex. Ubat is there lah. So, dia kena ration lah ubat ni. Consumable kat hospital semua ada kan? What do you call that? Needle tak needle nya semua tu. Everything lah. Glove tak glove. Everything kena ration. So, untuk jabatan kerajaan biasa yang tidak banyak menggunakan consumable, dia tak ada, dia boleh lah cuba tutup aircon ke apa semua kan. Tapi kalau kena hospital, KKM, you potong supply and services dia, then dia naik. So, dengan 4 bilion untuk tahun depan, Well, doa lah tak ada perang lagi Because bila ada oil shock ke Ataupun ada gempa bumi ke Okay, now for example Kalau ada Kalau ada A.I. Crash Demand crash lah kan. Ya ya ya basically kalau ada AI boom burst. Okay. Bubble dia burst lah. You know I follow ni kan orang kata 2027. Tengok lah. You tengok. And then dia akan mula apa nama ni shake the global finance. And sekarang ni pun bond yields are memang historic high, record high, record high. Kalau ada AI burst, that will disoriented the market even more. Yang dimulakan ada kesanlah kerana ringgit will be affected. Contohnya kan, because, okeylah dipanjang sikitlah. Macam contohnya, kalau anything like that happens, kalau people tend to go for safe haven, you know, if dollar strengthens. Then, kalau dollar strengthens, harga minyak naik, subsidi pula meletup. And ringgit akan weakens. So, dia punya spillover effect, dia punya satu masalah itu kan. Jadi, sebab itu, as much as possible, you want to have a much bigger current surplus, Supaya ada buffer. Joe dah ada, kau nak boleh komen yang lain-lain pasal debt, pasal DSC yang lain lah, debt service charge kepada... debt to GDP ratio ke? Aku nak pergi hard je.
 
-[2:09:46] Speaker 4: kerana
+[1:59:01] Speaker 4: So, mengenai
 
-[2:09:46] Speaker 2: mereka besar. Oleh itu, risiko keuntungan wang mereka masih okey kerana mereka masih mempunyai jutaan wang. Tetapi sebagai seorang pemusah kecil, seorang pemusah yang menguruskan beberapa perniagaan, pada saat anda berpindah ke Mencipta permintaan Untuk menjaga permintaan Yang anda perlu ambil wang anda Dan berikan kepada pelanggan anda Pada suatu titik Pembetulan akan berlaku Tapi katakanlah Walaupun itu tidak berlaku Yang lain yang Dato' Sri Anwar tak atas langsung dalam belanjawan dia, apabila ia sangat penting untuk penunjukan kembang, ialah ini. Adakah kita tahu berapa banyak pengisaran hadapan yang telah berlaku? Frontloading pasal apa? Pasal the chip.
+[1:59:04] Speaker 4: budget tahun 2027 kan. So,
 
-[2:10:35] Speaker 4: Kamu
+[1:59:07] Speaker 4: actually tadi
 
-[2:10:36] Speaker 2: nampak orang Front load Biasanya front loading ni maksudnya macam ni front loading ni kan front loading ni maksudnya Katakanlah kau rasa 4-5 tahun lagi kau perlukan chips sekian sekian sekian Tapi katakanlah kau perlukan 100 GPU Tapi tak adalah kau perlukan sekarang mungkin kau perlukan 20 dulu 20 dulu kan Tapi kau rasa mungkin aku nak beli sekarang takut harga dia naik ke Jadi anda membeli dan anda membangun stok. Itu disebut penumpang depan. Electronics ni is known to front load Sebab You tak beli cheap ni Macam kita beli raw material getah ke apa tau Because it's not commodity Kalau commodity ni you tunggu dia turun naik And then you know you tengok lah Bila masa you beli sikit kan Bila dia turun you cuba beli banyak kan But electronics is known to be susceptible to front loading. So kita tak ada any assessment whether what is happening now, the growth ni... Ia juga dikendalikan oleh penerbangan depan Jadi kalau itu adalah kes, maka mari kita buat 4.2 hingga 5.2 itu satu Kita tidak tahu sama ada ia mengambil kira faktor eksternal Kedua kita pun tidak tahu kalau contohnya Sama ada akan ada kejutan gelembung, kejutan gelembung AI, atau apa sahaja yang berlaku sekarang adalah sebahagian daripada pengisian depan. Then Kalau Satu dua perkara itu berlaku Then Malaysia punya growth next year Is going to be affected lah When that Gross is affected, revenue will be affected. Dan bila kita tak boleh kutip 381 billion revenue tu kan, then Well most probably potong lagi lah kot. Dia buat macam 2025 lah potong apa nama ni perbelanjaan mengurus
+[1:59:08] Speaker 4: kat interview dengan Ashrawan ni,
 
-[2:12:53] Speaker 4: lah. Mungkin saya boleh ulas sikit mengenai but probably not 2027 lah tapi for the longer term lah kemampanan kadar peningkatan kita. So if you look at our growth kan, what is the main driver of our growth? Ya kita ada external, kita ada export tapi yang paling utama actually come from domestic consumption. Tetapi betapa mampan penggunaan rumah kita akan menjadi jika gaji rakyat Malaysia tidak naik? Tapi
+[1:59:09] Speaker 4: saya pun ditanya lah. So,
 
-[2:13:24] Speaker 2: tidak naikkan
+[1:59:12] Speaker 4: what is my view? Apa pendapat saya
 
-[2:13:26] Speaker 4: di umum tadi Kita akan urut Kita akan urut apa ni So macam mana kita boleh menjamin Penggunaan isi rumah Continue to be the main driver Untuk kadar peningkatan kita Kalau gaji rakyat Tidak meningkat Right? So in the short term Mungkin kita tak nampak masalah lah But let's say in the next 5 years atau next 10 years That's why dalam strategi bajet kita, kita dah kata Jadi, So first kita kena diversify source of growth. Kita tidak boleh just... bergantung kepada sektor ekspor, jika ada boom AI global dan kita pun sentuh pasal gaji jika kita terus berada di tahap ini, apa yang akan berlaku kepada perkembangan kita? Jadi, itu sesuatu yang kita perlu fikirkan Jadi, itulah sebabnya dalam strategi kita, kita menetapkan perkara yang mempunyai impak yang lebih panjang Jadi, mungkin sekarang kita tak nampak lagi, dalam masa 5-10 tahun, ia akan berlaku
+[1:59:14] Speaker 4: tentang
 
-[2:14:27] Speaker 2: Hmm Kita ada lebih kurang sejam lebih je nak cover semua yang orang tunggu ni Dia nak tunggu nak tanya pasal pengumuman-pengumuman je Yes kita Dia orang dah tidur lah sebab dia orang ni duk cerita pasal makro je tak ada kena mengangkat Kita tinggalkan
+[1:59:15] Speaker 4: debt to GDP ratio?
 
-[2:14:42] Speaker 1: kemampangan kewangan Kita go through satu-satulah pengumuman-pengumuman ni Oh at least yang besar-besar Yang rakyat nak tahu lah Yes yang diumumkan tadi Motor hidup rakyat lah kan Mungkin saya macam mana kita nak buat kita go
+[1:59:17] Speaker 4: Terutamanya kemampanan fiskal lah. So, saya nak katakan
 
-[2:14:57] Speaker 2: satu-satukah very quickly lah kot. Apa yang besar-besar satu pengumuman STR dengan
+[1:59:20] Speaker 4: di sini,
 
-[2:15:02] Speaker 1: Sara.
+[1:59:22] Speaker 4: Jika kita teruskan dengan status
 
-[2:15:03] Speaker 2: Tapi nak kata dia banyak beza sangat pun tak lah. Dia dia umumkan pertambahan satu bilion. Satu bilion je. Daripada lima belas jadi enam belas. I don't know how is that going to be. Maksudnya what Dia rate dia Kecuali untuk Sarah lah Naik sekata 50 ke 200 kan Yang lain tu SDR sama Semua kan Rate semua sama lah So Kalau Kalau Sarah, maksudnya, quite a big chunk of that RM1 billion will go to that RM50 increase for Sarah. So, Sarah, Sarah, Sarah. So, STR tak ada beza sangat. STR sekarang dibayar berapa kali sehari? Tiga, empat kali? Empat, empat kali. Setiap suku. Setiap suku kan. Okay. Yang ini, ini kan.
+[1:59:25] Speaker 4: sekarang,
 
-[2:15:49] Speaker 3: Eee...
+[1:59:26] Speaker 4: model perniagaan sekarang, ia tidak berhubung.
 
-[2:15:51] Speaker 2: Erm... Di bawah pentadbiran mandani sekarang ni Yalah, saya ingat dia rasa gabungan ini lebih superior lah kerana dia bagi budi RM95 harga minyak. Kemudian dia masih lagi bagi SARA Ataupun STR ni lah kan
+[1:59:29] Speaker 4: Sebab kita ada satu akta,
 
-[2:16:12] Speaker 3: Yes
+[1:59:31] Speaker 4: akta itu
 
-[2:16:13] Speaker 2: You
+[1:59:33] Speaker 4: Public Finance and Fiscal Responsibility Act.
 
-[2:16:13] Speaker 3: know
+[1:59:36] Speaker 4: Dan akta ini
 
-[2:16:15] Speaker 2: Kita cadangkan Sebab macam saya sebut lah The problem with Budi 1965 ni It doesn't Address The real economic question And the most basic So, economic question is basically consumption. Yang kami dah ulas tadi lah dalam keadaan yang mana kita punya fuel consumption ni is distorted. And sebab itulah banyak benda lain, public transport ke EV ke apa semua tu distorted because minyak murah lah kan. Tapi, Argumen paling kuat Kepada our school of thoughts, our suggestion ialah Never mind lah, you kata kalau you restructure Seperti yang dicadangkan oleh bersama Rakyat akan dapat extra RM237 ke RM300 ke, I don't care Saya tak boleh, saya tak suka sebab orang Malaysia ini Kalau bagi duit tunai kat dia Dia akan pergi beli rokok, dia akan beli iPhone semua kan. Sarah dengan Budi ni cukup baik. Sebab Sarah ni tak boleh salah gunakan perbelanjaan. Oh dia hanya boleh beli benda itu je. Benda ni tak pernah diulas sahabat. Okay. Sebenarnya ada... Kenapa, you know, ialah kepada orang-orang kementerian kewangan yang tengok kan, kenapa I was fundamentally saya pro cash transfer, monthly cash transfer kepada household, bukan kepada individual kan. Satu ialah sebenarnya ada moral hazard Kalau bila buat kepada Sarah What is the big moral hazard sebenarnya? kepada masyarakat. Yang Sarah Sekarang Apa kelebihan moral yang besar? Hmm Cuma mungkin orang gila macam aku je fikir benda-benda macam ni The moral hazard Actually Who is the biggest beneficiary of Sara ni? Hmm Atau
+[1:59:37] Speaker 4: dah menentukan
 
-[2:18:36] Speaker 4: apa moral
+[1:59:38] Speaker 4: we have to
 
-[2:18:37] Speaker 1: orang yang
+[1:59:39] Speaker 4: meet
 
-[2:18:37] Speaker 2: tak bekerja? Well, ialah orang yang tak bekerja. Aku tak kisahlah kalau bagi kat makcik tak bekerja. Tapi, siapa selain daripada dia orang, siapa a much bigger beneficiary to all this?
+[1:59:39] Speaker 4: our debt-to-GDP ratio
 
-[2:18:52] Speaker 4: Peniaga lah Okay which peniaga Peniaga yang Eligible Yang layak
+[1:59:41] Speaker 4: by 60% by 2028. Agak
 
-[2:18:57] Speaker 2: Untuk Which ones grocery, the big one. So sebenarnya the biggest beneficiary of Sara ialah Speedmart. Sebab itu saham Speedmart goes up through the roof. I have nothing against Speedmart. Aku memang membeli di Speedmart, I have nothing against Maiden ke apa. I'm talking about from economic design perspective kan. Saya sangat bimbang tentang Disproportionately according advantage to one group over the other So kita bandingkan antara Sara dengan a monthly cash transfer Bila orang dapat Sara Dia hanya boleh pergi beli dekat kedai-kedai tertentu And 50% of Sara Is actually spend dekat speedmart More or less Orang lain dapat kecil-kecil I have that figure Don't ask me why lah So More or less 50% Of Sarah Is actually spend Dekat speedmart Sebab itu speedmart Really benefit from this Dia punya shares Go through the roof Semua Loh lah kan Erm... And then of course lah, bila dah jadi isu, MOF sebut lah, oh kita akan tambah lagi, tambah lagi, tambah lagi. Tapi the speed and the administrative hurdle of menambah semua kedai ni, actually you really discriminate everyone else, especially the smaller ones. Kedai kecil-kecil, semuanya kan. Tidak Bayangkan kalau anda memberikan transfer rumah bulan Kola, kemudian pension sosial dan sebagainya Jadi ada beberapa perkara yang saya mencabar Percayaan yang anda tidak boleh percaya kepada orang Mungkin ada kekurangan kecil yang mungkin menyalahkannya Tetapi secara umum, pada dasarnya, Poor families, orang susah semua ni, you need to give them the freedom to manage that cash assistance. Kalau contohnya, dia dapat RM600 sebulan, kalau masa itu yang paling penting ialah dia beli ubat untuk anak dia. What is wrong with that? There's nothing wrong with it. Kan? Kalau contohnya, dia nak makan. Dia dapat RM600 sebulan, dia nak makan, dia makan lah. Semua kan As opposed to You must do exactly like But the bigger Another level of moral hazard Kalau you bagi cash transfer RM600-RM500 per keluarga Ia dihabiskan dalam ekonomi lokal Dan semua orang mempunyai peluang yang adil Kedai runcit kecil pun dapat peluang Pakcik tepi jalan gerai pun dapat peluang semua Kesan penyebaran, menurut saya is much fairer than concentrator in 7, 8, 9 huge corporation dalam Malaysia. I mean, anyone from MOF kalau boleh, then you argue with me on that. Itu tak macam pun lagi yang tidak disebut kepada orang ramai. Bila MOF pakai SARA punya sistem semua ni, you think they don't incur cost ke? Cost ke? Dia ada
+[1:59:44] Speaker 4: mustahil. Agak mustahil sebab ke-2027,
 
-[2:22:33] Speaker 4: administrative cost.
+[1:59:47] Speaker 4: so based on deficit berdasarkan deficit
 
-[2:22:34] Speaker 2: Dia ada administrative cost. 1%, 2%. So yang diumum, kalau contohnya umum, 16, katakanlah Sarah lah, mungkin I don't know, Sarah berapa, katakanlah 8 bilion sahun kan. Eh 1% is 80 juta tau. 80 juta yang dapat kepada provider yang bagi sistem tu. Tak ada open tender, tak ada apa, MOF pandai-pandai lantik, didn't go through anything. Eh buat padu 20 juta tu pun dia membising tau And then orang kita duduk bising kata nanti data kerajaan lah, data private saya lah Eh ini Sarah ni satu badan yang tak ada kena-mengena dengan kerajaan diberikan And so you know one day all this will be scrutinized Then sekarang ni orang sebab The news tak keluar lagi And there is no proper discourse About the moral hazard Satu ialah This attitude that government knows best And government looks negatif tentang kemampuan keluarga untuk menguruskan kewangan mereka. Sebab itu, saya rasa dalam kebanyakan kajian di dunia, saya rasa kebanyakan ekonomi akan selalu mengatakan contoh dan bukti dari seluruh dunia, transfer wang lebih baik. Sebab kebanyakan yang miskin ini, contohnya, kebanyakannya kalau di negara-negara lain, kebanyakannya ialah wanita. They will use the money accordingly Dan yang kedua as I say We cannot Kita perlu turun dari kawasan tinggi kita dan memutuskan, duit kita bagi ini, kamu boleh buat ini, kamu boleh buat itu sahaja. Jadi semua ini, jadi bagi saya, kepada orang yang sangat anti transfer wang atas alasan-alasan semua ini, kadang-kadang saya rasa kita perlu melihat kelebihan kita. Kerja saya sebagai seorang ahli politik Ialah bukan semata-mata untuk menang undi and therefore tak berani sebut benda-benda yang orang rasa itu individual convenience. Budi 95 is individual convenience. Basically kita mengajar rakyat kita asalkan aku senang, aku tak peduli apa jadi kepada negara. That's actually what we are basically teaching our public lah. Whereas kalau we pay at market prices and then kita ada cash transfer untuk membantu, Satu ialah our economic behavior and consumption will have to adjust accordingly and we become more responsible as masyarakat dan Tapi penting juga, sebenarnya kalau transfer wang semua ini, sebab harga minyak itu, ia berkelakuan, dia juga mengajar kita melihat gambar yang lebih besar dan melihat lebih jauh dari kemudahan kita. Dan pasal kembali kepada STR dan SARA semua ni lah kan It doesn't seem lah yang Yang perbincangan mengenai STR dan SARA This is inherited daripada Datuk Seri Najib sebenarnya Zaman-zaman cash is king dulu So it's a continuation of that Without having to me Without having really Yalah, deep discussion about how is this affecting society, how is this, I mean, betul ke tidak pandangan yang kita ambil ni bila kita, pandai-pandai kita nak decide untuk keluarga lain. I mean, what is the moral hazard? of concentrating that number of billions,
+[1:59:49] Speaker 4: yang dinyatakan dalam budget 2027, debt-to-GDP ratio
 
-[2:26:51] Speaker 3: you
+[1:59:55] Speaker 4: is going to be
 
-[2:26:51] Speaker 2: know, 5, 6 billion, that goes to maybe a handful of big corporations in this country. When such money, if it gets spent at all levels, itu sebenarnya lebih adil.
+[1:59:56] Speaker 4: at 63.7%. So dalam satu tahun, macam mana boleh bawah?
 
-[2:27:07] Speaker 1: Itu satu. Kemudian pengumuman gaji minimum RM2,000 dengan pengecualian PMKS serta gaji minimum siswazah dan pekerja separa kemahiran RM2,500.
+[2:00:01] Speaker 4: Macam mana boleh
 
-[2:27:21] Speaker 4: Gyo you comment dulu So So tadi saya pun ada ulas Kat Ashraf Wani juga Saya rasa Pengumuman ni It creates arbitrage So So So kalau kita nampak, kalau kita lihat kan dia ada threshold. So untuk PMKS di bawah RM50 million. Which is
+[2:00:02] Speaker 4: mengurangkan
 
-[2:27:43] Speaker 2: most of the PMKS. Memang
+[2:00:03] Speaker 4: ke bawah 60% Agak mustahil, it's almost impossible
 
-[2:27:45] Speaker 4: semua
+[2:00:07] Speaker 4: So
 
-[2:27:45] Speaker 2: PMKS di bawah RM50 million
+[2:00:07] Speaker 4: let's say,
 
-[2:27:47] Speaker 4: except
+[2:00:09] Speaker 4: worst case lah Kita memang tak boleh mencapai 60% What are we going to do?
 
-[2:27:47] Speaker 2: it's manufacturing lah.
+[2:00:13] Speaker 4: Jadi kita
 
-[2:27:49] Speaker 4: Exactly. So dia akan create arbitrage opportunity. So maksud dia apa? Dia maksud dia, so let's say kalau saya ada company lah. So let's say kalau saya ada satu company, turnover saya RM40
+[2:00:14] Speaker 4: kena pergi ke
 
-[2:28:00] Speaker 2: million. minimum wage ke or the graduate and minimum
+[2:00:15] Speaker 4: parlimen
 
-[2:28:06] Speaker 4: wage? Oh you're talking about minimum wage dulu lah. Sorry, minimum wage dulu lah. Sebab minimum wage dia meningkat kan, dia meningkat dari RM1,700 ke RM2,000. So, dan ia hanya apply kepada SME, PKMS, PMKS yang RM50 million yang ke atas. Tapi ia akan, I don't know how dia orang akan enforce atau melaksanakan sebab dia akan create arbitrage. So apa maksud saya? So let's say kalau saya ada satu syarikat yang turnover sales saya 40 million. What's the point for me to get past the threshold? What's the point for me to mencecah 50 million? Apabila saya tahu bahawa saya perlu membayar lebih untuk pekerjaan saya. Jadi apa yang boleh saya lakukan ialah syarikat saya, katakanlah jika syarikat saya menjana 40 juta, saya akan mencipta lebih banyak syarikat untuk saya bermain. So, kalau let's say I'm already at 45, saya dah tahu next year saya akan mencucang RM50 million. So, saya akan buat company. Saya akan create company, more company so that I can divert my sales. So that I can continue to keep hiring low paid workers dan continue to buy dia around RM1,700. Dan apa benda yang kerajaan boleh buat dengan saya? Tak boleh.
+[2:00:16] Speaker 4: Menteri Kewangan atau Menteri Kewangan kena bentangkan satu
 
-[2:29:22] Speaker 2: Sebab itu, generally anywhere in the world, Ada sebab kenapa dipanggil gaji minimum. Sebab it's applicable to all. The moment you ada different threshold kepada different company, dia akan jadi seperti yang Joe kata tadi lah, dia akan create arbitrage. And the funny thing is this. Yang nak kena melaksanakan ni ialah JTK, Jabatan Tenaga Kerja Bawah Kesumar. I know orang-orang ada JTK, they're all good people and I work with them masa developing progressive wage. Good luck to JTK. Satu, JTK tak cukup orang. They have enough... Problems in their hands sekarang Soal pekerja asing semua Ni lah kan JTK Itu belum lagi soal normal dispute, day to day dispute ni. Yang syarikat biasa kata saya kena unfair dismissal lah, constructive dismissal sebenarnya. Sekarang, bila ada arbitrage macam itu, dan kemudian ia mencipta, anda tahu, skim, ada pekerjaan, yang merupakan untuk memisahkan syarikat anda, kan? JTK nanti kena ada skill baru, skill audit. He's actually financial in nature. Dia kena jadi LHDN pula dah. So dia akan berpulang macam mana kita nak buat ni. And masalah yang baru tak cukup dengan masalah apa nama ni. Dia nak enforce company-company yang tak bayar minimum wage. Sekarang dia nak kena pening kepala macam mana nak determine and stop them from splitting their company lah kan. Cuma the funny thing is this lah. Pengumuman ni sebenarnya tidak akan ada kesan kepada majoriti pekerja. Sebab bila dia exam SME bawah 50 million turnover, which is basically by and large, perhaps I think 90% of our companies in the country kan. So tinggal 10%. Yang besar-besar ni, maksudnya top 5% ni memang semua dah bayar way above minimum wage. Kemudian GLC, GLEAG semua ni, GLC kerajaan memang dah bayar. So, most probably lah. Beneficiary daripada minimum wage RM2000 ni Actually quite limited lah Tak banyak Jadi It might backfire Untuk sebab kita semua tahu benda ni Ini semua untuk political support je lah kan Tapi it might backfire Sebab Nanti orang tunggu Tak dapat. And then mungkinlah orang biasa ni dia tak tengok in detail. Dia akan berkuat kuasa 1 Jun 2027 kan. 1 Jun 2027 kan. Ini beberapa bulan sebelum pilihan raya. Kan. So orang akan tunggu, gaji minimum naik semua kan. Bila sampai tak nak ikut, that doesn't make any difference to them kan. So ini adalah antara satu dua perkara yang saya rasa ini idea separuh masak daripada Ramadhan kot.
+[2:00:21] Speaker 4: pelan
 
-[2:32:50] Speaker 1: Dia
+[2:00:22] Speaker 4: untuk memperkenalkan dan menerangkan kenapa kita tidak boleh mencapai.
 
-[2:32:51] Speaker 2: tak fikir langsung pasal arbitrage lagi tu So bila I tengok you split macam ni good luck lah
+[2:00:27] Speaker 4: Tapi dia ada kesan yang lebih
 
-[2:32:57] Speaker 4: Yalah bila saya tengok saya pun eh ini pelik sangat
+[2:00:28] Speaker 4: lebih
 
-[2:32:59] Speaker 2: sebab
+[2:00:30] Speaker 4: tinggi,
 
-[2:33:00] Speaker 4: kat negara lain
+[2:00:32] Speaker 4: apa kesan dia?
 
-[2:33:00] Speaker 2: memang
+[2:00:33] Speaker 4: Kesan dia adalah, what if rating agency come in
 
-[2:33:00] Speaker 4: Because
+[2:00:36] Speaker 4: dan buat rating dan kata, eh,
 
-[2:33:01] Speaker 2: I will split What you want me to do? Of course aku bayar gaji above minimum wage daripada dulu lah Sebab tu aku tak kaya kan But meaning that Kalau a workaround to this is dia akan split Kemudian yang Yang kedua ni kan Yang ini lagi Sebab tu saya rasa juga, ini juga adalah idea sebaru Masyarakat Ramadhan ni. Dia ingat ini macam dengan geng-geng dia semua kan. Dia tak tahu sebenarnya labor practice, labor market ni is a lot more complicated. I think labor market reform is the most complicated part of the economy. Sebagai Menteri Ekonomi, I always told kalau Pak Han ingat my staff kat kementerian semua kan. Is that the most difficult part Of reform Is labor market reform And that is the most The biggest necessary Kerana dia melibatkan Behavior So difficult kan So ambil ni eh Seperti masak ramadhan ni kan Seperti masak Let me ask you Jo kan Gaji minimum siswa Azzah atau pekerja separa kemahiran RM2,500 kan? Kita belum tengok the details lah. I don't even know whether they dah work out the details apa ni. I think dia pakai umum je dulu. Tapi lah katakanlah you Ramanan. Macam mana you nak laksanakan benda ni ni?
+[2:00:38] Speaker 4: kenapa awak tak mencapai?
 
-[2:34:25] Speaker 4: Sebenarnya, saya juga mempunyai masalah yang sama. Bagaimana anda menentukan kemahiran? Ya, baiklah. Dan bagaimana anda memperkuatnya? Anda tidak boleh pergi ke setiap syarikat dan bertanya, apa adalah kualifikasi pekerja anda? Dan apa adalah kualifikasi pekerja anda? Apa yang mereka lakukan? Dan apakah anda mengikuti atau tidak? Ia
+[2:00:40] Speaker 4: And if you don't hit the target,
 
-[2:34:43] Speaker 2: sangat sukar. Tetapi kebanyakan kali ini, ini adalah apa yang mereka akan lakukan. Untuk menjawab anda. Separa
+[2:00:42] Speaker 4: your fiscal rule, dia akan ada impact dan kesan kepada fiscal credibility.
 
-[2:34:51] Speaker 4: So you as Ramanan lah Bukan
+[2:00:47] Speaker 4: So rating agency
 
-[2:34:53] Speaker 2: I as Ramanan I mean I'm apa nama ni Possible way yang diorang buat Wearing the hats of JTK
+[2:00:48] Speaker 4: akan macam
 
-[2:34:59] Speaker 4: Okay
+[2:00:49] Speaker 4: SMP
 
-[2:35:00] Speaker 2: Sebab Ramanan tak payah fikir semua ni Dia akan ketuk dia punya pegawai semua ni Come up with how you going to do it Bukan dia punya idea ni kan Dia tahu dia nak umum sahaja kan Okay now So katakanlah kita JTK kan So kita akan kata well macam ni Kita akan umumkan guideline Guidelines para kemahiran ni maksudnya Mungkin ada diploma ke atas Mungkin ada sijil ke atas Okay So itu the easiest way Kalau basically Packed to paper qualification Kalau you ada this, this, this, this, this Okay Tapi walaupun begitu, ia akan menjadi sangat sukar kerana... Dan kemudian ia berfungsi dengan menggunakan penerimaan. Maksudnya begini kan? Ini peraturan dia. Mana-mana pekerja yang you termasuk dalam kategori itu sebab you ada diploma ke ataupun you ada CJ ke Tapi you tak dibayar gaji minimum separa kemahiran RM2500 ni Maka you boleh lapor kepada JTK, JTK will go after kan What's the problem with that?
+[2:00:49] Speaker 4: ke Moody's ke Fitch ke, dia akan datang
 
-[2:36:19] Speaker 4: Terlalu banyak kes Di mana JTK tak boleh Tak boleh handle JTK takkan handle Dia takkan Kenapa
+[2:00:52] Speaker 4: dan tengok eh kenapa you tak boleh buat ini.
 
-[2:36:25] Speaker 2: JTK nak buat semua ni Ha Itu satu The definition itself Katakanlah Aku budak SPM Hmm Tapi aku dah kerja dekat kilang tu 15 tahun as a welder. Tapi I tak ada qualification whatsoever. I really on the job training semua kan. Are you saying that I'm not sebarang kemahiran? Hmm. Ha. Then, I tak puas hati. I akan pergi complain ni, bla bla bla, semua kan. Itu, ini cerita sepada kemahiran punya cerita, semualah. Now, Go to gaji minimum siswazah pulak lah. Hmm. Siswazah kan. Katakanlah Underemployment lah Underemployment kan Ada budak keluar universiti Dia graduate Hmm Tapi, because of underemployment, dia ambil kerja sebagai pelayan waitress dekat kedai makan. So dia dapat gaji minima siswa sahabat ibu setiap ke tidak? Haa. Haa. Eh, siswa sahabat. Haa. Siswa sahabat. Haa.
+[2:00:54] Speaker 4: And then fiscal
 
-[2:37:36] Speaker 1: Kalau ambil modul kerajaan, kerajaan kan dia pisahkan pelaksana dengan profesional kan Kena tengok jawatan tu So kalau
+[2:00:55] Speaker 4: credibility you dah
 
-[2:37:42] Speaker 2: kau JTK kau nak buat macam mana?
+[2:00:58] Speaker 4: affected.
 
-[2:37:43] Speaker 1: Susah jugalah
+[2:00:59] Speaker 4: So kita akan raise
 
-[2:37:44] Speaker 2: Kau nak define macam mana? Okey, itu satu. Okey lah. So, wearing GTK lagi kan. Maybe dia kata, oh kita sebenarnya ada maskul. Kita ada coat, coat, ikut bidang, semua ni kan. Semua ni kan. So dia mungkin define by Moscow lah fresh grad semua gini-gini kan. Tapi bila you mention fresh grad, it's fresh grad kan. Kemudian bidang kerja ni dia berbeza-beza ikut industri kan. Katakanlah Kerja itu ialah di Perlis Dan apa nama ini... Dia untuk satu bidang yang, contoh kalau dalam Moscow yang bidang yang kurang sikit, apa dia? Of course lah, you have engineer, you have accountant, apa dia? Ha? Carpentry Contohnya carpentry Dalam kod Masko, Masko ni ialah kod kerja Malaysia lah yang dibangunkan oleh di bawah JTK semua lah, di bawah Kementerian Sumber Manusia kan. Dalam tu, bomoh pun masih ada dalam tu. Ya, ya, ya, ada. Ayah dah cakap dulu eh, korang revive lah cepat-cepat. Adakah bomoh masih ada? Okey, katakanlah aku kat Perlis. Aku graduate tapi aku digaji sebagai bomoh. So, aku nak claim RM1,500 sebab aku kerajaan. So, macam mana? So, it's going to be a nightmare. The chaos. The reason I know all this semua sebab kita dah melalui this talk process masa nak buat gaji progresif. Lepas you bincang-bincang, and satu lagi, you know why is berbahaya bila buat semua ni, bila you perinci kan? Government ni tak pernah boleh catch up dengan market tau. Kerja ni berubah-ubah very quickly And selalunya ada je kerja baru semua ni Yang you tak sempat nak revise your code You nak revise code tu ambil masa 1, 2, 3 tahun kan By the time you revise code dah ada kerja baru semua kan So Kalau you have to base it on something, kalau you base on masku ataupun basically lah you berdasarkan panduan klasifikasi kerja sebab cara kita menetapkan band gaji yang wajar itu ialah berdasarkan masku. Kalau you engineer, fresh grad semua ni bawah kod gini-gini sebagai engineer kerja kat sini, ini kadar pasaran dia as fresh graduate. Kalau apa nama ni Experience 2, 3, 4 tahun Begini cara dia kan So That's why I think Most probably Dia akan berdasarkan yang itu Cuma Kalau gaji progresif dia lain sebab dia sebenarnya co-opted. Maksudnya hanya syarikat-syarikat dan juga orang yang memang positif dia nak buat. So they fall into it and they adopt it lah. Ini you paksa orang buat ni tau. Bila orang tak nak bayar, segala jenis benda dia akan buat lah kan. So implementation is going to be very difficult. Enforcement is a nightmare. Dan dia most probably kalau tak berhati-hati, they will push towards informal lah. So ambil contoh syarikat. Syarikat di Kemaman contohnya kan dan dia mungkin farmasi kecil. So dia selama ni memang kalau katakanlah farmasi kecil di Kemaman dia boleh bayar RM1,800 je kan dengan sekarang dia kena bayar RM2,500. Tapi budak tu nak juga kerja Because you know I mean 2008 is already okay for her Di kemahaman semua kan Tapi undang-undang ni kata Fresh graduate Mesti 2000 setengah So most probably what will happen
+[2:01:00] Speaker 4: your rating.
 
-[2:41:54] Speaker 1: Dia tak boleh kerja
+[2:01:01] Speaker 4: So we are going to downgrade your rating.
 
-[2:41:56] Speaker 2: Dia nak kerja juga So, macam mana Most probably dia kata tak apalah You jangan gaji I I jadi pekerja harian lah You bayar I gaji hari Ha So sebab itu, kalau tidak berhati-hatilah. And we went through all this discussion. Kalau you pakai big baton pasal kerja, kepada orang ramai yang tanya... Kenapa tak boleh naikkan gaji, wajibkan semua ni. Sebab itu, there's hardly anywhere in the world yang kerajaan menggunakan dekri. Or, menggunakan undang-undang untuk menetapkan setiap peringkat gaji tau. Sebab it's very difficult to do. And kalau you buat pun, you will push jobs from... From formal job jadi informal kan. So, besar kemungkinan dia akan buat begitulah sebab kalau di bandar-bandar kecil, selalunya every time kita bercakap pasal gaji ni, kita fikir pasal bandar besar tau. Pasal KL lah, Penang lah semua. Eh, cuba kau pergi kat Kuala Kerai di Kelantan. Hmm. Cuba kau gaji orang, gaji RM2,500 dekat Kuala Kelai. I don't think ada company biasa. So, you know, I always go back yang kita ni ada 1.1 juta entities versus entities. 97%nya SME, 80%nya micro. Yang 5 orang semua ni tau. So, bila you buat macam ni, nanti anak bergaduh dengan bapak. Eh. You know, dia family, mungkin buat satu bisnes kecil, family kan, 5 orang kan, so it's a micro. Tapi anak dia kata, eh saya graduate, I must get 2005 kan. So, and company syarikat tu dekat Kuala Kerai, Kuala Kerai dekat Kelantan, good luck. So, you know, I hope they can do it well. I really hope that apa nama ni, Benda ni menjadi bagus lah kan. It's something that we have always wanted to see. I just do not see how they are going and going to be able to do this lah. Ini antara benda-benda yang kita nak kena pay attention. Macam mana dia nak laksanakan kan. And the other thing satu lagi itulah. Bila you take the same approach to minimum wage. Hmm. untuk mengambil kelas dan wajah yang tidak masuk. Ia masih akan mempunyai Unintended consequence of wage compression Hmm? Isamah Hmm
+[2:01:02] Speaker 4: So
 
-[2:44:37] Speaker 4: Dia tak solve root cause
+[2:01:03] Speaker 4: kalau
 
-[2:44:39] Speaker 2: dia Dia tak solve root cause dia This is jalan singkat So nanti dia ada 2 bumps Hmm Haa sekarang ni dia ada bump weight apa ni Bump minimum wage kan Bump Lepas tu semua gaji orang lain tu dia around minimum wage tu je kan Lepas ni dia ada satu bump dekat RM2,000, satu bump dekat RM2,500. So orang yang kerja 10 tahun pun RM2,500 je engkau sebab itu gaji siswa lah memang RM2,500. And in order to pay that gaji siswa lah, they have to cut semua lah. That's why it's not like aku ni tak dengar cakap orang. Kita telah melalui banyak pemikiran ini, berbulan-bulan berfikir, sebenarnya belajar di seluruh dunia, bagaimana anda mahu menyelesaikan kompresi wajah. Dan saya tidak yakin, tetapi saya tidak melihat bukti dari mana-mana di dunia, di mana arahan yang memerlukan boleh menyelesaikan kemajuan wajah. Ialah basically a function of economy The better the economy You know Apa nama ni The better value creation You know It will translate into the market But temporarily In order for you to bump up kemudian kerajaan boleh berintervenasi. Program yang paling berjaya yang pernah berlaku di dunia dalam intervensi seperti ini adalah Singapura pada tahun 70-an. Bukan bahawa... Kadang-kadang ia membuat saya marah kerana setiap kali orang bercakap tentang wajah progresif, mereka berbanding dengan program terbaru di Singapura. Itu sebenarnya lebih kurang wajah minimum untuk pekerja 3D. Masa dia buat, dia punya wage consultative council dulu Where is terapatai Government put some money Employee put some money And then they agree dengan And because it's Singapore Majority of employers follow it So it's not compulsory lah Singapore dulu, it's also Co-opted. Jadi, satu-satunya bukti yang kita ada sejauh ini adalah Singapura yang berdasarkan co-option dan tripartite antara pemerintah, pekerja dan pekerja. Oh, pekerja dan pekerja. Dekat Singapura, union lah
+[2:01:03] Speaker 4: rating agency downgrade kita punya rating, it's going to be a problem.
 
-[2:47:05] Speaker 3: kan.
+[2:01:07] Speaker 4: Sebab
 
-[2:47:06] Speaker 2: Jadi itulah cara kami menginap wajah progresif dan ia diperintahkan untuk menjadi sementara sementara sementara kami mendorong penciptaan nilai yang lebih tinggi untuk menciptakan pekerjaan yang lebih tinggi dalam ekonomi. Jika anda meninggalkannya kepada pekerja, tidak akan berlaku kerana mereka berkata, bayar semua ini. Jadi anda bergantung. Tetapi anda berkongsi pendapatan sementara kerana pekerja memahami dengan cukup bahawa dengan pendapatan kongsi ini daripada kerajaan, selepas dua tahun, skala salari itu akan tetap. And I tak boleh nak turunkan balik because Kalau I turunkan balik, I cannot force staff tu untuk bagi balik gaji murah dia Kalau dia dah 2008, 2008 lah Kalau saya boleh turunkan balik gaji pun only for new high risk But orang yang dah kerja kat situ they have to stay And when you run a business, you ada 30 orang You cannot afford 30 orang tu lagi you know I mean you have to live with them lah kan This one tak apalah menarik kita tengok. But dia akan ada banyak senario yang kita sebut tadi lah. Kalau ada keluarga yang bergaduh sebab anak minta RM2,500 gaji graduate, bolehlah beritahu kita lah. Kita orang boleh buat content.
+[2:01:07] Speaker 4: it means that
 
-[2:48:26] Speaker 1: Okay baby. Next, pengumuman jualan rahmah. Tadi baby dah ulas. Dan kemudian potongan cukai. Ini 1% 1% Ini suruh Joe
+[2:01:08] Speaker 4: kadar
 
-[2:48:37] Speaker 4: So mungkin saya boleh tunjuk graph So ada satu graph lah Oh iya ke? Sempat buat graph Hahaha Mungkin minta Minta bahan untuk tunjukkan graf So kita buat perbandingan lah So kita buat perbandingan Shadow budget Yang kita Bentangkan dengan Apa yang dibentangkan Di belanjawan kerajaan lah So kita boleh nampak So income tax ni So kita dah Ambil kira Semua measures Yang dibentangkan oleh Dato' Sri Yana Ibrahim Dalam belanjawan Dia orang Kita boleh nampak So Income tax ni Hmm At the end, siapa yang actually truly benefit is actually T20. So it's actually M40 dengan T20. So ada ramai yang kata middle class actually benefit. Tapi if we go according to income classification yang digunakan oleh kerajaan, it's actually T20 yang benefit. Sebab majority of the population, majority of our working force, gaji median dia hanya RM3,000. Hanya RM3,000 sahaja. So siapa yang actually benefit is actually the T20.
+[2:01:09] Speaker 4: faedah akan naik lagi
 
-[2:49:40] Speaker 2: So just to give perspective begini kan, Gaji median RM3,000. So maksudnya dengan kenaikan personal relief, personal allowance lah. Personal relief RM9,000 naik ke RM12,000 semua tu kan. So maksudnya you will start paying tax kalau gaji you dalam RM5,000 lah. RM5,000 kan. Separuh daripada pekerja kat Malaysia ni gaji dia bawah RM3,000. Memang dia tak payah tax pun. So you buat macam mana pun dia tak dapat satu sen daripada benda ini. A band of people yang mungkin yang berada dalam lingkungan gaji RM4,000, RM7,000 ke RM5,000 itu ada. Yang lain itu yang benefitnya memang yang high M40 and T20.
+[2:01:10] Speaker 4: Dan kalau kadar faedah naik lagi
 
-[2:50:30] Speaker 4: Betul dan savings dia actually tak banyak pun sebab hanya 1%. So saya dah buat calculation. 50,000, berkaitan dengan salari bulanan kira-kira 4,000 setiap. your tax saving untuk satu orang hanya RM180 sahaja. Untuk
+[2:01:12] Speaker 4: DSC
 
-[2:50:55] Speaker 2: satu tahun? Untuk satu tahun je. Lebih kurang lah, RM10 sebulan. So actually saving dia
+[2:01:13] Speaker 4: ni that service charge kena naik lagi
 
-[2:51:01] Speaker 4: tak banyak.
+[2:01:15] Rafizi: By that time nanti DSC mungkin jadi RM70,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000, Jadi kita bayar cukai banyak-banyak hanya untuk bayar interest lah, faedah. The funny thing lah pasal Fiscal Responsibility Act ni kan, Dia dibentangkan tahun 2023. And I was happy for it. Kerana... As a person, I never believe myself. I mean, I never trust myself as a person. Maksudnya, hidup kita ni kena ada guardrails. Kita kena ada basically parameters. The do's and don'ts, right and wrong. Dia sama juga managing a country's finance. Kita tak likut kepala kita sajalah. Dan kalau kita tak... ...tak letakkan di dalam akta... Jadi dia janji tinggal janji lah. Nak buat, nak buat, tak buat kan. Jadi bila FRA dibentangkan 2023, I was very happy, kan. And you know, I was very serious about fiscal glides, about semua ni kan. The irony is this. Melihat kepada kedudukan sekarang lah projection kan, maksudnya FRA menetapkan menjelang 2028, fiscal deficit kena 3%. Yang itu mungkin boleh dicapai. Tapi that Itu GDP ratio 60% kecualilah tiba-tiba ada 60-70 bilion jatuh daripada langit kita pergi retire hutang kita 60 bilion. It's not that easy. Jadi maksudnya 20-28 apabila penilaian menurut kehendak FRA itu dibentangkan di parlimen. memang akan gagal lah. Yang Joe kata tadi tu, rating agensi, semua tu satu hal lah. Tapi yang politically maksudnya apa tu? Inilah legasi Datuk Seri Anwar Ibrahim sebagai Menteri Kewangan. Maksudnya, dia Menteri Kewangan yang membentangkan FRA, yang menetapkan, we will achieve this through reform and fiscal discipline semua ni. Kemudian, di akhirnya, dia juga langgar dan dia juga gagal. So that is going, I mean I think now kita dah 2026 ni kan, maksudnya 2027, I think we can, it's safe to say that dia akan gagal. Dia akan gagal. Jadi kalau dia masih lagi menteri kewangan masa tu, dia bolehlah bagi alasan semua kan. Tapi katakanlah kerajaan bertukar. Dia bukan Menteri Kewangan. Parlimen akan mempunyai hari yang lanyak dia. Haa. Kepada chaplos-chaplos yang selalu duduk kata kenapa lah you bising semua kan. You know, saya sebenarnya tak bimbang sangat bila orang duk kata kenapa itu semua kan. Because... Time will tell And Beberapa orang daripada kalangan kami ni Kita bukan jenis suka sembang kosong. There are certain things that we say that has not happened yet. Tapi besar kemungkinan akan berlaku yang akan memalukan Dato' Sri Anwar and his record sendiri, kan? Dan I don't think dia, dia nak bagi alasan apa kalau yang ini, kan? And dalam kes mengenai, prestasi dia sebagai Menteri Kewangan, terutamanya sebab sebelum dia jadi Perdana Menteri, kita semua memang bimbang besar hutang. Dia pun duduk ulang. Dia duduk maki Zafrul. Kalau jadi Menteri Kewangan, kalau dia jadi PM, saya takkan lantik Zafrul semua ni kan. Sebab hutang sebahagiannya sebab tu lah kan. Now dia jadi Menteri Kewangan, rekod dia sebenarnya adalah Sama lah, kan? Or even lebih buruk. And the reason for that, yang... Yang berlaku ialah kerana dia meneruskan apa yang telah dibuat berpuluh-puluh tahun sebelum dia. Itu yang maksudnya. Sebab itu I think when we continue to criticize, saya harap in 2028 nanti jemput balik saya dengan Joe to say we are from the future. Sebab itu kan kita dah kata dua tahun lepas dia akan gagal. Kalau boleh, masa perbahasan parlimen itu, Kalaupun kita orang tak ada kat parlimen. Kalau kita kat parlimen, it's a fake day. Tapi katakanlah kita orang tak ada kat parlimen. Dan kita adalah kat galeri kan dah cakap kan. If only dia dengar kepada kita orang. Tak adalah jadi macam ini. Okey.
 
-[2:51:02] Speaker 2: Baik datang ke
+[2:06:18] Haziq: Mungkin sebelum kita... Tamatkan yang bahagian hutang ni. Just nak check Joe lah. Kita dah compare indikator dari tahun ke tahun and also kita tengok fiscal deficit, fiscal debt. Dari segi real GDP growth tu macam mana? Real GDP growth
 
-[2:51:02] Speaker 4: KESOM,
+[2:06:42] Speaker 4: saya rasa lebih on the
 
-[2:51:03] Speaker 2: boleh save lagi banyak daripada RM10 sebulan tu kena
+[2:06:44] Speaker 4: optimistic side. Dia lebih on the higher side sebab
 
-[2:51:06] Speaker 4: makan kat KESOM. In fact to be precise, hanya RM15 sahaja sebulan. RM15 sebulan. Dia pun tak banyak. And then kalau kita tengok T20 lah, so yang berpendapatan tinggi, RM39 je pun tak banyak. Of course if you add up it's about RM1,600 lah for T20 tapi for M40 tak banyak. It's actually very little. RM1,600
+[2:06:47] Speaker 4: kalau tak silap dia punya
 
-[2:51:29] Speaker 2: per annum lah.
+[2:06:50] Rafizi: It's slightly lower than Maksudnya dia punya midpoint Of range tu is actually lower Tapi still quite optimistic lah kot Ya sebab
 
-[2:51:30] Speaker 4: Per annum. RM1,600 per annum. So per month it's only RM139. So pun tak banyak. So if we talk about Adressing cost of living Saya rasa ni tak Tak cukup lah Memang tak cukup And kalau kita nak address Technically If we want to address Cost of living punya issue Look at our shadow budget So kalau kita compare Apa yang Rakyat dapat Dengan apa yang Dibentangkan oleh Belanjawan Okay Mungkin Faham Slide yang Yang tadi tu Ya tadi sorry Sorry Slide yang tadi tu So In fact, if you look at the take kan, shadow ni, shadow itu refer kepada shadow budget and then MOF itu rujuk kepada belanjaan kerajaan lah. Kita boleh nampak if we... Kalau mengikuti cadangan kita dalam bajet yang berlaku, setiap keluarga yang menerima T20 akan mendapat manfaat. Iaitu 80% rakyat akan memanfaatkan dari cadangan kita. Ini anda
+[2:06:58] Speaker 4: dia punya
 
-[2:52:30] Speaker 2: menunjukkan net, bukan? Net.
+[2:06:59] Speaker 4: Kalau tak silap
 
-[2:52:32] Speaker 4: Ini net. Jadi anda sudah kehilangan subsidi anda, anda kehilangan RON95, anda kehilangan SARA dan STR, tetapi diganti oleh alawans. Dan net So
+[2:07:00] Speaker 4: Dia punya growth range is between 4.2 and 5.2 kan
 
-[2:52:44] Speaker 2: yang the one yang Yang budget tu Is also net increase lah That's
+[2:07:05] Speaker 4: So it's actually higher
 
-[2:52:48] Speaker 4: right
+[2:07:06] Speaker 4: from
 
-[2:52:49] Speaker 2: That was
+[2:07:07] Speaker 4: Projection kita
 
-[2:52:49] Speaker 4: announced today That's right So kita boleh nampak lah So even for M40 atau Average median Ataupun B40 They will benefit A lot more Dalam senario shadow budget kita Compare dengan Budget kerajaan Dan kita dapat Buat saving sebanyak 19.2 bilion By cutting subsidy Which means that We can do it At a much lower cost By giving more To the people Itulah beauty Of our shadow budget Tapi
+[2:07:07] Speaker 4: So Projection Party Country dalam
 
-[2:53:22] Speaker 2: orang tak Kenapalah you letak Income tax card tu Kala hijau Tiba-tiba Pas wujud Hahaha Selalunya perbincangan belanjawan sebenarnya pas tak puja.
+[2:07:10] Speaker 4: Belanjuan bayangan kita
 
-[2:53:33] Speaker 4: Dan mungkin orang akan tanya, eh kenapa orang akan mempertikaikan kenapa M40 atau average median boleh dapat manfaat yang lebih tinggi di bawah belanjawan bayangan kanca. Sebab ini nominal, ini level. Kalau kita tengok peratusan as a share of income, the next slide. The next slide, dia dah tunjuk lah. So you can see B40 di bawah shadow budget kita as a share of the income. B40 memang dapat peratusan lebih tinggi. Sebab dia lagi
+[2:07:11] Speaker 4: We put it at 4-5%
 
-[2:54:06] Speaker 2: miskin.
+[2:07:14] Speaker 4: lebih konservatif sikit, so I think they are quite optimistik lah.
 
-[2:54:08] Speaker 4: Sebab dia miskin lah. Sebab dia lagi rendah. So kalau dia dapat RM500, so that's a lot. That's a lot for them lah. So that's how... Fiscal policy should be lah dalam satu, dalam ideal world. So
+[2:07:17] Speaker 4: They are
 
-[2:54:20] Speaker 2: tadi, so pasal apa nama ni, potongan cukai, tak apa lah. 1%. Okay kita, and then satu lagi pekerja gig lah. Pekerja gig. Pekerja gig, pengumuman pekerja gig kan. Semua orang nak memenangi hati pekerja gig sekarang. So, Eh dah tunjuk muka kita orang balik ke apa ni? Dah. Apa nama ni? Sekarang semua orang nak memenangi hati pekerja gig. Tapi bajet tadi tu dia macam... Yelah aspirational, tokenism. Dia ada dua pengumuman je. Satu pengumuman basically dia kata ada sumbangan daripada Grab. Yang kita nak dengar bukan sumbangan Grab, kita nak dengar you make it mandatory that majikan or platform will start contributing to retirement to social security kita boleh bincang lah what is the rate that's why you know if you want to treat gig workers as a completely unique class of workers kan that one is program design yang kita boleh bincang kalau you nak bincang what is the threshold lama mana dia kena kerja for what consistency semua itu semua boleh bincang tapi I think we have cross Jambatan yang Ekonomi seperti Malaysia Must start treating gig workers as a permanent workforce Because they are here to stay and they form a big part Jadi yang itu tak ada So ikutlah nak kata lepas ini mandatory platform So yang itu tak ada So saya nak tengok lah gig play a gig macam mana dia nak Dia nak sell this Especially Chaplos-Chaplos Macam mana dia nak jual benda ni kepada gig workers kan Satu lagi yang orang tunggu ialah Kita nak ada regulator kepada gig platform supaya regulator ni boleh decide What is the bending, what is the rule and so on lah kan Satu benda pengumuman bajet tadi dia tak umumkan lah cuma dia kata Sedang dibangunkan oleh majlis gig negara Cuma what I you know what I'm a bit apprehensive Perhimpunan gig negara itu lebih konsultatif It was not designed as a regulator So regulator ni lain Bila it's consultative Maksudnya You know You get platform datang Kita bincang Bila kita bincang ni Nanti dia jadi macam tadi lah Atas budi baik Grab Maka 160 juta telah diperuntukkan That's enough Pengaturan tidak berfungsi seperti itu. Pengaturan akan mengatakan, ini adalah apa yang kita putuskan, blablabla, bukan hanya mengambil semua orang, anda perlu mengikuti ini. Jika tidak, anda tidak akan mendapatkan lesen anda. Tidak boleh. Jadi, Yang pasal gig ni memang a turn off lah. I expected something better lah kan.
+[2:07:18] Speaker 4: the downside risk, downside risk is external demand.
 
-[2:57:54] Speaker 1: Ramana lagi. Okay baik. Itu berkaitan dengan yang ada kaitan
+[2:07:21] Speaker 4: So, kalau
 
-[2:57:59] Speaker 2: dengan... Kita ada dalam 20 minit lagi lah aku.
+[2:07:21] Speaker 4: ada global AI,
 
-[2:58:02] Speaker 1: Mungkin kita tengok ni pertumbuhan ekonomi apa yang diumumkan Pertama adalah berkaitan dengan potokkan cukai juga 1% kepada SME SME,
+[2:07:23] Speaker 4: kalau bubble itu,
 
-[2:58:14] Speaker 2: oh
+[2:07:24] Speaker 4: kalau global AI bubble itu
 
-[2:58:14] Speaker 1: asal ni
+[2:07:25] Speaker 4: pecah, then very likely we won't be able to meet
 
-[2:58:15] Speaker 2: Basically dia punya profit, taxable profit threshold dia below 150 ke apa And then 500, between 150 to 500 like that lah So 1% cut Terima kasih. I know lah they go through apa nama ni so called libat uros lah kan engagement session I'm sure SME beritahu kat dia orang Actually it's not really about the tax rate I'm sure SME kata Kita orang bukan untung sangat pun So it's not about the tax rate It's actually about the cash flow And the cash flow ni sebab SME semua lah Dia kena kan dia kena file advance estimate dia Tax estimate dia Jadi bila dia file tax estimate dia Dia kena bayar installment So Masalahnya bayar installment bila dia file sepatutnya dapat tax refund kan Refund tu tak bayar
+[2:07:29] Speaker 4: target ni. Sebab
 
-[2:59:14] Speaker 4: So ni benda sama dengan GST refund juga kan
+[2:07:30] Speaker 4: kebanyakan
 
-[2:59:18] Speaker 2: So baru ni pun I mean I think it was what my last speech dekat parlimen lah So I pointed out ada RM32 bilion kerajaan tak refund
+[2:07:31] Speaker 4: growth driver pada tahun
 
-[2:59:30] Speaker 4: Itu yang dari tahun 2024 kan kalau tak silap Dia 2024 atau 2005 punya Dia ditanggung selama 2
+[2:07:33] Speaker 4: ini dan mungkin tahun depan,
 
-[2:59:38] Speaker 2: tahun 2 tahun lah Dia 34 bilion kan Lepas buat bising tu pun Dia kata oh sedang clear Sekian-sekian lah kan So Hmm 1% tax cut ni Again Tokenizom Kalau tanya SME And then SME sebenarnya By and large, dia sebenarnya tak adalah berharap sangat kepada kerajaan untuk bantuan ke apa. Satu yang paling penting untuk SME From my experience And you know Having run SME myself lah Kan Sebenarnya jangan kacau dia orang Don't make life Complicated and difficult for them Kan They just want to run business Tapi Contohnya kan You nak buat kedai dekat Malaysia ni kan, lesen, 16 lesen kena ambil tau. Oh, you don't know that joke. 16 lesen. So it's actually benda-benda macam itu kan. And setiap lesen tu kos. Yang itu lagi tinggi daripada potongan cukai. Katakanlah dia buat profit dia RM50,000. Hmm. So, and that's quite normal tau untuk majority SME. Untuk orang ramai, you jangan fikir SME ni semua bawa kereta Mercedes besar-besar tau. Orang SME ni, dia sebenarnya cukup makan untuk dia je. Dia nak kena maintain dia punya staff semua kan. So katakanlah lah, dia buat profit, okeylah RM100,000 lah for that. RM100,000 tax, dia save 1%. Dia save RM1,000 je pun. So that, even kalau you tak bagi that tax card, sebab itu I'm I don't know, Joe. My view is that Malaysian tax is actually already quite low. It is. It is quite low already. Apa namanya corporate tax kan? Is what? 15, 16%? Corporate income tax? Tak, lebih banyak. 24 untuk yang atas, untuk SME.
+[2:07:36] Speaker 4: Kebanyakan actually driven by external.
 
-[3:01:46] Speaker 4: Oh, ya.
+[2:07:38] Speaker 4: It's global.
 
-[3:01:46] Speaker 2: I think it is tier lah. Dia
+[2:07:40] Speaker 4: It's
 
-[3:01:48] Speaker 4: ada tier.
+[2:07:40] Speaker 4: global export
 
-[3:01:48] Speaker 2: So, SME tier dia 15%. So, now jadi 14%. Actually 40% is already quite cheap tax kan Kalau masa aku zaman kat UK Aku buat tax untuk company ni kan terbelalak aku nak bayar kan Kat Malaysia ni 14% untuk SME Is actually quite already cheap, quite low Jadi kalau dengan SME punya isu, satu lagi ya Actually SME Kalau dia buat untung besar, eh dia happy tu punya tax. Because it's not the tax that is Sebahagian daripada kesulitan. Ia berkembang. Ia bertahan.
+[2:07:41] Speaker 4: boom.
 
-[3:02:31] Speaker 4: Financing semua.
+[2:07:42] Rafizi: In fact, kalaupun I hope tak ada global AI bubble burst lah. Sebab nanti habislah duit aku. Shares aku dalam tech company yang kecil-kecil, I don't have much lah but you know, I buy shares here and there lah sebab Dia punya apa nama ni, increase has been phenomenal kan So aku tak nak lah ada global bubble burst ni kan, tapi ialah you monitor nampak at some point sebenarnya Dia You know, quite difficult kalau I just hope that is a soft landing, it's not burst kan. Sebab kepada orang ramai lah untuk, ini benda-benda yang dalam belanjawan tak sebut. I would have thought bila growth tu is so driven by external demand, especially cheap demand kan. The biggest issue about cheap demand sekarang ialah... This global AI bubble burst ni I would have thought that At least dia Comment sikit lah Mention sikit lah kan But Joe Even kalau tak ada Global bubble burst Walaupun I have my concern Sebab To sustain the AI cheap demand, you start seeing all these large tech companies, baik Nvidia, baik Google, semua kan, they have started financial engineering. Basically, they're around, maybe not round-tripping per se lah. Tapi basically, Nvidia ataupun Google borrow money and then, Dia bagi duit dekat the smaller company tu untuk beli chip dia. Ya, I think I've come across something like that. So, it's actually quite concerning, you know. So far, the market kata, well, because they are huge and therefore, the risk to their cash flow is still okay because they still have billions of cash, kan? Tapi, you know, as a small businessman, entrepreneur yang manage some businesses, the moment you dah resort to creating demand in order to keep the demand that you have to take your money and give it to your customer at some point correction will happen. But katakanlah even if that doesn't happen The other thing yang Datuk Seri Anwar tak address langsung dalam belanjawan dia when it's so crucial to growth projection is this. Do we know how much front loading has happened? Frontloading pasal apa? Pasal dia cip. You see, people front load kan front loading ni maksudnya macam ni front loading ni kan front loading ni maksudnya katakanlah kau rasa 4-5 tahun lagi kau perlukan chip sekian-sekian-sekian tapi katakanlah kau perlukan 100 GPU tapi tak adalah kau perlukan sekarang mungkin kau perlukan 20 dulu 20 dulu kan tapi kau rasa mungkin aku nak beli sekarang takut harga dia naik ke everything takut nanti ada perang ke jadi apa-apa So you buy and you build stocks That's called front loading elektronik ni is known to frondot sebab you tak beli cik ni macam kita beli raw material getah ke apa tau because it's not commodity kalau commodity ni you tunggu ditunggu naik and then you know you tengok lah bila masa you beli sikit kan bila ditunggu you cuba beli banyak kan But electronics is known to be susceptible to front loading. So kita tak ada any assessment whether what is happening now, the growth ni... It is also driven by front loading. So, kalau that's the case, then come what may lah. That 4.2 to 5.2 tu, satu, we don't know whether it takes into account external factor, shock, segala apa kan. Kedua, kita pun tak tahu kalau contohnya, Ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada ada then kalau satu dua perkara itu berlaku then Malaysia punya growth next year is going to be affected when that growth is a factor, revenue will be a factor. Dan bila kita tak boleh kutik 381 billion revenue itu kan, then... Well, most probably potong lagi lah kot. Dia buat macam 20-25 lah. Potong, apa namanya, perbelanjaan mengurus lah.
 
-[3:02:32] Speaker 2: Ia adalah kewangan, perniagaan, pertandingan. Jadi sebab itu, kalau tengok kita punya belanjawan bayangan kan, Satu measure dalam belanjawan bayangan kita is about unfair competition daripada pekerja, bisnes-bisnes yang masuk pakai pas pelawat ni. Ini orang Melayu mungkin, orang Melayu yang peniaga Melayu dia sakit hati sebab dia kena compete dengan peniaga Bangladesh. Bangladesh buka, dia masuk sebagai pekerja asing tapi dia juga run business. Orang Cina Orang Cina yang peniaga SME Kecil-kecil semua ni Dia paling sakit hati Kepada peniaga daripada tanah besar
+[2:12:53] Speaker 4: Dan mungkin saya boleh ulas sikit
 
-[3:03:19] Speaker 4: Cina
+[2:12:55] Speaker 4: mengenai,
 
-[3:03:20] Speaker 2: Mainland Chinese Mereka datang dengan pas pelawat Dan Malaysia pula tak ada visa kan Dan boleh sekali masuk boleh 6 bulan kan So what they do, dia masuk sebagai pelancong Sebab tu kita dah umum kenaikan pelancong yang tinggi Sebenarnya, actually kena check tau yang mana betul-betul dari pelancong Yang mana datang sini buka company So I watch this documentary, ada orang buat documentary. Ini ada satu hair saloon sebab isu dia ialah more and more hair saloon yang Malaysian Chinese run ni kena tutup kedai, tak boleh nak compete. Sebabnya ialah Chinese daripada Shenzhen semua tu, dia datang kat sini, dia pakai nama orang Malaysia. So boleh buka semua tapi dia bayarlah dekat orang tu kan, RM5,000 sebulan ke pun untuk pakai nama dia. Kalau dekat Sungai Besi ni, kepada orang ramai, you pergi semua kedai tukang jahit ni tak ada satu pun lokal, semua Bangladesh. Then... Kenapa agaknya dia tak pernah kena rate ke apa semua kan? Sebab, salah satu sebabnya lah. Kalau kena rate tu kononnya dia dimiliki oleh orang tempatan. Aku kan dah boleh jadi penghulu Sungai Besi. Sebab, masa bandar baru Sungai Besi ni buka dulu kan, aku antara orang yang paling awal buka ofis kat sini. Masa tak ada apa lagi. Bank tak ada, mamak tak ada, aku dah buka kat sini kan. Kenal banyak So kalau sembang-sembang kat sini, orang tempatan, peniaga kat sini beritahu. Dia orang ni ruthless betul. Dia offer RM3,000-RM4,000 sebulan untuk pakai nama. So kalau you jadi Alibaba, RM3,000-RM4,000 for doing nothing, you ambil. Senangnya untuk... Then dia akan... Compete untuk bayar sewa, they push the prices up So kalau orang tempatan untuk buka kedai kat sini Mungkin dia nak bayar sewa, dia mampu RM2000 je kan Datang Bangladesh dengan ni semua Dia offer RM4000 lah Jadi orang bagi sewa kat dia, orang sewa, sewa, sewa semua kan Sebab tu dia dah face out Kalau di Sungai Besi ni, tukang jahit semua Bangladesh lah kan Kalau hair saloon, that specific case tadi. Hair saloon yang selalunya kalau Chinese kan banyak buat hair saloon kan. Semua tutup lah. Banyak tak boleh compete sebab bila dia orang datang, satu modal dia besar. Dia boleh buka dekat Monchiara semua tu. Lepas tu dia duduk sini, dia masuk, dia kerja, dia buka daripada 8 pagi sampai 12 tengah malam. Betul. Local, kita kena hidup macam biasa lah. Kita dah tak habis petang, kita balik lah. So orang semua and then they boleh undercut the price. So the real issue of SME, retail semua ni sebenarnya bukan 1% tax cut ni. Isu dia is lack of enforcement and juga nothing is being done to stop this predatory business competition daripada mainland China ni.
+[2:12:56] Speaker 4: but probably not 20-27 lah, tapi
 
-[3:06:40] Speaker 4: Sama dengan restoran China juga. So sekarang boleh nampak lah. So ada banyak kedai-kedai makanan sekarang You don't see any local Chinese anymore Dia dah kena face out Semua diganti dengan mainland Chinese punya restaurant And chef dia semua datang dengan pas pelawat And then 6 months later hantar balik So dia
+[2:12:59] Speaker 4: for the longer term lah, kemampanan
 
-[3:07:05] Speaker 2: balik Lepas tu dia datang dia renew
+[2:13:02] Speaker 4: kadar peningkatan kita.
 
-[3:07:07] Speaker 4: lagi Exactly And in fact gaji dia orang pun tak dibayar dalam ringgit juga Gaji dia orang dah sana dibayar dengan renminbi Di sana Di sana. Haa. So langsung tak ada spillover. Haa. Kepada local economy.
+[2:13:03] Speaker 4: So, if you look at our growth kan,
 
-[3:07:21] Speaker 2: Dia sama macam aku kecil-kecil dulu. Ini cerita lah walaupun tengah malam ni kan, aku duduk di Kemaman kan So kedai-kedai runcit kat Kemaman tu, semua ada Indian Muslim Ada seorang tu nama dia Pak Ali, aku seorang kecil, pelik lah sebab Pak Ali ni kan Dia tak macam orang Malaysia tau, dia pakai kain placard tu yang dia tarik macam film Tamil tu kan And aku pelik, every now and then, masa tu aku umur 7-8 tahun lah, aku pernah tanya mak ayah aku lah, kenapa lama dapat Ali ni tak ada kat kedai dia, ada orang lain? Oh, dia balik kampung. Aku tak pernah faham kenapa dia balik kampung berbulan-bulan lama Pak Ali ni tak ada kan Rupanya dia orang semua tu yang kedai runcit ni semua macam tu lah Datang pakai pas pelawat, buka semua And then dia balik kampung, dia balik India ke 2-3 bulan Basically untuk resell lah dia punya 6 bulan Then datang balik And now dia bukan berlaku dekat kampung-kampung macam Kemaman dulu Lain lah tak ada kesan sangat So, if you ask, especially Chinese, actually that is the real issue. Buat macam ini kan, I don't know lah. Maksudnya takkan Steven Sim tak tahu this is happening?
+[2:13:05] Speaker 4: what is the main driver of our growth?
 
-[3:08:41] Speaker 4: I'm sure they all know sebab ini memang concern yang paling besar.
+[2:13:07] Speaker 4: Ya, kita ada external, kita ada ekspor, tapi yang paling utama actually
 
-[3:08:46] Speaker 2: Kalau tidak kita tak masukkan dalam shadow budget kita. Sebab memang betul when I sit down and tanya, actually Zubi dia akan tunjuk. Ha yang itu cinta. Actually kan aku ada kawan, Zubi tahu. Zubi you tahu tak, interior design pun dia orang semua. Company interior design semua pun semua dah kena compete dengan dia orang.
+[2:13:11] Speaker 4: come from
 
-[3:09:06] Speaker 4: Kedai perabot, even kedai platform juga macam Pintuo2 sekarang kan ada satu platform Pintuo2 kan Sebab dia masuk dengan barangan yang sangat murah yang kita tak ada tarif ataupun low value good tax So langsung tak boleh compete, so we don't have the skill, kita tak ada skala yang secukup besar seperti kilang-kilang terbesar di China So kita memang tak boleh compete dengan cost dia Dalam
+[2:13:11] Speaker 4: domestic consumption.
 
-[3:09:36] Speaker 2: bajet tadi Adalah Dalam bajet tadi Tapi bukan Yang pasal bisnes asing yang masuk pakai PAS Pelawat ni, dia kata sedang e-commerce build kan, sedang membangunkan untuk manage apa nama ni unfair competition daripada foreign platform ni. Sedang lah, sedang.
+[2:13:13] Speaker 4: So
 
-[3:10:03] Speaker 1: Kita tengok next Bobby Pengumuman tentang funding SGPP guarantee Berkaitan dengan teraju Satu bilion teraju Yang ini aku tak puas hati
+[2:13:14] Speaker 4: penggunaan isi rumah
 
-[3:10:14] Speaker 2: Bukanlah tak puas hati Sebenarnya benda tu bukan benda baru Benda tu dah ada daripada zaman aku kat situ So sekarang ni teraju ni telah dirampas daripada Kementerian Ekonomi Diletakkan Dia dah transfer daripada Kementerian Ekonomi Kementerian Ekonomi sekarang tinggal EPU dengan dosam je Teraju pun dah kena rampas Peneraju? I don't know, YB tak sure yet. Kata teraju je yang ni. Teraju. Ada sebab lah kenapa PMO nak ambil teraju. The story like this, Teraju ni kan unit pembangunan Bung Putra lah supposedly kan. So over the years, they get funding untuk Bumi Putera. So the way before that Ialah dia bagi grant Ataupun what they do is that dia ambil duit tu, dia bagi kat bank, suruh bank manage. Suruh bank bagi pinjaman lah kononnya kepada bisnes-bisnes Bumi Putra ni kan. So when I came in, macam biasa lah kan, I ask them to go, satu no grant, no more
+[2:13:15] Speaker 4: But how sustainable
 
-[3:11:28] Speaker 3: grant.
+[2:13:17] Speaker 4: Our household consumption Is going to be Kalau
 
-[3:11:29] Speaker 2: Sebab kalau you boleh buat kilang, and this is a real case tau, you boleh buat kilang sampai 20 juta macam tu kan. Kemudian you pakai kereta jaguar, sport semua, kaya raya semua. Tak payahlah ambil 5 juta grant daripada kerajaan untuk kilang you. Kalau nak bagi grant ni bagi kepada yang more deserving lah in my opinion. So grant tak ada. Cuma duit-duit yang diorang bagi, aku suruh diorang pergi kutip balik. Ada lebih kurang 200 juta. Hmm. So, dia ambil kutip balik daripada bank-bank ni semua kan. So, I say, change it like this. You tell the bank, satu... Bagi kat bank, dia tak membantu usahawan Bumi Putera sebab bila pergi bank, bank trik dia orang ni sama macam bank trik yang lain. Padahal bukan duit bank pun, itu duit kerajaan. Tapi susah lah itu semua kan. So, turn it the other one around. The sourcing tu must be from teraju. So, therefore teraju needed, I mean kita minta teraju untuk build the capacity to source for it. To incubate business Semua lah kan So Teraju Identify Incubate Semua And then Dia jadi co-funding One ringgit Teraju put Bank You letak Empat ringgit So that's how daripada RM200 million yang awal consolidated tu jadi RM1 billion. So katakanlah you dapat RM10 million tak adalah dia punya ticket size tu kecil-kecil je. Katakanlah RM500,000 kan. So RM500,000 loan katakanlah you ambil daripada bank Muamalat
+[2:13:20] Speaker 4: gaji
 
-[3:13:17] Speaker 3: kan.
+[2:13:21] Speaker 4: rakyat Malaysia
 
-[3:13:19] Speaker 2: Daripada situ. 100,000 tu is actually teraju 400 daripada bank. So because of that, tiba-tiba teraju ada financing facility of 1 billion lah. And dia bukan pakai duit kajian yang baru. Ini memang duit yang aku suruh dia orang kutip daripada tak guna duduk kat situ bertahun-tahun. Tak disburs semua kan. I suppose someone tengok, wah there's 1 billion. So lo and behold the next thing aku tahu bila aku dah tak ada Dato' Suhan, Wah Ibrahim telah memindahkan teraju daripada kemudian kena bawah dia kan. And then idea dia pergi umum pula benda ni kan. Padahal benda tu ada daripada dulu. Satu, it doesn't involve duit daripada bajet. The money is already there. Yang memang dah ada lah ni. Umum sajalah. And I think kalau tengok kepada... Funding yang dia umum tu
+[2:13:22] Speaker 4: Tak
 
-[3:14:26] Speaker 1: Hmm
+[2:13:23] Speaker 4: naik
 
-[3:14:27] Speaker 2: Aku tak nampak banyak funding, new funding tu. Yang besar yang diumum tu ialah SJPP, Scheme Jaminan Pinjaman Bersekutuan. SJPP is not direct duit daripada kerajaan. Basically government... Cause of fiscal. Yeah, it's just basically a fiscal commitment. So katakanlah, you may bank, you bagi pinjam 2 juta. Itu pun... Sorry lah, bos-bos bank, I hope you are listening kan. Sometimes I think it's overkill. Sebab, okey, kerajaan dah bagi SJPP, skim jaminan, basically credit guarantee lah kan. So katakanlah, main bank bagi kau 1 million kan so actually government dah guarantee kalau you default government will bayar that 1 million kan tapi sebenarnya bank still require you to give personal guarantee dah So personal guarantee pun diambil, SJPP pun diambil Oh So kan, jadi sebab itu SME You umum berapa banyak SJPP tiap-tiap tahun kan Okay lah, they go through it Dia tahu dia dapat SJPP tu semua loan yang diambil Tapi it doesn't make them happy dengan kerajaan Because it doesn't remove the fact that dia kena bagi personal guarantee dia Dan bila dia bagi personal guarantee, kalau jadi apa-apa dia bankrupt Itu juga pengalaman saya. Memang pengarah semua kena bagi personal guarantee.
+[2:13:23] Speaker 4: Tapi tidak naik kan di umum tadi.
 
-[3:15:58] Speaker 4: Jadi ada personal guarantee atau collateral lah kan?
+[2:13:28] Speaker 4: Kita akan urus.
 
-[3:16:01] Speaker 2: Tapi sepatutnya kalau dah ada SJPB, dah ada lah personal guarantee. dah ada berapa banyak garanti you nak dapat ni kan kan so sebab tu kadang-kadang I feel like banking sector kat Malaysia ni actually Bila berkaitan dengan SME, memang terlalu banyak. Jadi, jika ada apa-apa, itu adalah ekosistem pendanaan
+[2:13:29] Speaker 4: So,
 
-[3:16:25] Speaker 4: yang perlu diperbaiki. Tetapi, ia juga sesuatu yang saya masih tidak mempunyai jawapan yang baik untuk menjawab masalah ini, masalah pendanaan. Jadi, bagaimana cara atau model yang lebih bersesuaian untuk kerajaan bagi pendanaan kepada SME?
+[2:13:30] Speaker 4: macam mana kita boleh menjamin
 
-[3:16:44] Speaker 2: I have a slightly different view lah Back in those days When Malaysia was growing Bukan kerajaan bagi funding ke SME But kerajaan allow... Bank to lose different financial institution to cater for different
+[2:13:32] Speaker 4: penggunaan isi rumah continue to be the main driver
 
-[3:17:05] Speaker 4: risk portfolio So mungkin akan establish satu bank yang khususnya hanya serve SME lah Well actually
+[2:13:36] Speaker 4: untuk
 
-[3:17:15] Speaker 2: let the market decide lah Let the market dulu sebab itu before financial crisis 1997-98 SME funding was a lot easier and was a lot more vibrant. Yang banyak non-performing loan ni, banyaknya because of equity semua. Not actual genuine business. Yang genuine business ni, kalau for example ada a more vibrant SME financing, it's an asset class. It's different. Sebenarnya, bank besar tidak mahu menyentuh semua kelas aset ini kerana ia terlalu kecil untuk mereka. Mereka tidak mahu berpindah ke kerajaan, yang besar. Jadi sekarang ini, kerana We still traumatize by 1997, 1998. We didn't want to innovate ataupun and then whatever kalau tanya bank negara ke apa, dia punya view or MOF ke apa, dia punya view about SME financing ni, tokenism like that lah. Kita dah ada lah sebenarnya. But Anda tidak memperbaiki ekosistem pembiayaan atau pasaran. Soalan ini adalah, bagaimana anda membolehkan portfolio risiko yang lebih
+[2:13:37] Speaker 4: kadar peningkatan kita
 
-[3:18:39] Speaker 4: tinggi,
+[2:13:38] Speaker 4: kalau
 
-[3:18:40] Speaker 2: tetapi pada masa yang sama, menguruskannya dengan lebih baik dengan perlindungan gas dan kereta. Itulah kerja-kerjaan.
+[2:13:39] Speaker 4: gaji
 
-[3:18:48] Speaker 4: Ya, bagaimana anda mengamankan kestabilan perbankan? Saya rasa itu adalah kebimbangan tertinggi bagi BNM. Tetapi adakah
+[2:13:39] Speaker 4: rakyat tidak meningkat.
 
-[3:18:58] Speaker 2: anda tidak fikir bahawa kestabilan perbankan ini, jika anda tidak berhati-hati, ia menjadi sebab yang sangat penting. Untuk segala-galanya
+[2:13:43] Speaker 4: So,
 
-[3:19:14] Speaker 4: Ya lah ni macam overkill lah
+[2:13:43] Speaker 4: in the short term, mungkin kita
 
-[3:19:15] Speaker 2: Ya it's quite an overkill It's quite an overkill kan So So Because of that Sebab itu kerajaan umum anything every year Pasal funding there, ekstradis semua Because you don't fix the market Sebenarnya SME You tak ada kesan kepada SME Berapa kali dah kita dengar ni And I run SME So, to me nothing changes. And then, actually SME ni benci nak pergi kat bank tau kat Malaysia ni. Sebab they really treat you badly. Susah nak dapat financing. Kalau DFI yang kajian ada tu kan, dia punya, you know I have one experience, this was about masa zaman Covid tau. Dia juga yang contact kita orang Sebab kerajaan mengumumkan pembiayaan SME. So dia bagi kot bank-bank ni semua kan So bank nak bagilah Hmm Kan So ada dua bank Dua-dua yang contact kita orang You know masa tu we just raise equity. So it's not like we really needed money sangatlah kan. Tapi you know masa tu COVID and kalau ada cash buffer and you can extend your cash runaway, that's not a bad idea. Jadi, kita perlu lakukan proses itu. Sebenarnya, ia menghabiskan banyak masa. Sebab satu bank, DFI itu, satu tahun, dinding-dinding minta semua, semuanya, semua hantar semua. Lepas itu, mereka menggoda kami. Lepas itu, setahun lebih semua, saya boleh menyebut nama bank itu, MIDF. Lepas tu, bila kita kejar balik, orang dah wasted our time semua tu. Dia kata, oh sorry, funding dah habis. Ha. Dia tak payahlah menyusahkan orang because we are not like you makan gaji, we run our business. So every time kita kena buat semua ni, it takes our time away daripada running the business. Lepas tu ada satu lagi bank, sama. Pumpang-pumpang dia juga contact, pumpang-pumpang, pumpang-pumpang, pumpang-pumpang. Kita dah isi semua, tu dia ghosted. So my friends sama semua, I mean a lot of my batchmates kalau dia buat bisnes dia tak adalah, dia bukan kroni kan Semua yang run SME lah, kilang kecil kat sana semua kan You talk to them and these are malays tau, educated malays People like yang dah ada experience running SME 20 tahun lah Semua kata bank tak payah, buang masa aku je Sebab by nature our big banks are not interested dengan SME Dia boleh dapat manage one big government bond issuance Sekali dia dapat underwriting fee semua tu banyak Mana ni daripada Muhammad ni dapat berapa persis je kan So that's why SME is so underserved because of the dominance of our anchor banks Now the policy question is you want to maintain banking stability? Yes Tetapi... dalam situasi di mana anda perlu memobilisasi kapital dan anda perlu meningkatkan SME kita lebih daripada apa-apa lagi, jangan beritahu saya bahawa ini adalah yang terbaik yang boleh dilakukan oleh kerajaan. Jadi, malangnya, yang kita dengar tadi ialah pengumuman mengenai fund yang memang dah ada di situ.
+[2:13:45] Speaker 4: tak nampak masalah.
 
-[3:22:40] Speaker 5: kes tadi ke scenario di mana government bagi mandat clear kepada banking institutions to go and help out SMEs. Like proper you have to carve out this amount No,
+[2:13:46] Speaker 4: But let's say in the next 5 years or next 10 years.
 
-[3:22:53] Speaker 2: amount tu datang daripada kerajaan Bila kerajaan umum And to be fair, Pak Han kan, government cannot instruct bank Macam mana dia nak manage their portfolio You tak boleh nak kata bank, I want 30% of your loans to go to SME Pun tak boleh So what government does is that every year, masa bajet dulu-dululah And the accumulates over the year, they set aside the fund untuk SME So fund ini, either diberikan kepada bank negara And bank negara bagi kepada SME semua M-E-Bank M-O-D-F-I yang lain Tetapi, anda tahu, maksud saya, ia seperti, Kalau you jadi bank lah, I mean, satu the amount is too small, kedua is that it's really not their bread and butter semua ni kan. So, kecuali kalau you bernasib baik, you dapat branch manager yang betul-betul. Tapi biasa itu bukan KPI branch manager pun. Itu bukan KPI. So, because of that, so what is lacking kalau compare to before is a vibrant, SME Fokus Part of the banking market Kan So Cuma of course Sebab itu kita Ya lah, kerana kita tak berani nak ambil risiko. Kerana kita takut NPL lah semua. Well, NPL yang Sapura buat tu tak bising pula. Haa.
+[2:13:49] Speaker 4: That's why dalam strategi budget kita, kita dah kata
 
-[3:24:24] Speaker 4: So, NPL kalau tak silap, aa, sistem perbankan kita, I think it's about 1.9% ke kalau tak silap, of the outstanding. So, kita punya... It's actually quite low lah. Quite low. Stable and
+[2:13:52] Speaker 4: We actually mentioned it very clearly.
 
-[3:24:38] Speaker 2: low. So, if you ask me, it's like, you know, Dari perspektif ekonomi makro, apabila anda benar-benar perlu membantu SME dan memobilisasi wang, sebenarnya anda perlu mencipta ekosistem pendanaan untuknya. Okeylah, ini adalah subjek yang berbeza.
+[2:13:54] Speaker 4: So...
 
-[3:24:57] Speaker 1: Seterusnya berkaitan dengan projek-projek baru yang diumumkan. Ada atau tidak?
+[2:13:55] Speaker 4: So first kita kena
 
-[3:25:03] Speaker 2: Tak ada. Yang dia umum tu aku pun gelak TNB akan membelanjakan RM15B untuk menaik taraf grid Haa
+[2:13:56] Speaker 4: diversify source of growth,
 
-[3:25:15] Speaker 1: ya ada ada Okay why you gelak? Sebab pertama yelah entiti TNB tu sendiri Haa setua kerajaan Lagi? Lepas tu yang grid ni saya rasa kita dah pernah sentuh dalam episod kedua YBM eh Episod kedua YBM tu dah setahun lebih dekat setahun setengah
+[2:13:58] Speaker 4: kita tidak boleh just
 
-[3:25:32] Speaker 2: You see, kepada saudara-saudari yang menonton, kita kan bayar bil elektrik
+[2:14:01] Speaker 4: over-dependent
 
-[3:25:38] Speaker 3: kan,
+[2:14:01] Speaker 4: on just export sector, what if there's a global AI boom.
 
-[3:25:39] Speaker 2: tarif. Kita bincang dekat podcast yang lepas, yang dekat HQ bersama yang aku resetkan nyamuk. Kan bila kita bayar bil elektrik, sekarang kan dia tunjukkan fuel cost, satu tu kan nama dia transmission cost kan. Kita sebenarnya yang membayar kepada TNB supaya TNB gunakan yang kita bayar, itu bukan duit kajian, yang kita bayar itu pergi naik taraf Greek. Yang Anwar Ibrahim pergi umum dalam bajet ini kenapa? It's got nothing to do dengan satu government spending. Yang itu memang telah diputuskan bila kerajaan melalui suruhanjaya tenaga meluluskan the tariff Dan yang membayarnya ialah rakyat You got nothing to do with Apa nama ni Belanjawan kajian Yang berbahayanya Bila diumumkan Pasal TNB semua ni It gives the impression Actually nothing big is happening Hmm Sampai TNB punya upgrading of the transmission which happens every year Daripada zaman dulu memang every year TNB kena upgrade transmission Kau tidak mampu lah kita tak ada electric kan I don't know when was the last time do you ever recall kerajaan mengumumkan Belanja menaik taraf transmission yang kita bayar melalui tarif sebagai projek belanjawan UEM Lestra ni ke lagi lawak lah. 1 bilion UEM Lestra kan. If I'm not mistaken, ini ialah projek 500 megawatt solar UEM Lestra yang dekat Johor tu, yang aku dituduh rasuah hari tu. Oh ya? Ya. Oh
+[2:14:05] Speaker 4: Dan
 
-[3:27:25] Speaker 1: yang ni.
+[2:14:06] Speaker 4: kita pun
 
-[3:27:26] Speaker 2: Haa. Tak ada orang beritahu Anwar ke? Janganlah masukkan. Yang ini... See, I never forget. Especially projects that I work on. Okay,
+[2:14:06] Speaker 4: sentuh
 
-[3:27:38] Speaker 5: selasua 2.5 bilion.
+[2:14:07] Speaker 4: pasal
 
-[3:27:42] Speaker 2: Yang ini kita susah payah aku lah. Pak Han tahulah dekat Kementerian Ekonomi push for it the first one sebagai bukti keras. Ini sebagai bukti bahawa sektor peribadi boleh dikendalikan, dikendalikan oleh sektor peribadi, kerajaan tak campur. Kami hanya mengubah beberapa polisi. Oh, ini yang Caprice highlight. Ya, ini yang Caprice highlight ini, yang konon. Saya menghukum kekuatan saya untuk memberikan kontrak. Aku nak beri kontrak apa ni, UAM, Lestra, apanya? Well low and behold Anwar umumkan di dalam belajaran dia Projek ni kita dah umumkan sebagai kejayaan early success of NETA tahun 2023 Masuk dalam magnet sekarang
+[2:14:08] Speaker 4: gaji.
 
-[3:28:28] Speaker 3: Hmm
+[2:14:08] Speaker 4: If let's say we continue to be at this rate,
 
-[3:28:29] Speaker 2: Jadi, anda tahu, bahaya adalah ini. Bila anda melihat semua ini, Ia memberikan perasaan bahawa tidak ada apa-apa yang besar yang berlaku
+[2:14:11] Speaker 4: what is going to happen to our growth?
 
-[3:28:38] Speaker 4: Tetapi pada optiknya, ia kelihatan baik Apabila pembentangan PMX seperti Wah, anda mempunyai 1 bilion, 2 bilion Soundbite dia seperti Sangat
+[2:14:13] Speaker 4: So
 
-[3:28:49] Speaker 2: baik Tetapi itulah perkara Ini belanjawan kerajaan Dan ia bukan Kalau dia buat di luar parlimen, yang masa pengumuman biasa ceramah, it's okay. Itu pun janganlah, tak malu. Dua-dua ni, TNB yang UEM ni, LESRA ni, dua-dua atas hasil daripada NETEF yang kita bangunkan. TNB punya upgrading tu termasuk bateri storage. And the reason why they have to spend that much is to lift up our capacity to store solar. And itu as part of NETA. And the negotiation for tariff itu took into account of that. UAM Lestera ni memang NETA project, flagship NETA project. So satu ialah untuk belanjawan dalam parlimen, that shouldn't go in. Sebab itu tak ada kena-mengena dengan kerajaan pun. Because this is about duit taxpayer kan. Secondly, ialah kalau aku, aku will be a bit politically correct lah. ni dulu yang come up with the idea you know push for it semua ni mamat ni aku tahan dia untuk SPRM tiba-tiba aku pergi claim kredit
+[2:14:14] Speaker 4: it's something that we need to think.
 
-[3:30:06] Speaker 3: dalam bajet kan tak kena tak kena
+[2:14:16] Speaker 4: So that's why
 
-[3:30:10] Speaker 1: okay okay dan mungkin last kali untuk yang ni pertumbuhan ekonomi pengumuman berkaitan satu bilion untuk electronic medical record bawah
+[2:14:17] Speaker 4: dalam strategy kita,
 
-[3:30:22] Speaker 2: Agaknya apa yang salah kat situ Apa yang pelik kat situ SKMM tapi... Saya nak beritahu orang ramai Ini semua yang lost in translation Yang bila dibaca cepat-cepat Rakyat dan media Mungkin tak boleh tangkap Ini situasi dia Zaman dulu-dulu Sistem rekod pesakit di hospital-hospital, dia manual. Dia cukup menyusahkan doktor dan tak efisien. Kita semua pakai tab check semua kan masuk kan, ni nak cari file sana file sini kan. So kerajaan sebelum-sebelum ini setiap kali dia kononnya nak digitize patient's record, dia bagi kepada one company and untuk hospital tu je. Satu-satu tu mahal lah, RM70 juta lah, RM80 juta lah, semuanya kan. Because of that, it's not scale up. And you know lah, most probably ada benda tak betul lah kat situ kan. So, it cannot be scale up. It's not scalable kan. Jadi, digitisasi rekod pesakit yang dipanggil EMR, elektronik rekod perubatan memang dibincangkan daripada 2023. Dan kita memang dah lulus, kita tu maksudnya kementerian ekonomi dulu lah. Kita menekan untuk ini. Cuma masalah dia sangkut bila kita dah luluskan sampai dekat kementerian kesihatan, sangkut. Sebab Dr. Zul nak dapatkan syarikat internasional dulu. Hmm Kan So by the time I left I don't know what happened lah sebab tugas kami ialah to push for it And then you go ahead and do it procurement process semua tu ialah kementerian kesihatan lah Low and behold Tiba-tiba pengumuman 1 bilion I didn't recall it as 1 bilion I thought that it was 500, 600, 400 bilion Dulu diluluskan kan 1 bilion EMR Tetapi Di bawah Suruhanjaya Komunikasi Malaysia Apa kena-mengena SKMM Dengan Kementerian Kesihatan So that's pelik Okey, ya? Tambah lagi, dalam bajet itu juga diumumkan tentang kerajaan sedang membangunkan sovereign AI. Tender untuk sovereign AI ni itu pun dekat SKMM. Then most probably, I don't know, kita kena chase nanti tengok berapa. Gayanya bilion jugalah. So you are looking at SKMM managing 2 billion IT project. 2 bilion IT projek ni kita faham-faham Lepas ni ada orang berebut lah Yang selalu menjadi rebutan ni Dia bukannya projek-projek yang boleh nampak dengan mata ni Dia projek-projek yang kita tak nampak lah kan So kita dah pernah dengar macam-macam So lepas ni kita nak kena correct and gali lah ni Tapi saya harap lah Dr. Zul, Dr. Sri Anwar, you kena terang kan macam mana projek yang item dia tu diluluskan sebagai projek Kementerian Kesihatan Tapi tiba-tiba SKMM buat. Apa kena-mengena SKMM dengan projek menaik taraf sistem elektronik pesakit Kementerian Kesihatan? Semua ni untuk projek-projek besar, IT yang menimbulkan big tanda tanya lah. Kita ada projek custom, 1 bilion lebih ada projek tu. Semua projek IT Jabatan-Jabatan Kerajaan ni, semua bilion-bilion. Padu 24 juta. Itu pun tak bayar orang langsung 24 juta tu beli server Cerita pasal padu ni Kan dia orang duk kutuk-kutuk padu semua kan Hari tu ada orang forward kat aku Tak guna punya kerajaan Kutuk-kutuk padu semua Ha ni tender untuk Apa namanya Menaik taraf server padu Begitulah kerajaan Malaysia Dan mandani But this one ni Kepada rakyat Malaysia semua Kita kena really pay attention to this Ini two big ticket items Yang billion-billion punya project ni Yang kita pun tak tahu Especially sovereign AI ni Aku pun tak tahu apa hasil dia kepada kerajaan Ha?
+[2:14:18] Speaker 4: we lay
 
-[3:35:07] Speaker 1: Mungkin Yalah kita dah tengok salah satu Ada tak perkara-perkara yang tertinggal Sepatutnya dimasukkan tapi tertinggal
+[2:14:19] Speaker 4: out things that have longer term,
 
-[3:35:15] Speaker 2: Bukanlah nak kata tertinggal, tapi the biggest elephant in the room. Kalau kita ingat masa kita bincang pasal... Belanjawan bayangan Hmm One key weakness dalam ekonomi Malaysia ni ialah pergantungan kepada pekerja asing Kau rasa tak? Langsung tak disentuh, tak ada satu benda pun MTLM yang telah diluluskan dan Dato' Sri Anwar sendiri yang dulu beri arahan Mesti dilaksanakan 1 Januari 2025, tak ada So, you know that's a big red flag Yang satu dunia Diagnose Malaysia Kita ada masalah dengan pergantungan Kepada pekerja asing Tapi belanjawan terakhir Datuk Sri Anwar langsung tak sentuh Kemudian biarlah Erm... Kita tak nampak lah apa nama ni big idea, big plans untuk increasing the complexity of the economy untuk jadi high value chain lah. Dulu ada GSSEZ and oh dia umum GSSEZ tadi. Tapi memang betul lah. Pelaburan terbesar dekat Malaysia, actually yang dia umum semua tu, I think more than a third goes to JSSEZ in one year lah. So dia akan umum lah, dia akan melancarkan JSSEZ blueprint semua okey lah. Cuma yang aku agak alarm, Maksudnya oleh kerana GSACZ ni kalau tengok ucapan dia tadi Ialah lepas ini semua orang minta economic zone, special economic zone Bintulu special economic zone lah Ada 8 border economic zone semua ni kan Does it work like that? No it doesn't work like that I was against it daripada dulu GSACZ can work because of Singapore Sebab there is a demand and the market there is a synergy I don't call a cry.
+[2:14:21] Speaker 4: punya impact. So mungkin sekarang kita tak nampak lagi,
 
-[3:37:18] Speaker 4: I don't
+[2:14:24] Speaker 4: by the next 5-10 years, it will happen.
 
-[3:37:20] Speaker 2: call a cry. Bolok call a cry. Tak menjadilah. Tak payahlah buat. Nanti buang duit sahaja. Habis duit untuk bina bangunan baru lah. Itulah. Ini semua tak menjadilah. Dekat Malaysia so far. I think the only place where it can really work is sebenarnya Johor and Singapore. So yang lain tu I think nothing... Tak tahulah, tak ada um sangat lah kan, nothing significant.
+[2:14:28] Rafizi: Kita ada lebih kurang sejam lebih je Nak cover semua yang orang tunggu ni Dia nak tunggu nak nak tanya Pasal pengumuman-pengumuman je Yes, kita Dia orang dah tidur lah Sebab dia orang ni duduk cerita Pasal makro je tak ada kena-kena Kita tinggalkan
 
-[3:37:48] Speaker 4: Dan tak ada dasar-dasar yang long term base lah. Faham. Tak ada apa pun dasar untuk menyelesaikan, for example, penuaan penduduk. Dia ada lah, dia ada announce satu dasar mengenai bantuan warga emas kan kalau tak salah. Dia increase dia punya amount, but itu je
+[2:14:42] Haziq: kemampangan kewangan Kita go
 
-[3:38:07] Speaker 2: dia tak ada.
+[2:14:44] Rafizi: through satu-satulah pengumuman-pengumuman ni Oh at least yang besar-besar Yang besar-besar Yang rakyat nak tahu Yes, yang diumumkan tadi
 
-[3:38:10] Speaker 4: But they said only cover 200,000. Hmm.
+[2:14:51] Haziq: Mutuh hidup rakyat lah kan Mungkin saya
 
-[3:38:12] Speaker 2: So kena tunggu details lagi lah.
+[2:14:55] Rafizi: Macam mana kita nak buat Kita go satu-satukah? Satu-satu very quickly lah kot Apa yang besar-besar Satu pengumuman STR dengan Sarah Tapi nak kata dia banyak beza sangat pun Tak lah Dia umumkan pertambahan 1 billion Daripada 15 jadi 16 I don't know how is that going to be Maksudnya, rate dia, kecuali untuk Sarah lah, naik 150 ke 200 kan. Yang lain tu, STR sama semua kan. Rate semua sama lah. So, kalau... Kalau SARA maksudnya Quite a big chunk of that 1 billion Will go to that 50 ringgit increase for SARA So saya rasa ia SARA So STR tak ada beza sangat STR sekarang dibayar berapa kali sahun? 3, 4 kali 4 kali, setiap suku Setiap suku kan Okay Yang ini ni kan ehm di bawah pentadbiran Mandani sekarang ini, Saya ingat dia rasa gabungan ini lebih superior kerana dia bagi budi RM95 harga minyak. Kemudian dia masih lagi beri Sarah Ataupun STR ni lah kan Yes You know kita cadangkan sebab macam saya sebut lah the problem with Budi 95 ni it doesn't address the real economic question and the most basic basic economic question is basically consumption yang kami dah ulas tadilah dalam keadaan yang mana kita punya fuel consumption ni is distorted and sebab itulah banyak benda lain public transport ke EV ke apa semua tu distorted because minyak murah lah kan tapi Argumen paling kuat Kepada our school of thoughts, our suggestion ialah Never mind lah, you kata kalau you restructure Seperti yang dicadangkan oleh bersama Rakyat akan dapat ekstra 237 ke 300 ke I don't care Saya tak boleh, saya tak suka sebab orang Malaysia ini Kalau bagi duit tunai kat dia Dia akan pergi beli rokok Dia akan beli iPhone Semua kan Sarah dengan Budi ni cukup baik Sebab Sarah ni tak boleh salah gunakan perbelanjaan Oh dia hanya boleh beli benda itu Benda ni tak pernah diulas Okay Actually, there is... Kenapa, ialah kepada orang-orang Kementerian Kewangan yang tengok, kenapa I was fundamentally, saya pro cash transfer, monthly cash transfer kepada household, bukan kepada individual. Satu ialah sebenarnya ada moral hazard Kalau bila buat kepada Sarah semua ni What is the big moral hazard sebenarnya? pada masyarakat Yang Sarah Sekarang What is a big moral hazard? Cuma mungkin orang gila macam aku je fikir benda-benda macam ni. The moral hazard worry. Actually, who is the biggest beneficiary of Sarah?
 
-[3:38:16] Speaker 4: cover is about 4.2% of total
+[2:18:36] Speaker 4: Atau pun moral.
 
-[3:38:19] Speaker 2: what I mean is dalam belanjawan bayangan kita shadow budget I mean the full coverage is what 3 million
+[2:18:37] Rafizi: Orang yang tak bekerja? Well, iyalah orang yang tak bekerja. Aku tak kisahlah kalau bagikan makcik tak bekerja. Tapi siapa selain daripada mereka, siapa a much bigger beneficiary to all this.
 
-[3:38:27] Speaker 4: full coverage about 3 million
+[2:18:52] Speaker 4: Perniaga lah Okay, which peniaga?
 
-[3:38:28] Speaker 2: 3 million people 3 million plus it's not even 10% so they increase daripada 4.1% to mungkin 8% plus ok baik Baik Weby I think kita tutup lah Yang lain kita nak dengar Kita conclude terus lah Sekarang dah 12.40 Weby tak nak puji sikit? Tak nak Tak nak?
+[2:18:54] Speaker 4: Perniaga yang eligible, yang
 
-[3:38:48] Speaker 1: Dah tengah malam Okay Kita Inilah tengok Apakah kesimpulan-kesimpulannya?
+[2:18:56] Speaker 4: layak
 
-[3:38:54] Speaker 4: Tanya Joe lah dulu Nothing much kot Nothing much Everything macam Firefighting experience Firefighting exercise je Firefighting
+[2:18:57] Speaker 2: untuk Which ones?
 
-[3:39:02] Speaker 2: Hmm Aku yang paling menarik bila aku tengok ni kan, aku tengok tarikh-tarikh berkuat kuasa.
+[2:19:03] Rafizi: Sebenarnya The biggest beneficiary Of Sarah Ialah Spidman Sebab itu saham Spidman Goes up through the roof I have nothing against Spidman Aku memang membeli di Spidman I have nothing against Apa nama ni Maiden ke apa I'm talking about From economic design perspective Kan I'm so concerned about ...disproportionately according advantage to one group over the other. So kita bandingkan antara SARA dengan monthly cash transfer. Bila orang dapat SARA, dia hanya boleh pergi beli dekat kedai-kedai tertentu. And 50% of SARA... sebenarnya menghabiskan di Speedmart, lebih kurang. Orang lain dapat kecil-kecil-kecil. Saya mempunyai gambar itu. Jangan tanya saya kenapa. Jadi, lebih kurang 50% dari Sarah sebenarnya menghabiskan di Speedmart. Sebab itu, Speedmart benar-benar menghargai daripada ini. Mereka berkongsi, berkongsi, berkongsi, semua itu kan? And then, of course lah, bila dah jadi isu, MOF sebut lah, oh kita akan tambah lagi, tambah lagi, tambah lagi. Tapi, the speed and the administrative hurdle of menambah semua kedai ni, actually, you really discriminate everyone else, especially the smaller ones. Kedai kecik-kecik, semua ni kan? you know Imagine, kalau you bagi monthly household transfer. Kola, kemudian social pension, semua ini kan. So there are a few things yang I contest lah. Disbelief that you tak boleh percaya kepada orang. Mungkin lah ada a small minority that may abuse him. Tetapi pada akhir-akhir, poor families, orang susah semua ni, you need to give them the freedom to manage that cash assistance. Kalau contohnya, dia dapat RM600 sebulan, kalau masa itu yang paling penting ialah dia beli ubat untuk anak dia. What is wrong with that? There's nothing wrong with it. Kan? Kalau contohnya, dia nak makan. Dia dapat RM600 sebulan, dia nak makan, dia makanlah. Semua kan? As opposed to, you must do exactly lah kan? But the bigger, another level of moral hazard, kalau you bagi cash transfer, 600, 500 per household ni kan. It gets spent in local economy and everyone has a fair chance. Kedai guncik kecil pun dapat chance, pakcik tepi jalan gerai pun dapat chance semua. The spillover effect, in my opinion, It's much fairer than concentrated in seven, eight, nine huge cooperation dalam Malaysia. I mean, anyone from MOF, kalau boleh, then you argue with me on that. Itu tak macam apa lagi yang tidak disebut kepada orang ramai, bila MOF pakai SARA punya sistem semua ni, you think they don't incur cost ke? Dia ada administrative cost. Dia ada administrative cost. Dia bayar about 1%, 1%, 2%. So yang diumum, kalau contohnya umum, katakanlah Sarah lah, mungkin I don't know, Sarah berapa, katakanlah 8 bilion sahun kan. Eh 1% is 80 juta tau. 80 juta yang dapat kepada provider yang bagi sistem. Tak ada open tender, tak ada MOF pandai-pandai lantik, didn't go through anything. Eh buat padu, 20 juta tu pun dia bising tau. And then orang kita duduk bising kata nanti data kerajaan lah, data private saya lah. Eh ini, Sarah ni, satu badan yang tak ada kena-mengena dengan kerajaan diberikan. So, you know one day all this will be scrutinized. Then sekarang ni orang sebab... The news tak keluar lagi And there is no proper discourse But the moral hazard Of satu ialah This attitude that government knows best And government looks ...negatively about a household's ability to manage their finances. Sebab itu, I think in most studies in the world, I think majority of economies will always say......examples and evidence from around the world, cash transfer is better. Sebab kebanyakan yang miskin ni, contohnya, kebanyakannya kalau di negara-negara lain tadi, kebanyakannya adalah wanita. They will use the money accordingly. Yang kedua, as I say, we cannot... we have to get down from our high horse and to decide, you know, duit kita bagi ni, you boleh buat ni, you boleh buat tu saja, kan? So, all this lah. So, that is to me, kepada orang yang so anti cash transfer atas alasan-alasan semua ni, kan? Sometimes, I think we have to look beyond our convenience. kerja saya sebagai politik Ialah bukan semata-mata untuk menang undi and therefore tak berani sebut benda-benda yang orang rasa itu individual convenience. Budi 95 is individual convenience. Basically kita mengajar rakyat kita asalkan aku senang aku tak peduli apa jadi kepada negara. That's actually what we are basically teaching our public lah. Whereas, kalau we pay at market prices, and then kita ada cash transfer untuk membantu... Satu ialah our economic behaviour and consumption will have to adjust accordingly and we become more responsible as S-S-I-D-I-N But importantly jugalah, actually kalau cash transfer semua ni, sebab harga minyak tu, dia fluctuate semua kan. Dia juga mengajar kita melihat the bigger picture and look beyond our convenience. So, yeah. Dan pasal kembali kepada STR, Ansara, semua ni lah kan It doesn't seem lah Yang Yang perbincangan mengenai STR dan SARA. This is inherited daripada Datuk Seri Najib sebenarnya. Zaman-zaman cash is king dulu. So it's a continuation of that without having to meet. Without having really... Yalah, deep discussion about how is this affecting society, how is this, I mean, betul ke tidak pandangan yang kita ambil ni bila kita, pandai-pandai kita nak decide untuk keluarga lain. I mean, what is the moral hazard? untuk menghubungkan jumlah bilion itu, lima, enam, enam bilion yang berada ke beberapa korporasi besar di negara ini. Apabila uang seperti ini, jika dipanggil di segi segi, itu sebenarnya lebih adil.
 
-[3:39:08] Speaker 1: Okay.
+[2:27:07] Haziq: Itu satu, Ibi. Kemudian pengumuman gaji minimum RM2,000 dengan pengecualian PMKS serta gaji minimum siswazah dan pekerja separa kemahiran RM2,500.
 
-[3:39:08] Speaker 2: So ambil contoh, tarikh berkuat kuasa gaji minimum kan, daripada Jun 2027. Kemudian I think bayaran Sarah, I think, pun second half of the year. Okay. Dan kita tahu kepada orang ramai yang ingin meneka bila tarikh pilihan raya, tarikh pilihan raya besar kemungkinan ialah antara Ogos ke Oktober tahun depan. Sebab gaji semua ni yang dia umum ni dia berkuat kuasa Jun 19 kan Kemudian Julai tu ada sukan C tau Julai ada sukan C So Oktober kalau tak berubah kena bentangkan Bajet So most probably the window untuk pilihan raya akan datang ialah antara Ogos to Oktober So, belanjawan tahun ini bukan sangat memberi keyakinan mengenai program-program ekonomi, tetapi sangat berkesan untuk meramalkan pilihan raya. Tengok timeline-timeline. Tengok timeline-timeline. Kemudian yang lain itu, I think... Kita dah tahulah Yang saya paling kecewa Ialah
+[2:27:21] Speaker 4: Gyo, awak komen dulu.
 
-[3:40:30] Speaker 4: Betul sebenarnya sebab saya pun ada memberi perhatian terhadap kepada peruntukan SPR So peruntukan SPR dinaikkan So perkhidmatan dan bekalan untuk 2027 meningkat 3 kali ganda So 2026 it was 200 lebih, 200 juta lebih Dan pada tahun 2027, ia dinaikkan kepada RM900 juta. Jadi, SPR. Saya
+[2:27:25] Speaker 4: So, tadi saya pun ada ulas
 
-[3:41:03] Speaker 5: rasa
+[2:27:26] Speaker 4: di Ashrawani juga. Saya rasa
 
-[3:41:04] Speaker 2: ia
+[2:27:28] Speaker 4: penguruman ini,
 
-[3:41:04] Speaker 4: adalah satu-satunya untuk pilihan raya. Pilihan raya. Jadi,
+[2:27:30] Speaker 4: ia menciptakan arbitraj.
 
-[3:41:05] Speaker 2: lebih kurang anda boleh
+[2:27:32] Speaker 4: So,
 
-[3:41:07] Speaker 4: mengharapkan, 2027. Jadi, pilihan raya
+[2:27:33] Speaker 4: So, kalau kita nampak, kalau kita lihat kan, dia ada threshold. So,
 
-[3:41:09] Speaker 2: akan menjadi 2027. Hanya saja, tarikh ke pintu itu, saya rasa, adalah antara, buat masa ini, Ogos hingga Oktober. Sebab You put two and two together Yang bila naik gaji semua Lambat
+[2:27:38] Speaker 4: untuk
 
-[3:41:21] Speaker 5: lagi
+[2:27:39] Speaker 4: PMKS di bawah RM50 million.
 
-[3:41:22] Speaker 2: Ya, nampak lagi lah. Habis kita truck banyak-banyak lepas ni. Tak apa. Aku okey je korang. You know, that's my routine. Aku bagi ucah amat tiap-tiap malam. Tak ada masalah kan. So, okey lah. Kita dah 12.41. Let's conclude macam ni lah kan. Satu... Saya rasa seperti yang Joe katakan, ia benar-benar tidak... untuk menangani pertikaian yang lama Soal keberhutangan dan sustainability tak ada. At least kita fikirlah pasal mandatory permanent retirement of debts at 2% every year, maturing debts kan. Ni tak ada langsung. So sebab itu the numbers don't look that good lah. Kemudian... Ada dua perkara yang saya ingat rakyat Malaysia kena beri perhatian. Satu ialah tentang beberapa projek besar tadi tu. Pasal EMR, pasal sovereign AI nation. It's already red flag apa yang di bawah KKM tapi dilaksanakan oleh SKMM. That's weird. Kemudian sovereign nation pun di bawah sovereign AI nation pun Di bawah SKMM Dalam keadaan Dua-dua tu berbilion And then dua-dua kita faham lah SKMM ni macam mana kan Baik-baik
+[2:27:42] Speaker 4: Which is
 
-[3:42:51] Speaker 5: Apa guna ada digital ministry?
+[2:27:43] Rafizi: most of the PMKS. Memang semua PMKS di bawah RM50 million. Except it's manufacturing lah. Exactly.
 
-[3:42:55] Speaker 2: Gobind tanya lah Gobind, Gobind selalu jawab Gobind Kemudian But globally What I most Yelah Maksudnya, kerana dia tidak mempunyai ruang fiskal. Ruang fiskal yang sangat kecil. Jadi, sebarang kejutan ini akan mengganggu segala-galanya yang dirancang. kecuali You know Something Turn around Radically lah kan Tapi Di Global financial environment Yang mana is
+[2:27:50] Speaker 4: So,
 
-[3:43:34] Speaker 3: high yield Bond yield
+[2:27:50] Speaker 4: dia akan create arbitrage opportunity. So, maksud dia apa?
 
-[3:43:37] Speaker 2: Most
+[2:27:53] Speaker 4: Dia maksud dia,
 
-[3:43:37] Speaker 3: probably
+[2:27:54] Speaker 4: so let's say kalau
 
-[3:43:38] Speaker 2: is going to To stay high Kemudian I think inflation concern Is all over the world Jadi you can expect Higher interest rate punya environment Jadi semua ni actually Apart from the concern About slower demand for our export, there is also this concern about this period of the global financial market yang akan ada kesan lah. Jadi kalau ada global oil shock ke, then because of that service charge tu dah sampai macam itu. Maksudnya it's very small room to maneuver lah kan.
+[2:27:55] Speaker 4: saya ada company lah. So, let's say kalau
 
-[3:44:20] Speaker 3: Then finally ni lah,
+[2:27:57] Speaker 4: saya ada satu
 
-[3:44:23] Speaker 2: Bagi Joe tutuplah Tapi aku just nak tutup Sebab aku nak
+[2:27:58] Speaker 4: company,
 
-[3:44:28] Speaker 3: Apa nama ni Hmm Hmm Bagi bola lambung Sikit lah kan Okay I think maybe one day lah
+[2:27:59] Speaker 4: turnover saya RM40 million.
 
-[3:44:38] Speaker 2: You know 2-3 years down the road Kita akan jadi Kita akan go through Deja vu Sekali lagi Bila Madani, Dato' Sri Anwar, B. Ali... Uh... Semua... Setiap kali kalau ada soal hutang ke, terutama hutang lah, ada soal hutang ke apa semua kan Jawapan Dato' Sri Anwar, ini sebab kerajaan sebelum ni sakau 1MDB semua, sekarang ditambah lagi lah, Felda, Tabung Haji semua kan You notice masa 23, 24 masa dia bertambah hajat, takde sebut pun, tapi sekarang dia ada ulang yang tu kan You know what the deja vu is? Most probably, bajet 28, 29 ni hutang yang kita tanggung ini ialah daripada kerajaan madani. Dan kita terpaksa potong semua ini kerana kita menanggung hutang yang ditinggalkan oleh kerajaan madani. So Malaysia will go through one full... Sekarang,
+[2:28:01] Rafizi: So, you are talking about minimum wage ke? Or the graduate and... Oh, you are talking about both. Oh, you are talking about minimum wage. Minimum wage dulu lah.
 
-[3:45:41] Speaker 4: Zidjo? Kata-kata yang anda berkongsi? Kata-kata yang saya berkongsi, saya rasa saya minta kerajaan untuk memberi perhatian kepada, memberi tumpuan kepada generasi yang akan datang, terutama untuk hutang. Sebab belanjawan ini, apa keputusan yang kita buat atau apa keputusan yang kerajaan buat, dia ada implikasi ataupun kesan kepada generasi yang muda. kita kena lebih bertanggungjawab how are we going to reduce our fiscal cost, how are we going to make it more sustainable. Inilah dan juga saya rasa belanjaman ni memang tak ada vision yang berjangka panjang. It doesn't have any visionary view of how the world will look like and how Malaysia will be in the next 5 to 10 years. Dan apakah langkah yang kita ambil untuk menghadapi masalah tertentu? Tak ada. So far, nothing. Everything is just very short term. Goodies, apa yang you akan dapat dalam SARA dan STR, itu je. Saya harap mentaliti kita pun boleh tukar selepas ini.
+[2:28:09] Speaker 4: Sorry, minimum wage dulu lah.
 
-[3:46:56] Speaker 2: Alhamdulillah kita 3 jam 45 minit kau Dan live pula tu Jadi soalan kau tak bagi langsung Dia macam dah
+[2:28:10] Speaker 4: So, minimum wage dia meningkat.
 
-[3:47:05] Speaker 5: terjawab Dia tanya pasal gaji Dia tanya pasal apa kos awal pembelian untuk duit, duit t-stamp haa, menurunkan kos awal pembelian so Terima
+[2:28:12] Speaker 4: Dia meningkat dari
 
-[3:47:16] Speaker 1: kasih YB yang telah menjawab soalan-soalan tu jadi kita boleh berhenti setakat ini dan jumpa lagi minggu depan Terima kasih semua, thank you Joe Terima kasih yang datang balik dari eh tak apa, terima
+[2:28:14] Speaker 4: RM1,700 ke
 
-[3:47:26] Speaker 4: kasih Aziz
+[2:28:17] Speaker 4: RM2,000.
 
-[3:47:27] Speaker 3: Okay, terima kasih kita berjaya membuat secara live Jadi ok kita berhenti di sini Assalamualaikum warahmatullahi wabarakatuh Selamat malam Jumpa lagi minggu depan
+[2:28:18] Speaker 4: So,
 
+[2:28:18] Speaker 4: dan ia
+
+[2:28:19] Speaker 4: hanya apply kepada
+
+[2:28:21] Speaker 4: SME,
+
+[2:28:22] Speaker 4: PKMS,
+
+[2:28:23] Speaker 4: RPMKS yang
+
+[2:28:25] Speaker 4: RM50 million yang ke atas.
+
+[2:28:26] Speaker 4: Tapi ia akan,
+
+[2:28:27] Speaker 4: I don't know how mereka akan
+
+[2:28:29] Speaker 4: enforce
+
+[2:28:30] Speaker 4: atau melaksanakan
+
+[2:28:33] Speaker 4: measure ini sebab
+
+[2:28:34] Speaker 4: dia akan create arbitrage.
+
+[2:28:36] Speaker 4: So apa maksud saya?
+
+[2:28:37] Speaker 4: So let's say kalau saya ada satu syarikat yang
+
+[2:28:39] Speaker 4: turnover sale saya 40 million.
+
+[2:28:42] Speaker 4: What's the point for me to get past the threshold?
+
+[2:28:44] Speaker 4: What's the
+
+[2:28:45] Speaker 4: point for me
+
+[2:28:46] Speaker 4: to
+
+[2:28:47] Speaker 4: mencecah 50 million?
+
+[2:28:49] Speaker 4: apabila saya tahu saya perlu bayar lebih banyak untuk pekerjaan saya. Jadi apa yang boleh
+
+[2:28:53] Speaker 4: saya lakukan ialah
+
+[2:28:54] Speaker 4: syarikat saya, let's
+
+[2:28:56] Speaker 4: say syarikat saya turn over 40 million, saya akan membuat syarikat lebih banyak untuk saya untuk bermain.
+
+[2:29:00] Speaker 4: So,
+
+[2:29:01] Speaker 4: kalau let's say I'm already at 45. Saya dah tahu next year, saya akan mencecah RM50
+
+[2:29:05] Speaker 4: million.
+
+[2:29:05] Speaker 4: So, saya akan buat company. So, I can create company,
+
+[2:29:07] Speaker 4: more company so that I can divert my sales.
+
+[2:29:10] Speaker 4: So that I can continue to keep hiring
+
+[2:29:13] Speaker 4: low
+
+[2:29:13] Speaker 4: paid
+
+[2:29:14] Speaker 4: workers and continue to buy around
+
+[2:29:17] Speaker 4: RM1,700.
+
+[2:29:18] Speaker 4: Dan
+
+[2:29:19] Speaker 4: apa benda
+
+[2:29:20] Speaker 4: yang kerajaan boleh buat
+
+[2:29:21] Speaker 4: dengan saya? Tak boleh.
+
+[2:29:22] Rafizi: Sebab itu, generally, anywhere in the world. Ada sebab kenapa dipanggil gaji minimum. Sebab it's applicable to all. The moment you ada different threshold kepada different-different company, dia akan jadi seperti yang Joe kata tadilah, dia akan create arbitrage. And bila dia akan create arbitrage tu, and the funny thing is this, Yang nak kena melaksanakan ni Ialah JTK Jabatan Tenaga Kerja Bawah Kesumah I know Orang-orang ada JTK They're all good people And I work with them Masa developing progressive wage Good luck to JTK Satu JTK tak cukup orang They have enough ...problems in their hands sekarang, soal pekerja asing, semua ni lah kan, JTK. Itu belum lagi soal normal dispute, day-to-day dispute ni. Yang syarikat biasa kata saya kena unfair dismissal, constructive dismissal sebagainya. Now, bila ada arbitrage macam itu, and then it creates, you know, a scheme. There's a workaround, which is to split your company, kan? Yeah. JTK nanti kena ada skill baru. Skill audit. It's actually financial in nature. Dia kena jadi LHDN pula dah. So dia akan kata rupanya macam mana kita nak buat ni. And masalah yang baru tak cukup dengan masalah apa nama ni. Dia nak enforce company-company yang tak bayar minimum wage. Sekarang dia nak kena pening kepala macam mana nak determine and stop them from splitting their company. Cuma, the funny thing is this lah. Pengumuman ni sebenarnya Tidak akan ada kesan kepada majority of pekerja. Sebab bila dia exam SME bawah 50 million turnover Which is basically by and large Perhaps I think 90% of our companies in the country So tinggal 10% Yang besar-besar ni Maksudnya 5%, top 5% ni Memang semua dah bayar way above minimum wage Kemudian GLC, GLIC semua ni GLC kerajaan Memang dah bayar So most probably lah Beneficiary daripada minimum wage RM2,000 ni Actually quite limited lah Tak banyak Jadi It might backfire Untuk Sebab kita semua tahu benda ni Ini semua untuk political support je lah kan Tapi it might backfire Sebab Nanti orang tunggu Tak dapat and then mungkinlah orang biasa ni dia tak tengok in detail dia akan berkuat kuasa 1 Jun 2027 kan. 1 Jun 2027 kan. Ini beberapa bulan sebelum pilihan raya kan. So orang akan tunggu Wah gaji minima naik Gaji minimum naik semua kan Bila sampai tak naik That doesn't make any difference to them kan So ini adalah antara satu dua perkara Yang saya rasa ini idea separuh masak Daripada Ramadan kan Dia tak fikir langsung pasal arbitrage hari tu So bila I tengok you split macam ni, good luck lah Ya lah, bila saya tengok saya pun, eh ini pelik sangat sebab kat negara lain memang tak Because I will split! What do you want me to do? Of course, aku bayar gaji above minimum wage tu daripada dululah Sebab tu aku tak kaya kan But meaning that, kalau a workaround to this is, dia akan split Kemudian yang kedua ni kan Yang ini lagi Sebab tu saya rasa juga, ini juga adalah idea sebaru masyarakat Ramana ni. Dia ingat ini macam dengan geng-geng dia. Dia tak tahu sebenarnya, labor practice, labor market ni is a lot more complicated. I think labor market reform is the most complicated part of the economy. Sebagai menteri ekonomi, I always told, kalau Pak Ain ingat, my staff kat kementerian semua kan, It's that the most difficult part of reform is labor market reform. And that is the most, the biggest necessary. Kerana dia melibatkan behavior. So difficult kan? So ambil ni eh, sebab masak ramadhan ni kan? Sebab masak. Let me ask you, Joe kan? Gaji minimum siswazah Atau pekerja separa kemahiran RM2,500 kan Kita belum tengok the details lah I don't even know whether dia dah work out the details I think dia pakai umum je dulu Tapi katakanlah you Ramanan Macam mana you nak laksanakan benda ni ni Sebenarnya saya ada masalah yang sama juga, bagaimana anda menentukan separa kemahiran dan bagaimana anda menentukan itu?
+
+[2:34:32] Speaker 4: Awak tak boleh pergi tiap-tiap syarikat dan tanya
+
+[2:34:35] Speaker 4: apa kualifikasi pekerjaan anda,
+
+[2:34:38] Speaker 4: apa kualifikasi pekerjaan anda, apa benda yang dia buat,
+
+[2:34:41] Speaker 4: dan
+
+[2:34:41] Rafizi: apakah anda mengikuti atau tidak. It's very difficult. But most probably this is what they will do. Untuk jawab anda. So you as Ramanan lah?
+
+[2:34:53] Speaker 2: Bukan
+
+[2:34:55] Rafizi: I as Ramanan? I mean I'm wearing the hats of JTK Sebab Ramanan tak payah fikir semua ni Dia akan ketuk dia punya pegawai semua ni come up with how you're going to do it Bukan dia punya idea ni kan? Dia tahu dia nak umum sahaja kan? So katakanlah kita JTK kan? So kita akan kata well macam ni kita akan umumkan guideline Guideline separa kemahiran ni maksudnya Mungkin ada diploma kat atas. Mungkin ada sijil kat atas. So, itu the easiest way. Kalau basically, back to paper qualification. Kalau you ada this, this, this, this, this. But even then, it's going to be very difficult because as you... And then it works by basically reporting by exception. Maksudnya begini kan. Ini rule dia. Yeah. mana-mana pekerja yang you termasuk dalam kategori itu sebab you ada diploma ke ataupun you ada sijil ke tapi you tak dibayar gaji minimum separa kemahiran RM2,500 ni maka you boleh lapor kepada JTK, JTK will go after kan What's the problem with that?
+
+[2:36:19] Speaker 4: Terlalu banyak kes
+
+[2:36:20] Speaker 4: di mana JTK
+
+[2:36:22] Rafizi: tak boleh hendak JTK tak boleh hendak? Dia tak akan peduli pun Kenapa JTK nak buat semua ni? Itu satu The definition itself kan. Katakanlah Aku buat SPM. Tapi aku dah kerja dekat Kilang tu 15 tahun as a welder. Tapi I tak ada qualification whatsoever. I really on the job training semua kan. Are you saying that I'm not sebarang kemahiran? Then I tak berhati, I akan pergi komplain, you know, blah, blah, blah, semua kan Itu, ini cerita separa kemahiran punya cerita semua lah, okay Now, Go to gaji minimum siswazah pulak lah. Ini siswazah kan. Katakanlah underemployment lah underemployment kan. Ada budak keluar universiti, dia graduate. Tapi because of underemployment, dia ambil kerja sebagai pelayan waiters dekat kedai makan. So dia dapat gaji minima siswa sahabat ibu sikap ke tidak? Eh, siswa sahabat! So, how? Kalau ambil modul kerajaan Kerajaan kan dia pisahkan pelaksana dengan profesional kan Kena tengok jawatan tu Kalau kau JTK kau nak buat macam mana?
+
+[2:37:43] Haziq: Susah juga
+
+[2:37:44] Rafizi: Kau nak define macam mana? Itu satu Okey lah. So wearing JTK lagi kan? Maybe dia kata, oh kita sebenarnya ada masco. Kita ada kod-kod ikut bidang, semua ni kan? Semua ni kan? Haa. So dia mungkin define by maskol lah, fresh grad semua gini-gini-gini kan. Tapi bila you mention fresh grad, it's fresh grad kan. Kemudian bidang kerja ni dia berbeza-beza ikut industri kan. Terima kasih kerana menonton! Kerja itu ialah di Perlis. And, apa nama ni... Dia untuk satu bidang yang, contoh kalau dalam Masco yang bidang yang kurang sikit, apa dia? Of course, you have engineers, self accountant. Apa dia? Haa? Carpentry Contohnya carpentry Dalam kot Masco Masco ni ialah kot kerja Malaysia Yang dibangunkan oleh Di bawah JTK Di bawah Kementerian Semua Manusia Dalam tu Bomoh pun masih ada dalam tu Ya ada Saya dah cakap dulu eh korang revive lah cepat-cepat Adakah bomoh masih ada Okey katakanlah aku kat Perlis Aku graduate Tapi aku digaji sebagai bomoh So, aku nak kelihatan lebih setengah sebaru kerja. Sebab macam mana? So, it's going to be a nightmare. The chaos. The reason I know all this semua, sebab kita dah melalui This talk process masa nak buat gaji progressif. Lepas you bincang, bincang, bincang. And satu lagi, you know why it's berbahaya bila buat semua ni, bila you perincikan. Government ni tak pernah boleh catch up dengan market lah. Kerja ni berubah-ubah very quickly And selalunya ada je kerja baru semua ni Yang you tak sempat nak revise your code You nak revise code tu ambil masa 1, 2, 3 tahun kan By the time you revise code tu ada kerja baru semua kan So Kalau you have to base it on something, kalau you base on Moscow ataupun basically lah you berdasarkan panduan klasifikasi kerja sebab cara kita menetapkan ban gaji Yang wajar itu ialah berdasarkan Moscow. Kalau you engineer, fresh grad semua ni bawah kod gini-gini sebagai engineer kerja kat sini ini kadar pasaran dia as fresh graduate. kalau apa nama ni experience 2, 3, 4 tahun Begini cara dia kan. So that's why I think most probably dia akan berdasarkan yang itu. Cuma... Kalau gaji progresif, dia lain sebab dia sebenarnya co-opted. Maksudnya, hanya syarikat-syarikat dan juga orang yang memang positif dia nak buat. So, they fall into it and they adopt it lah. Ini you paksa orang buat ni tau. Bila orang tak nak bayar, segala jenis benda dia akan buat lah kan. So, implementation is going to be very difficult. Enforcement is a nightmare. Dan dia most probably kalau tak berhati-hati, they will push towards informal lah. So ambil contoh syarikat. Syarikat di Kemaman contohnya kan. Dan dia mungkin farmasi kecil. So dia selama ni memang kalau katakanlah farmasi kecil di Kemaman dia boleh bayar RM1,800 je. Sekarang dia kena bayar RM2,500. Tapi budak tu nak juga kerja Because you know I mean 2008 is already okay for her Di Kemaman Semua kan Tapi undang-undang ni kata Fresh graduate Mesti dua ribu setengah So most probably what will happen
+
+[2:41:54] Haziq: Dia tak boleh kerja
+
+[2:41:56] Rafizi: Dia nak kerja juga So macam mana Most probably, dia kata, tak apalah. You jangan gaji air. Air jadi pekerja harian lah. You bayar air gaji hari. So, sebab itu, kalau tidak berhati-hatilah, and we went through all this discussion, kalau you pakai big button pasal kerja, kepada orang ramai yang tanya, Kenapa tak boleh naikkan gaji, wajibkan semua ni. Sebab itu, there's hardly anywhere in the world yang kerajaan menggunakan decree or menggunakan undang-undang untuk menetapkan setiap peringkat gaji tau. Sebab it's very difficult to do. And kalau you buat pun, you will push jobs from... From formal job Jadi informal kan So Besar kemungkinan Dia akan Buat begitulah Sebab Kalau di Bandar-bandar kecil Selalunya Every time kita bercakap Besar gaji ni Kita fikir Besar bandar besar Besar KL Penang Eh cuba kau pergi Di Kuala Kerai Di Kelantan Cuba kau gaji orang, gaji duit pun setengah dekat Kuala Gerai. I don't think ada company biasa. So, you know, I always go back yang kita ni ada 1.1 juta entities, business entities. 97%-nya SME. 80%-nya micro. Yang lima orang semua ni tahu. So, bila you buat macam ni, nanti anak bergaduh dengan bapak. You know, they're family, mungkin buat satu bisnes kecil, family kan, lima orang kan, so it's a micro. Tapi anak dia kata, eh saya graduate, I must get 2005 kan. So, and company syarikat tu dekat Kuala Kera. Kuala Kera dekat Kelantan. Good luck. So, you know, I hope they can do it well. I really hope that, apa nama ni... Benda ini menjadi bagus lah kan. It's something that we have always wanted to see. Tapi I just do not see how they are going and going to be able to do this lah. Ini antara benda-benda yang kita nak kena pay attention. Macam mana dia nak laksanakan kan. And the other thing satu lagi itulah. Bila you take the same approach to minimum wage, ...to basically graduate and non-entry-level wage. It will still have the same... Unintended consequence of wage compression. Dia tak solve root cause dia. This is jalan singkat. So nanti dia ada two bumps. Sekarang ni dia ada bump minimum wage kan? Pump. Sebab semua gaji orang lain tu dia around minimum wage tu je kan? Lepas ni dia ada satu BAM dekat RM2,000, satu BAM dekat RM2,500. So orang yang kerja 10 tahun pun RM2,500 je kau sebab itu gaji siswaz lah memang RM2,500 kan. And in order to pay that gaji siswaz lah, they have to cut semua kan. That's why it's not like aku ni tak dengar cakap orang. Kami telah melalui banyak fikiran ini, berbulan-bulan fikir, untuk belajar di sekeliling dunia, bagaimana anda ingin menjelaskan kompresi kebanyakan. Saya tidak bergabung, tapi saya tidak melihat bukti dari mana-mana di dunia...where a mandatory instruction can resolve wage growth. Wage growth... ialah basically a function of economy. The better the economy, the better value creation, it will transit into the market. But temporarily, in order for you to bump up then government can intervene. The most successful program yang pernah berlaku di dunia of such intervention is Singapore in the 70s. It's not even yang... Sometimes it annoys me sebab every time people talk about progressive wage, they don't compare dekat Singapore yang the latest program. That's actually more or less minimum wage untuk 3D workers. The real wage reform in Singapore happened in the 70s. Masa dia buat dia punya wage consultative council dulu Where it's terapatai Government put some money Employee put some money And then they agree dengan And because it's Singapore Majority of employers follow it So it's not compulsory lah Singapore dulu It's also So, the only evidence that we have so far is that Singapore, which is based on mutual co-option and mutual trapatite di antara government, employee, dengan employer. Dekat Singapore, union lah, kan? Dekat Singapore, union lah, kan? So that's how we design progressive wage. And it's meant to be temporary while we push higher value creation to create more high paying jobs in the economy. If you leave it to employers, nothing will happen. Because they say payah. So you co-fund. ...but you co-fund temporarily because the employer understand enough that with this co-funding daripada government, after two years, that salary scale will stay. And I tak boleh nak turunkan balik because kalau I turunkan balik, I cannot force staff tu untuk bagi balik gaji murah dia. Kalau dia dah 2008, 2008 lah. Kalau saya boleh turunkan balik gaji pun only for new high risk. But orang yang dah kerja kat situ, they have to stay. And when you run a business, you ada 30 orang, you cannot afford 30 orang tu lagi no. I mean, you have to live with them lah kan. So this one tak apalah menarik kita tengok But dia akan ada banyak Senario yang kita sebut tadilah Kalau ada keluarga Yang bergaduh sebab anak minta 2,500 gaji graduate Boleh lah beritahu kita orang Kita orang boleh buat content
+
+[2:48:27] Haziq: Next pengumuman jualan rahmat Tadi YB dah ulas Dan kemudian potongan cukai
+
+[2:48:33] Rafizi: Ini 1% 1% Ini suruh Joe lah So mungkin saya boleh tunjuk graf
+
+[2:48:40] Speaker 4: So ada satu graf lah
+
+[2:48:42] Speaker 4: Oh ya ke? Sempat buat graf?
+
+[2:48:45] Speaker 4: Mungkin minta
+
+[2:48:46] Speaker 4: apaan untuk tunjukkan graf. Jadi kita buat perbandingan.
+
+[2:48:49] Speaker 4: Kita buat perbandingan
+
+[2:48:50] Speaker 4: jadual
+
+[2:48:51] Speaker 4: yang kita
+
+[2:48:52] Speaker 4: bentangkan dengan
+
+[2:48:55] Speaker 4: apa yang dibentangkan di belanjawan kerajaan. Jadi kita boleh nampak,
+
+[2:48:59] Speaker 4: Income tax ini,
+
+[2:49:00] Speaker 4: kita dah
+
+[2:49:01] Speaker 4: ambil kira
+
+[2:49:03] Speaker 4: semua measures yang dibentangkan oleh
+
+[2:49:06] Speaker 4: Dato' Sriana Ibrahim
+
+[2:49:08] Speaker 4: dalam beladan
+
+[2:49:09] Speaker 4: mereka,
+
+[2:49:10] Speaker 4: kita boleh nampak
+
+[2:49:12] Speaker 4: income tax ini
+
+[2:49:13] Speaker 4: At the
+
+[2:49:14] Speaker 4: end,
+
+[2:49:14] Speaker 4: siapa yang actually truly benefit is actually T20.
+
+[2:49:17] Speaker 4: So it's actually M40
+
+[2:49:18] Speaker 4: dengan T20.
+
+[2:49:19] Speaker 4: So
+
+[2:49:20] Speaker 4: ada ramai yang kata, eh, middle class actually benefit. Tapi if we go according to income classification yang digunakan oleh kerajaan, it's actually
+
+[2:49:27] Speaker 4: T20 yang benefit. It's about
+
+[2:49:28] Speaker 4: majority
+
+[2:49:29] Speaker 4: of the population, majority of our working force,
+
+[2:49:32] Speaker 4: gaji median dia hanya
+
+[2:49:34] Speaker 4: RM300, RM3000.
+
+[2:49:35] Speaker 4: Hanya
+
+[2:49:35] Speaker 4: RM3000 saja.
+
+[2:49:36] Speaker 4: So
+
+[2:49:36] Speaker 4: siapa yang
+
+[2:49:37] Rafizi: actually benefit is actually the T20. So just to give perspektif begini kan, Gaji median RM3,000. So, maksudnya dengan kenaikan personal relief, personal allowance lah, personal relief. RM9,000 naik ke RM12,000, semua tu kan. So, maksudnya you will start paying tax kalau gaji you dalam RM5,000 lah. RM5,000 kan. Separuh daripada pekerja kat Malaysia ni, gaji dia bawah RM3,000. Memang dia tak payah tax pun. So, you buat macam mana pun, dia tak dapat satu sen pada benda ini. So you have... A band of people yang mungkin yang berada dalam lingkungan gaji RM4,000, RM7,000 ke RM5,000 itu ada. Yang lain itu, yang benefitnya memang yang high M40 dan T20.
+
+[2:50:30] Speaker 4: Betul dan savings dia actually tak banyak pun sebab
+
+[2:50:34] Speaker 4: hanya 1%. So saya dah buat calculation.
+
+[2:50:36] Speaker 4: So on average lah let's say
+
+[2:50:39] Speaker 4: katanya you
+
+[2:50:40] Speaker 4: annual salary RM50,000 lah. let's say
+
+[2:50:42] Speaker 4: annual salary $50,000 translate to monthly salary roughly about $4,000 each.
+
+[2:50:49] Speaker 4: your tax saving
+
+[2:50:50] Speaker 4: untuk satu orang
+
+[2:50:52] Speaker 4: hanya
+
+[2:50:52] Speaker 4: RM180
+
+[2:50:53] Speaker 4: sahaja.
+
+[2:50:54] Rafizi: Untuk satu tahun. Untuk satu tahun, ya. Lebih kurang RM10 sebulan. So, actually, saving je tak banyak. Baik datang ke Kesum, boleh save lagi banyak daripada RM10 sebulan untuk kena makan di Kesum.
+
+[2:51:06] Speaker 4: In fact, to be precise, hanya RM15 sahaja sebulan.
+
+[2:51:10] Speaker 4: RM15 sebulan. Ya,
+
+[2:51:11] Speaker 4: pun tak banyak.
+
+[2:51:12] Speaker 4: And then, kalau kita tengok T20
+
+[2:51:14] Speaker 4: lah, so yang berpendapatan tinggi,
+
+[2:51:16] Speaker 4: dia sebulan tax saving je hanya 139 ringgit
+
+[2:51:20] Speaker 4: pun tak banyak of course if you add up it's about 1,600 lah 40-20 tapi for M40
+
+[2:51:26] Speaker 4: tak banyak
+
+[2:51:27] Rafizi: it's actually very little 1,600 per annum per annum 1,600 per annum
+
+[2:51:32] Speaker 4: so
+
+[2:51:33] Speaker 4: per month it's only 139 so
+
+[2:51:35] Speaker 4: pun tak banyak so
+
+[2:51:37] Speaker 4: if we talk about
+
+[2:51:38] Speaker 4: menentangkan kos
+
+[2:51:39] Speaker 4: kehidupan. Saya rasa
+
+[2:51:41] Speaker 4: ini
+
+[2:51:42] Speaker 4: tak cukup,
+
+[2:51:43] Speaker 4: memang tak cukup. Dan kalau kita nak menentangkan, jika kita nak menentangkan kos
+
+[2:51:47] Speaker 4: kehidupan
+
+[2:51:48] Speaker 4: sebagai isu, tengok atas budget
+
+[2:51:50] Speaker 4: kita. Kalau kita
+
+[2:51:51] Speaker 4: berbanding
+
+[2:51:52] Speaker 4: apa yang
+
+[2:51:53] Speaker 4: rakyat dapat
+
+[2:51:54] Speaker 4: dengan apa yang
+
+[2:51:55] Speaker 4: dibentangkan oleh belanjawan,
+
+[2:51:58] Speaker 4: mungkin Fa'an,
+
+[2:51:59] Speaker 4: slide yang tadi itu.
+
+[2:52:04] Speaker 4: In fact,
+
+[2:52:04] Speaker 4: if you look at
+
+[2:52:06] Speaker 4: the
+
+[2:52:06] Speaker 4: take,
+
+[2:52:07] Speaker 4: shadow ni,
+
+[2:52:08] Speaker 4: shadow itu refer kepada
+
+[2:52:10] Speaker 4: shadow budget
+
+[2:52:11] Speaker 4: and
+
+[2:52:12] Speaker 4: then MOF itu
+
+[2:52:13] Speaker 4: rujuk kepada belanjangan kerajaan lah. Kita boleh nampak, if we
+
+[2:52:17] Speaker 4: If
+
+[2:52:17] Speaker 4: follow
+
+[2:52:18] Speaker 4: suggestion kita
+
+[2:52:20] Speaker 4: dalam schedule budget,
+
+[2:52:21] Speaker 4: actually every household except T20
+
+[2:52:23] Speaker 4: akan benefit.
+
+[2:52:25] Speaker 4: Iaitu 80% rakyat akan memanfaatkan
+
+[2:52:29] Speaker 4: dari
+
+[2:52:29] Speaker 4: cadangan kita.
+
+[2:52:30] Rafizi: This is what you're showing net, kan? Net. Net. You need net.
+
+[2:52:33] Speaker 4: So you already lose your subsidy,
+
+[2:52:35] Speaker 4: you lose your RO95,
+
+[2:52:37] Speaker 4: you lose
+
+[2:52:38] Speaker 4: SARA dan STR, tapi diganti
+
+[2:52:40] Speaker 4: oleh allowances. Allowances.
+
+[2:52:43] Speaker 4: So
+
+[2:52:44] Rafizi: the one yang budget itu is also net increase That's right That was announced today That's right
+
+[2:52:51] Speaker 2: So
+
+[2:52:52] Speaker 2: kita boleh nampak
+
+[2:52:53] Speaker 2: So
+
+[2:52:53] Speaker 2: even for
+
+[2:52:54] Speaker 2: M40
+
+[2:52:54] Speaker 2: atau Average Million Ataupun B40
+
+[2:52:56] Speaker 2: There will benefit
+
+[2:52:58] Speaker 2: a
+
+[2:52:58] Speaker 2: lot more
+
+[2:53:00] Speaker 2: di senario, dalam senario
+
+[2:53:02] Speaker 2: shadow budget kita compare dengan
+
+[2:53:05] Speaker 2: budget kerajaan dan
+
+[2:53:07] Speaker 2: kita dapat
+
+[2:53:08] Speaker 2: buat saving sebanyak
+
+[2:53:10] Speaker 2: RM19.2
+
+[2:53:12] Speaker 2: bilion.
+
+[2:53:14] Speaker 2: ...by cutting subsidy. Which means that we can do
+
+[2:53:16] Speaker 2: it at a much lower cost......by giving more to the people.
+
+[2:53:20] Speaker 2: Itulah beauty
+
+[2:53:21] Speaker 2: of
+
+[2:53:21] Rafizi: our shadow budget. Tapi orang tak. Kenapa lah you letak income tax card tu colour hijau......tiba-tiba pas wujud. Hahaha. Selalunya perbincangan belanjawan semua ini pas tak buka.
+
+[2:53:33] Speaker 4: Dan mungkin orang akan
+
+[2:53:34] Speaker 4: tanya, eh kenapa
+
+[2:53:35] Speaker 4: orang akan
+
+[2:53:36] Speaker 4: mempertikaikan kenapa M40
+
+[2:53:37] Speaker 4: atau average
+
+[2:53:38] Speaker 4: median boleh dapat
+
+[2:53:40] Speaker 4: manfaat yang lebih
+
+[2:53:41] Speaker 4: tinggi
+
+[2:53:43] Speaker 4: di bawah
+
+[2:53:44] Speaker 4: belanjawan bayangan kancer.
+
+[2:53:46] Speaker 4: Sebab ini nominal, ini level. Kalau kita tengok peratusan
+
+[2:53:49] Speaker 4: as a share of income,
+
+[2:53:51] Speaker 4: the next slide.
+
+[2:53:56] Speaker 4: The next slide,
+
+[2:53:56] Speaker 4: dia
+
+[2:53:57] Speaker 4: dah tunjuk.
+
+[2:53:57] Speaker 4: So, you can see B40
+
+[2:54:00] Speaker 4: di bawah shadow budget kita
+
+[2:54:01] Speaker 4: as a
+
+[2:54:02] Speaker 4: share of the income.
+
+[2:54:03] Speaker 4: B40
+
+[2:54:04] Speaker 4: memang dapat
+
+[2:54:05] Speaker 4: peratus yang lebih tinggi.
+
+[2:54:06] Speaker 2: Sebab dia lagi miskin.
+
+[2:54:08] Speaker 4: Sebab dia lagi rendah.
+
+[2:54:09] Rafizi: So, kalau dia dapat RM500,
+
+[2:54:11] Speaker 4: that's a
+
+[2:54:12] Speaker 4: lot. That's a lot for them.
+
+[2:54:14] Speaker 4: So, that's how
+
+[2:54:15] Speaker 4: Fiscal policy should be lah dalam satu
+
+[2:54:18] Speaker 4: Dalam ideal world
+
+[2:54:19] Speaker 4: So
+
+[2:54:20] Rafizi: tadi So pasal apa nama ni potongan cukai Yang tak apalah One percent
+
+[2:54:29] Speaker 2: Okay kita
+
+[2:54:31] Speaker 2: Then
+
+[2:54:31] Haziq: satu lagi pekerja gig lah Pekerja gig
+
+[2:54:33] Rafizi: Pengumuman pekerja gig kan Semua orang nak memenangi hati pekerja gig sekarang So So Eh, dah tunjuk muka kita orang balik ke apa ni? Dah. Apa nama ni, sekarang semua orang nak memenangi hati pekerja gig. Tapi bajet tadi tu dia macam Yelah, aspirational, tokenism. Dia ada dua pengumuman saja. Satu pengumuman, basically, dia kata ada sumbangan daripada Grab. Yang kita nak dengar, bukan sumbangan Grab. Kita nak dengar, you make it mandatory that majikan or platform will start contributing to... retirement to social security kita boleh bincang lah what is the rate that's why you know if you want to treat gig workers as a completely unique class of workers that one is program design yang kita boleh bincang kalau you nak bincang what is the threshold lama mana dia kena kerja for what consistency itu semua boleh bincang tapi I think we have cross the bridge that economists like Malaysia must start treating gig workers as a permanent workforce because they are here to stay and they form a big part. Jadi yang itu tak ada. So ikutlah nak kata lepas ini mandatory platform. So yang itu tak ada. So saya nak tengok lah gig play a gig macam mana dia nak Dia nak sell this, especially chaplos-chaplos. Macam mana dia nak jual benda ni kepada gig workers kan? Satu lagi yang orang tunggu
+
+[2:56:35] Speaker 2: ialah...
+
+[2:56:37] Rafizi: Kita nak ada regulator kepada gig platform supaya regulator ni boleh decide what is the bending, what is the rule and so on lah kan. Satu benda pengumuman bajet tadi dia tak umumkan lah. Cuma dia kata sedang dibangunkan oleh majlis gig negara. Cuma what I, you know, what I'm a bit apprehensive Majlis gig negara itu is more consultative It was not designed as a regulator. So, regulator ni lain. Bila it's consultative, maksudnya, you know, you get platform datang. Kita bincang. Bila kita bincang ni, nanti dia jadi macam tadilah. Atas budi baik grab, maka 160 juta telah diperuntukkan. That's enough. Regulator doesn't function like that. Regulator will say, this is what we decide, blah, blah, blah. Not just grab everyone, you have to follow this. Otherwise, you don't get your license. Can not. Jadi, Yang pasal gig ni memang A turn off lah You know I expected something better lah kan
+
+[2:57:54] Haziq: Ramana lagi Okay baik
+
+[2:57:57] Rafizi: Itu berkaitan dengan yang ada kaitan Kita ada dalam 20 minit lagi lah Aku
+
+[2:58:02] Haziq: Mungkin kita tengok ni, pertumbuhan ekonomi, apa yang diumumkan. Pertama adalah berkaitan dengan potongan cukai juga, 1% kepada SME. SME. SME.
+
+[2:58:15] Rafizi: Basically, dia punya profit taxable, profit threshold dia below 150 ke apa? And then 500, between 150 to 500 lah. So, 1% kad. Tua kuasih. I know lah, they go through apa nama ni so called libat urus lah kan engagement session. I'm sure SME beritahu kat dia orang. Actually, it's not really about the tax rate. Sebab I'm sure SME kata, kita orang bukan untung sangat pun. So, it's not about the tax rate. It's actually about the cash flow. And the cash flow ni sebab SME semualah, dia kena file advance estimate dia. Tax estimate dia. Jadi, bila dia file tax estimate dia, dia kena bayar installment. Masalahnya bayar instalmen, bila dia file, sepatutnya dapat teks refund kan? Refund tu tak bayar. So ni benda sama dengan GST refund juga kan? So, baru ni pun, I mean, I think it was what? My last speech kat parlimen lah. So I pointed out, ada RM32 bilion kerajaan tak refund. Itu yang dari tahun 2024 kan, kalau tak silap.
+
+[2:59:34] Speaker 4: Dia 2024 atau 2025 punya
+
+[2:59:37] Rafizi: Dia ditangguh selama 2 tahun 2 tahun lah Dia 34 bilion kan Lepas buat bising tu pun Dia kata oh sedang clear Sekian-sekian lah kan So So 1% teks kad ni, again, tokenizam. Kalau tanya SME, and then SME sebenarnya... By and large Dia sebenarnya Tak adalah berharap Sangat kepada kerajaan Untuk bantuan Ke apa Satu yang paling penting Untuk SME From my experience And you know Having run SME myself lah Sebenarnya jangan kacau dia orang Don't make life complicated And difficult for them They just want to run business Tapi Contohnya kan You nak berkat kedai kan, dekat Malaysia ni kan, lesen, 16 lesen ke nak ambil tau? Oh, you don't know that joke, 16 lesen. That's a lot. So it's actually benda-benda macam itu kan, and setiap lesen tu cost. Yang itu, lagi tinggi daripada potongan cukai, katakanlah dia buat profit dia RM50,000. Kan so and that's quite normal tau untuk majority SME. Untuk orang ramai you jangan fikir SME ni semua bawa kereta Mercedes besar-besar tau orang SME ni dia sebenarnya cukup makan untuk dia je kan dia nak kena maintain dia punya staff semua kan. So katakanlah, dia buat profit, okeylah, RM100,000 lah for that. RM100,000, tax, dia save 1%. Dia save RM1,000 je pun. So that, even kalau you tak bagi that tax card, sebab itu I... I don't know, Joe. My view is that Malaysian tax ini is actually already quite low. It is. It is quite low already. Apa namanya corporate tax kan? It's what? 16%, 16%. Corporate income tax? Ha. Tak, lebih banyak. 24% untuk yang atas, untuk SME. Oh, ya. SME is
+
+[3:01:47] Speaker 4: tier.
+
+[3:01:48] Rafizi: Dia ada tier. So, SME tier, dia 15%. So, now jadi 14%. Actually, 40% ni is already quite cheap, tax kan. Kalau masa aku zaman kat UK, aku buat tax untuk company ni kan. Terbalalak aku nak bayar kan. Kat Malaysia ni 14% untuk SME is actually quite already cheap, quite low. Jadi, kalau dengan SME punya isu, satu lagi ya.
+
+[3:02:17] Haziq: Actually, SME...
+
+[3:02:19] Rafizi: kalau dibuat untung besar, is it happy to wear a tax? Because it's not the tax that is Part of the struggle is growing, is surviving, is financing, is business, is competition. Jadi sebab itu, kalau tengok kita punya belanjawan bayangan kan, Satu measure dalam belanjawan bayangan kita is about unfair competition daripada pekerja, bisnes-bisnes yang masuk pakai PAS pelawat ni. Ini orang Melayu mungkin, orang Melayu yang peniaga Melayu dia sakit hati sebab dia kena compete dengan peniaga Bangladesh. Bangladesh buka, dia masuk sebagai pekerja asing tapi dia juga run business. And then they undercut Melayu kan Orang China Orang China yang peniaga SME Kecil-kecil semua ni Dia paling sakit hati kepada peniaga daripada tanah besar China Mainland Chinese They come on pas pelawat And Malaysia pula tak ada visa kan And sekali masuk boleh 6 bulan kan So what they do, they masuk sebagai pelancong Sebab tu kita dah umum Kenaikan pelancong yang tinggi Sebenarnya Actually kena check tau Yang mana betul-betul dari pelancong Yang mana datang sini buka company So I watched this documentary, ada orang buat documentary, ini ada satu hair salon sebab isu dia ialah more and more hair salon yang Malaysian Chinese run ni kena tutup kedai, tak boleh nak compete. Sebabnya ialah Chinese daripada Shenzhen semua tu, dia datang kat sini, dia pakai nama orang Malaysia. So boleh buka semua, tapi dia bayarlah dekat orang tu kan, RM5,000 sebulan ke pun untuk pakai nama dia. Kalau dekat Sungai Besi ni, kepada orang ramai eh, dudukkan Sungai Besi, you pergi semua kedai tukang jahit ni, tak ada satu pun lokal, semua Bangladesh. Then... Kenapa agaknya dia tak pernah kena rate ke apa semua kan? Sebab, salah satu sebabnya lah. Kalau kena rate tu, kononnya dia dimiliki oleh orang tempatan. Aku kan dah boleh jadi penghulu sungai besi. Sebab masa bandar baru sungai besi ni buka dulu kan, aku antara orang yang paling awal buka ofis kat sini. Masa tak ada apa lagi. Bank tak ada, mamak tak ada, aku dah buka kat sini kan. so aku dah kenal banyak So kalau sembang-sembang kat sini, orang tempatan, peniaga kat sini beritahu, dia orang ni ruthless betul. Dia offer RM34,000 sebulan untuk pakai nama. So kalau you jadi Alibaba, RM34,000 for doing nothing, you ambil sebenarnya untuk naik. Then dia akan... compete untuk bayar sewa they push the prices up so kalau orang tempatan untuk buka kedai kat sini mungkin dia nak bayar sewa dia mampu RM2,000 je kan datang Bangladesh dengan ni semua they offer RM4,000 tau jadi orang bagi sewa kat dia orang sewa, sewa, sewa semua kan sebab tu dia dah phase out kalau di Singapore sini tukang jahit semua Bangladesh lah kan Kalau hair saloon, that specific case tadi. Hair saloon, yang hair saloon selalunya kalau Chinese kan banyak buat hair saloon kan. Semua tutup lah. Banyak tak boleh compete sebab bila dia orang datang Satu modal dia besar Dia boleh buka dekat Monchiara semua tu Lepas tu dia duduk sini, dia masuk, dia kerja, dia buka daripada pukul 8 pagi sampai 12.30 malam. Local, kita kena hidup macam biasa lah. Kita dah tak habis petang tu, kita balik lah. So, orang semua and then they boleh undercut the price. So, the real issue of SME, retail semua ni sebenarnya bukan 1% tax card ni. Isu dia is lack of enforcement and juga nothing is being done to stop this predatory business competition daripada mainland China ni.
+
+[3:06:40] Speaker 4: Sama dengan restoran Cina juga.
+
+[3:06:42] Speaker 4: Sekarang boleh nampak,
+
+[3:06:44] Speaker 4: kat Sri Petaling, kat Pergi Jalur, mana-mana pun lah.
+
+[3:06:47] Speaker 4: Ada
+
+[3:06:47] Speaker 4: banyak
+
+[3:06:49] Speaker 4: kedai-kedai makanan sekarang.
+
+[3:06:50] Speaker 4: You don't see any local Chinese anymore. Dia dah kena face out, semua diganti
+
+[3:06:55] Speaker 4: dengan
+
+[3:06:56] Speaker 4: mainland Chinese punya restoran.
+
+[3:06:58] Speaker 4: And
+
+[3:06:58] Speaker 4: chef dia semua datang dengan
+
+[3:07:02] Speaker 4: pas pelawat.
+
+[3:07:03] Speaker 4: And then six months later, hantar balik.
+
+[3:07:05] Rafizi: So dia balik, lepas itu dia datang, dia renew lagi. Exactly. And in fact, gaji dia orang pun tak dibayar dalam ringgit juga. Adik-adik dia orang Dah senang dibayar dengan
+
+[3:07:14] Speaker 4: Remin B
+
+[3:07:16] Speaker 4: Di sana
+
+[3:07:17] Speaker 4: So langsung tak ada Spew over
+
+[3:07:20] Speaker 4: Kepada lokal ekonomi
+
+[3:07:21] Rafizi: Dia sama macam aku kecil-kecil dulu Ini cerita lah walaupun tengah malam ni kan. Aku duat kemaman kan. So kedai-kedai runcit kat kemaman tu, semua ada Indian Muslim. Ada seorang tu nama dia Pak Ali. Aku seorang pelik lah buat Pak Ali ni kan. Dia tak macam orang Malaysia tau. Dia pakai kain plekak tu yang dia tarik macam film Tamil tu kan. And aku pelik every now and then Maksudnya aku umur 7-8 tahun lah Aku pernah tanya mak ayah aku Kenapa lama dah Pak Ali ni tak ada kat kedai dia Ada orang lain Oh dia balik kampung Aku tak pernah faham kenapa dia balik kampung berbulan-bulan lama Pak Ali ni tak ada kan. Rupanya dia orang semua tu yang kedai runcit ni semua macam tu lah. Datang pakai pas pelawat, buka semua and then dia balik kampung, dia balik India ke 2-3 bulan untuk basically untuk resell lah. Dia punya 6 bulan, dia datang balik. And now dia bukan berlaku dekat kampung-kampung macam Kemaman dulu lain lah tak ada kesan sangat. is happening in all the big towns. So, if you ask, especially Chinese, actually, that is the real issue. So, bila dia... Buat macam ini kan I don't know lah Maksudnya Takkan Steven Sim Tak tahu This is happening I'm sure they all know Sebab ini memang Konsep yang
+
+[3:08:44] Speaker 4: Paling besar
+
+[3:08:46] Rafizi: Kalau tidak Kita tak masukkan Dalam shadow budget kita Sebab memang betul When I sit down And tanya And cakap Actually Zb Dia akan tunjuk Yang itu cinta Actually kan Aku ada kawan Beritahu YB you tahu tak Interior design pun Dia orang semua Company interior design Semua pun Semua dah kena Kompet dengan dia orang Kedai makan Kedai perabot
+
+[3:09:07] Speaker 4: Even kedai platform juga Macam pintu-tua Sekarang
+
+[3:09:10] Speaker 4: kan ada satu platform pintu-tua kan
+
+[3:09:13] Speaker 4: Sebab dia masuk dengan barangan yang sangat
+
+[3:09:15] Speaker 4: murah
+
+[3:09:16] Speaker 4: Yang kita tak ada tarif
+
+[3:09:18] Speaker 4: Ataupun
+
+[3:09:19] Speaker 4: low value good tax
+
+[3:09:20] Speaker 4: So
+
+[3:09:21] Speaker 4: langsung tak boleh compete
+
+[3:09:22] Speaker 4: So
+
+[3:09:22] Speaker 4: we don't have the scale Kita tak ada skala yang secukup besar Seperti
+
+[3:09:26] Speaker 4: kilang-kilang terbesar
+
+[3:09:28] Speaker 4: di China So kita memang tak boleh compete dengan cost dia
+
+[3:09:30] Speaker 4: So macam mana kita boleh
+
+[3:09:32] Speaker 4: Bawa satu measure atau dasar Untuk
+
+[3:09:36] Rafizi: Dalam bajet tadi Adalah Dalam bajet tadi Tapi bukan Yang pasal Bisnes asing Yang masuk pakai pas pelawat ni Dia kata Sedang E-commerce bill kan Sedang Membangunkan Untuk manage Apa nama ni Unfair competition Daripada Foreign platform ni Sedang lah Sedang Sedang Okay baik
+
+[3:10:03] Haziq: Kita tengok next, YB Pengumuman tentang funding SGPP Guarantee berkaitan dengan teraju Satu bilion teraju
+
+[3:10:11] Rafizi: Yang ini aku tak puas hati Bukanlah tak puas hati Sebenarnya benda tu bukan benda baru Benda tu dah ada daripada zaman aku kat situ So sekarang ni teraju ni telah dirampas daripada Kementerian Ekonomi Dia dah transfer daripada Kementerian Ekonomi Kementerian Ekonomi sekarang tinggal EPU dengan Dossum je Teraju pun dah kena rampas kerja Peneraju? I don't know. YB tak sure. Kasa teraju je yang ni. Teraju. Ada-ada sebab lah kenapa PMO nak ambil teraju. The story is like this. Teraju ni kan unit pembangunan buny putera lah supposedly kan. So, over the years, they Get funding untuk Bumi Putera. So the way before that ialah dia bagi grant. Ataupun what they do is that Dia ambil duit tu dibagi kat bank Suka bank manage Suka bank bagi pinjaman lah kononnya Kepada bisnes-bisnes Bumi Putera ni kan So, when I came in, macam biasa lah kan, I asked them to go, satu, no grant, no more grant. Sebab, kalau you boleh buat kilang, and this is a real case tau, you boleh buat kilang sampai 20 juta macam tu kan, Kemudian you pakai kereta jaguar, sport semua, kaya raya semua. Tak payahlah ambil lima juta grant daripada kerajaan untuk hilang you. Kalau nak beri grant ni bagi kepada yang, yang apa nama ni, more deserving lah in my opinion kan. So grant tak ada. Cuma duit-duit yang diorang bagi, aku suruh diorang pergi kutip balik, ada lebih kurang dua ratus juta. So, mereka boleh kutip balik daripada bank-bank ni semua kan. So, I said, change it like this. You tell the bank, satu, Bagi kat bank, dia tak membantu usahawan Bumi Putera. Sebab bila pergi bank, bank treat dia orang ni sama macam bank treat yang lain. Padahal bukan duit bank pun. Itu duit kerajaan. Tapi susah lah itu semua kan. So, turning the other one around. The sourcing tu must be from teraju. So, therefore, teraju needed, I mean, kita minta teraju untuk build the capacity to source for it, to incubate business semua lah kan so teraju identify incubate semua and then dia jadi co-funding RM1 teraju put bank you letak RM4 RM4 So that's how daripada 200 million yang awal consolidated tu jadi 1 billion. So katakanlah you dapat 10 million. Tak adalah dia punya tiket saiz tu kecil-kecil je. Katakanlah 500,000 kan. So 500,000 loan katakanlah you ambil daripada bank muamalat kan. Daripada situ... 100,000 tu is actually teraju RM400 daripada bank so because of that tiba-tiba teraju ada financing facility of RM1 bilion and dia bukan pakai duit kerajaan yang baru ini memang duit yang aku suruh dia orang kutip daripada tak guna duduk kat situ bertahun-tahun tak disbursed semua kan so I suppose someone tengok, wah, there's one billion. So, lo and behold, the next thing aku tahu, bila aku dah tak ada, Datuk Seri Anwar Ibrahim telah memindahkan, teraju daripada kebutuhan yang kena bawah dia. And then, idea dia pergi umum pula benda ni kan. Betul-betul benda tu ada daripada dulu. Satu, it doesn't involve duit daripada bajet. The money is already there. Secondly ialah It's not even a new thing Yang memang dah adalah Ini umum sajalah And I think kalau tengok kepada... ...funding yang diumum tu... Aku tak nampak banyak funding, new funding tu. Yang besar yang diumum tu ialah SJPP, skim jaminan pinjaman bersekutuan. SJPP is not direct duit daripada kerajaan. Basically, it's basically a fiscal commitment. So, katakanlah, you may bank, you bagi pinjam 2 juta. Itu pun... Sorry lah bos-bos bank, I hope you are listening kan. Sometimes I think it's overkill. Sebab okay, kerajaan dah bagi SJPP, skim jaminan basically credit guarantee lah kan. So katakanlah, main bank bagi engkau 1 miliar kan so actually government dah garanti kalau you default government will bayar that 1 miliar kan Tapi sebenarnya bank still require you to give personal guarantee lah So personal guarantee pun diambil, SJPP pun diambil. So kan, jadi sebab itu SME, you umum berapa banyak SJPP tiap-tiap tahun kan? Okay lah, they go through it. Dia tahu dia dapat SJPP itu semua loan yang diambil semua. Tapi it doesn't make them happy dengan kerajaan. Because it doesn't remove the fact that they kena bagi personal guarantee dia. Then bila dia bagi personal guarantee, kalau jadi apa-apa dia bankrupt. So that's That's also my experience Memang director semua Kena bagi personal guarantee So it's either personal guarantee Atau collateral lah kan Tapi sepatutnya kalau dah ada SJPP, tak adalah personal guarantee. Dah ada berbanyak garanti you nak dapat ni. So, sebab tu kadang-kadang I feel like banking sector kat Malaysia ni, actually, Apabila berkaitan SME, memang overkill. Sebenarnya, jika ada apa-apa, ekosistem ekosistem itu yang perlu diperbaiki.
+
+[3:16:27] Speaker 4: Tapi ini juga sesuatu yang saya masih tidak mempunyai jawapan untuk bagaimana menentang masalah ini,
+
+[3:16:34] Speaker 4: masalah pendidikan. Jadi bagaimana
+
+[3:16:37] Speaker 4: cara atau model yang lebih bersesuaian untuk kerajaan bagi pendidikan kepada SME,
+
+[3:16:44] Rafizi: I have a slightly different view lah. Back in those days when Malaysia was growing, bukan kerjaan bagi funding ke SME. Sebab kerajaan allow... Bank itu different financial institution to cater for different risk portfolio. So mungkin akan establish satu bank yang
+
+[3:17:10] Speaker 4: hanya,
+
+[3:17:11] Speaker 4: yang khususnya hanya serve
+
+[3:17:12] Speaker 4: SME lah.
+
+[3:17:14] Rafizi: Well actually let the market decide lah. Let the market. Dulu sebab itu before financial crisis 1997-98, SMA funding was a lot more easier and was a lot more vibrant. Yang banyak non-performing loan ni, banyaknya because of equities. Not actual genuine business. Yang genuine business ni, kalau for example ada a more vibrant SMA financing, is an asset class. It's different. After all, the big banks doesn't want to touch all this asset class because it's too small for them. They're not going government, the big ones, so sekarang ini, because We still are traumatised by 1997-1998. We didn't want to innovate ataupun and then whatever kalau tanya bank negara ke apa, dia punya view or MOF ke apa, dia punya view about SME Financing ni, tokenism like that lah. Oh kita dah ada lah semua. You don't fix the funding ecosystem of the market. The question is how do you allow for a bit more slightly higher risk portfolio yet at the same time manage it with better safeguards and guardrails. Itulah kerja-kerjaan.
+
+[3:18:48] Speaker 4: Ya, how do you guarantee
+
+[3:18:49] Speaker 4: banking stability lah? Saya rasa that's the
+
+[3:18:53] Speaker 4: top
+
+[3:18:53] Speaker 4: of the concern
+
+[3:18:55] Speaker 4: untuk pihak
+
+[3:18:56] Speaker 4: BNM.
+
+[3:18:57] Rafizi: But don't you think that this banking stability ni, if you're not careful, it becomes a blanket reason Untuk semuanya yang lain. Ya, ini macam overkill lah. It's quite an overkill. So, because of that, sebab itu, kerajaan umum anything every year pasal funding, ekstradit semua. Because you don't fix the market. Sebenarnya SME, dia tak ada kesan pada SME. Beberapa kali dah kita dengar ni? And I run SME. So to me nothing changes And then actually SME ni benci nak pergi kat bank tau kat Malaysia ni Sebab they really treat you badly Susah nak dapat financing Kalau DFI yang kajian ada tu kan Dia punya You know I have one experience This was about masa zaman COVID tau Dia juga yang kontak kita orang Sebab government announced SME Financing. So, dia bagi kot bank-bank ni semua kan. So, bank nak bagilah. So, ada dua bank. Dua-dua yang contact kita orang. Masa tu, we just raise... equity so it's not like we really needed money sangat lah kan tapi you know masa tu COVID and kalau ada cash buffer and you can extend your cash runway that's not a bad idea Sokutifolera adalah proses. Actually, it wasted a lot of time. Sebab satu bank DFI tu, satu tahun, dindong-dindong minta semua, everything, semua hantar semua. Pasal itu, they ghosted us. Lepas tu, lepas setahun lebih semua, I boleh mention lah, nama bank tu MIDF lah. Lepas tu, bila kita kejar balik, orang dah wasted our time semua tu. Dia kata, oh sorry, funding dah habis. Dan tak payahlah menyusahkan orang Because we are not like you makan gaji We run our business So every time kita kena buat semua ni It takes our time away Daripada running the business Betul ada satu lagi bank Sama Pumpang-pumpang dia juga contact Pumpang-pumpang-pumpang-pumpang-pumpang Kita dah isi semua Itu dia ghosted So, my friends sama semua. I mean, a lot of my batchmates, kalau dia buat business, dia tak adalah. Dia bukan kroni, kan? Semua yang run SME lah. Kilang kecil kat sana semua kan. You talk to them, and these are Malays tau. Educated Malays. People like, yang dah ada experience running SME 20 tahun. Semua kata bank, tak payah. Buang masa aku je. Sebab, by nature, our big banks are not interested dengan SME. Buat apa-apa sangat SME ni. Kalau dia boleh dapat manage one big government bond issuance, sekali dia dapat underwriting fee, semua itu punya mana? Ni daripada mamak, ni dapat berapa pusat? So that's why SME is so underserved because of the dominance of our anchor banks. Now the policy question is, you want to maintain banking stability? Yes. Tapi In a situation where you need to mobilize capital and you need to scale up our SME more than anything else, don't tell me that this is the best that government can do. So unfortunately lah, yang kita dengar tadi ialah pengumuman mengenai fund yang memang dah ada kat situlah.
+
+[3:22:40] Farhan (Pa'an): kes tadi ke senario di mana government bagi mandat clear kepada banking institutions to go and help out SMEs like proper you have to carve out this amount
+
+[3:22:53] Rafizi: Amount itu datang daripada kerajaan. Bila kerajaan umum... And to be fair, Pak Han kan, government cannot instruct bank. Macam mana dia nak manage their portfolio. You tak boleh nak kata bank, I want 30% of your loans to go to SME. Pun tak boleh. Tak boleh. So what government does is that every year, masa bajet, dulu-dululah. And they accumulate over the year. They set aside the fund to SME. So fund ini either diberikan kepada bank negara and bank negara bagi kepada SME semua. ataupun dibagi kepada SME Bank atau DFI yang lain. Tapi, you know, I mean, it's like... Kalau you jadi bank lah, I mean, satu, the amount is too small. Kedua is that it's really not the bread and butter. Semua ni kan? So, kecuali kalau you bernasib baik, you dapat branch manager yang betul-betul. Tapi biasa itu bukan KPI branch manager pun. Itu bukan branch manager pun. So, because of that, so, what is lacking, kalau compared to before, is vibrant, S.M.E. Fokus part of the banking market. Kan? So, cuma of course, sebab itu kita Ya lah because kita tak berani nak take the risk. Because kita takut NPL lah semua. Well, NPL yang Sapura buat tu tak bising pula.
+
+[3:24:24] Speaker 4: So NPL kalau tak silap
+
+[3:24:26] Speaker 4: banking
+
+[3:24:27] Speaker 4: system
+
+[3:24:28] Speaker 4: perbankan kita I think it's about 1.9% kalau tak silap of the
+
+[3:24:33] Speaker 4: outstanding.
+
+[3:24:34] Rafizi: So it's actually quite low lah. Stable and low. So if you ask me, it's like, you know, From macro economic perspective, when you really need to help SME and mobilize the money semua, actually you need to create the funding ecosystem for it lah. Okay lah, this is a different subject altogether.
+
+[3:24:59] Haziq: Next berkaitan dengan projek-projek baru yang diumumkan, ada atau tak? Tak ada.
+
+[3:25:05] Rafizi: Yang dia umum tu aku pun gelap TNB akan membelanjakan 15 bilion untuk menaik taraf grid
+
+[3:25:14] Haziq: Aja, aja, aja Okay, why you gelap? Sebab pertama, yelah entiti TNB tu sendiri Sebab kegajaan Lepas tu yang grid ni saya rasa kita dah pernah sentuh dalam episod kedua YBM Episod kedua YBM tu dah setahun lebih dekat setahun setengah
+
+[3:25:32] Rafizi: You see, kepada saudara-saudari yang menonton, kita kan bayar bil elektrik, tarif. Kita bincang dekat podcast yang lepas, yang dekat HQ sama, yang aku Ridsectkan nyamuk, semua itu kan. Kan bila kita bayar bil elektrik, sekarang kan dia tunjukkan fuel cost, semua itu kan. Satu itu kan nama dia transmission cost kan. Kita sebenarnya yang membayar kepada TNB supaya TNB gunakan yang kita bayar, itu bukan duit kajak, yang kita bayar itu pergi naik taraf Greek. Yang Anwar Ibrahim pergi umum dalam bajak ini kenapa? It's got nothing to do dengan satu government spending. Yang itu memang telah diputuskan bila kerajaan melalui suruhan jaya tenaga meluluskan the tarif. Dan yang membayarnya ialah rakyat. It got nothing to do with Apa nama ni Belanja bankajan Yang berbahayanya Bila diumumkan Pasal TNB semua ni It gives the impression Actually nothing big is happening Sampai TNB punya upgrading of the transmission, which happens every year. Daripada zaman dulu, memang every year TNB kena upgrade transmission. Kau tidak mampu lagi, kita tak ada leteri kan? I don't know, when was the last time, do you ever recall kerajaan mengumumkan belanja menaik taraf transmission yang kita bayar melalui tarif sebagai projek belanjawan? Kan? UEM Lestera ni ke lagi lawak lah. 1 billion UEM Lestera kan. If I'm not mistaken, ini ialah projek 500 megawatt solar UEM Lestera yang dekat Johor tu, yang aku dituduh rasuah hari tu. Betul ke? Ya. Oh, yang ni. Tak ada orang beritahu Anwar ke Janganlah masukkan Yang ini See I never forget Especially projects that I work on Kes rasuah 2.5 billion Yang ini kita susah payah aku Bahkan tahulah dekat Kepuntai Ekonomi Push for it the first one Sebagai bukti keras This is sebagai bukti that private sector can run, funded by private sector, kajian tak campur, we just change some policy.
+
+[3:28:01] Farhan (Pa'an): ni yang capris highlight ni. Ya, ini yang capris highlight ni,
+
+[3:28:05] Rafizi: yang konon ni. I abuse my power to give contract. Aku nak ambil contract apa ni, UAM Lestera apa ni? Well lo and behold Anwar umumkan di dalam pelajaran dia Projek ni kita dah umumkan sebagai kejayaan early success of NETA tahun 2023 Masuk dalam bagian sekarang So, you know, the danger is this Bila you tengok semua ni It gives the impression that memang nothing big is happening. But on the optics, it looks good kan. Apabila
+
+[3:28:42] Speaker 4: PMX
+
+[3:28:42] Speaker 4: announcement macam you have 1 billion, 2 billion.
+
+[3:28:47] Speaker 4: Sound bug dia macam
+
+[3:28:48] Rafizi: quite good lah kan. But that's the thing lah. Ini belanjawan kerajaan. It's not Kalau dia buat di luar parlimen yang masa pengumuman biasa ceramak, it's okay. Itu pun janganlah tak malu. Dua-dua ni TNB yang UEM ni, LESRA ni, dua-dua atas hasil daripada netter yang kita bangunkan. TNB punya upgrading tu termasuk bateri storage. And the reason why they have to spend that much is to beef up our capacity to store solar. and itu as part of NATO and the negotiation for tarif itu took into account of that UAM Lestera ni memang NATO project, flagship NATO project kan, so satu ialah untuk belanjawan dalam parlimen that shouldn't go in kan, sebab itu tak ada kena-mengena dengan kerajaan pun, because this is about duit taxpayer kan secondly ialah kalau aku, aku will be a bit politically correct lah Ini budak ni dulu yang come up with the idea, you know, push for it semua ni. Mamat ni, aku tahan dia untuk SPRM. Tiba-tiba aku pergi klaim kredit dalam bajet. Tak kena, tak kena. Okay.
+
+[3:30:12] Haziq: Dan mungkin last kali untuk yang ni, pertumbuhan ekonomi. Pengumuman kaitan 1 bilion untuk electronic medical record bawah SKMM.
+
+[3:30:22] Rafizi: Agaknya apa yang salah dekat situ? Apa yang pelik dekat situ? SKMM tapi... Saya nak beritahu orang ramai Ini semua yang lost in translation Yang bila dibaca cepat-cepat Rakyat dan media Mungkin tak boleh tangkap Ini situasi dia Zaman dulu-dulu sistem rekod pesakit di hospital-hospital dia manual dia cukup menyusahkan doktor dan tak efisien kita semua pakai tab check semua kan masuk kan ni nak cari file sana file sini kan So kerajaan sebelum-sebelum ini, setiap kali dia, dia kononnya nak digitize patient's record, dia bagi kepada one company and untuk hospital tu je. satu-satu tu mahal lah, 70 juta lah, 80 juta semua kan. Because of that, it's not scaled up and you know lah, most probably ada benda tak betul lah kat situ kan. So it cannot be scaled up, it's not scalable kan. So, digitization of patient's record yang dipanggil EMR lah, Electronic Medical Record ni, memang dibincangkan daripada 2023. And kita memang dah lulus. Kita tu maksudnya Kementerian Ekonomi dululah. We were pushing for this. Cuma masalah dia sangkut bila kontrak, bila kita dah luluskan sampai dekat Kementerian Kesihatan, sangkut. Sebab Dr. Zul wanted to get an international company dulu. Yang memang dah buat semua, just do it very quickly. So, by the time I left, I don't know what happened lah sebab tugas kami ialah to push for it and then you go ahead and do it, procurement, process, semua tu ialah kementerian kesihatan lah. Lo and behold, Tiba-tiba pengumuman 1 bilion, I didn't recall it as 1 bilion, I thought that it was 5, 600 million, 400 million je dulu diluluskan kan. 1 bilion EMR tetapi di bawah Suruhanjaya Komunikasi Malaysia, apa kena-mena SKMM dengan Kementerian Kesihatan. So that's polite. Ok, ya? Tambah lagi, dalam bajet itu juga... diumumkan tentang kerajaan sedang membangunkan Sovereign AI Tenda untuk server NNI ini, itu pun dekat SKMM. Dan most probably, I don't know, kita kena chase nanti tengok berapa. Gayanya billion jugalah. So you are looking at SKMM managing 2 billion IT project. Dua bilion IT projek ni kita paham-paham, lepas ni ada orang berebut lah. Yang selalu menjadi rebutan ni, dia bukannya projek-projek yang boleh nampak dengan mata ni. Dia projek-projek yang kita tak nampak lah kan. So, kita dah pernah dengar macam-macam. So, lepas ni kita nak kena korek and gali lah ni. Tapi saya harap Dr. Zul Dr. Sri Anwar You kena terang macam mana Projek yang Item dia itu diluluskan Sebagai projek Kementerian Kesihatan Tapi tiba-tiba SKMM buat Apa kena mengena SKMM dengan projek Menaik taraf Sistem elektronik Pesakit Kementerian Kesihatan Kecuali Semua ini untuk projek-projek besar IT yang menimbulkan big tanda tanya Kita ada projek custom, satu bilion lebih ada projek itu Semua projek IT, Jabatan-Jabatan Kerajaan ini, semua bilion-bilion
+
+[3:34:19] Farhan (Pa'an): Padu 24 juta Hahaha
+
+[3:34:23] Rafizi: Itu pun tak bayar orang langsung 24 juta tu beli server Cerita pasal padu ni Kan dia orang duk kutuk-kutuk padu semua kan hari tu ada orang forward kat aku tak guna macam kerajaan kutuk-kutuk padu semua ni tender untuk apa namanya menaik taraf server padu So begitulah kerajaan Malaysia dan Manani But this one ni Kepada rakyat Malaysia semua Kita kena really pay attention to this ni You need two big ticket items Yang billion-billion punya projek ni Yang kita pun tak tahu Especially Sovereign AI ni Aku pun tak tahu Apa hasil dia kepada kerajaan
+
+[3:35:08] Haziq: Kita dah tengok salah satu Ada tak perkara-perkara yang tertinggal Sepatutnya dimasukkan tapi tertinggal
+
+[3:35:15] Rafizi: Bukanlah nak kata tertinggal, tapi the biggest elephant in the room. Kalau kita ingat masa kita bincang pasal... Belanja orang bayangan One key weakness dalam ekonomi Malaysia ni Ialah pergantungan kepada pekerja asing Kau rasa tak langsung tak disentuh Tak ada satu benda pun MTLM yang telah diluluskan Dan Datuk Sri Anwar sendiri yang dulu beri arahan Mesti dilaksanakan 1 Januari 2025 Tak ada So you know that's a big red flag Yang satu dunia Diagnose Malaysia Kita ada masalah dengan pergantungan Kepada pekerja asing Tapi belanjawan terakhir Dato' Sri Anwar langsung tak sentuh Kemudian biarlah Amin. Kita tak nampaklah, apa namanya, big idea, big plans untuk increasing the complexity of the economy untuk jadi high value chain lah. Dulu ada GSSEZ. Oh, dia umum GSSEZ tadi. Tapi memang betul lah. Pelaburan terbesar dekat Malaysia, sebenarnya yang diumum semua itu, I think more than a third goes to JSSEZ in one year. So dia akan umumlah, dia akan melancarkan JSSEZ blueprint semua okeylah. Cuma yang aku agak alam, Maksudnya oleh kerana GSACZ ni, kalau tengok ucapan dia tadi, ialah lepas ini semua orang minta economic zone, special economic zone. Bintulu special economic zone lah. Ada 8 border economic zone. Semua ni kan. Does it look like that? No, it doesn't look like that. I was against it daripada dulu. GSACZ can work because of Singapore. Sebab there is a demand and the market there is a synergy. Kalau buat dekat golok Out of Kuala Kerai Out of Kuala Kerai Golok Kuala Kerai Tak menjadilah Tak payahlah buat Nanti buang duit sahaja Habis duit untuk bina bangunan baru lah Itulah ini semua tak menjadi Dekat Malaysia so far I think the only place where it can really work is sebenarnya Johor and Singapore. So yang lain tu, I think nothing... Tak tahulah, tak ada umum sangatlah kan. Nothing significant.
+
+[3:37:48] Speaker 4: Dan tak ada dasar-dasar yang
+
+[3:37:52] Speaker 4: long term base lah. Faham.
+
+[3:37:54] Speaker 4: Tak ada
+
+[3:37:55] Speaker 4: apapun dasar untuk menyelesaikan,
+
+[3:37:57] Speaker 4: for example, penuhan
+
+[3:37:59] Speaker 4: penduduk.
+
+[3:38:00] Speaker 4: Dia ada,
+
+[3:38:00] Speaker 4: dia ada announce satu
+
+[3:38:02] Speaker 4: dasar
+
+[3:38:02] Speaker 4: mengenai bantuan warga emas kan.
+
+[3:38:04] Rafizi: Kalau tak salah, dia increase dia punya amount. But itulah dia tak ada. But they said only cover 200,000.
+
+[3:38:10] Speaker 4: So kena tunggu detail lagi lah. Coverage dia maksudnya,
+
+[3:38:12] Rafizi: I mean, coverage yang sepatutnya about 3 million people.
+
+[3:38:18] Speaker 4: Coverage about 4.2% je of
+
+[3:38:18] Speaker 4: total. I know.
+
+[3:38:19] Rafizi: What I mean is dalam belanjawan bayangan kita schedule budget. I mean the full coverage is what? 3 million. Full coverage about 3 million. 3 million plus. It's not even 10% lah. So they increase about the 4.1% to mungkin 8% plus. Okay, baik.
+
+[3:38:39] Haziq: Baik YB, kita dah I think kita tutup lah, yang lain kita nak dengar
+
+[3:38:42] Rafizi: Kita conclude terus lah, sekarang dah 12.40 YB tak nak puji sikit? Tak nak Tak nak
+
+[3:38:48] Haziq: Dah tengah malam Kita inilah tengok, apakah kesimpulan-kesimpulannya? Tanya Joe lah dulu,
+
+[3:38:55] Speaker 4: nothing much ke?
+
+[3:38:57] Speaker 4: Nothing much.
+
+[3:38:58] Speaker 4: Everything macam firefighting experience, firefighting exercise,
+
+[3:39:01] Speaker 4: firefighting.
+
+[3:39:03] Rafizi: Aku yang paling menarik bila aku tengok ni kan, aku tengok tarikh-tarikh berkuatkuasa. Okay. So ambil contoh, tarikh berkuatkuasa, gaji minimum kan, daripada Jun 2027. Kemudian I think bayaran SARA, I think, Pun second half of the year. Dan kita tahu, kepada orang ramai yang ingin meneka bila tarikh pilihan raya, tarikh pilihan raya besar kemungkinan ialah antara Ogos ke Oktober tahun depan. Sebab, gaji semua ni yang dia umum ni dia berkuat kuasa Juniting kan Kemudian Julai tu ada sukan C tau Julai ada sukan C So, Oktober kalau tak berubah, kena bentangkan bajet So, most probably the window untuk pilihan raya akan datang Ialah antara August to Oktober So, Belanjawan tahun ini bukan sangat memberi keyakinan mengenai program-program ekonomi. Tetapi sangat berkesan untuk meramalkan pilihan raya akan datang. Oh, tengok timeline-timelain. Tengok timeline-timelain-timelain, kan? Kemudian yang lain itu, I think... Kita dah tahulah Yang saya paling kecewa Ialah
+
+[3:40:30] Speaker 4: Betul sebenarnya sebab saya pun
+
+[3:40:32] Speaker 4: ada memberi perhatian terhadap
+
+[3:40:34] Speaker 4: kepada
+
+[3:40:35] Speaker 4: peruntukan SPR
+
+[3:40:37] Speaker 4: So peruntukan SPR
+
+[3:40:39] Speaker 4: dinaikkan So perkhidmatan dan
+
+[3:40:41] Speaker 4: bekalan
+
+[3:40:42] Speaker 4: untuk 2027 meningkat
+
+[3:40:46] Speaker 4: tiga kali ganda
+
+[3:40:47] Speaker 4: So 2026 it was 200 juta lebih
+
+[3:40:53] Speaker 4: And
+
+[3:40:53] Speaker 4: then, tahun 2027, dia dinaikkan kepada 900 juta.
+
+[3:41:00] Speaker 4: So,
+
+[3:41:01] Farhan (Pa'an): SPR.
+
+[3:41:04] Rafizi: I think one-off untuk election. Election lah. So, more or less, you can expect 2027 lah. So, election will be 2027 lah. Cuma, the date to the window, I think is between, buat masa ini, August to Oktober lah. sebab you put two and two together yang bila naik gaji semua lambat lagi lambat lagi Ya nampak lagi lah.
+
+[3:41:23] Farhan (Pa'an): Habis kita truck banyak-banyak lepas ni.
+
+[3:41:25] Rafizi: Aku okey je korang. You know that's my routine. Aku pergi uci ramah tiap-tiap malam. Tak ada masalah kan. So okey lah kita dah 12.41. Let's conclude macam ni lah kan. Satu. I think macam Joe katalah, it really doesn't ...adress the long-standing... structural issues kan. Soal keberhutangan and sustainability tak ada. At least kita fikirlah pasal mandatory permanent retirement of debt at 2% every year, maturing debt kan. Ni tak ada langsung. So sebab itu the numbers don't look that good lah. Kemudian Ada dua perkara yang saya ingat rakyat Malaysia kena beri perhatian. Satu ialah tentang beberapa projek besar tadi. Pasal EMR, pasal Sovereign AI Nation. It's already red flag. Apa yang di bawah KKM tapi dilaksanakan oleh SKMM. That's weird. Kemudian Sovereign Nation pun di bawah Sovereign AI Nation pun di bawah SKMM dalam keadaan dua-dua tu berbilion and then dua-dua kita faham lah SKMM ni macam mana kan baik-baik
+
+[3:42:50] Farhan (Pa'an): Then, apa guna ada Digital Ministry?
+
+[3:42:55] Rafizi: Gobin tanya. Gobin selalu jawab, Gobin. Kemudian, but globally, what I'm most, ialah, Maksudnya, kerana dia tak ada ruang fiskal. So, ada ruang fiskal yang sangat kurang. Jadi, benda-benda ini akan mengganggu semua yang diperlukan. Unless... you know, something turn around radically lah kan, tapi di global financial environment yang mana is high yield, bond yield most probably is going to to stay high. Kemudian, I think inflation concern is all over the world. Jadi, you can expect higher interest rate punya environment. Jadi, semua ni actually apart from the concern about slower demand for our export there is also this concern about this period of the global financial market yang akan ada kesan lah jadi kalau ada global oil shock ke then because of that service charge tu dah sampai macam itu maksudnya it's very small room to maneuver lah then finally ni lah Bagi Joe tutup lah Tapi aku just nak tutup Sebab aku nak Apa nama ni Bagi bola lambung sikit lah kan I think maybe one day lah 2-3 years down the road kita akan jadi kita akan go through deja vu sekali lagi Bila Madani, Dato' Sri Anwar, Bialik Ali... Semua... Every time, kalau ada soal hutang ke, especially hutang lah, ada soal hutang ke apa semua kan. Jawapan Datuk Seri Anwar, ini sebab kerajaan sebelum ni sakau. 1MDB semua. Sekarang ditambah lagi lah. FELDA, Sabung Haji semua kan. You notice masa 23, 24, masa dia betul bajet, tak ada sebut pun. Tapi sekarang dia duduk ulang yang tu kan. You know what the deja vu is? Most probably, bajet 28, 29 ni, UMNO akan cakap benda yang sama. Hutang yang kita tanggung ini ialah daripada kerajaan madani. Dan kita terpaksa potong semua ini kerana kita menanggung hutang yang ditinggalkan oleh kerajaan madani. So Malaysia will go to one full. Sekarang. Sejauh? Kata-kata awak?
+
+[3:45:43] Speaker 4: Kata-kata saya,
+
+[3:45:45] Speaker 4: saya rasa
+
+[3:45:46] Speaker 4: saya minta
+
+[3:45:47] Speaker 4: kerajaan untuk memberi perhatian kepada
+
+[3:45:51] Speaker 4: generasi yang akan datang,
+
+[3:45:53] Speaker 4: terutamanya pada hutang. Sebab
+
+[3:45:55] Speaker 4: belanjawan ini,
+
+[3:45:56] Speaker 4: apa
+
+[3:45:57] Speaker 4: keputusan yang kita buat atau apa keputusan yang kerajaan buat, dia ada implikasi ataupun kesan kepada generasi yang muda.
+
+[3:46:05] Speaker 4: Dan hutang ini,
+
+[3:46:06] Speaker 4: kita berbicara tentang generasi sandwich dan semua hal-hal.
+
+[3:46:09] Speaker 4: So takkan ulas dekat sini, tapi
+
+[3:46:11] Speaker 4: saya rasa kita kena
+
+[3:46:13] Speaker 4: lebih
+
+[3:46:13] Speaker 4: bertanggungjawab
+
+[3:46:16] Speaker 4: How are we going to reduce our physical cost, how are we going to make it more sustainable?
+
+[3:46:20] Speaker 4: Inilah,
+
+[3:46:21] Speaker 4: dan juga saya rasa belanjaman ni
+
+[3:46:23] Speaker 4: memang tak ada
+
+[3:46:25] Speaker 4: visi yang
+
+[3:46:26] Speaker 4: berjangka panjang.
+
+[3:46:27] Speaker 4: Ia tidak mempunyai visi yang berjaya
+
+[3:46:29] Speaker 4: tentang bagaimana dunia akan kelihatan dan bagaimana Malaysia akan berada dalam 5-10 tahun.
+
+[3:46:36] Speaker 4: Dan apakah langkah yang
+
+[3:46:38] Speaker 4: kita ambil untuk
+
+[3:46:39] Speaker 4: menghadapi masalah
+
+[3:46:40] Speaker 4: tertentu?
+
+[3:46:41] Speaker 4: Tak ada.
+
+[3:46:42] Speaker 4: Jadi, so far, tidak apa-apa. Semuanya hanya dalam termasuk yang sangat kurang.
+
+[3:46:46] Speaker 4: Apa yang anda akan dapat dalam SARA dan STA, itu saja.
+
+[3:46:51] Speaker 4: I hope mentality kita pun boleh tukarlah
+
+[3:46:54] Speaker 4: selepas ni.
+
+[3:46:56] Rafizi: Alhamdulillah kita 3 jam 45 minit kau Dan live pula tu Jadi soalan kau tak bagi langsung Dia macam
+
+[3:47:05] Farhan (Pa'an): dah terjawab Sebab dia tanya pasal gaji Dia tanya pasal apa Kos awal pembelian untuk Duiti stamp Menurunkan kos awal pembelian Terima kasih YB yang telah menjawab soal-soal itu
+
+[3:47:18] Speaker 1: Jadi kita boleh
+
+[3:47:20] Haziq: berhenti setakat ini Dan jumpa lagi minggu depan Terima kasih semua, terima kasih Joe Terima kasih Yang datang balik
+
+[3:47:25] Speaker 1: dari
+
+[3:47:25] Speaker 1: Eh tak apa, terima
+
+[3:47:26] Rafizi: kasih Hazi Terima kasih, kita berjaya membuat secara live Jadi ok kita berhenti di sini Assalamualaikum warahmatullahi wabarakatuh Selamat malam Jumpa lagi Jumpa lagi minggu depan
