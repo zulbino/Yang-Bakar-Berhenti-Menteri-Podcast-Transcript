@@ -941,6 +941,13 @@ CORRECTIONS = [
      "02:28 with text_was and text_now, so check_owner_text.py restores it if a rebuild "
      "reverts it."),
 
+    # eFishery, the Indonesian aquaculture start-up in which KWAP lost RM163.4 million to
+    # fraud. Every news source spells it without a hyphen (nst.com.my 2026-07, thestar.com.my
+    # 2026-07-16). The ep67 rewrite printed `e-Fishery` and `E-Fishery`; raw.md says `eFishery`.
+    (r"\b[Ee]-Fishery\b",
+     "eFishery",
+     "ep67: the company's own spelling, per NST and The Star coverage of the KWAP loss."),
+
     # Ridsect, the Malaysian mosquito spray (mrdiy.com.my/products/ridsect-aerosol-600ml-
     # 9160658-001001). ep64 was recorded in a studio full of mosquitoes. MAI and the YouTube
     # captions both heard "reset". OWNER-SUPPLIED 2026-09-26: "in ep64 theres also mention
