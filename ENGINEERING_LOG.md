@@ -6894,3 +6894,53 @@ Traps. A subagent's web table listed "GRADE MISMATCH" rows (Hadi, Najib `Datuk N
 applying them would have rewritten what the speaker said. A bash heredoc halves backslashes, so
 a regex written in one became a control character twice; write scripts with the file tool.
 `Seremban 2` in ep66 is a spoken self-correction and stays.
+
+## ep67, the first episode on local Whisper, 2026-10-09 to 2026-10-10
+
+### 2.17: The guest's face was never in the gallery, and the gate could not see it
+
+- **Context:** ep67 ran the new local path (Whisper-large-v3-turbo, pyannote, camera). The
+  owner edited the pipeline raw.md and found Sum Dek Joe, a recurring guest the YouTube
+  description names ("penyertaan Saudara Sum Dek Joe"), labelled `Speaker 4` and `Speaker ?`.
+  Against the owner's copy the pipeline was 88.0% right on labels, and 2,028 of Joe's words
+  were `Speaker 4`.
+- **Cause:** ep67 had no per-video face gallery, so the shared gallery ran (Rafizi, Haziq,
+  Farhan, Zaim). Joe was an unknown face, so the camera reference left his seconds out. His 30
+  face vectors were already in the ep60 and ep63 galleries and nothing copied them. The
+  cast gate passed because it reads the names in the pipeline raw.md, which had no Joe label.
+  Rule 9, step 3 (the description) was not applied, and the handoff wrote "probably Joe".
+- **Measured:** with Joe added, the reference names 923 s of him and leaves Rafizi's 10,586 s
+  unchanged. Against the owner's labels it agrees on 99.0% of 496 camera seconds in his blocks
+  (2.1% of the seconds in Rafizi's blocks show Joe, the cut lag). After the owner's copy was
+  installed, `check_camera_reference.py` refused the old reference ("Sum Dek Joe ... MISSING")
+  and accepted the new one.
+- **Fix:** `camera_speakers.py reference` seeds the guest vectors from the description
+  (`seed_guests_from_description`). With no gallery, it rebuilt the identical RTTM. It also
+  seeds a person the description only mentions (Wong Chen); that face matched nobody in the
+  output. `install_owner_edit.py --also-known` lets the owner's label through.
+- **Not fixed:** a guest new to the corpus; see ARCHITECTURE.md, Known limits.
+
+### 2.18: Stamps are already accurate; a threshold only makes them worse
+
+- **Test:** 390 stamped blocks, each located in two independent word timelines: the caption
+  and the Whisper forced-alignment times. Stamps are whole seconds, so a median offset of 0.5 s
+  early is rounding down. Against the Whisper times 95% of stamps are within 1.0 s.
+- **Result:** retiming from the caption made the stamps worse against the Whisper times (mean
+  error 0.38 s kept, 0.47 to 0.51 s at any threshold from 0.5 s to 5 s). Retiming from Whisper
+  gained nothing against the caption. `check_timestamp_drift.py` is not usable at this scale:
+  its noise floor is 100 to 250 s.
+- **Rule used:** move a stamp only when both timelines agree within 1.5 s and the stamp is off
+  by more than 2 s. That moved 4 of 390. One timeline alone fails to locate about a third of
+  the blocks (short or edited openings), so a single source is not trusted.
+- **`move_hanging_words.py`:** a one-word tail such as `Dia` matched an earlier `dia` nearer
+  the block's stamp (ep67 1:36:05 took 1:36:03) and the adoption stopped with "stamps would run
+  backwards". A moved tail is now never stamped before its own block.
+
+### 2.19: Smaller lessons from ep67
+
+- `rewrite_segments.py` buffers its output when redirected, so a background run's log stays
+  empty for the whole run; use `python -u`. Progress shows in the work directory.
+- A figure gate trips when the English stage writes `3-4,000` as `3,000 to 4,000` or `50 ribu`
+  as `50,000`. Read the text before accepting; the figures were present.
+- `fix_proper_nouns.py` is corpus-wide: adding `eFishery` also corrected ep56 and ep57.
+- A bash heredoc corrupted a regex's word-boundary escape again (see 2.16). Use the file tool.

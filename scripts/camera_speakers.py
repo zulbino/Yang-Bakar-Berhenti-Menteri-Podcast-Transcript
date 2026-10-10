@@ -89,6 +89,8 @@ FLOOR = 0.55        # rejects a stranger (the one b-roll face in ep62 scored 0.2
 MARGIN = 0.10       # rejects a tie between two people the gallery cannot separate
 # The gallery used when neither a per-video one exists nor the caller names a file.
 SHARED_GALLERY = "data/_face_gallery.json"
+# Vectors kept per seeded guest: two earlier episodes' worth (30 each in a per-video gallery).
+MAX_SEEDED_VECTORS = 60
 SPEAK = 0.0         # LR-ASD's own sign convention for "this mouth produced this audio"
 
 
@@ -313,6 +315,40 @@ def cmd_run(a):
               f"elapsed {(time.time() - began) / 60:.0f}m", flush=True)
 
 
+def seed_guests_from_description(uri, loaded):
+    """Face vectors of every earlier-episode guest that this episode's YouTube description names.
+
+    WHY. ep67 had no per-video gallery, so the shared one (the three regulars) ran, and
+    Sum Dek Joe was an unknown face. The camera left his 923 seconds unnamed, the voice cluster
+    carried his speech as `Speaker 4`, and 2,028 of his words reached the owner unlabelled. His
+    face was already in the ep60 and ep63 galleries, and the description named him outright.
+    Scored against the owner's own labels, the seeded reference agreed on 99.0% of 496 seconds.
+
+    Only the GUEST's vectors are taken, never another episode's regulars: a gallery built for
+    another episode carries that episode's own face vectors for Rafizi, Haziq and Farhan, which
+    is why a whole foreign gallery is not interchangeable. A person the description merely
+    mentions (ep67's names Wong Chen as the 2017 shadow budget lead) is seeded too and simply
+    matches no one; FLOOR and MARGIN stop a seeded face from taking someone else's seconds.
+    """
+    manifest = json.loads((ROOT / "data" / "manifest.json").read_text(encoding="utf-8"))
+    entries = manifest if isinstance(manifest, list) else list(manifest.get("episodes", manifest).values())
+    entry = next((e for e in entries if isinstance(e, dict) and e.get("video_id") == uri), None)
+    if not entry:
+        return {}
+    text = (str(entry.get("title", "")) + " " + str(entry.get("description", ""))).lower()
+    seeded = {}
+    paths = sorted(glob.glob(str(ROOT / "data" / "_face_gallery_*.json")), key=os.path.getmtime, reverse=True)
+    for path in paths:
+        if Path(path).name == f"_face_gallery_{uri}.json":
+            continue
+        for name, vecs in json.loads(Path(path).read_text(encoding="utf-8"))["gallery"].items():
+            if name in loaded or name.lower() not in text:
+                continue
+            have = seeded.setdefault(name, [])
+            have.extend(vecs[:MAX_SEEDED_VECTORS - len(have)])
+    return seeded
+
+
 def cmd_reference(a):
     # PREFER THE GALLERY BUILT FOR THIS VIDEO. The shared data/_face_gallery.json holds only
     # the three regulars, so on a guest episode the guest is an unknown face and
@@ -326,13 +362,20 @@ def cmd_reference(a):
     # `--gallery data/_face_gallery.json` still means the shared one. Comparing against the
     # default string cannot tell those two apart, and the first version of this did exactly
     # that: it overrode a caller who had deliberately asked for the shared gallery.
+    seed = False
     if a.gallery:
         gallery = Path(a.gallery)
     else:
         per_video = Path(f"data/_face_gallery_{a.uri}.json")
         gallery = per_video if per_video.exists() else Path(SHARED_GALLERY)
+        seed = not per_video.exists()
     loaded = json.loads(gallery.read_text())["gallery"]
     print(f"gallery {gallery.name}: {', '.join(loaded)}")
+    if seed:
+        guests = seed_guests_from_description(a.uri, loaded)
+        loaded.update(guests)
+        for name, vecs in guests.items():
+            print(f"  seeded from the description: {name} ({len(vecs)} vectors from earlier galleries)")
     G = {k: np.array(v) for k, v in loaded.items()}
 
     def identify(vec):

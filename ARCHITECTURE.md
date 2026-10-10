@@ -120,6 +120,8 @@ edit:
 ```bash
 python scripts/compare_owner_edit.py <tag> <pipeline copy> <owner copy>   # score the pipeline
 python scripts/install_owner_edit.py <tag> <owner copy> --write                  # stamp and install it as raw.md
+# --also-known "<Guest>" lets through a label the pipeline raw.md never used: a guest the
+# description names but the camera did not know. Without it the typo check refuses the label.
 python scripts/merge_same_speaker.py --episode=<tag> --raw-only --write
 ```
 
@@ -248,6 +250,14 @@ labelled `Lee Chean Chung`. The spoken words are never changed to match.
 - **An unenrolled guest.** A face missing from the gallery makes the camera reference
   confidently wrong. `check_camera_reference.py` refuses such a reference, but for an
   already adopted episode it must be run against the pre-adoption raw.md.
+  `camera_speakers.py reference` now seeds the gallery from the YouTube description: with no
+  per-video gallery, it adds the face vectors of every earlier-episode guest whose full name
+  the description contains (ep67: Sum Dek Joe from the ep60 and ep63 galleries). A guest who is
+  new to the corpus is still an unknown face. Read the description first, then build the
+  gallery (`census`, `cluster`, `gallery`) before trusting the reference. The gate cannot see
+  this on a first run: it compares the reference with the names in the pipeline raw.md, and
+  that raw.md has no label for a face the camera never named. It refuses only after the
+  owner's copy, which does name the guest, is installed (ep67).
 - **Lowercase garbles.** `check_raw_facts.py` reads capitalised words only. It missed
   `reset` for Ridsect, `refund` for WeFund and `oi` for YB on ep65.
 - **NVIDIA's free API returns HTTP 504 on long segments** (about 300 s). Gemini Flash is the
