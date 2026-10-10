@@ -3,7 +3,7 @@
 What produced the files in this archive, how they can be wrong, and how to report an error.
 Read it before you cite anything here.
 
-Machines transcribed 190 hours of speech and rewrote it as interviews. I reviewed the
+Machines transcribed 194.2 hours of speech and rewrote it as interviews. I reviewed the
 output, but not line by line. Before I caught them, the files had put words in the mouths
 of the wrong real people, and insults in the mouths of people who never said them.
 
@@ -22,7 +22,7 @@ AI is here to stay. I use it to automate work that would take me years by hand. 
 agentic AI it takes a fraction of the time, and the quality is good enough to check and
 correct. That is the premise this project starts from.
 
-The corpus is 72 podcast episodes and 2 public forums, 190 hours in all. The speakers switch between Malay and English
+The corpus is 74 podcast episodes and 2 public forums, 194.2 hours in all. The speakers switch between Malay and English
 inside one sentence, and often three people talk at once. Transcribing that by hand is
 about a year of full-time work, and I am one person doing this outside a job. A machine
 transcript that can be checked against the video is better than a human one that never
