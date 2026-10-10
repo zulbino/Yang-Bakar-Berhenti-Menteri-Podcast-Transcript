@@ -46,6 +46,9 @@ def main():
     ap.add_argument("tag")
     ap.add_argument("copy")
     ap.add_argument("--write", action="store_true")
+    ap.add_argument("--also-known", action="append", default=[], metavar="NAME",
+                    help="a speaker the pipeline raw.md never labelled but the episode's own "
+                         "description names (a guest whose face the camera did not know)")
     a = ap.parse_args()
 
     raw = Path(common.raw_for_tag(a.tag))
@@ -63,7 +66,7 @@ def main():
         turns.append([m.group(1), m.group(2).strip(), m.group(3).strip()])
 
     known = {m.group(1) for m in re.finditer(r"^\[[\d:]+\]\s*([^:\n]+):", raw.read_text(encoding="utf-8"), re.M)}
-    bad = sorted({t[1] for t in turns} - known - SANCTIONED)
+    bad = sorted({t[1] for t in turns} - known - SANCTIONED - set(a.also_known))
     if bad:
         sys.exit(f"labels that no speaker of this episode uses (typo?): {bad}")
 
