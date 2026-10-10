@@ -1282,10 +1282,10 @@ the video before quoting anyone.
 - Segmen Beria: pelantikan ramai Timbalan Exco BN Johor selepas PRN
 - Segmen Beria: budaya ''duit minyak'' pengundi dalam PRN Johor
 - Segmen Beria: manifesto BN Negeri Sembilan tersalin daripada Sabah
-- Skandal pelaburan KWAP dalam e-Fishery dan penipuan Gibran
+- Skandal pelaburan KWAP dalam eFishery dan penipuan Gibran
 - Konsep startup, venture capital dan proses raising fund
 - Kegagalan due diligence dan tadbir urus institusi kewangan awam Malaysia
-- Kaitan e-Fishery dengan skandal Network School dan Tabung Haji
+- Kaitan eFishery dengan skandal Network School dan Tabung Haji
 - Budaya akauntabiliti dan ketiadaan tanggungjawab pemimpin GLC/GLIC
 - Struktur ekonomi Malaysia, ekosistem startup dan dominasi GLC/JLC
 - Jangka hayat kerajaan perpaduan Anwar Ibrahim dan dinamik BN-PN-PAS
@@ -1507,7 +1507,7 @@ the video before quoting anyone.
 - Proses bottom-up penyediaan Belanjawan 2027 dan ketiadaan wawasan ekonomi jelas daripada Perdana Menteri Anwar Ibrahim
 - Unjuran hasil dan perbelanjaan Belanjawan 2027: cukai korporat, individu, SST dan petroleum income tax
 - Debt service charge, fiscal deficit dan risiko gagal mencapai sasaran debt-to-GDP 60% bawah Fiscal Responsibility Act 2028
-- Pencampuradukan belanjawan kerajaan dengan GLIC, PPP, badan berkanun dan MKD (RM510 bilion) serta isu tata kelola KWAP/e-Fishery
+- Pencampuradukan belanjawan kerajaan dengan GLIC, PPP, badan berkanun dan MKD (RM510 bilion) serta isu tata kelola KWAP/eFishery
 - Unjuran pertumbuhan ekonomi (real GDP growth), risiko AI bubble burst dan frontloading permintaan cip semikonduktor
 - STR, SARA dan BUDI95 berbanding cadangan cash transfer isi rumah BERSAMA
 - Pengumuman gaji minimum RM2,000, pengecualian PMKS dan gaji minimum siswazah/separa kemahiran RM2,500
