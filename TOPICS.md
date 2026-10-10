@@ -1496,3 +1496,25 @@ the video before quoting anyone.
 - Jangkaan pengumuman gaji minimum dan pengecualian PMKS minggu depan
 - Konsesi Private Finance Initiative (PFI) pembinaan 6 kampus cawangan UiTM dan kroni UMNO
 - Kerugian UiTM Holdings RM157 juta dan kenyataan PM Anwar Ibrahim
+
+## YBhM ep67 &mdash; 2026-10-09
+
+[Belanjawan 2027 & Belanjawan Bayangan Kancil 2027 | YBM #67](https://www.youtube.com/watch?v=WH54kzAN9cQ) &middot; [raw](episodes/yang-berhenti-menteri/2026-10-09-ep67-belanjawan-2027-belanjawan-bayangan-kancil-2027-ybm-67/raw.md) &middot; [mixed](episodes/yang-berhenti-menteri/2026-10-09-ep67-belanjawan-2027-belanjawan-bayangan-kancil-2027-ybm-67/interview.md) &middot; [EN](episodes/yang-berhenti-menteri/2026-10-09-ep67-belanjawan-2027-belanjawan-bayangan-kancil-2027-ybm-67/interview-en.md) &middot; [MS](episodes/yang-berhenti-menteri/2026-10-09-ep67-belanjawan-2027-belanjawan-bayangan-kancil-2027-ybm-67/interview-ms.md)
+
+- Beria: isu jerebu, viral konten media sosial berbahaya, pengunduran Lee Chean Chung dan kritikan Hassan Karim terhadap PKR/Anwar
+- Ketiadaan belanjawan alternatif PAS/Perikatan Nasional berbanding 'Wins 2051' dan perbandingan dengan Belanjawan Bayangan Kancil BERSAMA
+- Tiga matlamat utama belanjawan negara: kemampanan fiskal, mutu hidup rakyat, pertumbuhan ekonomi
+- Proses bottom-up penyediaan Belanjawan 2027 dan ketiadaan wawasan ekonomi jelas daripada Perdana Menteri Anwar Ibrahim
+- Unjuran hasil dan perbelanjaan Belanjawan 2027: cukai korporat, individu, SST dan petroleum income tax
+- Debt service charge, fiscal deficit dan risiko gagal mencapai sasaran debt-to-GDP 60% bawah Fiscal Responsibility Act 2028
+- Pencampuradukan belanjawan kerajaan dengan GLIC, PPP, badan berkanun dan MKD (RM510 bilion) serta isu tata kelola KWAP/e-Fishery
+- Unjuran pertumbuhan ekonomi (real GDP growth), risiko AI bubble burst dan frontloading permintaan cip semikonduktor
+- STR, SARA dan BUDI95 berbanding cadangan cash transfer isi rumah BERSAMA
+- Pengumuman gaji minimum RM2,000, pengecualian PMKS dan gaji minimum siswazah/separa kemahiran RM2,500
+- Potongan cukai pendapatan 1% dan perbandingan impak terhadap B40/M40/T20 dalam Belanjawan Bayangan Kancil
+- Pekerja gig, sumbangan Grab dan cadangan Majlis Gig Negara sebagai regulator
+- Potongan cukai 1% SME dan persaingan tidak adil peniaga asing (pas pelawat) dalam perniagaan tempatan
+- Pembiayaan SME: TERAJU, SJPP dan ekosistem pembiayaan perbankan untuk perniagaan kecil
+- Projek-projek besar belanjawan: TNB grid upgrade, UEM Lestra, EMR dan sovereign AI di bawah SKMM
+- Isu struktural yang tertinggal: MTLM pekerja asing, zon ekonomi khusus (JS-SEZ) dan dasar penuaan penduduk
+- Spekulasi tarikh pilihan raya umum akan datang berdasarkan tarikh kuat kuasa pengumuman dan peruntukan SPR
