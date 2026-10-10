@@ -102,7 +102,14 @@ def asr(vid, tag):
                 cwd=ROOT)
     if not ok:
         return False, o
-    return run([PY, "scripts/mai_words_from_responses.py", tag, "--write"], cwd=ROOT)
+    # Whisper loops (`Sari kata oleh` x88, `ada` x444) and credit lines it writes over real
+    # speech come out here, BEFORE the words file is built; the report, with a ?t= link per
+    # item, is the step's output. See detect_whisper_loops.py.
+    ok, loops = run([PY, "scripts/detect_whisper_loops.py", tag, "--write"], cwd=ROOT, tail=6000)
+    if not ok:
+        return False, loops
+    ok, words = run([PY, "scripts/mai_words_from_responses.py", tag, "--write"], cwd=ROOT)
+    return ok, loops + "\n" + words
 
 
 def diarize(vid):

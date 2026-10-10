@@ -108,7 +108,7 @@ cold server answers before it can issue a token.
 ```bash
 python scripts/build_manifest.py --id=<video_id>      # a new episode is often not yet in the playlist
 python scripts/transcribe_episode.py <video_id> --stage raw --engine local   # starting raw.md
-python scripts/nightly_recut.py <tag> --hours 9       # audio, local Whisper-large-v3-turbo (owner, 2026-10-04), pyannote, camera; writes nothing to episodes/
+python scripts/nightly_recut.py <tag> --hours 9       # audio, local Whisper-large-v3-turbo (owner, 2026-10-04), pyannote, camera; loops removed by detect_whisper_loops.py; writes nothing to episodes/
 python scripts/check_camera_reference.py <tag>        # refuses a reference blind to a real speaker
 python scripts/adopt_mai_camera_raw.py <tag>          # dry run: build, gate, report
 python scripts/adopt_mai_camera_raw.py <tag> --write
@@ -258,6 +258,13 @@ labelled `Lee Chean Chung`. The spoken words are never changed to match.
   this on a first run: it compares the reference with the names in the pipeline raw.md, and
   that raw.md has no label for a face the camera never named. It refuses only after the
   owner's copy, which does name the guest, is installed (ep67).
+- **Whisper loops and credit lines.** `detect_whisper_loops.py` runs inside the `asr` step,
+  before `mai_words_from_responses.py`. It removes a repetition only when the audio or the
+  speaking rate says nobody said it, and flags the rest. Read the step's output in
+  `data/_nightly/<tag>.json`: each flagged line (`Terima kasih kerana menonton` over speech,
+  a repeat of 4 to 9) has a `?t=` link, and a removed loop over real speech (`speech 0.83`)
+  leaves words missing that the owner must add. It does not see Malay written for English
+  speech or other wrong words. Originals are in `data/_mai_<id>/loops_backup/`.
 - **Lowercase garbles.** `check_raw_facts.py` reads capitalised words only. It missed
   `reset` for Ridsect, `refund` for WeFund and `oi` for YB on ep65.
 - **NVIDIA's free API returns HTTP 504 on long segments** (about 300 s). Gemini Flash is the

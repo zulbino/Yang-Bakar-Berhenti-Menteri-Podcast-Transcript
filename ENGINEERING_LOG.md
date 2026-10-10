@@ -6944,3 +6944,52 @@ a regex written in one became a control character twice; write scripts with the 
   as `50,000`. Read the text before accepting; the figures were present.
 - `fix_proper_nouns.py` is corpus-wide: adding `eFishery` also corrected ep56 and ep57.
 - A bash heredoc corrupted a regex's word-boundary escape again (see 2.16). Use the file tool.
+
+### 2.20: A model cross-check at low and high effort gained nothing on a clean window
+
+- **Test:** two Sonnet subagents, one at low and one at high effort, corrected the same 11
+  minutes of ep67 (28:17 to 40:00, 1,506 words) from the pipeline text, the YouTube caption and
+  the older medium-Whisper transcript. The owner's own edit of that stretch (made from the
+  pipeline text, before any cross-check) is the reference.
+- **Result:** word error rate 3.3% for the pipeline as it was, 2.8% low effort, 3.0% high effort,
+  7.6% for the medium transcript. Each version fixed 23 or 24 of the pipeline's errors and
+  introduced 23 or 26 new ones, many of them spelling choices that differ from the owner's
+  (`kos` for `cost`). High effort took 170 s against 67 s. Effort does not matter on a window
+  where Whisper has not looped; the value is in the loop and language-flip regions.
+- **The caption alone** scored 26.1% against the owner's first 44 minutes (the pipeline: 5.1%).
+  It is a second opinion, not a source. A first measurement of 1.5% for the whole tail was biased:
+  the owner edited the cross-checked text, so it counted only what the owner still changed.
+
+### 2.21: Voice witness on ep67, once the camera reference held Sum Dek Joe
+
+- `voice_witness.py ep67 --validate` learned Haziq (13 clips), Rafizi (24) and Sum Dek Joe (22);
+  Farhan had too few camera seconds. Joe scored 0.81 against himself, 0.30 against Rafizi and
+  0.13 against Haziq. Held-out camera runs (165 runs, 448 windows) at score 0.55 and margin 0.20:
+  1.6 s windows 121 of 121 right, 3.0 s 147 of 148, 8 s 117 of 117; at 0.60 and 0.30 every window
+  length is 100%. The voice step was never the weak part: without Joe in the camera reference it
+  had no seconds to learn him from (2.17).
+
+### 2.22: Whisper loops are found by the audio, not the caption
+
+- **Why:** Against the owner's copy, ep67's tail scored 17.4% word error and the first 44 minutes
+  5.1%. Three loops are 928 of the 954 words the owner removed in long spans. The owner restored
+  93 words in 16 runs that the caption-based cross-check had dropped; the caption lacked 13 of
+  those 16 runs, so absence from the caption cannot justify a deletion.
+- **Built:** `scripts/detect_whisper_loops.py`, hooked into `nightly_recut.py asr`, with
+  `scripts/test_whisper_loops.py` (14 cases). The rule and its thresholds are in the script's
+  docstring. Strong loops are removed; weak repeats (4 to 9) and credit lines are flagged with a
+  `?t=` link and kept, because ep67 18:22 had `how much they are going to get` x4 where the
+  speaker said it twice.
+- **Measured against the owner's hand-corrected copies:** ep65 turbo words 2 removals
+  (`Sari kata oleh` x88, `kata` x144), ep66 1 (a credit line over silence), ep67 3
+  (`Sari kata oleh` x88, `,000` x216, `ada` x444). All 6 agree with the owner's text and none was
+  kept by the owner; every loop-like span the owner removed was caught (4 of 4). A trial on
+  ep65's medium-Whisper words removed 4 more (`Errrr...` x443 twice, `-E` x208, `okay go ahead`
+  x25) and flagged `ya` x14 where the owner has 5. The 76 MAI-era episodes (1.49 million words)
+  gave 0 removals and 83 flagged repeats such as `tak tak tak`.
+- **Seen on the audio:** the five ep67 credit lines had 26% to 86% speech under them, so Whisper
+  wrote a closing credit over real words. Three removed loops sat over real speech (`ada` x444 at
+  83% and `,000` x216 at 99% in ep67, `Sari kata oleh` x88 in ep65 at 96%), so the report lists
+  them for the owner's ear.
+- **Not covered:** Malay written for English speech, wrong words, and any loop shorter than 10
+  repeats. One episode per case, Silero at its default threshold.
