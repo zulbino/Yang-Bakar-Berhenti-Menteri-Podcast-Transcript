@@ -113,6 +113,19 @@ a Malay version of Chinese subtitle boilerplate from its training data. All were
 after the caption track showed that real speech ran straight past each one (41 of 41
 checkable cases).
 
+Whisper-large-v3-turbo, the engine for new episodes since 2026-10-04, also repeats itself.
+On ep67 it wrote `Sari kata oleh` 88 times, `ada` 444 times and a run of `,000` 216 times
+inside one number, and it wrote `Terima kasih kerana menonton` five times over real speech.
+`detect_whisper_loops.py` removes a repetition only when the audio or the speaking rate shows
+nobody said it: 10 or more repeats, and either more than 7 words per second, under 20% speech
+in the audio, or 25 or more repeats. It flags every other repeat and every credit line with a
+link and leaves them in the text. Where a removed loop sat over real speech, the words the
+speaker really said are missing until a person adds them. The YouTube caption is not used to
+decide a removal: it lacked 13 of the 16 runs of words the owner restored by ear. Against the
+owner's hand-corrected copies of ep65, ep66 and ep67, all 6 removals matched the owner's text,
+and the 76 earlier episodes produced none. The script does not see Malay written for English
+speech or other wrong words.
+
 ### Numbers and scale words
 
 Speech-to-text confuses `juta` (million) with `bilion`. ep21 published `8.2 bilion` where the
