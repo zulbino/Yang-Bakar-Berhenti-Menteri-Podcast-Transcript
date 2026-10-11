@@ -151,6 +151,41 @@ correctly, but it only renames clusters: `diarize` and `identify` returned the s
 segments. The idea worth keeping is enrolment from camera-confirmed audio, which the
 pipeline now does locally.
 
+## Speaker identity: research update, 2026-10-11 (NOT yet measured on this corpus)
+
+The 2026-09-09 rows above compare pyannote 3.x, MAI stitching and pyannoteAI. Since then several
+open models appeared. Every number below is the publisher's own or a competitor's, on English,
+Chinese or meeting corpora; none is Malay. They decide what to MEASURE, not what to adopt.
+
+| candidate | what it replaces | published claim | runs here? | licence |
+|---|---|---|---|---|
+| pyannote `speaker-diarization-community-1` | our pyannote 3.1 pipeline | lower speaker confusion than 3.1; DER 17.0 AMI-IHM, 20.2 DIHARD 3 ([pyannoteAI](https://www.pyannote.ai/blog/community-1)) | yes: pyannote.audio 4.0.7 is installed and the weights are already cached | CC-BY-4.0 |
+| DiariZen (WavLM-Large + Conformer) | the diarizer | 9.1 VoxConverse, 13.9 AMI-SDM, against 11.2 and 19.9 for community-1 ([table](https://huggingface.co/rewayai/suplime-large), a competitor's) | probably, untested on 8 GB | weights CC BY-NC 4.0 (third-party mirrors; not checked upstream) |
+| NVIDIA streaming Sortformer v2 / v2.1 | the diarizer | 13.24 DIHARD III for up to 4 speakers, 42.56 for 5 or more ([guide](https://kili-technology.com/blog/speaker-diarization-models-guide-benchmarks-and-failure-modes-2026)) | needs its own Python 3.12 venv (see Open) | NVIDIA open model |
+| 3D-Speaker ERes2NetV2 / CAM++ | WeSpeaker ResNet34 in voice_witness | EER 0.61% / 0.65% VoxCeleb1-O ([paper](https://arxiv.org/pdf/2403.19971)); ERes2NetV2 is tuned for short segments | yes, small models | see [repo](https://github.com/modelscope/3D-Speaker) |
+| ReDimNet2 B6 | same | EER 0.29% VoxCeleb1-O, 12.3M parameters ([paper](https://arxiv.org/abs/2603.11841)) | yes, torch.hub | see repo |
+| w2v-BERT 2.0 + layer adapters + LoRA | same | EER 0.12% VoxCeleb1-O with calibration, one group, preprint ([paper](https://arxiv.org/pdf/2510.04213)) | inference yes; fine-tuning tight on 8 GB | see repo |
+
+What the literature says about training on our own data:
+
+- **Fine-tune the segmentation model, keep the embedding.** This is the common recipe for a new
+  language or domain: Indonesian conversational audio went from 53.5% to 29.2% DER with 25 hours
+  ([paper](https://arxiv.org/pdf/2601.03684)). Segmentation decides WHEN the speaker changes, which
+  is the part the camera does worst here (it lags the voice and shows the listener).
+- **Do not fully fine-tune an embedding model on a handful of speakers.** With 50 to 100 speakers
+  full fine-tuning overfits and adapters win ([SE/BN adapter](https://arxiv.org/pdf/2406.07832)).
+  Sessions matter more than speaker count ([Vaessen 2022](https://arxiv.org/pdf/2203.14688)), and
+  the corpus has many sessions for the hosts: Rafizi 143 h in 76 episodes, Haziq 8.1 h in 62,
+  Farhan 1.7 h in 42 (camera reference), guests 0.2 to 1.2 h each.
+- **For known recurring speakers, a closed-set back-end on fixed embeddings** (one centroid or a
+  small classifier per person, trained across episodes) is the cheap first step; the cross-episode
+  voiceprint failed with a single threshold, and argmax over enrolled people does not need one.
+- **Report miss, false alarm and confusion separately**, plus the error on the switch second.
+
+The gold standard for any test is ep65, ep66 and ep67: the only episodes the owner labelled block
+by block by ear (owner, 2026-10-11). Train on other episodes, test on these three, never on the
+same episode. Camera labels are training material, not truth: they carry the camera's lag.
+
 ## Open
 
 - **Not measured: NVIDIA Sortformer.** NeMo on Python 3.14 would downgrade numpy and
