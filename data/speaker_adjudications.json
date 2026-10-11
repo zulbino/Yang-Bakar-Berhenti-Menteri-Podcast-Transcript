@@ -1278,5 +1278,22 @@
    "text_now": "Dato' Seri Sanusi Md Nor mengumumkan",
    "_note": "OWNER RULING 2026-10-04. MAI heard 'Datuk Seri. Tan Sri Mat Nor'; the YouTube captions hear 'datuk seri sanusi mat nor'. Owner: 'sanusi is Dato' Seri. and not Mat Nor, but Md Nor', with the Kedah government's own profile: YAB Dato' Seri Haji Muhammad Sanusi bin Md Nor, SPMK., AMK. (kedah.gov.my kedah_idirektori profile id=834). He is PN's Election Director. Listen: https://youtu.be/5IjX6nVTcDs?t=1789"
   }
+ },
+ "ep67_rule7_owner_ruled_2026_10_11": {
+  "18:53": {
+   "who": "Haziq",
+   "text_now": "Kebaikan hati seorang Menteri Kewangan",
+   "_note": "OWNER RULING 2026-10-11, on the rule 7 boundary reported by check_overlap_boundaries.py ep67 at [18:53] (https://youtu.be/WH54kzAN9cQ?t=1127). Owner: Haziq did say 'kebaikan hati seorang menteri kewangan'; the switch from Sum Dek Joe to Haziq is at 'Kebaikan', and Joe's block ends at '...rely on budget announcement'. The camera shows Joe while Haziq speaks, so the camera is the side that is wrong here."
+  },
+  "1:30:19": {
+   "who": "Farhan (Pa'an)",
+   "text_now": "announced as projek kerajaan.",
+   "_note": "OWNER RULING 2026-10-11, on the rule 7 boundary reported by check_overlap_boundaries.py ep67 at [1:30:19] (https://youtu.be/WH54kzAN9cQ?t=5413). Owner: correct, Farhan interjects. The camera shows Rafizi at that second, which is the cut lagging the voice."
+  },
+  "1:01:38": {
+   "who": "Rafizi",
+   "text_now": "menggapai di langit. Ya. Macam mana nak gapai langit tu?",
+   "_note": "OWNER RULING 2026-10-11, on the rule 7 boundary reported by check_overlap_boundaries.py ep67 at [1:01:38] (https://youtu.be/WH54kzAN9cQ?t=3690). Owner: the camera shows Haziq speaking at about 1:01:37 and Rafizi then imitates him, repeating 'menggapai di langit'. So the end of the previous block is Haziq's and this block is Rafizi's, as labelled."
+  }
  }
 }
