@@ -163,9 +163,9 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [18:41] Rafizi: Surprise announcement. Santa Claus tak ada.
 
-[18:45] Sum Dek Joe: So kenapa Malaysia ada ni? Sebab kita punya social assistance program, semua ni tidak diaktakan. So eventually people have to rely on
+[18:45] Sum Dek Joe: So kenapa Malaysia ada ni? Sebab kita punya social assistance program, semua ni tidak diaktakan. So eventually people have to rely on budget announcement
 
-[18:53] Haziq: budget announcement, Kebaikan hati seorang Menteri Kewangan
+[18:53] Haziq: Kebaikan hati seorang Menteri Kewangan
 
 [18:59] Sum Dek Joe: Exactly! So pemandu teksi kena dapat berapa B40 boleh dapat berapa Padahal di negera lain memang dah dijamin So memang that's exactly Apa yang kita mencadangkan Di parti bersama di mana kita technically, we have to institutionalize it. So, bolehlah at least memberi tumpuan kepada dasar rather than just benefit of SARA ataupun STR. So, okay. So, saya kena gerak dulu.
 

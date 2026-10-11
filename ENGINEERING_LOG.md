@@ -7046,6 +7046,10 @@ a regex written in one became a control character twice; write scripts with the 
   checks are clean. Older flags are unchanged: `check_figures.py` 8 episodes (ep04, 13, 15, 20,
   22, 38, 41, 53), `check_published.py` 11 episodes (ep63 holds 37 `Speaker ?`), `check_cast.py`
   `Nazri` in ep03:bakar. New: `check_overlap_boundaries.py --all` reports 2 contested and 1 tail
-  boundary, all in ep67 (18:53, 1:30:19 and 1:01:38), waiting for the owner's ear.
+  boundary, all in ep67 (18:53, 1:30:19 and 1:01:38). The owner ruled the same day that all three
+  are right: at 18:53 Haziq starts at `Kebaikan hati` (the owner moved `budget announcement` back
+  into Sum Dek Joe's block in raw.md), at 1:30:19 Farhan interjects, and at 1:01:38 Rafizi repeats
+  Haziq's words. The camera lags the voice at 18:53 and 1:30:19. Recorded in
+  `speaker_adjudications.json`; the check now reports 0 contested.
 - **Process gap.** The check was not run after `install_owner_edit.py` on ep67. The post-edit steps
   in ARCHITECTURE.md now include it.
