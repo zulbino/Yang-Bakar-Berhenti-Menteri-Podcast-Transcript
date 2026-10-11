@@ -6993,3 +6993,30 @@ a regex written in one became a control character twice; write scripts with the 
   them for the owner's ear.
 - **Not covered:** Malay written for English speech, wrong words, and any loop shorter than 10
   repeats. One episode per case, Silero at its default threshold.
+
+### 2.23: Verification of the loop detector at high effort, and the fixes it led to
+
+- **Run:** the whole detector on copies of ep65, ep66 and ep67 and on 75 MAI episodes, with
+  synthetic edge cases. Nothing in the repository was changed during the run.
+- **Defect found:** both `Sari kata oleh` x88 loops (ep65, ep67) end part-way through a repeat,
+  and the detector left that `Sari kata` in the text. The owner's raw.md files do not have it.
+  Fixed: a removed loop takes the matching start of the next repeat when at least 2 words match.
+  One matching word is not enough: `oleh` before 30 x `Sari kata oleh` also reads as 30 x
+  `oleh Sari kata` plus a spare `oleh`, which may be real speech.
+- **Stale backup:** `loops_backup/` was read whenever it existed, so a fresh Whisper run into the
+  same folder would have been overwritten with the previous run's words. `--write` now records
+  each rewritten file's hash in `loops_backup/written.json`; the backup is read only while the
+  hashes match, and is replaced when they do not.
+- **Smaller fixes:** a phrase now spans only its remaining words after a removal (a test phrase
+  started 0.5 s before its first word); a laugh run (`ha ha ha`) is never judged by the silence
+  rule, because Silero can score a real laugh low; an empty or missing words folder now exits 1.
+- **Measured, no change needed:** 4 to 5 seconds and 1.3 to 1.5 GB of memory for a 3.8-hour
+  episode. Across wide ranges of the repeat count, words per second, silence fraction and sure-
+  repeat count, the three episodes gave identical results, because the real loops are extreme.
+  Only the credit-line silence limit matters: at 0.30 two ep67 credits over real speech would be
+  removed, so it stays at 0.10. The 75 MAI episodes hold two runs of 10 or more repeats (`tak`
+  x11 in ep54, `ye` x10 in ep30); the audio shows speech under both (99% and 94%), so neither
+  would be removed. A loop spread over three response files is removed whole.
+- **Still open:** a wrong sample rate in the audio file stops the asr step instead of falling
+  back to the rules that need no audio. A loop of fewer than 10 repeats, Malay written for English
+  speech and wrong words are not covered. Thresholds fit three Whisper episodes.

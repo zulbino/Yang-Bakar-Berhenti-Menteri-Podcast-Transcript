@@ -264,7 +264,8 @@ labelled `Lee Chean Chung`. The spoken words are never changed to match.
   `data/_nightly/<tag>.json`: each flagged line (`Terima kasih kerana menonton` over speech,
   a repeat of 4 to 9) has a `?t=` link, and a removed loop over real speech (`speech 0.83`)
   leaves words missing that the owner must add. It does not see Malay written for English
-  speech or other wrong words. Originals are in `data/_mai_<id>/loops_backup/`.
+  speech or other wrong words. Originals are in `data/_mai_<id>/loops_backup/`, read only
+  while they match what `--write` left (`written.json`); a fresh ASR run replaces them.
 - **Lowercase garbles.** `check_raw_facts.py` reads capitalised words only. It missed
   `reset` for Ridsect, `refund` for WeFund and `oi` for YB on ep65.
 - **NVIDIA's free API returns HTTP 504 on long segments** (about 300 s). Gemini Flash is the

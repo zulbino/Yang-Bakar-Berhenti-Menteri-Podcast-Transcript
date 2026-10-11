@@ -17,7 +17,8 @@ THE RULE, with the ep67 numbers it was built on:
                  than 7 words per second (nobody speaks that fast; `ada` x444 ran at 43 w/s,
                  `Sari kata oleh` at 528), or Silero reports under 20% speech over the span,
                  or 25 or more repeats. A block of 2 to 8 characters repeated 25 or more times
-                 inside one token is the same thing (`,000` x216). REMOVED, all copies.
+                 inside one token is the same thing (`,000` x216). REMOVED, all copies. A run of
+                 laughter (`ha ha ha`) never counts as silence: Silero can score a real laugh low.
   weak loop      4 to 9 repeats (6 to 9 for a single word, because `ada ada` is ordinary
                  Malay). FLAGGED, kept. ep67 18:22 had `how much they are going to get` x4
                  where the speaker said it twice, so deleting a short run deletes real speech.
@@ -31,14 +32,18 @@ so: the words the speaker really said are not in the text and need the owner's e
   python scripts/detect_whisper_loops.py ep67             # dry run, prints the report
   python scripts/detect_whisper_loops.py ep67 --write     # rewrites the responses in place
 
---write keeps the untouched responses in `<words dir>/loops_backup/` and always reads from
-there, so a second run gives the same result. Run it BEFORE `mai_words_from_responses.py`,
+--write keeps the untouched responses in `<words dir>/loops_backup/` and reads from there while
+they still match what --write left in the folder, so a second run gives the same result. A fresh
+ASR run into the same folder changes the files, the backup is then stale, and it is replaced.
+
+A removed loop also takes the part-repeat it stops in (`Sari kata` after 88 x `Sari kata oleh`). Run it BEFORE `mai_words_from_responses.py`,
 which builds `mai_words.json` from these files; nightly_recut.py does. CPU only: the GPU is the
 camera pass's.
 """
 import argparse
 import bisect
 import glob
+import hashlib
 import json
 import os
 import re
@@ -71,14 +76,34 @@ def norm(w):
     return re.sub(r"[^\w']", "", w.lower())
 
 
+def sha(path):
+    return hashlib.sha256(Path(path).read_bytes()).hexdigest()
+
+
+def backup_is_ours(base):
+    """True when `loops_backup/` holds the originals of the responses now in `base`.
+
+    --write records the hash of each file it rewrites in `loops_backup/written.json`. A fresh
+    Whisper run into the same folder changes those hashes, and the old backup is then stale:
+    reading it would put the previous run's words over the new ones.
+    """
+    rec = Path(base) / "loops_backup" / "written.json"
+    if not rec.is_file():
+        return False
+    written = json.loads(rec.read_text(encoding="utf-8"))
+    now = {f.name: sha(f) for f in Path(base).glob("mai_response_*.json")}
+    return bool(written) and now == written
+
+
 def load_words(words_dir):
     """Every word of every response, in time order, with where it lives.
 
     A word is (t0, t1, normalised, raw, (file, phrase, word)). Reads `loops_backup/` when it
-    exists, so a repeat run starts from the untouched responses.
+    holds the originals of what is in the folder, so a repeat run starts from the untouched
+    responses.
     """
     base = Path(words_dir)
-    src = base / "loops_backup" if (base / "loops_backup").is_dir() else base
+    src = base / "loops_backup" if backup_is_ours(base) else base
     files = sorted(src.glob("mai_response_*.json"))
     docs = [json.loads(f.read_text(encoding="utf-8")) for f in files]
     words = []
@@ -174,14 +199,25 @@ def detect(words, speech):
         dur = max(t1 - t0, 0.01)
         rate, sp = (i1 - i0) / dur, span_speech(t0, t1)
         gram = " ".join(toks[i0:i0 + n])
+        laugh = all(LAUGH.match(t) for t in toks[i0:i0 + n])   # Silero can score a real laugh as silence
         strong = k >= STRONG_REPEATS and (rate > IMPOSSIBLE_WPS or k >= SURE_REPEATS
-                                          or (sp is not None and sp < SILENT))
+                                          or (not laugh and sp is not None and sp < SILENT))
+        tail = 0
+        if strong:
+            # the loop usually stops part-way through a repeat (`Sari kata` after 88 x `Sari kata
+            # oleh`, in ep65 and ep67): those words belong to the loop too. One matching word is
+            # not enough: `oleh` before 30 x `Sari kata oleh` also reads as 30 x `oleh Sari kata`
+            # plus a spare `oleh`, and that spare word may be real speech.
+            while tail < n - 1 and i1 + tail < len(toks) and toks[i1 + tail] == toks[i0 + tail]:
+                tail += 1
+            if tail < 2:
+                tail = 0
         items.append({"kind": "loop" if strong else "weak", "t0": t0, "t1": t1, "gram": gram,
-                      "repeats": k, "words_per_s": round(rate, 1),
+                      "repeats": k, "partial_words": tail, "words_per_s": round(rate, 1),
                       "speech": None if sp is None else round(sp, 2),
                       "action": "removed" if strong else "flagged"})
         if strong:
-            remove.update(range(i0, i1))
+            remove.update(range(i0, i1 + tail))
     for i, block, k in find_token_repeats([w[3] for w in words]):
         t0, t1 = words[i][0], words[i][1]
         sp = span_speech(t0, t1)
@@ -210,11 +246,14 @@ def detect(words, speech):
 def apply_removals(files, docs, words, remove, base):
     """Rewrite the responses without the removed words. Originals go to loops_backup/."""
     backup = Path(base) / "loops_backup"
+    if backup.is_dir() and not backup_is_ours(base):
+        shutil.rmtree(backup)              # a fresh ASR run replaced the responses: the backup is stale
     backup.mkdir(exist_ok=True)
     gone = {}
     for idx in remove:
         fi, pi, wi = words[idx][4]
         gone.setdefault((fi, pi), set()).add(wi)
+    written = {}
     for fi, f in enumerate(files):
         keep = backup / f.name
         if not keep.exists():
@@ -228,9 +267,17 @@ def apply_removals(files, docs, words, remove, base):
                 if not ph["words"]:
                     continue
                 ph["text"] = " ".join(w["text"] for w in ph["words"])
+                if "offsetMilliseconds" in ph:     # the phrase spans only the words that are left
+                    first, last = ph["words"][0], ph["words"][-1]
+                    ph["offsetMilliseconds"] = first["offsetMilliseconds"]
+                    ph["durationMilliseconds"] = (last["offsetMilliseconds"] + last["durationMilliseconds"]
+                                                  - first["offsetMilliseconds"])
             phrases.append(ph)
         doc["phrases"] = phrases
-        (Path(base) / f.name).write_text(json.dumps(doc, ensure_ascii=False), encoding="utf-8")
+        out = Path(base) / f.name
+        out.write_text(json.dumps(doc, ensure_ascii=False), encoding="utf-8")
+        written[f.name] = sha(out)
+    (backup / "written.json").write_text(json.dumps(written), encoding="utf-8")
 
 
 def link(vid, t):
@@ -264,6 +311,8 @@ def main():
     vid = video_id_for(a.tag)
     base = Path(a.words_dir) if a.words_dir else ROOT / "data" / f"_mai_{vid}"
     files, docs, words = load_words(base)
+    if not files:
+        sys.exit(f"no mai_response_*.json under {base}")
     print(f"{a.tag}: {len(words)} words in {len(files)} response file(s) under {base.name}")
 
     audio = None
@@ -283,8 +332,9 @@ def main():
     for x in items:
         sp = "n/a" if x["speech"] is None else f"{x['speech']:.2f}"
         rate = "" if x["words_per_s"] is None else f"{x['words_per_s']} w/s  "
+        extra = f"  +{x['partial_words']} partial word(s)" if x.get("partial_words") else ""
         print(f"  {x['action'].upper():8s} {stamp(x['t0'])}  {x['kind']:6s} x{x['repeats']:<4d} "
-              f"'{x['gram'][:46]}'  {rate}speech {sp}\n           {link(vid, x['t0'])}")
+              f"'{x['gram'][:46]}'{extra}  {rate}speech {sp}\n           {link(vid, x['t0'])}")
     over = [x for x in removed if x["speech"] is not None and x["speech"] >= 0.5]
     if over:
         print(f"\n{len(over)} removed loop(s) sat over real speech. The words the speaker said there "

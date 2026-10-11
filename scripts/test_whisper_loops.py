@@ -104,6 +104,60 @@ def main():
               and len(json.loads((tmp / "loops_backup" / f.name).read_text(encoding="utf-8"))["phrases"][0]["words"]) == 32)
         results.append(check("--write rewrites the phrase, keeps the original, and a second run changes nothing", ok))
 
+    # the loop stops part-way through a repeat: the partial repeat goes too, and only the tail
+    items, remove = run(["dan"] + ["Sari", "kata", "oleh"] * 30 + ["Sari", "kata", "Kerajaan", "berjaya"],
+                        speech=0.0, step=0.005, dur=0.004)
+    results.append(check("the part-repeat after a removed loop is removed with it",
+                         len(remove) == 92 and items[0]["partial_words"] == 2 and 93 not in remove and 94 not in remove))
+    items, remove = run(["dan"] + ["Sari", "kata", "oleh"] * 30 + ["Kerajaan"], speech=0.0, step=0.005, dur=0.004)
+    results.append(check("no part-repeat, nothing extra removed", len(remove) == 90 and items[0]["partial_words"] == 0))
+    items, remove = run(["oleh"] + ["Sari", "kata", "oleh"] * 30, speech=0.0, step=0.005, dur=0.004)
+    left = [w[3] for i, w in enumerate(words(["oleh"] + ["Sari", "kata", "oleh"] * 30)) if i not in remove]
+    results.append(check("a word before the loop is never taken: one `oleh` is left", len(remove) == 90 and left == ["oleh"]))
+
+    # a laugh run over silence is flagged, and removed only when nobody can laugh that fast
+    items, remove = run(["ha"] * 12, speech=0.05, step=0.33, dur=0.3)
+    results.append(check("a slow laugh run over silence is flagged, not removed", not remove and items[0]["action"] == "flagged"))
+    items, remove = run(["ha"] * 12, speech=0.05, step=0.05, dur=0.04)
+    results.append(check("a laugh run at 20 words per second is removed", len(remove) == 12))
+
+    # phrase times follow the words that are left; an untouched phrase is not changed
+    with tempfile.TemporaryDirectory() as tmp:
+        tmp = Path(tmp)
+        def ph(off, texts):
+            ws = [{"text": t, "offsetMilliseconds": off + i * 20, "durationMilliseconds": 10} for i, t in enumerate(texts)]
+            return {"offsetMilliseconds": off, "durationMilliseconds": 9000, "text": " ".join(texts), "words": ws}
+        keep = ph(60000, ["selamat", "pagi"])
+        (tmp / "mai_response_00.json").write_text(json.dumps({"_chunk_start_s": 0.0, "phrases": [
+            ph(10000, ["kata"] * 40 + ["Kerajaan", "berjaya"]), keep]}), encoding="utf-8")
+        files, docs, w = D.load_words(tmp)
+        items, remove = D.detect(w, lambda a, b: 0.0)
+        D.apply_removals(files, docs, w, remove, tmp)
+        out = json.loads((tmp / "mai_response_00.json").read_text(encoding="utf-8"))["phrases"]
+        results.append(check("a phrase starts at its first remaining word, an untouched one is unchanged",
+                             out[0]["offsetMilliseconds"] == 10000 + 40 * 20 and out[0]["durationMilliseconds"] == 30
+                             and out[1] == keep))
+
+    # a fresh ASR run into the same folder: the old backup is stale and is never read
+    with tempfile.TemporaryDirectory() as tmp:
+        tmp = Path(tmp)
+        def put(texts):
+            ws = [{"text": t, "offsetMilliseconds": i * 100, "durationMilliseconds": 3} for i, t in enumerate(texts)]
+            (tmp / "mai_response_00.json").write_text(json.dumps({"_chunk_start_s": 0.0, "phrases": [
+                {"offsetMilliseconds": 0, "durationMilliseconds": 9000, "text": " ".join(texts), "words": ws}]}), encoding="utf-8")
+        put(["dan"] + ["ada"] * 30 + ["bilion"])
+        files, docs, w = D.load_words(tmp)
+        D.apply_removals(files, docs, w, D.detect(w, lambda a, b: 0.0)[1], tmp)
+        results.append(check("after --write the backup is the one in use", D.backup_is_ours(tmp)))
+        put(["baru", "episod", "lain"] + ["ya"] * 30 + ["habis"])           # Whisper re-run, new words
+        results.append(check("a re-run of ASR makes the old backup stale", not D.backup_is_ours(tmp)))
+        files, docs, w = D.load_words(tmp)
+        results.append(check("the stale backup is not read", [x[3] for x in w][:3] == ["baru", "episod", "lain"]))
+        D.apply_removals(files, docs, w, D.detect(w, lambda a, b: 0.0)[1], tmp)
+        kept = json.loads((tmp / "loops_backup" / "mai_response_00.json").read_text(encoding="utf-8"))
+        results.append(check("--write then replaces the stale backup with the new originals",
+                             kept["phrases"][0]["text"].startswith("baru episod lain") and D.backup_is_ours(tmp)))
+
     failed = results.count(False)
     print(f"\n{len(results) - failed} of {len(results)} passed")
     sys.exit(1 if failed else 0)

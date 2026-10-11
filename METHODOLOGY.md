@@ -119,7 +119,8 @@ inside one number, and it wrote `Terima kasih kerana menonton` five times over r
 `detect_whisper_loops.py` removes a repetition only when the audio or the speaking rate shows
 nobody said it: 10 or more repeats, and either more than 7 words per second, under 20% speech
 in the audio, or 25 or more repeats. It flags every other repeat and every credit line with a
-link and leaves them in the text. Where a removed loop sat over real speech, the words the
+link and leaves them in the text. A removed loop also takes the part-repeat it stops in.
+Where a removed loop sat over real speech, the words the
 speaker really said are missing until a person adds them. The YouTube caption is not used to
 decide a removal: it lacked 13 of the 16 runs of words the owner restored by ear. Against the
 owner's hand-corrected copies of ep65, ep66 and ep67, all 6 removals matched the owner's text,
