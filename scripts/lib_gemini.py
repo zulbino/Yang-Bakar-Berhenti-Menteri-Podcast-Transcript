@@ -47,11 +47,13 @@ from common import human_duration, retry
 # aliases (gemini-flash-latest / gemini-flash-lite-latest), which stay
 # pointed at whatever generation Google currently serves instead of a pinned
 # version that can be retired later.
+# 2026-10-11: Google retired the pinned names and redirects them (3.7-flash to 3.8-flash, 3.5-flash
+# to 3.6-flash, confirmed by `model_version` on a live call). The chain names what is served, and
+# the 3.5 entry is gone because it would only repeat 3.6 against the same quota.
 MODEL_FALLBACK_CHAIN = [
-    "gemini-3.7-flash",
+    "gemini-3.8-flash",
     "gemini-3.6-flash",
     "gemini-3.1-pro-preview",
-    "gemini-3.5-flash",
     "gemini-3.5-flash-lite",
     "gemini-3-flash-preview",
     "gemini-3.1-flash-lite",

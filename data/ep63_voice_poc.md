@@ -1,6 +1,6 @@
 # ep63: proof of concept, three embedding models x two window cuts
 
-Held-out accuracy is in the terminal log (data/_poc_log.txt). Below, every leftover block and
+Held-out accuracy was in the terminal log (data/_poc_log.txt), deleted 2026-10-11 as scratch; rerun `voice_witness_poc.py` to regenerate it. The 1.6 s result, 97.6% for a unanimous three-model vote, is recorded in CLAUDE.md rule 8. Below, every leftover block and
 every disputed short turn, scored by each combination. A cell reads `name score/margin`; bold
 means it clears the strict bar (score >= .60, margin >= .30) that measured 100% on held-out
 1.6 s windows for the current model. Links open 5 s early.

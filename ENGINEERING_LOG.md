@@ -7020,3 +7020,32 @@ a regex written in one became a control character twice; write scripts with the 
 - **Still open:** a wrong sample rate in the audio file stops the asr step instead of falling
   back to the rules that need no audio. A loop of fewer than 10 repeats, Malay written for English
   speech and wrong words are not covered. Thresholds fit three Whisper episodes.
+
+### 2.24: Data cleanup, Gemini name redirects, and what the audit found on ep67
+
+- **Cleanup, 2.5 GB freed.** `cleanup_scratch.py --write` removed 6 decoded WAVs (2.1 GB), the frame
+  cache and bytecode. A further 322 MB was scratch with no reader: the speechbrain model download
+  cache (`_sb_*`, used only by `voice_witness_poc.py`, which downloads it again), `_asr_test`,
+  August test files in `audio/` (`_ep35_tail.m4a`, `_sm_*.json`), rewrite work folders and logs of
+  adopted episodes, and `_old_ep67_raw.md`, which is byte-identical to the starting raw.md in git.
+  Kept on purpose: every `audio/*.m4a` and `.vtt`; `_mai_*` (860 MB, the MAI responses, which cannot
+  be regenerated now the Azure credit has ended); camera tracks, face census, clusters and
+  galleries; `_refphotos`; `_revolab` (a cloned repository); the ep65, ep66 and ep67 `_review`
+  folders and the `_asr_turbo_*` words behind the loop-detector measurements.
+- **Stale notes removed.** `data/ep44`, `ep46`, `ep47`, `ep48`, `ep50` and `ep53_open_items.md`
+  listed rule-7 boundaries and face enrolments for the owner's ear on 2026-09-12. All are settled
+  (0 contested on those episodes), and git keeps the files. `ep61_open_items.md` stays because
+  ATTRIBUTION_PASS.md points to it, and `ep63_open_items.md` stays because ep63 still has 37
+  `Speaker ?` turns. `data/ep63_voice_poc.md` named a deleted log; it now says so.
+- **Gemini names.** Google retired `gemini-3.5-flash` and `gemini-3.7-flash` on 2026-10-11 and
+  redirects them to 3.6 and 3.8. A live call with the old names returned `model_version` 3.6 and
+  3.8. `gemini-3.8-flash` took 37 s on a one-word prompt, so the earlier "3.8 hangs" notes still
+  stand. The three scripts that hard-coded 3.5 now name 3.6, and the `lib_gemini.py` chain names
+  3.8 and drops the 3.5 entry, which would only repeat 3.6 against the same quota.
+- **Audit result.** Names, agencies, slurs (near-misses only), honorifics, raw engine and owner-text
+  checks are clean. Older flags are unchanged: `check_figures.py` 8 episodes (ep04, 13, 15, 20,
+  22, 38, 41, 53), `check_published.py` 11 episodes (ep63 holds 37 `Speaker ?`), `check_cast.py`
+  `Nazri` in ep03:bakar. New: `check_overlap_boundaries.py --all` reports 2 contested and 1 tail
+  boundary, all in ep67 (18:53, 1:30:19 and 1:01:38), waiting for the owner's ear.
+- **Process gap.** The check was not run after `install_owner_edit.py` on ep67. The post-edit steps
+  in ARCHITECTURE.md now include it.

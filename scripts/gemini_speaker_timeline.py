@@ -44,7 +44,7 @@ import verify_speakers_video as single  # noqa: E402
 
 ROOT = Path(__file__).resolve().parent.parent
 API = "https://generativelanguage.googleapis.com"
-FALLBACK = "gemini-3.5-flash"      # 3.8-flash returned 503 "high demand" on the first run
+FALLBACK = "gemini-3.6-flash"      # the 3.5 name now redirects here; 3.8-flash returned 503 "high demand" on the first run
 PROMPT = """You are watching a Malaysian political podcast. Several people sit in one studio
 and the vision mixer cuts to whoever is speaking, usually about two seconds late.
 

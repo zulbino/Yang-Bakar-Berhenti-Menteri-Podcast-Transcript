@@ -41,7 +41,7 @@ import verify_speakers_video as single  # noqa: E402
 
 ROOT = Path(__file__).resolve().parent.parent
 API = "https://generativelanguage.googleapis.com"
-MODEL = "gemini-3.5-flash"      # 3.8-flash hangs rather than answering; see ARCHITECTURE.md
+MODEL = "gemini-3.6-flash"      # served for the retired 3.5 name since 2026-10-11; 3.8-flash hangs rather than answering; see ARCHITECTURE.md
 
 PROMPT = """You are watching a clip of a Malaysian political podcast recorded in one studio.
 

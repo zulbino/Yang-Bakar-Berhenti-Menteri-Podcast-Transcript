@@ -62,7 +62,7 @@ import verify_speakers_video as single  # noqa: E402
 
 ROOT = Path(__file__).resolve().parent.parent
 API = "https://generativelanguage.googleapis.com"
-FALLBACK = "gemini-3.5-flash"          # 3.8-flash hangs; 3.5 answers a window in 12-34 s
+FALLBACK = "gemini-3.6-flash"          # 3.8-flash hangs; the 3.5 name now redirects here, 12-34 s a window
 INLINE_CAP = 20_000_000                # the documented inline request limit
 
 PROMPT = """You are watching a clip of a Malaysian political podcast recorded in one studio.
