@@ -206,6 +206,17 @@ The measurement first exposed 22 wrong interjection stamps in these three raw.md
 (`restamp_interjections.py`). Not yet tried: ERes2NetV2, ReDimNet2, a trained classifier, a
 calibrated abstain bar, segmentation fine-tuning.
 
+**Second measurement, 2026-10-12: better embeddings and a trained classifier did not help.**
+ReDimNet2 B6 (VoxCeleb2) and ReDimNet2 B6 (VoxBlink2 + VoxCeleb2 + CN-Celeb), both MIT, tie
+with WeSpeaker ResNet34 within about one point on every column (ep67: accuracy 96.4-96.6%,
+switches within 1 s 67.7-69.1%). A logistic-regression classifier on 4,880 clips from up to 40
+other episodes finds Farhan 4 to 6 points more often but is 0.7 to 1.1 points less accurate and
+invents more switches (54-63% real, against 74-82% for the centroid). A probability bar trades
+coverage for accuracy (ep65 99.0% at 84%, ep67 97.7% at 79%) but never reaches 100% on this
+gold, because a block owns its pauses and the short `ya` of others inside it. So the voice model
+is not the limit; the switch second and short turns are. The next test counts wrong WORDS with
+`compare_owner_edit.py`, the measure of the ep65 trials, instead of seconds.
+
 ## Open
 
 - **Not measured: NVIDIA Sortformer.** NeMo on Python 3.14 would downgrade numpy and
