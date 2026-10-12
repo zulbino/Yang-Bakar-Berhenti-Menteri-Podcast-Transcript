@@ -217,6 +217,23 @@ gold, because a block owns its pauses and the short `ya` of others inside it. So
 is not the limit; the switch second and short turns are. The next test counts wrong WORDS with
 `compare_owner_edit.py`, the measure of the ep65 trials, instead of seconds.
 
+**Third measurement, 2026-10-12: wrong-label WORDS, the measure that matters for raw.md.** The
+pipeline's own words keep their text; each word takes a label at its ASR time. Voice is the
+WeSpeaker ResNet34 centroid from OTHER episodes, majority over 3 windows. Reference: the owner's
+final raw.md.
+
+| wrong-label words | pipeline raw.md | camera per word | voice per word |
+|---|---|---|---|
+| ep65 (20,431 words) | 388 | 489 | **337** |
+| ep66 (22,558 words) | 1,505 | 1,590 | **740** |
+| ep67 (24,564 words) | 2,948 (built before Joe's face was in the gallery) | 1,453 | **415** |
+
+Owner's speaker changes found, pipeline against voice: 51.1% / 70.6%, 36.6% / 63.4%, 47.6% /
+76.6%; share of voice's own changes that are real 82.2%, 91.7%, 87.7%. The camera as tiebreaker
+where voice's margin is under 0.10 is not consistently better (316, 748, 459). Relabelling the
+pipeline's TURNS by a voice vote is worse than labelling WORDS (360, 1,139, 788), so the turn
+boundaries carry part of the error.
+
 ## Open
 
 - **Not measured: NVIDIA Sortformer.** NeMo on Python 3.14 would downgrade numpy and

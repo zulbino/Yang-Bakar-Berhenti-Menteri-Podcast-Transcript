@@ -7075,3 +7075,15 @@ a regex written in one became a control character twice; write scripts with the 
 - **Owner decisions the same day:** short unanswered agreements are dropped, Hansard style, and
   non-speech sounds get English bracket tags such as `[laughter]`. Neither is built yet (CLAUDE.md
   rule 5 note).
+
+### 2.26: Voice labels each word better than the camera and the pipeline
+
+- **Measured** on ep65, ep66 and ep67 against the owner's final raw.md, labels only (same words):
+  voice per word 337, 740 and 415 wrong-label words; the pipeline 388, 1,505 and 2,948; the
+  camera per word 489, 1,590 and 1,453. Table in MODEL_LANDSCAPE.md.
+- **Tried and not better:** ReDimNet2 (two weight sets) and a trained classifier against the
+  WeSpeaker centroid; a camera tiebreak; a voice vote per pipeline turn.
+- **Conflicts with a standing rule.** CLAUDE.md rule 8 (owner, 2026-09-12) says a probabilistic
+  voice vote does not count as identification and only a witness measured at 100% may write a
+  label. The camera does not meet that bar either, and this test is the first to measure both
+  against the owner's ear. Changing the evidence order is the owner's decision.
