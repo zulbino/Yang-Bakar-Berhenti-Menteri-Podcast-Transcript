@@ -45,7 +45,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [01:45] Rafizi: Oh. Aa saya dengan Joe sedang siapkan dokumen belanjawan bayangan yang kita akan lancarkan pada hari Rabu malam. 7 hari bulan Oktober. Di ibu pejabat BERSAMA. Sebab selalunya malam Rabu tu kita ada forum. Ya. Selalunya kan. Kemudian pertimbangan kita, kalau kita buat siang dan yang boleh hadir tu hanyalah yang dijemput semualah, yang yang memang dia tak masuk office ke apa, or memang kerja dia untuk pergi ke forum.
 
-[01:45] Haziq: Atas jemputan.
+[02:26] Haziq: Atas jemputan.
 
 [02:27] Rafizi: Tapi orang ramai aa banyaknya kerja. Jadi sebaiknya kita tetap buatkan malam jugalah. Cuma nak kena control air con tu malam tu. Air con dekat ibu pejabat tu.
 
@@ -1019,7 +1019,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [2:40:13] Rafizi: Itu berdasarkan clarification daripada apa nama ni.
 
-[2:40:13] Haziq: Chairman.
+[2:40:19] Haziq: Chairman.
 
 [2:40:20] Rafizi: KPT. KPT 2023, bila laporan Ketua Audit Negara tu keluar, dia perbetulkan laporan Ketua Audit Negara ke macam mana? Because I think the first figure was 2 something. Kemudian dia clarify is 157.
 
@@ -1169,7 +1169,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [3:08:37] Rafizi: Maksudnya, cara memberikan konsesi ini untuk perkhidmatan 15, 20 tahun kan, tetap diteruskan untuk bekalkan benda tu, benda ni, tetap diteruskan kepada syarikat-syarikat swasta. Dan ada beberapa penerima itu sangat kontroversi lah. Ha. Kan. Cuma-
 
-[3:08:37] Haziq: Hint tu.
+[3:08:50] Haziq: Hint tu.
 
 [3:09:02] Rafizi: Cuma dia sangat bernasib baik kerana pembangkang ni memang lemau. Sangat lemau. Kan. So kalau aku jadi pembangkang, memang dah keluar semua cerita konsesi tak konsesi, aku dah tanya, aku dah pergi korek semua ni kan. So sekarang aku jadi pembangkang tanpa kerusi kan. Mungkinlah aku pergi check balik semua kot. Dan, dan tanya dia sebab harap kat pembangkang kat parlimen dia tak tanya. Dia sibuk nak minang meminang, bercium mulut. You know, kalau Dato' Seri Anwar bagi offer yang betul, mungkin PAS semua swing daripada UMNO pergi ke PKR pula kan, PH pula kan. Jadi, DAP pun tak ada apa. DAP macam tadilah, macam Michelle Ng tadilah. Ha kan, state our position. Kan. So yang pasal konsesi semua ni tak pernah state our their position ke apa, semua tak pernah tanya kan. So kalau aku ada masa, aku pergi koreklah.
 
