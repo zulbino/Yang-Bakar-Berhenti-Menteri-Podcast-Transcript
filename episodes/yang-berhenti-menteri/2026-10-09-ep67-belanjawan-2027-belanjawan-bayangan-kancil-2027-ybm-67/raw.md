@@ -129,7 +129,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [13:35] Haziq: Okey, baik-baik-baik. Okey, baik settle. Sebelum kita ke topik utama, kita dah okey ke? Sound Pa'an? Better, Better.
 
-[13:35] Farhan (Pa'an): But we are trying to cantikkan lagi. this is the problem kalau kita buat Live.
+[13:42] Farhan (Pa'an): But we are trying to cantikkan lagi. this is the problem kalau kita buat Live.
 
 [13:44] Haziq: Okey. Okey. Okay, baik-baik-baik. Okay, penonton, jadi teruslah menyokong kami. Alright.
 
@@ -233,7 +233,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [36:54] Rafizi: Itu lebih kepada cash transfer untuk direct assistance, More like social safety, Cuma it's not institutionalized Dan dia jadi bahan gula-gula Dan dia banyak inclusion and exclusion error. Pasal kos harga barang ni Sebenarnya apa satu-satunya kerajaan buat.
 
-[36:54] Farhan (Pa'an): Price control?
+[37:14] Farhan (Pa'an): Price control?
 
 [37:17] Rafizi: Berapa sangat ada Berapa berkesan sangatnya Price control adalah gula
 
@@ -263,7 +263,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [38:47] Rafizi: Oh, just vendor lah. vendor memang happy lah daripada peruntukan 100 juta kalau dah jadi 600 juta kan jadi akhirnya kalau tidak berhati-hati, Bila belanjawan itu... ...telah dibiasakan sebagai belanjawan yang hanya pengumuman-pengumuman... Maka satu ialah dia tak tackle head on, Di root cause of the problem, Jadi harga barang tu tak turun lah, Keduanya ialah dia distort lah Kerana hanya sesetengah orang sahaja yang dapat berpeluang kan, Sebab tu lama-lama orang marah, Orang kata, bila nak turun harga barang? Bila nak turun harga barang? So, what is the structural way of managing especially food prices ni?
 
-[38:47] Farhan (Pa'an): Production.
+[39:43] Farhan (Pa'an): Production.
 
 [39:43] Rafizi: It's production. It's production, it's basically distribution channel, kan? Yang itu ada kita dengar, kerajaan setahun demi setahun. You know, bila kita buat IPR INTAN itu, it's a subtle way to try to encourage kerajaan. Sebab kalau aku lebih-lebih, dia kata, kau bukan menteri pertanian. Sedangkan kita dah kata, we have to modernize our farming and also shift considerably to food production. dan you takkan boleh turunkan harga dengan cepat kalau you tak boleh increase production. You tak boleh increase production kalau cara kita menanam masih lagi macam dulu. Maka cara kita menanam, menguruskan food production ini mestilah dengan cara modern so that dia ada economies of scale. Tapi ialah. Jadi itu sebagai contohlah kalau macam mana. untuk kita menilai belanjawan setiap tahun, actually you kena tengok what are the Structural intervention daripada belanjawan itu Yang akan menyelesaikan masalah, Permanently! Dia bukan band-aid. Bila dia band-aid, masalah itu tak selesai Dia macam Panadol lah. You pening, makan Panadol sebijik. Oh tak, tak habis pening. Apa namanya, makan dua bijik. Makan tiga bijik. Lama-lama ada side effect yang lain lah.
 
@@ -295,7 +295,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [46:46] Rafizi: Yang harga fluctuate tak apa, harga tinggi...
 
-[46:46] Haziq: Ah, ya.
+[46:49] Haziq: Ah, ya.
 
 [46:50] Rafizi: Kalau harga fluctuate dia jatuh tu aku okey je lagi kan. Harga tinggi, for the CEO of Aramco, beritahu you know, for the foreseeable future dia tak nampak harga akan kembali ke 50 ke 60 dollar. So dia fluctuate macam tu lah, 90, 100 lebih semua kan. So kepada yang menonton, you roughly know, terus kalau $90 per barrel, subsidi RON95 ini, dia akan jadi dalam RM40 bilion lebih, kan? So untuk mengubah consumption behavior sesuatu ekonomi, sesuatu masyarakat itu, tak mudah. Dia ambil masa yang panjang kan. Dia sama macam orang kita mandi tau. Actually, katakanlah kat luar negara kan, ini mungkin orang ramai mungkin...
 
@@ -353,7 +353,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [1:02:04] Rafizi: Itu bukan dia punya. NETR tu kita punya. Kemudian satu lagi, PuTERA, itu kita punya.
 
-[1:02:04] Haziq: JS-SEZ?
+[1:02:11] Haziq: JS-SEZ?
 
 [1:02:12] Rafizi: Kita punya jugak. So kalau malam ini kita orang nak buat nakal kan, kita highlightkan semua yang dia sebut tadi tu, yang mana sebenarnya asalnya daripada Kementerian Ekonomi. Letih lah kita. Sebab tiga dasar utama ekonomi negara, daripada tiga tu, satu daripada MITI, dua daripada Kementerian Ekonomi tau. Bukan dia punya. So apa, okay, I think people can associate certain things that I'm so passionate about. Kan, energy transition lah, semiconductor lah, scaling up, SME semua kan. Actually masa Tun Mahathir dulu. Okay, even go back, even earlier, masa Tun Razak, apa yang Tun Razak so passionately about, yang vision ekonomi dia?
 
@@ -371,7 +371,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [1:03:29] Rafizi: Well, it's basically industrialization lah. Sebab tu di bawah dia tu ada semua, apa nama ni, buat kereta lah, buat besi lah...
 
-[1:03:29] Haziq: PERWAJA...
+[1:03:38] Haziq: PERWAJA...
 
 [1:03:38] Rafizi: ...itu semua kan. Then of course oil and gas tu satu hal lah kan. And to be fair zaman Tun Mahathir jugalah, the downstreaming of oil and gas, daripada setakat hanya menapis minyak, buat petrokemikal, semualah kan. So it's quite obvious that industrialization and dia memang kalau yang dia champion, dia champion betul-betul lah. Dato' Seri Anwar selepas 4 tahun, actually apa projek ekonomi yang dia betul-betul orang nampak ada vision for growth?
 
@@ -425,11 +425,11 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [1:17:53] Rafizi: Daripada situ kita dah boleh mula nampak lah sedikit sebanyak kan. So kerajaan daripada RM381 bilion tu kan, belanja mengurus kerajaan ialah RM377 bilion. 381 tolak 377, eh tak payah pakai lah, yang tu boleh kira dengan kepala.
 
-[1:17:53] Haziq: Okay, okay.
+[1:18:17] Haziq: Okay, okay.
 
 [1:18:17] Rafizi: 381 tolak 377, 4 bilion.
 
-[1:18:17] Haziq: 4 bilion. Ah.
+[1:18:22] Haziq: 4 bilion. Ah.
 
 [1:18:24] Rafizi: So you bayangkan kan, tambah-tambah 20 bilion setahun tu, tapi belanjanya makin tinggi dan makin tidak terkawal. So dia jadi macam nyawa-nyawa ikan setiap tahun tau. Sedangkan rakyat duk kata, alah, makin teruk lah, cukai makin aku kena banyak bayar. And you tak boleh nak salahkan rakyat tau. Memang betul, cukai bertambah dengan tinggi tiap-tiap tahun, lebih kurang 20 bilion setiap tahun rakyat kena bayar kan. Cukai pendapatan naik, cukai korporat naik, SST naik, semua dia kutip lagi banyak ni. Of course lah dia akan kata, oh, salah nak sebut macam itu. Kami kutip lebih banyak kerana GDP berkembang kan. Well, dia bergantung juga, sebab kita dah bincang dalam podcast yang sebelum-sebelum ni kan. GDP tu angka kasar negara. Bila GDP berkembang, bukan semua orang atau semua business tu dapat laba tu. Dan kita dah tengok untuk Malaysia, GDP yang diwar-warkan, pertumbuhan ekonomi yang diwar-warkan 5.6% tu, sebahagian besarnya dipacu oleh beberapa industri saja, terutamanya yang berorientasikan eksport dan semikonduktor. Yang lain, kalau kau pergi kat kedai Sungai Besi, aku rasa dia merangkak macam biasa. Dia masih lagi kena bayar SST semua kan. So, you know, sebab itu, you have to ask the question, macam mana kutip semua ni tapi masih lagi nyawa-nyawa ikan, you get the answer bila tengok kepada perbelanjaan. Sebab perbelanjaan pun sama naik, tinggi kan. Satu, kita dah tahu maksudnya hasil tolak belanja mengurus tinggal 4 bilion. So sebenarnya kalau tak nak berhutang, kalau nak mencapai maksudnya tak ada fiscal deficit langsung. Tak ada fiscal deficit langsung, maksudnya kita hanya ada 4 bilion untuk buat sekolah, untuk buat hospital, untuk semua lah, semua kapital semua kan. Memang tak cukup lah untuk 4 bilion kan. Jadi akhirnya kerajaan kena buat apa?
 
@@ -447,7 +447,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [1:26:19] Haziq: Boleh jawab, YB? Sebab saya ingat yang YB sebut dalam Belanjawan tahun lepas punya podcast juga, penglibatan GLC dan GLIC.
 
-[1:26:19] Rafizi: Yang tu tak pernah dibuat kan. Jadi bila dia umum kan, Datuk Seri umum, Dato' Seri Anwar umum, bunyi dia hebat tau. Tahun ini kerajaan memperuntukkan RM510 bilion. Wah, RM510 bilion. Bila kita tengok sebenarnya yang akan dibelanjakan RM510 bilion tu kan, sebenarnya RM25 bilion daripada GLIC. Kemudian daripada konsesi, PPP, public-private partnership. Ini yang kita pernah ulas lah. Ini antara sebab kenapa hutang kita teruk semua lah. PPP ada lagi, 11 bilion projek baru.
+[1:26:23] Rafizi: Yang tu tak pernah dibuat kan. Jadi bila dia umum kan, Datuk Seri umum, Dato' Seri Anwar umum, bunyi dia hebat tau. Tahun ini kerajaan memperuntukkan RM510 bilion. Wah, RM510 bilion. Bila kita tengok sebenarnya yang akan dibelanjakan RM510 bilion tu kan, sebenarnya RM25 bilion daripada GLIC. Kemudian daripada konsesi, PPP, public-private partnership. Ini yang kita pernah ulas lah. Ini antara sebab kenapa hutang kita teruk semua lah. PPP ada lagi, 11 bilion projek baru.
 
 [1:27:11] Haziq: Baru ke?
 
@@ -483,11 +483,11 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [1:36:24] Rafizi: Okay, that goes to the second thing. Ah, itu yang maksudnya yang satu tu, buka pintu kepada politician lah kan. Secondly, you rightly point out setiap badan ini ada akta dia, ada mandat dia. Dan kalau KWAP, mandat dia ialah untuk jaga wang pencen rakyat. And because of that, dia ada investment panel dia, dia ada proses dia, dia tak boleh nak melabur dalam projek-projek infrastruktur macam ini. Kan? Kecualilah kerajaan akan membayar dua kali ganda. Kecualilah dia pun dah mula menjadi pemegang konsesi macam Tajuddin Rahman dulu kan, pegang konsesi untuk buat. But then again you have to ask the investment panel. KWAP ni, do you have the expertise untuk buat construction project? You are investment fund, kan? So panjang cerita nonstop kan, sebab the moment dia lari daripada mandat dia kan. Last time, ah, benda ni berlaku, yang kita semua tahu ialah masa zaman 1MDB. KWAP kena bagi pinjaman kepada SRC 4 bilion.
 
-[1:36:32] Farhan (Pa'an): Tapi pinjaman.
+[1:37:39] Farhan (Pa'an): Tapi pinjaman.
 
 [1:37:44] Rafizi: Even then is pinjaman. Even then, ini outright buat... tau kan. So benda ni sangat sangat membimbangkan kan. Jadi kemudian in the future, nanti bila you dah buka pintu GLIC, GLC, stat bodies, MKD ni kepada politician, dia akan katalah, eh, macam ni lah, saya nak run, apa nama ni, program untuk buat majlis raya dekat kawasan saya, RM500,000 bajet, you host lah dekat kawasan saya. We all know menteri banyak buat macam tu.
 
-[1:37:44] Farhan (Pa'an): Ya.
+[1:38:25] Farhan (Pa'an): Ya.
 
 [1:38:27] Rafizi: That's why kau orang gelak. Sekarang ni berlaku, every year berlaku. Aku seorang je yang tak buat, walaupun orang offer semua. Aku macam mana pun, kalau masa aku jadi menteri dulu dekat Pandan tu, kesian orang Pandan. Memang majlis open house raya aku paling cikai, paling murah, sekali pakai duit kita orang kan. Sebab kau tidak, ini jadinya. You know, I ada program untuk pengundi I, you bayar. Dan inilah tata kelola yang akhirnya kembali kepada zaman dulu. So kalau orang luar duk tanya saya, why you tak puas hati? Itu Hassan Karim tadi tanya, jangan kritik Anwar Ibrahim. What do you expect me to do? Kan kita spend 20 tahun, 20 lebih tahun to fight all this budaya macam ini. And then dia dibacakan dengan bangganya di dalam ucapan belanjawan kan. So dia happy lah. Memanglah semua orang sekarang cium tangan dia, Anwar Ibrahim, "Datuk Seri nak apa? Nanti saya buat semua." Kan? But you know, you open the gates, then kalaulah contohnya kerajaan bertukar and BNPN masuk, you think PH has any moral standing untuk complain pasal benda ni? Tinggal kita kat BERSAMA ajelah yang boleh melalak pasal benda ni. Tapi kita parti kecil. We cannot fight all this kan. Tapi orang akan kata, "Oh, janganlah bagi PH kalah, nanti BNPN memerintah." Apa bezanya dia buat sebiji macam BNPN? In fact zaman BNPN, zaman BN dulu tak pernah KWAP kena pergi buat benda-benda macam ni lah. Tak pernah kena buat infrastruktur semua kan. Dahlah KWAP tak habis lagi cerita eFishery 250 juta.
 
@@ -511,7 +511,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [1:43:49] Rafizi: Aku rasa aku mati awal.
 
-[1:43:49] Haziq: Sabar YB.
+[1:43:50] Haziq: Sabar YB.
 
 [1:43:51] Rafizi: Stres tengok semua ni kan. Dahlah minggu lepas stres, buat assignment last minute. So lain kali jangan buat assignment last minute lah kan. Bila tengok semua ni stres. Sebahagiannya, kan, projection aku tu tak lari jauh lah. Okay, tengok eh, kita akan berbelanja RM377 bilion dalam belanja mengurus kan. Pecahan-pecahan, sama juga tau dia dalam pelaporan antarabangsa semua ni, dia ada minimum requirement of disclosure apa belanja, kategori perbelanjaan tu kan. Kerajaan Malaysia MOF punya perincian tu sebenarnya agak, agak kurang. Negara-negara lain yang aku pernah check, dia lebih mendalam. But at the very least, tak apalah, kita tengok kan, jadi macam mana 377 juta itu akan dibelanjakan kan? Perbelanjaan yang terbesar sebanyak RM112 bilion adalah gaji. Okay, now I think part of it sebenarnya sebab aku dah buat bising selama ni pasal subsidi, pasal debt service charge semua kan. Dia gabungkan tau subsidi and social assistance jadi satu. Ada tahun-tahun yang sebelum itu sebenarnya dia asingkan. Subsidi lain, social assistance lain.
 
@@ -551,7 +551,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [1:56:24] Rafizi: Elektrik semua tu okey lagi. Apa lagi?
 
-[1:56:24] Farhan (Pa'an): Perkakas?
+[1:56:26] Farhan (Pa'an): Perkakas?
 
 [1:56:26] Rafizi: Perkakas tu okey lagi. Apa lagi? Consumable, ubat. Medicine is not capex. Ubat is there lah. So dia kena ration lah ubat dia. Consumable kat hospital tu semua tu kan. What do you call that? Needle tak needle punya semua tu, everything lah. Glove tak glove, everything kena ration. So untuk jabatan kerajaan biasa yang tidak banyak menggunakan consumable, dia tak ada, dia boleh lah cuba tutup aircond ke apa semua kan. Tapi kalau kena hospital, KKM, you potong supply and services dia, then dia naik. So dengan 4 bilion untuk tahun depan, well, doa lah tak ada perang lagi. Because bila ada oil shock ke, ataupun ada gempa bumi ke, okay, now for example, kalau ada AI crash.
 
@@ -559,7 +559,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [1:57:30] Rafizi: Basically kalau ada AI boom burst, bubble dia burst lah.
 
-[1:57:30] Sum Dek Joe: Bubble dia burst.
+[1:57:34] Sum Dek Joe: Bubble dia burst.
 
 [1:57:36] Rafizi: You know, I duk follow ni kan, orang kata 2027, tengoklah, you tengok. And then dia akan mula, apa nama ni, shake the global finance. And sekarang ni pun bond yields memang historic high, record high. Kalau ada AI burst, that will disoriented the market even more, dan dia mula akan ada kesan lah, kerana ringgit will be affected, contohnya kan, because, okeylah, dia panjang sikit lah, contohnya, kalau anything like that happens, kalau people tend to go for safe haven, you know, if dollar strengthens. Then kalau dollar strengthens, harga minyak naik, subsidi pula meletup, and ringgit akan weakens. So dia punya spillover effect, dia punya satu masalah tu kan. Jadi sebab itu as much as possible you want to have a much bigger current surplus, supaya ada buffer. Okay, Joe dah ada. Kau nak boleh komen yang lain-lain pasal debt, DSC yang lain lah, debt service charge kepada debt-to-GDP ratio ke. Aku nak berehat.
 
@@ -671,7 +671,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [2:34:50] Sum Dek Joe: So you as Ramanan lah?
 
-[2:34:50] Rafizi: No no. I mean, I'm wearing the hats of JTK. Sebab Ramanan tak payah fikir semua ni. Dia akan ketuk dia punya pegawai semua ni, come up with how you're going to do it. Bukan dia punya idea ni kan. Dia tahu dia nak umum saja kan. Okay, now so katakanlah kita JTK kan. So kita akan kata, "Well, macam ni, kita akan umumkan guideline separa kemahiran ni, maksudnya mungkin ada diploma kat atas, mungkin ada sijil kat atas." Okay. So itu the easiest way, kalau basically back to paper qualification. Kalau you ada this, this, okay. But even then, it's going to be very difficult, because it works by basically reporting by exception. Maksudnya begini kan, ini rule dia: mana-mana pekerja yang you termasuk dalam kategori itu, sebab you ada diploma ke ataupun you ada sijil ke, tapi you tak dibayar gaji minimum separa kemahiran 2,500 ni, maka you boleh lapor kepada JTK, JTK will go after kan. Whats the problem with that?
+[2:34:56] Rafizi: No no. I mean, I'm wearing the hats of JTK. Sebab Ramanan tak payah fikir semua ni. Dia akan ketuk dia punya pegawai semua ni, come up with how you're going to do it. Bukan dia punya idea ni kan. Dia tahu dia nak umum saja kan. Okay, now so katakanlah kita JTK kan. So kita akan kata, "Well, macam ni, kita akan umumkan guideline separa kemahiran ni, maksudnya mungkin ada diploma kat atas, mungkin ada sijil kat atas." Okay. So itu the easiest way, kalau basically back to paper qualification. Kalau you ada this, this, okay. But even then, it's going to be very difficult, because it works by basically reporting by exception. Maksudnya begini kan, ini rule dia: mana-mana pekerja yang you termasuk dalam kategori itu, sebab you ada diploma ke ataupun you ada sijil ke, tapi you tak dibayar gaji minimum separa kemahiran 2,500 ni, maka you boleh lapor kepada JTK, JTK will go after kan. Whats the problem with that?
 
 [2:36:19] Sum Dek Joe: Terlalu banyak kes di mana JTK tak boleh handle.
 
@@ -801,7 +801,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [3:10:44] Rafizi: TERAJU, ah, and ada sebab lah kenapa PMO nak ambil TERAJU. Ya, the story is like this. TERAJU ni kan unit pembangunan Bumiputera lah supposedly kan. So over the years they get funding untuk bumiputera, so the way before that ialah dia bagi grant, ataupun what they do is that dia ambil duit tu, dia bagi kat bank, suruh bank manage, suruh bank bagi pinjaman lah kononnya kepada business-business Bumiputera ni. So when I came in, macam biasa lah kan, I ask them to go satu, no grant, no more grant, kan, sebab kalau you boleh buat kilang, and this is a real case tau, you boleh buat kilang sampai 20 juta macam tu kan, kemudian you pakai kereta Jaguar sport semua, kaya raya semua, tak payah lah ambil 5 juta grant daripada kerajaan untuk kilang you kan? Kalau nak bagi grant, yang apa nama ni, more deserving lah in my opinion kan. So grant tak ada. Cuma duit-duit yang dia orang bagi tu, aku suruh dia orang pergi kutip balik, ada lebih kurang 200 juta. So dia orang pergi kutip balik daripada bank-bank ni semua kan. So I say, change it like this. You tell the bank eh. Satu, bagi kat bank, dia tak membantu usahawan Bumiputera, sebab bila pergi bank, bank treat dia orang ni sama macam bank treat yang lain. Padahal bukan duit bank pun, itu duit kerajaan. Tapi susah lah itu semua kan. So turn it around. The sourcing tu must be from TERAJU. So therefore TERAJU needed- kita minta TERAJU untuk build the capacity to source, for it to incubate business semua lah kan. So TERAJU identify, incubate semua. And then dia jadi co-funding. RM1 TERAJU put, bank you letak RM4. So that's how daripada 200 million yang awal consolidated tu jadi 1 billion. So katakanlah you dapat 10 million, tak adalah dia punya ticket size tu kecil-kecil je. Katakanlah 500,000 kan. So 500,000 loan katakanlah you ambil daripada Bank Muamalat kan, daripada situ 100,000 tu is TERAJU, 400 daripada bank. So because of that tiba-tiba TERAJU ada financing facility of 1 billion lah. Dan dia bukan pakai duit kerajaan yang baru. Ini memang duit yang kita, yang aku suruh dia orang kutip, daripada... tak guna duduk kat situ bertahun-tahun, tak disburse semua kan. So I suppose someone tengok, ah, wah, 1 billion. So lo and behold, the next thing aku tahu, bila aku dah tak ada, Dato' Seri Anwar Ibrahim telah memindahkan TERAJU daripada Kementerian Ekonomi ke bawah dia kan. And then dia pergi umum pula benda ni kan. Padahal benda tu ada daripada dulu. That is not... satu, it doesn't involve duit daripada bajet. The money is already there. Secondly ialah it's not even a new thing, yang memang dah ada lah ni, umum saja lah. And I think kalau tengok kepada funding yang dia umum tu, aku tak nampak banyak funding, new funding tau. Yang besar yang dia umum tu ialah SJPP, Skim Jaminan Pinjaman Persekutuan. SJPP is not direct duit daripada kerajaan. Basically government...
 
-[3:10:44] Sum Dek Joe: because of fiscal...
+[3:13:26] Sum Dek Joe: because of fiscal...
 
 [3:14:45] Rafizi: Ya. It's just basically a fiscal commitment. Katakanlah you Maybank, you bagi pinjam 2 juta. Itu pun, sorry lah ya, bos-bos bank, I hope you are listening kan, sometimes I think it's overkill, sebab okey, kerajaan dah bagi SJPP, skim jaminan, basically credit guarantee lah kan. So katakanlah Maybank bagi kau 1 million kan. So actually government dah guarantee, kalau you default government will bayar that 1 million kan. Tapi sebenarnya bank still require you to give personal guarantee tau. So personal guarantee pun dia ambil, SJPP pun dia ambil. So jadi sebab itu SME, you umum berapa banyak SJPP tiap-tiap tahun kan? Okay lah, dia go through it. Dia tahu dia dapat SJPP tu, semua loan yang dia ambil semua. Tapi it doesn't make them happy dengan kerajaan. Because it doesn't remove the fact that dia kena bagi personal guarantee dia. Dan bila dia bagi personal guarantee, kalau jadi apa-apa, dia bankrap. Kan. So that's also my experience. Memang director semua kena bagi personal guarantee.
 

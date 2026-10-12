@@ -123,6 +123,7 @@ python scripts/install_owner_edit.py <tag> <owner copy> --write                 
 # --also-known "<Guest>" lets through a label the pipeline raw.md never used: a guest the
 # description names but the camera did not know. Without it the typo check refuses the label.
 python scripts/merge_same_speaker.py --episode=<tag> --raw-only --write
+python scripts/restamp_interjections.py <tag> --write # a short turn the ASR matched to the wrong place gets a wrong stamp (22 in ep65-ep67)
 python scripts/check_overlap_boundaries.py <tag>      # rule 7: the owner's labels can tear a sentence (ep67: 3 found after install)
 ```
 

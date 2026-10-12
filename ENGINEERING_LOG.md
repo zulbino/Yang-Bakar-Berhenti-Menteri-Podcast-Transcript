@@ -7053,3 +7053,25 @@ a regex written in one became a control character twice; write scripts with the 
   `speaker_adjudications.json`; the check now reports 0 contested.
 - **Process gap.** The check was not run after `install_owner_edit.py` on ep67. The post-edit steps
   in ARCHITECTURE.md now include it.
+
+### 2.25: Voice beats the camera on the owner's gold, and 22 interjection stamps were wrong
+
+- **Measured** (numbers in MODEL_LANDSCAPE.md): on ep65, ep66 and ep67, the owner's hand-labelled
+  episodes, a voice model learned only from OTHER episodes labels every second at the camera's
+  accuracy (95.8% to 97.9%), places two to six times more speaker switches within 1 s of the
+  owner's, and finds Haziq, Farhan and Sum Dek Joe far more often. The owner's view (2026-10-11)
+  that voice should lead and the camera should break ties is supported by this test.
+- **Defect found by it.** Voice and camera both heard Rafizi over 129 s that ep65's raw.md gave
+  to Farhan. The cause was the stamp: `install_owner_edit.py` gave a turn whose words the ASR
+  never heard the PREVIOUS turn's start time (`Bond holders?` at 49:28, said at 51:35), and a short
+  phrase that also occurs earlier matched the earlier copy (`Tapi pinjaman.`, ep67, 67 s early).
+- **Fixed.** `restamp_interjections.py` re-locates a suspect turn (same stamp as the turn before,
+  or a short turn sandwiched by one speaker and owning more than 20 s) inside its own window:
+  its words in the ASR words there, else the end of the previous turn. 3 stamps moved in ep65, 3
+  in ep66, 16 in ep67; no word or label changed; owner decisions and rule 7 still pass.
+  `install_owner_edit.py` now places an unmatched turn at the end of the previous turn's words;
+  rerun on ep65's original copy it stamps `Bond holders?` at 51:35. The re-stamp step is in the
+  post-edit block in ARCHITECTURE.md.
+- **Owner decisions the same day:** short unanswered agreements are dropped, Hansard style, and
+  non-speech sounds get English bracket tags such as `[laughter]`. Neither is built yet (CLAUDE.md
+  rule 5 note).

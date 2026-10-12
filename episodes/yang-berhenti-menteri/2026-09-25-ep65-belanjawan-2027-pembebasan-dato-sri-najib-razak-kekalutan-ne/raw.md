@@ -23,7 +23,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [00:44] Haziq: Assalamualaikum dan salam sejahtera. Podcast Yang Berhenti Menteri dah eput- eh dah episod ke-65.
 
-[00:44] Rafizi: Dah eput.
+[00:48] Rafizi: Dah eput.
 
 [00:51] Haziq: Sorry YB. Saya seram sikit. Sebab minggu lepas, nyamuk banyak.
 
@@ -285,7 +285,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [49:28] Rafizi: So, so contohnya pemegang-pemegang taruh yang utama kan kepada belanjawan setiap tahun kan. Satu ialah pasaran. Yang dipanggil pasaran kan. Market, market, market. Sebab itu orang kalau, sebab itu belanjawan perlu diumumkan pada hari Jumaat pukul 4 petang. Supaya masa dia nak umum tu, market dah tutup. Aaa dan weekend terus kan. Untuk bagi masa sebenarnya sebahagiannya ialah untuk bagi masa supaya pasaran boleh digest belanjawan tu semua. Sebahagiannya supaya tidak ada manipulation kan. Kalau, kalau ada kaunter yang dilihat akan mendapat aa laba daripada pelaburan kerajaan dalam sektor tertentu, kalau buat tengah minggu nanti haywire lah semua kan. So pasaran sangat pentinglah kan. Pasaran tu siapa yang betul-betul akan beri perhatian dan akan ada kesan kepada kerajaan? Bila kita kata pasaran, pasaran, pasaran. Sebab rakyat bila kita dah dididik berpuluh tahun, bila kita tengok belanjawan ni, kita nak tumpu kepada aa pengumuman-pengumuman kepada kita saja. Sebenarnya ada benda yang sama besar yang kita tak nampak, yang diperhatikan oleh pasaran, yang akan ada kesan besar kepada negara dan kita sendiri di masa akan datang. So, pasaran tu bila kita pasaran, okeylah. Orang kata investor tu satulah. Dia nak tengok sebenarnya kalau kerajaan menumpukan kepada industri A, maka kaunter-kaunter di industri A tu akan naik saham dia kan, ataupun industri B tu akan dapat boost daripada kerajaan. Maka itu akan mempengaruhi aa pelaburan di masa akan datang. Itu investor satu lagi. Apa lagi jenis-jenis investor yang cukup sensitif bila dia tengok belanjawan ni?
 
-[49:28] Farhan (Pa'an): Bond holders?
+[51:35] Farhan (Pa'an): Bond holders?
 
 [51:37] Rafizi: Yeah, actually bond holders. Bond holders. Stakeholders terbesar kepada belanjawan adalah bond holder. Terutamanya dalam keadaan hutang negara kita ni dah melebihi trilion. Kan? Jadi kerajaan aa aa belanjawan itu akan diperhalusi dan dilihat dengan secara terperinci oleh firma-firma aa ataupun institusi kewangan antarabangsa yang membeli bon-bon hutang kerajaan yang 1.3, 1.4 trilion itu. Jadi apa kesan dia aa dari segi bon ini? Macam mana belanjawan itu akan mempengaruhi pandangan mengenai bon?
 
@@ -451,7 +451,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [2:01:54] Rafizi: Macam mana hutang kerajaan ni macam mana nak dikurangkan? Macam mana nak bayar? Jangan kata buat balance transfer credit card.
 
-[2:01:54] Farhan (Pa'an): Austerity measure?
+[2:02:02] Farhan (Pa'an): Austerity measure?
 
 [2:02:06] Rafizi: Saya selalu, well, I I don't I don't think you, you patut buat austerity measure sebab benda tu tu tak, tak adil kepada rakyat. So macam mana?
 

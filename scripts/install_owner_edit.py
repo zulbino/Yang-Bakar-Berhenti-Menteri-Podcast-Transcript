@@ -74,11 +74,12 @@ def main():
            for t in json.loads((ROOT / "data" / f"_mai_{vid}" / "mai_words.json").read_text(encoding="utf-8"))["turns"]
            for x in t["words"] for w in WORD.findall(x["w"])]
     owner = [(i, w.lower()) for i, t in enumerate(turns) for w in WORD.findall(t[2])]
-    at = {}
+    at, last_at = {}, {}
     sm = SequenceMatcher(None, [w for _, w in owner], [w for w, _ in mai], autojunk=False)
     for x, y, n in sm.get_matching_blocks():
         for k in range(n):
             at.setdefault(owner[x + k][0], mai[y + k][1])
+            last_at[owner[x + k][0]] = mai[y + k][1]
 
     prev = 0.0
     out, filled = [], 0
@@ -86,7 +87,9 @@ def main():
         if stamp:
             t = secs(stamp)
         else:
-            t = at.get(i, prev)
+            # words the ASR never heard: the turn goes where the previous turn's words END, not
+            # where it began (ep65 `Bond holders?` took the start of a 129 s block)
+            t = at.get(i, max(prev, last_at.get(i - 1, prev)))
             filled += 1
         if int(t) < int(prev):
             sys.exit(f"stamps run backwards at turn {i} [{fmt(t)}] after [{fmt(prev)}]: {who}: {text[:60]!r}")

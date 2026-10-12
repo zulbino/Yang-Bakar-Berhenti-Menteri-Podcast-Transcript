@@ -186,6 +186,26 @@ The gold standard for any test is ep65, ep66 and ep67: the only episodes the own
 by block by ear (owner, 2026-10-11). Train on other episodes, test on these three, never on the
 same episode. Camera labels are training material, not truth: they carry the camera's lag.
 
+### First measurement, 2026-10-12: voice against camera on the owner's gold
+
+Scored per second against ep65, ep66 and ep67 (owner-labelled), WeSpeaker ResNet34, 1.6 s
+windows, majority over 3. "Voice" learns each person from OTHER episodes' camera seconds
+only (30 episodes, 20 clips each; Sum Dek Joe 60 clips from 3), so the test episode is unseen.
+
+| | camera: share labelled / accuracy | voice: share labelled / accuracy | switch within 1 s, camera / voice |
+|---|---|---|---|
+| ep65 | 89% / 98.5% | 100% / 97.9% | 32.5% / 67.5% |
+| ep66 | 67% / 96.0% | 100% / 95.8% | 10.1% / 59.9% |
+| ep67 | 90% / 96.1% | 100% / 96.6% | 20.8% / 68.6% |
+
+Recall, camera against voice: Haziq 63/87, 43/80, 56/88; Farhan 53/53, 41/84, 46/78; Sum Dek
+Joe 64/90 (ep67). Learning from the same episode's camera is no better than learning from
+other episodes. Voice invents more switches: 74-75% of its switches are real, the camera's
+69-86%. The gold is block-level (a block owns its pauses), so every accuracy is a lower bound.
+The measurement first exposed 22 wrong interjection stamps in these three raw.md files
+(`restamp_interjections.py`). Not yet tried: ERes2NetV2, ReDimNet2, a trained classifier, a
+calibrated abstain bar, segmentation fine-tuning.
+
 ## Open
 
 - **Not measured: NVIDIA Sortformer.** NeMo on Python 3.14 would downgrade numpy and
