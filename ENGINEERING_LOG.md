@@ -7101,3 +7101,7 @@ a regex written in one became a control character twice; write scripts with the 
   `compare_owner_edit.py`: 329, 735 and 413 wrong-label words on ep65, ep66 and ep67 (the test in
   2.26 gave 337, 740 and 415; profiles now exclude only the episode itself, and the cast comes from
   the camera instead of the gold).
+- **Not added: `move_hanging_words.py` after voice.** On the same gold it made labels worse:
+  474 and 880 wrong words on ep65 and ep66 (voice alone 329 and 735); ep67 unchanged at 413. So a
+  sentence the voice splits between two speakers goes to the owner's ear (rule 7). ep68, the first
+  voice episode, has 19 contested boundaries and 18 tails after adoption.
