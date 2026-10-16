@@ -111,8 +111,14 @@ python scripts/transcribe_episode.py <video_id> --stage raw --engine local   # s
 python scripts/nightly_recut.py <tag> --hours 9       # audio, local Whisper-large-v3-turbo (owner, 2026-10-04), pyannote, camera; loops removed by detect_whisper_loops.py; writes nothing to episodes/
 python scripts/check_camera_reference.py <tag>        # refuses a reference blind to a real speaker
 python scripts/adopt_mai_camera_raw.py <tag>          # dry run: build, gate, report
-python scripts/adopt_mai_camera_raw.py <tag> --write
+python scripts/adopt_mai_camera_raw.py <tag> --write --voice   # --voice: voice labels every word (owner, 2026-10-16, new episodes)
 ```
+
+`--voice` runs `voice_label_raw.py` last. The camera names the cast (30 s or more of camera
+time). Each cast member gets a WeSpeaker ResNet34 profile from up to 30 other episodes' camera
+seconds, or from this episode's camera seconds if fewer than 50 clips exist elsewhere. Each word
+takes the nearest profile at its ASR time (1.6 s windows every 1 s, 3-window majority). The
+window embeddings are cached in `data/_voice/<vid>_windows.npz`.
 
 Then hand the owner a copy of raw.md to review against the video, and wait. After their
 edit:

@@ -7087,3 +7087,17 @@ a regex written in one became a control character twice; write scripts with the 
   voice vote does not count as identification and only a witness measured at 100% may write a
   label. The camera does not meet that bar either, and this test is the first to measure both
   against the owner's ear. Changing the evidence order is the owner's decision.
+
+### 2.27: Voice labels every word of a new episode (owner's decision 2026-10-16)
+
+- **Owner's answers** to the four questions of 2026-10-12: voice may write labels despite rule 8;
+  a new guest is learned from the same episode's camera seconds; new episodes first (ep68), the
+  73 episodes the owner has not corrected later; an unsure word still takes the voice label; the
+  camera is not a tiebreak and not a flag.
+- **Built:** `voice_label_raw.py`, run by `adopt_mai_camera_raw.py --voice` as step 7c, after the
+  standard, which is the order measured. Cast = camera names with 30 s or more. It refuses an
+  episode with owner rulings.
+- **Checked on the owner's gold** with `--raw` on a copy of each pipeline raw.md, scored by
+  `compare_owner_edit.py`: 329, 735 and 413 wrong-label words on ep65, ep66 and ep67 (the test in
+  2.26 gave 337, 740 and 415; profiles now exclude only the episode itself, and the cast comes from
+  the camera instead of the gold).

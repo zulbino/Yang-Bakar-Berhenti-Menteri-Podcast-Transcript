@@ -143,6 +143,8 @@ def main():
                          "speaker raw.md credits with real word volume")
     ap.add_argument("--current", help="the raw.md the owner decisions were recorded against; "
                                       "defaults to the episode's committed raw.md")
+    ap.add_argument("--voice", action="store_true",
+                    help="NEW episodes: voice labels every word after the standard (voice_label_raw.py)")
     a = ap.parse_args()
 
     raw_path = common.raw_for_tag(a.tag)
@@ -261,6 +263,11 @@ def main():
     # lib_locate needs three.
     print("[7b/8] restore any owner-dictated word the rebuild reverted")
     must([PY, "scripts/check_owner_text.py", a.tag, "--write"])
+    # OWNER'S DECISION 2026-10-16: on a new episode, voice labels every word. It runs last, on
+    # the finished words, because that is the order measured on ep65-ep67 (ENGINEERING_LOG 2.26).
+    if a.voice:
+        print("[7c/8] voice labels every word (owner, 2026-10-16)")
+        must([PY, "scripts/voice_label_raw.py", a.tag, "--write"])
     print("[8/8] rewrite the navigation header (a rebuild wipes it) and verify")
     must([PY, "scripts/write_navigation.py", "--write"], quiet=True)
     run([PY, "scripts/check_owner_decisions.py", a.tag, str(raw), "--current", str(current)])
