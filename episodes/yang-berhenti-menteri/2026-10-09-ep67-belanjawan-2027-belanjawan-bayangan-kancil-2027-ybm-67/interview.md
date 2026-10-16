@@ -37,6 +37,14 @@ model: z-ai/glm-5.3@low
 note: Polished newspaper-style Q&A rewrite, kept in the original mixed English/Bahasa Melayu (closest to how it was actually spoken). Rewritten segment by segment, each segment gated on length, Malay density, figures and speaker labels. See raw.md for the unedited transcript, or interview-en.md / interview-ms.md for single-language versions.
 ---
 
+<!-- nav -->
+**Yang Berhenti Menteri episode 67 — Belanjawan 2027 & Belanjawan Bayangan Kancil 2027**  
+9 October 2026 · 3h 48m · [watch on YouTube](https://www.youtube.com/watch?v=WH54kzAN9cQ)
+
+This episode: [verbatim raw transcript](raw.md) · **interview, original mixed language** · [interview in English](interview-en.md) · [interview in Bahasa Melayu](interview-ms.md)  
+The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../README.ms.md) · [how these were made](../../../METHODOLOGY.md)
+<!-- /nav -->
+
 # Interview
 
 **Haziq:** Assalamualaikum dan salam sejahtera Podcast Yang Berhenti Menteri episod ke-67, episod Belanjawan, macam biasa bersama saudara Rafizi Ramli dan yang sudah semakin biasa bersama saudara Sum Dek Joe.

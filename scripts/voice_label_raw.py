@@ -41,6 +41,7 @@ import torch  # noqa: E402
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 import common  # noqa: E402
+import mai_camera_raw  # noqa: E402
 import verify_speaker_voiceprint as V  # noqa: E402
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -194,7 +195,7 @@ def main():
         m = TURN.match(line.strip())
         if m:
             turns.append((m.group(1).strip(), m.group(2).split()))
-    label_for = {name(l): l for l, _ in turns}
+    label_for = {**mai_camera_raw.CAMERA_NAME, **{name(l): l for l, _ in turns}}
     asr = [(w.lower(), x["t"] / 1000)
            for t in json.loads((ROOT / "data" / f"_mai_{vid}" / "mai_words.json").read_text(encoding="utf-8"))["turns"]
            for x in t["words"] for w in WORD.findall(x["w"] or "")]
