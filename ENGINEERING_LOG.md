@@ -7105,3 +7105,11 @@ a regex written in one became a control character twice; write scripts with the 
   474 and 880 wrong words on ep65 and ep66 (voice alone 329 and 735); ep67 unchanged at 413. So a
   sentence the voice splits between two speakers goes to the owner's ear (rule 7). ep68, the first
   voice episode, has 19 contested boundaries and 18 tails after adoption.
+
+### 2.28: Nemotron 3 Diarization beats voice on every gold episode; DiarizationLM makes it worse
+
+- **Measured** (table in MODEL_LANDSCAPE.md): Nemotron 3 per word 219/419/290/115 wrong-label
+  words on ep65-68, against 329/735/413/234 for voice per word; it finds 91-94% of the owner's
+  speaker changes. Google's DiarizationLM-8b-Fisher-v2 on top of it raised ep68 from 115 to 698.
+- **Not yet adopted.** `voice_label_raw.py` still writes the labels; switching needs the owner.
+- ep68 raw.md is the owner's corrected copy, installed; not committed until the fact check.

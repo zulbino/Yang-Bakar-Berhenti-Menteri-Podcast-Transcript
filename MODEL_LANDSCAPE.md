@@ -251,3 +251,32 @@ boundaries carry part of the error.
    the result a disagreement rate.
 3. Write down what you could not verify. An empty cell marked "no number exists" beats a
    number from a different yardstick.
+
+### Fourth measurement, 2026-10-18: NVIDIA Nemotron 3 Diarization and Google DiarizationLM
+
+Same test as the third: the pipeline's words keep their text, only labels change, scored with
+`compare_owner_edit.py` against the owner's final raw.md. ep68 is new: the owner corrected the
+voice copy, which favours voice.
+
+| wrong-label words | voice per word (shipped) | Nemotron 3 per word | Nemotron 3 + DiarizationLM |
+|---|---|---|---|
+| ep65 | 329 | **219** | not run |
+| ep66 | 735 | **419** | not run |
+| ep67 | 413 | **290** | not run |
+| ep68 | 234 | **115** | 698 |
+
+Owner's speaker changes found by Nemotron: 94.1%, 91.0%, 91.2%, 91.8% (voice: 70.6%, 63.4%,
+76.6%, 74.6%). Its own changes that are real: 70.7%, 88.7%, 79.9%, 91.9%.
+
+- **Nemotron 3 Diarization** (`nvidia/Nemotron-3-Diarization`, released 2026-09-23, OpenMDW
+  licence), offline preset, 10 ms frames, no speaker count given. It found 3 speakers in ep65,
+  ep66, ep68 and 4 in ep67 (Sum Dek Joe). Its anonymous speakers were named by one-to-one
+  assignment against the voice labels on the same words; each word takes the most active speaker
+  over its own ASR span. 3h15m of audio in 83 s on the RTX 2070. Runs in `D:\venvs\nemo312`
+  (Python 3.12, NeMo 3.1.0 from GitHub main; 3.0.0 lacks `rope` attention), with the eager
+  `flex_attention` because Windows has no triton, and the audio passed as an array because
+  NeMo's temporary manifest cannot be deleted on Windows.
+- **DiarizationLM-8b-Fisher-v2** (Google; Llama 3 8B fine-tuned on English Fisher), 4-bit, 28
+  chunks of 5,000 characters, about 2 minutes each: it made labels worse (115 to 698). The paper
+  reports the same for a model used outside its training data without fine-tuning. Not adopted;
+  fine-tuning on the owner's gold is the only route left and has not been tried.
