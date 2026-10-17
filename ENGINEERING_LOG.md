@@ -7113,3 +7113,15 @@ a regex written in one became a control character twice; write scripts with the 
   speaker changes. Google's DiarizationLM-8b-Fisher-v2 on top of it raised ep68 from 115 to 698.
 - **Not yet adopted.** `voice_label_raw.py` still writes the labels; switching needs the owner.
 - ep68 raw.md is the owner's corrected copy, installed; not committed until the fact check.
+
+### 2.29: Nemotron 3 labels new episodes; voice names its speakers (owner, 2026-10-18)
+
+- **Built:** `nemotron_diarize.py` (runs in `D:\venvs\nemo312`, Python 3.12) and a Nemotron step
+  in `voice_label_raw.py`. Each Nemotron speaker is named by the voice profile nearest to the
+  windows it alone holds; on ep65-68 the chosen name scored +0.94 to +0.97 and the next one at
+  most +0.66. Words Nemotron leaves silent (32 of 22,650 on ep68) keep the voice label.
+- **Checked** through the production path with `--raw` copies: 219, 419, 291 and 115 wrong-label
+  words on ep65-68, the same as the 2.28 test (ep67 290 there).
+- **rewrite_bakeoff.py `opencode:` provider.** OpenCode Zen's free tier refuses a direct API call
+  (FreeTierError), so it runs `opencode run` headless with the read-only `plan` agent from an
+  empty temp dir, prompt on stdin. Needs `OPENCODE_API_KEY`.

@@ -47,12 +47,16 @@ import verify_speaker_voiceprint as V  # noqa: E402
 ROOT = Path(__file__).resolve().parent.parent
 CACHE = ROOT / "data" / "_voice"
 WIN, HOP = 1.6, 1.0
+FRAME = 0.01                                     # Nemotron's output step
+NEMO_PY = os.environ.get("NEMO_PYTHON", r"D:\venvs\nemo312\Scripts\python.exe")
 TURN = re.compile(r"^\[[\d:]+\]\s*([^:\n\[\]]{1,40}?):\s*(.*)$")
 WORD = re.compile(r"[\w']+")
 NOTE = re.compile(r"Speaker labels come from the show(?:''|')s own camera cuts.*?fall back to it\.")
-NOTE_NOW = ("Speaker labels come from each word's voice (scripts/voice_label_raw.py, owner's decision "
-            "2026-10-16): WeSpeaker ResNet34 voice profiles learned from the camera seconds of other "
-            "episodes, or of this episode for a speaker no other episode has.")
+NOTE_NOW = ("Speaker labels come from NVIDIA Nemotron 3 Diarization at each word's own time "
+            "(scripts/voice_label_raw.py, owner's decisions 2026-10-16 and 2026-10-18); its speakers are "
+            "named by WeSpeaker ResNet34 voice profiles learned from the camera seconds of other episodes, "
+            "or of this episode for a speaker no other episode has, and a word Nemotron leaves silent takes "
+            "the voice profile's label.")
 
 
 def name(s):
@@ -119,6 +123,36 @@ def window_embeddings(inf, vid):
     return embs
 
 
+def nemotron_frames(vid):
+    """Per-speaker activity every 10 ms from Nemotron 3, run in its own Python 3.12 env (cached)."""
+    path = CACHE / f"{vid}_nemotron.npz"
+    if not path.exists():
+        V.load_audio(vid)                        # writes audio/_<vid>.16k.wav
+        subprocess.run([NEMO_PY, str(ROOT / "scripts" / "nemotron_diarize.py"),
+                        str(ROOT / "audio" / f"_{vid}.16k.wav"), str(path)], check=True, cwd=ROOT)
+    return np.load(path)["probs"]
+
+
+def name_nemotron(P, embs, profiles):
+    """Name each Nemotron speaker by the voice profile nearest to the windows it alone holds."""
+    names = sorted(profiles)
+    C = np.stack([profiles[n] for n in names])
+    out = {}
+    for k in range(P.shape[1]):
+        pool = []
+        for t0, e in embs:
+            a = P[int(t0 / FRAME):int((t0 + WIN) / FRAME)].mean(axis=0)
+            if a[k] > 0.5 and (np.delete(a, k) < 0.5).all():
+                pool.append(e)
+        if len(pool) >= 20:
+            c = np.mean(pool, axis=0)
+            sims = C @ (c / np.linalg.norm(c))
+            out[k] = names[int(np.argmax(sims))]
+            print(f"  nemotron speaker {k}: {len(pool)} windows -> {out[k]} "
+                  + ", ".join(f"{n} {s:+.2f}" for n, s in zip(names, sims)))
+    return out
+
+
 def voice_by_second(embs, profiles):
     names = sorted(profiles)
     C = np.stack([profiles[n] for n in names])
@@ -167,7 +201,11 @@ def main():
              if len(cast) < len(secs) else ""))
 
     inf = V._embedder()
+    P = nemotron_frames(vid)
     embs = window_embeddings(inf, vid)
+    wav = ROOT / "audio" / f"_{vid}.16k.wav"
+    if wav.exists():
+        wav.unlink()
     camera = {}
     for _, x, y, who in rttm_segments(reference):
         for s in range(int(x), int(y)):
@@ -189,6 +227,7 @@ def main():
         profiles[who] = c / np.linalg.norm(c)
         print(f"  profile {who}: {src}")
     voice = voice_by_second(embs, profiles)
+    nem_name = name_nemotron(P, embs, profiles)
 
     turns = []
     for line in body.splitlines():
@@ -196,18 +235,26 @@ def main():
         if m:
             turns.append((m.group(1).strip(), m.group(2).split()))
     label_for = {**mai_camera_raw.CAMERA_NAME, **{name(l): l for l, _ in turns}}
-    asr = [(w.lower(), x["t"] / 1000)
+    asr = [(w.lower(), x["t"] / 1000, x.get("d", 0) / 1000)
            for t in json.loads((ROOT / "data" / f"_mai_{vid}" / "mai_words.json").read_text(encoding="utf-8"))["turns"]
            for x in t["words"] for w in WORD.findall(x["w"] or "")]
     flat = [(lab, tok, (WORD.findall(tok.lower()) or [""])[0]) for lab, toks in turns for tok in toks]
-    sm = SequenceMatcher(None, [f[2] for f in flat], [w for w, _ in asr], autojunk=False)
-    times = [None] * len(flat)
+    sm = SequenceMatcher(None, [f[2] for f in flat], [a[0] for a in asr], autojunk=False)
+    times, durs = [None] * len(flat), [0.0] * len(flat)
     for x, y, n in sm.get_matching_blocks():
         for k in range(n):
-            times[x + k] = asr[y + k][1]
+            times[x + k], durs[x + k] = asr[y + k][1], asr[y + k][2]
     last = 0.0
     for k, t in enumerate(times):                # an unmatched word takes the previous word's time
         times[k] = last = t if t is not None else last
+
+    def nemotron_at(t, d):
+        """The named Nemotron speaker most active over the word's own span, or None."""
+        a = P[int(t / FRAME):max(int(t / FRAME) + 1, int((t + d) / FRAME))]
+        if not len(a):
+            return None
+        a = a.mean(axis=0)
+        return nem_name.get(int(a.argmax())) if a.max() > 0.5 else None
 
     def voice_at(t):
         for d in (0, -1, 1, -2, 2):
@@ -215,9 +262,11 @@ def main():
                 return voice[int(t) + d]
         return None
 
-    blocks, changed, by = [], 0, Counter()
-    for (lab, tok, _), t in zip(flat, times):
-        v = voice_at(t)
+    blocks, changed, by, src = [], 0, Counter(), Counter()
+    for (lab, tok, _), t, d in zip(flat, times, durs):
+        v = nemotron_at(t, d)
+        src["nemotron" if v else "voice"] += 1
+        v = v or voice_at(t)
         new = label_for.get(v, v) if v else lab
         changed += new != lab
         by[new] += 1
@@ -228,7 +277,8 @@ def main():
     print(f"words {len(flat)} | label changed {changed} ({changed / max(1, len(flat)):.1%}) | "
           f"matched to an ASR time {sum(1 for x in sm.get_matching_blocks() for _ in range(x[2]))} | "
           f"turns {len(turns)} -> {len(blocks)}")
-    print("  words per speaker: " + ", ".join(f"{w} {n}" for w, n in by.most_common()))
+    print("  words per speaker: " + ", ".join(f"{w} {n}" for w, n in by.most_common())
+          + f" | label from {dict(src)}")
     if not a.write:
         print("-- dry run, pass --write to relabel raw.md")
         return

@@ -114,7 +114,13 @@ python scripts/adopt_mai_camera_raw.py <tag>          # dry run: build, gate, re
 python scripts/adopt_mai_camera_raw.py <tag> --write --voice   # --voice: voice labels every word (owner, 2026-10-16, new episodes)
 ```
 
-`--voice` runs `voice_label_raw.py` last. The camera names the cast (30 s or more of camera
+`--voice` runs `voice_label_raw.py` last. From 2026-10-18 it first runs NVIDIA Nemotron 3
+Diarization (`scripts/nemotron_diarize.py`) through a SEPARATE Python 3.12 environment,
+`D:envs
+emo312` (override with `NEMO_PYTHON`): NeMo 3.1+ from GitHub main, CUDA torch reinstalled
+after NeMo (NeMo pulls the CPU build), eager flex_attention (no triton on Windows). Output is cached
+in `data/_voice/<vid>_nemotron.npz`, 10 ms frames. Each word takes the most active Nemotron speaker
+over its ASR span; each Nemotron speaker is named by the nearest voice profile below. The camera names the cast (30 s or more of camera
 time). Each cast member gets a WeSpeaker ResNet34 profile from up to 30 other episodes' camera
 seconds, or from this episode's camera seconds if fewer than 50 clips exist elsewhere. Each word
 takes the nearest profile at its ASR time (1.6 s windows every 1 s, 3-window majority). The

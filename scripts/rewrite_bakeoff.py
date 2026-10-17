@@ -241,6 +241,39 @@ def call_agy(model, prompt):
     return result["response"]
 
 
+def call_opencode(model, prompt):
+    """OpenCode Zen's free models, e.g. `opencode:deepseek-v4.1-flash-free`. The free tier answers
+    only the opencode client (a direct API call is refused with FreeTierError, 2026-10-18), so this
+    runs `opencode run` headless: the read-only `plan` agent, no --auto, from an EMPTY temp dir,
+    prompt on stdin. Needs OPENCODE_API_KEY. Zen's free models are offered for a limited time."""
+    import subprocess
+    import tempfile
+    env = dict(os.environ)
+    if not env.get("OPENCODE_API_KEY") and sys.platform == "win32":
+        env["OPENCODE_API_KEY"] = subprocess.run(
+            ["powershell", "-NoProfile", "-Command",
+             "[Environment]::GetEnvironmentVariable('OPENCODE_API_KEY','User')"],
+            capture_output=True, text=True).stdout.strip()
+    with tempfile.TemporaryDirectory(ignore_cleanup_errors=True) as empty:
+        r = subprocess.run(["opencode", "run", "-m", f"opencode/{model}", "--agent", "plan",
+                            "--format", "json"], input=prompt, cwd=empty, capture_output=True,
+                           text=True, encoding="utf-8", env=env, timeout=900, shell=sys.platform == "win32")
+    parts = []
+    for line in r.stdout.splitlines():
+        try:
+            e = json.loads(line)
+        except json.JSONDecodeError:
+            continue
+        if e.get("type") == "text":
+            parts.append(e.get("part", {}).get("text", ""))
+        elif e.get("type") == "error":
+            raise RuntimeError(json.dumps(e)[:300])
+    text = "".join(parts).strip()
+    if not text:
+        raise RuntimeError(f"exit {r.returncode}: {(r.stdout + r.stderr)[-300:]}")
+    return text
+
+
 def call_lmstudio(model, prompt):
     """A model loaded in LM Studio on this PC (`lms load <key> --identifier <model>`), through
     its OpenAI-compatible server on port 1234, or any llama-server named by LOCAL_LLM_URL.
@@ -264,7 +297,7 @@ def call_lmstudio(model, prompt):
 
 CALLERS = {"claude": call_claude, "gemini": call_gemini, "openrouter": call_openrouter,
           "nvidia": call_nvidia, "moonshot": call_moonshot, "orcarouter": call_orcarouter,
-          "agy": call_agy, "lmstudio": call_lmstudio}
+          "agy": call_agy, "lmstudio": call_lmstudio, "opencode": call_opencode}
 
 
 def names_for(video_id):
