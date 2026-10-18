@@ -180,6 +180,7 @@ def main():
     bare = a.tag.partition(":")[0]
     rulings = json.loads((ROOT / "data" / "speaker_adjudications.json").read_text(encoding="utf-8"))
     hit = [k for k in rulings if re.search(rf"(^|[^0-9a-z]){re.escape(bare)}_", k)]
+    hit = [k for k in hit if isinstance(rulings[k], dict)]
     if hit and not a.raw:
         sys.exit(f"REFUSING: {a.tag} has owner rulings ({', '.join(hit)}), which outrank the voice. "
                  f"This tool is for new episodes (owner, 2026-10-16).")
@@ -263,7 +264,35 @@ def main():
         return None
 
     blocks, changed, by, src = [], 0, Counter(), Counter()
-    for (lab, tok, _), t, d in zip(flat, times, durs):
+    # Owner's decision 2026-10-18: an episode with rulings is relabelled too, but every word of a
+    # ruled turn keeps the owner's speaker. The ruling's `text_now` is found by its words.
+    locked = {}
+    norm = [f[2] for f in flat]
+    for sec in hit:
+        for k, r in rulings[sec].items():
+            if not (k[:1].isdigit() and isinstance(r, dict) and r.get("who") and r.get("text_now")):
+                continue
+            want = [(WORD.findall(x.lower()) or [""])[0] for x in r["text_now"].split()]
+            for i in range(len(norm) - len(want) + 1):
+                if want and norm[i:i + len(want)] == want:
+                    locked.update({j: r["who"] for j in range(i, i + len(want))})
+                    break
+            else:
+                print(f"  ruling {sec} {k} not found in the text; its turn is NOT locked")
+    if hit:
+        print(f"  {len(locked)} words locked to the owner's rulings")
+
+    for i, ((lab, tok, _), t, d) in enumerate(zip(flat, times, durs)):
+        if i in locked:
+            src["owner"] += 1
+            new = locked[i]
+            changed += new != lab
+            by[new] += 1
+            if blocks and blocks[-1][1] == new:
+                blocks[-1][2].append(tok)
+            else:
+                blocks.append((t, new, [tok]))
+            continue
         v = nemotron_at(t, d)
         src["nemotron" if v else "voice"] += 1
         v = v or voice_at(t)
