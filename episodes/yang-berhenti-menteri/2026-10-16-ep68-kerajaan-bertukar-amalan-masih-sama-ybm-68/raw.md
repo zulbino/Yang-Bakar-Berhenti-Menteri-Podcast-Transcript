@@ -287,7 +287,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [52:00] Haziq: Dan blockchain.
 
-[52:01] Rafizi: Dan blockchain kan. Syarikat AI dan blockchain kan. Dan benda itu serasi dengan penekanan yang dibuat oleh kerajaan mengenai AI dan blockchain kan. Dan ada banyak-banyak bukti yang mana ada hubungan yang rapat di antara jabatan-jabatan kerajaan, khidmat-khidmat kerajaan dengan Zetrix. Jadi, bagi saya... Yalah, kalau saya di SPRM ke, kalau saya di Suruhanjaya Security ke, kalau saya di Commercial Crime PDRM kan, ataupun yalah Investigative Journalist. Yang ini dah, aku dah hidu, aku dah seronok pergi semak lah kan. Tapi yalah, ini Malaysia.
+[52:01] Rafizi: Dan blockchain kan. Syarikat AI dan blockchain kan. Dan benda itu serasi dengan penekanan yang dibuat oleh kerajaan mengenai AI dan blockchain kan. Dan ada banyak-banyak bukti yang mana ada hubungan yang rapat di antara jabatan-jabatan kerajaan, khidmat-khidmat kerajaan dengan Zetrix. Jadi, bagi saya... Yalah, kalau saya di SPRM ke, kalau saya di Suruhanjaya Sekuriti ke, kalau saya di Commercial Crime PDRM kan, ataupun yalah Investigative Journalist. Yang ini dah, aku dah hidu, aku dah seronok pergi semak lah kan. Tapi yalah, ini Malaysia.
 
 [52:52] Haziq: Mungkin kita pergi satu-satu terus, YB?
 
@@ -323,7 +323,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [57:42] Rafizi: Uhhh... Yang 2026 itu ialah International Finance Corporation invested... Memanglah World Bank Group bila dia tengok Zetrix ni semua mengusahakan benda-benda besar untuk kerajaan. Dia pun melabur dalam Zetrix. Kemudian 11 Mac, Syarikat dengan INCEIF, Zetrix dan INCEIF. ok ah. telah menandatangani satu kerjasama strategik untuk membangunkan next generation Islamic finance AI built on NurAI. Nanti ada, aaah, itu gambar yang kat bawah tu kan so tengok yang pertama tu TS Wong tu yang paling kiri sekali kan. Hebatnya dia, dia boleh present direct kepada Datuk Seri Anwar lah. Sebab lepas ini ceplos akan kata tak ada kena-mengena, tak ada kena-mengena. Ni korang tengok betul-betul rapatnya. Gambar kedua itu ialah mengenai JAKIM dan juga Zetrix. Menandatangani satu perjanjian disaksikan sendiri oleh Perdana Menteri. Kemudian of course April 2026 tu, ini baru lagi ni, maksudnya financial statements ni laporan tahunan ni keluar dalam 2-3 bulan lepas ni, dia dilantik oleh SOCSO pula untuk menjadi ejen di bawah satu skim SOCSO Self-Employment Social Security Scheme untuk isteri-isteri pula dah, SOCSO ni di bawah Ramanan. baik ya. now let's go back to apa nama ni MyDigital ID, go back to slide sebelum itu, yang penting sekali yang... Bukan, yang the next one. Tu ha, 24 Januari 2025 kan, tengok eh. MyDigital ID kan. Korang ingat tak cerita MyDigital ID ni? Bila MyDigital ID?
 
-[59:48] Farhan (Pa'an): Saya ingat masa dekat... Tentu kita kat kementerian lagi kan? So, tiba-tiba ada push untuk semua orang dalam kementerian, sign up for MyDigital ID
+[59:48] Farhan (Pa'an): Saya ingat masa dekat... Time tu kita kat kementerian lagi kan? So, tiba-tiba ada push untuk semua orang dalam kementerian, sign up for MyDigital ID
 
 [59:58] Haziq: Saya ingat semua orang kena pun.
 
