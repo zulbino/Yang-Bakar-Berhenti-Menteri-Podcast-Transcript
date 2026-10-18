@@ -7125,3 +7125,21 @@ a regex written in one became a control character twice; write scripts with the 
 - **rewrite_bakeoff.py `opencode:` provider.** OpenCode Zen's free tier refuses a direct API call
   (FreeTierError), so it runs `opencode run` headless with the read-only `plan` agent from an
   empty temp dir, prompt on stdin. Needs `OPENCODE_API_KEY`.
+
+### 2.30: Rewrite-engine re-test on ep68 (segments 0, 16, 22): GLM-5.3 stays
+
+Production settings (`--condense`, mixed stage, 1 try), the same gate for every arm.
+
+| arm | accepted | why the rest failed |
+|---|---|---|
+| `nvidia:z-ai/glm-5.3@low` (current) | 3/3, figures 10/10, 33/33, 6/6 | none (seg 0 dropped one `Zetrix`) |
+| `opencode:deepseek-v4.1-flash-free` | 1/3 | the read-only `plan` agent wrote a plan, not the text |
+| `opencode:glm-5.3-flash-free` | 0/3 | output stopped at a length limit |
+| `opencode:nemotron-3-ultra-free` | 1/3 | HTTP 503, upstream NVIDIA overloaded |
+| `agy:gemini-3.8-flash-high` | 0/3 | Malay 0.10-0.32 (it writes English); 429 quota on one; 6 min per segment |
+| `agy:gemini-3.8-flash-medium` | 0/3 | Malay 0.14-0.48; 429 quota on one |
+
+OpenCode Zen's free tier answers only OpenCode's own agents: a custom tool-less agent is refused
+(403, "can only be used from within OpenCode"), `plan` writes plans, and `build` can edit files and
+run commands, so it is not used for transcript text. Not worked around. A paid Zen model or
+DeepSeek's own API would test the model itself.
