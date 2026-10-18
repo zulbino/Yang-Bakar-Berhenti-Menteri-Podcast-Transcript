@@ -314,6 +314,47 @@ def build_prompt(stage, source, names, extra, title=None):
                                             mixed_text=source)
 
 
+# Owner's design 2026-10-18: GLM writes, a second model checks. On ep68 Haiku 5.5 kept a clause
+# GLM-5.3 dropped in all nine tries ("you dah spend 20 tahun"), while GLM kept the Malay Haiku
+# anglicised. So the checker never writes text: its findings go back to the writer as an
+# instruction for the next try. Set by --check; empty turns it off.
+CHECK_MODEL = "claude:claude-haiku-5-5"
+CHECK_PROMPT = """You are a fact-checker comparing a SOURCE transcript with a REWRITE of it.
+
+The rewrite is {what}. It is SUPPOSED to cut filler, repetition, restated points and verbal padding, so a removed repetition is NOT a problem. Report only these four kinds of error:
+1. dropped: a claim, argument, figure with its meaning, date, name, organisation, example or anecdote in the source that the rewrite lost or blurred (e.g. "20 tahun" became "berpuluh-puluh tahun").
+2. changed: a number, date, name or fact that the rewrite changed or attached to the wrong thing.
+3. speaker: a sentence placed under a different speaker label than in the source.
+4. invented: a claim, opinion or fact the source does not contain.
+
+Output ONLY a JSON array, no other text. Each item: {{"kind": "dropped|changed|speaker|invented", "source": "<exact short quote from the source>", "problem": "<one sentence>", "fix": "<one instruction to the writer>"}}. Output [] when there is nothing to report. Report only clear errors, at most 8.
+
+SOURCE:
+---
+{source}
+---
+
+REWRITE:
+---
+{text}
+---"""
+CHECK_WHAT = {"mixed": "a condensed printed Q&A in the same mixed English and Malay",
+              "en": "an English translation of the source", "ms": "a Bahasa Melayu translation of the source"}
+
+
+NOTES_HEADER = ("\n\nYour earlier versions of this text had these errors. Write the whole text again "
+                "and fix ALL of them:\n")
+
+
+def check_with_model(stage, source, text):
+    """The checker's findings as a list; an empty list when it finds nothing."""
+    caller, model = parse_model(CHECK_MODEL)
+    raw = caller(model, CHECK_PROMPT.format(what=CHECK_WHAT[stage], source=source, text=text))
+    m = re.search(r"\[.*\]", raw, re.S)
+    findings = json.loads(m.group(0)) if m else []
+    return [f for f in findings if isinstance(f, dict) and f.get("kind")]
+
+
 def run_segment(stage, index, source, names, extra, caller, model, tries, workdir, title=None):
     """Try up to `tries` times; write the first passing output as segNN.md. Returns report."""
     out = workdir / stage
@@ -321,8 +362,8 @@ def run_segment(stage, index, source, names, extra, caller, model, tries, workdi
     accepted = out / f"seg{index:02d}.md"
     if accepted.exists():
         return {"index": index, "stage": stage, "status": "cached"}
-    prompt = build_prompt(stage, source, names, extra, title)
-    attempts = []
+    base_prompt = prompt = build_prompt(stage, source, names, extra, title)
+    attempts, notes = [], []                   # notes ADD UP: a later try must not undo an earlier fix
     for k in range(1, tries + 1):
         began = time.time()
         try:
@@ -346,15 +387,38 @@ def run_segment(stage, index, source, names, extra, caller, model, tries, workdi
             report["jev_accepted_flagged"] = True
             accepted.write_text(text, encoding="utf-8")
             break
+        if not report["failures"] and CHECK_MODEL:
+            try:
+                findings = check_with_model(stage, source, text)
+            except Exception as exc:
+                findings, report["check_error"] = [], str(exc)[:200]
+            report["check"] = findings
+            if findings and k < tries:
+                report["failures"] = [f"check: {len(findings)} finding(s)"]
+                notes += [f"[{f['kind']}] {f.get('problem', '')} Fix: {f.get('fix', '')} "
+                          f"(source: \"{f.get('source', '')}\")" for f in findings]
+                prompt = base_prompt + NOTES_HEADER + "\n".join(f"- {n}" for n in notes)
+                (out / f"seg{index:02d}.try{k}.md").write_text(text, encoding="utf-8")
+                continue
+            if findings:                       # last try: accept, a person reads the findings
+                report["check_accepted_flagged"] = True
         if not report["failures"]:
             accepted.write_text(text, encoding="utf-8")
             break
+        # A gate failure goes back to the writer too. Without it every retry resent the same
+        # prompt, and ep68 seg 14 dropped "you dah spend 20 tahun" in nine tries out of nine.
+        if not report.get("check"):
+            notes += [f for f in report["failures"] if f not in notes]
+            notes += [n for n in (f"keep this figure, in its own sentence: ...{c}..."
+                                  for c in report.get("figures_missing_context", [])) if n not in notes]
+            prompt = base_prompt + NOTES_HEADER + "\n".join(f"- {n}" for n in notes)
     (out / f"seg{index:02d}.json").write_text(
         json.dumps({"stage": stage, "index": index, "model": model, "attempts": attempts},
                    indent=1, ensure_ascii=False), encoding="utf-8")
     last = attempts[-1] if attempts else {}
     return {"index": index, "stage": stage,
             "status": ("ok, JEV FLAG: read it" if last.get("jev_accepted_flagged")
+                       else "ok, HAIKU FLAG: read it" if last.get("check_accepted_flagged")
                        else "ok" if accepted.exists() else "FAILED"),
             "tries": len(attempts), "last": last}
 
@@ -400,6 +464,8 @@ def describe(result):
         line += "\n" + "".join(f"        - {f}\n" for f in last["failures"]).rstrip("\n")
     if last.get("names_dropped"):
         line += f"\n        names dropped: {last['names_dropped']}"
+    for f in last.get("check", []):
+        line += f"\n        check [{f.get('kind')}] {f.get('problem', '')[:150]}"
     for ctx in last.get("figures_missing_context", []):
         line += f"\n        figure context: ...{ctx}..."
     return line
@@ -484,6 +550,7 @@ def write_episode(episode, workdir, count, clean_model):
 
 
 def main():
+    global CHECK_MODEL
     ap = argparse.ArgumentParser()
     ap.add_argument("tag", help="episode tag, e.g. ep62")
     ap.add_argument("--segments", help="json from segment_episode.py (default data/_<tag>_segments.json)")
@@ -491,6 +558,8 @@ def main():
     ap.add_argument("--model", default="nvidia:z-ai/glm-5.3@low",
                     help="provider:model; provider is one of rewrite_bakeoff.CALLERS. The owner "
                          "chose nvidia:z-ai/glm-5.3@low on 2026-09-25 after ep00")
+    ap.add_argument("--check", default=CHECK_MODEL,
+                    help="provider:model of the fact-checker (owner, 2026-10-18); '' turns it off")
     ap.add_argument("--stage", nargs="*", default=STAGES, choices=STAGES)
     ap.add_argument("--only", nargs="*", type=int, help="segment indices to run")
     ap.add_argument("--tries", type=int, default=3)
@@ -550,6 +619,7 @@ def main():
     if a.condense:
         extra = HALF_LENGTH_INSTRUCTION + ("\n\n" + extra if extra else "")
     caller, model = parse_model(a.model)
+    CHECK_MODEL = a.check
     indices = a.only if a.only else list(range(len(segments)))
     if "mixed" in a.stage:
         # Owner's rule 2026-09-27: raw.md is fact-checked (check_raw_facts.py --record)

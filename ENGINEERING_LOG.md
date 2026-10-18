@@ -7143,3 +7143,18 @@ OpenCode Zen's free tier answers only OpenCode's own agents: a custom tool-less 
 (403, "can only be used from within OpenCode"), `plan` writes plans, and `build` can edit files and
 run commands, so it is not used for transcript text. Not worked around. A paid Zen model or
 DeepSeek's own API would test the model itself.
+
+### 2.31: GLM-5.3 writes, Haiku 5.5 checks; failures go back to the writer (owner, 2026-10-18)
+
+- **Built in `rewrite_segments.py`.** After a GLM output passes the gate, Haiku 5.5 (`--check`,
+  `claude -p`, Pro quota) compares it with the source on all three stages and returns findings:
+  dropped, changed, speaker, invented. Findings go back to GLM as an instruction; Haiku never
+  writes text. A last try that still has findings is accepted and marked `HAIKU FLAG: read it`.
+- **Gate failures now go back to the writer too**, with the source sentence of each missing
+  figure, and the notes ADD UP across tries. Before, every retry resent the same prompt: ep68
+  seg 14 dropped "you dah spend 20 tahun" in 9 tries of 9. With the loop, try 5 kept it and
+  Haiku found nothing more (tries 3 and 4: Haiku found 2, then 1 dropped claim).
+- **Conflict found:** ep68 seg 13 passed the gate on try 1 with 2 Haiku findings; restoring those
+  claims raised English density to 1.26-1.29 (> 1.20), because the speaker reads English filings
+  there. Left for the owner.
+- NVIDIA returned HTTP 504 on about a quarter of GLM tries on 2026-10-18.
