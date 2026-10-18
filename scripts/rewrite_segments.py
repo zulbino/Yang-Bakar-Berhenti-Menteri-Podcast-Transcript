@@ -126,6 +126,17 @@ def english_count(text):
     return sum(1 for w in re.findall(r"[a-z']+", _without_labels(text).lower()) if w in ENGLISH)
 
 
+# Owner's rule 2026-10-18: "for anything that he read verbatim, dont shorten it". Read-aloud text
+# is printed word for word in quotation marks (prompt rule 9), so English inside a quotation of six
+# words or more is the document's language, not anglicising, and the English gates skip it. The
+# checker verifies that quoted text really was read from a document.
+QUOTED = re.compile(r"[\"“]([^\"”\n]+)[\"”]")
+
+
+def without_readings(text):
+    return QUOTED.sub(lambda m: " " if len(m.group(1).split()) >= 6 else m.group(0), text)
+
+
 def labels_of(text, source):
     if source:
         return set(SOURCE_LABEL_RE.findall(text))
@@ -168,7 +179,7 @@ def measure(stage, source, text, names):
         # 0 / max(1, 0) failed it on every try.
         "malay_ratio": (round(malay_count(text) / malay_count(body), 3) if malay_count(body)
                         else 1.0),
-        "english_ratio": round(english_count(text) / max(1, english_count(body)), 3),
+        "english_ratio": round(english_count(without_readings(text)) / max(1, english_count(body)), 3),
         "figures_total": len(fig_in),
         "figures_missing": sorted(fig_in - fig_out - worded),
         "figures_missing_context": [
@@ -256,6 +267,7 @@ Rules:
 6. Keep the language of each clause as spoken, including mid-sentence code-switching between English and Malay. Do not translate a clause into the other language. Keep colloquial Malay function words ("tak", "ni", "tu", "kita", "sebab", "macam", "kalau", "je", "pun").
 7. A short reply that carries no content ("Ya.", "Betul.", "Okey.") can be dropped when the next turn continues the same speaker's point.
 8. No timestamps, no headings, no frontmatter, no commentary before or after. Output the Q&A body only.
+9. When a speaker READS ALOUD from a document (a slide, annual report, news report, filing, statement or letter), print what they read word for word, inside double quotation marks, in the language it was read. Never shorten, paraphrase or translate read-aloud text; rule 4 does not apply to it. Use quotation marks only for read-aloud text.
 
 Raw transcript:
 ---
@@ -326,8 +338,9 @@ The rewrite is {what}. It is SUPPOSED to cut filler, repetition, restated points
 2. changed: a number, date, name or fact that the rewrite changed or attached to the wrong thing.
 3. speaker: a sentence placed under a different speaker label than in the source.
 4. invented: a claim, opinion or fact the source does not contain.
+5. reading: text the speaker READ ALOUD from a document (slide, report, filing, news clipping, statement) that the rewrite shortened, paraphrased or left out of quotation marks; or text in quotation marks that the speaker did NOT read from a document. Read-aloud text must be word for word.
 
-Output ONLY a JSON array, no other text. Each item: {{"kind": "dropped|changed|speaker|invented", "source": "<exact short quote from the source>", "problem": "<one sentence>", "fix": "<one instruction to the writer>"}}. Output [] when there is nothing to report. Report only clear errors, at most 8.
+Output ONLY a JSON array, no other text. Each item: {{"kind": "dropped|changed|speaker|invented|reading", "source": "<exact short quote from the source>", "problem": "<one sentence>", "fix": "<one instruction to the writer>"}}. Output [] when there is nothing to report. Report only clear errors, at most 8.
 
 SOURCE:
 ---

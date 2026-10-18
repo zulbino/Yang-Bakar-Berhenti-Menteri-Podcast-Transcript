@@ -636,6 +636,9 @@ CORRECTIONS = [
     (r"\bSani Hamzan\b", "Sany Hamzan",
      "Mohd Sany Hamzan, AMANAH MP for Hulu Langat (en.wikipedia.org/wiki/Mohd_Sany_Hamzan). ep26 x4 "
      "sits beside `Ya, hulu langat`; ep68 x1."),
+    (r"\bSuruhanjaya Security\b", "Suruhanjaya Sekuriti",
+     "the Securities Commission's Malay name (data/agency_roster.json). Owner's ear 2026-10-18: "
+     "ep68 52:20 says Sekuriti; the only corpus hit."),
     (r"\bUGSB\b", "UJSB",
      "Urusharta Jamaah Sdn Bhd, Tabung Haji's asset vehicle; the owner corrected ep68's `ugsb` to "
      "`UJSB` 8 times by ear. ep57, ep59, ep61 and ep68 hold the garble, all about Tabung Haji."),
