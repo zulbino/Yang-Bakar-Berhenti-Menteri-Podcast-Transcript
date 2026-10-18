@@ -67,6 +67,8 @@ KEEP = [
                                      # "there was one time, Abi came, it was really
                                      # rushed". The Malay above is held back, so its
                                      # translation has to be too.
+    r"\bObi-Wan\b",                  # ep68 1:36:05, Star Wars: "Darth Vader. Kau ingat kan,
+                                     # Obi-wan kata, you are the chosen one"
     r"\bdeliver\s+our\s+baby\b",    # ep21 interview-en, a real birth: "my wife was
                                      # still in hospital about to deliver our baby"
 ]

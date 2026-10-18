@@ -616,6 +616,31 @@ CORRECTIONS = [
      "all three published files, and ep61 once. The lookahead is the whole safety of it: "
      "`Pak Anwar` must never be touched, and the corpus writes the Prime Minister as "
      "`Datuk Seri Anwar` everywhere, so there is nothing else this can reach."),
+    # ep68 fact check, 2026-10-18 (check_raw_facts.py; the owner's hand-edited raw.md).
+    (r"\bZatrix\b", "Zetrix",
+     "ep68 x2, missed in the owner's edit beside 108 correct `Zetrix`: Zetrix AI Berhad, formerly "
+     "MY E.G. Services Berhad (zetrix.com)."),
+    (r"\b[Cc]uskapi\b", "Cuscapi",
+     "ep68 x13 in the owner's copy. The listed company is Cuscapi Bhd: The Edge "
+     "(theedgemalaysia.com/node/818433) and NST on TS Wong's Cuscapi stake, Sept 2026."),
+    (r"(?i)\b(?:heitech|heiteck|hightech|high tech)(?= padu\b)", "HeiTech",
+     "HeiTech Padu Berhad (The Star 2025-10-13, NIISe contract). ep68 x16 (Heitech, Heiteck, "
+     "Hightech, heitech) and ep29's `high tech padu`; case-insensitive, and only before `Padu`."),
+    (r"\bKoumintang\b", "Kuomintang",
+     "ep68 x2 beside 6 correct `Kuomintang`, Chiang Kai-shek's party."),
+    (r"\bKai-Shek\b", "Kai-shek",
+     "ep68: the standard romanisation is Chiang Kai-shek; the file already writes `Kai-shek` x4."),
+    (r"\bSakmut\b", "Sakmud",
+     "ep68 x3, `Mustapha Sakmut`: Datuk Mustapha Sakmud, Sabah PKR chairman, MP Sepanggar "
+     "(NST 2024-05, en.wikipedia.org/wiki/Mustapha_Sakmud)."),
+    (r"\bSani Hamzan\b", "Sany Hamzan",
+     "Mohd Sany Hamzan, AMANAH MP for Hulu Langat (en.wikipedia.org/wiki/Mohd_Sany_Hamzan). ep26 x4 "
+     "sits beside `Ya, hulu langat`; ep68 x1."),
+    (r"\bUGSB\b", "UJSB",
+     "Urusharta Jamaah Sdn Bhd, Tabung Haji's asset vehicle; the owner corrected ep68's `ugsb` to "
+     "`UJSB` 8 times by ear. ep57, ep59, ep61 and ep68 hold the garble, all about Tabung Haji."),
+    (r"\bHuawei Teknologies\b", "Huawei Technologies",
+     "ep68 x1, read from an announcement slide: Huawei Technologies (Malaysia) Sdn Bhd."),
     (r"\bPaan\b", "Pa'an",
      "Same person, same 2026-09-10 decision, 15 occurrences: ep48 x5 (`menjawab yang Paan kan`, "
      "`yang macam Paan kata tadi`), ep44, and a few more. Word-anchored so it cannot reach "
