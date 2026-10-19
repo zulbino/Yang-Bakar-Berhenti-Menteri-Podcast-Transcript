@@ -41,7 +41,8 @@ import torch  # noqa: E402
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 import common  # noqa: E402
-import mai_camera_raw  # noqa: E402
+import mai_camera_raw
+import snap_switches  # noqa: E402
 import verify_speaker_voiceprint as V  # noqa: E402
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -175,12 +176,16 @@ def main():
                     help="other-episode clips below which this episode's camera seconds are used")
     ap.add_argument("--raw", help="relabel this copy instead of the episode's raw.md, to score it "
                                   "against the owner's gold with compare_owner_edit.py")
+    ap.add_argument("--no-lock", action="store_true",
+                    help="ignore the owner's rulings, to score against the owner's gold without leaking it")
     a = ap.parse_args()
 
     bare = a.tag.partition(":")[0]
     rulings = json.loads((ROOT / "data" / "speaker_adjudications.json").read_text(encoding="utf-8"))
-    hit = [k for k in rulings if re.search(rf"(^|[^0-9a-z]){re.escape(bare)}_", k)]
-    hit = [k for k in hit if isinstance(rulings[k], dict)]
+    # A section is `ep09_...` for a unique tag and `ep02:berhenti_...` for a shared one.
+    hit = [k for k in rulings if re.search(rf"(^|[^0-9a-z]){re.escape(bare)}_", k)
+           or k.startswith(a.tag + "_")]
+    hit = [] if a.no_lock else [k for k in hit if isinstance(rulings[k], dict)]
     if hit and not a.raw:
         sys.exit(f"REFUSING: {a.tag} has owner rulings ({', '.join(hit)}), which outrank the voice. "
                  f"This tool is for new episodes (owner, 2026-10-16).")
@@ -273,36 +278,38 @@ def main():
             if not (k[:1].isdigit() and isinstance(r, dict) and r.get("who") and r.get("text_now")):
                 continue
             want = [(WORD.findall(x.lower()) or [""])[0] for x in r["text_now"].split()]
-            for i in range(len(norm) - len(want) + 1):
-                if want and norm[i:i + len(want)] == want:
-                    locked.update({j: r["who"] for j in range(i, i + len(want))})
-                    break
+            # A short ruling ("Okey, baik.") occurs many times: take the occurrence nearest its stamp.
+            at = sum(int(x) * 60 ** n for n, x in enumerate(reversed(k.split(":"))))
+            hits = [i for i in range(len(norm) - len(want) + 1) if want and norm[i:i + len(want)] == want]
+            if hits:
+                i = min(hits, key=lambda i: abs(times[i] - at))
+                locked.update({j: r["who"] for j in range(i, i + len(want))})
             else:
                 print(f"  ruling {sec} {k} not found in the text; its turn is NOT locked")
     if hit:
         print(f"  {len(locked)} words locked to the owner's rulings")
 
+    labels = []
     for i, ((lab, tok, _), t, d) in enumerate(zip(flat, times, durs)):
         if i in locked:
             src["owner"] += 1
-            new = locked[i]
-            changed += new != lab
-            by[new] += 1
-            if blocks and blocks[-1][1] == new:
-                blocks[-1][2].append(tok)
-            else:
-                blocks.append((t, new, [tok]))
+            labels.append(locked[i])
             continue
         v = nemotron_at(t, d)
         src["nemotron" if v else "voice"] += 1
         v = v or voice_at(t)
-        new = label_for.get(v, v) if v else lab
+        labels.append(label_for.get(v, v) if v else lab)
+    # Owner's decision 2026-10-19: a switch within 2 words of a sentence end moves to it (measured
+    # on ep65-68: 1,044 -> 972 wrong-label words, every episode better). Locked words never move.
+    moved = snap_switches.snap(labels, [f[1] for f in flat], k=2, frozen=set(locked))
+    for (lab, tok, _), t, new in zip(flat, times, labels):
         changed += new != lab
         by[new] += 1
         if blocks and blocks[-1][1] == new:
             blocks[-1][2].append(tok)
         else:
             blocks.append((t, new, [tok]))
+    print(f"  {moved} switches moved to a sentence edge")
     print(f"words {len(flat)} | label changed {changed} ({changed / max(1, len(flat)):.1%}) | "
           f"matched to an ASR time {sum(1 for x in sm.get_matching_blocks() for _ in range(x[2]))} | "
           f"turns {len(turns)} -> {len(blocks)}")

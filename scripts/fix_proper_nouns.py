@@ -636,6 +636,9 @@ CORRECTIONS = [
     (r"\bSani Hamzan\b", "Sany Hamzan",
      "Mohd Sany Hamzan, AMANAH MP for Hulu Langat (en.wikipedia.org/wiki/Mohd_Sany_Hamzan). ep26 x4 "
      "sits beside `Ya, hulu langat`; ep68 x1."),
+    (r"\blokar\b", "lokap",
+     "police lock-up. Owner 2026-10-19 on ep10 0:34:48 ('masuk lokar'); ep14's 'baju lokar' is "
+     "the same word, the lock-up clothes."),
     (r"\bSuruhanjaya Security\b", "Suruhanjaya Sekuriti",
      "the Securities Commission's Malay name (data/agency_roster.json). Owner's ear 2026-10-18: "
      "ep68 52:20 says Sekuriti; the only corpus hit."),

@@ -7158,3 +7158,26 @@ DeepSeek's own API would test the model itself.
   claims raised English density to 1.26-1.29 (> 1.20), because the speaker reads English filings
   there. Left for the owner.
 - NVIDIA returned HTTP 504 on about a quarter of GLM tries on 2026-10-18.
+
+### 2.32: Nemotron relabel of the uncorrected episodes; switches snap to a sentence end (owner, 2026-10-19)
+
+- **Relabel batch** (`relabel_batch.py`): all 73 uncorrected episodes into review copies under
+  `data/_relabel/`, 2-5% of words changed in most, 12-20% in the two forums. Owner's ear on 15 of
+  the largest changes (ep04:bakar, ep10, ep33): the long passage was right in 14; the errors were
+  1-8 words at a switch where two people overlap. Those answers are rulings, locked by
+  `voice_label_raw.py`. A lock bug skipped `epNN:<show>_` sections; fixed, 23 of 23 kept on re-run.
+- **Snap** (`snap_switches.py`, called by `voice_label_raw.py`): a switch within 2 words of `. ? !`
+  moves there; locked words never move. Owner's gold, wrong-label words ep65/66/67/68:
+
+  | | ep65 | ep66 | ep67 | ep68 | total |
+  |---|---|---|---|---|---|
+  | Nemotron | 219 | 419 | 291 | 115 | 1,044 |
+  | snap K=1 | 211 | 395 | 271 | 106 | 983 |
+  | **snap K=2** | 207 | 383 | 280 | 102 | **972** |
+  | snap K=3 | 207 | 386 | 297 | 108 | 998 |
+  | K=2 + comma | 207 | 392 | 300 | 118 | 1,017 |
+
+  Of the 972 left, 503 sit in regions of 1-3 words, mostly short replies over the other speaker,
+  which no punctuation marks. Fine-tuning Nemotron is the next test. ep65's 219 needs
+  `raw_pipeline_v2.md` as input; `raw_pipeline.md` gives 388. `--no-lock` keeps rulings out of a
+  gold test.
