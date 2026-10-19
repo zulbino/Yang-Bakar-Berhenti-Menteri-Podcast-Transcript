@@ -7196,3 +7196,16 @@ DeepSeek's own API would test the model itself.
 - **Decision:** keep the released Nemotron plus the snap. Re-open only with a different label
   design (turn spans rather than word spans) or more corrected episodes.
 - `voice_label_raw.py` deletes `audio/_<vid>.16k.wav` after use; the fine-tune data step rebuilds it.
+
+### 2.34: The Nemotron relabel is published for 67 episodes; rule 7 becomes a measured rate for them (owner, 2026-10-20)
+
+- **Published:** 67 of the 73 uncorrected episodes, from `data/_relabel/` (Nemotron + snap + rulings
+  locked + `Audience` kept). Held: ep19, ep31, ep47, ep53, ep61, ep62, where `check_owner_decisions.py`
+  reports a ruling lost; their rulings use a record shape the lock does not read yet.
+- **Rule 7 on these episodes.** `check_overlap_boundaries.py` takes the camera as the referee and
+  rose from 4 contested + 7 tails to 202 + 134 on the relabel. `check_overlap_nemotron.py` flags a
+  switch where Nemotron itself is unsure instead; swept 18 settings on ep65-68: 105-205 flags per
+  episode catching 44-76% of the owner's corrected switches, with more than half the flags on a
+  clean switch. Too many for an ear. Owner's decision: for a relabelled episode rule 7 is the
+  measured rate (972 wrong-label words of about 89,000 on the gold, against 4,022 for the camera),
+  disclosed in METHODOLOGY.md; the owner's ear corrections become locked rulings.
