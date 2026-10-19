@@ -34,10 +34,13 @@ Each file names the model that produced it in its `model:` frontmatter field.
 
 `raw.md`
 : Speech-to-text by Microsoft's MAI-Transcribe-2, for the 73 episodes and both forums built so far. From 2026-10-04 a new episode uses OpenAI Whisper-large-v3-turbo run locally, and raw.md's `model:` line names the engine used. Filler sounds are
-  removed; nothing is paraphrased. Speaker names come from the show's camera cuts, which
-  show who is talking, then from voice comparison. A turn that no evidence can name is
-  labelled `Speaker ?`, as Hansard writes "An Hon. Member". Earlier versions came from
-  Gemini and from a local Whisper model; none remain.
+  removed; nothing is paraphrased. Speaker names come from NVIDIA's Nemotron 3 Diarization,
+  which decides who speaks at each word, and a voice comparison names each Nemotron speaker.
+  A speaker change within two words of a sentence end moves to that end. The owner's own
+  rulings, and every `Audience` turn in a forum, are kept as they are. Before 2026-10-20 the
+  names came from the show's camera cuts; ep19, ep31, ep47, ep53, ep61 and ep62 still do.
+  A turn that no evidence can name is labelled `Speaker ?`, as Hansard writes "An Hon.
+  Member". Earlier versions came from Gemini and from a local Whisper model; none remain.
 
 `interview.md`
 : An edited newspaper-style Q&A built from `raw.md`, in the original mix of Malay and
@@ -140,8 +143,12 @@ line was about a Friday sermon. The English file is the weakest of the four.
 
 ### Speaker labels
 
-The camera shows who is talking, but not who is speaking off frame. Treat any label during
-crosstalk as unverified.
+Measured against the owner's own corrections of four episodes (ep65 to ep68, 89,000 words),
+the speaker labels are wrong on 972 words, about 1.1%. The camera method used before
+2026-10-20 was wrong on 4,022. Most remaining errors are one to three words where two people
+talk at once, such as a short "ya" over the other speaker. Nobody has checked every speaker
+change by ear: the owner checked 15 of the largest changes and corrected 1 to 8 words in 10
+of them. Treat any label during crosstalk as unverified.
 
 ## Before you quote this
 

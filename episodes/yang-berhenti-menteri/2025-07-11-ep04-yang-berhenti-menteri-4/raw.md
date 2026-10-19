@@ -7,7 +7,7 @@ publish_date: '2025-07-11'
 duration_seconds: 6716
 duration: 1h 51m
 view_count: 61217
-note: 'Raw transcript from MAI-Transcribe-2 via the Azure Speech API, verbatim style, with word-level timestamps from the model itself. Speaker labels come from the show''s own camera cuts (scripts/camera_speakers.py, an on-screen active-speaker reference) at the time of each word; turns of three words or fewer keep the current raw.md''s label, and words the camera does not cover fall back to it. Built by scripts/mai_camera_raw.py; the word sequence is MAI''s, unchanged, apart from the reviewed name corrections in fix_proper_nouns.py and the owner-verified passage kept from the previous transcript (no gold passage recorded for this video; owner rulings over the camera: none recorded for this episode). See interview.md for the polished newspaper-style rewrite.'
+note: 'Raw transcript from MAI-Transcribe-2 via the Azure Speech API, verbatim style, with word-level timestamps from the model itself. Speaker labels come from NVIDIA Nemotron 3 Diarization at each word''s own time (scripts/voice_label_raw.py, owner''s decisions 2026-10-16 and 2026-10-18); its speakers are named by WeSpeaker ResNet34 voice profiles learned from the camera seconds of other episodes, or of this episode for a speaker no other episode has, and a word Nemotron leaves silent takes the voice profile''s label. Built by scripts/mai_camera_raw.py; the word sequence is MAI''s, unchanged, apart from the reviewed name corrections in fix_proper_nouns.py and the owner-verified passage kept from the previous transcript (no gold passage recorded for this video; owner rulings over the camera: none recorded for this episode). See interview.md for the polished newspaper-style rewrite.'
 model: microsoft/MAI-Transcribe-2
 ---
 
@@ -21,39 +21,59 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 # Raw Transcript
 
-[00:00] Haziq: Assalamualaikum dan selamat datang. Podcast Yang Berhenti Menteri episod keempat. So seperti biasa bersama saudara Rafizi Ramli. YB Rafizi, apa khabar? Okey? Takkan tak okey ke? Dan seperti biasa kena ada seorang lagi guest speaker, iaitu saudara Faiz Ahmad. Apa khabar saudara?
+[00:00] Haziq: Assalamualaikum dan selamat datang. Podcast Yang Berhenti Menteri episod keempat. So seperti biasa bersama saudara Rafizi Ramli. YB Rafizi, apa khabar? Okey?
 
-[00:19] Faiz Ahmad: Baik dan terima kasih kepada YB sebab reply mesej saya. Oh yeah, lupa kau.
+[00:11] Rafizi: Takkan tak okey ke?
 
-[00:26] Rafizi: Dia ikut mood actually kalau kebetulan kau FIP or kau hantar mesej masa aku tengah pegang phone, aku reply lah because nanti ada beribu-ribu yang maki tak reply mesej. Ada.
+[00:13] Haziq: Dan seperti biasa kena ada seorang lagi guest speaker, iaitu saudara Faiz Ahmad. Apa khabar saudara?
 
-[00:36] Faiz Ahmad: Sebab saya mesej YB Nik Nazmi, dia tak reply, dia tengok je. Kantoi ni.
+[00:19] Faiz Ahmad: Baik dan terima kasih kepada YB sebab reply mesej saya.
+
+[00:23] Rafizi: Oh yeah, lupa kau. Dia ikut mood actually kalau kebetulan kau FIP or kau hantar mesej masa aku tengah pegang phone, aku reply lah because nanti ada beribu-ribu yang maki tak reply mesej.
+
+[00:35] Faiz Ahmad: Ada. Sebab saya mesej YB Nik Nazmi, dia tak reply, dia tengok je.
+
+[00:41] Rafizi: Kantoi ni.
 
 [00:43] Haziq: Okey, baik. Saudara Faiz merupakan seorang berpengaruh dan pengulas ekonomi di TikTok. Jadi siapa yang belum follow, boleh follow. Cuma saudara Faiz, sebelum kita mula dengan macam-macam perbincangan, siapa Faiz Ahmad sebenarnya sebelum mula mengulas ekonomi ni?
 
-[00:58] Faiz Ahmad: Saya kerja sebagai market analyst untuk sebuah company global yang based dekat Taiwan. Selama 5 tahun. Saya bermula sebagai junior analyst, senior dan akhirnya jadi chief analyst lah. Kerja saya memang melihat ekonomi secara global. Sebelum ni saya memang tak sentuh langsung ekonomi Malaysia sebab saya tahu saya sentuh ekonomi Malaysia, dia akan masuk bab politik. So saya menjarakkan dirilah. Baik, baik. Tapi selepas saya resign, buat kerja sendiri dan tiba-tiba ada orang tanya, ekonomi Malaysia ni okey ke tak? Sebab naratif dekat luar semua kata ekonomi Malaysia teruk. Masa tu YB pun masih Menteri Ekonomi. So saya jawablah, nak baca ekonomi ni dia punya basic memahami ekonomi. Dan dari situ orang mula kecam saya sebab saya mengatakan ekonomi Malaysia okey. Kecam tu bukan sikit. Masuk mesej kau ni adalah apa melawan Islam. Itu sebab kau Kelantan. Kalau kau orang Selangor, tak adalah kena kecam.
+[00:58] Faiz Ahmad: Saya kerja sebagai market analyst untuk sebuah company global yang based dekat Taiwan. Selama 5 tahun. Saya bermula sebagai junior analyst, senior dan akhirnya jadi chief analyst lah. Kerja saya memang melihat ekonomi secara global. Sebelum ni saya memang tak sentuh langsung ekonomi Malaysia sebab saya tahu saya sentuh ekonomi Malaysia, dia akan masuk bab politik. So saya menjarakkan dirilah. Baik, baik. Tapi selepas saya resign, buat kerja sendiri dan tiba-tiba ada orang tanya, ekonomi Malaysia ni okey ke tak? Sebab naratif dekat luar semua kata ekonomi Malaysia teruk. Masa tu YB pun masih Menteri Ekonomi. So saya jawablah, nak baca ekonomi ni dia punya basic memahami ekonomi. Dan dari situ orang mula kecam saya sebab saya mengatakan ekonomi Malaysia okey. Kecam tu bukan sikit. Masuk mesej kau ni adalah apa melawan Islam.
+
+[01:50] Rafizi: Itu sebab kau Kelantan. Kalau kau orang Selangor, tak adalah kena kecam.
 
 [01:55] Haziq: Degree memang ekonomi ke macam mana?
 
-[01:57] Faiz Ahmad: Degree saya medical, medical lab. Lepas tu saya sambung master in medical forensik. Medical forensik yang mak ayat. Mudah mak ayat. Saya 2 tahun dekat Institut Perubatan Forensik Negara buat kerja-kerja postmortem lah. Tapi saya bosan dengan mayat, so saya berpindah. Saya berpindah field dan saya belajar sendiri, YB.
+[01:57] Faiz Ahmad: Degree saya medical, medical lab. Lepas tu saya sambung master in medical forensik.
+
+[02:02] Haziq: Medical forensik yang mak ayat.
+
+[02:04] Faiz Ahmad: Mudah mak ayat. Saya 2 tahun dekat Institut Perubatan Forensik Negara buat kerja-kerja postmortem lah. Tapi saya bosan dengan mayat, so saya berpindah. Saya berpindah field dan saya belajar sendiri, YB.
 
 [02:16] Rafizi: So kalau you stay dekat the medical examiner dulu, tak adalah kena kecam kot. Mayat tak kecam orang kot.
 
-[02:24] Faiz Ahmad: Mayat kecam dalam masa tidur. Oh my god.
+[02:24] Faiz Ahmad: Mayat kecam dalam masa tidur.
 
-[02:28] Haziq: Okey, baik. YB, last ice breaking. Bila ice breaking lagi? Aku dah berapa kali dah ni.
+[02:26] Haziq: Oh my god. Okey, baik. YB, last ice breaking.
 
-[02:35] Rafizi: Bukan tu YB lah.
+[02:32] Rafizi: Bila ice breaking lagi? Aku dah berapa kali dah ni.
 
-[02:36] Haziq: Untuk kaitkan dengan kita punya guest speaker. YB, bila pertama kali jumpa?
+[02:35] Haziq: Bukan tu YB lah. Untuk kaitkan dengan kita punya guest speaker. YB, bila pertama kali jumpa?
 
-[02:40] Rafizi: No, dia dekat FYP lah. Mana pernah jumpa. Ni kali pertama. So aku cakap siapa. Jumpa banyak kali YB dekat ceramah. Saya tak pernah miss ceramah YB. Ceramah. Okey, kantoi lagi. Aiya. But but okay. I mean, dia dia I take notice tu masa dekat FYP lah kan. So I start, so I follow. Budak ni nak kena kecam ni kan. So from there and it just so happened. Faris send a message lah and and kita memang, saya memang mengalu-ngalukan lebih banyak orang yang, yang mengajak supaya sesuatu itu dikupas dengan objektif lah. Ada yang betul, ada yang salah kan. So I think it's a good addition. Baik, baik, baik.
+[02:40] Rafizi: No, dia dekat FYP lah. Mana pernah jumpa. Ni kali pertama. So aku cakap siapa.
 
-[03:25] Haziq: Dan YB, since kita ada saudara Faiz pada malam ini, YB pun dalam 2 3 hari sebelum ni keluarkan kenyataan tentang Ayuh Malaysia untuk apa meng membuat. Oh, tu pasal kau pakai baju tu kan? Tulah baju. Baju buruknya, ya Allahuakbar.
+[02:44] Faiz Ahmad: Jumpa banyak kali YB dekat ceramah. Saya tak pernah miss ceramah YB.
 
-[03:40] Rafizi: Jadi baju tidur eh. So sekarang kena pakai balik.
+[02:49] Rafizi: Ceramah. Okey, kantoi lagi. Aiya. But but okay. I mean, dia dia I take notice tu masa dekat FYP lah kan. So I start, so I follow. Budak ni nak kena kecam ni kan. So from there and it just so happened. Faris send a message lah and and kita memang, saya memang mengalu-ngalukan lebih banyak orang yang, yang mengajak supaya sesuatu itu dikupas dengan objektif lah. Ada yang betul, ada yang salah kan. So I think it's a good addition.
 
-[03:44] Haziq: Okey, talking about Ayuh Malaysia, YB nak buat balik social enterprise dan I think discussion tentang third sector economy atau social enterprise ni agak kuranglah dekat Malaysia dan mungkin kita ada suara Faiz. YB, walaupun dia agak kurang dan-
+[03:24] Haziq: Baik, baik, baik. Dan YB, since kita ada saudara Faiz pada malam ini, YB pun dalam 2 3 hari sebelum ni keluarkan kenyataan tentang Ayuh Malaysia untuk apa meng membuat.
+
+[03:35] Rafizi: Oh, tu pasal kau pakai baju tu kan?
+
+[03:37] Haziq: Tulah baju.
+
+[03:38] Rafizi: Baju buruknya, ya Allahuakbar.
+
+[03:40] Haziq: Jadi baju tidur eh. So sekarang kena pakai balik. Okey, talking about Ayuh Malaysia, YB nak buat balik social enterprise dan I think discussion tentang third sector economy atau social enterprise ni agak kuranglah dekat Malaysia dan mungkin kita ada suara Faiz. YB, walaupun dia agak kurang dan-
 
 [03:59] Rafizi: Nanti kau kena kecam tau sebab kau nak tanya soalan ni panjang ni pusing ni.
 
@@ -67,11 +87,23 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [06:47] Faiz Ahmad: Okey, YB, cerita pasal social enterprise. Saya rasa yang pendengar pun tak nampak apa itu. Contoh ataupun model yang dah ada dalam dunia ni yang kita boleh tengok dan boleh study.
 
-[07:00] Rafizi: Dia yalah, social enterprise ni dia ikut mengikut masa-masa dialah kan. Jadi dia ada evolusi dia. Jadi kalau contohnya tahun 70-an, 80-an dulu, satu contoh yang selalu diberi di digunakan di dunia lah Grameen Bank kan. Okey. Jadi daripada konsep Grameen Bank itulah akhirnya jadi. Apa tu Grameen Bank? Bank. Grameen Bank maksudnya di Bangladesh yang Profesor Muhammad Yunus sekarang jadi acting president kan. Okey. Aaa dia sebenarnya micro kredit kepada a orang-orang susah. Tapi itu yang akhirnya menjadi Amanah Iktihar di Malaysia. Okey. Tapi masih lagi ada masalah. Okey. Kerana akhirnya bila ada Gramin, kalau kalau model itu evolusi dia pakat itu saja, maksudnya dia tak sustainable. Kerana akhirnya kalau kita tengok kepada Amanah Iktihar sekaranglah kan, dia masih bergantung kepada suntikan kerajaan. Ha, jadi aa ada ada banyak sebab lah kan. Jadi mutakhir inilah kan, aa model social enterprise ni aa lebih baik aa kerana dia lebih nimble tau. Dia dia dia tidak perlukan besar. Dia sebenarnya perniagaan biasa, tetapi konsepnya itu sangat Islam. Dia sebenarnya bagi sayalah konsep yang yang kami nak ketengahkan ialah yang yang menggunakan konsep musyarakah. Maksudnya
+[07:00] Rafizi: Dia yalah, social enterprise ni dia ikut mengikut masa-masa dialah kan. Jadi dia ada evolusi dia. Jadi kalau contohnya tahun 70-an, 80-an dulu, satu contoh yang selalu diberi di digunakan di dunia lah Grameen Bank kan. Okey. Jadi daripada konsep Grameen Bank itulah akhirnya jadi.
 
-[08:35] Faiz Ahmad: Musyarakah.
+[07:22] Faiz Ahmad: Apa tu Grameen Bank? Bank.
 
-[08:36] Rafizi: Kita ada equity partner. Okey. Kita ada asset partner. Kita ada basically operative partner. Maksudnya orang yang mengerjakan semualah. Konsep itu memang dah lama ada dalam dalam Islam. Dan sebenarnya memang telah lama ada dalam kewangan dunia pun. Kalau oil and gas contohnya, memang konsep dia seperti itu. You ada equity partner, you ada operator. Kalau dalam PE, private equity pun, sebahagiannya konsepnya itu memang sudah ada, tetapi dia tidak pernah dibawa ke peringkat perniagaan-perniagaan biasa. Sebab kalau di Malaysia sekarang, apa nama ni, kalau saya nak buka syarikat, saya letak modal saya, saya kena tanggung semua risiko. Maka orang yang bekerja itu ialah orang yang pekerja sayalah. Dia kerja macam mana pun banyak tu lah gaji dia kan. Kalau di barat, kalau contoh-contoh yang baiklah eh, John Lewis Partnership.
+[07:23] Rafizi: Grameen Bank maksudnya di Bangladesh yang Profesor Muhammad Yunus sekarang jadi acting president kan.
+
+[07:30] Faiz Ahmad: Okey.
+
+[07:30] Rafizi: Aaa dia sebenarnya micro kredit kepada a orang-orang susah. Tapi itu yang akhirnya menjadi Amanah Iktihar di Malaysia. Okey. Tapi masih lagi ada masalah.
+
+[07:43] Haziq: Okey.
+
+[07:43] Rafizi: Kerana akhirnya bila ada Gramin, kalau kalau model itu evolusi dia pakat itu saja, maksudnya dia tak sustainable. Kerana akhirnya kalau kita tengok kepada Amanah Iktihar sekaranglah kan, dia masih bergantung kepada suntikan kerajaan. Ha, jadi aa ada ada banyak sebab lah kan. Jadi mutakhir inilah kan, aa model social enterprise ni aa lebih baik aa kerana dia lebih nimble tau. Dia dia dia tidak perlukan besar. Dia sebenarnya perniagaan biasa, tetapi konsepnya itu sangat Islam. Dia sebenarnya bagi sayalah konsep yang yang kami nak ketengahkan ialah yang yang menggunakan konsep musyarakah. Maksudnya Musyarakah. Kita ada equity partner.
+
+[08:38] Faiz Ahmad: Okey.
+
+[08:39] Rafizi: Kita ada asset partner. Kita ada basically operative partner. Maksudnya orang yang mengerjakan semualah. Konsep itu memang dah lama ada dalam dalam Islam. Dan sebenarnya memang telah lama ada dalam kewangan dunia pun. Kalau oil and gas contohnya, memang konsep dia seperti itu. You ada equity partner, you ada operator. Kalau dalam PE, private equity pun, sebahagiannya konsepnya itu memang sudah ada, tetapi dia tidak pernah dibawa ke peringkat perniagaan-perniagaan biasa. Sebab kalau di Malaysia sekarang, apa nama ni, kalau saya nak buka syarikat, saya letak modal saya, saya kena tanggung semua risiko. Maka orang yang bekerja itu ialah orang yang pekerja sayalah. Dia kerja macam mana pun banyak tu lah gaji dia kan. Kalau di barat, kalau contoh-contoh yang baiklah eh, John Lewis Partnership.
 
 [09:38] Faiz Ahmad: Dia dia lebih kepada pemberian modal ke ataupun dia berniaga sendiri ke atau macam mana?
 
@@ -79,41 +111,105 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [09:48] Faiz Ahmad: Macam buka Speedmart tepi ni lah atau macam mana?
 
-[09:50] Rafizi: Okey, kalau ambil ambil contoh nak buka Speedmart kan. Okey. Okey, model perniagaan biasa ialah saya toker. Saya letak modal 500,000. Okey. Lepas tu daripada modal 500,000 itulah saya bayar, saya kena sewa. Kemudian saya kena gaji 5 orang. Untung rugi semua saya, pekerja, dia bekerja dengan saya kan. Kalau social enterprise ni contohnya, kedai yang sama, 3 partner akan datang duduk semeja eh. Partner yang 500,000 tu dia akan kata, "Okey, saya letak 500,000 saya, tapi saya tak operate. I don't run that that business, okey. You sebagai operative partner, maksudnya manager dan pekerja-pekerja itu. Okey. Sebenarnya dia ada equity dalam itu dan tuan punya itu pun dia akan ada equity.
+[09:50] Rafizi: Okey, kalau ambil ambil contoh nak buka Speedmart kan.
+
+[09:52] Faiz Ahmad: Okey.
+
+[09:53] Rafizi: Okey, model perniagaan biasa ialah saya toker. Saya letak modal 500,000.
+
+[10:00] Faiz Ahmad: Okey.
+
+[10:00] Rafizi: Lepas tu daripada modal 500,000 itulah saya bayar, saya kena sewa. Kemudian saya kena gaji 5 orang. Untung rugi semua saya, pekerja, dia bekerja dengan saya kan. Kalau social enterprise ni contohnya, kedai yang sama, 3 partner akan datang duduk semeja eh. Partner yang 500,000 tu dia akan kata, "Okey, saya letak 500,000 saya, tapi saya tak operate. I don't run that that business, okey. You sebagai operative partner, maksudnya manager dan pekerja-pekerja itu.
+
+[10:36] Faiz Ahmad: Okey.
+
+[10:37] Rafizi: Sebenarnya dia ada equity dalam itu dan tuan punya itu pun dia akan ada equity.
 
 [10:41] Faiz Ahmad: Tu bukan macam PE VC punya model ke?
 
-[10:44] Rafizi: Sebab tu, sebab tu saya kata sebenarnya sebahagiannya tu memang sudah pun diamalkan. Dalam apa nama ni oil and gas memang konsep dia begitu. Dalam PE pun begitu. Okey, cuma beza dia begini eh. So you ada pre-profit dengan post-profit. So pre-profit contohnya kalau saya equity partner, saya letak 500,000. Saya kata my my my my pre-profit keuntungan ialah 3%. Okey. Kemudian yang sewa tu pula, kalau selalunyalah untuk sewa ground floor tu kena 10,000. Dia kata, okey, saya sebagai asset partner, I can take 7,000 sebulan. Itu minimum my pre-profit apa ni return kan. Kemudian yang pekerja tu dia kata, my minimum pre-profit ialah gaji saya 2,000 sebulan. So bila you run the business, you tolak semua return kepada equity partner, return kepada asset partner, gaji sebagai kepada operating partner semua ni. Now that profit lepas itu dia punya post profit split is different. Dia ada konsep carry back. Maksudnya yang ini yang lebih banyak diberikan kepada pekerja.
+[10:44] Rafizi: Sebab tu, sebab tu saya kata sebenarnya sebahagiannya tu memang sudah pun diamalkan. Dalam apa nama ni oil and gas memang konsep dia begitu. Dalam PE pun begitu. Okey, cuma beza dia begini eh. So you ada pre-profit dengan post-profit. So pre-profit contohnya kalau saya equity partner, saya letak 500,000. Saya kata my my my my pre-profit keuntungan ialah 3%.
 
-[11:56] Faiz Ahmad: Soalan panas YB. Boleh boleh celah kan? Ya, ya. Okey. Model ni nampak saya rasa complicated. Yang mendengar pun dia dengar tapi dia mungkin faham sikit-sikitlah. Soalan saya, semasa YB menjadi Menteri Ekonomi, idea ni dibawa atau tak?
+[11:12] Faiz Ahmad: Okey.
 
-[12:10] Rafizi: Tak, dia sepatutnya memang dah ada di dalam RMK ke-13 kalau tidak diubah lah. Okey. Ha, kalau tidak diubah. Tapi sebab konsep ni complicated. Kalau di peringkat kami di Kementerian Ekonomi, memang kita kata bahawa di masa depan kita perlu menghidupkan sektor ketiga. Sebab kita dah tengok 20 tahun lagi ni, kita tak boleh terus besarkan saiz kerajaan. So memang dah ada. Dan bila kita tengok tu, kita tahu bahawa banyak perkara yang kerajaan kena buat. Maksudnya undang-undang baru mengenai social enterprise kena buat kan. Sokongan dari segi kerajaan kena ada. Tapi pada masa yang sama, we have a choice. Sama ada you nak tunggu kerajaan ambil masa 5, 7 tahun ni nak prepare semua lepas tu baru nak start buat. Then perkara macam ni boleh saja dihidupkan oleh masyarakat sementara menunggu kerajaan prepare dia. Sebab selalunya kerajaan ni dengan sesi libat urus dia, dengan bangkangan dia, sebab bila ada social enterprise ni nanti kementerian-kementerian berebutlah siapa punya ni. Ada kementerian kata aku tak nak buat. Ada kementerian kata ah ini kita orang punya. Dia nak selesai yang itu saja 3 tahun. Jadi sebab itu saya ingat melalui Ayuh Malaysia ni kerana konsepnya mungkin asing bagi rakyat kita kan. Tapi sebenarnya sebahagiannya memang kami dah buat sesama kami pun. YB Rodziah contohnya kan. Dia kumpul modal. Okey. Kemudian dia akan beli mesin kopek bilis. Okey. Kemudian dia sewakan mesin kopek bilis tu at a very low rate. Okey. Kepada 5 6 orang makcik dekat kawasan dia. Okey. Dengan kopek bilis tu dia lagi cepat dan bilis tu dijual. The return tu is enough to basically pay the pre-profit return yang diperlukan.
+[11:13] Rafizi: Kemudian yang sewa tu pula, kalau selalunyalah untuk sewa ground floor tu kena 10,000. Dia kata, okey, saya sebagai asset partner, I can take 7,000 sebulan. Itu minimum my pre-profit apa ni return kan. Kemudian yang pekerja tu dia kata, my minimum pre-profit ialah gaji saya 2,000 sebulan. So bila you run the business, you tolak semua return kepada equity partner, return kepada asset partner, gaji sebagai kepada operating partner semua ni. Now that profit lepas itu dia punya post profit split is different. Dia ada konsep carry back. Maksudnya yang ini yang lebih banyak diberikan kepada pekerja.
+
+[11:56] Faiz Ahmad: Soalan panas YB. Boleh boleh celah kan?
+
+[11:58] Rafizi: Ya, ya.
+
+[11:58] Faiz Ahmad: Okey. Model ni nampak saya rasa complicated. Yang mendengar pun dia dengar tapi dia mungkin faham sikit-sikitlah. Soalan saya, semasa YB menjadi Menteri Ekonomi, idea ni dibawa atau tak?
+
+[12:10] Rafizi: Tak, dia sepatutnya memang dah ada di dalam RMK ke-13 kalau tidak diubah lah.
+
+[12:16] Faiz Ahmad: Okey.
+
+[12:16] Rafizi: Ha, kalau tidak diubah. Tapi sebab konsep ni complicated. Kalau di peringkat kami di Kementerian Ekonomi, memang kita kata bahawa di masa depan kita perlu menghidupkan sektor ketiga. Sebab kita dah tengok 20 tahun lagi ni, kita tak boleh terus besarkan saiz kerajaan. So memang dah ada. Dan bila kita tengok tu, kita tahu bahawa banyak perkara yang kerajaan kena buat. Maksudnya undang-undang baru mengenai social enterprise kena buat kan. Sokongan dari segi kerajaan kena ada. Tapi pada masa yang sama, we have a choice. Sama ada you nak tunggu kerajaan ambil masa 5, 7 tahun ni nak prepare semua lepas tu baru nak start buat. Then perkara macam ni boleh saja dihidupkan oleh masyarakat sementara menunggu kerajaan prepare dia. Sebab selalunya kerajaan ni dengan sesi libat urus dia, dengan bangkangan dia, sebab bila ada social enterprise ni nanti kementerian-kementerian berebutlah siapa punya ni. Ada kementerian kata aku tak nak buat. Ada kementerian kata ah ini kita orang punya. Dia nak selesai yang itu saja 3 tahun. Jadi sebab itu saya ingat melalui Ayuh Malaysia ni kerana konsepnya mungkin asing bagi rakyat kita kan. Tapi sebenarnya sebahagiannya memang kami dah buat sesama kami pun. YB Rodziah contohnya kan. Dia kumpul modal.
+
+[13:37] Faiz Ahmad: Okey.
+
+[13:38] Rafizi: Kemudian dia akan beli mesin kopek bilis.
+
+[13:43] Faiz Ahmad: Okey.
+
+[13:43] Rafizi: Kemudian dia sewakan mesin kopek bilis tu at a very low rate.
+
+[13:49] Faiz Ahmad: Okey.
+
+[13:49] Rafizi: Kepada 5 6 orang makcik dekat kawasan dia. Okey. Dengan kopek bilis tu dia lagi cepat dan bilis tu dijual. The return tu is enough to basically pay the pre-profit return yang diperlukan.
 
 [14:02] Faiz Ahmad: Dari segi sustainability, sebab ni dah macam ke arah socialist kan?
 
-[14:05] Rafizi: No, it's not. It's very different. Socialist ni tak ada konsep apa nama ni, private ownership ataupun keuntungan yang berbeza-beza.
+[14:05] Rafizi: No, it's not. It's very different. Socialist ni tak ada konsep apa nama ni, private ownership ataupun keuntungan yang berbeza-beza. Sebab ini lebih
 
-[14:18] Faiz Ahmad: Sebab ini lebih kepada enterprise kebajikan. So masa tanggungjawab.
+[14:18] Faiz Ahmad: kepada enterprise kebajikan. So masa tanggungjawab.
 
-[14:22] Rafizi: It's it's not socialist. It's very Islamic. Islamic. Ha, it's very Islamic. It's not socialist. Ha, it's actually very Islamic. Okey. Tapi sebab it's very Islamic lah, oleh kerana sistem yang kita ada dalam dalam dunia sekarang ni is is very much kalau daripada legacy zaman dulu is ada pure capitalist ataupun communism dengan socialist. Dia sistem yang dalam Islam ni sebenarnya dah- Tengah-tengah. Dia tengah-tengah. Dia tengah-tengah. Tengah-tengah. Which is a very good way to bring capital and make sure that the motivation untuk mendapat keuntungan and to strive better tu dia dia ada balance dia kan.
+[14:22] Rafizi: It's it's not socialist. It's very Islamic.
+
+[14:24] Faiz Ahmad: Islamic.
+
+[14:24] Rafizi: Ha, it's very Islamic. It's not socialist. Ha, it's actually very Islamic.
+
+[14:28] Faiz Ahmad: Okey.
+
+[14:28] Rafizi: Tapi sebab it's very Islamic lah, oleh kerana sistem yang kita ada dalam dalam dunia sekarang ni is is very much kalau daripada legacy zaman dulu is ada pure capitalist ataupun communism dengan socialist. Dia sistem yang dalam Islam ni sebenarnya dah- Tengah-tengah.
+
+[14:46] Faiz Ahmad: Dia tengah-tengah. Dia tengah-tengah. Tengah-tengah.
+
+[14:47] Rafizi: Which is a very good way to bring capital and make sure that the motivation untuk mendapat keuntungan and to strive better tu dia dia ada balance dia kan.
 
 [14:58] Faiz Ahmad: Dan nak success kan benda ni, dia perlukan support daripada kerajaan ataupun boleh bergerak tanpa kerajaan?
 
-[15:03] Rafizi: I think untuk awal-awal. Sebab tu yang yang kami nak rintis melalui Ayuh Malaysia ialah yang daripada awal-awal ni sebenarnya kita boleh buat tanpa kerajaan pun. Cuma bezanya ialah kami kena bayar cukai lah. Okey. Sepatutnya social enterprise oleh kerana dia tidak bermotifkan cukai, Okey. sepatutnya kuranglah cukai tu. Tapi for the time being, I think we can just operate dan cuma profit itu tidak diambil oleh, oleh pemodal itulah kan.
+[15:03] Rafizi: I think untuk awal-awal. Sebab tu yang yang kami nak rintis melalui Ayuh Malaysia ialah yang daripada awal-awal ni sebenarnya kita boleh buat tanpa kerajaan pun. Cuma bezanya ialah kami kena bayar cukai lah.
+
+[15:18] Faiz Ahmad: Okey.
+
+[15:19] Rafizi: Sepatutnya social enterprise oleh kerana dia tidak bermotifkan cukai, Okey. sepatutnya kuranglah cukai tu. Tapi for the time being, I think we can just operate dan cuma profit itu tidak diambil oleh, oleh pemodal itulah kan.
 
 [15:35] Faiz Ahmad: Bila bermulanya idea social enterprise? Lama dah. YB dan YB. Sebab Ayuh Malaysia dah agak beberapa tahun.
 
-[15:41] Rafizi: Mem- memang daripada awal Ayuh Malaysia, I mean saya, I've been reading about apa nama ni Islamic finance semua ni dah lama sebenarnya kan. And salah satu benda yang yang selalu saya nak experiment ialah perkara ni kan. Cuma bila kita buat AYU Malaysia, that was what, June 2022. Okey. Kita tak sempat nak buat sedar-sedar pilihan raya. So now that's why the blessing in disguise. Jadi kami boleh continue plan yang dah lama ada tu lah.
+[15:41] Rafizi: Mem- memang daripada awal Ayuh Malaysia, I mean saya, I've been reading about apa nama ni Islamic finance semua ni dah lama sebenarnya kan. And salah satu benda yang yang selalu saya nak experiment ialah perkara ni kan. Cuma bila kita buat AYU Malaysia, that was what, June 2022.
+
+[16:03] Faiz Ahmad: Okey.
+
+[16:03] Rafizi: Kita tak sempat nak buat sedar-sedar pilihan raya. So now that's why the blessing in disguise. Jadi kami boleh continue plan yang dah lama ada tu lah.
 
 [16:12] Faiz Ahmad: 3 tahun YB dalam Menteri Ekonomi. Boleh tak sebut mungkin langkah awal ke arah social enterprise? Sebab saya sendiri pun tak pernah dengar daripada mulut YB tentang, mungkin saya terlepas ke tak pasti.
 
-[16:23] Rafizi: Dia sebab susah tau dalam kerajaan, selagi perkara itu tidak diluluskan, you tak boleh sebut. Okey, faham, faham, faham. Sebab nanti ada orang akan angkat red flag dia kata, itu bidang saya, kenapa you pandai-pandai? Okey. Ini mana punca kuasa dia you pandai-pandai. Okey, faham, faham. Jadi we have been doing it aa sebagai dasar lah. Okey. Dan dan memang sepatutnyalah di dalam rancangan Malaysia ke-13 tu, Okey. memang salah satunya ialah untuk membangunkan sektor ketiga. Sektor ketiga. Okey, faham.
+[16:23] Rafizi: Dia sebab susah tau dalam kerajaan, selagi perkara itu tidak diluluskan, you tak boleh sebut. Okey, faham, faham, faham. Sebab nanti ada orang akan angkat red flag dia kata, itu bidang saya, kenapa you pandai-pandai? Okey. Ini mana punca kuasa dia you pandai-pandai.
 
-[16:52] Faiz Ahmad: Okey, baik.
+[16:37] Faiz Ahmad: Okey, faham, faham.
 
-[16:53] Speaker ?: Jelas.
+[16:38] Rafizi: Jadi we have been doing it aa sebagai dasar lah. Okey. Dan dan memang sepatutnyalah di dalam rancangan Malaysia ke-13 tu, Okey. memang salah satunya ialah untuk membangunkan sektor ketiga.
 
-[16:54] Faiz Ahmad: Jelas, tak ada apa-apa lagi. Saya rasa idea nampak, implementation tu mungkin YB adalah en pioneer yang akan menggerakkan, baru kita boleh observe dan menilai.
+[16:50] Faiz Ahmad: Sektor ketiga. Okey, faham.
+
+[16:52] Rafizi: Okey, baik.
+
+[16:53] Faiz Ahmad: Jelas.
+
+[16:54] Haziq: Jelas, tak ada apa-apa lagi.
+
+[16:56] Faiz Ahmad: Saya rasa idea nampak, implementation tu mungkin YB adalah en pioneer yang akan menggerakkan, baru kita boleh observe dan menilai.
 
 [17:05] Rafizi: Sebab tu dia kena mula dulu. Dia kalau kita terangkan.
 
@@ -129,17 +225,33 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [18:00] Haziq: Cuma YB sikit, dalam kenyataan YB pun ada inform akan buat social enterprise sebanyak mungkin dan ramai yang berminat untuk tanya how to join, how to contribute.
 
-[18:11] Rafizi: Yalah, sebab tu dia kena mula dulu. Dia dia selalunya dalam keadaan sekarang ni mungkin oleh kerana orang kurang faham lagi, jadi ramai yang berminat lah. Nanti seperti biasalah kan, minat tu nanti dia akan filter lah kan. As as we know better, ada orang yang minat je mungkin sebagai mentor kan. Ada orang terutama yang muda contohnya, minat dia mungkin sebagai operation partner tu. Maksudnya yalah bagi sayalah daripada dia cari kerja, kemudian dia dapat kerja gaji 2000, bagi dia buat business. Katakanlah dia punya pre-profit salary dia 2000. Tapi paling kurang dia bos dia sendiri. Kemudian dia ada upside dalam apa nama ni keuntungan. That is the same concept yang kita orang buat di dalam IPR tau. Intan. Okey, okey. Dia memang sudah ada pun, tapi saya tak panggil social enterprise lah. The whole idea is, you know.
+[18:11] Rafizi: Yalah, sebab tu dia kena mula dulu. Dia dia selalunya dalam keadaan sekarang ni mungkin oleh kerana orang kurang faham lagi, jadi ramai yang berminat lah. Nanti seperti biasalah kan, minat tu nanti dia akan filter lah kan. As as we know better, ada orang yang minat je mungkin sebagai mentor kan. Ada orang terutama yang muda contohnya, minat dia mungkin sebagai operation partner tu. Maksudnya yalah bagi sayalah daripada dia cari kerja, kemudian dia dapat kerja gaji 2000, bagi dia buat business. Katakanlah dia punya pre-profit salary dia 2000. Tapi paling kurang dia bos dia sendiri. Kemudian dia ada upside dalam apa nama ni keuntungan. That is the same concept yang kita orang buat di dalam IPR tau. Intan.
+
+[19:08] Faiz Ahmad: Okey, okey.
+
+[19:10] Rafizi: Dia memang sudah ada pun, tapi saya tak panggil social enterprise lah. The whole idea is, you know.
 
 [19:16] Faiz Ahmad: Sebab IPR tu backed by government, macam tu.
 
-[19:18] Rafizi: Ha, cuma IPR tu backed by government. Government let- let- okey, dia dia dia IPR eh, beza dia. Kalau model sebelum ini kan, Ya. bantuan kepada orang ni bagi tunai. Okey. Ha, dia duk kat rumah dia dapat lah seribu sebulan, Okey. 500 kan. Kita buat konsep yang lain. Kita kata, look, kalau bagi duit saja 500, mungkin dia takkan apa ni keluar daripada kemiskinan. Betul. Okey. So daripada itu, baik kita ambil yang 500 500 kau dapat tu, kita letakkan dalam bentuk equity dan aset. Okey. So you dapat aset ni, tapi you kena kerjalah. Dan Dan minimum dia 2000 you dapat kalau you meet semua ni. Okey. Tapi any upside daripada keuntungan tu you dapat.
+[19:18] Rafizi: Ha, cuma IPR tu backed by government. Government let- let- okey, dia dia dia IPR eh, beza dia. Kalau model sebelum ini kan, Ya. bantuan kepada orang ni bagi tunai.
 
-[20:03] Faiz Ahmad: Dan memang ekonomi pun memang kena bekerja sebenarnya, kan?
+[19:30] Faiz Ahmad: Okey.
 
-[20:07] Rafizi: Rakyat di luar. Production.
+[19:31] Rafizi: Ha, dia duk kat rumah dia dapat lah seribu sebulan, Okey. 500 kan. Kita buat konsep yang lain. Kita kata, look, kalau bagi duit saja 500, mungkin dia takkan apa ni keluar daripada kemiskinan. Betul. Okey. So daripada itu, baik kita ambil yang 500 500 kau dapat tu, kita letakkan dalam bentuk equity dan aset.
 
-[20:09] Faiz Ahmad: Rakyat di luar dia faham lain tau. Memang lai- Dia kena kena kerja. Kena kerja. Dia ingat duit tu free tu adalah baik. Bila tak diberi duit free, ekonomi tak baik. Sebenarnya tak boleh macam tu.
+[19:52] Faiz Ahmad: Okey.
+
+[19:53] Rafizi: So you dapat aset ni, tapi you kena kerjalah. Dan Dan minimum dia 2000 you dapat kalau you meet semua ni. Okey. Tapi any upside daripada keuntungan tu you dapat.
+
+[20:03] Faiz Ahmad: Dan memang ekonomi pun memang kena bekerja sebenarnya, kan? Rakyat di luar.
+
+[20:07] Haziq: Production.
+
+[20:09] Faiz Ahmad: Rakyat di luar dia faham lain tau.
+
+[20:10] Rafizi: Memang lai- Dia kena kena kerja. Kena kerja.
+
+[20:12] Faiz Ahmad: Dia ingat duit tu free tu adalah baik. Bila tak diberi duit free, ekonomi tak baik. Sebenarnya tak boleh macam tu.
 
 [20:18] Rafizi: Tak, dia katakanlah Malaysia ni negara kaya macam negara Gulf lah, negara Teluk kan. Duit minyak bersepah-sepah kan. Okey. Kalau sayalah, kalau pun Malaysia cukup kaya, bagi duit free ni berbahaya kan. Dia kena buat sesuatu.
 
@@ -147,29 +259,49 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [20:37] Rafizi: Ada output. Dia kena ada output. Cuma, cuma contohnya ada yang betul-betul miskin tegar. Okey. Jadi kalau yang betul-betul miskin tegar, terutamanya wanita. Kalau dia ibu tunggal kan, then you have to see contohnya untuk dia meninggalkan anak dia konon nak pergi kerja ke apa. Okey. Ah, those people kita kena treat separately. Tapi kalau maksudnya yalah, yang orang kata B40, dia ada, ada kesihatan fizikal kan.
 
-[21:07] Faiz Ahmad: YB tak habiskan masa jadi Menteri Ekonomi. Pembahagian klasifikasi masyarakat T15, lepas tu apa? Saya mencari-cari yang sekarang.
+[21:07] Faiz Ahmad: YB tak habiskan masa jadi Menteri Ekonomi. Pembahagian klasifikasi masyarakat T15, lepas tu apa?
 
-[21:15] Rafizi: Benda tu, benda tu sebenarnya semua data semua tu sudah pun ada, sudah pun siap. Cuma oleh kerana aa dia bermula dengan pengumuman Perdana Menteri lah yang sebarang aa aa penyiasaran semula subsidi tidak akan melibatkan aa 85%. Okey. Jadi orang nak tahulah T15 ni apa. Dia bermula daripada situ. Okey. Dari segi klasifikasi secara statistik, secara isi rumah, semua data tu dah ada. Tetapi oleh kerana dia berkait dengan kenyataan. T15 kenyataan tu, yang itu perlukan kelulusan kabinet. Kabinet tak bersetuju sampai sekarang.
+[21:13] Rafizi: Saya mencari-cari yang sekarang. Benda tu, benda tu sebenarnya semua data semua tu sudah pun ada, sudah pun siap. Cuma oleh kerana aa dia bermula dengan pengumuman Perdana Menteri lah yang sebarang aa aa penyiasaran semula subsidi tidak akan melibatkan aa 85%.
+
+[21:40] Faiz Ahmad: Okey.
+
+[21:40] Rafizi: Jadi orang nak tahulah T15 ni apa. Dia bermula daripada situ.
+
+[21:44] Faiz Ahmad: Okey.
+
+[21:45] Rafizi: Dari segi klasifikasi secara statistik, secara isi rumah, semua data tu dah ada. Tetapi oleh kerana dia berkait dengan kenyataan. T15 kenyataan tu, yang itu perlukan kelulusan kabinet. Kabinet tak bersetuju sampai sekarang.
 
 [22:00] Faiz Ahmad: Maksudnya PMX menyebut tu tanpa ada sokongan dokongan data ataupun main sebut saja atau macam mana?
 
 [22:06] Rafizi: Itu hasrat kerajaan.
 
-[22:08] Faiz Ahmad: Maksudnya 15% tu. Okey.
+[22:08] Faiz Ahmad: Maksudnya 15% tu.
 
-[22:10] Rafizi: 85% patut dapat penyiasaran.
+[22:10] Rafizi: Okey.
 
-[22:13] Faiz Ahmad: Tetapi tak scrutinize yang.
+[22:10] Faiz Ahmad: 85% patut dapat penyiasaran. Tetapi tak scrutinize yang.
 
-[22:14] Rafizi: Ya, dia dia dia sebenarnya sebab itu hasrat kerajaan aa yang yang yang sebab telah dilaksanakan dalam penyiasaran subsidi elektrik. Okey. Kalau tengok penyiasaran subsidi elektrik, oleh kerana daripada data TNB tu kita ada profile aa kepenggunaan tenaga. So memang 85% itu dia tetap dapat rebate, subsidi dan sebagainya. Sebab itu dia tak terkesanlah. Okey. Hanya mereka yang gunakan 1000 kilowatt hours ke atas yang kena. Then mereka isi rumah yang menggunakan 1000 kilowatt hours ke atas tu is more or less in that category of 15% lah. Jadi this idea about 15% yang menjadi hasrat kerajaan tu bermula daripada situ. So hasratnya ialah untuk penyasaran semula RON 95 pun begitu. Now then the question, you you're right. Bila bila hasrat itu dulu, then you want to match the data. So dari segi data klasifikasinya, actually because I keep saying T15 ke B40, ini statistical line. Datanya semua dah adalah. Ha, cuma kita nak kerat T15 tu adalah adakah berdasarkan pendapatan isi rumah kasar semata-mata? Adakah kita nak kerat berdasarkan pendapatan isi rumah bersih? Ataupun kita nak ambil kira lokasi, perbezaan. Ha, itu yang- Yang tu tak settle lagi kan? Tak, data tu semua ada. Maksudnya dari segi
+[22:14] Rafizi: Ya, dia dia dia sebenarnya sebab itu hasrat kerajaan aa yang yang yang sebab telah dilaksanakan dalam penyiasaran subsidi elektrik. Okey. Kalau tengok penyiasaran subsidi elektrik, oleh kerana daripada data TNB tu kita ada profile aa kepenggunaan tenaga. So memang 85% itu dia tetap dapat rebate, subsidi dan sebagainya. Sebab itu dia tak terkesanlah.
 
-[23:48] Faiz Ahmad: Keputusan. Keputusan.
+[22:42] Faiz Ahmad: Okey.
+
+[22:43] Rafizi: Hanya mereka yang gunakan 1000 kilowatt hours ke atas yang kena. Then mereka isi rumah yang menggunakan 1000 kilowatt hours ke atas tu is more or less in that category of 15% lah. Jadi this idea about 15% yang menjadi hasrat kerajaan tu bermula daripada situ. So hasratnya ialah untuk penyasaran semula RON 95 pun begitu. Now then the question, you you're right. Bila bila hasrat itu dulu, then you want to match the data. So dari segi data klasifikasinya, actually because I keep saying T15 ke B40, ini statistical line. Datanya semua dah adalah. Ha, cuma kita nak kerat T15 tu adalah adakah berdasarkan pendapatan isi rumah kasar semata-mata? Adakah kita nak kerat berdasarkan pendapatan isi rumah bersih? Ataupun kita nak ambil kira lokasi, perbezaan. Ha, itu yang-
+
+[23:44] Faiz Ahmad: Yang tu tak settle lagi kan?
+
+[23:45] Rafizi: Tak, data tu semua ada.
+
+[23:47] Faiz Ahmad: Maksudnya dari segi Keputusan. Keputusan.
 
 [23:49] Rafizi: Keputusan itu masih tergantung sampai sekarang.
 
 [23:51] Faiz Ahmad: Kita kan dah nak nak masuk ke penyiasaran RON 95. So rakyat masih tertanya-tanya.
 
-[23:57] Rafizi: Yang itu kita kena tunggu Kementerian Kewangan lah. Kerana Kementerian Kewangan mempunyai pandangan yang berbeza. Bila akan bermulanya RON 95? Yang itu kena tanya menteri yang ada lah.
+[23:57] Rafizi: Yang itu kita kena tunggu Kementerian Kewangan lah. Kerana Kementerian Kewangan mempunyai pandangan yang berbeza.
+
+[24:04] Faiz Ahmad: Bila akan bermulanya RON 95?
+
+[24:06] Rafizi: Yang itu kena tanya menteri yang ada lah.
 
 [24:07] Faiz Ahmad: YB mungkin dapat projection ke, tak pasti?
 
@@ -177,73 +309,249 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [24:12] Faiz Ahmad: Katakanlah YB menyambung.
 
-[24:13] Rafizi: Kali terakhir, kali terakhir saya bentangkan ialah saya ingat, saya ingat Januari tahun inilah dan masih lagi tidak dapat kata setuju, kata putuslah kerana pandangan yang berbeza-beza. Dan by that time, MOF telah pun buat keputusanlah. Sebenarnya mereka tidak mahu menggunakan pindahan tunai. Dia nak gunakan kad. Kad. Jadi bila gunakan kad, dia banyak operasi di bawah. Okey. Ah, yang itu dan keputusannya ialah dia akan dikendalikan sepenuhnya oleh Kementerian Kewangan lah. That one you kena tanya. Okey. Faham, faham, faham. Kementerian Kewangan. Faham.
+[24:13] Rafizi: Kali terakhir, kali terakhir saya bentangkan ialah saya ingat, saya ingat Januari tahun inilah dan masih lagi tidak dapat kata setuju, kata putuslah kerana pandangan yang berbeza-beza. Dan by that time, MOF telah pun buat keputusanlah. Sebenarnya mereka tidak mahu menggunakan pindahan tunai. Dia nak gunakan kad.
 
-[24:54] Haziq: Baik, baik. YB, ah, bercakap tentang isu Kementerian Kewangan. Ada satu lagi yang- Kenapa tanya pasal Kementerian Kewangan?
+[24:39] Faiz Ahmad: Kad.
 
-[25:00] Rafizi: Bukan Menteri Ekonomi.
+[24:40] Rafizi: Jadi bila gunakan kad, dia banyak operasi di bawah. Okey. Ah, yang itu dan keputusannya ialah dia akan dikendalikan sepenuhnya oleh Kementerian Kewangan lah. That one you kena tanya.
+
+[24:51] Faiz Ahmad: Okey. Faham, faham, faham.
+
+[24:52] Rafizi: Kementerian Kewangan.
+
+[24:53] Faiz Ahmad: Faham.
+
+[24:54] Haziq: Baik, baik. YB, ah, bercakap tentang isu Kementerian Kewangan. Ada satu lagi yang- Kenapa
+
+[24:59] Rafizi: tanya pasal Kementerian Kewangan? Bukan Menteri Ekonomi.
 
 [25:03] Haziq: Ah, apa ni, dia dekat mainstream lah sekarang, YB, tentang SST dan harga barang lah kan. So saya cakap terus terang lah. Saya nak minta tolong YB dan saudara Faiz bantu kerajaan terangkan isu ini.
 
-[25:16] Rafizi: Faiz dah buat banyak kali dah. Sebelum, sebelum soalan tu pergi lebih jauh.
+[25:16] Rafizi: Faiz dah buat banyak kali dah.
 
-[25:20] Faiz Ahmad: Okey. YB ni sebenarnya akan membantu kerajaan membuat kerja check and balance yang baik ataupun akan opposing kerajaan sebenarnya.
+[25:17] Faiz Ahmad: Sebelum, sebelum soalan tu pergi lebih jauh.
 
-[25:29] Rafizi: Tak, saya, saya rasa terutamanya yang berkaitan dengan ekonomi ya. Okey. Kedudukan kewangan dan ekonomi negara sekarang ni, mana-mana parti jadi kerajaan pun akan berhadapan dengan masalah yang sama. Maksudnya keadaan fiskal yang. Tapi Bersatu kata dia nak hapuskan SST. Dia okey. Kalau dia nak contohnya kan, cukai tak ada orang sukalah. Okey. Kita punya belanja mengurus sekarang ini dah sampai ke berapa no? 320 billion lah lebih kurang kan. I think so lah. I tak ingat sangat but I think. Ha, dia ada kat situ.
+[25:20] Haziq: Okey.
+
+[25:20] Faiz Ahmad: YB ni sebenarnya akan membantu kerajaan membuat kerja check and balance yang baik ataupun akan opposing kerajaan sebenarnya.
+
+[25:29] Rafizi: Tak, saya, saya rasa terutamanya yang berkaitan dengan ekonomi ya.
+
+[25:34] Faiz Ahmad: Okey.
+
+[25:35] Rafizi: Kedudukan kewangan dan ekonomi negara sekarang ni, mana-mana parti jadi kerajaan pun akan berhadapan dengan masalah yang sama. Maksudnya keadaan fiskal yang.
+
+[25:49] Faiz Ahmad: Tapi Bersatu kata dia nak hapuskan SST.
+
+[25:52] Rafizi: Dia okey. Kalau dia nak contohnya kan, cukai tak ada orang sukalah.
+
+[25:57] Faiz Ahmad: Okey.
+
+[25:58] Rafizi: Kita punya belanja mengurus sekarang ini dah sampai ke berapa no? 320 billion lah lebih kurang kan. I think so lah. I tak ingat sangat but I think. Ha, dia ada kat situ.
 
 [26:11] Faiz Ahmad: Tapi ni 23. Yang lama punya.
 
-[26:13] Rafizi: Yang lama punya. I think the last one dia dah sampai ke 320. Lebih kurang. Jadi katakanlah kita, kita kena kutip cukai bayar 320 ni. Sebab Perlembagaan Persekutuan aa dan juga undang-undang kita mengatakan bahawa belanja mengurus mesti dibayar daripada hasil negara. Tak boleh pinjam, kan? Jadi kalau nak potong SST, SST saya ingat cukai tidak langsung di bawah SST lebih kurang berapa? 30 bilion lebih? 40. 40 billion. Kat 40 billion kan. Bolehlah potong yang itu, tapi kau kena pi carilah 40 billion yang lain. Jadi 40 billion. Soalan dia ialah bukan sangat nak potong SST ke ataupun apa. Soalan dia kalau tak ada yang SST 40 billion itu, daripada mana nak dapat hasil itulah kan. Jadi, sebab itu kalau Faiz tanya balik nak membantu ke, nak membangkang ke. Tak, saya rasa sebenarnya siapa-siapa jadi kerajaan pun dia akan berhadapan masalah yang sama. Semua kena buat keputusan yang susah. Nah. Yang penting rakyat faham. Kita nak turn around the ekonomi ni. Jadi nak buat keputusan yang susah, kitalah terutamanya lah yang orang yang ambil tahu pasal masa depan negara ni kan. Kita boleh buat bodoh. Orang cakap apa pun, okeylah aku sokonglah sebab aku tak suka yang satu lagi. Lama-lama kau kena bayar juga bukan orang lain. Kau juga kena kan? Ataupun kita boleh pakai our thinking head and kita fikir sebenarnya daripada banyak-banyak bising retorik ni, siapa yang pertama ada a pathway untuk turn around the economy? Maksudnya dia punya cadangan tu balance. Kalau dia nak potong yang itu, apa nama ni, dia nak ambil kut mana? Tu satu. Yang kedua, actually you tengok dia orang ni, dia faham apa yang dia cakap dan dia ada competency untuk buat. And then sebab itu, kalau rakyat dah sampai ke peringkat dia faham, then actually, you know, dia boleh buat keputusan sendirilah because duit tak jatuh daripada langit. Kuncinya rakyat faham.
+[26:13] Rafizi: Yang lama punya. I think the last one dia dah sampai ke 320.
 
-[28:26] Faiz Ahmad: Tapi s- berdasarkan komen dekat media sosial, banyak yang tak faham. So apa solutionnya?
+[26:17] Faiz Ahmad: Lebih kurang.
 
-[28:32] Rafizi: Sebab itu kita kena secara berterusan to be frank kan. Sebab tu kalau tengok macam apa nama ni, penyasaran subsidi kan, orang marah, marah, marah kan. Saya senang je. I mean perkara itu perlu berlaku. Kalau orang marah sekarang contohnya kan. Kemudian naiklah PAS jadi kerajaan. Ha, then kita tengoklah masa dalam 33 bulan itu, ayat yang sama sebenarnya yang digunakan. Okey. Ha, tetapi saya tak pasti diorang betul-betul faham ke tidaklah kan. Kerana makro ekonomi ni banyak berkait kan. Jadi contohnya kerajaan kita akan terus meminjam wang. Wang yang dipinjam itu kena bayar interest kan, kupon dia. Kupon itu bergantung kepada kekuatan kewangan negara. Jadi defisit dia, kutipan cukai dia macam mana dan sebagainya lah. So that's one side. Tapi the other side ialah on the spending lah. Jadi sebab itu soal-soal rasuah, penyelewengan, ketirisan semua tu. Yang itu kalau ada, tak kisahlah kerajaan tu kerajaan Pakatan ke, BN ke, PN ke. Saya ingat siapa-siapa yang yang faham kalau ada bukti, then you have to speak out because it's a function of revenue and expenditure. Yang ini kena naik, yang ini kena turun kan.
+[26:18] Rafizi: Jadi katakanlah kita, kita kena kutip cukai bayar 320 ni. Sebab Perlembagaan Persekutuan aa dan juga undang-undang kita mengatakan bahawa belanja mengurus mesti dibayar daripada hasil negara. Tak boleh pinjam, kan? Jadi kalau nak potong SST, SST saya ingat cukai tidak langsung di bawah SST lebih kurang berapa? 30 bilion lebih? 40. 40 billion. Kat 40 billion kan. Bolehlah potong yang itu, tapi kau kena pi carilah 40 billion yang lain. Jadi 40 billion. Soalan dia ialah bukan sangat nak potong SST ke ataupun apa. Soalan dia kalau tak ada yang SST 40 billion itu, daripada mana nak dapat hasil itulah kan. Jadi, sebab itu kalau Faiz tanya balik nak membantu ke, nak membangkang ke. Tak, saya rasa sebenarnya siapa-siapa jadi kerajaan pun dia akan berhadapan masalah yang sama. Semua kena buat keputusan yang susah. Nah. Yang penting rakyat faham. Kita nak turn around the ekonomi ni. Jadi nak buat keputusan yang susah, kitalah terutamanya lah yang orang yang ambil tahu pasal masa depan negara ni kan. Kita boleh buat bodoh. Orang cakap apa pun, okeylah aku sokonglah sebab aku tak suka yang satu lagi. Lama-lama kau kena bayar juga bukan orang lain. Kau juga kena kan? Ataupun kita boleh pakai our thinking head and kita fikir sebenarnya daripada banyak-banyak bising retorik ni, siapa yang pertama ada a pathway untuk turn around the economy? Maksudnya dia punya cadangan tu balance. Kalau dia nak potong yang itu, apa nama ni, dia nak ambil kut mana? Tu satu. Yang kedua, actually you tengok dia orang ni, dia faham apa yang dia cakap dan dia ada competency untuk buat. And then sebab itu, kalau rakyat dah sampai ke peringkat dia faham, then actually, you know, dia boleh buat keputusan sendirilah because duit tak jatuh daripada langit.
+
+[28:23] Faiz Ahmad: Kuncinya rakyat faham. Tapi s- berdasarkan komen dekat media sosial, banyak yang tak faham. So apa solutionnya?
+
+[28:32] Rafizi: Sebab itu kita kena secara berterusan to be frank kan. Sebab tu kalau tengok macam apa nama ni, penyasaran subsidi kan, orang marah, marah, marah kan. Saya senang je. I mean perkara itu perlu berlaku. Kalau orang marah sekarang contohnya kan. Kemudian naiklah PAS jadi kerajaan. Ha, then kita tengoklah masa dalam 33 bulan itu, ayat yang sama sebenarnya yang digunakan.
+
+[29:03] Faiz Ahmad: Okey.
+
+[29:04] Rafizi: Ha, tetapi saya tak pasti diorang betul-betul faham ke tidaklah kan. Kerana makro ekonomi ni banyak berkait kan. Jadi contohnya kerajaan kita akan terus meminjam wang. Wang yang dipinjam itu kena bayar interest kan, kupon dia. Kupon itu bergantung kepada kekuatan kewangan negara. Jadi defisit dia, kutipan cukai dia macam mana dan sebagainya lah. So that's one side. Tapi the other side ialah on the spending lah. Jadi sebab itu soal-soal rasuah, penyelewengan, ketirisan semua tu. Yang itu kalau ada, tak kisahlah kerajaan tu kerajaan Pakatan ke, BN ke, PN ke. Saya ingat siapa-siapa yang yang faham kalau ada bukti, then you have to speak out because it's a function of revenue and expenditure. Yang ini kena naik, yang ini kena turun kan.
 
 [29:58] Faiz Ahmad: Okey. Contoh ni. Bajet 2023.
 
-[30:02] Rafizi: Aku dah tak ingat lah, dah lama dah bajet 23. Serang- serangan yang sering dihalakan kepada Madani.
+[30:02] Rafizi: Aku dah tak ingat lah, dah lama dah bajet 23.
 
-[30:09] Faiz Ahmad: Madani adalah kerajaan yang suka membuat hutang. Tanpa dia semak. Sebenarnya masa Perikatan Nasional saya semak, 2021 100 bilion hampir. 2022 pun 100 bilion hampir. Dan kalau mereka menang masa election tu, still defisit hampir 100 bilion. Tapi Madani ambil alih. YB sebagai salah satu team, team member berjaya mengurangkan defisit sebanyak 94. Maksudnya ada negatif 5 billion. Dan bila saya saya semak kan, dekat mana short 5 billion yang dikurangkan? Oh, rupanya ada Covid fund 5 billion. So apa tandanya? Apa maksudnya? Maksudnya diorang suka-suka nak letak 5 billion dan datang Madani tak perlu pun Covid fund 5 billion ni.
+[30:04] Faiz Ahmad: Serang- serangan yang sering dihalakan kepada Madani. Madani adalah kerajaan yang suka membuat hutang. Tanpa dia semak. Sebenarnya masa Perikatan Nasional saya semak, 2021 100 bilion hampir. 2022 pun 100 bilion hampir. Dan kalau mereka menang masa election tu, still defisit hampir 100 bilion. Tapi Madani ambil alih. YB sebagai salah satu team, team member berjaya mengurangkan defisit sebanyak 94. Maksudnya ada negatif 5 billion. Dan bila saya saya semak kan, dekat mana short 5 billion yang dikurangkan? Oh, rupanya ada Covid fund 5 billion. So apa tandanya? Apa maksudnya? Maksudnya diorang suka-suka nak letak 5 billion dan datang Madani tak perlu pun Covid fund 5 billion ni.
 
 [30:53] Rafizi: Itu ialah masa, sebab dia berbalik kepada apa nama ni, yang saya sebut pasal urusan perbelanjaan, dia mesti mengikuti tatacara dia. Belanja mengurus mestilah apa nama ni, menggunakan hasil dan sebagainya kan. Jadi masa Covid lah, saya ingat oleh kerana itu adalah satu malapetaka ujian yang yang kira kira one off unplanned. Okey. Jadi memang ada Covid fund. Sebahagiannya saya ingat diambil daripada kumpulan Wang Amanah Negara yang yang Petronas set aside. Yang itu itu sebahagiannya di digunakan untuk membayar vaksin. Dia ada jugalah pelan-pelan yang lain semua masuk ke dalam itu, tapi maksudnya dia tak habis dibelanjakanlah.
 
 [31:45] Faiz Ahmad: Okey. Maksudnya sebab dia akan belanjakan 5 billion dekat Divax. Madani tak spend?
 
-[31:51] Rafizi: No, maksudnya by the time bajet ni eh. Ha, okey. Bajet ni berbeza dengan yang dibelanjakan kan. Yang yang kita tengok bentang, bentang, bentang tu. Ba- banyak je sebenarnya yang Tak spend. tak spend. Jadi setiap 6 bulan ke apa dia mula uruskanlah. Okey. Jadi itu keadaan yang Okey. yang berlaku lah. Maksudnya estimate dia banyak-banyak ni sekian sekian sekian sekian, tapi dia tak habis belanja. Jadi yang itu maka tak perlulah kan.
+[31:51] Rafizi: No, maksudnya by the time bajet ni eh.
+
+[31:54] Faiz Ahmad: Ha, okey.
+
+[31:55] Rafizi: Bajet ni berbeza dengan yang dibelanjakan kan. Yang yang kita tengok bentang, bentang, bentang tu. Ba- banyak je sebenarnya yang Tak spend. tak spend. Jadi setiap 6 bulan ke apa dia mula uruskanlah. Okey. Jadi itu keadaan yang Okey. yang berlaku lah. Maksudnya estimate dia banyak-banyak ni sekian sekian sekian sekian, tapi dia tak habis belanja. Jadi yang itu maka tak perlulah kan.
 
 [32:21] Faiz Ahmad: Faham, faham, faham, faham, faham. Okey. Contoh ini pun ni ialah saya ambil sebab saya, saya dia betullah saya mempertahankan kerajaan sekarang. Serangan yang sering ditanya ataupun dihalakan adalah kerajaan tak membayar hutang. Macam mana rakyat nak semak sebenarnya kerajaan bayar hutang atau tak? Hutang kan dah bertimbun dan saya dapatlah satu debt service charges. Sebab daripada belanjawan ni lah saya nampak. Madani sejak 3 tahun kebelakangan ni, kalau berdasarkan debt service charges, kita dah bayar 150 billion. Tapi kenapa rakyat tak nampak?
 
-[32:56] Rafizi: Dia... Yalah dia dia dia satu eh, satu yang paling pentinglah saya ingat kena kena faham. Dia sebenarnya macam macam company ataupun juga perbelanjaan isi rumah kitalah. Lagi kaya, lagi besar, sebenarnya dia boleh ambil hutang yang lebih. Dia lagi bankable kan. Jadi sebab itu, sama ada negara itu banyak berhutang atau tidak, itu sebenarnya tak boleh tengok kepada absolute amount. Dia kena tengok kepada itu yang orang kata debt to GDP ratio kan. Okey. Kita ada peraturan kita, kita ada debt ceiling kita. Okey. Debt ceiling kita dulu-dulu saya ingat 55% daripada GDP. Sekarang ni saya ingat 65% lah kan. Okey. Okey, tu so dari segi undang-undang you tak boleh nak nak nak berhutang lebih daripada itu kan. Kemudian macam mana ekonomi tu nampak sihat ke tidak, selain daripada sama ada you dah langgar debt ceiling ke tidak, dia akan analis, analyst lah, dia akan tengok se- sebuah negara yang macam Malaysia, yang ekonominya macam Malaysia, pendapatannya macam Malaysia, negara lain yang dalam kategori itu berapa. Oh, dia buat comparison je tu. Dia buat comparison kan. Dia sama macam you bandingkan dua stok lah syarikat kan. Syarikat sama, tapi yang ini hutang suruh mati. Yang ini kurang. Yang ni sudah tentu yang ni kan. Jadi dari segi itu sebenarnya kita punya debt to GDP now I think it's about 68, 67% sebenarnya agak tinggi. Sebelum saya jawab. Kemudian yang kedua yang rakyat nak tengok eh, yang sepatutnya tengok, dan yang ini pun sama penting, ialah sebenarnya debt service charge yang you tunjuk ni. Apa makna debt service charge? Debt service charge adalah jumlah faedah bungalah yang dibayar tiap-tiap tahun kerana yang ini perlu dibayar daripada belanja mengurus. Okey. Kutip cukai, bayar hutang, kan? Okey. The rule of thumb sebenarnya dia tak boleh melebihi 15%. Itu pun dah kira tinggi. So kalau contohnya kita kutip cukai kita katakanlah 300 billion. 15% berapa? Lebih kurang 45 billion, kan? Jadi yang itu masalah kita sekarang. Kerana debt service charge kita Okey. sebenarnya dah memang atas 15%. I think it's 15, 16%.
+[32:56] Rafizi: Dia... Yalah dia dia dia satu eh, satu yang paling pentinglah saya ingat kena kena faham. Dia sebenarnya macam macam company ataupun juga perbelanjaan isi rumah kitalah. Lagi kaya, lagi besar, sebenarnya dia boleh ambil hutang yang lebih. Dia lagi bankable kan. Jadi sebab itu, sama ada negara itu banyak berhutang atau tidak, itu sebenarnya tak boleh tengok kepada absolute amount. Dia kena tengok kepada itu yang orang kata debt to GDP ratio kan. Okey. Kita ada peraturan kita, kita ada debt ceiling kita. Okey. Debt ceiling kita dulu-dulu saya ingat 55% daripada GDP. Sekarang ni saya ingat 65% lah kan. Okey. Okey, tu so dari segi undang-undang you tak boleh nak nak nak berhutang lebih daripada itu kan. Kemudian macam mana ekonomi tu nampak sihat ke tidak, selain daripada sama ada you dah langgar debt ceiling ke tidak, dia akan analis, analyst lah, dia akan tengok se- sebuah negara yang macam Malaysia, yang ekonominya macam Malaysia, pendapatannya macam Malaysia, negara lain yang dalam kategori itu berapa.
+
+[34:19] Faiz Ahmad: Oh, dia buat comparison je tu.
+
+[34:21] Rafizi: Dia buat comparison kan. Dia sama macam you bandingkan dua stok lah syarikat kan. Syarikat sama, tapi yang ini hutang suruh mati. Yang ini kurang. Yang ni sudah tentu yang ni kan. Jadi dari segi itu sebenarnya kita punya debt to GDP now I think it's about 68, 67% sebenarnya agak tinggi. Sebelum saya jawab. Kemudian yang kedua yang rakyat nak tengok eh, yang sepatutnya tengok, dan yang ini pun sama penting, ialah sebenarnya debt service charge yang you tunjuk ni. Apa makna debt service charge? Debt service charge adalah jumlah faedah bungalah yang dibayar tiap-tiap tahun kerana yang ini perlu dibayar daripada belanja mengurus. Okey. Kutip cukai, bayar hutang, kan? Okey. The rule of thumb sebenarnya dia tak boleh melebihi 15%. Itu pun dah kira tinggi. So kalau contohnya kita kutip cukai kita katakanlah 300 billion. 15% berapa? Lebih kurang 45 billion, kan? Jadi yang itu masalah kita sekarang. Kerana debt service charge kita Okey. sebenarnya dah memang atas 15%. I think it's 15, 16%.
 
 [35:30] Faiz Ahmad: Dah 16.
 
-[35:31] Rafizi: Dah 16 ha, 16% kan. So dia perlu dibawa kalau tengok kan. Jadi then, okey, once you know this, then you you have to ask the question, kenapa that service charge kita ni tak boleh diturunkan lagilah. Okey now. Then then yang itu yang sebenarnya kedudukan makro itu penting. Okey. Kerana kalau ekonomi tak tumbuh dengan baik ataupun inflasi itu tidak terkawal ataupun deficit itu sampai 5 6% tiap-tiap tahun. Okey. Maka bila kerajaan berhutang, dia keluarkan bond, kupon rate dia tinggi. Dan yang ini, okey. So, so itu perkara-perkara yang saya ingat asas yang rakyat biasa kena tahulah. Then Faiz, soalan terakhir pasal hutang ni, kenapa hutang tak turun? Ha eh. Hutang ni ada dua. Sebab tu saya kata jangan ada ada dua perspektif. Jangan tengok kepada ultimate Number. quantum numbers kan. Oh, sekarang 1.3 billion, 1.2 billion. Semua tengok kepada debt to GDP ratio dengan debt service charge kan. Okey. Keadaan sekarang tak baik. Betul. Kita masih ada a long way dan kita punya apa nama ni, orang kata landing ni. Nampak lagi lah. Sepatutnya 2028. 2028 baru kita mula tengok turunlah. Jadi saya tak pernah pun kata bahawa kita berpuas hati dengan kadar hutang yang ada ni. Okey. Memang bagi saya tinggi. Okey. Dan debt service charge kita 16%. Cuma kalau kita, kalaulah pembangkang buat hujah begitu, orang tak marahlah. Betul. Ha, maksudnya sebabnya kami tengok at the 6 67% debt to GDP ratio itu tinggi berbanding dengan negara-negara yang sama kategori yang kita sepatutnya hanya 50. Okey. Debt service charge kita 17, I mean 16 billion. Okey. Sorry, sorry, 16.1%. That is about berapa tu? 54 billion dah kan. Tu tinggi kan. Saya tahu kenapa dia tak cakap macam tu. Okey. Kerana kerajaan akan cakap, yalah engkau tinggalkan hutang tu kat kita. Ha, jadi so itu satu perspektif. Okey. The the the the the the the total kan. Okey. Yang patut dilihat ialah sebenarnya berapa hutang baru yang diambil oleh kerajaan. Okey, hutang baru. Ha, jadi hutang baru itu yang kalau kita ada, kita macam refinancing lah. Okey. Refinancing kan. Okey. Hutang sedia ada nak kena bayar, kemudian nak kena ambil hutang baru untuk bayar yang itu kan. Okey. Yang itu kalau tengok kepada rekod, sebenarnya 2023, 2024, and I think 2025, jumlah hutang baru yang diambil oleh kerajaan berkurangan agak banyak.
+[35:31] Rafizi: Dah 16 ha, 16% kan. So dia perlu dibawa kalau tengok kan. Jadi then, okey, once you know this, then you you have to ask the question, kenapa that service charge kita ni tak boleh diturunkan lagilah. Okey now. Then then yang itu yang sebenarnya kedudukan makro itu penting.
+
+[35:49] Faiz Ahmad: Okey.
+
+[35:49] Rafizi: Kerana kalau ekonomi tak tumbuh dengan baik ataupun inflasi itu tidak terkawal ataupun deficit itu sampai 5 6% tiap-tiap tahun.
+
+[36:00] Faiz Ahmad: Okey.
+
+[36:01] Rafizi: Maka bila kerajaan berhutang, dia keluarkan bond, kupon rate dia tinggi. Dan yang ini, okey. So, so itu perkara-perkara yang saya ingat asas yang rakyat biasa kena tahulah. Then Faiz, soalan terakhir pasal hutang ni, kenapa hutang tak turun? Ha eh. Hutang ni ada dua. Sebab tu saya kata jangan ada ada dua perspektif. Jangan tengok kepada ultimate Number. quantum numbers kan. Oh, sekarang 1.3 billion, 1.2 billion. Semua tengok kepada debt to GDP ratio dengan debt service charge kan.
+
+[36:33] Faiz Ahmad: Okey.
+
+[36:35] Rafizi: Keadaan sekarang tak baik.
+
+[36:36] Faiz Ahmad: Betul.
+
+[36:37] Rafizi: Kita masih ada a long way dan kita punya apa nama ni, orang kata landing ni.
+
+[36:42] Faiz Ahmad: Nampak lagi lah.
+
+[36:43] Rafizi: Sepatutnya 2028. 2028 baru kita mula tengok turunlah. Jadi saya tak pernah pun kata bahawa kita berpuas hati dengan kadar hutang yang ada ni.
+
+[36:55] Faiz Ahmad: Okey.
+
+[36:55] Rafizi: Memang bagi saya tinggi.
+
+[36:57] Faiz Ahmad: Okey.
+
+[36:57] Rafizi: Dan debt service charge kita 16%. Cuma kalau kita, kalaulah pembangkang buat hujah begitu, orang tak marahlah.
+
+[37:05] Faiz Ahmad: Betul.
+
+[37:05] Rafizi: Ha, maksudnya sebabnya kami tengok at the 6 67% debt to GDP ratio itu tinggi berbanding dengan negara-negara yang sama kategori yang kita sepatutnya hanya 50.
+
+[37:18] Faiz Ahmad: Okey.
+
+[37:18] Rafizi: Debt service charge kita 17, I mean 16 billion.
+
+[37:21] Faiz Ahmad: Okey.
+
+[37:22] Rafizi: Sorry, sorry, 16.1%. That is about berapa tu? 54 billion dah kan. Tu tinggi kan. Saya tahu kenapa dia tak cakap macam tu. Okey. Kerana kerajaan akan cakap, yalah engkau tinggalkan hutang tu kat kita. Ha, jadi so itu satu perspektif. Okey. The the the the the the the total kan.
+
+[37:40] Faiz Ahmad: Okey.
+
+[37:41] Rafizi: Yang patut dilihat ialah sebenarnya berapa hutang baru yang diambil oleh kerajaan.
+
+[37:48] Faiz Ahmad: Okey, hutang baru.
+
+[37:48] Rafizi: Ha, jadi hutang baru itu yang kalau kita ada, kita macam refinancing lah. Okey. Refinancing kan. Okey. Hutang sedia ada nak kena bayar, kemudian nak kena ambil hutang baru untuk bayar yang itu kan.
+
+[38:00] Faiz Ahmad: Okey.
+
+[38:01] Rafizi: Yang itu kalau tengok kepada rekod, sebenarnya 2023, 2024, and I think 2025, jumlah hutang baru yang diambil oleh kerajaan berkurangan agak banyak.
 
 [38:15] Faiz Ahmad: Tapi ada hujah mengatakan kenapa tidak, contoh kalau 23 hutang kita 94 something. Kenapa tak cut separuh daripada tu? Apa kesan kepada ekonomi kalau cut separuh daripada tu?
 
-[38:26] Rafizi: Boleh kita nak cut separuh tapi tak ada sekolah, tak ada hospital, tak ada jalan. Sebab kita, ah yang ini yang dipanggil deficit, deficit, deficit ni. Peraturan undang-undang kita dan di mana-mana negara yang lainlah, maksudnya, kita hanya boleh meminjam untuk belanja pembangunan. Okey. Belanja pembangunan ni apa? Ini adalah projek ah kalau orang kita yang nak mudahlah. Maksudnya perbelanjaan kapital. Perbelanjaan kapital ni buat bangunan, buat sekolah, aa belanja-belanja dana untuk membina, bukan untuk membantu apa nama ni perniagaan. Itu semua belanja pembangunan tau. Biasiswa pun sekarang dah masuk di dalam belanja pembangunan kan? Okey, okey. Jadi belanja pembangunan kita 90 billion setiap tahun. Semua ini daripada pinjaman.
+[38:26] Rafizi: Boleh kita nak cut separuh tapi tak ada sekolah, tak ada hospital, tak ada jalan. Sebab kita, ah yang ini yang dipanggil deficit, deficit, deficit ni. Peraturan undang-undang kita dan di mana-mana negara yang lainlah, maksudnya, kita hanya boleh meminjam untuk belanja pembangunan.
 
-[39:21] Faiz Ahmad: Sebabnya ialah- Termasuklah 1MDB debt repayment.
+[38:49] Faiz Ahmad: Okey.
 
-[39:25] Rafizi: Itu ada cerita lagi ah. Daripada 90 billion itu, Okey. sebenarnya separuh lebih kurang, yalah 50% of that Okey. A ialah a warisan hutang-hutang yang dulu, eh. Selain daripada 1MDB. Sebabnya begini, eh, 90 billion itu dia dibahagikan sebaik-baiknya lah. Kalau kita tak ada masalah, tak mewarisi masalah yang lama semua ni. Ada kita pinjam 90 billion. Kita gunakan 90 billion itu untuk buat semualah. Sekolah, jalan semua kan? Okey. Masalahnya kita dulu-dulu ada penswastaan. Okey. Ha, penswastaan yang dipanggil PPP ini, Public Private Partnership. Okey. Buat lebuhraya, PPP. Buat apa nama ni, kuarters cikgu, PPP. Buat kuarters askar, PPP kan? PPP ni konsep dia ialah swasta bayar dulu, kemudian kerajaan bayar sewa tiap-tiap bulan untuk tempoh konses- tiap-tiap bulan lah untuk tempoh konsesi 20 tahun ke. Dulu saya ingat masa dulu-dululah saya dedahkan pasal 6 UiTM di bawah konsesi ni. Okey. UiTM Tapah, kemudian Seremban 2 semua tu kan? Okey. Bayaran yang tiap-tiap tahun itu masuk belanja pembangunan. Kota Madani adalah benda yang sama atau tak? Ha, silap-silap lagi benda yang samalah. Ha, silap-silap lagilah. Bahaya. Jadi, akhirnya walaupun dibentangkan 90 billion setiap tahun, Okey. hanya 50% itu ialah untuk yang baru. Okey. Yang 50% maksudnya dalam 40, 45 billion tu ialah untuk membayar tanggungan-tanggungan yang telah ditinggalkan Okey. daripada dulu. Jadi sebab itulah kalau orang Najib lah kata, oh baguslah Najib, hutang sikit, banyak projek. Memanglah masa tu dia sign umum dia tinggal hutang kat kita. Contoh-contoh hutang yang dia kena bayar di dalam belanja pembangunan setiap tahun ini, yang apa nama ni kita kena pinjam untuk bayar. Termasuklah ECRL. Okey. Termasuklah MRT, termasuklah 1MDB, termasuklah Tabung Haji, termasuklah FELDA. Semua ni kan. Jadi akhirnya, sebab tu orang duk kata, kenapa hutang tak turun? Kenapa projek ni tak sebanyak yang kita nak? Mana projek besar dan sebagainya kan. Jadi ini adalah kekangan-kekangan yang ada. Sebab itu saya kata in that perspective lah eh. Imbangan itu nampak alhamdulillah lah. Kerana kalau nak menjawab yang Faiz tanya, kenapa tak potong je? Apa beza belanja mengurus dengan belanja pembangunan, kesannya kepada pertumbuhan ekonomi? Eh, katakanlah kita ada syarikat kan. Kita, ah katakanlah ambil siapa nama ni, Khairul Amin ke? Kan? Ah, dia pun buatlah business dia semua. Jadi dia buat business dia, dia bayar gaji je. Okey. Haa, tapi permintaan banyak ni kan, tapi dia tak bina kilang yang baru. Okey. Jadi bila dia tak bina kilang yang baru, kalau revenue dia 2 juta setahun, Statik lah. 2 juta statik lah. Okey, baru. Jadi sebab itu belanja pembangunan adalah capital yang kerajaan perlu belanja untuk merancakkan ekonomi. Okey. Kalau tidak ada belanja pembangunan, maka ekonomi kita tak tumbuh.
+[38:50] Rafizi: Belanja pembangunan ni apa? Ini adalah projek ah kalau orang kita yang nak mudahlah. Maksudnya perbelanjaan kapital. Perbelanjaan kapital ni buat bangunan, buat sekolah, aa belanja-belanja dana untuk membina, bukan untuk membantu apa nama ni perniagaan. Itu semua belanja pembangunan tau. Biasiswa pun sekarang dah masuk di dalam belanja pembangunan kan?
 
-[43:01] Faiz Ahmad: Membina base ekonomi yang baharulah.
+[39:13] Faiz Ahmad: Okey, okey.
 
-[43:03] Rafizi: Okey. Sebab kalau digunakan dengan baiklah kan. Okey. Jadi lebih banyak belanja pembangunan. Sepatutnyalah kalau belanja pembangunan itu projek yang betul-betul bagus, dia akan menjadi asas kepada memacu pertumbuhan ekonomi kerana pertumbuhan ekonomi yang baik 4, 5, 6%, yang itu juga akan memacu kepada kutipan cukai. So it's a chicken and egg. Kalau you tak borong untuk kembangkan ekonomi, macam mana you nak kutip cukai? Jadi sebab itu, rancangan yang kerajaan ada sebelum ini ialah kita kena ada apa nama orang kata phasing down of hutang. Dia tak boleh kerat terus. Dan perancangan itu, fiscal landing itu sepatutnya berlaku 2028. Okey.
+[39:13] Rafizi: Jadi belanja pembangunan kita 90 billion setiap tahun. Semua ini daripada pinjaman.
+
+[39:21] Faiz Ahmad: Sebabnya ialah- Termasuklah
+
+[39:21] Rafizi: 1MDB debt repayment. Itu ada cerita lagi ah. Daripada 90 billion itu, Okey. sebenarnya separuh lebih kurang, yalah 50% of that Okey. A ialah a warisan hutang-hutang yang dulu, eh. Selain daripada 1MDB. Sebabnya begini, eh, 90 billion itu dia dibahagikan sebaik-baiknya lah. Kalau kita tak ada masalah, tak mewarisi masalah yang lama semua ni. Ada kita pinjam 90 billion. Kita gunakan 90 billion itu untuk buat semualah. Sekolah, jalan semua kan? Okey. Masalahnya kita dulu-dulu ada penswastaan.
+
+[40:04] Faiz Ahmad: Okey.
+
+[40:05] Rafizi: Ha, penswastaan yang dipanggil PPP ini, Public Private Partnership.
+
+[40:09] Faiz Ahmad: Okey.
+
+[40:09] Rafizi: Buat lebuhraya, PPP. Buat apa nama ni, kuarters cikgu, PPP. Buat kuarters askar, PPP kan? PPP ni konsep dia ialah swasta bayar dulu, kemudian kerajaan bayar sewa tiap-tiap bulan untuk tempoh konses- tiap-tiap bulan lah untuk tempoh konsesi 20 tahun ke. Dulu saya ingat masa dulu-dululah saya dedahkan pasal 6 UiTM di bawah konsesi ni.
+
+[40:41] Faiz Ahmad: Okey.
+
+[40:41] Rafizi: UiTM Tapah, kemudian Seremban 2 semua tu kan? Okey. Bayaran yang tiap-tiap tahun itu masuk belanja pembangunan.
+
+[40:50] Faiz Ahmad: Kota Madani adalah benda yang sama atau tak?
+
+[40:53] Rafizi: Ha, silap-silap lagi benda yang samalah. Ha, silap-silap lagilah. Bahaya. Jadi, akhirnya walaupun dibentangkan 90 billion setiap tahun, Okey. hanya 50% itu ialah untuk yang baru.
+
+[41:07] Faiz Ahmad: Okey.
+
+[41:08] Rafizi: Yang 50% maksudnya dalam 40, 45 billion tu ialah untuk membayar tanggungan-tanggungan yang telah ditinggalkan Okey. daripada dulu. Jadi sebab itulah kalau orang Najib lah kata, oh baguslah Najib, hutang sikit, banyak projek. Memanglah masa tu dia sign umum dia tinggal hutang kat kita. Contoh-contoh hutang yang dia kena bayar di dalam belanja pembangunan setiap tahun ini, yang apa nama ni kita kena pinjam untuk bayar. Termasuklah ECRL.
+
+[41:37] Faiz Ahmad: Okey.
+
+[41:37] Rafizi: Termasuklah MRT, termasuklah 1MDB, termasuklah Tabung Haji, termasuklah FELDA. Semua ni kan. Jadi akhirnya, sebab tu orang duk kata, kenapa hutang tak turun? Kenapa projek ni tak sebanyak yang kita nak? Mana projek besar dan sebagainya kan. Jadi ini adalah kekangan-kekangan yang ada. Sebab itu saya kata in that perspective lah eh. Imbangan itu nampak alhamdulillah lah. Kerana kalau nak menjawab yang Faiz tanya, kenapa tak potong je? Apa beza belanja mengurus dengan belanja pembangunan, kesannya kepada pertumbuhan ekonomi? Eh, katakanlah kita ada syarikat kan. Kita, ah katakanlah ambil siapa nama ni, Khairul Amin ke? Kan? Ah, dia pun buatlah business dia semua. Jadi dia buat business dia, dia bayar gaji je.
+
+[42:34] Faiz Ahmad: Okey.
+
+[42:35] Rafizi: Haa, tapi permintaan banyak ni kan, tapi dia tak bina kilang yang baru.
+
+[42:39] Faiz Ahmad: Okey.
+
+[42:40] Rafizi: Jadi bila dia tak bina kilang yang baru, kalau revenue dia 2 juta setahun, Statik lah. 2 juta statik lah. Okey, baru. Jadi sebab itu belanja pembangunan adalah capital yang kerajaan perlu belanja untuk merancakkan ekonomi.
+
+[42:56] Faiz Ahmad: Okey.
+
+[42:56] Rafizi: Kalau tidak ada belanja pembangunan, maka ekonomi kita tak tumbuh.
+
+[43:01] Faiz Ahmad: Membina base ekonomi yang baharulah. Okey.
+
+[43:03] Rafizi: Sebab kalau digunakan dengan baiklah kan.
+
+[43:05] Faiz Ahmad: Okey.
+
+[43:06] Rafizi: Jadi lebih banyak belanja pembangunan. Sepatutnyalah kalau belanja pembangunan itu projek yang betul-betul bagus, dia akan menjadi asas kepada memacu pertumbuhan ekonomi kerana pertumbuhan ekonomi yang baik 4, 5, 6%, yang itu juga akan memacu kepada kutipan cukai. So it's a chicken and egg. Kalau you tak borong untuk kembangkan ekonomi, macam mana you nak kutip cukai? Jadi sebab itu, rancangan yang kerajaan ada sebelum ini ialah kita kena ada apa nama orang kata phasing down of hutang. Dia tak boleh kerat terus. Dan perancangan itu, fiscal landing itu sepatutnya berlaku 2028.
+
+[43:49] Haziq: Okey.
 
 [43:50] Faiz Ahmad: Maksudnya nak dapatkan surplus ataupun berimbang? Tak. Tak juga?
 
-[43:54] Rafizi: Dia tak sampai surplus lagilah kot. Dia- 28 awas kan? 2028 tu maksudnya fiscal landing kita, kalau mengikut Fiscal Responsibility Act lah, kita ada parameter yang perlu kita patuhi eh. Okey. Satu contohnya, saya ingatlah on top of my head, debt to G- GDP ratio dikurangkan kepada 60%. Sasarannya lah. Sasarannya. Kemudian deficit di bawah 3%. Belanja pembangunan sekurang-kurangnya 3% daripada GDP. Then then kalau contohnya debt to GDP ratio boleh dibawa ke 60%, maka kita punya debt service charge ratio tu, dia boleh berada di bawah 15% daripada kutipan hasil kerajaan setiap tahun. Okey. So dia ambil masa dalam 3 tahun lagilah. Ah, cuma dia bergantung juga. Okey. Dia bergantung sama ada penyasaran subsidi ni boleh berlaku ke tidak. Dia bergantung sama ada pertumbuhan ekonomi ni boleh kekal di atas 4%. Kalau yang ini ni tak berlaku ni, then you tersasar sekali lagilah.
+[43:54] Rafizi: Dia tak sampai surplus lagilah kot.
+
+[43:56] Faiz Ahmad: Dia- 28 awas kan?
+
+[43:58] Rafizi: 2028 tu maksudnya fiscal landing kita, kalau mengikut Fiscal Responsibility Act lah, kita ada parameter yang perlu kita patuhi eh. Okey. Satu contohnya, saya ingatlah on top of my head, debt to G- GDP ratio dikurangkan kepada 60%.
+
+[44:17] Faiz Ahmad: Sasarannya lah.
+
+[44:17] Rafizi: Sasarannya. Kemudian deficit di bawah 3%. Belanja pembangunan sekurang-kurangnya 3% daripada GDP. Then then kalau contohnya debt to GDP ratio boleh dibawa ke 60%, maka kita punya debt service charge ratio tu, dia boleh berada di bawah 15% daripada kutipan hasil kerajaan setiap tahun.
+
+[44:45] Faiz Ahmad: Okey.
+
+[44:45] Rafizi: So dia ambil masa dalam 3 tahun lagilah. Ah, cuma dia bergantung juga.
+
+[44:49] Faiz Ahmad: Okey.
+
+[44:49] Rafizi: Dia bergantung sama ada penyasaran subsidi ni boleh berlaku ke tidak. Dia bergantung sama ada pertumbuhan ekonomi ni boleh kekal di atas 4%. Kalau yang ini ni tak berlaku ni, then you tersasar sekali lagilah.
 
 [45:03] Faiz Ahmad: Okey, secara overall lah, ekonomi under Madani ni, baik atau tak? Kalau YB nak kupas, nak bagi orang faham secara simple. Perform, biasa ataupun underperform?
 
-[45:17] Rafizi: Dia sebenarnya a soalan baik atau tidak ni, dia kena tanya kepada audience yang berbeza. Okey. Okey, kepada Menteri Ekonomi macam saya lah kan, kita melihat kepada ekonomi makro. Okey. Jadi apa yang orang kata parameter-parameter penting untuk ekonomi makro ni, satu pertumbuhan. Satu inflasi. Okey. Satu kenaikan gaji. Okey. Satu lagi ialah soal perkara struktur yang mesti diubah secepat mungkin. Ya. Satu lagi ialah reaksi pasaran di pasaran saham. Ini perkara-perkara. Termasuk pasaran mata wang?
+[45:17] Rafizi: Dia sebenarnya a soalan baik atau tidak ni, dia kena tanya kepada audience yang berbeza.
 
-[46:01] Faiz Ahmad: Tak juga?
+[45:23] Faiz Ahmad: Okey.
 
-[46:02] Rafizi: Saya, I mean, pasaran mata wang itu dia tidak sangat berada di dalam kawalan kita bagi jangka masa pendek. Jangka masa panjang okey because it's still very much driven by geopolitics satu. Satu lagi ialah the composition of economy kita. Faham. Dan dia ambil masa untuk kita mengubah. Contohnya eksport kita primarily driven by semiconductor, kan? Okay, now berbalik kepada soalan tadi kan, baik ke tidak kan? Okey. Sebagai Menteri Ekonomi, sekurang-kurangnya lah untuk tahun 2024 tu, semua perkara ni tick the box. Betul.
+[45:25] Rafizi: Okey, kepada Menteri Ekonomi macam saya lah kan, kita melihat kepada ekonomi makro.
 
-[46:42] Speaker ?: Setuju. Setuju.
+[45:33] Faiz Ahmad: Okey.
+
+[45:34] Rafizi: Jadi apa yang orang kata parameter-parameter penting untuk ekonomi makro ni, satu pertumbuhan. Satu inflasi.
+
+[45:43] Faiz Ahmad: Okey.
+
+[45:43] Rafizi: Satu kenaikan gaji. Okey. Satu lagi ialah soal perkara struktur yang mesti diubah secepat mungkin. Ya. Satu lagi ialah reaksi pasaran di pasaran saham. Ini perkara-perkara.
+
+[45:59] Faiz Ahmad: Termasuk pasaran mata wang? Tak juga?
+
+[46:02] Rafizi: Saya, I mean, pasaran mata wang itu dia tidak sangat berada di dalam kawalan kita bagi jangka masa pendek. Jangka masa panjang okey because it's still very much driven by geopolitics satu. Satu lagi ialah the composition of economy kita. Faham. Dan dia ambil masa untuk kita mengubah. Contohnya eksport kita primarily driven by semiconductor, kan? Okay, now berbalik kepada soalan tadi kan, baik ke tidak kan?
+
+[46:33] Faiz Ahmad: Okey.
+
+[46:34] Rafizi: Sebagai Menteri Ekonomi, sekurang-kurangnya lah untuk tahun 2024 tu, semua perkara ni tick the box.
+
+[46:41] Faiz Ahmad: Betul. Setuju. Setuju.
 
 [46:43] Rafizi: Jadi pasaran saham terbaik sejak tahun 2005. Betul. Contohnya kan. Growth 5.1 antara terbaik. Mata wang sebenarnya among the best performing Betul. di Asia. Inflasi actually kalau tanya negara lain dia aya macam mana you buat 2%. Stabil. Sangat stabil kan. Pertumbuhan gaji, I think apa nama ni swasta dan juga apa nama ni kerajaan if you take overall. I think lebih kurang 6% begitulah. Of course, kalau you go by sector, better lah. So dari segi makro, sekurang-kurangnya tahun 2024 itu aa menunjukkan bahawa perkara-perkara yang nak dibuat oleh kerajaan sebenarnya sudah mula ada result dialah. Okey. 2025 ni kita kena tengok. Sebab dia banyak cabaran. Kalau kita tengok pasaran saham kita.
 
@@ -255,17 +563,69 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [47:42] Rafizi: Ke bawah banyak jugalah kan. Sebab now tempat lain sekarang ni dah jadi bull market dah ni. Kita masih lagi 1530 and then transaction tak seperti yang sebelum ni. So I think the market ada melihat perkara-perkara yang yang yang yang dia mungkin tidak sebullish seperti tahun 24.
 
-[48:04] Faiz Ahmad: Mungkin sebab 24 orang take profit dan tunggu dan lihat. Mungkin. Mungkin kan?
+[48:04] Faiz Ahmad: Mungkin sebab 24 orang take profit dan tunggu dan lihat. Mungkin.
 
-[48:11] Rafizi: Cuma profit taking ni selalunya dia bukan sampai 6 bulan. Okey. Kan? Profit taking ni selalunya yalah dia dia very short term, minggu, hari dan sebagainya lah kan. The fact that kita punya pasaran saham masih lagi within the region 1530, 15, I mean it, you know, dia, dia menunjukkan bahawa 2025 is a much tougher year lah. Betul. Pertumbuhan ekonomi pun I think 4.4.
+[48:10] Rafizi: Mungkin kan? Cuma profit taking ni selalunya dia bukan sampai 6 bulan.
 
-[48:40] Faiz Ahmad: 4.4.
+[48:15] Faiz Ahmad: Okey.
 
-[48:42] Rafizi: Untuk Q1 4.4. Ha, yalah, but Q2. Q2 okey lah. Q3 ha kan. Jadi I think kita untuk kita nak nak apa nama ni, beat 5.1 tu, I I don't know. Okey. It's not that easy lah kan. Okey. Inflasi mungkin, tapi dia bergantung kepada bagaimana dan bila apa nama ni the next round of subsidy reform happens kan. Okey. Jadi itu dari segi makro lah. Tapi kalau ditanya kepada orang lah kan, dia ada pandangan masing-masing lah, and I think it's a fair comment di mana-mana lah. Okey. Kerana masalah between headlines ekonomi dengan orang biasa. Dia ambil masa sebelum kesan itu sampai kepada orang biasalah. Okey. Kerana dia rasa gaji belum naik secepat yang mungkin kan. Kemudian dia ada masalah yang semua negara perlu berhadapan dengan soal inflasi. Sebab inflasi ni harga barang ni sekali dia naik, dia tak turun. Tak turun, betul. Dan sebab itu saya contohnya, pandangan sayalah, sebarang dasar itu perlu dibuat secara berhati-hati. Jadi orang yang kata rindu zaman Najib ha eh, aku nak jawab eh. Sebenarnya oleh kerana tahun 2015 itu semua perkara dibuat sekaligus dan berganda. Okey. Minyak diapungkan 2015. Okey. Kemudian GST diperkenalkan 2015. 6% terus. So kalau tengok kepada inflasi, inflasi itu jump 2015. 4% lebih. Ha, 4% lebih, which is the highest yang kita ada lah kan. Jadi bila dia jump sekali, dia tak turun dah. Dia kekal kat situ lah. Jadi orang bandingkan ah dulu roti canai seringgit. Sekarang a katakanlah berapa roti canai sekarang? 2 ringgit kan. Bergantung pada tempat lah kan. Sebab itu sebarang keputusan kerajaan tu sequencing penting. Balancing between keperluan itu dan jangan aa menyebabkan inflasi tu naik mencanak. Jadi inflasi tahun masa zaman 2022 naik mencanak 4% lagi. 8.7. Bila dia naik, dia tak turun dah harganya kan? Jadi orang biasa dia ingat masuk kerajaan baru, maka harga itu akan turun. Aa bolehlah untuk turunkan, tapi maksudnya kita akan aa menjadi negara socialist atau komunis lah sebab you kena campur tangan sama ada bagi subsidi pukal kan untuk, untuk menurunkan harga ataupun you bagi cash is king.
+[48:16] Rafizi: Kan? Profit taking ni selalunya yalah dia dia very short term, minggu, hari dan sebagainya lah kan. The fact that kita punya pasaran saham masih lagi within the region 1530, 15, I mean it, you know, dia, dia menunjukkan bahawa 2025 is a much tougher year lah. Betul. Pertumbuhan ekonomi pun I think 4.4. 4.4.
+
+[48:42] Faiz Ahmad: Untuk Q1 4.4.
+
+[48:43] Rafizi: Ha, yalah, but Q2. Q2 okey lah. Q3 ha kan. Jadi I think kita untuk kita nak nak apa nama ni, beat 5.1 tu, I I don't know. Okey. It's not that easy lah kan.
+
+[48:56] Faiz Ahmad: Okey.
+
+[48:57] Rafizi: Inflasi mungkin, tapi dia bergantung kepada bagaimana dan bila apa nama ni the next round of subsidy reform happens kan.
+
+[49:08] Faiz Ahmad: Okey.
+
+[49:09] Rafizi: Jadi itu dari segi makro lah. Tapi kalau ditanya kepada orang lah kan, dia ada pandangan masing-masing lah, and I think it's a fair comment di mana-mana lah. Okey. Kerana masalah between headlines ekonomi dengan orang biasa. Dia ambil masa sebelum kesan itu sampai kepada orang biasalah. Okey. Kerana dia rasa gaji belum naik secepat yang mungkin kan. Kemudian dia ada masalah yang semua negara perlu berhadapan dengan soal inflasi. Sebab inflasi ni harga barang ni sekali dia naik, dia tak turun. Tak turun, betul. Dan sebab itu saya contohnya, pandangan sayalah, sebarang dasar itu perlu dibuat secara berhati-hati. Jadi orang yang kata rindu zaman Najib ha eh, aku nak jawab eh. Sebenarnya oleh kerana tahun 2015 itu semua perkara dibuat sekaligus dan berganda.
+
+[50:14] Faiz Ahmad: Okey.
+
+[50:14] Rafizi: Minyak diapungkan 2015.
+
+[50:16] Faiz Ahmad: Okey.
+
+[50:17] Rafizi: Kemudian GST diperkenalkan 2015. 6% terus. So kalau tengok kepada inflasi, inflasi itu jump 2015.
+
+[50:25] Faiz Ahmad: 4% lebih.
+
+[50:26] Rafizi: Ha, 4% lebih, which is the highest yang kita ada lah kan. Jadi bila dia jump sekali, dia tak turun dah. Dia kekal kat situ lah. Jadi orang bandingkan ah dulu roti canai seringgit. Sekarang a katakanlah berapa roti canai sekarang? 2 ringgit kan. Bergantung pada tempat lah kan. Sebab itu sebarang keputusan kerajaan tu sequencing penting. Balancing between keperluan itu dan jangan aa menyebabkan inflasi tu naik mencanak. Jadi inflasi tahun masa zaman 2022 naik mencanak 4% lagi.
+
+[51:02] Faiz Ahmad: 8.7.
+
+[51:03] Rafizi: Bila dia naik, dia tak turun dah harganya kan? Jadi orang biasa dia ingat masuk kerajaan baru, maka harga itu akan turun. Aa bolehlah untuk turunkan, tapi maksudnya kita akan aa menjadi negara socialist atau komunis lah sebab you kena campur tangan sama ada bagi subsidi pukal kan untuk, untuk menurunkan harga ataupun you bagi cash is king.
 
 [51:29] Faiz Ahmad: Komen daripada Timbalan Gabenor Bank Negara untuk 5 tahun 2020-25, inflasi accumulate year by year 9%. Kenaikan gaji swasta 7.1, 7.9. So sebenarnya income rakyat kehilangan negatif 1.9. So itu dimainkan dekat media sosial. Maksudnya Madani tak berjaya tackle. Dan saya tengok YB nak bergerak ke arah gaji progresif. Sejauh mana keberkesanan benda tu untuk tackle isu tu?
 
-[52:00] Rafizi: Dia ambil masa lah. Okey, I mean first and foremost lah kalau ada orang mainkan isu apa nama ni kegagalan kerana you ambil pukul rata over a period of 5 years, inflasi naik 9%, gaji naik 7%, and then you pukul kerajaan yang sedia ada sekarang. Yalah, tengoklah itu cumulative number. Cumulative number tu siapa yang buat naik banyak macam tu? 21. Tahun 21, 22 lah. Betul, betul, betul. Kan? In fact saya ingatlah yang yang yang baiknya, walaupun orang akan terus persoalkan, ialah kejayaan mengekang inflasi. Dia tak mudah tau nak turunkan. Saya pun tak tahulah kan. Orang mungkin tak rasa, tapi nak me- menurunkan daripada apa nama ni 4% pada bulan November 2022 when we take over all the way to about 1.4 now monthly lah. Kalau ti- kalau Madani gagal, eh, kita ambil 4%, dia kekal 4%, dia tak jadi 99% cumulative lah. Dia jadi 15% lah kan. Jadi yang itu kena berlaku adillah sebenarnya. Yang gagal tu kerana kita mewarisi yang itulah kan. Tapi soal gaji ni ialah soal struktur ekonomi kitalah kan. Okey. Yang ini sangat sensitif sebab kadang-kadang saya ingat yalah masyarakat kita ambil pendekatan yang sangat simplistik. Okey. Dia memanglah mudah kita maki majikan. Oh, syarikat tak nak bayar, bos jahat, gini gini gini kan. Ada, ada yang macam itu. Tapi sebelum kita tuding jari begitu, kita kena tengok sebenarnya komposisi ekonomi negara kita kan. Syarikat yang besar ni 2% je di negara kita. 2%. Sebab itu kalau ada satu kekosongan di syarikat besar, baik GLC lah, katakanlah Petronas ataupun Maybank, beribu-ribu orang nak ambil kerja tu kan? 2% lagi ialah syarikat sederhana. Okey. Dia bukan syarikat besar pun. Okey. Apa nama ni? Dan syarikat sederhana ni maksudnya kalau syarikat servis lah eh, syarikat servis, revenue dia kurang daripada 20 juta setahun. Tak besar syarikat tu tau. Dah dikira sebagai sederhana kan. 15% adalah syarikat kecil. Okey. Dan 80% adalah perniagaan mikro. Maksudnya jual ubat ke, jual makanan. Boi pisang. Boi pisang ke apa yang ma pekerja dia 5%. Okey. Jadi kalau orang kata, oh jahatlah majikan ni, kenapa dia tak nak bayar? Kita kena tengok majikan jenis macam mana. Ada majikan yang besar, kalau dia memang kedekut, yang itu memang yalah perlukan banyak dasar dan tindakan lah kan. Tapi pada masa yang sama, yang ini yang PSM lah. PSM, Parti Sosialis. Dia mudah je. Ah, kita sebagai kerajaan, kamu kerajaan, kamu arahkan saja. Bolehlah arahkan, bankrupt lah dia semua ni. Jadi sebab itu contohnya you nak kena balance kan supaya kita buat itu berkala. Sebab itu keputusan saya dahulu, untuk kita melindungi syarikat-syarikat yang kecil dan sederhana ni, kerajaan kena campur tangan. Okey. Campur tangan kerajaan itu tak boleh nak paksa dia bayar dan tetapkan wajib. Sebabnya dia dah ada yang garis yang wajib, iaitu gaji minima. Okey. 1700. Yang lain tu, yang 2000 semua tu nak naikkan mengikut tangga gaji yang kita rasakan wajar. Kerajaan kena bagi suntikan. Dan suntikan itu dia ada obligation, tanggungjawab daripada majikan dan juga tanggungjawab daripada pekerja. Pekerja tu kena upskill, Okey. dia buat semua kan. Perkara itu memanglah kita kalau kita nak bagi kepada semua boleh, tapi kita kena belanja 5 billion, 7 billion setahun lah dalam keadaan yang kita belum ada kemampuan itu lagi.
+[52:00] Rafizi: Dia ambil masa lah. Okey, I mean first and foremost lah kalau ada orang mainkan isu apa nama ni kegagalan kerana you ambil pukul rata over a period of 5 years, inflasi naik 9%, gaji naik 7%, and then you pukul kerajaan yang sedia ada sekarang. Yalah, tengoklah itu cumulative number. Cumulative number tu siapa yang buat naik banyak macam tu? 21. Tahun 21, 22 lah.
+
+[52:29] Faiz Ahmad: Betul, betul, betul.
+
+[52:30] Rafizi: Kan? In fact saya ingatlah yang yang yang baiknya, walaupun orang akan terus persoalkan, ialah kejayaan mengekang inflasi. Dia tak mudah tau nak turunkan. Saya pun tak tahulah kan. Orang mungkin tak rasa, tapi nak me- menurunkan daripada apa nama ni 4% pada bulan November 2022 when we take over all the way to about 1.4 now monthly lah. Kalau ti- kalau Madani gagal, eh, kita ambil 4%, dia kekal 4%, dia tak jadi 99% cumulative lah. Dia jadi 15% lah kan. Jadi yang itu kena berlaku adillah sebenarnya. Yang gagal tu kerana kita mewarisi yang itulah kan. Tapi soal gaji ni ialah soal struktur ekonomi kitalah kan. Okey. Yang ini sangat sensitif sebab kadang-kadang saya ingat yalah masyarakat kita ambil pendekatan yang sangat simplistik. Okey. Dia memanglah mudah kita maki majikan. Oh, syarikat tak nak bayar, bos jahat, gini gini gini kan. Ada, ada yang macam itu. Tapi sebelum kita tuding jari begitu, kita kena tengok sebenarnya komposisi ekonomi negara kita kan. Syarikat yang besar ni 2% je di negara kita. 2%. Sebab itu kalau ada satu kekosongan di syarikat besar, baik GLC lah, katakanlah Petronas ataupun Maybank, beribu-ribu orang nak ambil kerja tu kan? 2% lagi ialah syarikat sederhana.
+
+[54:19] Faiz Ahmad: Okey.
+
+[54:20] Rafizi: Dia bukan syarikat besar pun. Okey. Apa nama ni? Dan syarikat sederhana ni maksudnya kalau syarikat servis lah eh, syarikat servis, revenue dia kurang daripada 20 juta setahun. Tak besar syarikat tu tau. Dah dikira sebagai sederhana kan. 15% adalah syarikat kecil.
+
+[54:43] Faiz Ahmad: Okey.
+
+[54:44] Rafizi: Dan 80% adalah perniagaan mikro. Maksudnya jual ubat ke, jual makanan. Boi pisang. Boi pisang ke apa yang ma pekerja dia 5%.
+
+[54:57] Faiz Ahmad: Okey.
+
+[54:59] Rafizi: Jadi kalau orang kata, oh jahatlah majikan ni, kenapa dia tak nak bayar? Kita kena tengok majikan jenis macam mana. Ada majikan yang besar, kalau dia memang kedekut, yang itu memang yalah perlukan banyak dasar dan tindakan lah kan. Tapi pada masa yang sama, yang ini yang PSM lah. PSM, Parti Sosialis. Dia mudah je. Ah, kita sebagai kerajaan, kamu kerajaan, kamu arahkan saja. Bolehlah arahkan, bankrupt lah dia semua ni. Jadi sebab itu contohnya you nak kena balance kan supaya kita buat itu berkala. Sebab itu keputusan saya dahulu, untuk kita melindungi syarikat-syarikat yang kecil dan sederhana ni, kerajaan kena campur tangan.
+
+[55:48] Faiz Ahmad: Okey.
+
+[55:48] Rafizi: Campur tangan kerajaan itu tak boleh nak paksa dia bayar dan tetapkan wajib. Sebabnya dia dah ada yang garis yang wajib, iaitu gaji minima.
+
+[55:59] Faiz Ahmad: Okey.
+
+[56:00] Rafizi: 1700. Yang lain tu, yang 2000 semua tu nak naikkan mengikut tangga gaji yang kita rasakan wajar. Kerajaan kena bagi suntikan. Dan suntikan itu dia ada obligation, tanggungjawab daripada majikan dan juga tanggungjawab daripada pekerja. Pekerja tu kena upskill, Okey. dia buat semua kan. Perkara itu memanglah kita kalau kita nak bagi kepada semua boleh, tapi kita kena belanja 5 billion, 7 billion setahun lah dalam keadaan yang kita belum ada kemampuan itu lagi.
 
 [56:32] Faiz Ahmad: Kalau program Gear Up Kerajaan?
 
@@ -273,109 +633,335 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [56:37] Faiz Ahmad: Untuk GLC lah.
 
-[56:38] Rafizi: Untuk GLC saja. Okey. Jadi GLC memang syarikat besar. Dan memang duit dia banyak. Jadi kalau duit untung beratus juta, kau bayar orang gaji bawah 2000, memang patut kena banyaklah kan? Okey. Tapi kita tak boleh. Sebab itu dalam progressive wage, gaji progresif, syarat dia syarikat besar tak boleh. Syarikat yang dimiliki oleh pemegang saham asing tak boleh. Okey. GLC tak boleh. Dia khusus kepada syarikat-syarikat sederhana ke bawah ini. Okey. Yang sebenarnya adalah majikan paling besar di negara kita. Ah, tapi you nak pukul majikan sebab you kata majikan ni jahat semua. Sebenarnya bukan begitu cara dialah kan? Sebab dia pun sebenarnya terpaksa bergelumang dengan tekanan kos, dengan gaji dan sebagainya lah. Kita pun nak pastikan bahawa kesan kepada inflasi itu tidak terlalu besar. Okey. Kalau you paksa, katakanlah you letakkan tangga gaji, gaji minima 1700, gaji fresh graduate 3500 dan sebagainya kan. Ada dua kemungkinan saja. Satu dia gulung tikar. Dia kedua ataupun dia kita panggil apa nama ni informal market. Okey. Dia akan kata tak apalah, aku tak boleh bayar engkau. Engkau tak nak hilang kerja kan? Ha, jadi aku tak gaji engkau. Aku kon gaji engkau sebagai kontraktor. Kau tak ada EPF, kau tak ada ni semua. Kau akan tetap dapat 2000. Paling kurang kau tak hilang gaji. Sebab kalau aku ambil engkau sebagai pekerja tetap, aku kena bayar 3000 setengah, aku tak mampu kan. Ataupun cara kedua yang dia akan buat ialah dia naikkan harga lah. Inflasi naiklah. So sebab itu soal gaji pekerja swasta ni yang tu kita kena buat secara berkala dan ini kembali kepada masalah paling utama, iaitu orang marahlah kat saya kan. Masalah kalau saya selalu sebut masalah struktur. Kerana perniagaan kita yang SME yang 95% dalam negara kita ni, kita tidak berkemampuan untuk mengeksport. Kita sebenarnya buat semua yang orang lain buat. Tu yang saya selalu ulang, orang marah kata perangai kita Melayulah. Kadang-kadang kalau ada seorang jual donat susu, dia laku habis jual donat susu. Donat susu kat situ jelah. Kalau pelanggannya ada 10 orang, 10 orang lah. Then you mula bermasalah kan. Sebab berbanding contohnya kalau dengan SME negara lain, SME Germany ke, SME di Korea, dia nama SME tapi dia buat benda untuk pasang dalam Boeing tau. Jadi oleh sebab itu dia gaji engineer, dia gaji, dia ada 50 orang je. Tapi dia buat benda yang cukup aa apa nama ni, nilai aa teknologi tinggi. Jadi sebab itu dia boleh bayar gaji yang tinggi. Kecuali kita beralih daripada buat baldi. Okey. Kepada buat mesin untuk buat me- baldi. Dan sampai bila-bila soal struktur ni takkan diselesaikan.
+[56:38] Rafizi: Untuk GLC saja. Okey. Jadi GLC memang syarikat besar. Dan memang duit dia banyak. Jadi kalau duit untung beratus juta, kau bayar orang gaji bawah 2000, memang patut kena banyaklah kan? Okey. Tapi kita tak boleh. Sebab itu dalam progressive wage, gaji progresif, syarat dia syarikat besar tak boleh. Syarikat yang dimiliki oleh pemegang saham asing tak boleh.
+
+[57:03] Faiz Ahmad: Okey.
+
+[57:03] Rafizi: GLC tak boleh. Dia khusus kepada syarikat-syarikat sederhana ke bawah ini.
+
+[57:09] Faiz Ahmad: Okey.
+
+[57:09] Rafizi: Yang sebenarnya adalah majikan paling besar di negara kita. Ah, tapi you nak pukul majikan sebab you kata majikan ni jahat semua. Sebenarnya bukan begitu cara dialah kan? Sebab dia pun sebenarnya terpaksa bergelumang dengan tekanan kos, dengan gaji dan sebagainya lah. Kita pun nak pastikan bahawa kesan kepada inflasi itu tidak terlalu besar.
+
+[57:34] Faiz Ahmad: Okey.
+
+[57:35] Rafizi: Kalau you paksa, katakanlah you letakkan tangga gaji, gaji minima 1700, gaji fresh graduate 3500 dan sebagainya kan. Ada dua kemungkinan saja. Satu dia gulung tikar. Dia kedua ataupun dia kita panggil apa nama ni informal market.
+
+[57:55] Faiz Ahmad: Okey.
+
+[57:55] Rafizi: Dia akan kata tak apalah, aku tak boleh bayar engkau. Engkau tak nak hilang kerja kan? Ha, jadi aku tak gaji engkau. Aku kon gaji engkau sebagai kontraktor. Kau tak ada EPF, kau tak ada ni semua. Kau akan tetap dapat 2000. Paling kurang kau tak hilang gaji. Sebab kalau aku ambil engkau sebagai pekerja tetap, aku kena bayar 3000 setengah, aku tak mampu kan. Ataupun cara kedua yang dia akan buat ialah dia naikkan harga lah. Inflasi naiklah. So sebab itu soal gaji pekerja swasta ni yang tu kita kena buat secara berkala dan ini kembali kepada masalah paling utama, iaitu orang marahlah kat saya kan. Masalah kalau saya selalu sebut masalah struktur. Kerana perniagaan kita yang SME yang 95% dalam negara kita ni, kita tidak berkemampuan untuk mengeksport. Kita sebenarnya buat semua yang orang lain buat. Tu yang saya selalu ulang, orang marah kata perangai kita Melayulah. Kadang-kadang kalau ada seorang jual donat susu, dia laku habis jual donat susu. Donat susu kat situ jelah. Kalau pelanggannya ada 10 orang, 10 orang lah. Then you mula bermasalah kan. Sebab berbanding contohnya kalau dengan SME negara lain, SME Germany ke, SME di Korea, dia nama SME tapi dia buat benda untuk pasang dalam Boeing tau. Jadi oleh sebab itu dia gaji engineer, dia gaji, dia ada 50 orang je. Tapi dia buat benda yang cukup aa apa nama ni, nilai aa teknologi tinggi. Jadi sebab itu dia boleh bayar gaji yang tinggi. Kecuali kita beralih daripada buat baldi.
+
+[59:39] Faiz Ahmad: Okey.
+
+[59:40] Rafizi: Kepada buat mesin untuk buat me- baldi. Dan sampai bila-bila soal struktur ni takkan diselesaikan.
 
 [59:47] Faiz Ahmad: Tapi YB banyak melontarkan masalah. Solusinya apa? YB dah kerajaan sekarang.
 
-[59:53] Rafizi: Sebab itu apa nama ni, contohnya kan, pertama, keseluruhan rang- Ke ekonomi kita ni, kita dah kena beralih daripada ekonomi yang legacy. Okey. Kita tengok kilang-kilang hebat kita kan? Tapi dari segi kandungannya, kilang-kilang hebat kita ni tidak menghasilkan teknologi tu sendiri. Okey. Dia sebenarnya membayar royalti kat orang sana, gini, dan barang yang dihasilkan adalah barang komoditi. Perkara ini itu yang tahun 2020 3 kita buat kajian separuh penggal. Apa nama ni? Rancangan Malaysia ke-12 kan. Itu yang kita perkenalkan high growth, high value sector. Okey. So contohnya digital economy is actually high growth, high value sector. Advanced electronic E&E. Kemudian energy transition. Matter. Maksudnya industri yang, yang berasaskan energy transition, that is high growth. Okay. Critical mineral is high growth, high value sector. Dan actually modern farming. Modern farming. Modern farming is because food is expensive lah. Kita kena import dan sebagainya kan? Jadi tugas kerajaan ialah merangka balik sektor ekonomi kita ini untuk beralih kepada sektor-sektor yang nilai dia tinggi. Jadi yang inilah maksudnya belanjawan kena pastikan sektor ni. Kemudian dari segi tenaga yang kita lahirkan mestilah didorong ke arah ini kan. Tapi benda tu tak boleh berlaku serta-merta. Ada benda yang kita boleh intervene sebagai katalis. Itu yang contohnya Kementerian Ekonomi bekerjasama dan kita berjaya ada projek semiconductor supaya dalam tempoh 5 tahun Malaysia menghasilkan chip sendiri. Okey. Dan kita akan bertukar daripada kita memasang chip kepada kita mencipta chip. Kerana kalau cipta chip ni, you tak pasang pun tak apa. Orang lain buat dekat Vietnam ke Indonesia. Setiap satu chip tu kita ada royalty kita. Itu. Okey. Itu yang berlaku di US, di UK, Jepun semua. Tapi kita tak sampai ke peringkat itulah.
+[59:53] Rafizi: Sebab itu apa nama ni, contohnya kan, pertama, keseluruhan rang- Ke ekonomi kita ni, kita dah kena beralih daripada ekonomi yang legacy.
 
-[1:02:19] Faiz Ahmad: Yang Arm tu, Arm chip tu kat arah tu lah. Arm lah.
+[1:00:06] Faiz Ahmad: Okey.
 
-[1:02:21] Rafizi: Okey. Itu sebenarnya sebab yang mungkin orang tak faham lah. Sebenarnya Arm adalah monopoli kepada teknologi chip di dunia. Okey. 95% daripada chip di dalam mobile device lah, apa-apalah, telefon, 95% adalah ARM. Cuma business model dia berbanding dengan Intel dulu, dia buat kajian semua. Bila dia dah ada blueprint dia dan teknologi tu, dia jual kat kita, kita dapat IP tu. Kemudian setiap satu yang dijual, setiap satu chip yang dijual itu, dia ada percentage dia. 20% ke 30% kan. Jadi dengan revolusi smartphone yang berlaku dalam 20 tahun yang lepas, model business itulah yang berjaya berbanding dengan model tradisional macam Intel, AMD dulu. Intel, AMD semua dulu dia buat dalaman, dia pasang sendiri, kemudian beli chip dia kan. Okey. Masalah kita, kalau kita nak tunggu kita ada pakar sendiri untuk menghasilkan chip kita sendiri, memang 20 tahun, 30 tahun pun tak tentu kan? Ya. Jadi sebab itu kita bekerjasama dengan ARM supaya teknologi IP tu diberikan dan mereka juga akan membantu untuk menghasilkan cip kita. Yang itu yang sekarang ni proses itu sedang berlaku. Because bila benda tu berlaku, maksudnya bentuk pekerjaan yang dihasilkan bukan lagi engineer kualiti yang tengok pemasangan chip lah. Dia jadi engineer yang design the chip. Gaji dia tu beza tau.
+[1:00:08] Rafizi: Kita tengok kilang-kilang hebat kita kan? Tapi dari segi kandungannya, kilang-kilang hebat kita ni tidak menghasilkan teknologi tu sendiri.
+
+[1:00:17] Faiz Ahmad: Okey.
+
+[1:00:17] Rafizi: Dia sebenarnya membayar royalti kat orang sana, gini, dan barang yang dihasilkan adalah barang komoditi. Perkara ini itu yang tahun 2020 3 kita buat kajian separuh penggal. Apa nama ni? Rancangan Malaysia ke-12 kan. Itu yang kita perkenalkan high growth, high value sector.
+
+[1:00:41] Faiz Ahmad: Okey.
+
+[1:00:41] Rafizi: So contohnya digital economy is actually high growth, high value sector. Advanced electronic E&E. Kemudian energy transition.
+
+[1:00:53] Faiz Ahmad: Matter.
+
+[1:00:55] Rafizi: Maksudnya industri yang, yang berasaskan energy transition, that is high growth.
+
+[1:01:01] Faiz Ahmad: Okay.
+
+[1:01:02] Rafizi: Critical mineral is high growth, high value sector. Dan actually modern farming.
+
+[1:01:07] Faiz Ahmad: Modern farming.
+
+[1:01:07] Rafizi: Modern farming is because food is expensive lah. Kita kena import dan sebagainya kan? Jadi tugas kerajaan ialah merangka balik sektor ekonomi kita ini untuk beralih kepada sektor-sektor yang nilai dia tinggi. Jadi yang inilah maksudnya belanjawan kena pastikan sektor ni. Kemudian dari segi tenaga yang kita lahirkan mestilah didorong ke arah ini kan. Tapi benda tu tak boleh berlaku serta-merta. Ada benda yang kita boleh intervene sebagai katalis. Itu yang contohnya Kementerian Ekonomi bekerjasama dan kita berjaya ada projek semiconductor supaya dalam tempoh 5 tahun Malaysia menghasilkan chip sendiri.
+
+[1:01:56] Faiz Ahmad: Okey.
+
+[1:01:56] Rafizi: Dan kita akan bertukar daripada kita memasang chip kepada kita mencipta chip. Kerana kalau cipta chip ni, you tak pasang pun tak apa. Orang lain buat dekat Vietnam ke Indonesia. Setiap satu chip tu kita ada royalty kita. Itu. Okey. Itu yang berlaku di US, di UK, Jepun semua. Tapi kita tak sampai ke peringkat itulah.
+
+[1:02:19] Faiz Ahmad: Yang Arm tu, Arm chip tu kat arah tu lah.
+
+[1:02:20] Rafizi: Arm lah.
+
+[1:02:21] Faiz Ahmad: Okey.
+
+[1:02:21] Rafizi: Itu sebenarnya sebab yang mungkin orang tak faham lah. Sebenarnya Arm adalah monopoli kepada teknologi chip di dunia.
+
+[1:02:32] Faiz Ahmad: Okey.
+
+[1:02:33] Rafizi: 95% daripada chip di dalam mobile device lah, apa-apalah, telefon, 95% adalah ARM. Cuma business model dia berbanding dengan Intel dulu, dia buat kajian semua. Bila dia dah ada blueprint dia dan teknologi tu, dia jual kat kita, kita dapat IP tu. Kemudian setiap satu yang dijual, setiap satu chip yang dijual itu, dia ada percentage dia. 20% ke 30% kan. Jadi dengan revolusi smartphone yang berlaku dalam 20 tahun yang lepas, model business itulah yang berjaya berbanding dengan model tradisional macam Intel, AMD dulu. Intel, AMD semua dulu dia buat dalaman, dia pasang sendiri, kemudian beli chip dia kan.
+
+[1:03:17] Faiz Ahmad: Okey.
+
+[1:03:18] Rafizi: Masalah kita, kalau kita nak tunggu kita ada pakar sendiri untuk menghasilkan chip kita sendiri, memang 20 tahun, 30 tahun pun tak tentu kan?
+
+[1:03:28] Faiz Ahmad: Ya.
+
+[1:03:28] Rafizi: Jadi sebab itu kita bekerjasama dengan ARM supaya teknologi IP tu diberikan dan mereka juga akan membantu untuk menghasilkan cip kita. Yang itu yang sekarang ni proses itu sedang berlaku. Because bila benda tu berlaku, maksudnya bentuk pekerjaan yang dihasilkan bukan lagi engineer kualiti yang tengok pemasangan chip lah. Dia jadi engineer yang design the chip. Gaji dia tu beza tau.
 
 [1:03:56] Faiz Ahmad: Okey, YB, kita masuk tentang FDI pula. Sebab sekarang ni, ah, PMX dikenali dekat media sosial adalah bapa potensi. Bapa FDI, bapa potensi. So sebenarnya FDI ni yalah pengumuman tu adalah dikatakan sebagai apa nama dia, dia bukan realize lagi kan? Tapi potensi, potential FDI. So, macam mana rakyat nak menyemak benda tu supaya maklumat tu sampai?
 
-[1:04:23] Rafizi: Data tu ada. Saya pernah jawab tau sekali kan. Okey, secara pelaporan rasmi negara, sebab negara kena ada pelaporan rasmi. Okey. Yang itu yang dikeluarkan oleh Dossam lah. Okey. Kan sebab mana-mana negara akan ada National Statistics Office Okey. yang melaporkan semua ini berdasarkan kepada piawai yang ditetapkan oleh antarabangsalah. Okey. DOSM memang laporkan FDI tiap-tiap tahun. Okey. Cuma sebelum ini, adalah geng-geng Najib lah selalunya yang buat bising. Geng-geng PAS tak faham mana sangat kan. Dia tanya kenapa beza Dossam punya number tu lagi sedikit daripada yang diumumkan oleh MITI. Now proses dia begini, mengikut pelaporan piawai antarabangsa, FDI dilaporkan ialah FDI yang telah dibelanjakan. Okey. So contohnya kalau ada syarikat A daripada katakanlah China, dia nak buka kilang kan. Proses dia masa dia nak buka kilang itu, dia perlu mendapatkan kelulusan daripada MITI. Okey. Melalui MAIDA eh. Okey. Jadi dia akan submit, dia kata saya nak buat kilang sekian, sekian, sekian. Apa nama ni, perbelanjaan capital saya 2 billion. Ha, ini yang diumumkanlah. Okey, okey. 2 billion dan sebagainya, gini, gini, gini. Kenapa dia perlu dapatkan kelulusan daripada MAIDA ialah supaya dia akan dapat insentif cukai. Okey. Nanti bila dia dah beroperasi semua tu, dia boleh claim baliklah capital allowance ke kalau dia dapat pioneer status, dia dapatlah ini untuk tax kan. Yang itu diumumkan oleh MITI, yang 300 bilion tertinggi semua tu, yang itu untuk tahun itu yang telah diluluskan. Okey. Tapi samalah juga macam ekonomi semua. Bukannya syarikat tu masuk, dia kata saya nak buat kilang 2 billion. Pup, esok ada kilang. Mana ada. Dia kena pi cari tanah. Ha, lepas tu dia kena pasang kilang dan sebagainya lah. So katakanlah dia nak buat kilang 2 billion. Projek dia tu untuk memasang kilang semua tu daripada dapatkan tanah sampailah beroperasi 3 tahun. Okey. Jadi dia mula bawa masuk duit dan dia mula berbelanja. Yang itu dilaporkan oleh DOSM. Okey. Ha, yang itu dilaporkan oleh DOSM kan. Jadi sebenarnya, kalau konsep kalau syarikatlah eh, kalau kita nak faham, konsep dia yang baik mungkin kalau kita bandingkan dengan syarikat pembinaan. Okey. Eh, syarikat pembinaan. Dia akan umum aa perolehan dia, revenue dia untuk tahun itu. Revenue dia ni yalah maksudnya dari segi ke apa nama ni, revenue recognition dia selalunya yang dia dah jual. Okey. Ataupun projek progress dia tu dah boleh build, dia boleh build, dah boleh masukkan. Katakanlah 100 juta untuk tahun itu kan. Tapi kalau kita nak menilai saham dia, okey ke tidak syarikat ni? Kita tak tengok revenue tu saja tau. Kita tengok satu lagi, kita panggil order book. Okey. Ah, maksudnya dia sekarang ni dapat 100 juta perolehan tiap-tiap tahun. Tapi sebenarnya projek yang dia dapat untuk tahun-tahun akan datang ni berapa? Lagi tinggi 3 billion, 4 billion lagi baguslah. Kerana maksudnya syarikat ni memang. Jadi konsep FDI potensi ni samalah macam itu. Yang disebut sebagai FDI yang diluluskan itu order book. Okey, faham. Yang DOSM laporkan itu adalah yang telah recognize kerana telah dibelanja. Okey. Cuma yang boleh kita kena perhati dengan baik ialah berapa sebenarnya peratusan FDI yang diluluskan oleh MAIDA dan MITI yang benar-benar dilaksanakan. Realize kan. Realize kan. Saya selalu tanya soalan ni dalaman lah kan. Setakat ni saya ingat dalam 80% lah. Which is a good number.
+[1:04:23] Rafizi: Data tu ada. Saya pernah jawab tau sekali kan. Okey, secara pelaporan rasmi negara, sebab negara kena ada pelaporan rasmi. Okey. Yang itu yang dikeluarkan oleh Dossam lah.
 
-[1:08:32] Faiz Ahmad: Tinggilah. Compare dengan zaman yang sering dia sebut tu.
+[1:04:37] Faiz Ahmad: Okey.
 
-[1:08:34] Rafizi: Sebelum tu saya ingat dalam I can't remember. Saya tak cari data tu. Lagi lagi rendah lah. Saya kena cari data tu. Cari data tu. I think is a lot lower lah. I think between 50 to 60%. So boleh kata perform lah kan? Data tu perform lah.
+[1:04:38] Rafizi: Kan sebab mana-mana negara akan ada National Statistics Office Okey. yang melaporkan semua ini berdasarkan kepada piawai yang ditetapkan oleh antarabangsalah.
 
-[1:08:49] Faiz Ahmad: Tapi ada orang kata juga tak boleh cair data ni, boleh tipu. Netizen, netizen.
+[1:04:49] Faiz Ahmad: Okey.
 
-[1:08:54] Rafizi: Yalah, yang itu hak masing-masing lah. Tapi kesianlah kat pegawai-pegawai dekat Dorsum semua tu. I think lah kan, orang yang kata data ni boleh ditipu semua ni kan. Dia kadang-kadang lupa bahawa kalaulah ada menteri. Yang nak suruh macam saya, Menteri Ekonomi kan. Dosum dia nak apa nama ni publish data tu, Dia tak maklumkan kat saya. Dia tak boleh maklumkan kat saya. Kerana dia perlu mema- mematuhi piawai antarabangsa. Data memang sebelum ini eh, kerajaan sebelum ini, sebelum Pakatan Harapan lah, kerajaan PN dululah, ada isu besar kerana inflasi diumumkan oleh DOSEM. Jadi ada perbincangan pumpang-pumpang ni supaya data inflasi itu sebelum diumumkan. Kena present dulu. Kena present kat kabinet dulu kan. Nasib baik diorang kalah lah. Jadi bila saya masuk jadi Menteri Ekonomi, perkara itu saya warisi. Okey. Kerana ni tak tentu ni sebab sebelum ini ada perbincangan tak boleh nak bentangkan terus, umum terus kepada pasaran kan. Saya kata you go ahead. Kita tak maklum kepada kabinet ataupun PM ataupun Menteri Ekonomi pun.
+[1:04:51] Rafizi: DOSM memang laporkan FDI tiap-tiap tahun.
+
+[1:04:53] Faiz Ahmad: Okey.
+
+[1:04:54] Rafizi: Cuma sebelum ini, adalah geng-geng Najib lah selalunya yang buat bising. Geng-geng PAS tak faham mana sangat kan. Dia tanya kenapa beza Dossam punya number tu lagi sedikit daripada yang diumumkan oleh MITI. Now proses dia begini, mengikut pelaporan piawai antarabangsa, FDI dilaporkan ialah FDI yang telah dibelanjakan.
+
+[1:05:20] Faiz Ahmad: Okey.
+
+[1:05:21] Rafizi: So contohnya kalau ada syarikat A daripada katakanlah China, dia nak buka kilang kan. Proses dia masa dia nak buka kilang itu, dia perlu mendapatkan kelulusan daripada MITI.
+
+[1:05:35] Faiz Ahmad: Okey.
+
+[1:05:35] Rafizi: Melalui MAIDA eh.
+
+[1:05:36] Faiz Ahmad: Okey.
+
+[1:05:36] Rafizi: Jadi dia akan submit, dia kata saya nak buat kilang sekian, sekian, sekian. Apa nama ni, perbelanjaan capital saya 2 billion. Ha, ini yang diumumkanlah. Okey, okey. 2 billion dan sebagainya, gini, gini, gini. Kenapa dia perlu dapatkan kelulusan daripada MAIDA ialah supaya dia akan dapat insentif cukai.
+
+[1:05:58] Faiz Ahmad: Okey.
+
+[1:05:59] Rafizi: Nanti bila dia dah beroperasi semua tu, dia boleh claim baliklah capital allowance ke kalau dia dapat pioneer status, dia dapatlah ini untuk tax kan. Yang itu diumumkan oleh MITI, yang 300 bilion tertinggi semua tu, yang itu untuk tahun itu yang telah diluluskan.
+
+[1:06:16] Faiz Ahmad: Okey.
+
+[1:06:17] Rafizi: Tapi samalah juga macam ekonomi semua. Bukannya syarikat tu masuk, dia kata saya nak buat kilang 2 billion. Pup, esok ada kilang. Mana ada. Dia kena pi cari tanah. Ha, lepas tu dia kena pasang kilang dan sebagainya lah. So katakanlah dia nak buat kilang 2 billion. Projek dia tu untuk memasang kilang semua tu daripada dapatkan tanah sampailah beroperasi 3 tahun.
+
+[1:06:43] Faiz Ahmad: Okey.
+
+[1:06:44] Rafizi: Jadi dia mula bawa masuk duit dan dia mula berbelanja. Yang itu dilaporkan oleh DOSM.
+
+[1:06:50] Faiz Ahmad: Okey.
+
+[1:06:51] Rafizi: Ha, yang itu dilaporkan oleh DOSM kan. Jadi sebenarnya, kalau konsep kalau syarikatlah eh, kalau kita nak faham, konsep dia yang baik mungkin kalau kita bandingkan dengan syarikat pembinaan.
+
+[1:07:06] Faiz Ahmad: Okey.
+
+[1:07:06] Rafizi: Eh, syarikat pembinaan. Dia akan umum aa perolehan dia, revenue dia untuk tahun itu. Revenue dia ni yalah maksudnya dari segi ke apa nama ni, revenue recognition dia selalunya yang dia dah jual.
+
+[1:07:19] Faiz Ahmad: Okey.
+
+[1:07:20] Rafizi: Ataupun projek progress dia tu dah boleh build, dia boleh build, dah boleh masukkan. Katakanlah 100 juta untuk tahun itu kan. Tapi kalau kita nak menilai saham dia, okey ke tidak syarikat ni? Kita tak tengok revenue tu saja tau. Kita tengok satu lagi, kita panggil order book.
+
+[1:07:37] Faiz Ahmad: Okey.
+
+[1:07:38] Rafizi: Ah, maksudnya dia sekarang ni dapat 100 juta perolehan tiap-tiap tahun. Tapi sebenarnya projek yang dia dapat untuk tahun-tahun akan datang ni berapa? Lagi tinggi 3 billion, 4 billion lagi baguslah. Kerana maksudnya syarikat ni memang. Jadi konsep FDI potensi ni samalah macam itu. Yang disebut sebagai FDI yang diluluskan itu order book.
+
+[1:08:01] Faiz Ahmad: Okey, faham.
+
+[1:08:02] Rafizi: Yang DOSM laporkan itu adalah yang telah recognize kerana telah dibelanja.
+
+[1:08:07] Faiz Ahmad: Okey.
+
+[1:08:07] Rafizi: Cuma yang boleh kita kena perhati dengan baik ialah berapa sebenarnya peratusan FDI yang diluluskan oleh MAIDA dan MITI yang benar-benar dilaksanakan. Realize kan. Realize kan. Saya selalu tanya soalan ni dalaman lah kan. Setakat ni saya ingat dalam 80% lah. Which is a good number. Tinggilah.
+
+[1:08:32] Faiz Ahmad: Compare dengan zaman yang sering dia sebut tu.
+
+[1:08:34] Rafizi: Sebelum tu saya ingat dalam I can't remember.
+
+[1:08:37] Faiz Ahmad: Saya tak cari data tu.
+
+[1:08:39] Rafizi: Lagi lagi rendah lah.
+
+[1:08:40] Faiz Ahmad: Saya kena cari data tu.
+
+[1:08:41] Rafizi: Cari data tu. I think is a lot lower lah. I think between 50 to 60%. So boleh kata
+
+[1:08:46] Faiz Ahmad: perform lah kan? Data tu perform lah. Tapi ada orang kata juga tak boleh cair data ni, boleh tipu. Netizen, netizen.
+
+[1:08:54] Rafizi: Yalah, yang itu hak masing-masing lah. Tapi kesianlah kat pegawai-pegawai dekat Dorsum semua tu. I think lah kan, orang yang kata data ni boleh ditipu semua ni kan. Dia kadang-kadang lupa bahawa kalaulah ada menteri. Yang nak suruh macam saya, Menteri Ekonomi kan. Dosum dia nak apa nama ni publish data tu, Dia tak maklumkan kat saya. Dia tak boleh maklumkan kat saya. Kerana dia perlu mema- mematuhi piawai antarabangsa. Data memang sebelum ini eh, kerajaan sebelum ini, sebelum Pakatan Harapan lah, kerajaan PN dululah, ada isu besar kerana inflasi diumumkan oleh DOSEM. Jadi ada perbincangan pumpang-pumpang ni supaya data inflasi itu sebelum diumumkan.
+
+[1:09:50] Faiz Ahmad: Kena present dulu.
+
+[1:09:51] Rafizi: Kena present kat kabinet dulu kan. Nasib baik diorang kalah lah. Jadi bila saya masuk jadi Menteri Ekonomi, perkara itu saya warisi. Okey. Kerana ni tak tentu ni sebab sebelum ini ada perbincangan tak boleh nak bentangkan terus, umum terus kepada pasaran kan. Saya kata you go ahead. Kita tak maklum kepada kabinet ataupun PM ataupun Menteri Ekonomi pun.
 
 [1:10:16] Faiz Ahmad: Ni isu integriti jugalah kan? Maksudnya berintegriti dari segi nak kontrol maklumat supaya rakyat.
 
-[1:10:22] Rafizi: Ha yalah sebelum dia. Tak, tapi DOSM tu kalau ada kerajaan yang kata dia nak tengok dulu data. Tak bolehlah dia kena jawab kepada pertubuhan dan piawai antarabangsa. Kalau pertubuhan dan piawai antarabangsa, tahu bahawa angka rasmi yang diterbitkan oleh Dosum itu telah melalui kena dapat kelulusan kerajaan dulu. Kerajaan dulu. Memang orang tak percayalah. Kalau you may be too young lah eh. Okey. Dalam tahun 80-an dan 90-an, masa China mula-mula nam- bernampak maju dalam ekonomi lah kan. You tahu tak apa masalah utama China? Integriti data. Orang tak percaya data dia. Okey. So kerajaan China ambil masa yang lama untuk membangunkan sistem statistik antarabangsa dia supaya data yang diterbitkan itu memang betul-betul dipercayai. Jadi samalah juga macam kita, DOSM dihormati. Jadi pegawai-pegawai DOSM tu, menteri bertukar ganti, kerajaan bertukar ganti. Dia dah kenal semualah menteri keluar masuk semua ni kan. Kalau suruh dia tukar, memang dia takkan tukar. Dia akan bergaduh besar pun, dia takkan tukar. Dulu saya ingat masa bising-bising zaman PN dulu nak check dulu semua, dia orang buat da lah.
+[1:10:22] Rafizi: Ha yalah sebelum dia. Tak, tapi DOSM tu kalau ada kerajaan yang kata dia nak tengok dulu data. Tak bolehlah dia kena jawab kepada pertubuhan dan piawai antarabangsa. Kalau pertubuhan dan piawai antarabangsa, tahu bahawa angka rasmi yang diterbitkan oleh Dosum itu telah melalui kena dapat kelulusan kerajaan dulu. Kerajaan dulu. Memang orang tak percayalah. Kalau you may be too young lah eh. Okey. Dalam tahun 80-an dan 90-an, masa China mula-mula nam- bernampak maju dalam ekonomi lah kan. You tahu tak apa masalah utama China? Integriti data. Orang tak percaya data dia.
+
+[1:11:09] Faiz Ahmad: Okey.
+
+[1:11:09] Rafizi: So kerajaan China ambil masa yang lama untuk membangunkan sistem statistik antarabangsa dia supaya data yang diterbitkan itu memang betul-betul dipercayai. Jadi samalah juga macam kita, DOSM dihormati. Jadi pegawai-pegawai DOSM tu, menteri bertukar ganti, kerajaan bertukar ganti. Dia dah kenal semualah menteri keluar masuk semua ni kan. Kalau suruh dia tukar, memang dia takkan tukar. Dia akan bergaduh besar pun, dia takkan tukar. Dulu saya ingat masa bising-bising zaman PN dulu nak check dulu semua, dia orang buat da lah.
 
 [1:11:46] Faiz Ahmad: Ada dilaporkan ke YB benda tu?
 
-[1:11:48] Rafizi: Tak ada lah itu sebab. Dalaman lah.
+[1:11:48] Rafizi: Tak ada lah itu sebab.
 
-[1:11:51] Faiz Ahmad: Tahu lah. Sebab rakyat kena tahu. Rupanya itulah situasinya. Ha, yalah.
+[1:11:50] Faiz Ahmad: Dalaman lah. Tahu lah. Sebab rakyat kena tahu. Rupanya itulah situasinya.
 
-[1:11:56] Rafizi: Maksudnya memanglah aa aa ada pandangan yang berbeza-bezalah. Ada pandangan yang kata aa ini apa nama ni, aa memang betullah kadang-kadang di sebelah kerajaan perpaduan pun ada yang tidak semuanya selesa. Kalau angka ini langsung tidak melalui kerajaan diumumkan kan. Tapi memang pendirian saya over my dead body because the data integrity transcends anyone. Betul. The moment data tu orang tak percaya dan kalau walaun bising ni aku tak kisah suka-suka dialah dia percaya ke tak percaya. Pasaran tak percaya. Betul. Kalau pasaran orang tengok, alamak, ai sebab China pernah melalui ini dan ekonomi kita tumbuh baik pun orang tak percaya. Inflasi kita rendah pun orang tak percaya. Jadi benda itu telah dipertahankan sekeras-kerasnya. Jadi saya, saya tak rasalah sebenarnya orang yang, yang yalah ada pengetahuan dalam pasaran yang mempersoalkan integriti angka.
+[1:11:55] Rafizi: Ha, yalah. Maksudnya memanglah aa aa ada pandangan yang berbeza-bezalah. Ada pandangan yang kata aa ini apa nama ni, aa memang betullah kadang-kadang di sebelah kerajaan perpaduan pun ada yang tidak semuanya selesa. Kalau angka ini langsung tidak melalui kerajaan diumumkan kan. Tapi memang pendirian saya over my dead body because the data integrity transcends anyone.
+
+[1:12:24] Faiz Ahmad: Betul.
+
+[1:12:25] Rafizi: The moment data tu orang tak percaya dan kalau walaun bising ni aku tak kisah suka-suka dialah dia percaya ke tak percaya. Pasaran tak percaya.
+
+[1:12:33] Faiz Ahmad: Betul.
+
+[1:12:33] Rafizi: Kalau pasaran orang tengok, alamak, ai sebab China pernah melalui ini dan ekonomi kita tumbuh baik pun orang tak percaya. Inflasi kita rendah pun orang tak percaya. Jadi benda itu telah dipertahankan sekeras-kerasnya. Jadi saya, saya tak rasalah sebenarnya orang yang, yang yalah ada pengetahuan dalam pasaran yang mempersoalkan integriti angka.
 
 [1:12:59] Faiz Ahmad: Yang bawah-bawah sajalah.
 
-[1:13:00] Rafizi: Yalah, dia orang tu ikut sukalah. Dia tak, dia tak boleh nak jawab kenapa inflasi rendah. Betul.
+[1:13:00] Rafizi: Yalah, dia orang tu ikut sukalah. Dia tak, dia tak boleh nak jawab kenapa inflasi rendah.
 
-[1:13:06] Faiz Ahmad: Dia pusing pula inflasi rendah maksudnya pertumbuhan ekonomi akan perlahan.
+[1:13:05] Faiz Ahmad: Betul. Dia pusing pula inflasi rendah maksudnya pertumbuhan ekonomi akan perlahan.
 
-[1:13:10] Rafizi: Okey, yang itu ah, yang itu. Ah, secara yalah, perkara itu bukan salah lah. Okey. Sebenarnya sebab itu inflasi ni kalau kita tengok di negara-negara yang ekonomi dia dah matang kan, kebanyakan daripada dasar makro dia adalah berkisar tentang kawalan inflasi. Okey. Sebab inflasi tinggi sangat, hancur. Betul. Actually, kalau inflasi negatif macam China, kiamat. Okey. Deflation.
+[1:13:10] Rafizi: Okey, yang itu ah, yang itu. Ah, secara yalah, perkara itu bukan salah lah.
+
+[1:13:20] Faiz Ahmad: Okey.
+
+[1:13:20] Rafizi: Sebenarnya sebab itu inflasi ni kalau kita tengok di negara-negara yang ekonomi dia dah matang kan, kebanyakan daripada dasar makro dia adalah berkisar tentang kawalan inflasi.
+
+[1:13:35] Faiz Ahmad: Okey.
+
+[1:13:35] Rafizi: Sebab inflasi tinggi sangat, hancur.
+
+[1:13:38] Faiz Ahmad: Betul.
+
+[1:13:39] Rafizi: Actually, kalau inflasi negatif macam China, kiamat.
+
+[1:13:43] Faiz Ahmad: Okey.
+
+[1:13:44] Rafizi: Deflation.
 
 [1:13:45] Faiz Ahmad: Switzerland taklah.
 
 [1:13:46] Rafizi: Switzerland.
 
-[1:13:47] Faiz Ahmad: Lain, dia negatif. Dia lain. Tapi ekonomi lain, ekonomi lain.
+[1:13:47] Faiz Ahmad: Lain, dia negatif.
 
-[1:13:50] Rafizi: Ekonomi dia lain, dia service based dia lain kan. Jadi kita sekarang ni, kita ideal apa nama ni inflasi kita ialah 2%. 2%. Between 1.5 to 2% dalam keadaan profile kita bagus. It is actually true kalau contohnya inflasi itu terlalu rendah ataupun negatif deflation. Saya ingat kalau Jepun pun melalui hampir 20 tahun kesukaran oleh kerana ini orang orang-orang yang kat luar yang kata, ya ya ya jom turun harga barang, turun harga barang kan. Negara lain pernah melalui tau. Jepun daripada tahun 1990 sampailah baru-baru ni kan. Tu tahun berapa tu? 30 tahun? 30 tahun kan. Deflasi kan. Dia dia dia melalui proses itu memanglah harga barang tak naik dan sebagainya. Tapi gaji pun tak naik. Tak ada pertumbuhan ekonomi.
+[1:13:48] Rafizi: Dia lain. Tapi ekonomi lain, ekonomi lain. Ekonomi dia lain, dia service based dia lain kan. Jadi kita sekarang ni, kita ideal apa nama ni inflasi kita ialah 2%. 2%. Between 1.5 to 2% dalam keadaan profile kita bagus. It is actually true kalau contohnya inflasi itu terlalu rendah ataupun negatif deflation. Saya ingat kalau Jepun pun melalui hampir 20 tahun kesukaran oleh kerana ini orang orang-orang yang kat luar yang kata, ya ya ya jom turun harga barang, turun harga barang kan. Negara lain pernah melalui tau. Jepun daripada tahun 1990 sampailah baru-baru ni kan. Tu tahun berapa tu? 30 tahun? 30 tahun kan. Deflasi kan. Dia dia dia melalui proses itu memanglah harga barang tak naik dan sebagainya. Tapi gaji pun tak naik.
 
-[1:14:45] Faiz Ahmad: Tak ada pertumbuhan ekonomi.
+[1:14:44] Faiz Ahmad: Tak ada pertumbuhan ekonomi.
 
-[1:14:46] Rafizi: Produk banyak dah hilang. Jadi bila tak ada pertumbuhan ekonomi, maka orang tak melabur untuk menghasilkan kegiatan ekonomi yang baru. Jadi akhirnya lama-lama ekonomi tak tumbuh. Ekonomi is destroyed sebenarnya. Banyak sektor tu dah hilang dan sebagainya. So mereka ada masalah lah. Jadi zaman-zaman dulu kan, di Jepun lah, oleh kerana negative inflation tu lah, deflation, bank kena bayar supaya kalau maksudnya kalau engkau simpan duit dalam bank, kau kena bayar bank. Bukannya dapat interest. Sebab bank kata janganlah letak duit dalam bank ni. Sila pergi berbelanja kan. So, so dia ada kesan dia jugalah. Jadi. Urbanomic lah.
+[1:14:45] Rafizi: Tak ada pertumbuhan ekonomi.
 
-[1:15:30] Faiz Ahmad: Ha kan.
+[1:14:46] Faiz Ahmad: Produk banyak dah hilang.
 
-[1:15:31] Rafizi: Only now lah, I think yang tak tahun inilah buat pertama kali saya ingat Bank of Governor, Bank of Japan's Governor berani menaikkan interest rate kan.
+[1:14:48] Rafizi: Jadi bila tak ada pertumbuhan ekonomi, maka orang tak melabur untuk menghasilkan kegiatan ekonomi yang baru. Jadi akhirnya lama-lama ekonomi tak tumbuh. Ekonomi is destroyed sebenarnya. Banyak sektor tu dah hilang dan sebagainya. So mereka ada masalah lah. Jadi zaman-zaman dulu kan, di Jepun lah, oleh kerana negative inflation tu lah, deflation, bank kena bayar supaya kalau maksudnya kalau engkau simpan duit dalam bank, kau kena bayar bank. Bukannya dapat interest. Sebab bank kata janganlah letak duit dalam bank ni. Sila pergi berbelanja kan. So, so dia ada kesan dia jugalah. Jadi.
+
+[1:15:29] Faiz Ahmad: Urbanomic lah.
+
+[1:15:30] Rafizi: Ha kan. Only now lah, I think yang tak tahun inilah buat pertama kali saya ingat Bank of Governor, Bank of Japan's Governor berani menaikkan interest rate kan.
 
 [1:15:41] Faiz Ahmad: Sebab inflation dah boleh naik 3%.
 
 [1:15:43] Haziq: Jadi inflasi ni dia ada apa ni, gap lah antara yang apa.
 
-[1:15:48] Rafizi: Dia unique kepada setiap negara lah. Saya, I don't think you can tell sebenarnya ini hard and fast rule, inflasi kena banyak ini. There's there's no such thing. Dia unik kepada pertumbuhan, profile dan sebagainya. Tetapi generally, sepertilah semua benda dalam hidup kita. Ya. The extreme is bad. Betul. Kalau inflasi tu tinggi sangat, Tak boleh juga. is dangerous. Kalau inflasi tu dah negative deflation, walaupun harga barang turun, Kesannya ialah then it will destroy jobs, it will destroy the economy semualah. Jadi saya faham kalau orang kata kalau ekonomi tu inflasi itu secara berterusan rendahlah. I think the inflation tu mungkin, mungkin kalau kita kekal dalam 1 to 2% tu, I think tidak membimbangkanlah. Itu yang kita nak kan. 1 to 2%. Yang yang kita kena tengok sebenarnya ialah purchasing Managers Index lah, PMI. Yang itu ialah apa nama ni, dari segi indeks harga Okey. Business business. Kan dia dia beli dan sebagainya tu kan. Kalau yang itu berterusan rendah, then I think itu ada lebih banyak correlation kepada pertumbuhan ekonomi.
+[1:15:48] Rafizi: Dia unique kepada setiap negara lah. Saya, I don't think you can tell sebenarnya ini hard and fast rule, inflasi kena banyak ini. There's there's no such thing. Dia unik kepada pertumbuhan, profile dan sebagainya. Tetapi generally, sepertilah semua benda dalam hidup kita.
+
+[1:16:08] Haziq: Ya.
+
+[1:16:08] Rafizi: The extreme is bad.
+
+[1:16:10] Faiz Ahmad: Betul.
+
+[1:16:10] Rafizi: Kalau inflasi tu tinggi sangat, Tak boleh juga. is dangerous. Kalau inflasi tu dah negative deflation, walaupun harga barang turun, Kesannya ialah then it will destroy jobs, it will destroy the economy semualah. Jadi saya faham kalau orang kata kalau ekonomi tu inflasi itu secara berterusan rendahlah. I think the inflation tu mungkin, mungkin kalau kita kekal dalam 1 to 2% tu, I think tidak membimbangkanlah. Itu yang kita nak kan. 1 to 2%. Yang yang kita kena tengok sebenarnya ialah purchasing Managers Index lah, PMI. Yang itu ialah apa nama ni, dari segi indeks harga Okey. Business business. Kan dia dia beli dan sebagainya tu kan. Kalau yang itu berterusan rendah, then I think itu ada lebih banyak correlation kepada pertumbuhan ekonomi.
 
 [1:17:04] Faiz Ahmad: Kalau consumer spending pun kena tengok juga kan?
 
-[1:17:06] Rafizi: Yalah. Sebab sebab tu sebab in- in- inflasi as a official inflation tu, dia punya basket of products tu dia sebenarnya consumer spending, dia sebenarnya perkara-perkara yang yang rakyat biasa tu lah kan. Jadi dia tidak 100% melambangkan ada perfect correlation dengan pertumbuhan ekonomi lah. Of course consumer spending is part of it lah kan. Okey. Tapi kita negara yang banyak bergantung kepada manufacturing. Okey. Ha, jadi dari segi itu, kalau you nak early alarm bells, I would have look at PMI jugalah.
+[1:17:06] Rafizi: Yalah. Sebab sebab tu sebab in- in- inflasi as a official inflation tu, dia punya basket of products tu dia sebenarnya consumer spending, dia sebenarnya perkara-perkara yang yang rakyat biasa tu lah kan. Jadi dia tidak 100% melambangkan ada perfect correlation dengan pertumbuhan ekonomi lah. Of course consumer spending is part of it lah kan.
+
+[1:17:32] Faiz Ahmad: Okey.
+
+[1:17:32] Rafizi: Tapi kita negara yang banyak bergantung kepada manufacturing.
+
+[1:17:36] Faiz Ahmad: Okey.
+
+[1:17:36] Rafizi: Ha, jadi dari segi itu, kalau you nak early alarm bells, I would have look at PMI jugalah.
 
 [1:17:42] Faiz Ahmad: Okey. Kita dah sejam, tapi saya nak tanya lagi. Pasal ringgit selalu diserang.
 
-[1:17:46] Rafizi: Aku rasa malam ni tak ada orang melihatlah sebab bosan gila. Ni kelas ekonomi ke? Baik kau pergi ambil ijazah. Dia bosan ke tak, saya nak tanya juga.
+[1:17:46] Rafizi: Aku rasa malam ni tak ada orang melihatlah sebab bosan gila. Ni kelas ekonomi ke? Baik kau pergi ambil ijazah.
 
-[1:17:55] Faiz Ahmad: Ringgit selalu diserang kerana sekarang ni ringgit tu dikatakan rendah.
+[1:17:52] Faiz Ahmad: Dia bosan ke tak, saya nak tanya juga. Ringgit selalu diserang kerana sekarang ni ringgit tu dikatakan rendah. Tapi bila saya tengok sejak 15 tahun yang lepas, ringgit memang dah merosot lama dah pun.
 
-[1:17:59] Rafizi: Tapi bila saya tengok sejak 15 tahun yang lepas, ringgit memang dah merosot lama dah pun.
+[1:18:03] Rafizi: Yalah.
 
-[1:18:03] Faiz Ahmad: Yalah. Tapi kenapa orang highlight kawasan sini? Kenapa tak highlight kejatuhan tu dah berlaku selama 15 tahun?
+[1:18:04] Faiz Ahmad: Tapi kenapa orang highlight kawasan sini? Kenapa tak highlight kejatuhan tu dah berlaku selama 15 tahun?
 
-[1:18:09] Rafizi: Yalah, dia punya the biggest dip tu berlaku 2015. 2015. Najib jugalah kan. Saya sebenarnya tak adalah nak nak kutuk Najib ke apa, tapi sebenarnya orang terutamanya yang walajib ni, janganlah bentangkan separuh-separuh. Ha, itulah. Bentangkanlah semua kan. Sebab saya pun fahamlah ada multiple factors yang berlaku dalam tahun 2015. Okey. Jadi kalau nak cerita pasal kejatuhan mendadak nilai mata wang ringgit, sebenarnya dia berlaku tahun 2015 lagi. Lepas tu merangkak-rangkaklah. Once, once you accident, kaki dah patah, Payah lah. You tak pun nak nak run balik, payah lah kan. 2015 itu dia double whammy. Saya ingat satu ialah kerana kejatuhan harga minyak kan. Harga minyak tahun 2015 tu jatuh sampai 30 dollars per barrel. Malaysia negara eksportir minyak, dia ada kesan lah. Tapi pada masa itu jugalah meletupnya 1MDB. Ha, jadi once then pasaran bila dia tak percaya, dia hilang keyakinan kepada kita kan. Okey, ni cerita-cerita pasaran ni kalau orang luar tanya apa mendatang apa pasaran-pasaran yang kau sibuk sangat pasal pasaran ni kan. Eh, Malaysia ni negara miskin lah, tak banyak duit. Kita perlukan duit asing. Okey. Duit asing itulah yang masuk kepada pasaran kita, sama ada dia beli bond sebagai aa itu membolehkan syarikat-syarikat kita berhutang pada kadar yang rendah. Ataupun dia beli ekuiti. Maksudnya dia beli saham semua ni kan. Daripada duit yang datang itulah dia menjadi suntikan modal kepada syarikat kita untuk berkembang dan masuk dalam sektor ekonomi yang barulah. Aa jadi kalau orang tak nak masuk, Kan payahlah kita sebab kita tak ada duit kan. Jadi aa sebab itu pasaran ini penting. Kalau dia dah tak yakin, dia tak masuk, maka berlakulah macam itu kan. Jadi sebenarnya the first dip, drastic dip tu sebenarnya 2015. Kita boleh argue lah pumpang, pumpang, pumpang, pumpang. Dan saya tak kata pun sebenarnya prestasi mata wang ni sangat bagus dan sebagainya. If you ask me, I would like to see at 3.5. Contohnya lah. Yang itu yang kita kena buat kan. Tapi dia banyak faktor dan nak kata kerajaan Madani ni lemah kerana mata wang jatuh mendadak masa zaman Najib 2015 jatuh mendadak. Masa zaman Tengku Zafrul jadi Menteri Kewangan 2022 Jatuh juga. jatuh mendadak kan. Jadi yang penting ialah the longer trajectory. Sebab itu kita tak boleh tengok satu saja. Kita kena tengok mata wang, kita kena tengok growth GDP, kita kena tengok contohnya inflasi dan sebagainya, kan? Kalau kita ambil tiga-tiga poin mata wang jatuh ni kan, 2015, 2022 dengan sekaranglah kan, at 4.25 baganilah lebih kurang kan. Sebenarnya if you tengok semua keseluruhan parameter, sekaranglah paling bagus. Betul. 2015 mata wang jatuh mendadak, inflasi naik melonjak kan. Pertumbuhan pun I think quite slow masa itulah. 2022 sama jugalah. Mata wang jatuh mendadak, inflasi naik mendadak, kemudian growth was slow. Sekarang ni mata wang bukanlah jatuh mendadak. Dia dah stabilize dekat 4.2 lah. Dia dah stabilize. Is it the best? Of course we want it to see better lah kan. Tapi dia dah stabilize. Tetapi pada masa yang sama, growth is better. Inflasi has has basically stabilized at the very low semualah kan. Jadi, ekonomi ni saya pun tak setuju kalau ada orang-orang PH ni dia lambung kononnya sekarang ni segala-galanya baik. Of course we are struggling. Kita mewarisi ekonomi yang banyak masalah. Kita nak baiki semua ni kan. Tapi nak kata sekarang ini teruk, dia tak adillah kerana banyak perkara yang diberi tumpuan sekarang ini ialah untuk membaiki struktur pasak ekonomi. The fact that angka-angka tadi tu menunjukkan perkara yang baik, maksudnya pasaran dan ekonomi kita telah memberi reaksi yang baik. Dan kalau perkara ini boleh dipanjangkan pada landasan ini, 5 tahun lagi sudah tentulah keadaannya jauh lebih baik daripada sekarang ini.
+[1:18:09] Rafizi: Yalah, dia punya the biggest dip tu berlaku 2015. 2015. Najib jugalah kan. Saya sebenarnya tak adalah nak nak kutuk Najib ke apa, tapi sebenarnya orang terutamanya yang walajib ni, janganlah bentangkan separuh-separuh. Ha, itulah. Bentangkanlah semua kan. Sebab saya pun fahamlah ada multiple factors yang berlaku dalam tahun 2015. Okey. Jadi kalau nak cerita pasal kejatuhan mendadak nilai mata wang ringgit, sebenarnya dia berlaku tahun 2015 lagi. Lepas tu merangkak-rangkaklah. Once, once you accident, kaki dah patah, Payah lah. You tak pun nak nak run balik, payah lah kan. 2015 itu dia double whammy. Saya ingat satu ialah kerana kejatuhan harga minyak kan. Harga minyak tahun 2015 tu jatuh sampai 30 dollars per barrel. Malaysia negara eksportir minyak, dia ada kesan lah. Tapi pada masa itu jugalah meletupnya 1MDB. Ha, jadi once then pasaran bila dia tak percaya, dia hilang keyakinan kepada kita kan. Okey, ni cerita-cerita pasaran ni kalau orang luar tanya apa mendatang apa pasaran-pasaran yang kau sibuk sangat pasal pasaran ni kan. Eh, Malaysia ni negara miskin lah, tak banyak duit. Kita perlukan duit asing.
 
-[1:22:46] Faiz Ahmad: So keadaannya, kalau nak conclusion nya lah, ekonomi berada dalam keadaan yang sedang dibaikilah. Katakanlah esok pilihan raya PRU. Soalan saya kepada YB. Saya patut pangkah siapa? PHBN atau PN? Undi tu rahsia. Saya 25 tahun setiap kali dengar ceramah YB, YB akan bagi suggestion. Memang undi rahsia. Last sekali saya akan pangkah juga. Nak tahu stand YB.
+[1:19:29] Faiz Ahmad: Okey.
 
-[1:23:08] Rafizi: Kali ini saya akan kata undi tu rahsia. Kau pilihlah siapa-siapa yang kau suka. Tetapi Okey. buat aa penilaian tu sebagai orang yang berilmu sedikitlah.
+[1:19:30] Rafizi: Duit asing itulah yang masuk kepada pasaran kita, sama ada dia beli bond sebagai aa itu membolehkan syarikat-syarikat kita berhutang pada kadar yang rendah. Ataupun dia beli ekuiti. Maksudnya dia beli saham semua ni kan. Daripada duit yang datang itulah dia menjadi suntikan modal kepada syarikat kita untuk berkembang dan masuk dalam sektor ekonomi yang barulah. Aa jadi kalau orang tak nak masuk, Kan payahlah kita sebab kita tak ada duit kan. Jadi aa sebab itu pasaran ini penting. Kalau dia dah tak yakin, dia tak masuk, maka berlakulah macam itu kan. Jadi sebenarnya the first
+
+[1:20:13] Faiz Ahmad: dip,
+
+[1:20:13] Rafizi: drastic dip tu sebenarnya 2015. Kita boleh argue lah pumpang, pumpang, pumpang, pumpang. Dan saya tak kata pun sebenarnya prestasi mata wang ni sangat bagus dan sebagainya. If you ask me, I would like to see at 3.5. Contohnya lah. Yang itu yang kita kena buat kan. Tapi dia banyak faktor dan nak kata kerajaan Madani ni lemah kerana mata wang jatuh mendadak masa zaman Najib 2015 jatuh mendadak. Masa zaman Tengku Zafrul jadi Menteri Kewangan 2022 Jatuh juga. jatuh mendadak kan. Jadi yang penting ialah the longer trajectory. Sebab itu kita tak boleh tengok satu saja. Kita kena tengok mata wang, kita kena tengok growth GDP, kita kena tengok contohnya inflasi dan sebagainya, kan? Kalau kita ambil tiga-tiga poin mata wang jatuh ni kan, 2015, 2022 dengan sekaranglah kan, at 4.25 baganilah lebih kurang kan. Sebenarnya if you tengok semua keseluruhan parameter, sekaranglah paling bagus.
+
+[1:21:18] Faiz Ahmad: Betul.
+
+[1:21:19] Rafizi: 2015 mata wang jatuh mendadak, inflasi naik melonjak kan. Pertumbuhan pun I think quite slow masa itulah. 2022 sama jugalah. Mata wang jatuh mendadak, inflasi naik mendadak, kemudian growth was slow. Sekarang ni mata wang bukanlah jatuh mendadak. Dia dah stabilize dekat 4.2 lah. Dia dah stabilize. Is it the best? Of course we want it to see better lah kan. Tapi dia dah stabilize. Tetapi pada masa yang sama, growth is better. Inflasi has has basically stabilized at the very low semualah kan. Jadi, ekonomi ni saya pun tak setuju kalau ada orang-orang PH ni dia lambung kononnya sekarang ni segala-galanya baik. Of course we are struggling. Kita mewarisi ekonomi yang banyak masalah. Kita nak baiki semua ni kan. Tapi nak kata sekarang ini teruk, dia tak adillah kerana banyak perkara yang diberi tumpuan sekarang ini ialah untuk membaiki struktur pasak ekonomi. The fact that angka-angka tadi tu menunjukkan perkara yang baik, maksudnya pasaran dan ekonomi kita telah memberi reaksi yang baik. Dan kalau perkara ini boleh dipanjangkan pada landasan ini, 5 tahun lagi sudah tentulah keadaannya jauh lebih baik daripada sekarang ini.
+
+[1:22:46] Faiz Ahmad: So keadaannya, kalau nak conclusion nya lah, ekonomi berada dalam keadaan yang sedang dibaikilah. Katakanlah esok pilihan raya PRU. Soalan saya kepada YB. Saya patut pangkah siapa? PHBN atau PN?
+
+[1:22:59] Rafizi: Undi tu rahsia.
+
+[1:23:01] Faiz Ahmad: Saya 25 tahun setiap kali dengar ceramah YB, YB akan bagi suggestion. Memang undi rahsia. Last sekali saya akan pangkah juga. Nak tahu stand YB.
+
+[1:23:08] Rafizi: Kali ini saya akan kata undi tu rahsia. Kau pilihlah siapa-siapa yang kau suka.
+
+[1:23:14] Faiz Ahmad: Tetapi Okey.
+
+[1:23:15] Rafizi: buat aa penilaian tu sebagai orang yang berilmu sedikitlah.
 
 [1:23:20] Faiz Ahmad: So YB tak ada suggestion?
 
-[1:23:21] Rafizi: Aaa satu sebab bukan pilihan raya. Pilihan raya bukan esok kan? Okey. Jadi katakanlah pilihan raya 2 tahun daripada sekarang. Okey. Most probably 2 tahun daripada sekarang. Kita akan melalui banyak headwinds. Okey. Ekonomi dunia. Okey. Yang memang mencabar kan. Kita juga akan melalui beberapa perkara yang, yang, yang apa nama ni kerajaan sedia ada dan juga pembangkang kena lalui. Contohnya soal reform dan sebagainya kan. Kita juga kena tengok daripada midterm sampai habis penggal. Parti-parti yang ada ni lah semua kan. Macam mana reaksi dia dan untuk kita berlaku adil, kita kena bandingkan di satu penggal dengan satu penggal kan. Jadi it's an open field sebenarnya. Okey. It's an open field sekarang ini kan. Jadi kalau di US contohnya midterm tu dia adalah warning bell yang pertama. Sama ada parti itu atau presiden itu akhirnya boleh kekal dan dipilih semula ataupun bertukar. Dia bergantung kepada the remainder of half term tu kan. Buat masa sekarang, saya tengok apa nama ni, bimbanglah saya kalau kalau pembangkang, you know, baik PN ke, baik Bersatu ke mengambil alih. Kerana sayanglah dalam keadaan banyak perkara yang kita rasa ubat itu dah mula ada kesan dan kita perlu pastikan perkara-perkara yang dibuat ini berkekalan sampai hujung penggal, kan. Jadi, sudah tentu kebimbangan rakyat ialah kalau bertukar, sebab kelebihan PH lah selalunya ialah rakyat lebih yakin PH adalah pentadbir yang lebih competent. Okey. Tetapi, ada tetapi dia jugalah. Kerajaan PH ke, BN ke yang ada sekarang, jangan ambil mudah sentimen rakyat. Jadi kalau contohnya, aa ada isu-isu yang tidak ditangani dengan baik. Yang itu juga yang kadang-kadang pengpengaruh, pengpengaruh eh, aa bukan you lah, pengpengaruh PKR lah selalunya kan kan.
+[1:23:21] Rafizi: Aaa satu sebab bukan pilihan raya. Pilihan raya bukan esok kan? Okey. Jadi katakanlah pilihan raya 2 tahun daripada sekarang.
 
-[1:25:50] Faiz Ahmad: Sebut nama. Ya. Aku pun tak ingat nama dia orang ni.
+[1:23:29] Faiz Ahmad: Okey.
 
-[1:25:53] Rafizi: Dia orang duk panggil Ceplos. Aku pun tak faham Ceplos ni apa dia kan. Jangan rendahkan akal rakyat. Okey. Kalau pun kita sokong parti kita, kita tak boleh ambil holier than thou. Okey. Yang parti aku adalah yang paling baik. Kalau kau tak sokong, kau bodoh dan jahat. Doesn't work like that. Kita kena tunjukkan dan kalau ada yang kita rasa tak betul, kita kena tegur kan. Jadi keadaan dia sekarang ialah is dalam tempoh berbaki 2 tahun ini, dia dia bergantung juga macam mana kita menangani sentimen rakyat. Sebab kalaupun headline ekonomi bagus dan sebagainya, tapi kalau sentimen itu tidak ditangani dengan baik kerana rakyat rasa kerajaan itu terpisah ataupun dia holir rendau ataupun dia talking down kepada rakyat, kan. Jadi akhirnya dia jadi undi protes lah. Dan undi protes itu pernah berlaku tahun 2018. Sebab itu Walajib semua dia kata dia rindu zaman Najib sebab angka contoh bagus 2017. 2017 was a good year economically, contoh. Jadi sebab itu Najib sangat yakin akan menang. Merdeka Center ke, analyst ke semua kata with this number, confirm menang. Tak, dia tak menang kerana dia ada gap di antara headline numbers dengan perasaan rakyat di bawah.
+[1:23:30] Rafizi: Most probably 2 tahun daripada sekarang. Kita akan melalui banyak headwinds.
 
-[1:27:25] Haziq: Cuma YB, with that, apa berkaitan dengan kita nak bincang. Korang dua-dua orang bakar aku seorang malam ni.
+[1:23:35] Faiz Ahmad: Okey.
 
-[1:27:31] Rafizi: Bukan dia sepatutnya jadi panelist ke?
+[1:23:36] Rafizi: Ekonomi dunia.
 
-[1:27:33] Faiz Ahmad: Betul. Dia kena menjawab sangat. Saya nak bakar YB.
+[1:23:38] Faiz Ahmad: Okey.
 
-[1:27:36] Haziq: Dia nilai jawapan YB cukup okey atau terbakar atau tak. YB sikit. Tadi berkaitan dengan
+[1:23:39] Rafizi: Yang memang mencabar kan. Kita juga akan melalui beberapa perkara yang, yang, yang apa nama ni kerajaan sedia ada dan juga pembangkang kena lalui. Contohnya soal reform dan sebagainya kan. Kita juga kena tengok daripada midterm sampai habis penggal. Parti-parti yang ada ni lah semua kan. Macam mana reaksi dia dan untuk kita berlaku adil, kita kena bandingkan di satu penggal dengan satu penggal kan. Jadi it's an open field sebenarnya. Okey. It's an open field sekarang ini kan. Jadi kalau di US contohnya midterm tu dia adalah warning bell yang pertama. Sama ada parti itu atau presiden itu akhirnya boleh kekal dan dipilih semula ataupun bertukar. Dia bergantung kepada the remainder of half term tu kan. Buat masa sekarang, saya tengok apa nama ni, bimbanglah saya kalau kalau pembangkang, you know, baik PN ke, baik Bersatu ke mengambil alih. Kerana sayanglah dalam keadaan banyak perkara yang kita rasa ubat itu dah mula ada kesan dan kita perlu pastikan perkara-perkara yang dibuat ini berkekalan sampai hujung penggal, kan. Jadi, sudah tentu kebimbangan rakyat ialah kalau bertukar, sebab kelebihan PH lah selalunya ialah rakyat lebih yakin PH adalah pentadbir yang lebih competent. Okey. Tetapi, ada tetapi dia jugalah. Kerajaan PH ke, BN ke yang ada sekarang, jangan ambil mudah sentimen rakyat. Jadi kalau contohnya, aa ada isu-isu yang tidak ditangani dengan baik. Yang itu juga yang kadang-kadang pengpengaruh, pengpengaruh eh, aa bukan you lah, pengpengaruh PKR lah selalunya kan kan.
 
-[1:27:42] Rafizi: Cubaan membakar.
+[1:25:50] Faiz Ahmad: Sebut nama.
 
-[1:27:45] Faiz Ahmad: Isu ekonomi lah YB. YB cakap. Ada satu lagi soalan bakar. Ada lagi? Okey. Ada satu lagi.
+[1:25:51] Rafizi: Ya. Aku pun tak ingat nama dia orang ni. Dia orang duk panggil Ceplos. Aku pun tak faham Ceplos ni apa dia kan. Jangan rendahkan akal rakyat. Okey. Kalau pun kita sokong parti kita, kita tak boleh ambil holier than thou.
+
+[1:26:09] Haziq: Okey.
+
+[1:26:09] Rafizi: Yang parti aku adalah yang paling baik. Kalau kau tak sokong, kau bodoh dan jahat. Doesn't work like that. Kita kena tunjukkan dan kalau ada yang kita rasa tak betul, kita kena tegur kan. Jadi keadaan dia sekarang ialah is dalam tempoh berbaki 2 tahun ini, dia dia bergantung juga macam mana kita menangani sentimen rakyat. Sebab kalaupun headline ekonomi bagus dan sebagainya, tapi kalau sentimen itu tidak ditangani dengan baik kerana rakyat rasa kerajaan itu terpisah ataupun dia holir rendau ataupun dia talking down kepada rakyat, kan. Jadi akhirnya dia jadi undi protes lah. Dan undi protes itu pernah berlaku tahun 2018. Sebab itu Walajib semua dia kata dia rindu zaman Najib sebab angka contoh bagus 2017. 2017 was a good year economically, contoh. Jadi sebab itu Najib sangat yakin akan menang. Merdeka Center ke, analyst ke semua kata with this number, confirm menang. Tak, dia tak menang kerana dia ada gap di antara headline numbers dengan perasaan rakyat di bawah.
+
+[1:27:25] Haziq: Cuma YB, with that, apa berkaitan dengan kita nak bincang.
+
+[1:27:28] Rafizi: Korang dua-dua orang bakar aku seorang malam ni. Bukan dia sepatutnya jadi panelist ke?
+
+[1:27:33] Haziq: Betul.
+
+[1:27:33] Rafizi: Dia kena menjawab sangat.
+
+[1:27:34] Faiz Ahmad: Saya nak bakar YB.
+
+[1:27:36] Haziq: Dia nilai jawapan YB cukup okey atau terbakar atau tak. YB sikit. Tadi berkaitan dengan Cubaan membakar. Isu ekonomi lah YB. YB cakap.
+
+[1:27:46] Faiz Ahmad: Ada satu lagi soalan bakar.
+
+[1:27:48] Haziq: Ada lagi? Okey.
+
+[1:27:48] Faiz Ahmad: Ada satu lagi.
 
 [1:27:49] Haziq: Ha, okey. Sentimen masyarakat. Kalau saya, kita boleh tahulah, dalam komunikasi ekonomi kerajaan, apakah kesalahan paling besar ban dalam mana-mana kerajaan mengendalikan komunikasi untuk isu ekonomi?
 
@@ -383,23 +969,67 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [1:30:12] Faiz Ahmad: Dia tak nampak sebenarnya. Dia tak nampak.
 
-[1:30:14] Rafizi: Ya. Ekonomi ni sebenarnya sama je jual goreng pisang dengan jual kilang besar. Cost input output sama je. Tak payah sebenarnya kan? Tapi dia perlu diterangkan dalam konteks dan analogi yang orang boleh faham. Bila orang dah mula buat, jadi yang itu saya ingat, mana-mana kerajaan pun belum sampai ke peringkat yang yang betul kan. Dia perlu diterangkan dalam konteks yang mudah semua tu. Barulah orang boleh faham sebenarnya hutang kerajaan ni apa dia. Dari dan itu selalunya kesukaran kerajaan. Sebab kalau menteri itu bergantung kepada penjawat awam. Penjawat awam dia tak boleh nak tulis cakap macam aku ni. Dia kena tulis benda-benda mengikut dasar. Oh, kita perlu melalui fiscal glide gini, gini, gini. Apa nama ni? Inflasi menyederhana moderat. Orang kat mana tentang apa menyederhana ni kan? Jadi kita perlukan sebenarnya menteri dan ahli politik dan ahli parlimen yang boleh bercakap dan menterjemahkan benda itu dalam bahasa mudah. Sebab saya tak rasa orang rakyat kita semua ni semua jahat-jahat, semua ah aku tak peduli, kena macam ni. Dia kalau you bentangkan semua pasal ekonomi ni ada trade off. You potong cukai SST, kau kena kutip cukai rambut. Contohnya lah. You mesti kena ganti cukai ni. Kalau tak siapa nak bayar gaji ni kan? Kita dalam a household kita pun macam tu juga. You pot, you you dah hilang gaji ni, you kena pergi cari benda lainlah untuk kan. Jadi orang faham. Tapi perlu difahamkan oleh lebih ramai. Dan saya haraplah Menteri Komunikasi lepas ni pergi ambil ijazah ekonomi lah. Sebab dia jurucakap kerajaan. Jadi sepatutnya orang yang paling hebat boleh menghurai mengenai ekonomi ni Fahmi Fadzil lah. Sebab saya tak boleh. I can only comment pasal my thing yang dalam rancangan jangka panjang. Satu-satunya orang yang boleh komen pasal semua. Pasal Kementerian Kewangan pun dia boleh komen, pasal MITI pun adalah Fahmi Fadzil. Jadi kalaulah ada Menteri Komunikasi macam Fahmi Fadzil yang betul-betul boleh faham dan boleh terangkan. Terjemahkan lah. Dia boleh bercakap tiap-tiap hari kerana dia ada lesen. Menteri lain tak ada lesen.
+[1:30:14] Rafizi: Ya. Ekonomi ni sebenarnya sama je jual goreng pisang dengan jual kilang besar. Cost input output sama je. Tak payah sebenarnya kan? Tapi dia perlu diterangkan dalam konteks dan analogi yang orang boleh faham. Bila orang dah mula buat, jadi yang itu saya ingat, mana-mana kerajaan pun belum sampai ke peringkat yang yang betul kan. Dia perlu diterangkan dalam konteks yang mudah semua tu. Barulah orang boleh faham sebenarnya hutang kerajaan ni apa dia. Dari dan itu selalunya kesukaran kerajaan. Sebab kalau menteri itu bergantung kepada penjawat awam. Penjawat awam dia tak boleh nak tulis cakap macam aku ni. Dia kena tulis benda-benda mengikut dasar. Oh, kita perlu melalui fiscal glide gini, gini, gini. Apa nama ni? Inflasi menyederhana moderat. Orang kat mana tentang apa menyederhana ni kan? Jadi kita perlukan sebenarnya menteri dan ahli politik dan ahli parlimen yang boleh bercakap dan menterjemahkan benda itu dalam bahasa mudah. Sebab saya tak rasa orang rakyat kita semua ni semua jahat-jahat, semua ah aku tak peduli, kena macam ni. Dia kalau you bentangkan semua pasal ekonomi ni ada trade off. You potong cukai SST, kau kena kutip cukai rambut. Contohnya lah. You mesti kena ganti cukai ni. Kalau tak siapa nak bayar gaji ni kan?
+
+[1:31:43] Faiz Ahmad: Kita dalam a
+
+[1:31:45] Rafizi: household kita pun macam tu juga. You pot, you you dah hilang gaji ni, you kena pergi cari benda lainlah untuk kan. Jadi orang faham. Tapi perlu difahamkan oleh lebih ramai. Dan saya haraplah Menteri Komunikasi lepas ni pergi ambil ijazah ekonomi lah. Sebab dia jurucakap kerajaan. Jadi sepatutnya orang yang paling hebat boleh menghurai mengenai ekonomi ni Fahmi Fadzil lah. Sebab saya tak boleh. I can only comment pasal my thing yang dalam rancangan jangka panjang. Satu-satunya orang yang boleh komen pasal semua. Pasal Kementerian Kewangan pun dia boleh komen, pasal MITI pun adalah Fahmi Fadzil. Jadi kalaulah ada Menteri Komunikasi macam Fahmi Fadzil yang betul-betul boleh faham dan boleh terangkan.
+
+[1:32:29] Faiz Ahmad: Terjemahkan lah.
+
+[1:32:30] Rafizi: Dia boleh bercakap tiap-tiap hari kerana dia ada lesen. Menteri lain tak ada lesen.
 
 [1:32:33] Faiz Ahmad: Oh, macam tu.
 
 [1:32:34] Rafizi: Ha, kan? Dan dia sebagai Menteri Komunikasi sebab dia dulu cakap kerajaan. Hanya dia, selain daripada Perdana Menteri dan Timbalan-timbalan Perdana Menteri yang boleh ulas semua ni hanya dia. Jadi, dia kena pergi belajarlah, kan? Jadi selain daripada dia, bawah dia tu ialah Kementerian Komunikasi. Okey. Jadi dia kenalah ambillah orang macam ni ke orang lain yang boleh menterjemahkan. Jangan komunikasi kerajaan itu ialah satu hala yang holier than down. Ah, keluar saja kenyataan, oh baguslah tengok kenyataan kerajaan. You kena yakinkan orang kan. Dan ah maklumat ini sebenarnya dia sangat bergantung kepada kredibiliti dan ah apa nama ni, keyakinan orang kepada pemberi maklumat itu. And dia, dia masyarakat ni, zaman digital ni, dia tidak lagi bagi authority hanya kerana you kerajaan. Authority kepada maklumat, dia ke- kebolehpercayaan maklumat itu adalah proses yang panjang. I mean, engkau jadi influencer, you know how does it work. You know you have to constantly engage, orang tanya, Jawab. you boleh terang, jawab dan sebagainya.
 
-[1:33:53] Faiz Ahmad: Dan jawab pula kena ada fakta. Ha, kena ada fakta. Sebab diorang, diorang akan semak sebenarnya.
+[1:33:53] Faiz Ahmad: Dan jawab pula kena ada fakta.
 
-[1:33:56] Rafizi: Ha, diorang akan check. Kadang-kadang dia pergi ambil, kadang-kadang dia ambil fakta yang salah pun. Out of context. You must be able to show that is out of context kan. Okey. Jadi sebenarnya you must become a subject matter expert dalam perkara itu. Yang ini memang kita tahulah ada, ada kelemahanlah kan. Jadi kalau perkara-perkara ini boleh dibuat, saya ingat rakyat sebenarnya boleh berlaku adil dan melihat dalam menilai keadaan ekonomi ni secara aa objektif. Dia tak ambil satu benda tengok. So ini teguran yang membina kepada kerajaan lah. Ataupun macam mana? Sebab
+[1:33:54] Rafizi: Ha, kena ada fakta. Sebab diorang, diorang
 
-[1:34:33] Faiz Ahmad: Dia bergantung. Saya membaca sebenarnya sedang baca YB. YB ke mana selepas ni? Adakah akan mempertahankan kerajaan ataupun akan opposing kerajaan?
+[1:33:55] Faiz Ahmad: akan semak sebenarnya.
 
-[1:34:42] Rafizi: Ini yang aku cakap ni mempertahankan ke? Mempertahankan. So apa salahnya? Okeylah. Masalahnya orang kita Ya. tulis nyo nipis.
+[1:33:56] Rafizi: Ha, diorang akan check. Kadang-kadang dia pergi ambil, kadang-kadang dia ambil fakta yang salah pun. Out of context. You must be able to show that is out of context kan. Okey. Jadi sebenarnya you must become a subject matter expert dalam perkara itu. Yang ini memang kita tahulah ada, ada kelemahanlah kan. Jadi kalau perkara-perkara ini boleh dibuat, saya ingat rakyat sebenarnya boleh berlaku adil dan melihat dalam menilai keadaan ekonomi ni secara aa objektif. Dia tak ambil satu benda tengok.
+
+[1:34:29] Faiz Ahmad: So ini teguran yang membina kepada kerajaan lah. Ataupun macam mana?
+
+[1:34:33] Rafizi: Sebab Dia bergantung.
+
+[1:34:34] Faiz Ahmad: Saya membaca sebenarnya sedang baca YB. YB ke mana selepas ni? Adakah akan mempertahankan kerajaan ataupun akan opposing kerajaan?
+
+[1:34:42] Rafizi: Ini yang aku cakap ni mempertahankan ke?
+
+[1:34:44] Faiz Ahmad: Mempertahankan.
+
+[1:34:46] Rafizi: So apa salahnya?
+
+[1:34:47] Faiz Ahmad: Okeylah.
+
+[1:34:47] Rafizi: Masalahnya orang kita Ya. tulis nyo nipis.
 
 [1:34:49] Faiz Ahmad: Sebab dekat luar, dekat luar dia rasa naratifnya PMX dengan YB sedang ada masalah dan tak selari ke atau macam mana? Kalau YB nak komenlah.
 
-[1:34:58] Rafizi: Tak, dia kalau ada masalah, tak ada masalah tu, itu sebenarnya pandangan masing-masing kan. Yang bestnya sebagai ahli parlimen dan bukan menteri, Okey. I do not have the responsibility to defend the government. Okey. I don't. Okey. Saya tanggungjawab saya ialah bersuara untuk rakyat. Okey. Kan? Jadi ada yang betul, ada yang salah. Kalau menteri tu saya rasa perlahan. Jadi bergantung kepada menteri tu lah kalau saya kata, alah kau ni perlahan lah. Apa nama ni, bergantung kat dialah. Kalau dia jenis I want to do the best for my job kerana ini adalah tanggungjawab saya. Okey. Then you pergi laju sikitlah. Faham. Ha, tapi kalau jenis tak boleh tegur langsung. Ha, then gulak to you lah. Kau bolehlah marah-marah aku nanti kalah pilihan raya, jangan marah kat aku kan. Sebab itulah proses yang telah berlaku kalau dari sayalah sebagai ahli parlimen daripada dulu. Siapa-siapa pun saya tegur. Some people take it positively. Some people dia tak boleh. Dalam parti pun macam itu. Ada orang yang aa saya tegur, ada orang kan macam Haziq. Aku kata kalau engkau review lagi teruk selepas 3 minggu, aku buang kau. Kan? So, takpalah tengoklah review dia macam mana kan. I take it that Haziq took it positively. Ada orang memang mengamuk lah kan. So I think it's a if if you lead a public life, you must be able to say and to take, give and take lah.
+[1:34:58] Rafizi: Tak, dia kalau ada masalah, tak ada masalah tu, itu sebenarnya pandangan masing-masing kan. Yang bestnya sebagai ahli parlimen dan bukan menteri, Okey. I do not have the responsibility to defend the government.
+
+[1:35:16] Faiz Ahmad: Okey.
+
+[1:35:16] Rafizi: I don't.
+
+[1:35:17] Faiz Ahmad: Okey.
+
+[1:35:18] Rafizi: Saya tanggungjawab saya ialah bersuara untuk rakyat.
+
+[1:35:21] Faiz Ahmad: Okey.
+
+[1:35:22] Rafizi: Kan? Jadi ada yang betul, ada yang salah. Kalau menteri tu saya rasa perlahan. Jadi bergantung kepada menteri tu lah kalau saya kata, alah kau ni perlahan lah. Apa nama ni, bergantung kat dialah. Kalau dia jenis I want to do the best for my job kerana ini adalah tanggungjawab saya.
+
+[1:35:44] Faiz Ahmad: Okey.
+
+[1:35:44] Rafizi: Then you pergi laju sikitlah.
+
+[1:35:46] Faiz Ahmad: Faham.
+
+[1:35:46] Rafizi: Ha, tapi kalau jenis tak boleh tegur langsung. Ha, then gulak to you lah. Kau bolehlah marah-marah aku nanti kalah pilihan raya, jangan marah kat aku kan. Sebab itulah proses yang telah berlaku kalau dari sayalah sebagai ahli parlimen daripada dulu. Siapa-siapa pun saya tegur. Some people take it positively. Some people dia tak boleh. Dalam parti pun macam itu. Ada orang yang aa saya tegur, ada orang kan macam Haziq. Aku kata kalau engkau review lagi teruk selepas 3 minggu, aku buang kau. Kan? So, takpalah tengoklah review dia macam mana kan. I take it that Haziq took it positively. Ada orang memang mengamuk lah kan. So I think it's a if if you lead a public life, you must be able to say and to take, give and take lah.
 
 [1:36:35] Faiz Ahmad: Okey, last yang paling panas lah. Can we trust PMX dari segi integriti beliau setakat ini?
 
@@ -415,11 +1045,27 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [1:36:55] Faiz Ahmad: Integriti pelbagai lah. Duit, pengurusan. Sebab yang isu terbaru pun isu pelantikan hakim yang YB buat press conference tu. So saya kat bawah ni, aduh aku ni memang saya jujur saya pro ke arah YB, tapi saya pro kepada PMX. Saya nak dua-dua ni still bersama. Saya tak nak ada split sebenarnya.
 
-[1:37:12] Rafizi: Competition is good. Competition is good. Teguran is good. Masalah ini masalah kau orang dalam Amanah. Ha, ini apa ni, apa nama ni, saki baki ha. Saki baki daripada PAS dulu kena walak gini gini, tak boleh bincang semua kan? Kan. Apa nama ni, siapa dalam negara ini for the time being yang di dalam sebelah kerajaan yang boleh menegur Perdana Menteri? Name one person. Akulah. So if I feel that ada benda yang boleh diperbaiki, then it's my duty to say. The challenge and also the ball is in Prime Minister's court. Kan? Kita dalam PKR lah kan. 30 tahun kita kata ini parti reform, kita terbuka, demokrasi dan sebagainya. Now that is a test lah. Kalau sebarang, and and the judge is out there tau. The judge bukan saya ataupun Anwar Ibrahim ataupun PKR. The judge is the public. Dan dia akan menilai secara keseluruhan PKR kan. Sebab the alternative is even worse. The alternative kalau contohnya, ambil contoh kehakiman. Ada perkara-perkara yang perlu dijawab oleh kerajaan. Okey. Kemudian dia dah sampai ke peringkat Majlis Peguam ni akan berarak ni. Ya. Setiap kali Majlis Peguam berarak, kerajaan tu kalah. 2007 Majlis Peguam Walk for Justice, 2008. 2022 ada Walk for Justice juga. 2022 tu kalah kerajaan tu. Jadi peguam-peguam ni dia bukanlah jenis yang suka demo. Kalau dia dah sampai buat resolusi dan Majlis Peguam ini bukannya lah satu kepala. Dia ada segala jenis manusia ni, yang Melayu, yang Cina, yang India semua ni kan. Nak dapat satu keputusan tu tak mudah. Kalau sudah ada keputusan bahawa mereka merasakan perkara ini adalah perkara pokok yang perlu dijawab, kena jawab. Jadi kalau contohnya PH ni Amanah ke, DAP ke, PKR kan, dalam keadaan bising kat luar ni, tak ada seorang pun tanya. Ya semua. Actually yang kenanya adalah PH. Jadi sebenarnya bergantung kepada pimpinan dalam PKR, dalam Amanah, dalam DAP, dia nak tengok ni, bergantung kepada how they treat, you know, how I I I I manage this ataupun saya bersuara dengan rakan-rakan ya. Because the public akan judge kita. Dia sama macam PH 1.0. Masa awal-awal Tun Mahathir bulldoze, buat semua kan. Then you can ask the same thing, rewind balik. YB ni menyusahkan, menjatuhkan kerajaan semua. Well, 2 years down the road, actually a lot of people agreed with what I said. Kalau you start on the kerana tak ada orang berani menegur langsung, sehingga ada gap di antara pandangan rakyat dengan stakeholders yang lain dengan apa yang kerajaan buat kan. Jadi I think dia bukan soal mesti nampak bersama. Yang rakyat expect ialah politician ni ialah hamba rakyat. You know. Dan dan itu juga ingatan kepada korang yang muda-muda dalam politik ni lah. Our ultimate boss adalah rakyat. And we should never stray away daripada pandangan ya. Pandangan rakyat. Pandangan rakyat tu bolehlah kita nak argue itu pandangan majoriti ke, pandangan minoriti dan sebagainya kan. But if you have been in politics long enough, you have the skill to know that one is already red button. And if you ignore that red button, dia macam demam ah. Kalau demam temperature dah naik tinggi, kau still rasa okey and you don't do something kan. Saya harap the judge out there, rakyat akan tengok how PH is managing. Kalau kita buat style 1MDB, style Najib semua dulu, sebut pecat, sebut khianat, and then you gali kubur lah. Tapi if we manage it well dan sebagainya, then rakyat kata okeylah. At least they are doing apa nama ni, check and balance, you know. In in modern democracy di negara-negara lain, memanglah dalam satu parti different people have different opinion. Bernie Sanders tak pernah bersetuju dengan Demokrat. Elizabeth Warren, very senior Democrat senators, because dia occupy apa nama ni more on the left wing of Democrat. Pandangan dia sangat berbeza, contohnya dengan Joe Biden. Okey. Kan? Tapi as a whole, rakyat meneliti that there's that check and balance di dalam, di dalam parti merekalah. So I think the judge is out there. My job is to say what I think needs to be said. Kalau contohnya soal kehakiman ini bukanlah benda baru. Benda ni dah lama. Sebab you cakap dengan peguam-peguam. Aku kan banyak peguam, kawan-kawan peguam sebab aku banyak kes kan. They've been talking about this lama dah, setahun dah. Dia bukan sangat soal Tengku Maimun tak jadi Ketua Hakim Negara. Kenapa dibiarkan kekosongan ini berlanjutan? What is happening? Kemudian dia tanya, eh, kenapa kalau JAC dah hantar nama, kalau you tak setuju, tak apalah kan mintalah nama baru kan, supaya jangan ada kekosongan lama sangat. Kemudian the next question, eh, kalau semua nama yang dihantar melalui proses JAC semua tak diterima, then buat apa ada JAC? So all these questions sebenarnya perlu dijawab kan. Jadi kalau dalam PH, dalam kerajaan, you know, kita sebenarnya yang saya sebut tadi, kita ambil holier than thou langsung. Langsung tak boleh. I think kita gali kubang, gali kubur kita sendiri tau.
+[1:37:12] Rafizi: Competition is good. Competition is good. Teguran is good. Masalah ini masalah kau orang dalam Amanah. Ha, ini apa ni, apa nama ni, saki baki ha. Saki baki daripada PAS dulu kena walak gini gini, tak boleh bincang semua kan? Kan. Apa nama ni, siapa dalam negara ini for the time being yang di dalam sebelah kerajaan yang boleh menegur Perdana Menteri? Name one person. Akulah. So if I feel that ada benda yang boleh diperbaiki, then it's my duty to say. The challenge and also the ball is in Prime Minister's court. Kan? Kita dalam PKR lah kan. 30 tahun kita kata ini parti reform, kita terbuka, demokrasi dan sebagainya. Now that is a test lah. Kalau sebarang, and and the judge is out there tau. The judge bukan saya ataupun Anwar Ibrahim ataupun PKR. The judge is the public. Dan dia akan menilai secara keseluruhan PKR kan. Sebab the alternative is even worse. The alternative kalau contohnya, ambil contoh kehakiman. Ada perkara-perkara yang perlu dijawab oleh kerajaan.
+
+[1:38:34] Faiz Ahmad: Okey.
+
+[1:38:35] Rafizi: Kemudian dia dah sampai ke peringkat Majlis Peguam ni akan berarak ni.
+
+[1:38:41] Haziq: Ya.
+
+[1:38:42] Rafizi: Setiap kali Majlis Peguam berarak, kerajaan tu kalah. 2007 Majlis Peguam Walk for Justice, 2008. 2022 ada Walk for Justice juga. 2022 tu kalah kerajaan tu. Jadi peguam-peguam ni dia bukanlah jenis yang suka demo. Kalau dia dah sampai buat resolusi dan Majlis Peguam ini bukannya lah satu kepala. Dia ada segala jenis manusia ni, yang Melayu, yang Cina, yang India semua ni kan. Nak dapat satu keputusan tu tak mudah. Kalau sudah ada keputusan bahawa mereka merasakan perkara ini adalah perkara pokok yang perlu dijawab, kena jawab. Jadi kalau contohnya PH ni Amanah ke, DAP ke, PKR kan, dalam keadaan bising kat luar ni, tak ada seorang pun tanya. Ya semua. Actually yang kenanya adalah PH. Jadi sebenarnya bergantung kepada pimpinan dalam PKR, dalam Amanah, dalam DAP, dia nak tengok ni, bergantung kepada how they treat, you know, how I I I I manage this ataupun saya bersuara dengan rakan-rakan ya. Because the public akan judge kita. Dia sama macam PH 1.0. Masa awal-awal Tun Mahathir bulldoze, buat semua kan. Then you can ask the same thing, rewind balik. YB ni menyusahkan, menjatuhkan kerajaan semua. Well, 2 years down the road, actually a lot of people agreed with what I said. Kalau you start on the kerana tak ada orang berani menegur langsung, sehingga ada gap di antara pandangan rakyat dengan stakeholders yang lain dengan apa yang kerajaan buat kan. Jadi I think dia bukan soal mesti nampak bersama. Yang rakyat expect ialah politician ni ialah hamba rakyat. You know. Dan dan itu juga ingatan kepada korang yang muda-muda dalam politik ni lah. Our ultimate boss adalah rakyat. And we should never stray away daripada pandangan ya. Pandangan rakyat. Pandangan rakyat tu bolehlah kita nak argue itu pandangan majoriti ke, pandangan minoriti dan sebagainya kan. But if you have been in politics long enough, you have the skill to know that one is already red button. And if you ignore that red button, dia macam demam ah. Kalau demam temperature dah naik tinggi, kau still rasa okey and you don't do something kan. Saya harap the judge out there, rakyat akan tengok how PH is managing. Kalau kita buat style 1MDB, style Najib semua dulu, sebut pecat, sebut khianat, and then you gali kubur lah. Tapi if we manage it well dan sebagainya, then rakyat kata okeylah. At least they are doing apa nama ni, check and balance, you know. In in modern democracy di negara-negara lain, memanglah dalam satu parti different people have different opinion. Bernie Sanders tak pernah bersetuju dengan Demokrat. Elizabeth Warren, very senior Democrat senators, because dia occupy apa nama ni more on the left wing of Democrat. Pandangan dia sangat berbeza, contohnya dengan Joe Biden.
+
+[1:42:08] Faiz Ahmad: Okey.
+
+[1:42:09] Rafizi: Kan? Tapi as a whole, rakyat meneliti that there's that check and balance di dalam, di dalam parti merekalah. So I think the judge is out there. My job is to say what I think needs to be said. Kalau contohnya soal kehakiman ini bukanlah benda baru. Benda ni dah lama. Sebab you cakap dengan peguam-peguam. Aku kan banyak peguam, kawan-kawan peguam sebab aku banyak kes kan. They've been talking about this lama dah, setahun dah. Dia bukan sangat soal Tengku Maimun tak jadi Ketua Hakim Negara. Kenapa dibiarkan kekosongan ini berlanjutan? What is happening? Kemudian dia tanya, eh, kenapa kalau JAC dah hantar nama, kalau you tak setuju, tak apalah kan mintalah nama baru kan, supaya jangan ada kekosongan lama sangat. Kemudian the next question, eh, kalau semua nama yang dihantar melalui proses JAC semua tak diterima, then buat apa ada JAC? So all these questions sebenarnya perlu dijawab kan. Jadi kalau dalam PH, dalam kerajaan, you know, kita sebenarnya yang saya sebut tadi, kita ambil holier than thou langsung. Langsung tak boleh. I think kita gali kubang, gali kubur kita sendiri tau.
 
 [1:43:29] Faiz Ahmad: Okey, faham. Teguran membinalah pada saya.
 
-[1:43:33] Rafizi: Depends. Depends. Depends. Different people see it differently. That's why my advice to you kan. One day katakanlah kau jadi menteri ke, jadi ahli parlimen Kota Bharu ke, apa dia kan. You have to do what your conscience say is right. You tak boleh buat benda berdasarkan, eh, kalau aku buat macam ni nanti orang kata macam ni. Eh, kalau aku buat macam ni nanti orang kata menjatuhkan.
+[1:43:33] Rafizi: Depends.
+
+[1:43:33] Faiz Ahmad: Depends.
+
+[1:43:34] Rafizi: Depends. Different people see it differently. That's why my advice to you kan. One day katakanlah kau jadi menteri ke, jadi ahli parlimen Kota Bharu ke, apa dia kan. You have to do what your conscience say is right. You tak boleh buat benda berdasarkan, eh, kalau aku buat macam ni nanti orang kata macam ni. Eh, kalau aku buat macam ni nanti orang kata menjatuhkan.
 
 [1:43:58] Faiz Ahmad: Kalau dari segi angle kolektif, kita satu organisasi, yalah tak boleh dapat semua benda yang perfect.
 
@@ -431,21 +1077,45 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [1:44:30] Faiz Ahmad: Katakanlah YB menang timbalan PKR hari tu dan isu ni, macam mana YB bawa isu ni? Adakah sama macam sekarang ataupun berbeza?
 
-[1:44:38] Rafizi: It's quite obvious kalau collective responsibility tu. Maksudnya pandangan saya yang macam ini dah lama disuarakan dalam-dalam lah. Dia sama contohnya pasal pemilihan PKR. Semua perkara yang berlaku tu kami dah suarakan di dalam. Once I think you cross a certain line, Okey. then keputusannya itu ialah kepada saya. The ball is in my court. What do I do? Saya dah tahu bahawa pandangan saya yang disuarakan selama ini di dalam sebenarnya tidak ada kesan. Okey. So sa- yang tak boleh berlaku ialah aku duduk di dalam, jadi menteri, aa ambil jawatanlah yang dilantik, timbalan presiden dilantik contohnya, tapi dekat luar cakap macam ni. Sebab itu kena resign. Because it's quite obvious pandangan saya yang telah disampaikan sebelum ini tidak diterima. And if I stay di dalam, then I'm bound by collective responsibility. No matter how much I shout, it's not gonna make a difference. Kalau dia sudah sampai ke peringkat I feel like, okay, this is already red line, then the best thing that for me to do is to basically take a step out and no longer be part of that leadership kerana saya tidak lagi terikat dengan collective responsibility. Isn't that exactly what's happened? Kalau tidak, jangan pandangan orang biasalah, you know, jadilah menteri semua. It's precisely kerana if I stay, I have strong views di dalam beberapa perkara yang telah saya nyatakan sebelum ini pun. Fair.
+[1:44:38] Rafizi: It's quite obvious kalau collective responsibility tu. Maksudnya pandangan saya yang macam ini dah lama disuarakan dalam-dalam lah. Dia sama contohnya pasal pemilihan PKR. Semua perkara yang berlaku tu kami dah suarakan di dalam. Once I think you cross a certain line, Okey. then keputusannya itu ialah kepada saya. The ball is in my court. What do I do? Saya dah tahu bahawa pandangan saya yang disuarakan selama ini di dalam sebenarnya tidak ada kesan.
+
+[1:45:12] Faiz Ahmad: Okey.
+
+[1:45:12] Rafizi: So sa- yang tak boleh berlaku ialah aku duduk di dalam, jadi menteri, aa ambil jawatanlah yang dilantik, timbalan presiden dilantik contohnya, tapi dekat luar cakap macam ni. Sebab itu kena resign. Because it's quite obvious pandangan saya yang telah disampaikan sebelum ini tidak diterima. And if I stay di dalam, then I'm bound by collective responsibility. No matter how much I shout, it's not gonna make a difference. Kalau dia sudah sampai ke peringkat I feel like, okay, this is already red line, then the best thing that for me to do is to basically take a step out and no longer be part of that leadership kerana saya tidak lagi terikat dengan collective responsibility. Isn't that exactly what's happened? Kalau tidak, jangan pandangan orang biasalah, you know, jadilah menteri semua. It's precisely kerana if I stay, I have strong views di dalam beberapa perkara yang telah saya nyatakan sebelum ini pun. Fair.
 
 [1:46:16] Faiz Ahmad: Fair now?
 
-[1:46:17] Haziq: Meaning to say apa yang-
+[1:46:17] Haziq: Meaning to say apa yang- Tambah lagi. Kita break Faizal Rahman punya rekod, tapi takde lah. Kita akan end kejap lagilah. Meaning to say apa yang YB bangkitkan dalam seminggu dua ni, telah pun YB gunakan saluran dalam sebelum ini.
 
-[1:46:18] Rafizi: Tambah lagi.
+[1:46:33] Rafizi: Dia saluran dalam ni kan, okey, kalau dalam parti kerajaan lah hanya ada dua saluran dalam yang rasmi. 1 kalau ada mesyuarat di peringkat parti lah. Kalau macam PKR, sama ada di Biro Politik ataupun di MPP. Kalau dekat peringkat PH, di peringkat Majlis Presiden lah. Itu di peringkat parti, saluran dalam, saluran rasmi kan. 1 lagi saluran ialah di kabinet lah. Kan. Jadi, tapi kebanyakan daripada perbincangan ini dia one to one.
 
-[1:46:20] Haziq: Kita break Faizal Rahman punya rekod, tapi takde lah. Kita akan end kejap lagilah. Meaning to say apa yang YB bangkitkan dalam seminggu dua ni, telah pun YB gunakan saluran dalam sebelum ini.
+[1:47:12] Haziq: Okey.
 
-[1:46:33] Rafizi: Dia saluran dalam ni kan, okey, kalau dalam parti kerajaan lah hanya ada dua saluran dalam yang rasmi. 1 kalau ada mesyuarat di peringkat parti lah. Kalau macam PKR, sama ada di Biro Politik ataupun di MPP. Kalau dekat peringkat PH, di peringkat Majlis Presiden lah. Itu di peringkat parti, saluran dalam, saluran rasmi kan. 1 lagi saluran ialah di kabinet lah. Kan. Jadi, tapi kebanyakan daripada perbincangan ini dia one to one. Okey. Kan. Jadi saya rasa semua yang perlu disebut telah disebut. Baik. Kan. Jadi kan. Jadi finally the ball was on in my court. Yes. Sebenarnya what do I do? Kerana saya dah tahu. Dia sama contohnya kan. Pasal perbezaan pendapat pasal subsidi bersasar. Okey. Pandangan saya ialah cara yang terbaik ialah melalui pindahan tunai bulanan menggunakan kaedah pendapatan boleh belanja bersih yang membeza-bezakan mengikut daerah, saiz keluarga semua. Pandangan itu tidak dipersetujui oleh contohnya Kementerian Kewangan, kan? So I've exhausted everything. I know keputusan kerajaan adalah berlainan daripada yang saya sebut ni. Then kalau saya stay, then I have to really support that. Yes. If I feel that okay, I don't want to be in the way, you go ahead, then the best thing is for me to withdraw.
+[1:47:13] Rafizi: Kan. Jadi saya rasa semua yang perlu disebut telah disebut.
 
-[1:48:16] Faiz Ahmad: One day, katakanlah one day YB akan jadi Perdana Menteri. Orang di bawah YB tak- Tak adalah kot. Aku main dengan kucing je. Katakanlah jadi Perdana Menteri. Hypothetical soalan ni bahaya.
+[1:47:17] Haziq: Baik.
 
-[1:48:26] Rafizi: Di bawah. Samalah macam hypothetical kata. So YB pun akan YB masuk PAS.
+[1:47:18] Rafizi: Kan. Jadi kan. Jadi finally the ball was on in my court. Yes. Sebenarnya what do I do? Kerana saya dah tahu. Dia sama contohnya kan. Pasal perbezaan pendapat pasal subsidi bersasar.
+
+[1:47:33] Faiz Ahmad: Okey.
+
+[1:47:34] Rafizi: Pandangan saya ialah cara yang terbaik ialah melalui pindahan tunai bulanan menggunakan kaedah pendapatan boleh belanja bersih yang membeza-bezakan mengikut daerah, saiz keluarga semua. Pandangan itu tidak dipersetujui oleh contohnya Kementerian Kewangan, kan? So I've exhausted everything. I know keputusan kerajaan adalah berlainan daripada yang saya sebut ni. Then kalau saya stay, then I have to really support that.
+
+[1:48:07] Haziq: Yes.
+
+[1:48:07] Rafizi: If I feel that okay, I don't want to be in the way, you go ahead, then the best thing is for me to withdraw.
+
+[1:48:16] Faiz Ahmad: One day, katakanlah one day YB akan jadi Perdana Menteri. Orang di bawah YB tak-
+
+[1:48:20] Rafizi: Tak adalah kot. Aku main dengan kucing je.
+
+[1:48:23] Faiz Ahmad: Katakanlah jadi Perdana Menteri.
+
+[1:48:24] Rafizi: Hypothetical soalan ni bahaya. Di bawah. Samalah macam hypothetical kata.
+
+[1:48:28] Faiz Ahmad: So YB pun akan
+
+[1:48:30] Rafizi: YB masuk PAS.
 
 [1:48:31] Faiz Ahmad: YB pun, YB pun akan hadapi benda yang sama kan? Orang di bawah YB yang mungkin tak sependapat dengan YB dari segi pelaksanaan. Akan repeat benda yang samalah sebab kan?
 
@@ -457,26 +1127,36 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [1:49:41] Faiz Ahmad: Saya baru sebulan join, tak ada orang.
 
-[1:49:42] Rafizi: Kan? Sebenarnya dia dah decide dah apa nak jadi kan. Proses untuk memilih calon ada syarat-syarat dia. Pam pam pam pam pam. You go through the process pum pam pum pam pum pam sampai sebenarnya dia dah decide dah. Tapi kita still boleh fight kan? That's the thing eh. Kalaulah kita menghormati proses itu, dia dia bila ada fight, perbezaan pendapat itu, that's where basically the give and take happens lah. Okey. So you go through that process, tapi kalau lepas 10 kali, give and take itu, kau give 100%, take itu kosong, habis lah. Tak tak jadilah. By then you know lah kan. Jadi sama juga dekat kabinet ke dekat mana. Jadi dia tak ada hard and fast rule. Dia bukannya buku teks. Tapi the process and apa nama ni, the collective conviction in the reform itu sebenarnya akan di nilai berdasarkan kepada finally what happened. Okey, fair enough.
+[1:49:42] Rafizi: Kan? Sebenarnya dia dah decide dah apa nak jadi kan. Proses untuk memilih calon ada syarat-syarat dia. Pam pam pam pam pam. You go through the process pum pam pum pam pum pam sampai sebenarnya dia dah decide dah.
 
-[1:50:43] Faiz Ahmad: Baik, puas hati?
+[1:49:54] Faiz Ahmad: Tapi kita still boleh fight kan?
 
-[1:50:44] Haziq: Puas hati. Okey, 1 jam 50 minit yang produktif.
+[1:49:56] Rafizi: That's the thing eh. Kalaulah kita menghormati proses itu, dia dia bila ada fight, perbezaan pendapat itu, that's where basically the give and take happens lah. Okey. So you go through that process, tapi kalau lepas 10 kali, give and take itu, kau give 100%, take itu kosong, habis lah. Tak tak jadilah. By then you know lah kan. Jadi sama juga dekat kabinet ke dekat mana. Jadi dia tak ada hard and fast rule. Dia bukannya buku teks. Tapi the process and apa nama ni, the collective conviction in the reform itu sebenarnya akan di nilai berdasarkan kepada finally what happened.
 
-[1:50:48] Faiz Ahmad: Saya anggap ini adalah pembelajaran politik saya pada YB lah. Sebab saya pun
+[1:50:42] Faiz Ahmad: Okey, fair enough.
 
-[1:50:51] Rafizi: Ni mana ada pasal pasal ekonomi pun. Pasal politik.
+[1:50:43] Haziq: Baik, puas hati? Puas hati. Okey, 1 jam 50 minit yang produktif.
+
+[1:50:48] Faiz Ahmad: Saya anggap ini adalah pembelajaran politik saya pada YB lah. Sebab saya pun Ni
+
+[1:50:52] Rafizi: mana ada pasal pasal ekonomi pun. Pasal politik.
 
 [1:50:56] Faiz Ahmad: Ekonomi sejauh setengah kot.
 
-[1:50:58] Rafizi: Janganlah dengar daripada aku. Pergilah belajar daripada Mujahid ke, Hatta ke kan. InsyaAllah. Dia orang lagi lama kan. InsyaAllah, insyaAllah. Belajar kalau pergi tanya Dr. Hatta, dia kata dia memang kaki lawan. Janganlah ikut dia.
+[1:50:58] Rafizi: Janganlah dengar daripada aku. Pergilah belajar daripada Mujahid ke, Hatta ke kan. InsyaAllah. Dia orang lagi lama kan.
+
+[1:51:05] Faiz Ahmad: InsyaAllah, insyaAllah.
+
+[1:51:06] Rafizi: Belajar kalau pergi tanya Dr. Hatta, dia kata dia memang kaki lawan. Janganlah ikut dia.
 
 [1:51:12] Haziq: Baik, baik, menarik. Saya rasa itu saja aa pada malam ini. Mungkin kita berjumpa lagi pada minggu hadapan.
 
-[1:51:20] Rafizi: Betul lah, nak balik rumah ni lah. Terima kasih banyak Faiz sebab datang.
+[1:51:20] Rafizi: Betul lah, nak balik rumah ni lah.
 
-[1:51:23] Haziq: Kita tunggu siapa lagi guest speaker kita akan datang. Itu saja daripada kita. Assalamualaikum, selamat malam.
+[1:51:21] Haziq: Terima kasih banyak Faiz sebab datang. Kita tunggu siapa lagi guest speaker kita akan datang. Itu saja daripada kita. Assalamualaikum, selamat malam.
 
 [1:51:30] Rafizi: Macam slow je cakap nak tutup lah.
 
-[1:51:32] Haziq: Selamat malam. Lawan tetap. Tukar baju.
+[1:51:32] Haziq: Selamat malam. Lawan tetap.
+
+[1:51:36] Faiz Ahmad: Tukar baju.
