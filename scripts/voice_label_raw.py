@@ -126,7 +126,8 @@ def window_embeddings(inf, vid):
 
 def nemotron_frames(vid):
     """Per-speaker activity every 10 ms from Nemotron 3, run in its own Python 3.12 env (cached)."""
-    path = CACHE / f"{vid}_nemotron.npz"
+    model = os.environ.get("NEMOTRON_MODEL")       # a fine-tuned model gets its own cache file
+    path = CACHE / f"{vid}_nemotron{'_' + Path(model).stem if model else ''}.npz"
     if not path.exists():
         V.load_audio(vid)                        # writes audio/_<vid>.16k.wav
         subprocess.run([NEMO_PY, str(ROOT / "scripts" / "nemotron_diarize.py"),

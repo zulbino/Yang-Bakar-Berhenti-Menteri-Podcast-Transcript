@@ -7181,3 +7181,18 @@ DeepSeek's own API would test the model itself.
   which no punctuation marks. Fine-tuning Nemotron is the next test. ep65's 219 needs
   `raw_pipeline_v2.md` as input; `raw_pipeline.md` gives 388. `--no-lock` keeps rulings out of a
   gold test.
+
+### 2.33: Fine-tuning Nemotron on the owner's gold made it worse; not adopted (2026-10-19)
+
+- **Built:** `nemotron_finetune_data.py` (word-level RTTM from the owner's raw.md at ASR times, 90 s
+  windows; train on three gold episodes, hold one out) and `nemotron_finetune.py` (NeMo, D:\venvs\nemo312,
+  eager flex_attention, num_workers 0; 4.5 s a step on the RTX 2070). `NEMOTRON_MODEL` makes
+  `nemotron_diarize.py` and `voice_label_raw.py` use a fine-tuned .nemo with its own cache file.
+- **Measured** on held-out ep68, wrong-label words with the snap: released model **102**;
+  400 steps at lr 1e-5 **121**; 200 steps at lr 3e-6 **148**. NeMo's own validation improved the
+  whole time (val_loss 0.257 -> 0.237, F1 0.897 -> 0.903), so the model learned the training labels
+  and those labels do not measure what the owner corrects. Likely cause: the labels mark silence
+  between words, so the model learns to switch speakers off, and more words fall to the voice.
+- **Decision:** keep the released Nemotron plus the snap. Re-open only with a different label
+  design (turn spans rather than word spans) or more corrected episodes.
+- `voice_label_raw.py` deletes `audio/_<vid>.16k.wav` after use; the fine-tune data step rebuilds it.

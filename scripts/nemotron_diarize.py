@@ -24,7 +24,9 @@ from torch.nn.attention.flex_attention import flex_attention  # noqa: E402
 TU._get_flex_attention = lambda x: flex_attention
 
 wav, out = sys.argv[1], sys.argv[2]
-m = SortformerEncLabelModel.from_pretrained("nvidia/Nemotron-3-Diarization")
+model = os.environ.get("NEMOTRON_MODEL")       # a fine-tuned .nemo (nemotron_finetune.py), for tests
+m = (SortformerEncLabelModel.restore_from(model) if model
+     else SortformerEncLabelModel.from_pretrained("nvidia/Nemotron-3-Diarization"))
 m.eval()
 s = m.sortformer_modules                     # the model card's offline preset
 s.spkcache_len, s.fifo_len, s.chunk_len, s.chunk_right_context, s.spkcache_update_period = 264, 40, 340, 40, 300
