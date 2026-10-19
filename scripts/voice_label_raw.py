@@ -241,7 +241,8 @@ def main():
         m = TURN.match(line.strip())
         if m:
             turns.append((m.group(1).strip(), m.group(2).split()))
-    label_for = {**mai_camera_raw.CAMERA_NAME, **{name(l): l for l, _ in turns}}
+    # The corpus label wins over a raw.md's own short form (ep64 had 30 "Farhan" turns).
+    label_for = {**{name(l): l for l, _ in turns}, **mai_camera_raw.CAMERA_NAME}
     asr = [(w.lower(), x["t"] / 1000, x.get("d", 0) / 1000)
            for t in json.loads((ROOT / "data" / f"_mai_{vid}" / "mai_words.json").read_text(encoding="utf-8"))["turns"]
            for x in t["words"] for w in WORD.findall(x["w"] or "")]
@@ -289,6 +290,12 @@ def main():
                 print(f"  ruling {sec} {k} not found in the text; its turn is NOT locked")
     if hit:
         print(f"  {len(locked)} words locked to the owner's rulings")
+    # Owner 2026-10-19: a forum audience member is not in the camera's cast, so Nemotron would put
+    # a panellist's name on their question. Every `Audience` word keeps its label.
+    aud = {i: f[0] for i, f in enumerate(flat) if f[0].startswith("Audience") and i not in locked}
+    if aud:
+        locked.update(aud)
+        print(f"  {len(aud)} Audience words keep their label")
 
     labels = []
     for i, ((lab, tok, _), t, d) in enumerate(zip(flat, times, durs)):
