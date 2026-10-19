@@ -7209,3 +7209,9 @@ DeepSeek's own API would test the model itself.
   clean switch. Too many for an ear. Owner's decision: for a relabelled episode rule 7 is the
   measured rate (972 wrong-label words of about 89,000 on the gold, against 4,022 for the camera),
   disclosed in METHODOLOGY.md; the owner's ear corrections become locked rulings.
+- **2026-10-20, held episodes.** The lock now reads every ruling shape the gate reads (a stamp
+  and a name only, split lists matched by their words near their own second, a filler the text
+  has lost, all DECISION_FILES); a ruled turn keeps its current label. ep19, ep31, ep53 and ep62
+  then match their published ruling counts and are published. ep47 (a one-word ruling at 15:14
+  the gate cannot locate after the relabel) and ep61 (its 01:30-03:00 gold passage lost 56 words,
+  one MISMATCH at 15:01) keep the camera labels.

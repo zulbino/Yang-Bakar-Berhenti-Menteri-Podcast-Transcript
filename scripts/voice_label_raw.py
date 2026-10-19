@@ -43,6 +43,7 @@ sys.path.insert(0, str(Path(__file__).resolve().parent))
 import common  # noqa: E402
 import mai_camera_raw
 import snap_switches  # noqa: E402
+import check_owner_decisions as COD  # noqa: E402
 import verify_speaker_voiceprint as V  # noqa: E402
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -236,11 +237,13 @@ def main():
     voice = voice_by_second(embs, profiles)
     nem_name = name_nemotron(P, embs, profiles)
 
-    turns = []
+    turns, stamps = [], []
     for line in body.splitlines():
         m = TURN.match(line.strip())
         if m:
             turns.append((m.group(1).strip(), m.group(2).split()))
+            stamps.append(sum(int(x) * 60 ** n for n, x in
+                              enumerate(reversed(line.strip()[1:line.strip().index("]")].split(":")))))
     # The corpus label wins over a raw.md's own short form (ep64 had 30 "Farhan" turns).
     label_for = {**{name(l): l for l, _ in turns}, **mai_camera_raw.CAMERA_NAME}
     asr = [(w.lower(), x["t"] / 1000, x.get("d", 0) / 1000)
@@ -288,6 +291,74 @@ def main():
                 locked.update({j: r["who"] for j in range(i, i + len(want))})
             else:
                 print(f"  ruling {sec} {k} not found in the text; its turn is NOT locked")
+    # Every older ruling shape (a stamp and a name only, a split list, a filler the text has since
+    # lost, the other decision files) is found the way check_owner_decisions.py finds it, in this
+    # raw.md, which already satisfies the gate; the whole ruled turn then keeps its current label.
+    if not a.no_lock:
+        starts, off = [], 0
+        for _, toks in turns:
+            starts.append(off)
+            off += len(toks)
+        texts = [" ".join(toks) for _, toks in turns]
+        anchors = []
+        for fname in COD.DECISION_FILES:
+            path = ROOT / "data" / fname
+            if not path.exists():
+                continue
+            for section, rules in json.loads(path.read_text(encoding="utf-8")).items():
+                if section.startswith("_") or not isinstance(rules, dict):
+                    continue
+                if a.tag.lower() not in section.lower() and bare + "_" not in section.lower()                         and vid not in json.dumps(rules, ensure_ascii=False):
+                    continue
+                for st, r in rules.items():
+                    if not st[:1].isdigit() or not isinstance(r, dict):
+                        continue
+                    at = COD.secs(r.get("at_now", st))
+                    for e in r.get("split", []):
+                        s = e[1][0] if isinstance(e[1], (list, tuple)) else e[1]
+                        if not s or COD.names_nobody(e[0]):
+                            continue
+                        # a split piece is a few exact words at its own second: lock those words
+                        want = [(WORD.findall(x.lower()) or [""])[0] for x in COD.INLINE.sub(" ", s).split()]
+                        t0 = COD.secs(e[2]) if len(e) > 2 and e[2] else at
+                        # the record's spelling can differ from the text now ("Okay"/"Okey"), so
+                        # take the closest word run within a minute of the piece's own second
+                        best, score = None, 0.7
+                        for i in range(len(norm) - len(want) + 1):
+                            if want and abs(times[i] - t0) <= 60:
+                                r_ = SequenceMatcher(None, " ".join(norm[i:i + len(want)]), " ".join(want)).ratio()
+                                if r_ > score or (r_ == score and best is not None
+                                                  and abs(times[i] - t0) < abs(times[best] - t0)):
+                                    best, score = i, r_
+                        if best is not None:
+                            lo, hi = best, best + len(want)
+                            for _ in range(3):           # neighbours the ruled turn already holds
+                                if lo > 0 and flat[lo - 1][0] == e[0]:
+                                    lo -= 1
+                                if hi < len(flat) and flat[hi][0] == e[0]:
+                                    hi += 1
+                            for j in range(lo, hi):
+                                locked.setdefault(j, e[0])
+                        else:
+                            print(f"  split {t0}s {e[0]} {s!r}: not found; NOT locked")
+                    if "who" in r:
+                        anchors.append((r["who"], r.get("text_now") or r.get("text_was_startswith")
+                                        or r.get("text_was"), at))
+        held = 0
+        for who, snip, at in anchors:
+            if COD.names_nobody(who):
+                continue
+            snip = COD.INLINE.sub(" ", snip or "").strip()
+            snip = " ".join(snip.split()[:8])
+            cands = [b for b, x in enumerate(texts) if snip and snip in x] or                     [b for b, s in enumerate(stamps) if s == at]
+            if not cands:
+                print(f"  ruling {at}s {who}: turn not found; NOT locked")
+                continue
+            b = min(cands, key=lambda b: abs(stamps[b] - at))
+            for j in range(starts[b], starts[b] + len(turns[b][1])):
+                locked.setdefault(j, turns[b][0])
+            held += 1
+        print(f"  {held} older rulings: their turns keep the current label")
     if hit:
         print(f"  {len(locked)} words locked to the owner's rulings")
     # Owner 2026-10-19: a forum audience member is not in the camera's cast, so Nemotron would put

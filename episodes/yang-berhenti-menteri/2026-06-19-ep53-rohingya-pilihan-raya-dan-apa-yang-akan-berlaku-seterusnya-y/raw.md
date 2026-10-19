@@ -8,7 +8,7 @@ duration_seconds: 10842
 duration: 3h 0m
 view_count: 169643
 model: microsoft/MAI-Transcribe-2
-note: 'Raw transcript from MAI-Transcribe-2 via the Azure Speech API, verbatim style, with word-level timestamps from the model itself. Speaker labels come from the show''s own camera cuts (scripts/camera_speakers.py, an on-screen active-speaker reference) at the time of each word; turns of three words or fewer keep the current raw.md''s label, and words the camera does not cover fall back to it. Built by scripts/mai_camera_raw.py; the word sequence is MAI''s, unchanged, apart from the reviewed name corrections in fix_proper_nouns.py and the owner-verified passage kept from the previous transcript (no gold passage recorded for this video; owner rulings over the camera: 6 blocks set from data/forced_labels.json). See interview.md for the polished newspaper-style rewrite.'
+note: 'Raw transcript from MAI-Transcribe-2 via the Azure Speech API, verbatim style, with word-level timestamps from the model itself. Speaker labels come from NVIDIA Nemotron 3 Diarization at each word''s own time (scripts/voice_label_raw.py, owner''s decisions 2026-10-16 and 2026-10-18); its speakers are named by WeSpeaker ResNet34 voice profiles learned from the camera seconds of other episodes, or of this episode for a speaker no other episode has, and a word Nemotron leaves silent takes the voice profile''s label. Built by scripts/mai_camera_raw.py; the word sequence is MAI''s, unchanged, apart from the reviewed name corrections in fix_proper_nouns.py and the owner-verified passage kept from the previous transcript (no gold passage recorded for this video; owner rulings over the camera: 6 blocks set from data/forced_labels.json). See interview.md for the polished newspaper-style rewrite.'
 ---
 
 <!-- nav -->
@@ -23,27 +23,59 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [00:44] Haziq: Baik, assalamualaikum dan salam sejahtera. Podcast Yang Berhenti Menteri episod ke-53. Macam biasa bersama saya Haziq dan bersama saudara Rafizi Ramli. Apa khabar YB?
 
-[00:57] Rafizi: Gila kita dah 53 minggu, tak nak berhenti ke? Agaknya bila YB? Itulah ada orang beritahu dia orang ni buat podcast aa macam tak boleh miss tiap-tiap minggu macam Usrah. Kalau miss je dah jadi dosa besar.
+[00:57] Rafizi: Gila kita dah 53 minggu, tak nak berhenti ke?
+
+[01:01] Haziq: Agaknya bila YB?
+
+[01:02] Rafizi: Itulah ada orang beritahu dia orang ni buat podcast aa macam tak boleh miss tiap-tiap minggu macam Usrah. Kalau miss je dah jadi dosa besar.
 
 [01:12] Haziq: Macam apa? Kuliah Jumaat dekat Masjid Rusila.
 
-[01:16] Rafizi: Tak.
+[01:16] Rafizi: Tak. Oh, tak. Gila engkau jahat betul. Ha, tak pasal-pasal buat dosa.
 
-[01:17] Haziq: Oh, tak.
+[01:20] Haziq: Eh, betul. Okey, gitu. YB, sebelum kita start, YB, saya just bagitahulah. Aaa ramai penonton-penonton kita ni kadang-kadang dia hantar jemputan kahwin. Ha, dekat YB semua. Jadi saya rasa saya just bagitahu.
 
-[01:17] Rafizi: Gila engkau jahat betul. Ha, tak pasal-pasal buat dosa.
+[01:35] Rafizi: Dia hantar kat mana jemputan kahwin?
 
-[01:20] Haziq: Eh, betul. Okey, gitu. YB, sebelum kita start, YB, saya just bagitahulah. Aaa ramai penonton-penonton kita ni kadang-kadang dia hantar jemputan kahwin. Ha, dekat YB semua. Jadi saya rasa saya just bagitahu. Dia hantar kat mana jemputan kahwin? Dekat Twitter ada. Tapi kalau YB nak pergi, tak terpergilah kut YB. Jadi YB mungkin ucapkanlah sesuatu kat mereka.
+[01:38] Haziq: Dekat Twitter ada. Tapi kalau YB nak pergi, tak terpergilah kut YB. Jadi YB mungkin ucapkanlah sesuatu kat mereka.
 
-[01:45] Rafizi: Ha, jadi ini tak masuk skrip ni. Kan. Tak ada kat skrip. Saya mengambil kesempatan ini untuk mengucapkan selam- Oh! Aku pergi kan hari tu apa ni Amir kahwin? Haah, Amir. Okey. Insan terpilih. Amir ni ke insan terpilih lah sebab dia buat podcast. Kalau tak pergi dia kahwin, dia mogok tak buat podcast, Tak ada podcast. mati aku tak ada podcast. Jadi kepada yang lain yang saya tak berkesempatan, saya ucapkan aa selamat berbahagia. Ya. Aaa kahwin pun susahlah aku nak ucap yang pasal kahwin ni sebab aku kahwin tu simple sangat. Tadi tanya Amir, actually kau tak pergi ke honeymoon ke? Lepas tu aku terfikir. Actually masa aku kahwin dulu, lepas aku kahwin tu aku buat apa eh? Aku pergi kerja. Aku pergi kerja, isteri aku pergi kerja. So tak ada honeymoon ya? Tak ada honeymoon. So aku pun tak ada honeymoon kan. Tapi ha, kepada yang lain yang dah merancang honeymoon, ah, selamat bergembiralah. Jangan fikir ah pasal podcast lah, pasal politik, pasal pilihan raya, pergi honeymoon. Baik, baik, baik. Kecuali Amir, kau kena buat podcast.
+[01:45] Rafizi: Ha, jadi ini tak masuk skrip ni. Kan. Tak ada kat skrip. Saya mengambil kesempatan ini untuk mengucapkan selam- Oh! Aku pergi kan hari tu apa ni Amir kahwin?
+
+[01:58] Haziq: Haah, Amir.
+
+[02:00] Rafizi: Okey.
+
+[02:00] Haziq: Insan terpilih.
+
+[02:01] Rafizi: Amir ni ke insan terpilih lah sebab dia buat podcast. Kalau tak pergi dia kahwin, dia mogok tak buat podcast, Tak ada podcast. mati aku tak ada podcast. Jadi kepada yang lain yang saya tak berkesempatan, saya ucapkan aa selamat berbahagia. Ya. Aaa kahwin pun susahlah aku nak ucap yang pasal kahwin ni sebab aku kahwin tu simple sangat. Tadi tanya Amir, actually kau tak pergi ke honeymoon ke? Lepas tu aku terfikir. Actually masa aku kahwin dulu, lepas aku kahwin tu aku buat apa eh? Aku pergi kerja. Aku pergi kerja, isteri aku pergi kerja.
+
+[02:37] Haziq: So tak ada honeymoon ya?
+
+[02:37] Rafizi: Tak ada honeymoon. So aku pun tak ada honeymoon kan. Tapi ha, kepada yang lain yang dah merancang honeymoon, ah, selamat bergembiralah. Jangan fikir ah pasal podcast lah, pasal politik, pasal pilihan raya, pergi honeymoon.
+
+[02:53] Haziq: Baik, baik, baik.
+
+[02:53] Rafizi: Kecuali Amir, kau kena buat podcast.
 
 [02:56] Haziq: Baik, dengar Amir. Amir kat belakang tu. Okey, baik YB. Okey, kita teruskanlah macam biasa. Cuma kepada semua yang dah rancang nak skip selepas beberapa minit ni, kita akan sentuh isu Rohingya. Jadi.
 
-[03:10] Rafizi: Sebab minggu lepas tontonan merudum. Menunjukkan bahawa penonton-penonton podcast YBM ini tua-tua. Bila kita jemput aa 2 Gen Z datang, walaupun bersemangat, dan Zaim sampai tertidur-tidur sebab dah lambat sangat kan. Kesian kat dia. Akhirnya tontonan itu, I ingat ada 2 sebab lah. 1 sebab kita ada jelajah kan. Ah, back to back. Ah, back to back. Bila kita ada jelajah back to back, jadi algorithm tu, dia nak kena balance sikit lah kot. I pun tak tahu exactly how it affects it. Tapi most probably yang lebih mendapat tontonan dan like and clicks, content yang kemudian itu akan suppress and cannibalize content yang lebih awal lah. Ya, ya, ya. Jadi buat pertama kali, podcast YBM minggu lepas dah lah itu episod ke-52 ulang tahun pertama. Dia tak mence- dia belum, belum cross 100,000 lagi kan selepas seminggu. Selalunya dalam 2 hari dia dah cross 100,000 lebih dah. Jadi kepada Gen Z sekalian, jangan marah kalau kami tak cakap pasal Gen Z eh. Lain kali kalau nak podcast YBM bercakap pasal Gen Z, silalah tonton ramai-ramai.
+[03:10] Rafizi: Sebab minggu lepas tontonan merudum. Menunjukkan bahawa penonton-penonton podcast YBM ini tua-tua. Bila kita jemput aa 2 Gen Z datang, walaupun bersemangat, dan Zaim sampai tertidur-tidur sebab dah lambat sangat kan. Kesian kat dia. Akhirnya tontonan itu, I ingat ada 2 sebab lah. 1 sebab kita ada jelajah kan.
 
-[04:37] Haziq: Okey, okey, baik. Kita tengok yang beria terus, Fie. Kita ada enam eh. Okeylah. Banyak sikit. Ya. Kita tengok. Lah dah dekat dengan pilihan raya.
+[03:37] Haziq: Ah, back to back.
 
-[04:47] Rafizi: Semua orang beria lah kot.
+[03:38] Rafizi: Ah, back to back. Bila kita ada jelajah back to back, jadi algorithm tu, dia nak kena balance sikit lah kot. I pun tak tahu exactly how it affects it. Tapi most probably yang lebih mendapat tontonan dan like and clicks, content yang kemudian itu akan suppress and cannibalize content yang lebih awal lah.
+
+[04:04] Haziq: Ya, ya, ya.
+
+[04:05] Rafizi: Jadi buat pertama kali, podcast YBM minggu lepas dah lah itu episod ke-52 ulang tahun pertama. Dia tak mence- dia belum, belum cross 100,000 lagi kan selepas seminggu. Selalunya dalam 2 hari dia dah cross 100,000 lebih dah. Jadi kepada Gen Z sekalian, jangan marah kalau kami tak cakap pasal Gen Z eh. Lain kali kalau nak podcast YBM bercakap pasal Gen Z, silalah tonton ramai-ramai.
+
+[04:37] Haziq: Okey, okey, baik. Kita tengok yang beria terus, Fie. Kita ada enam eh. Okeylah. Banyak sikit.
+
+[04:44] Rafizi: Ya.
+
+[04:44] Haziq: Kita tengok.
+
+[04:45] Rafizi: Lah dah dekat dengan pilihan raya. Semua orang beria lah kot.
 
 [04:49] Haziq: Okey, yang pertama kita ada orang beratur panjang aa di mendapatkan kerja di sebuah syarikat di Melaka lah. Ha, jadi saring awal tanda pangkah. Beratur biar sampai Maria aa tick. Yang dikatakan boleh masuk The Malaysian Book of Records, Longest Queue for Interviews in Malaysia.
 
@@ -51,15 +83,47 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [05:14] Haziq: Ada, saya tengoklah komen-komen berdasarkan komen kan and then biasalah macam yang muda-muda ni kan. Dia akan kata, eh kita sebenarnya boleh buat benda lagi senang. Apa kata? Kita a saring dulu. Apa kata macam ni, apa kata macam itu. Baik macam ni, baik macam tu. Bangsa baik.
 
-[05:32] Rafizi: Jadi kalau, kalau nak kata, sebab nak kata yang beratur panjang ni beria. Eh tak. Kesianlah dia orang. Dia nak dapatkan kerja kan. Iya. Dia a saya cadangkan Infineon. Lepas ni kalau boleh a kami sedia, kami di Bersama sedia membantu untuk menyaring lebih awal. Kerana sebenarnya yalah antara perkara pertama, produk pertama yang yang saya usahakanlah kan, daripada dulu lagi. Saya memang se- sebagai employer lah kan. Ya. Kita ada masalah kerana bila kita buka iklan kerja, memang orang hantar segala jenis permohonan lah. Dan CV tu nampak hebat gila. Ya. Ha, tapi bila interview, Allahuakbar kan. Susah kan. Jadi cara yang lebih baik untuk kita shortlist ialah kalau yang memohon itu memang perlu melalui proses temu duga dengan algorithm. Dengan dengan screen lah dan. Dan we can work out algorithm di belakang itu untuk menanya soalan-soalan yang berdasarkan maklumat yang kita dah ada daripada CV dia. Sistem tu memang ada, memang terpakai sampai sekarang lah. Cuma yalah saya fahamlah perasaan aa terutamanya syarikat-syarikat tech, IT di Malaysia ni. Sebab selalunya syarikat kat Malaysia ni kalau tak nama Mat Salleh ke ataupun tak ada, tak ada connection ke, terutamanya kalau yang syarikat besar-besar lah, dia tak layan semua ni kan. Jadi perkara yang samalah yang kita gunakan untuk membangunkan sistem saringan calon bersama. Calon. And I'm happy. Okey. Setakat ini, ah, algorithm itu berjalan dengan baik. Dia betul-betul membantu kita. Ah, orang yang apply tu dia kena isi, kemudian dia kena melalui interview ah dengan skrin tu. Dan kita memang ada algorithm di belakang yang- Soalan dia pun random kan? Macam- So- soalan, soalan random dan dia bergantung kepada peribadi you. Ah, so kalau contohnya you isi macam ni semua, akan ada soalan yang ditanya sedikit sebanyak tu berkenaan dengan pengalaman semualah kan. Dan bila dia jawab tu memang ada algorithm yang skor dari segi keyakinan dia, Bahasa yang digunakan, Kemudian dari segi facial expression kan. Actually, you can even train algorithm kepada kelip mata. Kan and actually macam mana your tangan, everything, whatever you can do lah. Dan dan daripada itu semua tu dia ada composite score lah mengikut semua tu dan dia bagi ranking kepada calon-calon. Setakat ini saya agak-agak puas hati dengan ranking itulah. Dia tak ke laut sangatlah. Sebab algorithm ni kadang-kadang bila kita bangunkan when you train on a much smaller sample, dia ke laut. Yang paling teruk tu lah nombor 1 yang okey kan, but so far. Jadi kepada majikan-majikan, Eh, kami bersama yang baru sebulan ni pun dah saring awal pakai, pakai apa nama ni, screen interview. Saya ingat majikan-majikan Malaysia sepatutnyalah lebih ke depanlah. Sebab screen interview ni dengan algorithm ni is actually quite quite common lah di negara barat contohnya kan. Mahal kot. Tak adalah murahnya. Kita orang yang cabuk ni pun boleh buat kan. Cuma and platform tu ada. Banyak platform semua tu ada. Solution tu ada. Tapi saya pun tak tahulah kenapa kan. Mungkin HR director dia ke ataupun saya tahulah awal-awal masa kita orang buat tu, antara komen daripada HR director yang kami jumpa ialah, Eh, kalau korang buat macam ni, recruiter semua tak ada kerjalah. Siapa nak buat kerja diorang? Sebab yang ini dah buat macam ni kan. Jadi untuk membantu yang muda-muda ni dulu janganlah kesian dia beratur panjang macam ini kan. Tambah kalau dia beratur, lepas tu memang dia tak layak ataupun tidak sesuai dengan jawatan kosong tu. Yalah, dia dia dia lagi frust lah. Jadi beria ni maksudnya kita katakan beria syarikat-syarikat yang masih lagi tidak mahu menggunakan teknologi. Ya.
+[05:32] Rafizi: Jadi kalau, kalau nak kata, sebab nak kata yang beratur panjang ni beria.
 
-[10:21] Haziq: Setuju. Okey, kita tengok yang lain. Biasanya lepas-lepas ni dah ada politik dah kan? Yang pertama je yang tak politik eh.
+[05:37] Haziq: Eh tak.
 
-[10:32] Rafizi: Kita tengok siapa mangsa pertama. Kau ingat kau boleh scam penonton ke? Dia orang dah tahu dah. Yang pertama je at least, at least minggu ni aku boleh komen panjang sikit lah kan? Sebab ada pengalaman peribadi. Ya. Yang sebelum ini yang korang cuba nak scam yang awal-awal tu. Off betul. Oh. Disqualified.
+[05:37] Rafizi: Kesianlah dia orang. Dia nak dapatkan kerja kan.
 
-[10:52] Haziq: Okey, kita tengok yang next. Ketua Pengarah Jabatan Komen Orang Macam-Macam. Oh, J-KOM. Jabatan Komen Orang Macam-Macam. Terima kasih kepada ChatGPT yang tolong dapatkan. Dia bergaduh dengan Lim Siansi, Eric Seto.
+[05:40] Haziq: Iya.
 
-[11:08] Rafizi: Ha ya. Dia, yalah kita tengok performance sejak hari pertama. Sangat bersemangat. Oh, itu berapa kali dia apa nama dia edit tu? 3 kali. Pukul 5:37 mula dia panggil belaci. Eh, dia bukan belaci lah, dia balaci. Ini macam mana ketua pengarah J-KOM ni, apa nama ni, vokab salah, spelling salah ni. Balaci. Balaci. Ke sekarang dah tukar jadi belaci? Balaci lah. Balaci lah kan? Balaci.
+[05:41] Rafizi: Dia a saya cadangkan Infineon. Lepas ni kalau boleh a kami sedia, kami di Bersama sedia membantu untuk menyaring lebih awal. Kerana sebenarnya yalah antara perkara pertama, produk pertama yang yang saya usahakanlah kan, daripada dulu lagi. Saya memang se- sebagai employer lah kan. Ya. Kita ada masalah kerana bila kita buka iklan kerja, memang orang hantar segala jenis permohonan lah. Dan CV tu nampak hebat gila. Ya. Ha, tapi bila interview, Allahuakbar kan. Susah kan. Jadi cara yang lebih baik untuk kita shortlist ialah kalau yang memohon itu memang perlu melalui proses temu duga dengan algorithm. Dengan dengan screen lah dan. Dan we can work out algorithm di belakang itu untuk menanya soalan-soalan yang berdasarkan maklumat yang kita dah ada daripada CV dia. Sistem tu memang ada, memang terpakai sampai sekarang lah. Cuma yalah saya fahamlah perasaan aa terutamanya syarikat-syarikat tech, IT di Malaysia ni. Sebab selalunya syarikat kat Malaysia ni kalau tak nama Mat Salleh ke ataupun tak ada, tak ada connection ke, terutamanya kalau yang syarikat besar-besar lah, dia tak layan semua ni kan. Jadi perkara yang samalah yang kita gunakan untuk membangunkan sistem saringan calon bersama. Calon. And I'm happy. Okey. Setakat ini, ah, algorithm itu berjalan dengan baik. Dia betul-betul membantu kita. Ah, orang yang apply tu dia kena isi, kemudian dia kena melalui interview ah dengan skrin tu. Dan kita memang ada algorithm di belakang yang-
+
+[07:43] Haziq: Soalan dia pun random kan?
+
+[07:44] Rafizi: Macam- So- soalan, soalan random dan dia bergantung kepada peribadi you. Ah, so kalau contohnya you isi macam ni semua, akan ada soalan yang ditanya sedikit sebanyak tu berkenaan dengan pengalaman semualah kan. Dan bila dia jawab tu memang ada algorithm yang skor dari segi keyakinan dia, Bahasa yang digunakan, Kemudian dari segi facial expression kan. Actually, you can even train algorithm kepada kelip mata. Kan and actually macam mana your tangan, everything, whatever you can do lah. Dan dan daripada itu semua tu dia ada composite score lah mengikut semua tu dan dia bagi ranking kepada calon-calon. Setakat ini saya agak-agak puas hati dengan ranking itulah. Dia tak ke laut sangatlah. Sebab algorithm ni kadang-kadang bila kita bangunkan when you train on a much smaller sample, dia ke laut. Yang paling teruk tu lah nombor 1 yang okey kan, but so far. Jadi kepada majikan-majikan, Eh, kami bersama yang baru sebulan ni pun dah saring awal pakai, pakai apa nama ni, screen interview. Saya ingat majikan-majikan Malaysia sepatutnyalah lebih ke depanlah. Sebab screen interview ni dengan algorithm ni is actually quite quite common lah di negara barat contohnya kan.
+
+[09:18] Haziq: Mahal kot.
+
+[09:19] Rafizi: Tak adalah murahnya. Kita orang yang cabuk ni pun boleh buat kan. Cuma and platform tu ada. Banyak platform semua tu ada. Solution tu ada. Tapi saya pun tak tahulah kenapa kan. Mungkin HR director dia ke ataupun saya tahulah awal-awal masa kita orang buat tu, antara komen daripada HR director yang kami jumpa ialah, Eh, kalau korang buat macam ni, recruiter semua tak ada kerjalah. Siapa nak buat kerja diorang? Sebab yang ini dah buat macam ni kan. Jadi untuk membantu yang muda-muda ni dulu janganlah kesian dia beratur panjang macam ini kan. Tambah kalau dia beratur, lepas tu memang dia tak layak ataupun tidak sesuai dengan jawatan kosong tu. Yalah, dia dia dia lagi frust lah. Jadi beria ni maksudnya kita katakan beria syarikat-syarikat yang masih lagi tidak mahu menggunakan teknologi.
+
+[10:20] Haziq: Ya. Setuju. Okey, kita tengok yang lain. Biasanya lepas-lepas ni dah ada politik dah kan?
+
+[10:30] Rafizi: Yang pertama je yang tak politik eh.
+
+[10:32] Haziq: Kita tengok siapa mangsa pertama.
+
+[10:33] Rafizi: Kau ingat kau boleh scam penonton ke? Dia orang dah tahu dah. Yang pertama je at least, at least minggu ni aku boleh komen panjang sikit lah kan? Sebab ada pengalaman peribadi. Ya. Yang sebelum ini yang korang cuba nak scam yang awal-awal tu. Off betul. Oh.
+
+[10:51] Haziq: Disqualified. Okey, kita tengok yang next. Ketua Pengarah Jabatan Komen Orang Macam-Macam.
+
+[10:59] Rafizi: Oh, J-KOM. Jabatan Komen Orang Macam-Macam.
+
+[11:03] Haziq: Terima kasih kepada ChatGPT yang tolong dapatkan.
+
+[11:05] Rafizi: Dia bergaduh dengan Lim Siansi, Eric Seto.
+
+[11:08] Haziq: Ha ya. Dia, yalah kita tengok performance sejak hari pertama. Sangat bersemangat.
+
+[11:13] Rafizi: Oh, itu berapa kali dia apa nama dia edit tu? 3 kali. Pukul 5:37 mula dia panggil belaci. Eh, dia bukan belaci lah, dia balaci. Ini macam mana ketua pengarah J-KOM ni, apa nama ni, vokab salah, spelling salah ni. Balaci. Balaci. Ke sekarang dah tukar jadi belaci?
+
+[11:37] Haziq: Balaci lah.
+
+[11:38] Rafizi: Balaci lah kan? Balaci.
 
 [11:41] Haziq: Ini memanggil Cina sesatlah. Dan kemudian ditegur oleh bos-bos dia. Timbalan Menteri dan juga Menteri.
 
@@ -67,13 +131,33 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [12:07] Haziq: Saya rasa sebab jawatan KP J-KOM ni memang sangat panas. Dengan sebelum-sebelum ni mungkin expectation orang tu sangat tinggi. Dan sus- yalah nak nak tunjuk dia betul-betul function tu sampai kena buat semua benda.
 
-[12:21] Rafizi: The bar was very low. Because sebelum ni Asalkan buat podcast, ada 10 orang menonton, okeylah. Sebab itulah bar dia sebelum ni kan. Tak, tapi sebenarnya katakanlah korang jadi ketua pengarah J-KOM. Pa'an lah kot. Pa'an, kau jadi ketua pengarah J-KOM. Okey. KYB, Pa'an jadi. Kau ke Pa'an ke. Actually, what is your assessment of the work deliverable? Takkan assessment dia KPI paling tinggi ialah seberapa banyak, seberapa beria kau jadi badut.
+[12:21] Farhan (Pa'an): The bar was very low. Because sebelum ni
 
-[12:57] Farhan (Pa'an): Because J-KOM ni tugas dia adalah untuk bridge the gap in communication between government dengan rakyat. So as KP J-KOM, shouldn't you be going on the ground getting feedback from the rakyat regarding performance kerajaan? Dan also. Well, that's given, right, from social media. That's given. But for a KP to be doing what he did tu, saya rasa macam sangat tak faham job scope lah.
+[12:24] Rafizi: Asalkan buat podcast, ada 10 orang menonton, okeylah. Sebab itulah bar dia sebelum ni kan. Tak, tapi sebenarnya katakanlah korang jadi ketua pengarah J-KOM.
 
-[13:22] Rafizi: Kita pernah ulas. Kita tolong bantulah. Tolong bantu Syam Gas ni kan. Consultation percuma. Consultation percuma. Patutlah aku tak kaya sampai sekarang kan. Kan kita pernah ada slot. ada satu slot kan kita bincang mengenai masalah komunikasi kerajaan. So dia mesti bermula dengan aa orang kata situational assessment. Sebenarnya kenapa kerajaan ada masalah untuk menyampaikan dasar dan juga pencapaian kerajaan? So kenapa? Bahasa dia tak.
+[12:34] Haziq: Pa'an lah kot.
 
-[14:03] Multiple speakers: Ya ke?
+[12:35] Rafizi: Pa'an, kau jadi ketua pengarah J-KOM.
+
+[12:38] Haziq: Okey. KYB, Pa'an jadi.
+
+[12:40] Rafizi: Kau ke Pa'an ke. Actually, what is your assessment of the work deliverable? Takkan assessment dia KPI paling tinggi ialah seberapa banyak, seberapa beria kau jadi badut.
+
+[12:57] Farhan (Pa'an): Because J-KOM ni tugas dia adalah untuk bridge the gap in communication between government dengan rakyat. So as KP J-KOM, shouldn't you be going on the ground getting feedback from the rakyat regarding performance kerajaan? Dan also.
+
+[13:12] Rafizi: Well, that's given, right, from social media. That's given.
+
+[13:16] Farhan (Pa'an): But for a KP to be doing what he did tu, saya rasa macam sangat tak faham job scope lah.
+
+[13:22] Rafizi: Kita pernah ulas. Kita tolong bantulah. Tolong bantu Syam Gas ni kan.
+
+[13:28] Haziq: Consultation percuma.
+
+[13:29] Rafizi: Consultation percuma. Patutlah aku tak kaya sampai sekarang kan. Kan kita pernah ada slot. ada satu slot kan kita bincang mengenai masalah komunikasi kerajaan. So dia mesti bermula dengan aa orang kata situational assessment. Sebenarnya kenapa kerajaan ada masalah untuk menyampaikan dasar dan juga pencapaian kerajaan? So kenapa?
+
+[13:59] Haziq: Bahasa dia tak.
+
+[14:03] Rafizi: Ya ke?
 
 [14:03] Haziq: Tak jaf dengan rakyat.
 
@@ -89,105 +173,251 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [15:08] Farhan (Pa'an): So the loudest one sekarang ni is geng-geng Ceplos. So that's the most front facing messenger.
 
-[15:14] Haziq: Ceplos sebagai pemuka-pemuka depan. Maksudnya dia tukar KPJCOM banyak kali pun, orang yang sama tu, kita ada Datuk Taufik, orang yang sama dalam tu. Dia Datuk ke?
+[15:14] Haziq: Ceplos sebagai pemuka-pemuka depan. Maksudnya dia tukar KPJCOM banyak kali pun, orang yang sama tu, kita ada Datuk Taufik, orang yang sama dalam tu.
 
-[15:26] Rafizi: Actually, aku pun tak setuju dengan kau orang punya assessment. Tu orang cakaplah. Itu orang PKR dan orang bersama cakap. Actually, katakanlah ni kau orang memang tak boleh jadi consultant lah ni kan. Katakanlah aku datang daripada McKinsey ke, BCG ke, Ben & Co ke kan. Aku pun, kerajaan pun suruhlah aku jadi consultant. Actually, yang paling penting ialah substance itu mengatasi segala-galanya. In any marketing plan kan? Kalau produk tu tak bagus, you tukar macam mana pun, dia masih lagi ada isu. Ha, jadi sebenarnya sebelum, yalah untuk menyelamatkan Ketua Pengarah J-KOM ni daripada yalah beria-ia macam ni, pandangan sayalah, diagnosis masalah itu mestilah lebih atas dan lebih betul. Hipotesisnya ialah kerajaan ini sebenarnya baik dan popular, tetapi oleh kerana dakyah pembangkang ataupun orang yang tidak bersetuju, maka maklumat itu tidak sampai dan ada masalah komunikasi. You have to start there. Betul ke hipotesis itu?
+[15:24] Farhan (Pa'an): Dia Datuk ke?
+
+[15:26] Rafizi: Actually, aku pun tak setuju dengan kau orang punya assessment.
+
+[15:29] Haziq: Tu orang cakaplah.
+
+[15:31] Rafizi: Itu orang PKR dan orang
+
+[15:32] Haziq: bersama cakap.
+
+[15:35] Rafizi: Actually, katakanlah ni kau orang memang tak boleh jadi consultant lah ni kan. Katakanlah aku datang daripada McKinsey ke, BCG ke, Ben & Co ke kan. Aku pun, kerajaan pun suruhlah aku jadi consultant. Actually, yang paling penting ialah substance itu mengatasi segala-galanya. In any marketing plan kan? Kalau produk tu tak bagus, you tukar macam mana pun, dia masih lagi ada isu. Ha, jadi sebenarnya sebelum, yalah untuk menyelamatkan Ketua Pengarah J-KOM ni daripada yalah beria-ia macam ni, pandangan sayalah, diagnosis masalah itu mestilah lebih atas dan lebih betul. Hipotesisnya ialah kerajaan ini sebenarnya baik dan popular, tetapi oleh kerana dakyah pembangkang ataupun orang yang tidak bersetuju, maka maklumat itu tidak sampai dan ada masalah komunikasi. You have to start there. Betul ke hipotesis itu?
 
 [16:54] Haziq: Kalau ikut YB salah lah.
 
-[16:56] Rafizi: No lah, maksudnya dia soal cepat sangat berpuas hati. Ha, dia sendiri cakap, eh, kita okey dah. Ha, kita okey dah sebenarnya. Jadi bila kita kata kita ni sangat baik, kita ni dah okey dah. Jadi walaupun signal daripada rakyat itu, of course you have to weed out the noise lah kan, filter the noise semua. Tapi kalau tengoklah, sebahagian daripada orang kata criticism dan juga cynicism terhadap kerajaan itu, dia ada asas dia. Contohnya, kalau yang ikut kumpulan, kalau ikut kumpulan yang orang kata, kumpulan yang sebelum ini menyokong Pakatan Harapan dan juga visi reformasi, visi reform semua ni kan. Kita kena, kalau saya jadi J-KOM lah kan, kita kena bedah siasat dulu adakah rasa tidak puas hati itu adalah adil dan juga orang kata bertempat. Yalah. Sekarang ini agak jelaslah rasa tak puas hati itu kerana dirasakan bahawa tidak ada beza di antara kerajaan sekarang dengan sebelum ini. Akibat daripada kluk-kluk ataupun keputusan yang berbolak-balik mengenai reformasi. Besar kemungkinan kalau tanya, itu adalah isu yang besar. Ya. Kan. Sama juga contohnya isu pasal a a a prestasi ekonomi. A masa saya jadi Menteri Ekonomi dulu pun, memanglah kita a merancang yang pertamanya ialah keadaan makro ekonomi tu mesti dengan segera bertambah baik. Maksudnya soal pertumbuhan ekonomi, angka-angka yang berkaitan inflasi, kemudian yang berkaitan dengan pelaburan, pertumbuhan ekonomi kan. Yang itu tu sebenarnya rakyat ada had. Awal-awal tu dia kata okey, at least we are on the right direction kan. Selepas itu, the trickle effect tu dengan segera perlu berlaku. Kalau kita kata kedudukan fiskal lebih baik. Jadi bagaimana kedudukan fiskal i- yang lebih baik itu ada kesan kepada sama ada mutu perkhidmatan kerajaan ataupun bentuk-bentuk bantuan. Ataupun dari segi pertumbuhan pekerjaan yang gajinya lebih baik semua kan? Itu pada peringkat yang seterusnya. Jadi kalau perkara itu dirasakan tidak berlaku, sudah tentulah rakyat rasa meh. And then lepas 3 tahun, 4 tahun, ulang, ulang, ulang. Jadi masalah itu sebenarnya bukan masalah J-KOM. Masalah kerajaan kan? Okey. Sebagai orang politiklah, korang perasan tak satu benda pasal aku walaupun Anwar kata nyek nyek nyek lah, itulah ini. Apa tu? Kau perasan tak satu benda yang agak berbeza yang aku buat berbanding dengan banyak menteri atau ataupun tokoh politik lain? Daripada dulu sampai sekarang, ni yang kita buat podcast ni apa dia ni? Consistent? Well, that's one thing lah. Tapi dulu yang masa kita buat keputusan, ingat tak when bulan dalam 2020, 2023, when aku duk ketuk meja, Pa'an tiap-tiap minggu nak resign, tak tahan dengan aku kan. Ha kan, aku ketuk meja kata, we have a communication problem. We have a communication problem. Gini, and I keep saying that communication is about content. It's about consistency of content. It's about the volume of content. I keep telling that digital media ni is about throwing as many darts as possible because there's no such thing macam zaman Saci and Saci. Oh, you spend a lot of time building a good campaign and then just one shot and then bullseye. It doesn't work like that. So a good communication funnel is the one that is able to respond very quickly and voluminously kan. But yang itu semua tu maksudnya apa? Kesian korang. Aku selalu tanya soalan, lepas tu korang kena cuba telepathic. Apa dia nak jawapan dalam kepala dia kan? Apa agaknya? Ha, apa agaknya? Lain kali trick dia, senang je Haziq, kalau aku tanya soalan, kau tak boleh jawab. Kau pusing baliklah kalau aku jadi engkau. Kau tanya balik. Aku akan tanya, sebenarnya apa yang YB fikirkan? Saya cuba nanti. Lain kali kan. Kalau tidak. You know what? Communication cannot be delegated or subcontracted. Even saya ingat dalam rumah tangga kan, ni siapa yang, ah Amir, kau baru kahwin. Ha kan. Kalau pergi, kalau tanya kan, nasihat akulah kepada yang baru kahwin yang tadi yang saya tak sempat pergi majlis kan. Rumah tangga is all about communicate, communicate, communication, communication, communication. You don't communicate, you ada masalah, kan? Samalah juga lagilah pasal politik. Communication ini the buck stops with the person. Jadi kalau yang aa imej itu dirasakan ada masalah, aa maksudnya Dato' Seri Anwar Ibrahim has to take charge of the communication. Sama macam dulu kita kat Kementerian Ekonomi. Aku tak panggil pegawai maki, kecuali Pa'an lah, sebab dia setiausaha akhbar aku, lain ceritalah kan. Tapi aku tak panggil unit komunikasi korporat ke apa marah, panggil KSU semua marah, takde. I sit down and cakap this is the plan, this is what needs to be done, and for a start we have to start our podcast sendiri because every week I have to communicate. Itu yang jadi YBM ni. Sama juga contohnya content. Oh, tak payah hang nak ambil video cantik-cantik semua ni. Setiap 1 2 hari aku le- dengan muka-muka letih lepas mesyuarat panjang, aku kenalah bercakap dekat. Oh, tanya Rafizi semua kan. Because kalau contohnya I have a problem, image problem ke ataupun orang yang serang ke. Tanggungjawab itu bukan tanggungjawab kau orang semua. It's my responsibility kerana the buck stops at me and dalam banyak-banyak fungsi semua ni, yang paling penting ialah communication I must control. Itu sebenarnya the structural weakness of kerajaan bila ada J-KOM. Dari zaman Dato' Sri Najib lagi. J-KOM ni dulu dipanggil Jasa. Kan. Puad Zarkashi. Masa Puad Zarkashi dulu kan. Dan simptomnya ialah dia dia dia penubuhan Jasa kemudian disambung dengan J-KOM ni, dia sebenarnya hanya merawat simptom. Bukan root cause. Root cause nya ialah kerana ada rasa tidak puas hati rakyat yang sebenarnya substantif. Dan itu selalunya berkaitan dengan dasar kerajaan ataupun gaya kepimpinan Perdana Menteri atau menteri-menteri. Dan perkara itu sepatutnya diambil tanggungjawab oleh Perdana Menteri, menteri-menteri dan kabinet-kabinet. Zaman Najib dulu, kemudian disambung sekarang dengan J-KOM lah. Sebab menteri Perdana Menteri ni sangat di atas lah. Dia sangat bangsawan pembesar. Jadi maka ditubuhkan satu jabatan untuk menjawab bagi pihak menteri. Ataupun Perdana Menteri. Benda tu tak pernah berkesan daripada dulu sampai sekarang. Jadi akhirnya, J-KOM ini menjadi tempat untuk mengumpul kaki-kaki pembodek. Itu yang timbul pula Ceplos, tak Ceplos semua kan. Yalah kalau dia ni orang yang berkelayakan tinggi, berkemahiran, dia tak adalah jadi Ceplos. Kan. Itu jelah yang dia tahu. Dan mereka diberi tanggungjawab yang cukup besar untuk menerangkan keadaan bagi pihak Perdana Menteri dan bagi pihak kerajaan. Memang tak jalanlah. Jadi tukarlah macam mana. Sebab itu aa kerajaan Madani dah ni dah mencuba dua aa aa apa nama ni profile ketua pengarah J-KOM yang di opposite extreme of each other spektrumnya kan. Sebelum ini kita ada Tok Abah yang, Tok Abang lah. Yang gempak. Kita tak dengar apa-apa daripada dialah kan. Kita kena cuba meneka apa dalam minda dia. Minda Tok Abah kan. Minda Tok Abah. Pun tak jadi apa-apa. Tak tak hadir di mana-mana, tak nampak, tak visible. Sekarang kita tukar kepada the opposite extreme yang sangat visible. Yang kalau boleh kerja Perdana Menteri pun dia nak buat. Kan kalau boleh kan. Setiap hari, satu hari nanti ada content daripada Pejabat Perdana Menteri contohnya kan. Semua dia nak buat. Ah, dan agak jelaslah sebenarnya itu tidak berkesan. Jadi, ah, my view is sebenarnya kalau nak selesai masalah tu, you have to focus on the root cause. Ah, kalau tidak rakyat akan bayar gaji sajalah. Ketua Pengarah J-KOM ni, Jusah A kan? Jusa. Jusa A kan? Jusa A. Ketua Pengarah J-KOM ni rasanya Jusa A rasanya. Jusak A tu sama tahap dengan kemen- KSU Kementerian. Dan akhirnya dia buat content. Cuma So.
+[16:56] Rafizi: No lah, maksudnya dia soal cepat sangat berpuas hati.
+
+[17:04] Haziq: Ha, dia sendiri cakap, eh, kita okey dah.
+
+[17:07] Rafizi: Ha, kita okey dah sebenarnya. Jadi bila kita kata kita ni sangat baik, kita ni dah okey dah. Jadi walaupun signal daripada rakyat itu, of course you have to weed out the noise lah kan, filter the noise semua. Tapi kalau tengoklah, sebahagian daripada orang kata criticism dan juga cynicism terhadap kerajaan itu, dia ada asas dia. Contohnya, kalau yang ikut kumpulan, kalau ikut kumpulan yang orang kata, kumpulan yang sebelum ini menyokong Pakatan Harapan dan juga visi reformasi, visi reform semua ni kan. Kita kena, kalau saya jadi J-KOM lah kan, kita kena bedah siasat dulu adakah rasa tidak puas hati itu adalah adil dan juga orang kata bertempat. Yalah. Sekarang ini agak jelaslah rasa tak puas hati itu kerana dirasakan bahawa tidak ada beza di antara kerajaan sekarang dengan sebelum ini. Akibat daripada kluk-kluk ataupun keputusan yang berbolak-balik mengenai reformasi. Besar kemungkinan kalau tanya, itu adalah isu yang besar.
+
+[18:43] Haziq: Ya.
+
+[18:44] Rafizi: Kan. Sama juga contohnya isu pasal a a a prestasi ekonomi. A masa saya jadi Menteri Ekonomi dulu pun, memanglah kita a merancang yang pertamanya ialah keadaan makro ekonomi tu mesti dengan segera bertambah baik. Maksudnya soal pertumbuhan ekonomi, angka-angka yang berkaitan inflasi, kemudian yang berkaitan dengan pelaburan, pertumbuhan ekonomi kan. Yang itu tu sebenarnya rakyat ada had. Awal-awal tu dia kata okey, at least we are on the right direction kan. Selepas itu, the trickle effect tu dengan segera perlu berlaku. Kalau kita kata kedudukan fiskal lebih baik. Jadi bagaimana kedudukan fiskal i- yang lebih baik itu ada kesan kepada sama ada mutu perkhidmatan kerajaan ataupun bentuk-bentuk bantuan. Ataupun dari segi pertumbuhan pekerjaan yang gajinya lebih baik semua kan? Itu pada peringkat yang seterusnya. Jadi kalau perkara itu dirasakan tidak berlaku, sudah tentulah rakyat rasa meh. And then lepas 3 tahun, 4 tahun, ulang, ulang, ulang. Jadi masalah itu sebenarnya bukan masalah J-KOM. Masalah kerajaan kan? Okey. Sebagai orang politiklah, korang perasan tak satu benda pasal aku walaupun Anwar kata nyek nyek nyek lah, itulah ini. Apa tu? Kau perasan tak satu benda yang agak berbeza yang aku buat berbanding dengan banyak menteri atau ataupun tokoh politik lain? Daripada dulu sampai sekarang, ni yang kita buat podcast ni apa dia ni?
+
+[20:51] Haziq: Consistent?
+
+[20:52] Rafizi: Well, that's one thing lah. Tapi dulu yang masa kita buat keputusan, ingat tak when bulan dalam 2020, 2023, when aku duk ketuk meja, Pa'an tiap-tiap minggu nak resign, tak tahan dengan aku kan. Ha kan, aku ketuk meja kata, we have a communication problem. We have a communication problem. Gini, and I keep saying that communication is about content. It's about consistency of content. It's about the volume of content. I keep telling that digital media ni is about throwing as many darts as possible because there's no such thing macam zaman Saci and Saci. Oh, you spend a lot of time building a good campaign and then just one shot and then bullseye. It doesn't work like that. So a good communication funnel is the one that is able to respond very quickly and voluminously kan. But yang itu semua tu maksudnya apa? Kesian korang. Aku selalu tanya soalan, lepas tu korang kena cuba telepathic. Apa dia nak jawapan dalam kepala dia kan? Apa agaknya? Ha, apa agaknya? Lain kali trick dia, senang je Haziq, kalau aku tanya soalan, kau tak boleh jawab. Kau pusing baliklah kalau aku jadi engkau. Kau tanya balik. Aku akan tanya, sebenarnya apa yang YB fikirkan?
+
+[22:20] Haziq: Saya cuba nanti.
+
+[22:21] Rafizi: Lain kali kan. Kalau tidak. You know what? Communication cannot be delegated or subcontracted. Even saya ingat dalam rumah tangga kan, ni siapa yang, ah Amir, kau baru kahwin. Ha kan. Kalau pergi, kalau tanya kan, nasihat akulah kepada yang baru kahwin yang tadi yang saya tak sempat pergi majlis kan. Rumah tangga is all about communicate, communicate, communication, communication, communication. You don't communicate, you ada masalah, kan? Samalah juga lagilah pasal politik. Communication ini the buck stops with the person. Jadi kalau yang aa imej itu dirasakan ada masalah, aa maksudnya Dato' Seri Anwar Ibrahim has to take charge of the communication. Sama macam dulu kita kat Kementerian Ekonomi. Aku tak panggil pegawai maki, kecuali Pa'an lah, sebab dia setiausaha akhbar aku, lain ceritalah kan. Tapi aku tak panggil unit komunikasi korporat ke apa marah, panggil KSU semua marah, takde. I sit down and cakap this is the plan, this is what needs to be done, and for a start we have to start our podcast sendiri because every week I have to communicate. Itu yang jadi YBM ni. Sama juga contohnya content. Oh, tak payah hang nak ambil video cantik-cantik semua ni. Setiap 1 2 hari aku le- dengan muka-muka letih lepas mesyuarat panjang, aku kenalah bercakap dekat. Oh, tanya Rafizi semua kan. Because kalau contohnya I have a problem, image problem ke ataupun orang yang serang ke. Tanggungjawab itu bukan tanggungjawab kau orang semua. It's my responsibility kerana the buck stops at me and dalam banyak-banyak fungsi semua ni, yang paling penting ialah communication I must control. Itu sebenarnya the structural weakness of kerajaan bila ada J-KOM. Dari zaman Dato' Sri Najib lagi. J-KOM ni dulu dipanggil Jasa. Kan. Puad Zarkashi. Masa Puad Zarkashi dulu kan. Dan simptomnya ialah dia dia dia penubuhan Jasa kemudian disambung dengan J-KOM ni, dia sebenarnya hanya merawat simptom. Bukan root cause. Root cause nya ialah kerana ada rasa tidak puas hati rakyat yang sebenarnya substantif. Dan itu selalunya berkaitan dengan dasar kerajaan ataupun gaya kepimpinan Perdana Menteri atau menteri-menteri. Dan perkara itu sepatutnya diambil tanggungjawab oleh Perdana Menteri, menteri-menteri dan kabinet-kabinet. Zaman Najib dulu, kemudian disambung sekarang dengan J-KOM lah. Sebab menteri Perdana Menteri ni sangat di atas lah. Dia sangat bangsawan pembesar. Jadi maka ditubuhkan satu jabatan untuk menjawab bagi pihak menteri. Ataupun Perdana Menteri. Benda tu tak pernah berkesan daripada dulu sampai sekarang. Jadi akhirnya, J-KOM ini menjadi tempat untuk mengumpul kaki-kaki pembodek. Itu yang timbul pula Ceplos, tak Ceplos semua kan. Yalah kalau dia ni orang yang berkelayakan tinggi, berkemahiran, dia tak adalah jadi Ceplos. Kan. Itu jelah yang dia tahu. Dan mereka diberi tanggungjawab yang cukup besar untuk menerangkan keadaan bagi pihak Perdana Menteri dan bagi pihak kerajaan. Memang tak jalanlah. Jadi tukarlah macam mana. Sebab itu aa kerajaan Madani dah ni dah mencuba dua aa aa apa nama ni profile ketua pengarah J-KOM yang di opposite extreme of each other spektrumnya kan. Sebelum ini kita ada Tok Abah yang, Tok Abang lah.
+
+[26:33] Haziq: Yang gempak.
+
+[26:34] Rafizi: Kita tak dengar apa-apa daripada dialah kan. Kita kena cuba meneka apa dalam minda dia. Minda Tok Abah kan.
+
+[26:40] Haziq: Minda Tok Abah.
+
+[26:41] Rafizi: Pun tak jadi apa-apa. Tak tak hadir di mana-mana, tak nampak, tak visible. Sekarang kita tukar kepada the opposite extreme yang sangat visible. Yang kalau boleh kerja Perdana Menteri pun dia nak buat. Kan kalau boleh kan. Setiap hari, satu hari nanti ada content daripada Pejabat Perdana Menteri contohnya kan. Semua dia nak buat. Ah, dan agak jelaslah sebenarnya itu tidak berkesan. Jadi, ah, my view is sebenarnya kalau nak selesai masalah tu, you have to focus on the root cause. Ah, kalau tidak rakyat akan bayar gaji sajalah. Ketua Pengarah J-KOM ni, Jusah A kan?
+
+[27:22] Haziq: Jusa.
+
+[27:22] Rafizi: Jusa A kan? Jusa A. Ketua Pengarah J-KOM ni rasanya Jusa A rasanya. Jusak A tu sama tahap dengan kemen- KSU Kementerian. Dan akhirnya dia buat content. Cuma So.
 
 [27:40] Haziq: Ada yalah dalam kalangan penyokong juga selalu saya dengar dulu, yang selalu bercakap apa-apa je biasanya Dato' Seri Anwar yang menjawab. Menteri-menteri lain ni semua menyorok dekat belakang dia.
 
-[27:51] Rafizi: Itu bermula awal-awal dululah. Memang itu kehendak Dato' Seri Anwar. Oh, sebab dia je yang ni kan? Sebab a peraturannya ialah menteri tak boleh nak complain pasal fungsi menteri yang lain. So macam Kementerian Ekonomi memang seksa. Tak boleh komen siapa-siapa. Sebab semua agensi pelaksana tu semua kementerian yang lain. Sedangkan semua dasar dan isu itu semua di bawah Kementerian Ekonomi kan, contoh. Jadi memang menteri tak boleh complain, tak boleh nak komen pun. Yang keduanya ialah kerana oleh kerana kerajaan Madani ini melibatkan PH, BN, GPS, GRS semua. Jadi isu politik memang sebaik-baiknya dielakkan daripada menjawab terus. Yang itu semua hanya Perdana Menteri yang boleh jawab. Jadi bila ada kontroversi kalau yang melibatkan UMNO atau DAP, aa sesama parti-parti semua ni, kita tak boleh komen kerana itu akan mengganggu gugat kestabilan dan keutuhan kerajaan. Jadi akhirnya semua orang diam lah. Sebab itu Itu cerita dia. Kalau perasan, sebelum kerajaan Madani, mana ada jurucakap kerajaan? Ah, betul. Ah, hanya kerajaan Madani yang ada jurucakap kerajaan, iaitu selain daripada Perdana Menteri, hanya seorang yang diberikan ke- ke- kelulusan untuk komen pasal kerajaan dan yang menyentuh pasal kabinet, pasal kementerian lain. Siapa itu? Yalah, Skuba. 6 7. Dia pun menjawab dengan bagi 6 7. Kan. Jadi Fahmi sebelum kerajaan Madani tak ada tau seorang menteri yang dilantik sebagai jurucakap kerajaan. Hanyalah kerajaan Madani ni ada, dan Fahmi pula yang diberi tugasan itu tak membantu banyaklah. Sebabnya ialah kerana memang peraturan itu ialah tidak boleh komen.
+[27:51] Rafizi: Itu bermula awal-awal dululah. Memang itu kehendak Dato' Seri Anwar.
 
-[29:58] Haziq: Okey. Baik, YB.
+[27:56] Haziq: Oh, sebab dia je yang ni kan?
+
+[27:58] Rafizi: Sebab a peraturannya ialah menteri tak boleh nak complain pasal fungsi menteri yang lain. So macam Kementerian Ekonomi memang seksa. Tak boleh komen siapa-siapa. Sebab semua agensi pelaksana tu semua kementerian yang lain. Sedangkan semua dasar dan isu itu semua di bawah Kementerian Ekonomi kan, contoh. Jadi memang menteri tak boleh complain, tak boleh nak komen pun. Yang keduanya ialah kerana oleh kerana kerajaan Madani ini melibatkan PH, BN, GPS, GRS semua. Jadi isu politik memang sebaik-baiknya dielakkan daripada menjawab terus. Yang itu semua hanya Perdana Menteri yang boleh jawab. Jadi bila ada kontroversi kalau yang melibatkan UMNO atau DAP, aa sesama parti-parti semua ni, kita tak boleh komen kerana itu akan mengganggu gugat kestabilan dan keutuhan kerajaan. Jadi akhirnya semua orang diam lah. Sebab itu Itu cerita dia. Kalau perasan, sebelum kerajaan Madani, mana ada jurucakap kerajaan?
+
+[29:08] Haziq: Ah, betul.
+
+[29:09] Rafizi: Ah, hanya kerajaan Madani yang ada jurucakap kerajaan, iaitu selain daripada Perdana Menteri, hanya seorang yang diberikan ke- ke- kelulusan untuk komen pasal kerajaan dan yang menyentuh pasal kabinet, pasal kementerian lain. Siapa itu? Yalah, Skuba. 6 7. Dia pun menjawab dengan bagi 6 7. Kan. Jadi Fahmi sebelum kerajaan Madani tak ada tau seorang menteri yang dilantik sebagai jurucakap kerajaan. Hanyalah kerajaan Madani ni ada, dan Fahmi pula yang diberi tugasan itu tak membantu banyaklah. Sebabnya ialah kerana memang peraturan itu ialah tidak boleh komen.
+
+[29:59] Haziq: Okey. Baik, YB.
 
 [30:00] Rafizi: Beria, beria. Beria kita kom- komen kot. Beria kita komen.
 
-[30:05] Haziq: Okey, baik. Kita ada lagi pempengaruh lain, YB. Tetapi menjadi tukang tilik isi hati orang. Dipersilakan tetamu kita, saudara Jason. Jason Yu. Wong Chen tidak berani meletak jawatan, sebaliknya mahu dipecat parti untuk kekal sebagai ahli parlimen Subang.
+[30:05] Haziq: Okey, baik. Kita ada lagi pempengaruh lain, YB. Tetapi menjadi tukang tilik isi hati orang. Dipersilakan tetamu kita, saudara Jason.
+
+[30:16] Rafizi: Jason Yu.
+
+[30:17] Haziq: Wong Chen tidak berani meletak jawatan, sebaliknya mahu dipecat parti untuk kekal sebagai ahli parlimen Subang.
 
 [30:23] Rafizi: Eh, Jason Yu ni content dia masih lagi viral macam dulu ke? Ke traction dah kurang dah? Nampak kalau kalau dekat X tu kurang lah. Kurang banyak lah kan?
 
 [30:34] Farhan (Pa'an): X kurang. Saya tengah check TikTok. Nanti I'll give back to you.
 
-[30:38] Rafizi: Tapi bukan dia selalu dikaitkan dengan YB ke dulu? Yalah, saya yang yang jemput dia untuk buat content. Okey. Kemudian ini sebelum masa saya mula-mula balik PRU dululah. 2022. Sebab masa tu saya sedar bahawa PKR ketinggalan zaman dan juga ketinggalan dalam TikTok ni. Dan saya pun lambat buka TikTok. Saya buka TikTok dah nak masuk PRU 2022 kan. Jadi ketinggalan dan by that time tu kita nampaklah bahawa TikTok ni ada traction. Jadi Jason ni ada sedikit, saya pun tak tahu dia buat apa. Dia ada sedikit kelebihan sebab dia edit dan dia, dia apa nama ni, upload cepat. Upload cepat. Jadi selepas saya menang jadi Timbalan Presiden. Jadi memanglah kita ada mengusahakan sesuatulah untuk menampung kan supaya dia boleh buat sepenuh masa. Menampung masa YB bayar dia? Ya.
+[30:38] Haziq: Tapi bukan dia selalu dikaitkan dengan YB ke dulu?
+
+[30:40] Rafizi: Yalah, saya yang yang jemput dia untuk buat content.
+
+[30:46] Haziq: Okey.
+
+[30:48] Rafizi: Kemudian ini sebelum masa saya mula-mula balik PRU dululah. 2022. Sebab masa tu saya sedar bahawa PKR ketinggalan zaman dan juga ketinggalan dalam TikTok ni. Dan saya pun lambat buka TikTok. Saya buka TikTok dah nak masuk PRU 2022 kan. Jadi ketinggalan dan by that time tu kita nampaklah bahawa TikTok ni ada traction. Jadi Jason ni ada sedikit, saya pun tak tahu dia buat apa. Dia ada sedikit kelebihan sebab dia edit dan dia, dia apa nama ni, upload cepat.
+
+[31:35] Haziq: Upload cepat.
+
+[31:36] Rafizi: Jadi selepas saya menang jadi Timbalan Presiden. Jadi memanglah kita ada mengusahakan sesuatulah untuk menampung kan supaya dia boleh buat sepenuh masa.
+
+[31:52] Haziq: Menampung masa YB bayar dia?
+
+[31:53] Rafizi: Ya.
 
 [31:53] Haziq: Oh. YB bayar dia?
 
-[31:55] Rafizi: Ya, ya, ya. Cuma aku- Bulan-bulan? Ya. Cuma aku rasa lepas itu bila orang tengok traction dia tinggi semua kan, aku rasa semua orang lain pun pergi approach dia dan ya lah. Selesalah kan. Tak terlalu tinggi, tapi volume is his game. Tak, tak, tapi berbanding dengan 1 2 tahun lepas. Dulu tinggi lah kan volume. Maksudnya if you look at the graph over 2 3 years, memang ada a drop lah kot tak? Ada. That's the impression that I get lah kan. Jadi dia kembali kepada soal J-KOM tadi. Ah, ya, J-KOM. Is actually it has, it must begin with the sub- substance of the content. Dia bukannya 100% pasal editing ke apa. Kalau tambah content politik. Kalau content politik itu tidak popular, buat macam mana pun dia tak popular lah. Tapi yang ini tukang tilik isi hati orang. So ini Jason yang letaklah Wong Chen tidak berani meletak jawatan. Tidak berani meletak jawatan. Kalau letak jawatan dia kata pengkhianat. Saya kecewa lah sebab Jason ni saya ingat dia budak yang, yang berjenis lah. Ha kan. Tapi itu masalahnya bila... yalah bila terikat dengan parti. Ya. Sebab saya ingat sekarang dia terikat dengan PKR kan. Jadi kalau dia tak hentam macam ini, saya pun tak tahu sama ada ada orang bagi arahan kepada dia untuk buat content content macam ini kan. Sebab kalau tengok content dia yang dulu-dulu, dia tak macam ni. Iya, iya. Content dia yang dulu-dulu, dia tidak pernah melambangkan pandangan peribadi dia. And itu pun seben- ha, is macam news. Itu pun sebenarnya masa awal-awal dulu our understanding. Sebab kita tak nak aa dia jadi pempengaruh yang kemudian boleh dilobi atau dibeli aa di dalam kalangan ahli politik ni who pays more than bila dia dah sampai certain traction, then orang itu dia jadi mouthpiece kepada orang itu kan. Jason Yu ni sepatutnya masa awal-awal dulu ialah dia just jadi berita. So dia cut and push, cut and push kan. Tapi sekarang kalau macam contoh ni, nampak macam gayanya ada arahan lah untuk dia menyerang dan mulalah jadi macam ini. Mula membaca isi hati orang. Okey. Okey, baik YB.
+[31:55] Rafizi: Ya, ya, ya. Cuma aku- Bulan-bulan? Ya. Cuma aku rasa lepas itu bila orang tengok traction dia tinggi semua kan, aku rasa semua orang lain pun pergi approach dia dan ya lah. Selesalah kan.
 
-[34:31] Haziq: So kesianlah kat dia.
+[32:10] Farhan (Pa'an): Tak terlalu tinggi, tapi volume is his game.
 
-[34:33] Rafizi: Okey. Tak apalah, I mean itu pilihan dia. Baik.
+[32:14] Rafizi: Tak, tak, tapi berbanding dengan 1 2 tahun lepas. Dulu tinggi lah kan volume. Maksudnya if you look at the graph over 2 3 years, memang ada a drop lah kot tak? Ada. That's the impression that I get lah kan. Jadi dia kembali kepada soal J-KOM tadi.
 
-[34:39] Haziq: Kita, ah itu Jason. Sekarang kita kena tengok pula AMK buat hal apa minggu ini. Kita ada Ketua AMK Selangor. Baju koyak serlah sifat kesederhanaan Anwar biarpun bergelar PM. Yang ini nak kena komen ke? Saya rasa bukan isu koyak ke tak apalah kan. Tapi dalam banyak-banyak kenyataan mungkin AMK boleh highlight dasar ke, benda lain ke. Tapi yalah budaya mengetengahkan isu-isu yang picisan.
+[32:32] Haziq: Ah, ya, J-KOM.
 
-[35:20] Rafizi: Ya, sebab itulah orang macam kau keluar AMK dan keluar PKR. Jadi tak tahulah. Isan. Memanglah orang akan tengok, ya Allahu Akbar. Tu kena ratio tu. Ha kan. Tapi kalau kita nak komen lebih pun, kita pula yang jadi beria. Sebab AMK memang macam ini. Dah macam, macam itulah. Dah memang macam ini. Jadi kalau kita nak komen pun, inilah AMK yang ada sekarang. Jadi kalau macam saya pun malas dah nak campur ataupun nak komen cerita AMK, cerita PKR semua ni. Yang penting ialah kita kena pastikan yang muda-muda dalam bersama Tak jadi macam ni lah. Jadi sebab itu memilih, melatih, kemudian budaya, jangan bagi ruang yang ada gaya-gaya macam ini. Saya rasa yang itu lebih penting untuk saya daripada nak komen. Haa, nanti aku yang dapat jadi pemenang beria. Pemenang beria.
+[32:33] Rafizi: Is actually it has, it must begin with the sub- substance of the content. Dia bukannya 100% pasal editing ke apa. Kalau tambah content politik. Kalau content politik itu tidak popular, buat macam mana pun dia tak popular lah. Tapi yang ini tukang tilik isi hati orang. So ini Jason yang letaklah Wong Chen tidak berani meletak jawatan. Tidak berani meletak jawatan.
 
-[36:23] Haziq: Haa, okey. Baik, YB.
+[32:58] Haziq: Kalau letak jawatan dia kata pengkhianat.
 
-[36:25] Rafizi: Ambil pengajaran, okey.
+[33:01] Rafizi: Saya kecewa lah sebab Jason ni saya ingat dia budak yang, yang berjenis lah. Ha kan. Tapi itu masalahnya bila... yalah bila terikat dengan parti. Ya. Sebab saya ingat sekarang dia terikat dengan PKR kan. Jadi kalau dia tak hentam macam ini, saya pun tak tahu sama ada ada orang bagi arahan kepada dia untuk buat content content macam ini kan. Sebab kalau tengok content dia yang dulu-dulu, dia tak macam ni. Iya, iya. Content dia yang dulu-dulu, dia tidak pernah melambangkan pandangan peribadi dia. And itu pun seben- ha, is macam news. Itu pun sebenarnya masa awal-awal dulu our understanding. Sebab kita tak nak aa dia jadi pempengaruh yang kemudian boleh dilobi atau dibeli aa di dalam kalangan ahli politik ni who pays more than bila dia dah sampai certain traction, then orang itu dia jadi mouthpiece kepada orang itu kan. Jason Yu ni sepatutnya masa awal-awal dulu ialah dia just jadi berita. So dia cut and push, cut and push kan. Tapi sekarang kalau macam contoh ni, nampak macam gayanya ada arahan lah untuk dia menyerang dan mulalah jadi macam ini. Mula membaca isi hati orang.
 
-[36:26] Haziq: Ambil pengajaran.
+[34:29] Haziq: Okey. Okey, baik YB.
 
-[36:27] Rafizi: Hint, hint.
+[34:31] Rafizi: So kesianlah kat dia. Okey. Tak apalah, I mean itu pilihan dia.
 
-[36:28] Haziq: Hint. Okey, kita ada lagi, YB. Haa, jadi kita tengoklah yang lain. Hati-hati yang bernama Tilaga. Haa, ni apa cerita? Namanya. Siapa Tilaga ni? Nama Tilaga, Tilaga Gunaratnam. Oh, Tilaga Pijak dia cantik.
+[34:37] Haziq: Baik. Kita, ah itu Jason. Sekarang kita kena tengok pula AMK buat hal apa minggu ini. Kita ada Ketua AMK Selangor. Baju koyak serlah sifat kesederhanaan Anwar biarpun bergelar PM. Yang ini nak kena komen ke? Saya rasa bukan isu koyak ke tak apalah kan. Tapi dalam banyak-banyak kenyataan mungkin AMK boleh highlight dasar ke, benda lain ke. Tapi yalah budaya mengetengahkan isu-isu yang picisan.
 
-[36:46] Rafizi: Gunaratnam. Zero post, zero followers, seven following. Komen-komen dia ialah hentam content a- Bersama. Pasal Bersama di Bersama punya akaun dan juga akaun akulah. Yes. Dan banyak lagilah komen-komen lain pun. Komen-komen lain lah.
+[35:20] Rafizi: Ya, sebab itulah orang macam kau keluar AMK dan keluar PKR. Jadi tak tahulah. Isan. Memanglah orang akan tengok, ya Allahu Akbar. Tu kena ratio tu. Ha kan. Tapi kalau kita nak komen lebih pun, kita pula yang jadi beria. Sebab AMK memang macam ini.
 
-[37:05] Farhan (Pa'an): Tiba-tiba ada search a bot punya comments lah dekat akaun Bersama dengan your account. So kami rasa ada macam- Yang ni Instagram kan? Ha, ni Instagram. So rasa macam ada coordinated a attack.
+[35:40] Haziq: Dah macam, macam itulah.
 
-[37:17] Rafizi: A itulah a kita kenal pastilah ni dalam 2 3 hari kebelakangan inilah kan. Tiba-tiba ada orang dapat kontrak baru kot. Ha, kontrak mengendalikan bot. A jadi a padahal content yang ada dekat Instagram aku atau bersama tu pun bukanlah viral ke apa, content biasa. Beberapa kerat je pun orang tengok. Tapi bersungguh-sungguh menghantar tentera bots. Yang lawaknya bila diorang tanya, bila diorang share aku tengok, memang lawaklah. Ini agaknya dia dapat kontrak last minute. Kontrak cyber trooper last minute ni. Jadi mungkin aa apa nama ni, dia dapat confirmation pun pukul 2 pagi. Dan dan dan nak suruh post masa tu. Jadi aa dia tertukar gambar. Dia buat akaun Tilaga Guna Ratnam. Post kosong, follower kosong. Lepas tu dia follow sesama sendirilah. Tapi dia tertukar gambar. Ini kakak mana jadi Tilaga Gunaratnam ni? Dan nama Tilaga Gunaratna- Gunaratnam ni kan. Jadi kepada sesiapa yang bernama Tilaga, berhati-hati eh. Nanti tiba-tiba ka- ada ada kalau gambar kakak ni tak apa lagi. Aku takut nama Tilaga Gunaratnam, gambar lelaki. But ni memang beria bos ni. Ya, beria, beria. Sesiapa yang mengendalikan Cyber Trooper dan bots PKR, tak payahlah kacau bersama ni kan. Lagipun ka- parti kecil je. Lebih baik gunakan tilaga, tilagagun. Tilagagun ni, pi lah gunakan kepada UMNO ke, PAS ke, Bersatu kan. Beria eh YB.
+[35:42] Rafizi: Dah memang macam ini. Jadi kalau kita nak komen pun, inilah AMK yang ada sekarang. Jadi kalau macam saya pun malas dah nak campur ataupun nak komen cerita AMK, cerita PKR semua ni. Yang penting ialah kita kena pastikan yang muda-muda dalam bersama Tak jadi macam ni lah. Jadi sebab itu memilih, melatih, kemudian budaya, jangan bagi ruang yang ada gaya-gaya macam ini. Saya rasa yang itu lebih penting untuk saya daripada nak komen. Haa, nanti aku yang dapat jadi pemenang beria.
 
-[39:13] Haziq: Tak ada apa pun, tapi parti kecil je tapi dia serang tau.
+[36:22] Haziq: Pemenang beria. Haa, okey. Baik, YB. Ambil pengajaran, okey.
 
-[39:16] Rafizi: Aku pun tak tahu ni banyak beria dia. Satu beria yang aa bayar bots ni. Kedua beria Mamat Minah yang buat bots pukul 2 pagi tersalah ambil gambar. Gambar selfie. So yang ini namanya double beria.
+[36:26] Rafizi: Ambil pengajaran. Hint, hint.
 
-[39:34] Haziq: Okey, baik-baik. Kita ada double beria, YB. Tapi beria yang terakhir ni kita ada teka-teki sikit. Bukan saja untuk YB, bukan saja untuk Farhan, tapi untuk- Nanti jap, tapi nama-nama tu, ya Allah. Lain kali suruhlah AI come out with nama.
+[36:28] Haziq: Hint. Okey, kita ada lagi, YB. Haa, jadi kita tengoklah yang lain. Hati-hati yang bernama Tilaga.
 
-[39:51] Rafizi: Tengok tu. Dora- Dorothy Yanti. Dorothy Yanti. Let you me go. Kenapa semua ambil nama bukan Melayu ni? Quit Patrick. Adalah Irfan Rushdi. Ada seorang je Irfan Rushdi. You see, psychologically, ah, kalau sesuatu yang tipu itu dan dia cuba ah bersungguh-sungguh ah untuk bagi identity yang lain, you can tell straight away ini sebenarnya Melayu. Ah, bots yang ni semua Melayu. Bots Melayu. Sebab dia pergi suka sangat nama Taru Maharaja lah, Divya Spile lah, semua kan. Nam- Dora TNT ha. Nampak sangat sebenarnya yang mengendalikan box ni Melayu. Itu yang dia beria pergi create profile bukan Melayu. Maksudnya dia takut bukan Melayu aa menyokong bersama lah kot sekarang. Ada requirement kot.
+[36:38] Rafizi: Haa, ni apa cerita?
 
-[40:50] Haziq: Ada requirement. Kena ada majoriti nak Malay. Lepas tu alamak aku ada akaun Melayu. Sukar nama je. Ha, tilagagun terus. Okey. Baik, tahniah double beria. Double beria. Okey, yang terakhir YB, ada teka-teki. Sebab beria tapi tak tahulah beria dia beria apa. Bismillah. Beria apa agaknya ni?
+[36:39] Haziq: Namanya.
+
+[36:39] Rafizi: Siapa Tilaga ni?
+
+[36:41] Haziq: Nama Tilaga, Tilaga Gunaratnam. Oh, Tilaga Pijak dia cantik.
+
+[36:46] Rafizi: Gunaratnam. Zero post, zero followers, seven following. Komen-komen dia ialah hentam content a- Bersama. Pasal Bersama di Bersama punya akaun dan juga akaun akulah.
+
+[36:59] Haziq: Yes. Dan banyak lagilah komen-komen lain pun.
+
+[37:01] Rafizi: Komen-komen lain lah.
+
+[37:02] Farhan (Pa'an): Tiba-tiba ada search a bot punya comments lah dekat akaun Bersama dengan your account. So kami rasa ada macam- Yang
+
+[37:10] Rafizi: ni Instagram kan?
+
+[37:11] Farhan (Pa'an): Ha, ni Instagram. So rasa macam ada coordinated a attack.
+
+[37:17] Rafizi: A itulah a kita kenal pastilah ni dalam 2 3 hari kebelakangan inilah kan. Tiba-tiba ada orang dapat kontrak baru kot. Ha, kontrak mengendalikan bot. A jadi a padahal content yang ada dekat Instagram aku atau bersama tu pun bukanlah viral ke apa, content biasa. Beberapa kerat je pun orang tengok. Tapi bersungguh-sungguh menghantar tentera bots. Yang lawaknya bila diorang tanya, bila diorang share aku tengok, memang lawaklah. Ini agaknya dia dapat kontrak last minute. Kontrak cyber trooper last minute ni. Jadi mungkin aa apa nama ni, dia dapat confirmation pun pukul 2 pagi. Dan dan dan nak suruh post masa tu. Jadi aa dia tertukar gambar. Dia buat akaun Tilaga Guna Ratnam. Post kosong, follower kosong. Lepas tu dia follow sesama sendirilah. Tapi dia tertukar gambar. Ini kakak mana jadi Tilaga Gunaratnam ni? Dan nama Tilaga Gunaratna- Gunaratnam ni kan. Jadi kepada sesiapa yang bernama Tilaga, berhati-hati eh. Nanti tiba-tiba ka- ada ada kalau gambar kakak ni tak apa lagi. Aku takut nama Tilaga Gunaratnam, gambar lelaki. But ni memang beria bos ni. Ya, beria, beria. Sesiapa yang mengendalikan Cyber Trooper dan bots PKR, tak payahlah kacau bersama ni kan. Lagipun ka- parti kecil je. Lebih baik gunakan tilaga, tilagagun. Tilagagun ni, pi lah gunakan kepada UMNO ke, PAS ke, Bersatu kan.
+
+[39:12] Haziq: Beria eh YB. Tak ada apa pun, tapi parti kecil je tapi dia serang tau.
+
+[39:16] Rafizi: Aku pun tak tahu ni banyak beria dia. Satu beria yang aa bayar bots ni. Kedua beria Mamat Minah yang buat bots pukul 2 pagi tersalah ambil gambar.
+
+[39:30] Haziq: Gambar selfie.
+
+[39:31] Rafizi: So yang ini namanya double beria.
+
+[39:34] Haziq: Okey, baik-baik. Kita ada double beria, YB. Tapi beria yang terakhir ni kita ada teka-teki sikit. Bukan saja untuk YB, bukan saja untuk Farhan, tapi untuk- Nanti
+
+[39:44] Rafizi: jap, tapi nama-nama tu, ya Allah. Lain kali suruhlah AI come out with nama. Tengok tu. Dora- Dorothy Yanti.
+
+[39:56] Haziq: Dorothy Yanti.
+
+[39:57] Rafizi: Let you me go. Kenapa semua ambil nama bukan Melayu ni? Quit Patrick.
+
+[40:03] Haziq: Adalah Irfan Rushdi.
+
+[40:04] Rafizi: Ada seorang je Irfan Rushdi. You see, psychologically, ah, kalau sesuatu yang tipu itu dan dia cuba ah bersungguh-sungguh ah untuk bagi identity yang lain, you can tell straight away ini sebenarnya Melayu. Ah, bots yang ni semua Melayu.
+
+[40:25] Haziq: Bots Melayu.
+
+[40:25] Rafizi: Sebab dia pergi suka sangat nama Taru Maharaja lah, Divya Spile lah, semua kan. Nam- Dora TNT ha. Nampak sangat sebenarnya yang mengendalikan box ni Melayu. Itu yang dia beria pergi create profile bukan Melayu. Maksudnya dia takut bukan Melayu aa menyokong bersama lah kot sekarang.
+
+[40:49] Haziq: Ada requirement kot.
+
+[40:50] Rafizi: Ada requirement.
+
+[40:51] Haziq: Kena ada majoriti nak Malay. Lepas tu alamak aku ada akaun Melayu. Sukar nama je.
+
+[40:55] Rafizi: Ha, tilagagun terus. Okey.
+
+[40:59] Haziq: Baik, tahniah double beria.
+
+[41:01] Rafizi: Double beria.
+
+[41:01] Haziq: Okey, yang terakhir YB, ada teka-teki. Sebab beria tapi tak tahulah beria dia beria apa. Bismillah. Beria apa agaknya ni?
 
 [41:14] Rafizi: Wah, lama tak nampak. So aku faham lah.
 
-[41:20] Haziq: Buat siapa yang di Spotify, kita ada gambar. Kita ada gambar radar.
+[41:20] Haziq: Buat siapa yang di Spotify, kita ada gambar.
 
-[41:26] Rafizi: Kemudian ada gambar, ini gambar AI Ramanan ni. Kau orang pakai sebab dia ada rambut. Dia mana ada rambut kan? Dia tak ada rambut. Kemudian Ramanan missing from radar.
+[41:22] Rafizi: Kita ada gambar radar. Kemudian ada gambar, ini gambar AI Ramanan ni. Kau orang pakai sebab dia ada rambut. Dia mana ada rambut kan? Dia tak ada rambut. Kemudian Ramanan missing from radar. Target not found. Status. Gambar lama. Oh, gambar lama.
 
-[41:39] Haziq: Target not found. Status. Gambar lama. Oh, gambar lama. Gambar lama.
+[41:42] Haziq: Gambar lama.
 
 [41:44] Rafizi: Status missing, lasin unknown, location not detected. Ramanan cannot be located. Please try again. System message, search unsuccessful.
 
-[41:55] Haziq: Memang lama tak dengar, YB. Ya. Tiba-tiba, YB.
+[41:55] Haziq: Memang lama tak dengar, YB. Ya. Tiba-tiba, YB. Dulu apa dia tak cakap?
 
-[41:58] Rafizi: Dulu apa dia tak cakap? So maksudnya, aku fahamlah kau orang nak suruh aku komen. Beria Ramanan ni hilang dari radar. Beria hilang. Beria hilang. Beria hilang. Sebab daripada karakter Ramanan yang kita sedia tahu, dia ni bukan jenis orang yang boleh tutup mulut lah. Dia boleh kata he wears his emotion on his sleeve kan. Gambar dia dengan Anwar pun dia pakai kat dada dia kan. Jadi it is so out of character that dia he's out of the news and apa-apa senyap je sekarang kan. Jadi besar kemungkinanlah, maksudnya ada jugalah sumbangan podcast kita ni. Kerana selepas berminggu-minggu kita duk fokus kepada Ramanan, Ramanan terus hilang dari radar. Jadi macam mana kita nak kembalikan dia?
+[41:59] Rafizi: So maksudnya, aku fahamlah kau orang nak suruh aku komen. Beria Ramanan ni hilang dari radar.
+
+[42:06] Haziq: Beria hilang.
+
+[42:07] Rafizi: Beria hilang. Beria hilang. Sebab daripada karakter Ramanan yang kita sedia tahu, dia ni bukan jenis orang yang boleh tutup mulut lah. Dia boleh kata he wears his emotion on his sleeve kan. Gambar dia dengan Anwar pun dia pakai kat dada dia kan. Jadi it is so out of character that dia he's out of the news and apa-apa senyap je sekarang kan. Jadi besar kemungkinanlah, maksudnya ada jugalah sumbangan podcast kita ni. Kerana selepas berminggu-minggu kita duk fokus kepada Ramanan, Ramanan terus hilang dari radar. Jadi macam mana kita nak kembalikan dia?
 
 [42:51] Haziq: Alamak, macam mana eh, Pa'an?
 
 [42:54] Farhan (Pa'an): Poke the tabuan'sness.
 
-[42:55] Rafizi: Oh, maksudnya kita nak kena kembali kepada isu 9.5 juta?
+[42:55] Rafizi: Oh, maksudnya kita nak kena kembali kepada isu 9.5 juta? Ya.
 
-[42:59] Farhan (Pa'an): Ya. Lama kita ulas benda tu.
+[42:59] Farhan (Pa'an): Lama kita ulas benda tu.
 
 [43:01] Haziq: Ha, dengan benda-benda tu sekali di Asbaki, ASEAN.
 
-[43:06] Rafizi: Ya, lepas ki- lepas dia buat bising-bising pasal nak saman aku pasal 9.5 juta tu, aku rasa ada orang bagi, bagi warning kat dialah. Selalunya kalau Rafizi, kalau dia ulang berkali-kali, dia ada bukti. Kau janganlah. Baik kau duk diam-diam kan. Jadi lepas ni kita akan cuba cari jalan ah untuk kita apa ni reverse beria dia hilang ni supaya dia muncul balik. Dia muncul balik dan menjadi tetamu kita. Dia kan menteri. Menteri pula Menteri Sumber Manusia yang penting. Mana boleh Menteri Sumber Manusia diam je kan, senyap bilang. Kesian budak-budak yang kat Infineon beratur panjang-panjang tadi tu kan. Sepatutnya adalah komen daripada menteri ke. Kita nak dengarlah menteri buat apa kan? Okey, nanti kita, cuma kita sibuk dengan pilihan raya lah. Ha, nanti kita fikir balik macam mana untuk kita timbulkan balik Ramanan ke radar.
+[43:06] Rafizi: Ya, lepas ki- lepas dia buat bising-bising pasal nak saman aku pasal 9.5 juta tu, aku rasa ada orang bagi, bagi warning kat dialah. Selalunya kalau Rafizi, kalau dia ulang berkali-kali, dia ada bukti. Kau janganlah. Baik kau duk diam-diam kan. Jadi lepas ni kita akan cuba cari jalan ah untuk kita apa ni reverse beria dia hilang ni supaya dia muncul balik.
 
-[44:04] Haziq: Okey, baik YB, itu saja. Kita kena pilih satu lah, YB. Ada enam. Bagi Pa'an pilih lah.
+[43:31] Haziq: Dia muncul balik dan menjadi tetamu kita.
 
-[44:10] Rafizi: Ha, bagi Pa'an. Aku bab-bab pilih ni tak reti lah. Iya.
+[43:33] Rafizi: Dia kan menteri. Menteri pula Menteri Sumber Manusia yang penting. Mana boleh Menteri Sumber Manusia diam je kan, senyap bilang. Kesian budak-budak yang kat Infineon beratur panjang-panjang tadi tu kan. Sepatutnya adalah komen daripada menteri ke. Kita nak dengarlah menteri buat apa kan? Okey, nanti kita, cuma kita sibuk dengan pilihan raya lah. Ha, nanti kita fikir balik macam mana untuk kita timbulkan balik Ramanan ke radar.
+
+[44:04] Haziq: Okey, baik YB, itu saja. Kita kena pilih satu lah, YB. Ada enam.
+
+[44:09] Rafizi: Bagi Pa'an pilih lah.
+
+[44:10] Haziq: Ha, bagi Pa'an.
+
+[44:11] Rafizi: Aku bab-bab pilih ni tak reti lah.
+
+[44:13] Haziq: Iya.
 
 [44:13] Farhan (Pa'an): Saya bahaya sikit sebab saya memang nak pilih J-KOM.
 
-[44:17] Rafizi: Ha, then okeylah. Okeylah. Walaupun kita sebenarnya nampak macam Ramanan tu comel sangat, tapi tak apalah. Sebab kita dah bagi kuasa itu kepada Pa'an. Maka pemenang minggu ini adalah J-KOM. J-KOM. Tahniah. Beria, beria. Tapi bahaya tu. Kita bagi dia anugerah beria. Lepas ni dia minggu depan dia ada kat sini. Dia nak masuk podcast ni, nak masuk podcast ni. Let me in, let me in. Lepas tu dia panggil kita belaci. Saya, saya nak berpodcast dengan belaci-belaci ni. Ha kan. Okey. Itu nama dia unintended consequences tau.
+[44:17] Rafizi: Ha, then okeylah. Okeylah. Walaupun kita sebenarnya nampak macam Ramanan tu comel sangat, tapi tak apalah. Sebab kita dah bagi kuasa itu kepada Pa'an. Maka pemenang minggu ini adalah J-KOM.
 
-[45:00] Haziq: Okey. Okey, YB. 44 minit. Kita terus ke Hidup Keras. Ha, kepada saudara-saudari yang menunggu lama. Kita akhirnya akan- Ini isu panas, isu panas. Mengulas tentang isu Rohingya. Dan mungkin isu ini kita akan pergi beberapa stage lah, YB, untuk memahamkan orang juga. Kita akan sentuh tentang asal usul dahulu. Kemudian sehingga kepada permasalahan hari ini dan mungkin kita akan tengok apakah the way forward yang boleh di pertimbangkan. Dan kalau yalah saya boleh go through sekali lalulah sekarang ini ada 128,000 apa ni komuniti Rohingya yang berdaftar dengan UNHCR, dan dianggarkan seramai 200,000 lah yang secara keseluruhannya. Nanti jap boleh boleh aa ada permintaan dah.
+[44:31] Haziq: J-KOM. Tahniah.
 
-[45:57] Rafizi: Gila sejuk.
+[44:34] Rafizi: Beria, beria. Tapi bahaya tu. Kita bagi dia anugerah beria. Lepas ni dia minggu depan dia ada kat sini. Dia nak masuk podcast ni, nak masuk podcast ni.
+
+[44:45] Haziq: Let me in, let me in.
+
+[44:46] Rafizi: Lepas tu dia panggil kita belaci. Saya, saya nak berpodcast dengan belaci-belaci ni. Ha kan. Okey. Itu nama dia unintended consequences tau. Okey.
+
+[45:02] Haziq: Okey, YB. 44 minit. Kita terus ke Hidup Keras. Ha, kepada saudara-saudari yang menunggu lama. Kita akhirnya akan-
+
+[45:13] Rafizi: Ini isu panas, isu panas.
+
+[45:14] Haziq: Mengulas tentang isu Rohingya. Dan mungkin isu ini kita akan pergi beberapa stage lah, YB, untuk memahamkan orang juga. Kita akan sentuh tentang asal usul dahulu. Kemudian sehingga kepada permasalahan hari ini dan mungkin kita akan tengok apakah the way forward yang boleh di pertimbangkan. Dan kalau yalah saya boleh go through sekali lalulah sekarang ini ada 128,000 apa ni komuniti Rohingya yang berdaftar dengan UNHCR, dan dianggarkan seramai 200,000 lah yang secara keseluruhannya.
+
+[45:52] Rafizi: Nanti jap boleh boleh aa ada permintaan dah. Gila sejuk.
 
 [45:59] Farhan (Pa'an): Salah Aiman.
 
@@ -197,29 +427,75 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [46:05] Rafizi: Ha, tu lah sebab apa ni, Ramanan menghilang tu sejuk. Kalau dia, kalau dia ada panas. Panas. Okey. So you were saying.
 
-[46:14] Haziq: Okey, dan untuk mengeruhkan keadaan, mereka ada 200,000. Kalau compare dengan populasi negeri Perlis, negeri Perlis. 200,000? Se- se- secara anggaran.
+[46:14] Haziq: Okey, dan untuk mengeruhkan keadaan, mereka ada 200,000. Kalau compare dengan populasi negeri Perlis, negeri Perlis.
 
-[46:24] Rafizi: Tak betul kan? Ha, you see. Tak betul. Pelarian Myanmar. Oh, pelarian Myanmar, maaf. Lebih kurang 212,000. Salah terminologi. Tapi Rohingya, sebab pelarian Myanmar tu bukan semuanya Rohingya. Rohingya. Ada yang memang etnik Myanmar, ada etnik Chin. Pelarian Rohingya ada sekitar 130,000, ya tak? 120,000 lebihlah. 130,000. 130,000.
+[46:20] Rafizi: 200,000?
 
-[46:57] Haziq: Okey, dan yalah kalau kita tengok asal usul YB, kita nak tahu mungkin sebab apa mereka ni datang ke sini. Of course lah for a better living. Tapi saya rasa orang tertanya-tanya kenapa meriah dekat Malaysia tapi tak meriah dekat tempat lain. Mungkin ada banyak sebablah. Orang dah pernah sentuh. Antaranya sebab pembedangan manusia atau tapi ada juga yang memang ada sindikat yang bawa mereka ke sini ataupun mereka memang boleh masuk ke sini. Dan saya rasa 10 tahun lepas ada orang jadikan ini isu politiklah untuk menyokong semua. Dan sekarang ini kesan itu dah nampak. Jadi dia agak susah juga YB sebab dia ada banyak unintended consequences.
+[46:22] Haziq: Se- se- secara anggaran.
+
+[46:24] Rafizi: Tak betul kan? Ha, you see. Tak betul. Pelarian Myanmar.
+
+[46:33] Haziq: Oh, pelarian Myanmar, maaf.
+
+[46:34] Rafizi: Lebih kurang 212,000. Salah terminologi. Tapi Rohingya, sebab pelarian Myanmar tu bukan semuanya Rohingya. Rohingya. Ada yang memang etnik Myanmar, ada etnik Chin. Pelarian Rohingya ada sekitar 130,000, ya tak? 120,000 lebihlah. 130,000.
+
+[46:54] Haziq: 130,000. Okey, dan yalah kalau kita tengok asal usul YB, kita nak tahu mungkin sebab apa mereka ni datang ke sini. Of course lah for a better living. Tapi saya rasa orang tertanya-tanya kenapa meriah dekat Malaysia tapi tak meriah dekat tempat lain. Mungkin ada banyak sebablah. Orang dah pernah sentuh. Antaranya sebab pembedangan manusia atau tapi ada juga yang memang ada sindikat yang bawa mereka ke sini ataupun mereka memang boleh masuk ke sini. Dan saya rasa 10 tahun lepas ada orang jadikan ini isu politiklah untuk menyokong semua. Dan sekarang ini kesan itu dah nampak. Jadi dia agak susah juga YB sebab dia ada banyak unintended consequences.
 
 [47:47] Rafizi: Ha, kau pun maksud unintended consequences lah.
 
 [47:50] Haziq: Kalau buat ini dia akan jadi macam ini. Bagi kerja, nanti duduk lama orang tak suka. Tapi kalau tak bagi kerja, orang tu kan manusia kan dia. Jadi dia dia akan buat kacau sebagainya. Jadi buat apa pun susah. Jadi macam mana YB ambil angle?
 
-[48:06] Rafizi: Cerita ni panjanglah. Panjanglah. Nak ambil angle terus pun payah lah kan. Jadi saya cakap awal-awal lah. Saya rasa aa yalah pandangan dan juga apa yang saya akan berkongsi lah pandangan saya ni, besar kemungkinan tidak popular dengan semualah. Ini masalah bila sesuatu itu perkara yang rumit, dia tidak ada, dia tak digital tau. Dia analog. Analog. Dia tak, dia tak ada zeros and ones. Maksudnya, kalau buat yang ini satu kumpulan semua suka. Kalau buat yang ini satu kumpulan semua tak suka kan. Kalau digital zero and one saya senang. Dia analog kan. Setiap satu perkara itu, hatta bila kita kupas latar belakang, pun besar kemungkinan ada orang tak nak dengar, ada orang tak nak ambil tahu. Dia nak perkara itu seperti yang difikirkan kan. Tapi nak tak naklah. Kita nak kena bermula dengan memahami, pertamanya latar belakanglah. Keduanya ialah kenapa dia sampai ke peringkat ini? Sebenarnya apa kesukaran ataupun kenapa kerajaan tak buat apa-apa? Jadi kita kena faham aa semua faktor-faktor yang berkait ini. Aa dan saya rasalah di akhirnya orang ramai akan kata tak guna punya Rafizi, dia sembang je. Apa pun tak boleh kan. Okey. Ataupun bila saya sebut pandangan saya way forward, dia orang kata, oh tak guna dia ni. Apa-apa pun kena maki lah kan. Dan itu sebabnya kenapa tidak ada ahli politik yang menyentuh soal Rohingya. Kan baik. So latar belakang dia macam mana? Selalunyalah yang the simplistic argument dekat socials tu ialah hantar mereka balik. Actually boleh hantar ke tidak dia orang ni? Dia orang ada negara asal ke? Well, orang kata dia orang Myanmar lah. Dah dia orang Myanmar, hantarlah balik Myanmar.
+[48:08] Rafizi: Cerita ni panjanglah. Panjanglah. Nak ambil angle terus pun payah lah kan. Jadi saya cakap awal-awal lah. Saya rasa aa yalah pandangan dan juga apa yang saya akan berkongsi lah pandangan saya ni, besar kemungkinan tidak popular dengan semualah. Ini masalah bila sesuatu itu perkara yang rumit, dia tidak ada, dia tak digital tau. Dia analog. Analog. Dia tak, dia tak ada zeros and ones. Maksudnya, kalau buat yang ini satu kumpulan semua suka. Kalau buat yang ini satu kumpulan semua tak suka kan. Kalau digital zero and one saya senang. Dia analog kan. Setiap satu perkara itu, hatta bila kita kupas latar belakang, pun besar kemungkinan ada orang tak nak dengar, ada orang tak nak ambil tahu. Dia nak perkara itu seperti yang difikirkan kan. Tapi nak tak naklah. Kita nak kena bermula dengan memahami, pertamanya latar belakanglah. Keduanya ialah kenapa dia sampai ke peringkat ini? Sebenarnya apa kesukaran ataupun kenapa kerajaan tak buat apa-apa? Jadi kita kena faham aa semua faktor-faktor yang berkait ini. Aa dan saya rasalah di akhirnya orang ramai akan kata tak guna punya Rafizi, dia sembang je. Apa pun tak boleh kan. Okey. Ataupun bila saya sebut pandangan saya way forward, dia orang kata, oh tak guna dia ni. Apa-apa pun kena maki lah kan. Dan itu sebabnya kenapa tidak ada ahli politik yang menyentuh soal Rohingya. Kan baik. So latar belakang dia macam mana? Selalunyalah yang the simplistic argument dekat socials tu ialah hantar mereka balik. Actually boleh hantar ke tidak dia orang ni?
+
+[50:21] Haziq: Dia orang ada negara asal ke?
+
+[50:23] Rafizi: Well, orang kata dia orang Myanmar lah. Dah dia orang Myanmar, hantarlah balik Myanmar.
 
 [50:28] Haziq: Hantar balik Myanmar.
 
-[50:29] Rafizi: Boleh ke nak hantar balik Myanmar?
+[50:29] Rafizi: Boleh ke nak hantar balik Myanmar? Kenapa?
 
-[50:31] Haziq: Kenapa? Myanmar. Myanmar orang tak recognize dia orang.
+[50:32] Haziq: Myanmar.
 
-[50:34] Rafizi: Anggap dia orang. Well, dia ada, dia ada 2 le- level lah kan. Contohnya lah, 1 ialah kalaupun dia ada kerakyatan Myanmar. Tapi kalau menghantar mereka balik itu, dia mestilah negara itu nak terima dia. Dan bila dia kembali, maksudnya dia tidak ada risiko terhadap nyawa dan keselamatan mereka. That's simple rule, international rule lah. Jadi dalam kes ini, perkara itu sudah tentu belum boleh berlaku lah. Ya. Kerana masih lagi ada perang, masih lagi ada ethnic cleansing dekat Rakhin state yang, yang mana asal kebanyakan Myanmar ni kan. Kebanyakan Rohingya eh. Sebab dia Rohingya ada lebih kurang 130,000. Lebih kurang 80,000 itu ialah orang Myanmar yang a etnik yang lain. Kan. So ada banyak etnik dia kan. Yang etnik Myanmar pun ada, yang Chin pun ada, yang Shan pun ada, macam-macam adalah kan. Oh, saya pernah pergi Myanmar berkali-kali tau. Okey. Masa, masa saya, ah ni dia menyimpang sikit lah, tapi nak cerita sebab kebanyakan yang yang komen ni pun yalah besar kemungkinan tak pernah sampai ke Myanmar kan. Jadi aku mungkin berapa peratus rakyat Malaysia je yang pernah sampai ke Myanmar. Jadi well, it's not called Yangon now kan? Napito. Eh tak, betullah Yangon. Dulu dia panggil Myanmar capital tu dia panggil apa? Rangun. And now dia panggil Yangon kan. Napito tak pernah sampai. Sebab dulu saya portfol- menjaga portfolio kewangan untuk upstream aa investment bagi semua international ventures. Antara venture awal Petronas sebenarnya di luar negara adalah di Myanmar. Sebab Myanmar ada satu aa lapangan gas lah. And I think tak tahu masih ada lagi kat situ semua kan. So I have wonderful experience dengan aa yalah. Experience dengan yalah staf-staf saya yang yang yang Myanmar ni kan. Dan Petronas pun sebenarnya ada banyak juga yang yang mengambil Rohingya yang diberikan biasiswa di universiti macam UIA. Ha, tapi ini sebelum cerita pelarian semualah. So sebahagian saya ingat daripada CSR, Corporate Social Responsibility Petronas masa di Myanmar dulu. Yalah mengambil anak-anak Rohingya yang terpelajar yang bagus ni. Mereka mendapat pendidikan di UIA, kemudian bekerja Petronas lah. Saya ingat staf saya dulu ada se- dua orang. ACCA ada dua orang. Ha, ni kalau mereka menonton lah kan. Seorang nama Yahya, seorang nama Kassim. Ha kan. So anyhow, coming back to this. Coming back to this kan. So... dia isu dia ialah pertama yang kata kenapa tak hantar balik kan. Satu ialah kalaupun dia ada kerakyatan, kalau dia tidak diterima oleh negara asal dia dan memulangkan atau menghantar balik mereka secara paksa, itu melanggar peraturan antarabangsa. Okay, we we'll come back to that. Soal, you know, orang akan kata apa peduli ni pasal antarabangsa tak antarabangsa ni kan. Cuma yang pasal Rohingya ni, that's why the distinction between different ethnic groups tu penting. Kerana kalau etnik tu etnik Myanmar, dia ada kerakyatan. Tapi Rohingya tak ada kerakyatan. They are stateless. Kerana memang mereka tidak diiktiraf sebagai rakyat Myanmar. Mereka juga tidak diiktiraf sebagai rakyat Bangladesh. Jadi Rohingya is a stateless, people. So dia tak tak tak banyak beza dengan Palestin lah. Maksudnya dia tak ada state kan. Jadi di dia tak boleh pergi. Dia memang tak ada. Dia adalah homeland dia, which is Rakhin tu lah. Rakhin tu. Maksudnya di sempadan Bangladesh dengan Myanmar tu. Tapi over the years ni pun zaman British dululah. Bila dia lukis peta ke apa semua, dia bukan ambil kira pun semua ni. Etnik tak etnik semua kan. Itu yang ada Melayu di selatan Thai. Sekarang jadi sebahagian daripada Thai kan. So it's a product of history. Jadi kerajaan Myanmar memang daripada awal tidak menerima mereka sebagai rakyat. Kemudian saya ingat tahun 1982. Ada undang-undang kerakyatan yang baru di Burma. Dan secara undang-undang dan secara rasmi, kerakyatan tidak diberikan kepada Rohingya. So they are stateless kan. So that itu origin tu kena faham daripada tahun 100 tahun yang lepas, mereka tidak ada kerakyatan. Then you ask the question lah. Apa sebenarnya yang berlaku nak menjawab yang Haziq tanya tadi, apa yang berlaku? Kenapa di Asia Tenggara ini, Rohingya paling ramai di Malaysia. So yang ini juga yang yang sebahagiannya adalah historical product. Sebahagiannya adalah kerana kelemahan kita sekaranglah, kelemahan negara kan. Seingat sayalah kan, I grew up di Kemaman tahun 80-an. Memang dah ada pelarian Rohingya. Ada seorang tu saya ingat, ha yalah dia pernah kerja dengan ayah saya sekejaplah, kalau tak pun sekejaplah. Nama Maaruf ke apa nama? Ha kan. So, kemudian dalam tahun 90-an tu, oleh kerana kekacauan dan juga kezaliman kepada orang Rohingya ni memang berlaku sepanjang masa. Cuma dia ada spike dia. Every now and then, every decades ada je spike, spike kan. Jadi tahun 90-an tu saya ingat ada perang and ada spike. Jadi kerajaan Malaysia memang ada mengambil pelarian Rohingya daripada tahun 90-an. Dan mereka ini is resettled at certain places. Jadi seingat saya di Kemaman, di Sri Bandi ada satu di di kawasan pedalaman sangat dekat dengan FELDA semualah ada satu settlement lah saya ingat kan. Orang Rohingya. Ini correct me if I'm wrong, terutamanya orang di Langkawi lah. Di Langkawi ada satu settlement dan agak besar. Ha kan. Cuma masa itu dari segi peperangan tu dia tidak melimpah teruk. Dan kalau ambil pun maksudnya dalam 100 orang, 300 orang. Tak banyaklah. Ha, so settlement itu banyaklah sebenarnya, tapi, tapi dia tak sampai ke peringkat sekarang. Sekarang. So settlement itu dia, dia kec- well, relatively smaller daripada sekaranglah. Maksudnya 300 orang sana, 400 orang sinilah kan. Fenomena yang berlaku sekarang ini ialah kerana perang apa nama ni, 10, 12 tahun yang lepas lah. Bila junta tentera merampas daripada Aung San Suu Kyi kan and and ada kudeta dan mereka memerangi dan memang isytihar perang kepada homeland Rohingya ni. So itu yang tahun 2015 ada kemasukan besar-besaran lah, eh. Ya. So just to put things in perspective kan. Majoriti pelarian Rohingya ni mereka lari ke Bangladesh. Coxas Bazar. Coxas Bazar kan. Coxas Bazar ada lebih kurang 1.2 juta pelarian ya pelarian Rohingya is actually the largest refugee camp in the world. Paling besarlah dekat Cox's Bazar kan. Dan Bangladesh pun tak boleh dah nak nak nak nak absorb semua kan. Dia pun ada isu dia kan. Jadi kumpulan yang kedua pelarian yang besar ni yang datang daripada bot semua banyak. Ni ialah datang ke Malaysia lah. Ha, itu yang Malaysia ada Rohia. Saya tak tahulah data ni is very sketchy. Jadi kita tak tahu yang 130,000 orang yang ada sekarang yang disebut ini, terutamanya di Lembah Klang lah, sebenarnya datang daripada wave mana? Adakah saya tak rasa they come from the 90s. Saya rasa they come from the the 10, 15 tahun yang lepas. From from the war in the mid 2010 to 2015, begitulah kan. Now. So, itu ialah masalah dalam konteks yang bersabit dengan pelarian. Okey. So, kalau ikut dari segi penarafan ataupun macam mana kita nak kategorikan. Mereka itu memang memenuhi lah kalau perjanjian ataupun takrifan mengenai pelarian antarabangsa. Kemudian kita ada satu lagi masalah. Okey. Iaitu pemerdagangan manusia. Ha kan. Jadi pemerdagangan manusia ini ni yang masuk melalui sempadan kita. Kalau ingat dalam 7 8 tahun yang lepas, or maybe longer kan, pihak berkuasa jumpa kubur. Wang kelian. Wang kelian ada 40 lebih yang di ditanam kan. So, sindiket-sindiket ini besarlah. Dan mereka ini, of course lah bila dia datang kat sini, mereka akan cuba mendapatkan perlindungan suaka ataupun sebagai pelarian. Tapi you know it's very dicey kerana they are basically economic migrants. They are also economic migrants, but you nak bergaduh dengan dia, you are economic migrants. Kalau dia Rohingya ke memang dia flat prosecution, persecution kan. Jadi berapa banyak yang masuk tiap-tiap tahun hasil pemerdagangan manusia ni, kita pun tak tahu. Angka tu pun saya ingat sketchy. Kalau tanya Kementerian Dalam Negeri pun, angka yang dia sebut itu mungkin angka yang dia berjaya jejaki ataupun tahan. Tapi yang bolos semua tu kita, kita tak tahu kan. Okay, now. This understanding is important. Kerana kita ada dua group ni. Satu ialah group yang yang memang yalah for the lack of better word, memang diterima oleh kerajaan dulu-dululah. Dan saya ad- adalah orang kata criticize, you know, bila bergaduh pasal Rohingya ni kan. Ada mula menuding jari. Menuding jari. Kata ini dulu Najib, PAS semua kan. Saya rasa kita tolak ke tepilah. I mean saya tak condone lah sebenarnya kalau aa ada himpunan Rohingya dulu Ya. untuk mendapatkan sokongan Melayu kan. Anwar dan PAS. Anwar dan PAS masa tu kan. Yang itu bagi saya itu niat masing-masing. Kau jawablah kemudian kan. But on humanitarian ground, saya tak rasa mana-mana kerajaan before and after, past and present yang boleh menutup mata 100%. So given the situation and severity of the conflict dalam 10-15 tahun yang lepas, itu keputusan yang dibuat oleh kerajaan BN masa itu. Dan itu susah ataupun saya rasa tak adil untuk kita mempolitikkannya sekarang. Okay now. The real issue ialah what has happened since then. Kerana ada dua cabaran besar yang sepatutnya menjadi tumpuan kerajaan. Satu ialah soal menutup sempadan kita supaya tidak dibolosi oleh sindiket pemerdagangan manusia. Dan kita memang betul-betul kena perangi mereka ini supaya bukan perangi apa nama ni Rohia yang datang ni. Yang kaya raya ni ialah kongsi-kongsi gelap. Sebab tu kalau orang tanya saya kan, aa masalah kita ialah penjenayah-penjenayah ni. Sebab tu saya cukup sensitif kalau soal pasal kongsi gelap, korporat mafia semua kerana banyak masalah yang ada dalam negara ni kona kona kona pun ada kaitan dengan mereka pun. And they are very rich. Dia orang ni hidup kaya raya. Yang kat bawah ni macai ja. Dan aa selagi kita tak betul-betul perangi dan pecahkan sindiket yang kongsi gelap, mafia semua ni kan yang terlibat di dalam perdagangan manusia ni, memang masalah ini akan berterusanlah. Dan tiap-tiap tahun bila lebih ramai datang, you cannot tell which is which anymore lah. Ha, sebab dia sebenarnya ada dalam dua kumpulan yang berlainan kan. So itu ialah satu aa masalah yang berterusan setiap hari yang sepatutnya ada tindakan dan kerajaan aa semasa, maksudnya incumbent government, tak kisahlah siapa kerajaan tu kan. Perlu ada tanggungjawab untuk menyelesaikan masalah itu. Satu lagi perkara yang operational yang perlu ditangani segera. Ialah soal what do you do dengan yang 130,000 yang dah ada ni? Ha, kan? Okey. So what do you do?
+[50:33] Farhan (Pa'an): Myanmar orang tak recognize dia orang.
+
+[50:34] Haziq: Anggap dia orang.
+
+[50:36] Rafizi: Well, dia ada, dia ada 2 le- level lah kan. Contohnya lah, 1 ialah kalaupun dia ada kerakyatan Myanmar. Tapi kalau menghantar mereka balik itu, dia mestilah negara itu nak terima dia. Dan bila dia kembali, maksudnya dia tidak ada risiko terhadap nyawa dan keselamatan mereka. That's simple rule, international rule lah. Jadi dalam kes ini, perkara itu sudah tentu belum boleh berlaku lah.
+
+[51:16] Haziq: Ya.
+
+[51:17] Rafizi: Kerana masih lagi ada perang, masih lagi ada ethnic cleansing dekat Rakhin state yang, yang mana asal kebanyakan Myanmar ni kan. Kebanyakan Rohingya eh. Sebab dia Rohingya ada lebih kurang 130,000. Lebih kurang 80,000 itu ialah orang Myanmar yang a etnik yang lain. Kan. So ada banyak etnik dia kan. Yang etnik Myanmar pun ada, yang Chin pun ada, yang Shan pun ada, macam-macam adalah kan. Oh, saya pernah pergi Myanmar berkali-kali tau.
+
+[51:51] Haziq: Okey.
+
+[51:53] Rafizi: Masa, masa saya, ah ni dia menyimpang sikit lah, tapi nak cerita sebab kebanyakan yang yang komen ni pun yalah besar kemungkinan tak pernah sampai ke Myanmar kan. Jadi aku mungkin berapa peratus rakyat Malaysia je yang pernah sampai ke Myanmar. Jadi well, it's not called Yangon now kan?
+
+[52:14] Haziq: Napito.
+
+[52:15] Rafizi: Eh tak, betullah Yangon. Dulu dia panggil Myanmar capital tu dia panggil apa? Rangun. And now dia panggil Yangon kan. Napito tak pernah sampai. Sebab dulu saya portfol- menjaga portfolio kewangan untuk upstream aa investment bagi semua international ventures. Antara venture awal Petronas sebenarnya di luar negara adalah di Myanmar. Sebab Myanmar ada satu aa lapangan gas lah. And I think tak tahu masih ada lagi kat situ semua kan. So I have wonderful experience dengan aa yalah. Experience dengan yalah staf-staf saya yang yang yang Myanmar ni kan. Dan Petronas pun sebenarnya ada banyak juga yang yang mengambil Rohingya yang diberikan biasiswa di universiti macam UIA. Ha, tapi ini sebelum cerita pelarian semualah. So sebahagian saya ingat daripada CSR, Corporate Social Responsibility Petronas masa di Myanmar dulu. Yalah mengambil anak-anak Rohingya yang terpelajar yang bagus ni. Mereka mendapat pendidikan di UIA, kemudian bekerja Petronas lah. Saya ingat staf saya dulu ada se- dua orang. ACCA ada dua orang. Ha, ni kalau mereka menonton lah kan. Seorang nama Yahya, seorang nama Kassim. Ha kan. So anyhow, coming back to this. Coming back to this kan. So... dia isu dia ialah pertama yang kata kenapa tak hantar balik kan. Satu ialah kalaupun dia ada kerakyatan, kalau dia tidak diterima oleh negara asal dia dan memulangkan atau menghantar balik mereka secara paksa, itu melanggar peraturan antarabangsa. Okay, we we'll come back to that. Soal, you know, orang akan kata apa peduli ni pasal antarabangsa tak antarabangsa ni kan. Cuma yang pasal Rohingya ni, that's why the distinction between different ethnic groups tu penting. Kerana kalau etnik tu etnik Myanmar, dia ada kerakyatan. Tapi Rohingya tak ada kerakyatan. They are stateless. Kerana memang mereka tidak diiktiraf sebagai rakyat Myanmar. Mereka juga tidak diiktiraf sebagai rakyat Bangladesh. Jadi Rohingya is a stateless, people. So dia tak tak tak banyak beza dengan Palestin lah. Maksudnya dia tak ada state kan. Jadi di dia tak boleh pergi. Dia memang tak ada. Dia adalah homeland dia, which is Rakhin tu lah. Rakhin tu. Maksudnya di sempadan Bangladesh dengan Myanmar tu. Tapi over the years ni pun zaman British dululah. Bila dia lukis peta ke apa semua, dia bukan ambil kira pun semua ni. Etnik tak etnik semua kan. Itu yang ada Melayu di selatan Thai. Sekarang jadi sebahagian daripada Thai kan. So it's a product of history. Jadi kerajaan Myanmar memang daripada awal tidak menerima mereka sebagai rakyat. Kemudian saya ingat tahun 1982. Ada undang-undang kerakyatan yang baru di Burma. Dan secara undang-undang dan secara rasmi, kerakyatan tidak diberikan kepada Rohingya. So they are stateless kan. So that itu origin tu kena faham daripada tahun 100 tahun yang lepas, mereka tidak ada kerakyatan. Then you ask the question lah. Apa sebenarnya yang berlaku nak menjawab yang Haziq tanya tadi, apa yang berlaku? Kenapa di Asia Tenggara ini, Rohingya paling ramai di Malaysia. So yang ini juga yang yang sebahagiannya adalah historical product. Sebahagiannya adalah kerana kelemahan kita sekaranglah, kelemahan negara kan. Seingat sayalah kan, I grew up di Kemaman tahun 80-an. Memang dah ada pelarian Rohingya. Ada seorang tu saya ingat, ha yalah dia pernah kerja dengan ayah saya sekejaplah, kalau tak pun sekejaplah. Nama Maaruf ke apa nama? Ha kan. So, kemudian dalam tahun 90-an tu, oleh kerana kekacauan dan juga kezaliman kepada orang Rohingya ni memang berlaku sepanjang masa. Cuma dia ada spike dia. Every now and then, every decades ada je spike, spike kan. Jadi tahun 90-an tu saya ingat ada perang and ada spike. Jadi kerajaan Malaysia memang ada mengambil pelarian Rohingya daripada tahun 90-an. Dan mereka ini is resettled at certain places. Jadi seingat saya di Kemaman, di Sri Bandi ada satu di di kawasan pedalaman sangat dekat dengan FELDA semualah ada satu settlement lah saya ingat kan. Orang Rohingya. Ini correct me if I'm wrong, terutamanya orang di Langkawi lah. Di Langkawi ada satu settlement dan agak besar. Ha kan. Cuma masa itu dari segi peperangan tu dia tidak melimpah teruk. Dan kalau ambil pun maksudnya dalam 100 orang, 300 orang.
+
+[58:22] Haziq: Tak banyaklah.
+
+[58:22] Rafizi: Ha, so settlement itu banyaklah sebenarnya, tapi, tapi dia tak sampai ke peringkat sekarang. Sekarang. So settlement itu dia, dia kec- well, relatively smaller daripada sekaranglah. Maksudnya 300 orang sana, 400 orang sinilah kan. Fenomena yang berlaku sekarang ini ialah kerana perang apa nama ni, 10, 12 tahun yang lepas lah. Bila junta tentera merampas daripada Aung San Suu Kyi kan and and ada kudeta dan mereka memerangi dan memang isytihar perang kepada homeland Rohingya ni. So itu yang tahun 2015 ada kemasukan besar-besaran lah, eh.
+
+[59:17] Haziq: Ya.
+
+[59:17] Rafizi: So just to put things in perspective kan. Majoriti pelarian Rohingya ni mereka lari ke Bangladesh. Coxas Bazar. Coxas Bazar kan. Coxas Bazar ada lebih kurang 1.2 juta pelarian ya pelarian Rohingya is actually the largest refugee camp in the world. Paling besarlah dekat Cox's Bazar kan. Dan Bangladesh pun tak boleh dah nak nak nak nak absorb semua kan. Dia pun ada isu dia kan. Jadi kumpulan yang kedua pelarian yang besar ni yang datang daripada bot semua banyak. Ni ialah datang ke Malaysia lah. Ha, itu yang Malaysia ada Rohia. Saya tak tahulah data ni is very sketchy. Jadi kita tak tahu yang 130,000 orang yang ada sekarang yang disebut ini, terutamanya di Lembah Klang lah, sebenarnya datang daripada wave mana? Adakah saya tak rasa they come from the 90s. Saya rasa they come from the the 10, 15 tahun yang lepas. From from the war in the mid 2010 to 2015, begitulah kan. Now. So, itu ialah masalah dalam konteks yang bersabit dengan pelarian. Okey. So, kalau ikut dari segi penarafan ataupun macam mana kita nak kategorikan. Mereka itu memang memenuhi lah kalau perjanjian ataupun takrifan mengenai pelarian antarabangsa. Kemudian kita ada satu lagi masalah.
+
+[1:01:09] Haziq: Okey.
+
+[1:01:10] Rafizi: Iaitu pemerdagangan manusia. Ha kan. Jadi pemerdagangan manusia ini ni yang masuk melalui sempadan kita. Kalau ingat dalam 7 8 tahun yang lepas, or maybe longer kan, pihak berkuasa jumpa kubur.
+
+[1:01:25] Haziq: Wang kelian.
+
+[1:01:26] Rafizi: Wang kelian ada 40 lebih yang di ditanam kan. So, sindiket-sindiket ini besarlah. Dan mereka ini, of course lah bila dia datang kat sini, mereka akan cuba mendapatkan perlindungan suaka ataupun sebagai pelarian. Tapi you know it's very dicey kerana they are basically economic migrants. They are also economic migrants, but you nak bergaduh dengan dia, you are economic migrants. Kalau dia Rohingya ke memang dia flat prosecution, persecution kan. Jadi berapa banyak yang masuk tiap-tiap tahun hasil pemerdagangan manusia ni, kita pun tak tahu. Angka tu pun saya ingat sketchy. Kalau tanya Kementerian Dalam Negeri pun, angka yang dia sebut itu mungkin angka yang dia berjaya jejaki ataupun tahan. Tapi yang bolos semua tu kita, kita tak tahu kan. Okay, now. This understanding is important. Kerana kita ada dua group ni. Satu ialah group yang yang memang yalah for the lack of better word, memang diterima oleh kerajaan dulu-dululah. Dan saya ad- adalah orang kata criticize, you know, bila bergaduh pasal Rohingya ni kan. Ada mula menuding jari. Menuding jari. Kata ini dulu Najib, PAS semua kan. Saya rasa kita tolak ke tepilah. I mean saya tak condone lah sebenarnya kalau aa ada himpunan Rohingya dulu Ya. untuk mendapatkan sokongan Melayu kan. Anwar dan PAS. Anwar dan PAS masa tu kan. Yang itu bagi saya itu niat masing-masing. Kau jawablah kemudian kan. But on humanitarian ground, saya tak rasa mana-mana kerajaan before and after, past and present yang boleh menutup mata 100%. So given the situation and severity of the conflict dalam 10-15 tahun yang lepas, itu keputusan yang dibuat oleh kerajaan BN masa itu. Dan itu susah ataupun saya rasa tak adil untuk kita mempolitikkannya sekarang. Okay now. The real issue ialah what has happened since then. Kerana ada dua cabaran besar yang sepatutnya menjadi tumpuan kerajaan. Satu ialah soal menutup sempadan kita supaya tidak dibolosi oleh sindiket pemerdagangan manusia. Dan kita memang betul-betul kena perangi mereka ini supaya bukan perangi apa nama ni Rohia yang datang ni. Yang kaya raya ni ialah kongsi-kongsi gelap. Sebab tu kalau orang tanya saya kan, aa masalah kita ialah penjenayah-penjenayah ni. Sebab tu saya cukup sensitif kalau soal pasal kongsi gelap, korporat mafia semua kerana banyak masalah yang ada dalam negara ni kona kona kona pun ada kaitan dengan mereka pun. And they are very rich. Dia orang ni hidup kaya raya. Yang kat bawah ni macai ja. Dan aa selagi kita tak betul-betul perangi dan pecahkan sindiket yang kongsi gelap, mafia semua ni kan yang terlibat di dalam perdagangan manusia ni, memang masalah ini akan berterusanlah. Dan tiap-tiap tahun bila lebih ramai datang, you cannot tell which is which anymore lah. Ha, sebab dia sebenarnya ada dalam dua kumpulan yang berlainan kan. So itu ialah satu aa masalah yang berterusan setiap hari yang sepatutnya ada tindakan dan kerajaan aa semasa, maksudnya incumbent government, tak kisahlah siapa kerajaan tu kan. Perlu ada tanggungjawab untuk menyelesaikan masalah itu. Satu lagi perkara yang operational yang perlu ditangani segera. Ialah soal what do you do dengan yang 130,000 yang dah ada ni? Ha, kan? Okey. So what do you do?
 
 [1:06:02] Haziq: Dia agak dilema lah YB, to be fair kepada kerajaan lah. Apa, kalau kita tak bagi dia apa hak untuk bekerja contohnya kan, dia ni manusia. Takkan duduk rumah tak makan. Dia akan ada survival punya dengan ca- cara yang teruk sikitlah. Mencuri ke apa ke, dan benda tu akan ada jenayah. Tapi kalau kita bagi pula, orang yang Malaysia yang lain ni akan macam kurang selesalah. Eh, kita nak dia ni apa meninggalkan kitalah, tapi kita pula macam bagi diorang access apa semua dan resources pun tak cukup semua. Jadi kalau jadi kerajaan susah jugalah, YB.
 
-[1:06:46] Rafizi: Kau sekarang ni memang walak kepada Anwar Ibrahim lah kan? Bukan. Pa'an?
+[1:06:47] Rafizi: Kau sekarang ni memang walak kepada Anwar Ibrahim lah kan?
+
+[1:06:51] Haziq: Bukan. Pa'an?
 
 [1:06:55] Farhan (Pa'an): I mean, kalau kita tengok balik, it's always a case of kalau we accept assimilation needs to be the main priority.
 
@@ -229,43 +505,87 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [1:07:12] Farhan (Pa'an): Sebab kita, kita memang dah ada diorang. So to make them fit in society Malaysia. In what way or another, I tak.
 
-[1:07:20] Rafizi: Let me come, let me come back and ask you this lah. Tadi kalau Haziq katalah kalau mereka di kerajaan memberikan mereka kelulusan untuk bekerja semua kan. Sebenarnya apa status diorang sekarang? Boleh bekerja ke tidak? Tak boleh. Tak boleh.
+[1:07:20] Rafizi: Let me come, let me come back and ask you this lah. Tadi kalau Haziq katalah kalau mereka di kerajaan memberikan mereka kelulusan untuk bekerja semua kan. Sebenarnya apa status diorang sekarang? Boleh bekerja ke tidak? Tak boleh. Tak boleh. Are you sure?
 
-[1:07:36] Farhan (Pa'an): Are you sure? Technically tak boleh kan sebab diorang UNHCR ref- eh no, they are not UNHCR refugees.
+[1:07:38] Farhan (Pa'an): Technically tak boleh kan sebab diorang UNHCR ref- eh no, they are not UNHCR refugees.
 
 [1:07:43] Rafizi: So dia UNHCR refugee ke apa?
 
 [1:07:47] Haziq: Dia dapat kad UNHCR tu lah.
 
-[1:07:50] Rafizi: Apa maksud dapat kad UNHCR tu? It's a registration.
+[1:07:50] Rafizi: Apa maksud dapat kad UNHCR tu?
 
-[1:07:57] Haziq: Cuma disebabkan Malaysia bukan signatory.
+[1:07:52] Haziq: It's a registration. Cuma disebabkan Malaysia bukan signatory. Pada convention.
 
-[1:08:01] Rafizi: Pada convention. So kalau Malaysia bukan signatory kepada Refugee Convention ni. Refugee Convention 1952. 1952 tak sesuai. 2, 1952 kan? Kita kepada yang mendengar, sebagai sebuah negara yang menjadi anggota masyarakat antarabangsa, Ya. dia ada banyak perjanjian dan piagam-piagam antarabangsa. Ya. Selepas Perang Dunia Kedua, antara yang paling penting piagam dan juga perjanjian antarabangsanya ialah perjanjian mengenai pelarian. 51. Refugee. 51 kan? Refugee Convention. Dipanggil apa? Geneva Convention?
+[1:08:01] Rafizi: So kalau Malaysia bukan signatory kepada Refugee Convention ni. Refugee Convention 1952.
+
+[1:08:09] Haziq: 1952 tak sesuai.
+
+[1:08:11] Rafizi: 2, 1952 kan? Kita kepada yang mendengar, sebagai sebuah negara yang menjadi anggota masyarakat antarabangsa, Ya. dia ada banyak perjanjian dan piagam-piagam antarabangsa.
+
+[1:08:26] Haziq: Ya.
+
+[1:08:26] Rafizi: Selepas Perang Dunia Kedua, antara yang paling penting piagam dan juga perjanjian antarabangsanya ialah perjanjian mengenai pelarian. 51. Refugee. 51 kan? Refugee Convention. Dipanggil apa? Geneva Convention?
 
 [1:08:42] Haziq: Convention Relating to the Status of Refugees.
 
-[1:08:45] Rafizi: Refugee Convention lah 1951 kan. Malaysia tak ratify dan tak tandatangan. Yes. Jadi Malaysia bukan sebahagian daripada penandatangan Kepada Konvensyen Pelarian Antarabangsa. Dan Suruhanjaya di peringkat PBB yang mengendalikan isu dan kebajikan pelarian di seluruh dunia ni nama dia UNHCR. United Nations High Commission on Refugee. Suruhanjaya terti- tinggi PBB mengenai pelarian. Ah, jadi macam mana pula ni kita tak tandatangani Perjanjian 1951. Tapi ada UNHCR di Malaysia dan pelarian ini ada kad.
+[1:08:45] Rafizi: Refugee Convention lah 1951 kan. Malaysia tak ratify dan tak tandatangan. Yes. Jadi Malaysia bukan sebahagian daripada penandatangan Kepada Konvensyen Pelarian Antarabangsa. Dan Suruhanjaya di peringkat PBB yang mengendalikan isu dan kebajikan pelarian di seluruh dunia ni nama dia UNHCR. United Nations High Commission on Refugee. Suruhanjaya terti- tinggi PBB mengenai pelarian. Ah, jadi macam mana pula ni kita tak tandatangani Perjanjian 1951. Tapi ada UNHCR di Malaysia dan pelarian ini ada kad. Macam mana pula?
 
-[1:09:45] Haziq: Macam mana pula? Dia memang sebab kewujudan UNHCR tu adalah berdasarkan kelulusan daripada kerajaan. So dia memang ada dekat negara yang sign signatory ataupun tidak di mana-mana di dunia pun.
+[1:09:45] Haziq: Dia memang sebab kewujudan UNHCR tu adalah berdasarkan kelulusan daripada kerajaan. So dia memang ada dekat negara yang sign signatory ataupun tidak di mana-mana di dunia pun.
 
 [1:09:58] Rafizi: Okey. Yalah, itu sebab dia sebahagian daripada badan, badan PBB yang ada. Ya. Tak, I'm asking about kad tu. So kalau ada kad, kenapa ada kad itu bila Malaysia tidak menandatangani? Dan apa maksud kad itu? Apa fungsi kad itu? Apa yang kad itu, kalau ada kad pelarian tu macam mana?
 
 [1:10:24] Haziq: Yang saya faham, dia setakat sebagai pengenalan lah. Dalam negara ni. Tapi aa apa ni kewajipan-kewajipan yang sesebuah negara signatory tu aa sign sebagai Malaysia sebagai negara yang tak sign convention tu, tak ada kewajipan untuk melaksanakan benda-benda tu seperti negara-negara lain. Sebagai contohnya, saya rasa Malaysia tak ada status suaka yang agak aa apa jelaslah. Sebab itu Malaysia ni lebih kepada macam tempat transit. Tak adalah orang kata datang kat Malaysia untuk mencari suaka, duduk kekal ke apa ke. Ha macam tu.
 
-[1:10:59] Rafizi: Suaka ke pua- puaka pula. Suaka ke suaka? Suaka eh. Suaka. Pronouncation dia suaka ni is asylum. Ha, asylum. Bukannya suaka politik. I think pronunciation dia ialah suaka politik. Suaka. Well, tepatlah. Maksudnya okey, bila kita dah ada pelarian Rohingya. Jarang aku cakap tepat. Okey. Dapat markah malam ni. Bila kita dah ada pelarian Rohingya yang tinggi kan, dan mereka memang diiktiraf sebagai pelarian because memanglah diorang stateless kan, dan they fled the conflict in Myanmar kan. Bila dia sampai kat sini, sebenarnya dia tu tak ada kerakyatan. Jadi kalau orang tangkap dia, apa sebenarnya dokumen pengenalan diri mereka? Besar kemungkinan memang tak ada lah. They never had in the first place. Dia bukannya macam kita ada pasport ke, ada surat beranak ke apa. Besar kemungkinan memang tak ada lah kan. Jadi walaupun Malaysia tidak menandatangani Konvensyen Pelarian 1951, dan UNHCR memang sebagai instrumen salah satu daripada banyak-banyak badan PBB yang ada dekat sini. Maka UNHCR yang mengambil inisiatif mereka sekurang-kurangnya is to document them. Itulah yang yang yang diberikan kad UNHCR kan. Tapi kad itu macam Haziq katalah. Kalau kita menandatangani. Convention Peladang 51. Convention. Convention tu ada ada komitmen-komitmen tertentulah. Apa komitmen dia? Aku pun I ada jot jot down kat sini sebenarnya. Mana komitmen? Aku pun malam-malam letih ah. Maksudnya. Komitmen-komitmen di bawah Convention Pelarian 1951 ni kan. Satu ialah komitmen untuk di- they call it non-refoulement lah. Maksudnya tidak menghantar balik mereka secara paksa. Yes. Sekiranya menghantar mereka balik itu menjejaskan nyawa mereka. Kemudian tidak mengambil I mean non-penalization untuk masuk secara haram bagi pelarian-pelarian kan. Kemudian ada akses kepada mahkamah. Kalau signature Yes, akses kepada mahkamah. Ke mahkamah kan. Kemudian kena bagi identiti ataupun dokumen perjalanan, kena bagi pendidikan asas. Kemudian ada hak-hak untuk pekerjaan, kemudian ada hak-hak awam, kebebasan beragama dan juga bekerjasama dengan UNHCR lah. Yes. Jadi saya pastilah bila saya dah sebut semua dari segi tanggungjawab kalau Malaysia menandatangani treaty ataupun convention pelarian itu, kenapa tidak ada ahli politik yang berani tandatangan? Memang, memang, memang rakyat Malaysia marah lah kan? Kerana dan tambah pula dengan kita pelbagai kaum dan soal kesaksamaan dan juga soal resources yang diagihkan secara adil sesama kaum di Malaysia ini pun orang masih lagi bertelagah. Ya. Jadi tiba-tiba ada pula. Jadi sebab itu secara... yalah, sepanjang saya dalam dalam kerajaan dulu pun, Soal ratifikasi untuk pelarian Rohingya ataupun maksudnya soal Malaysia menandatangani convention pelarian ini, dia bukan satu perkara yang mudah secara politik dan secara kerajaan lah. Tapi adakah itu bermakna okay, then then then then let me rephrase the question to you lah kan. Jadi kalau kita kerajaan dan masyarakat kita tidak bersedia untuk menandatangani convention pelarian, jadi macam mana nak menangani masalah ni? Cuba kau jadi menteri. Cuba kau jadi Perdana Menteri. Apa kau buat? Takpelah tak nak jadi ah.
+[1:10:59] Rafizi: Suaka ke pua- puaka pula. Suaka ke suaka?
 
-[1:15:48] Haziq: Kita terpaksa jugalah kot saya rasa YB yang yang ada ni step ini saja, yang luar tu jangan ambil dah. Tapi kita kena bagi, kena ada decent living kat mereka supaya tak ada unintended consequences kepada rakyat Malaysia yang lain.
+[1:11:03] Haziq: Suaka eh.
+
+[1:11:05] Rafizi: Suaka. Pronouncation dia suaka ni is asylum.
+
+[1:11:08] Haziq: Ha, asylum.
+
+[1:11:09] Rafizi: Bukannya suaka politik. I think pronunciation dia ialah suaka politik. Suaka. Well, tepatlah. Maksudnya okey, bila kita dah ada pelarian Rohingya. Jarang aku cakap tepat.
+
+[1:11:24] Haziq: Okey.
+
+[1:11:25] Rafizi: Dapat markah malam ni. Bila kita dah ada pelarian Rohingya yang tinggi kan, dan mereka memang diiktiraf sebagai pelarian because memanglah diorang stateless kan, dan they fled the conflict in Myanmar kan. Bila dia sampai kat sini, sebenarnya dia tu tak ada kerakyatan. Jadi kalau orang tangkap dia, apa sebenarnya dokumen pengenalan diri mereka? Besar kemungkinan memang tak ada lah. They never had in the first place. Dia bukannya macam kita ada pasport ke, ada surat beranak ke apa. Besar kemungkinan memang tak ada lah kan. Jadi walaupun Malaysia tidak menandatangani Konvensyen Pelarian 1951, dan UNHCR memang sebagai instrumen salah satu daripada banyak-banyak badan PBB yang ada dekat sini. Maka UNHCR yang mengambil inisiatif mereka sekurang-kurangnya is to document them. Itulah yang yang yang diberikan kad UNHCR kan. Tapi kad itu macam Haziq katalah. Kalau kita menandatangani.
+
+[1:12:45] Haziq: Convention Peladang 51.
+
+[1:12:45] Rafizi: Convention. Convention tu ada ada komitmen-komitmen tertentulah. Apa komitmen dia? Aku pun I ada jot jot down kat sini sebenarnya. Mana komitmen? Aku pun malam-malam letih ah. Maksudnya. Komitmen-komitmen di bawah Convention Pelarian 1951 ni kan. Satu ialah komitmen untuk di- they call it non-refoulement lah. Maksudnya tidak menghantar balik mereka secara paksa.
+
+[1:13:21] Haziq: Yes.
+
+[1:13:21] Rafizi: Sekiranya menghantar mereka balik itu menjejaskan nyawa mereka. Kemudian tidak mengambil I mean non-penalization untuk masuk secara haram bagi pelarian-pelarian kan. Kemudian ada akses kepada mahkamah. Kalau signature Yes, akses kepada mahkamah. Ke mahkamah kan. Kemudian kena bagi identiti ataupun dokumen perjalanan, kena bagi pendidikan asas. Kemudian ada hak-hak untuk pekerjaan, kemudian ada hak-hak awam, kebebasan beragama dan juga bekerjasama dengan UNHCR lah.
+
+[1:14:05] Haziq: Yes.
+
+[1:14:05] Rafizi: Jadi saya pastilah bila saya dah sebut semua dari segi tanggungjawab kalau Malaysia menandatangani treaty ataupun convention pelarian itu, kenapa tidak ada ahli politik yang berani tandatangan? Memang, memang, memang rakyat Malaysia marah lah kan? Kerana dan tambah pula dengan kita pelbagai kaum dan soal kesaksamaan dan juga soal resources yang diagihkan secara adil sesama kaum di Malaysia ini pun orang masih lagi bertelagah. Ya. Jadi tiba-tiba ada pula. Jadi sebab itu secara... yalah, sepanjang saya dalam dalam kerajaan dulu pun, Soal ratifikasi untuk pelarian Rohingya ataupun maksudnya soal Malaysia menandatangani convention pelarian ini, dia bukan satu perkara yang mudah secara politik dan secara kerajaan lah. Tapi adakah itu bermakna okay, then then then then let me rephrase the question to you lah kan. Jadi kalau kita kerajaan dan masyarakat kita tidak bersedia untuk menandatangani convention pelarian, jadi macam mana nak menangani masalah ni? Cuba kau jadi menteri. Cuba kau jadi Perdana Menteri. Apa kau buat?
+
+[1:15:44] Haziq: Takpelah tak nak jadi ah. Kita terpaksa jugalah kot saya rasa YB yang yang ada ni step ini saja, yang luar tu jangan ambil dah. Tapi kita kena bagi, kena ada decent living kat mereka supaya tak ada unintended consequences kepada rakyat Malaysia yang lain.
 
 [1:16:03] Rafizi: Aku ban engkau daripada menggunakan perkataan unintended consequences sebelum ini kan.
 
-[1:16:11] Haziq: Ada yang kata contoh eh, berker- apa ni, ambil sebagai bekerja kan. Sekarang ni kita galak import apa pekerja-pekerja asing. Daripada macam tu baik kita gunakan apa yang sedia ada ni. At least yalah dia menyelesaikan banyak benda lah. Okey.
+[1:16:11] Haziq: Ada yang kata contoh eh, berker- apa ni, ambil sebagai bekerja kan. Sekarang ni kita galak import apa pekerja-pekerja asing. Daripada macam tu baik kita gunakan apa yang sedia ada ni. At least yalah dia menyelesaikan banyak benda lah.
 
-[1:16:31] Rafizi: Maybe lah. Sebelum sampai ke cerita, cerita apa nama ni pekerja semua tu kan, okey. Kita jangan lompat jauh sangat ni kan. Okey. Setakat ini kita nak kena faham dan juga kita nak kena be objective about kedudukan dan juga kekangan undang-undang semua tu kan. Sebelum kita nak pergi ke situ tu, kita pun nak kena bincang juga kenapa orang marah sangat kan. Okey, baik. Before we go kepada kenapa orang marah sangat tu kan, so let's go back to soal convention pelarian ni. Ya. So kerajaan gayanya mana-mana kerajaan dan masyarakat pun saya berterus-terang, saya tak nampaklah aa masyarakat kita dalam keadaan sekarang atau mana-mana kerajaan yang bersedia untuk menandatangani konvensyen pelarian itu kerana tanggungjawab itu akan jadi, jadi berat kan. Berat. Satu tanggungjawab contohnya non penalization of illegal entry. Kalau kita tandatangan, maksudnya seolah-olah kita buka border kita tau. Sebab memang dan peraturan kita, kita tak boleh nak nak nak penalize dia kalau dia masuk secara haram. Saya tak rasa ada mana-mana rakyat Malaysia yang bersetuju. Dan itu bukan saja membuka, membuka sempadan dan pintu kita, bukan sahaja kepada Rong Hia, kepada sesiapa di dunia. Sesiapa. So anyone can come here atas dasar saya pelarian. Jadi oleh sebab itu maka saya ada hak ini, hak itu, dan kita tak boleh nak penalize dia atas dasar dia masuk ke sini secara haram kan. Jadi let's face it lah. Sesiapa yang yang yang kalau kita nak berbincang secara objektif, sebenarnya tak nampaklah jalannya yang kerajaan ataupun masyarakat bersedia untuk menandatangani konvensyen pelarian. Now, tapi adakah itu bermakna Malaysia tidak terikat kepada apa-apa peraturan atau komitmen antarabangsa sebab kita tak sign convention pelarian dan sebab itu kita boleh buat buta, tak tahu je semua yang berlaku. Tak boleh sebab.
+[1:16:30] Rafizi: Okey. Maybe lah. Sebelum sampai ke cerita, cerita apa nama ni pekerja semua tu kan, okey. Kita jangan lompat jauh sangat ni kan. Okey. Setakat ini kita nak kena faham dan juga kita nak kena be objective about kedudukan dan juga kekangan undang-undang semua tu kan. Sebelum kita nak pergi ke situ tu, kita pun nak kena bincang juga kenapa orang marah sangat kan. Okey, baik. Before we go kepada kenapa orang marah sangat tu kan, so let's go back to soal convention pelarian ni.
+
+[1:17:08] Haziq: Ya.
+
+[1:17:09] Rafizi: So kerajaan gayanya mana-mana kerajaan dan masyarakat pun saya berterus-terang, saya tak nampaklah aa masyarakat kita dalam keadaan sekarang atau mana-mana kerajaan yang bersedia untuk menandatangani konvensyen pelarian itu kerana tanggungjawab itu akan jadi, jadi berat kan. Berat. Satu tanggungjawab contohnya non penalization of illegal entry. Kalau kita tandatangan, maksudnya seolah-olah kita buka border kita tau. Sebab memang dan peraturan kita, kita tak boleh nak nak nak penalize dia kalau dia masuk secara haram. Saya tak rasa ada mana-mana rakyat Malaysia yang bersetuju. Dan itu bukan saja membuka, membuka sempadan dan pintu kita, bukan sahaja kepada Rong Hia, kepada sesiapa di dunia. Sesiapa. So anyone can come here atas dasar saya pelarian. Jadi oleh sebab itu maka saya ada hak ini, hak itu, dan kita tak boleh nak penalize dia atas dasar dia masuk ke sini secara haram kan. Jadi let's face it lah. Sesiapa yang yang yang kalau kita nak berbincang secara objektif, sebenarnya tak nampaklah jalannya yang kerajaan ataupun masyarakat bersedia untuk menandatangani konvensyen pelarian. Now, tapi adakah itu bermakna Malaysia tidak terikat kepada apa-apa peraturan atau komitmen antarabangsa sebab kita tak sign convention pelarian dan sebab itu kita boleh buat buta, tak tahu je semua yang berlaku. Tak boleh sebab.
 
 [1:19:04] Farhan (Pa'an): It's our duty to be aware kan.
 
-[1:19:07] Rafizi: Well, itu, itu sebenarnya kira tanggungjawab kemanusiaan dan juga untuk kita aa memastikan kehadiran pelarian Rohingya yang dah ramai ini, dia tidak menimbulkan Masalah. pelbagai masalah seperti yang kita kena ulas selepas inilah. Tetapi sebenarnya Malaysia terikat dengan satu aa komitmen tau. Kita tandatangan Child Convention. Ha, CRC. So kita tandatangan dan ratify sebenarnya convention mengenai hak kanak-kanak. Jadi yang itu yang dia jadi agak-agak rumit kerana sebab itu maka basic healthcare, basic education pun dia jadi isu. Yes. Jadi kalau dalam kerajaan dulu kan, kita akan ada macam-macam pandanganlah, pumpang, pumpang, pumpang gitu gini gini kan. Saya akan kembali soal apa sebenarnya yang dibincangkan dalam kerajaan kemudianlah semasa saya dalam kerajaan kan. Tapi kita nak kena bayangkanlah macam mana isu ini bila tanpa ada dasar ataupun arahan ataupun hala tuju. Yang Wisma Putra ni garu kepala lah. Sebab dia nak kena menjawab ni kan. Sebab mereka yang menjaga nama baik dan reputasi aa Malaysia di peringkat antarabangsa. Mungkin ada orang katalah, ah aku tak pedulilah dia ada kerakyatan ke apa ke, kesian tak kesian, hantar mereka balik. Aa kalau kita kata, tapi negara, dia tak ada negara. Kita nak hantar kerajaan Myanmar, sampai saja kena tembak orang ni kan contohnya. Dia kata, ah aku tak peduli. Letak saja dalam sampan banyak-banyak, hantar dia orang kalau dia nak hilang ke mana, mati ke kena tembak itu, itu hal dia orang lah. Ada orang yang cakap macam tu kan. Mensaya. Katakanlah hypothetically benda tu jadi macam itu. Agaknya apa jadi kat Malaysia?
+[1:19:07] Rafizi: Well, itu, itu sebenarnya kira tanggungjawab kemanusiaan dan juga untuk kita aa memastikan kehadiran pelarian Rohingya yang dah ramai ini, dia tidak menimbulkan Masalah. pelbagai masalah seperti yang kita kena ulas selepas inilah. Tetapi sebenarnya Malaysia terikat dengan satu aa komitmen tau. Kita tandatangan Child Convention.
+
+[1:19:34] Haziq: Ha, CRC.
+
+[1:19:38] Rafizi: So kita tandatangan dan ratify sebenarnya convention mengenai hak kanak-kanak. Jadi yang itu yang dia jadi agak-agak rumit kerana sebab itu maka basic healthcare, basic education pun dia jadi isu. Yes. Jadi kalau dalam kerajaan dulu kan, kita akan ada macam-macam pandanganlah, pumpang, pumpang, pumpang gitu gini gini kan. Saya akan kembali soal apa sebenarnya yang dibincangkan dalam kerajaan kemudianlah semasa saya dalam kerajaan kan. Tapi kita nak kena bayangkanlah macam mana isu ini bila tanpa ada dasar ataupun arahan ataupun hala tuju. Yang Wisma Putra ni garu kepala lah. Sebab dia nak kena menjawab ni kan. Sebab mereka yang menjaga nama baik dan reputasi aa Malaysia di peringkat antarabangsa. Mungkin ada orang katalah, ah aku tak pedulilah dia ada kerakyatan ke apa ke, kesian tak kesian, hantar mereka balik. Aa kalau kita kata, tapi negara, dia tak ada negara. Kita nak hantar kerajaan Myanmar, sampai saja kena tembak orang ni kan contohnya. Dia kata, ah aku tak peduli. Letak saja dalam sampan banyak-banyak, hantar dia orang kalau dia nak hilang ke mana, mati ke kena tembak itu, itu hal dia orang lah. Ada orang yang cakap macam tu kan.
+
+[1:21:07] Haziq: Mensaya.
+
+[1:21:08] Rafizi: Katakanlah hypothetically benda tu jadi macam itu. Agaknya apa jadi kat Malaysia?
 
 [1:21:20] Haziq: Kita tak ada masyarakat berbilang kaum?
 
@@ -273,15 +593,47 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [1:21:29] Farhan (Pa'an): Internationally lah.
 
-[1:21:31] Rafizi: Ya. Kena kecam. Kita akan aa masuk dalam kategori negara-negara seperti Korea Utara. Kita menjadi negara yang dikecam di seluruh dunia. Akan ada yang kata, "Ha, aku peduli apa? Kena kecam pun kecam ah. Dia orang semua duduk tempat negara lain. Dia bukan duduk kat sini. Aku tahu dia orang tak ada kat sini. Kecam ah." Well, sebenarnya sistem ekonomi dan politik dunia ini, dia bukan macam kita jiran. Jiran ni kalau kita tak suka kat dia, kita tutup pintu, kita kutuk dia kat dalam-dalam. Keluar tarik muka masam kan, tak boleh buat apa kan. Malaysia adalah negara dagang utama di dunia. Kita negara dagang ke-18 terbesar di dunia. Sebahagian sebab kenapa kita boleh berdagang dengan baik di seluruh dunia ialah kerana kita mematuhi kerangka antarabangsa. Kerangka antarabangsa itu termasuklah contohnya layanan aa terhadap pekerja-pekerja. Contohnya mengenai pemerdagangan manusia. Contohnya mengenai human rights. Contohnya mengenai apa nama ni humanitarian aa aa value yang kita ada dalam masyarakat kan. In fact sekarang ini kalau tengok US lah kan, selepas bising-bising pasal tarif dulu kan. Dia dia berkaitan juga dengan ad taat ni. Okey. Ha kan. Contohnya, selepas Mahkamah Agung Amerika Syarikat memutuskan bahawa tarif US yang Dato' Seri Anwar Ibrahim dan juga Tengku Zafrul tergesa-gesa tanda tangan tu kan. Orang mungkin dah lupa. Dah lupa. Aku tak lupa tau, kan. Jadi US ambil jalan baru. Wah. US ambil jalan baru dengan menggunakan instrumen penarafan mereka. Jadi US ni ada jabatan-jabatan ataupun agensi antarabangsa yang menilai kepatuhan dan juga penarafan negara-negara dalam kategori-kategori yang mereka anggap sebagai indikator-indikator sesebuah negara yang menjadi sebahagian daripada masyarakat antarabangsa. Contohnya ialah satu perdagangan manusia. Satu slavery ataupun apa ni forced labor, yalah. Buruh paksa kan. Kemudian ada jugalah kalau macam state yang itu di bawah I think apa namanya trade representative. Dia akan keluarkan laporan Malaysia daripada forced labor macam ini, daripada human tra- trafficking sekian, sekian, sekian. Kemudian ada State Department. State Department keluarkan laporan yang menarafkan Malaysia mengenai contohnya ialah human rights, mengenai international commit- commitment to international framework. Macam-macam lah keluar. Dan setiap satu laporan dan penarafan ini akan mempengaruhi dasar dan juga layanan mereka terhadap kita. Contohnya kalau kita dalam kategori perdagangan manusia yang rendah. Orang kita nak pergi ke US, then dia proses dia panjang. Visa tak dapat, tak boleh masuk semua kan. Jadi dia berkait. Jadi sebagai sebuah negara yang, yang menjadi negara dagang yang besar di dunia kan. Reputasi dan juga penarafan antarabangsa is actually part and parcel of it. Jadi kita tak boleh hidup dengan mudah kata, "Aku tak peduli satu dunia tak suka kat aku pun, North Korea pun North Korea lah. Tak boleh. Because then kita akan menjadi negara yang kena sekatan lah, Sanction. Sanction. Kemudian pelaburan tak masuklah. Memanglah dia masuk kat sini tak ada kena mengena dengan Rohingya, betul. Tetapi bila semua ini mula ada kesan akibat daripada tindakan kita yang tidak mahu mengikut kerangka antarabangsa, maka contohnya indeks World Competitiveness Index. Kan? Yang itu ada banyak tu. Orang ingat competitiveness index ni kan, indeks daya saing ekonomi negara, ingat ini semua pasal ekonomi ke? Mana ada pasal human rights lah, pasal apa nama ni, human trafficking, segala jenis benda ada kan? Maksudnya, sekali lagi saya sebutlah, walaupun kita kata ah kita kan tak tak tanda tangan UNHCR semua ni. Jadi buat apa kita sibuk-sibuk? Masalahnya sebagai sebuah negara yang jadi, jadi masyarakat antarabangsa, satu kita tak boleh nak pandai-pandai menidakkan. Okey ya, I I have to be careful. Dia bukan komitmen mengenai pelarian kerana kita tak tandatangan. Yes. Tetapi dari segi standard antarabangsa mengenai pengurusan pelarian, mengenai human trafficking, mengenai forced labor, mengenai basic rights kepada kanak-kanak. Especially that one kita tak boleh lari kan. Maksudnya begini, tidak ada kerajaan yang akan sanggup tendang UNHCR keluar. Ha kan. Dan tidak ada kerajaan yang secara rasmi beritahu kepada masyarakat antarabangsa, ah aku tak peduli kat diorang. Ini budak-budak Rohingya ni semua bukan masalah aku. Dia mati ke, dia tak ada dapat basic healthcare ke. It's not my problem. Okey. So itu dari segi soal undang-undang kan. Of course lah, more, more than anything else, it's also about humanity. Kan. Saya tak rasalah masyarakat Malaysia, sekarang mungkinlah kita tak peduli kan. Tapi saya tak rasalah masyarakat Malaysia ini ingin dikenali di seluruh dunia sebagai orang yang tidak berperikemanusiaan. Kan. So kita, and then actually lah what I feel about pelarian Rohingya semua kan. Kita tak sampai lagi kan sebab kenapa jadi macam ni kan. But you tolak tepilah semua ni. Katakanlah at zero, zero sum sekarang ni, tidak ada seorang pun pelarian Rohingya yang sampai di Malaysia, kosong. Tapi mereka ditembak di Myanmar because of religious persecution sebab mereka agama berlainan, mereka bangsa berlainan, dan sama ada kita nak buat keputusan adakah kita memberi ruang, katakanlah kepada 4-500 orang yang paling vulnerable untuk mendapat tempat. I, I, I think it's humanity. Kan? Okey. Now eh. Okey, itu saya dah terangkan dah. Aku dah kena kecam ni. Kena maki berkawan-kawan ni. Berkawan.
+[1:21:31] Rafizi: Ya. Kena kecam. Kita akan aa masuk dalam kategori negara-negara seperti Korea Utara. Kita menjadi negara yang dikecam di seluruh dunia. Akan ada yang kata, "Ha, aku peduli apa? Kena kecam pun kecam ah. Dia orang semua duduk tempat negara lain. Dia bukan duduk kat sini. Aku tahu dia orang tak ada kat sini. Kecam ah." Well, sebenarnya sistem ekonomi dan politik dunia ini, dia bukan macam kita jiran. Jiran ni kalau kita tak suka kat dia, kita tutup pintu, kita kutuk dia kat dalam-dalam. Keluar tarik muka masam kan, tak boleh buat apa kan. Malaysia adalah negara dagang utama di dunia. Kita negara dagang ke-18 terbesar di dunia. Sebahagian sebab kenapa kita boleh berdagang dengan baik di seluruh dunia ialah kerana kita mematuhi kerangka antarabangsa. Kerangka antarabangsa itu termasuklah contohnya layanan aa terhadap pekerja-pekerja. Contohnya mengenai pemerdagangan manusia. Contohnya mengenai human rights. Contohnya mengenai apa nama ni humanitarian aa aa value yang kita ada dalam masyarakat kan. In fact sekarang ini kalau tengok US lah kan, selepas bising-bising pasal tarif dulu kan. Dia dia berkaitan juga dengan ad taat ni.
 
-[1:29:18] Haziq: Satu Malaysia. YB senanglah YB tak duduk dengan dia orang dia kata.
+[1:23:11] Haziq: Okey.
 
-[1:29:20] Rafizi: Ha, tu lah kan. Coming back to cerita ini semua bangsa bubble lah. You tak duduk dengan dia orang semua. Semua Pa'an lah. Pa'an bukan bangsa lah. Okey, okey. I would like to put it in record dia bukan bangsa. Dia tidak, dia tidak memenuhi kriteria untuk menjadi bangsa bubble. Sebab dia datang daripada kawasan Melayu, Melawati. Kan. Ha. Okey. So, okay, coming back to this. Before kita, kita cuba cari some way forward lah kan. Ni sebab kita betul-betul nak kena deep dive ni kan. Sebenarnya kenapa tiba-tiba orang marah kepada Rohingya ni? Sedangkan contohnya, sedangkan as I say, aku mula-mula kenal come across orang Rohingya ni masa aku sekolah rendah. Since the 80s, early 90s lagi. Mereka memang dah ada yang bekerja semualah. Tapi tak timbul masalah ini di zaman 90-an kan. Kenapa? Sebab tiba-tiba ramai. Okey. Tu satu kerana ramai. Ramai tu actually kalau ramai, dua 130,000 orang di seluruh Malaysia, numerically dia tak nampak ramai lah, kot tak? 130,000 orang daripada 34 juta penduduk di Malaysia. What percentage is that? Is 0.5% kot tak? Tak sampai pun.
+[1:23:12] Rafizi: Ha kan. Contohnya, selepas Mahkamah Agung Amerika Syarikat memutuskan bahawa tarif US yang Dato' Seri Anwar Ibrahim dan juga Tengku Zafrul tergesa-gesa tanda tangan tu kan. Orang mungkin dah lupa. Dah lupa. Aku tak lupa tau, kan. Jadi US ambil jalan baru.
 
-[1:30:48] Haziq: Cuba tengok. Tapi dia tak adalah aa sekata kan? Maksudnya orang kata banyak dekat Selayang, dekat Kajang.
+[1:23:35] Haziq: Wah.
 
-[1:30:54] Rafizi: Okay, that's the, that's the thing. That's the thing lah kan. Ini juga yang orang yang duk aaa duk tengah bergaduh aaa dekat sosial media ni kan. Oh, siapa-siapa yang ada pandangan negatif mengenai Rohiah saja, oh ini rasis ni, oh ini xenophobic ni kan. Itu yang timbul sampai yang yang lawaknya. Akhirnya yang duk bergaduh Malaysia sama Malaysia, Melayu sama Melayu, Malaysian against Malaysian. Engkau kata aku, aku kata engkau kan. Tak menyelesaikan masalah. I think both sides have to see, you know, how delicate the situation. Saya ada pengalaman lah dan saya pernah sebut ni beberapa kali. Saya ada pengalaman. Sebabnya ialah di beberapa kawasan, terutamanya di Selangor dan Lembah Klang, dia menjadi tumpuan kepadatan pelarian Rohingya. Jadi kawasan-kawasan ini termasuklah Selayang. Satunya ialah Pandan. Pandan? Ya, walaupun Pandan tidak sepadat atau seramai di Selayang, sebenarnya Pandan pun easily top 5 in the country. Yang menjadi tumpuan pelarian-pelarian Rohingya eh. Saya boleh, okey ni ini ini pengalaman saya sebagai ahli parlimen. Aku dah tak ahli parlimen kan? Pengalaman saya sebagai bekas ahli parlimen Pandan kan. Ada satu ka- ada beberapa kawasan lah dan satu kawasan yang paling tinggi kepadatan penduduk Rohingya tu ialah di satu kawasan nama Pandan Mewah eh. Pandan Mewah. Nama Pandan Mewah, tapi dia dia jadi dia dekat dengan Hospital Ampang tu kan. Pandan Mewah di sekitar tu lah semua kan. Kat situ ada banyak flat kos rendah. Kan. Kenapa dia menjadi tumpuan kepada pelarian apa nama ni Rohingya ialah sebab dia dekat dengan hospital lah. Kan. So much so saya ingat sekarang ini easily 60% or more of penduduk di sekitar kawasan itu adalah Rohingya. Oh, ramai. Jadi dia menimbulkan a... dan masalah ini bukan masalah yang dibuat-buat. Bukan yang direka-reka oleh penduduklah. Aaa masalah ini kalau semak dengan PDRM pun memang ada laporan polis yang berterusan. Kalau semak dengan a PBT pun ada masalah yang berterusan. Dia di dalam satu masyarakat, bila dia dah jadi komuniti, komuniti yang yang asing, yang dari luar itu, melebihi daripada orang tempatan, dan dia akan mula ada bad apples. Ha, jadi dalam kes contohnya di di sekitar Pandan, di kawasan-kawasan tertentu yang ramai pelarian Rohingya ni kan. Dia memang ada masalah jenayah. Contohnya saya pernah dapat laporan. Susah aku nak manage. Laporannya ialah ada orang Rohingya mabuk, lelaki berbogel tua duduk kat tangga. Dan orang tempatan tegur ke dia nak lawan balik. Ha, dia tak takut. Dan penduduk dekat situ mula dia buat laporan polis. Lepas polis datang, lepas itu kereta mereka kena pecah. Dan soal kebersihan memang betul. Dia ada sirih di mana-mana. Dia ada arak kan. Jadi saya tak rasa adil untuk kita pukul rata seperti mana kita tak boleh nak pukul rata semua orang Rohiah ni jahatlah itu gini gini kan. Kita pun tak boleh nak pukul rata kalau orang yang ada pengalaman duduk sebagai minoriti di dalam ramai-ramai orang kiri kanan orang Rohingya ni. Aaa dia melalui proses itu, dia melalui tekanan itu. Kita nak, nak senang-senang kata dia orang ni racist pun tak boleh. Memang betullah yang kata you tak duduk kat situ. You tak faham. Kan? Ha. So itu, sebab itu perkara ini rumit kan jadinya kan. Ha jadi dia pun berkait bukan dengan kerajaan semata-mata. Contohnya kan. Bagaimana orang aa pelarian Rohingya boleh berada di satu aa beberapa blok flat kos rendah sehingga mereka mengatasi jumlah keluarga tempatan kat situ. Macam mana? Technically tak boleh sewa orang. Bolehlah. Kenapa pula tak technically tak boleh sewa?
+[1:23:36] Rafizi: US ambil jalan baru dengan menggunakan instrumen penarafan mereka. Jadi US ni ada jabatan-jabatan ataupun agensi antarabangsa yang menilai kepatuhan dan juga penarafan negara-negara dalam kategori-kategori yang mereka anggap sebagai indikator-indikator sesebuah negara yang menjadi sebahagian daripada masyarakat antarabangsa. Contohnya ialah satu perdagangan manusia. Satu slavery ataupun apa ni forced labor, yalah. Buruh paksa kan. Kemudian ada jugalah kalau macam state yang itu di bawah I think apa namanya trade representative. Dia akan keluarkan laporan Malaysia daripada forced labor macam ini, daripada human tra- trafficking sekian, sekian, sekian. Kemudian ada State Department. State Department keluarkan laporan yang menarafkan Malaysia mengenai contohnya ialah human rights, mengenai international commit- commitment to international framework. Macam-macam lah keluar. Dan setiap satu laporan dan penarafan ini akan mempengaruhi dasar dan juga layanan mereka terhadap kita. Contohnya kalau kita dalam kategori perdagangan manusia yang rendah. Orang kita nak pergi ke US, then dia proses dia panjang. Visa tak dapat, tak boleh masuk semua kan. Jadi dia berkait. Jadi sebagai sebuah negara yang, yang menjadi negara dagang yang besar di dunia kan. Reputasi dan juga penarafan antarabangsa is actually part and parcel of it. Jadi kita tak boleh hidup dengan mudah kata, "Aku tak peduli satu dunia tak suka kat aku pun, North Korea pun North Korea lah. Tak boleh. Because then kita akan menjadi negara yang kena sekatan lah, Sanction. Sanction. Kemudian pelaburan tak masuklah. Memanglah dia masuk kat sini tak ada kena mengena dengan Rohingya, betul. Tetapi bila semua ini mula ada kesan akibat daripada tindakan kita yang tidak mahu mengikut kerangka antarabangsa, maka contohnya indeks World Competitiveness Index. Kan? Yang itu ada banyak tu. Orang ingat competitiveness index ni kan, indeks daya saing ekonomi negara, ingat ini semua pasal ekonomi ke? Mana ada pasal human rights lah, pasal apa nama ni, human trafficking, segala jenis benda ada kan? Maksudnya, sekali lagi saya sebutlah, walaupun kita kata ah kita kan tak tak tanda tangan UNHCR semua ni. Jadi buat apa kita sibuk-sibuk? Masalahnya sebagai sebuah negara yang jadi, jadi masyarakat antarabangsa, satu kita tak boleh nak pandai-pandai menidakkan. Okey ya, I I have to be careful. Dia bukan komitmen mengenai pelarian kerana kita tak tandatangan. Yes. Tetapi dari segi standard antarabangsa mengenai pengurusan pelarian, mengenai human trafficking, mengenai forced labor, mengenai basic rights kepada kanak-kanak. Especially that one kita tak boleh lari kan. Maksudnya begini, tidak ada kerajaan yang akan sanggup tendang UNHCR keluar. Ha kan. Dan tidak ada kerajaan yang secara rasmi beritahu kepada masyarakat antarabangsa, ah aku tak peduli kat diorang. Ini budak-budak Rohingya ni semua bukan masalah aku. Dia mati ke, dia tak ada dapat basic healthcare ke. It's not my problem. Okey. So itu dari segi soal undang-undang kan. Of course lah, more, more than anything else, it's also about humanity. Kan. Saya tak rasalah masyarakat Malaysia, sekarang mungkinlah kita tak peduli kan. Tapi saya tak rasalah masyarakat Malaysia ini ingin dikenali di seluruh dunia sebagai orang yang tidak berperikemanusiaan. Kan. So kita, and then actually lah what I feel about pelarian Rohingya semua kan. Kita tak sampai lagi kan sebab kenapa jadi macam ni kan. But you tolak tepilah semua ni. Katakanlah at zero, zero sum sekarang ni, tidak ada seorang pun pelarian Rohingya yang sampai di Malaysia, kosong. Tapi mereka ditembak di Myanmar because of religious persecution sebab mereka agama berlainan, mereka bangsa berlainan, dan sama ada kita nak buat keputusan adakah kita memberi ruang, katakanlah kepada 4-500 orang yang paling vulnerable untuk mendapat tempat. I, I, I think it's humanity. Kan? Okey. Now eh. Okey, itu saya dah terangkan dah. Aku dah kena kecam ni. Kena maki berkawan-kawan ni. Berkawan. Satu Malaysia.
+
+[1:29:18] Haziq: YB senanglah YB tak duduk dengan dia orang dia kata.
+
+[1:29:20] Rafizi: Ha, tu lah kan. Coming back to cerita ini semua bangsa bubble lah. You tak duduk dengan dia orang semua.
+
+[1:29:27] Haziq: Semua Pa'an lah.
+
+[1:29:29] Rafizi: Pa'an bukan bangsa lah. Okey, okey. I would like to put it in record dia bukan bangsa. Dia tidak, dia tidak memenuhi kriteria untuk menjadi bangsa bubble. Sebab dia datang daripada kawasan Melayu, Melawati. Kan. Ha.
+
+[1:29:47] Haziq: Okey.
+
+[1:29:48] Rafizi: So, okay, coming back to this. Before kita, kita cuba cari some way forward lah kan. Ni sebab kita betul-betul nak kena deep dive ni kan. Sebenarnya kenapa tiba-tiba orang marah kepada Rohingya ni? Sedangkan contohnya, sedangkan as I say, aku mula-mula kenal come across orang Rohingya ni masa aku sekolah rendah. Since the 80s, early 90s lagi. Mereka memang dah ada yang bekerja semualah. Tapi tak timbul masalah ini di zaman 90-an kan. Kenapa?
+
+[1:30:22] Haziq: Sebab tiba-tiba ramai.
+
+[1:30:24] Rafizi: Okey. Tu satu kerana ramai. Ramai tu actually kalau ramai, dua 130,000 orang di seluruh Malaysia, numerically dia tak nampak ramai lah, kot tak? 130,000 orang daripada 34 juta penduduk di Malaysia. What percentage is that? Is 0.5% kot tak? Tak sampai pun. Cuba tengok.
+
+[1:30:48] Haziq: Tapi dia tak adalah aa sekata kan? Maksudnya orang kata banyak dekat Selayang, dekat Kajang.
+
+[1:30:54] Rafizi: Okay, that's the, that's the thing. That's the thing lah kan. Ini juga yang orang yang duk aaa duk tengah bergaduh aaa dekat sosial media ni kan. Oh, siapa-siapa yang ada pandangan negatif mengenai Rohiah saja, oh ini rasis ni, oh ini xenophobic ni kan. Itu yang timbul sampai yang yang lawaknya. Akhirnya yang duk bergaduh Malaysia sama Malaysia, Melayu sama Melayu, Malaysian against Malaysian. Engkau kata aku, aku kata engkau kan. Tak menyelesaikan masalah. I think both sides have to see, you know, how delicate the situation. Saya ada pengalaman lah dan saya pernah sebut ni beberapa kali. Saya ada pengalaman. Sebabnya ialah di beberapa kawasan, terutamanya di Selangor dan Lembah Klang, dia menjadi tumpuan kepadatan pelarian Rohingya. Jadi kawasan-kawasan ini termasuklah Selayang. Satunya ialah Pandan.
+
+[1:32:01] Haziq: Pandan?
+
+[1:32:01] Rafizi: Ya, walaupun Pandan tidak sepadat atau seramai di Selayang, sebenarnya Pandan pun easily top 5 in the country. Yang menjadi tumpuan pelarian-pelarian Rohingya eh. Saya boleh, okey ni ini ini pengalaman saya sebagai ahli parlimen. Aku dah tak ahli parlimen kan? Pengalaman saya sebagai bekas ahli parlimen Pandan kan. Ada satu ka- ada beberapa kawasan lah dan satu kawasan yang paling tinggi kepadatan penduduk Rohingya tu ialah di satu kawasan nama Pandan Mewah eh. Pandan Mewah. Nama Pandan Mewah, tapi dia dia jadi dia dekat dengan Hospital Ampang tu kan. Pandan Mewah di sekitar tu lah semua kan. Kat situ ada banyak flat kos rendah. Kan. Kenapa dia menjadi tumpuan kepada pelarian apa nama ni Rohingya ialah sebab dia dekat dengan hospital lah. Kan. So much so saya ingat sekarang ini easily 60% or more of penduduk di sekitar kawasan itu adalah Rohingya.
+
+[1:33:19] Haziq: Oh, ramai.
+
+[1:33:22] Rafizi: Jadi dia menimbulkan a... dan masalah ini bukan masalah yang dibuat-buat. Bukan yang direka-reka oleh penduduklah. Aaa masalah ini kalau semak dengan PDRM pun memang ada laporan polis yang berterusan. Kalau semak dengan a PBT pun ada masalah yang berterusan. Dia di dalam satu masyarakat, bila dia dah jadi komuniti, komuniti yang yang asing, yang dari luar itu, melebihi daripada orang tempatan, dan dia akan mula ada bad apples. Ha, jadi dalam kes contohnya di di sekitar Pandan, di kawasan-kawasan tertentu yang ramai pelarian Rohingya ni kan. Dia memang ada masalah jenayah. Contohnya saya pernah dapat laporan. Susah aku nak manage. Laporannya ialah ada orang Rohingya mabuk, lelaki berbogel tua duduk kat tangga. Dan orang tempatan tegur ke dia nak lawan balik. Ha, dia tak takut. Dan penduduk dekat situ mula dia buat laporan polis. Lepas polis datang, lepas itu kereta mereka kena pecah. Dan soal kebersihan memang betul. Dia ada sirih di mana-mana. Dia ada arak kan. Jadi saya tak rasa adil untuk kita pukul rata seperti mana kita tak boleh nak pukul rata semua orang Rohiah ni jahatlah itu gini gini kan. Kita pun tak boleh nak pukul rata kalau orang yang ada pengalaman duduk sebagai minoriti di dalam ramai-ramai orang kiri kanan orang Rohingya ni. Aaa dia melalui proses itu, dia melalui tekanan itu. Kita nak, nak senang-senang kata dia orang ni racist pun tak boleh. Memang betullah yang kata you tak duduk kat situ. You tak faham. Kan? Ha. So itu, sebab itu perkara ini rumit kan jadinya kan. Ha jadi dia pun berkait bukan dengan kerajaan semata-mata. Contohnya kan. Bagaimana orang aa pelarian Rohingya boleh berada di satu aa beberapa blok flat kos rendah sehingga mereka mengatasi jumlah keluarga tempatan kat situ. Macam mana?
+
+[1:36:03] Farhan (Pa'an): Technically tak boleh sewa orang.
+
+[1:36:05] Rafizi: Bolehlah. Kenapa pula tak technically tak boleh sewa?
 
 [1:36:09] Farhan (Pa'an): Oh, boleh eh?
 
@@ -289,7 +641,29 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [1:36:14] Farhan (Pa'an): Bukan flat PPR.
 
-[1:36:15] Rafizi: Bukan PPR. Itu mungkin, actually you are right. Cuma I tak pasti. I don't think is officially PPR. Ha, yalah flat ni lah kos rendah yang. Dia orang dah beli. Dia orang dah beli semua dan dia bagi sewa kan. Bagi sewa. Ha, dia bagi sewa. Itu pun masalahnya ialah kerana penduduk tempatan yang ada flat kat situ tu, yalah dia orang bukan beli. Dia tak mampu beli pun ke apa semua kan. Tapi sebab penduduk tempatan yang asalnya memiliki ataupun dulu bila bagi-bagi flat kos rendah ni untuk orang beli, yang dapat pun bukannya miskin sangat, orang kaya, orang berpendapatan. Jadi dia gunakan ni sebagai pelaburan. Jadi dia bagi sewa. Dia tak duk kat situ. Jadi yang kesiannya ialah yang 30% yang memang betul-betul beli orang susah, orang tempatan duduk kat situ. They have to put up with it. Saya bertahun juga tau cuba selesaikan dan memang tak selesai. Contohnya, kita cubalah aa berurusan dengan pihak polis. Tapi berapa kali sangat pihak polis nak kena round kat situ. Ya, ya. Dan orang-orang yang duduk kat situ pun dia lama-lama jadi takut, terutamanya yang wanita. Dia jadi takut tau dia nak keluar pergi kereta semua kan, sebab dia orang kadang-kadang ugut depan je. Ha kan. Kemudian akhirnya kita cubalah untuk susun supaya ada maksudnya gotong-royong sesama penduduk kat situ. Tapi itu bukan solution dialah kerana kalaupun kita pergi letak pondok satu, every now and then polis datang, kemudian they take turns. Tapi, you know, nobody should, should, should feel insecure or unsafe dekat kawasan dia sampai dia kena, kena buat apa nama ni, security round kan. So, dan orang tempatan yang bagi sewa tu. Sebab itu salah satu perkara yang, yang kita nak buat dulu an- Akta Anti Alibaba. Rent seeking. Sebahagiannya an- Anti Rent Seeking Act tu sebahagiannya juga ialah untuk mengendalikan perkara-perkara macam inilah. Supaya kalau contohnya rumah itu asalnya dahulu ialah rumah kos rendah. Dan ada syarat dia tak boleh bagi sewa kepada orang lain kan. Kalau dia bagi sewa, maka dia itu menyalahi di sisi undang-undang. Sama juga contohnya, orang Malaysia memberikan nama dia untuk buka bank akaun, untuk buat lesen perniagaan, untuk menyewa kedai. Tiap-tiap bulan dia dapat 3 4000 ringgit sebulan, tapi tuan punya dan business itu jadi bis- business orang asing. Baik Bangladesh ke, baik mana-manalah. Itu berlaku di mana-mana sekarang ini kan. Tapi sebenarnya tak ada akta tau. Sebab itu kita nak buat Akta Alibaba yang entah ke manalah sekarang kan. Dia dah masuk gua ke apa semua lah. Masuk gua memang tak posi- positif ke waktu YB bawa tu? Tak, memang dia mendapat tentangan. Ha, jadi saya tak nak, aku ber- kau tahulah aku berkeras kan. Aku tak nak, tak nak matikan benda tu kan. Jadi kita terpaksa buy time lah. Masa tu tak. Kita mula-mula bawa ra- kerangka mengenai Akta Alibaba ni tahun 2023. So I was hoping lah, okeylah mungkin tenang sikit 2026 aku boleh bawa balik. Rupanya 2026 aku dah menganggur. Tak terfikir. Timeline dia sebenarnya 2025 lepas kita dah habiskan Rancangan Malaysia ke-13 dan kita masukkan di dalam RMK tu Akta Alibaba. Ada masuk tau. Ha, then maksudnya kerajaan telah pun bersetuju untuk melaksanakan Akta Alibaba dan we can push it lah. Tapi tak apa, itu belakang kira cerita lain lah. Coming back to this kan. So, isu-isu ini dia menjadi isu ialah kerana bila komuniti itu telah menjadi besar dan memang betul masalah sosial tu real. Masalah jenayah itu real. Dia bukan yang dibuat-buat tau, kan? Jadi, kita tak boleh nak nak nak nak nak pass judgment semata-mata kerana ah ini kita punya international standard ke apa semua kan. Baik. Now kita dah sembang semua ni, kita belum lagi menjawab kenapa jadi macam ini?
+[1:36:15] Haziq: Bukan PPR.
+
+[1:36:18] Rafizi: Itu mungkin, actually you are right. Cuma I tak pasti. I don't think is officially PPR.
+
+[1:36:26] Haziq: Ha, yalah flat ni lah kos rendah yang.
+
+[1:36:28] Rafizi: Dia orang dah beli. Dia orang dah beli semua dan dia bagi sewa kan.
+
+[1:36:33] Haziq: Bagi sewa.
+
+[1:36:33] Rafizi: Ha, dia bagi sewa. Itu pun masalahnya ialah kerana penduduk tempatan yang ada flat kat situ tu, yalah dia orang bukan beli. Dia tak mampu beli pun ke apa semua kan. Tapi sebab penduduk tempatan yang asalnya memiliki ataupun dulu bila bagi-bagi flat kos rendah ni untuk orang beli, yang dapat pun bukannya miskin sangat, orang kaya, orang berpendapatan. Jadi dia gunakan ni sebagai pelaburan. Jadi dia bagi sewa. Dia tak duk kat situ. Jadi yang kesiannya ialah yang 30% yang memang betul-betul beli orang susah, orang tempatan duduk kat situ. They have to put up with it. Saya bertahun juga tau cuba selesaikan dan memang tak selesai. Contohnya, kita cubalah aa berurusan dengan pihak polis. Tapi berapa kali sangat pihak polis nak kena round kat situ.
+
+[1:37:28] Haziq: Ya, ya.
+
+[1:37:29] Rafizi: Dan orang-orang yang duduk kat situ pun dia lama-lama jadi takut, terutamanya yang wanita. Dia jadi takut tau dia nak keluar pergi kereta semua kan, sebab dia orang kadang-kadang ugut depan je. Ha kan. Kemudian akhirnya kita cubalah untuk susun supaya ada maksudnya gotong-royong sesama penduduk kat situ. Tapi itu bukan solution dialah kerana kalaupun kita pergi letak pondok satu, every now and then polis datang, kemudian they take turns. Tapi, you know, nobody should, should, should feel insecure or unsafe dekat kawasan dia sampai dia kena, kena buat apa nama ni, security round kan. So, dan orang tempatan yang bagi sewa tu. Sebab itu salah satu perkara yang, yang kita nak buat dulu an- Akta Anti Alibaba.
+
+[1:38:29] Haziq: Rent seeking.
+
+[1:38:29] Rafizi: Sebahagiannya an- Anti Rent Seeking Act tu sebahagiannya juga ialah untuk mengendalikan perkara-perkara macam inilah. Supaya kalau contohnya rumah itu asalnya dahulu ialah rumah kos rendah. Dan ada syarat dia tak boleh bagi sewa kepada orang lain kan. Kalau dia bagi sewa, maka dia itu menyalahi di sisi undang-undang. Sama juga contohnya, orang Malaysia memberikan nama dia untuk buka bank akaun, untuk buat lesen perniagaan, untuk menyewa kedai. Tiap-tiap bulan dia dapat 3 4000 ringgit sebulan, tapi tuan punya dan business itu jadi bis- business orang asing. Baik Bangladesh ke, baik mana-manalah. Itu berlaku di mana-mana sekarang ini kan. Tapi sebenarnya tak ada akta tau. Sebab itu kita nak buat Akta Alibaba yang entah ke manalah sekarang kan. Dia dah masuk gua ke apa semua lah.
+
+[1:39:25] Haziq: Masuk gua memang tak posi- positif ke waktu YB bawa tu?
+
+[1:39:28] Rafizi: Tak, memang dia mendapat tentangan. Ha, jadi saya tak nak, aku ber- kau tahulah aku berkeras kan. Aku tak nak, tak nak matikan benda tu kan. Jadi kita terpaksa buy time lah. Masa tu tak. Kita mula-mula bawa ra- kerangka mengenai Akta Alibaba ni tahun 2023. So I was hoping lah, okeylah mungkin tenang sikit 2026 aku boleh bawa balik. Rupanya 2026 aku dah menganggur. Tak terfikir. Timeline dia sebenarnya 2025 lepas kita dah habiskan Rancangan Malaysia ke-13 dan kita masukkan di dalam RMK tu Akta Alibaba. Ada masuk tau. Ha, then maksudnya kerajaan telah pun bersetuju untuk melaksanakan Akta Alibaba dan we can push it lah. Tapi tak apa, itu belakang kira cerita lain lah. Coming back to this kan. So, isu-isu ini dia menjadi isu ialah kerana bila komuniti itu telah menjadi besar dan memang betul masalah sosial tu real. Masalah jenayah itu real. Dia bukan yang dibuat-buat tau, kan? Jadi, kita tak boleh nak nak nak nak nak pass judgment semata-mata kerana ah ini kita punya international standard ke apa semua kan. Baik. Now kita dah sembang semua ni, kita belum lagi menjawab kenapa jadi macam ini?
 
 [1:41:02] Farhan (Pa'an): Actually, saya pun tertanya-tanya juga tau apa punca tiba-tiba ada this wave of kemarahan over the last one or two weeks ni.
 
@@ -297,17 +671,21 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [1:41:16] Farhan (Pa'an): Saya, saya pun tak tahu. Saya tak tahu what's the spark.
 
-[1:41:19] Rafizi: Satu yang jumpa rumah aa dekat apa ni, dekat Hulu Langat tu lah. Flat Tengkali tu. Tapi ha, tapi yang itu kemudian apa yang spark dia?
+[1:41:19] Rafizi: Satu yang jumpa rumah aa dekat apa ni, dekat Hulu
+
+[1:41:23] Farhan (Pa'an): Langat tu lah. Flat Tengkali tu.
+
+[1:41:25] Rafizi: Tapi ha, tapi yang itu kemudian apa yang spark dia?
 
 [1:41:29] Haziq: Dia ada, dia ada banyak berlaku secara serentak. Aa orang bergaduh dalam Grab lah.
 
 [1:41:35] Rafizi: Yang mana yang tampar tu? Yang tampar isteri tu?
 
-[1:41:38] Haziq: Tampar wife real.
+[1:41:38] Farhan (Pa'an): Tampar wife real.
 
-[1:41:38] Rafizi: Ha tampar isteri tu.
+[1:41:38] Rafizi: Ha tampar isteri tu. Okey.
 
-[1:41:40] Haziq: Okey. Dan saya rasa apa tindakan orang kita sendiri. Contoh tiba-tiba kau kejar budak-budak tu yang tak-
+[1:41:41] Haziq: Dan saya rasa apa tindakan orang kita sendiri. Contoh tiba-tiba kau kejar budak-budak tu yang tak-
 
 [1:41:49] Rafizi: Tak, tapi itu mesti selepas dia dah meletuplah. So apa yang sparknya?
 
@@ -317,25 +695,27 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [1:42:13] Haziq: Tapi dia bercakap tentang Rohingya lah dan nak saya rasa benda tu dah dari tahun lepas lagi dah ada.
 
-[1:42:18] Rafizi: So sebenarnya kita tak boleh trace pun what is the spark. Not that I. Selalunya kalau ada jadi kalau contohnya lah pasal arwah Zara dulu kan. Ya, ya. Dia ada yalah dia ada spark dia. Tapi yang ini actually betullah. I tak adalah aku ni jenis yang tiap-tiap hari check something apa-apa kan. Chronically online kot.
+[1:42:18] Rafizi: So sebenarnya kita tak boleh trace pun what is the spark. Not that I. Selalunya kalau ada jadi kalau contohnya lah pasal arwah Zara dulu kan. Ya, ya. Dia ada yalah dia ada spark dia. Tapi yang ini actually betullah. I tak adalah aku ni jenis yang tiap-tiap hari check something apa-apa kan.
+
+[1:42:40] Farhan (Pa'an): Chronically online kot.
 
 [1:42:41] Haziq: Ke dia ticking bomb sebenarnya. Dia nak bom dia meletup, dia meletup lah.
 
-[1:42:45] Rafizi: Benda ni tak pernah berlaku dalam sebarang podcast sebelum ini. Aku nak pergi kencing.
+[1:42:46] Rafizi: Benda ni tak pernah berlaku dalam sebarang podcast sebelum ini. Aku nak pergi kencing.
 
 [1:42:53] Haziq: Sebelum ni wangi bercencong lah.
 
-[1:42:56] Rafizi: Pernah kan? Wangi bercencong pergi toilet.
+[1:42:56] Rafizi: Pernah kan? Wangi bercencong pergi toilet. Wangi toilet. So kau nak buat apa? Aku pergi kencing jap 2 3 minit, kau sembang jap boleh tak?
 
-[1:42:58] Haziq: Wangi toilet.
+[1:43:02] Haziq: Ha, bolehlah.
 
-[1:42:58] Rafizi: So kau nak buat apa? Aku pergi kencing jap 2 3 minit, kau sembang jap boleh tak?
+[1:43:03] Rafizi: Sebab betul. Sejuk korang dah kurangkan, tapi aku dah makin tua kot. So aku lepas 2 jam ni aku kena pergi kencing.
 
-[1:43:02] Haziq: Ha, bolehlah. Sebab betul.
+[1:43:11] Haziq: Takut apa video jatuhlah.
 
-[1:43:04] Rafizi: Sejuk korang dah kurangkan, tapi aku dah makin tua kot. So aku lepas 2 jam ni aku kena pergi kencing. Takut apa video jatuhlah. Tahan eh. Tunggu, tunggu, tunggu, tunggu, tunggu. Eh, saya kena pergi toilet tapi korang tahan. Ha, tengok sama ada Pa'an dengan Hazi berjaya mengekalkan. Sekejap je lah. Sekejap tak lama. Sekejap tak lama. Wah.
+[1:43:13] Rafizi: Tahan eh. Tunggu, tunggu, tunggu, tunggu, tunggu. Eh, saya kena pergi toilet tapi korang tahan. Ha, tengok sama ada Pa'an dengan Hazi berjaya mengekalkan. Sekejap je lah. Sekejap tak lama. Sekejap tak lama.
 
-[1:43:29] Haziq: Nampaknya Pa'an, aa YB Rafizi, saudara Rafizi dapat undi dua-dua belah lah eh pada malam ni. Sebab dua-dua dia sentuh eh.
+[1:43:26] Haziq: Wah. Nampaknya Pa'an, aa YB Rafizi, saudara Rafizi dapat undi dua-dua belah lah eh pada malam ni. Sebab dua-dua dia sentuh eh.
 
 [1:43:38] Farhan (Pa'an): Ha, itulah. Tapi saya pun secara jujur saya tak tahu tau actually apa sebenarnya spark recent kemarahan pasal Rohingya ni.
 
@@ -345,7 +725,11 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [1:44:17] Haziq: Sama dua-dua. Dia awal a- yalah dua-dua tu betullah. So maksudnya orang dah, dia dah perasan, eh ini sebenarnya masalah ni. Tapi mungkin yalah dia simpan dulu semua. So sekali bila ada satu dua benda yang berlaku, eh betullah ini memang masalah dan semua orang understand very well the problem. Aceh.
 
-[1:44:42] Farhan (Pa'an): Lama juga YB kerja. YB cepatlah kembali semula. No, but no, see that's the thing. What was the spark? Because the kemarahan kemuncak dia the last 2 weeks tau. The last 2 weeks I, I think was when people really started going out and that's when ada orang kita bergaduh pasal humanitarian tak humanitarian. Ada yang kata Bangsa Baba lah, Diba lah, apa duduk kat rumah kau lah, apa semua tu kan. So we're not, I mean, personally I am not sure what sparked it. Trying to trace back apa yang aku ingat memang betullah kau cakap, which is the kes pukul isteri.
+[1:44:42] Farhan (Pa'an): Lama juga YB kerja.
+
+[1:44:44] Haziq: YB cepatlah kembali semula.
+
+[1:44:46] Farhan (Pa'an): No, but no, see that's the thing. What was the spark? Because the kemarahan kemuncak dia the last 2 weeks tau. The last 2 weeks I, I think was when people really started going out and that's when ada orang kita bergaduh pasal humanitarian tak humanitarian. Ada yang kata Bangsa Baba lah, Diba lah, apa duduk kat rumah kau lah, apa semua tu kan. So we're not, I mean, personally I am not sure what sparked it. Trying to trace back apa yang aku ingat memang betullah kau cakap, which is the kes pukul isteri.
 
 [1:45:27] Haziq: Okey, viewers masuk balik, masuk balik. I think viewers pun kencing. Ha, viewers pun kencing. Lama oi main 3 jam.
 
@@ -353,23 +737,51 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [1:46:18] Haziq: Soalan yang menarik.
 
-[1:46:19] Rafizi: Kan aku dah tanya engkau, aku dah bagi tip dulu. Tadi. Kau kena tanya, ha actually apa? Apa? Dia orang tanya kau soalan, kau tanya balik soalan kan? Kenapa jadi macam ni sebenarnya? Sebab actually kalau kita tanya dasar kerajaan lah, sebenarnya apa dasar kerajaan? Tak ada. Biar je lah, organik. Ingat tak dulu masa kita kat Kementerian Pa'an kan? Antara satu perkara dalam poskap kabinet ke dalam kabinet pun, saya ulang berkali-kali bahawa pendirian dan juga dasar dan aa tindakan kerajaan mengenai pelarian Rohingya ni, kita kena buat keputusan. Jangan lengah-lengahkan. I know dan benda itu mendesak bagi saya kerana memang ada penempatan Rohingya yang tinggi di Pandan. So I face this every week, every month. Cuma bila nak penguatkuasaan, Kalau polis tangkap dia and then dia tunjuk kad UNHCR kan. Polis pun letak dia dalam lokap. Lepas tu kau fikir kan poliasser kan, masuk dalam sistem undang-undang kita. Ya Allah, you nak dakwa dia ke you nak kecuali itu jenayah yang besarlah, membunuh ke apa kan. Tapi atas dasar dia pelarian, you nak tangkap dia, you letak lokap pun tak ke mana. Sebab lepas tu memang they are stateless. Dia tidak, tidak and then kalau dia pergi ke Reman dekat Sungai Buloh. Kemudian 2 3 tahun, dia menambahkan pula beban dalam sistem penjara. Hantar dia ke immigration. Pun menambah beban kepada sistem kita. Kerana setiap seorang yang duduk di dalam pusat tahanan immigration tu, kita kena bayar makan, kita kena bayar minum semua kan? Ada daily cost tau kan. Kemudian yang kanak-kanak, kalau kita tangkap, pisahkan dia dengan ibu bapa dia, letak dia ke dalam immigration, tahanan immigration, dalam keadaan yang kita tahu kita tak boleh repatriate dia. Ya. Kita tak boleh hantar dia balik. So it's a strain to the system. Jadi memang satu perkara yang saya selalu bawa kat di peringkat kementerian. We need to find a solution dan juga kerajaan kena buat keputusan. Sebenarnya kerajaan tak ada keputusan. Daripada tahun 2015, awal aa bila ada kemasukan besar-besaran ni kan. Kerajaan tak ada keputusan. Dia ada 2 perkara yang 1 itu tidak perlukan keputusan. Yang tak perlukan keputusan ialah tentang kelemahan kita aa memerangi sindiket pemerdagangan manusia. Yang itu memang there's no excuse. Dan dia bukan soal Rohingya saja. Dia soal sesiapa sahaja yang membolosi sempadan kita dan masuk secara haram ke Malaysia lah. Yang itu, yalah. Terpulang kepada rakyatlah nak tengok sama ada kita betul-betul serius ataupun tidak kan? Dan apakah yang sedang dilaksanakan sekarang ini adalah aa berkesan ataupun tidak. The judge is out there. Rakyat akan tentukan. Yang itu tidak perlukan keputusan. Itu memang dah ada keputusan. Tak boleh. Tak boleh. Kita kena perangi sindiket. Aa cuma sejauh mana kita menumpukan seluruh aa tenaga dan juga fokus negara untuk memerangi jenayah sindiket pemerdagangan manusia ni. You know, it's it's up to the public to decide lah. Tapi yang satu lagi ialah apa status, dasar, layanan yang kita nak buat dengan yang memang pelarian, terutamanya kalau dia ada kad UNHCR. What do you do? You cannot send them back.
+[1:46:19] Rafizi: Kan aku dah tanya engkau, aku dah bagi tip dulu. Tadi. Kau kena tanya, ha actually apa? Apa? Dia orang tanya kau soalan, kau tanya balik soalan kan? Kenapa jadi macam ni sebenarnya? Sebab actually kalau kita tanya dasar kerajaan lah, sebenarnya apa dasar kerajaan?
+
+[1:46:41] Haziq: Tak ada. Biar je lah, organik.
+
+[1:46:44] Rafizi: Ingat tak dulu masa kita kat Kementerian Pa'an kan? Antara satu perkara dalam poskap kabinet ke dalam kabinet pun, saya ulang berkali-kali bahawa pendirian dan juga dasar dan aa tindakan kerajaan mengenai pelarian Rohingya ni, kita kena buat keputusan. Jangan lengah-lengahkan. I know dan benda itu mendesak bagi saya kerana memang ada penempatan Rohingya yang tinggi di Pandan. So I face this every week, every month. Cuma bila nak penguatkuasaan, Kalau polis tangkap dia and then dia tunjuk kad UNHCR kan. Polis pun letak dia dalam lokap. Lepas tu kau fikir kan poliasser kan, masuk dalam sistem undang-undang kita. Ya Allah, you nak dakwa dia ke you nak kecuali itu jenayah yang besarlah, membunuh ke apa kan. Tapi atas dasar dia pelarian, you nak tangkap dia, you letak lokap pun tak ke mana. Sebab lepas tu memang they are stateless. Dia tidak, tidak and then kalau dia pergi ke Reman dekat Sungai Buloh. Kemudian 2 3 tahun, dia menambahkan pula beban dalam sistem penjara. Hantar dia ke immigration. Pun menambah beban kepada sistem kita. Kerana setiap seorang yang duduk di dalam pusat tahanan immigration tu, kita kena bayar makan, kita kena bayar minum semua kan? Ada daily cost tau kan. Kemudian yang kanak-kanak, kalau kita tangkap, pisahkan dia dengan ibu bapa dia, letak dia ke dalam immigration, tahanan immigration, dalam keadaan yang kita tahu kita tak boleh repatriate dia. Ya. Kita tak boleh hantar dia balik. So it's a strain to the system. Jadi memang satu perkara yang saya selalu bawa kat di peringkat kementerian. We need to find a solution dan juga kerajaan kena buat keputusan. Sebenarnya kerajaan tak ada keputusan. Daripada tahun 2015, awal aa bila ada kemasukan besar-besaran ni kan. Kerajaan tak ada keputusan. Dia ada 2 perkara yang 1 itu tidak perlukan keputusan. Yang tak perlukan keputusan ialah tentang kelemahan kita aa memerangi sindiket pemerdagangan manusia. Yang itu memang there's no excuse. Dan dia bukan soal Rohingya saja. Dia soal sesiapa sahaja yang membolosi sempadan kita dan masuk secara haram ke Malaysia lah. Yang itu, yalah. Terpulang kepada rakyatlah nak tengok sama ada kita betul-betul serius ataupun tidak kan? Dan apakah yang sedang dilaksanakan sekarang ini adalah aa berkesan ataupun tidak. The judge is out there. Rakyat akan tentukan. Yang itu tidak perlukan keputusan. Itu memang dah ada keputusan. Tak boleh. Tak boleh. Kita kena perangi sindiket. Aa cuma sejauh mana kita menumpukan seluruh aa tenaga dan juga fokus negara untuk memerangi jenayah sindiket pemerdagangan manusia ni. You know, it's it's up to the public to decide lah. Tapi yang satu lagi ialah apa status, dasar, layanan yang kita nak buat dengan yang memang pelarian, terutamanya kalau dia ada kad UNHCR. What do you do? You cannot send them back.
 
 [1:50:21] Haziq: Kita berdamai dengan takdir aa dan maybe give them some template aa apa yang diorang perlu buat semua.
 
-[1:50:30] Rafizi: Senang kau cakap kau bukan Prime Minister. Kau dan bukan, dan bukan, bukan perlu ke mendapatkan undi kan. Jadi sebenarnya... kelemahan itu sebahagiannya kelemahan kitalah. Maksudnya kita tu termasuklah saya, ahli politik kan. Kerana macam saya tidak berjaya untuk terus menekan kerajaan untuk mengambil, perlu ada satu pelan tindakan yang menyeluruh kan. Dan dan bila kita nak selesaikan masalah yang rumit begini, dia tak ada jalan popular lah. Ada beberapa keputusan itu yang memang tidak popular. Contohnya, kalau kita nak menerima, maksudnya kita perlu mula membina satu kerangka undang-undang untuk menangani kumpulan seperti ini. Tanpa kita menandatangani ataupun melalui ratifikasi konvensyen pelarian. Sebab konvensyen pelarian tu mungkin terlalu berat untuk kita. Tapi nak tak nak kita masih lagi we need to document them. We need to know how many of them are around. Kita masih lagi ada tanggungjawab kemanusiaan. Dan kalaupun kita boleh, boleh tolak tepi, aku tak kisah budak-budak ni ke apa jadi, aku suka diorang. Itu yang ada orang pergi pukul and kejar budak-budak Rohingya balik sekolah. I mean what, why? Kan? Apa jenis manusia macam ini kan? I mean, I, I don't understand macam mana masyarakat kita boleh sampai ke peringkat kejar budak. Kan? Marah okey lagilah. Pergi kejar pukul. Ha, dah nak pukul. Dah nak pukul. Especially kalau budak tu balik sekolah kan. Okay. Then, then we still have even a selfish interest to manage to know where they are, to document them, and then paling kurang memastikan that they have basic education. Kalaupun tidak mengikut apa nama ni sistem pendidikan negara, then they should be allowed to run their own school. Sebab the alternative is worse for us. The alternative yang anak-anak kecil ini lahir di sini and they have nowhere else to go, untuk mereka buta huruf, mereka tak tahu, tak ada pendidikan asas semua. Kesan and it's no longer unintended consequences tau. It's a direct consequence of lack of basic education. Obviously, memang akan men- kebarangkalian mereka terjebak dalam jenayah tu tinggi lah. So even if kalau kita tidak ada kemanusiaan, naluri belas ihsan kan, actually it is for the sake of managing the direct consequence of the lack of education that we must at least allow kan? So itu yang berlaku di Terengganu, kan ada satu, satu apa nama ni, premis yang digunakan oleh satu NGO untuk menyediakan khidmat persekolahan untuk anak-anak Rohingya, kan? Dan saya pernah jumpa dan kenal beberapa pimpinan masyarakat yang Rohingya yang cuba nak menyediakan sekolah semua ni kan. I mean, ni masalah dia dia bad apples. Ada sebenarnya yang yang nak yang jahat dan juga yang ya yang melakukan jenayah ni kan. Tapi yalah ada juga di kalangan yang memang betul-betul alim, baik. I mean, mereka tak ada status apa-apa. They are stateless. Jadi they have to self-organize among themselves lah. Sebab itu, selagi kita tak document and a- and figure out what exactly is the legal framework for them. So kalau ada legal framework for them, then lebih senang untuk kita manage them legal. Dan daripada itulah, then we have to to go through that very difficult way forward lah. Contohnya basic education tu macam mana? Basic health tu macam mana? Employability diorang macam mana? Kan. There are two sides of the stories lah. Ada je banyak sebenarnya NGO dan think tank dan juga human rights organizations yang cuba quantify kalau mereka ini exist in a domestic legal framework and therefore there are the do's and don'ts yang provide clarity kepada mereka mengenai ekonomi. Dia boleh bekerja, maksudnya dia bayar cukai. And so on kan. Of course there is no definitive quantification sebab kita pun tak tahu ramai mana dia orang ada kat sini. Kita pun tak tahu sebenarnya actually dia orang buat kerja apa. Kan? Actually they just lost in the system kan. Jadi sebab itulah untuk tidak memanjangkan perkara ini dan mengelakkan aku pergi toilet untuk kali kedua kan. Pandangan saya ialah ini adalah kerana dia cerminan sebenarnya ahli politik dan kerajaan yang ada, bukan saja yang ada sekarang ni dan yang lepas-lepas pun. Orang kita kalau benda tu rumit, dia tak nak pergi dekat. And I mean kita berharap orang-orang politik semua yang besar-besar, pembesar negara semua ni kan, dia berharap masalah ini selesai dengan sendiri. It is not, it is not going to resolve by itself. We have to accept there are about 230,000 Myanmaris di Malaysia, about 130,000 Rohingya. Ya. And they are just floating around. And and bila jabatan kerajaan, pihak berkuasa, penguatkuasa, polis semua tidak ada clarity, tidak ada kejelasan tentang apa kerangka undang-undang, sebab ahli politik dan pimpinan di atas tak nak buat keputusan, takut orang marah, then dia nak buat macam mana? Dia tangkap, dia lepas. Dia marah sekejap, dia round sekejap. Tapi benda itu lama-lama dia almost bila dia dah jadi aa satu komuniti yang besar, it becomes lawless. Kan? Jadi dia mesti bermula daripada itu. Dan yalah kita I hope to see more people basically pushing the government dan juga masyarakat. Satu, to bring masyarakat punya pemahaman mengenai segala ni lah. Kedua ialah basically to to get some landing and to get some progress. Sebab lama mana kita nak procrastinate ni? Ha, ini yang berlaku sekarang ni ialah kerana kita dah procrastinate lamalah.
+[1:50:30] Rafizi: Senang kau cakap kau bukan Prime Minister. Kau dan bukan, dan bukan, bukan perlu ke mendapatkan undi kan. Jadi sebenarnya... kelemahan itu sebahagiannya kelemahan kitalah. Maksudnya kita tu termasuklah saya, ahli politik kan. Kerana macam saya tidak berjaya untuk terus menekan kerajaan untuk mengambil, perlu ada satu pelan tindakan yang menyeluruh kan. Dan dan bila kita nak selesaikan masalah yang rumit begini, dia tak ada jalan popular lah. Ada beberapa keputusan itu yang memang tidak popular. Contohnya, kalau kita nak menerima, maksudnya kita perlu mula membina satu kerangka undang-undang untuk menangani kumpulan seperti ini. Tanpa kita menandatangani ataupun melalui ratifikasi konvensyen pelarian. Sebab konvensyen pelarian tu mungkin terlalu berat untuk kita. Tapi nak tak nak kita masih lagi we need to document them. We need to know how many of them are around. Kita masih lagi ada tanggungjawab kemanusiaan. Dan kalaupun kita boleh, boleh tolak tepi, aku tak kisah budak-budak ni ke apa jadi, aku suka diorang. Itu yang ada orang pergi pukul and kejar budak-budak Rohingya balik sekolah. I mean what, why? Kan? Apa jenis manusia macam ini kan? I mean, I, I don't understand macam mana masyarakat kita boleh sampai ke peringkat kejar budak. Kan? Marah okey lagilah. Pergi kejar pukul.
 
-[1:58:11] Haziq: Tapi mungkin akan ada yang tak puas hati juga dengan. Memang takkan ada orang puas hatilah.
+[1:52:23] Haziq: Ha, dah nak pukul.
 
-[1:58:16] Rafizi: Saya saya nak pakai tin foil hat kejap je.
+[1:52:24] Rafizi: Dah nak pukul. Especially kalau budak tu balik sekolah kan. Okay. Then, then we still have even a selfish interest to manage to know where they are, to document them, and then paling kurang memastikan that they have basic education. Kalaupun tidak mengikut apa nama ni sistem pendidikan negara, then they should be allowed to run their own school. Sebab the alternative is worse for us. The alternative yang anak-anak kecil ini lahir di sini and they have nowhere else to go, untuk mereka buta huruf, mereka tak tahu, tak ada pendidikan asas semua. Kesan and it's no longer unintended consequences tau. It's a direct consequence of lack of basic education. Obviously, memang akan men- kebarangkalian mereka terjebak dalam jenayah tu tinggi lah. So even if kalau kita tidak ada kemanusiaan, naluri belas ihsan kan, actually it is for the sake of managing the direct consequence of the lack of education that we must at least allow kan? So itu yang berlaku di Terengganu, kan ada satu, satu apa nama ni, premis yang digunakan oleh satu NGO untuk menyediakan khidmat persekolahan untuk anak-anak Rohingya, kan? Dan saya pernah jumpa dan kenal beberapa pimpinan masyarakat yang Rohingya yang cuba nak menyediakan sekolah semua ni kan. I mean, ni masalah dia dia bad apples. Ada sebenarnya yang yang nak yang jahat dan juga yang ya yang melakukan jenayah ni kan. Tapi yalah ada juga di kalangan yang memang betul-betul alim, baik. I mean, mereka tak ada status apa-apa. They are stateless. Jadi they have to self-organize among themselves lah. Sebab itu, selagi kita tak document and a- and figure out what exactly is the legal framework for them. So kalau ada legal framework for them, then lebih senang untuk kita manage them legal. Dan daripada itulah, then we have to to go through that very difficult way forward lah. Contohnya basic education tu macam mana? Basic health tu macam mana? Employability diorang macam mana? Kan. There are two sides of the stories lah. Ada je banyak sebenarnya NGO dan think tank dan juga human rights organizations yang cuba quantify kalau mereka ini exist in a domestic legal framework and therefore there are the do's and don'ts yang provide clarity kepada mereka mengenai ekonomi. Dia boleh bekerja, maksudnya dia bayar cukai. And so on kan. Of course there is no definitive quantification sebab kita pun tak tahu ramai mana dia orang ada kat sini. Kita pun tak tahu sebenarnya actually dia orang buat kerja apa. Kan? Actually they just lost in the system kan. Jadi sebab itulah untuk tidak memanjangkan perkara ini dan mengelakkan aku pergi toilet untuk kali kedua kan. Pandangan saya ialah ini adalah kerana dia cerminan sebenarnya ahli politik dan kerajaan yang ada, bukan saja yang ada sekarang ni dan yang lepas-lepas pun. Orang kita kalau benda tu rumit, dia tak nak pergi dekat. And I mean kita berharap orang-orang politik semua yang besar-besar, pembesar negara semua ni kan, dia berharap masalah ini selesai dengan sendiri. It is not, it is not going to resolve by itself. We have to accept there are about 230,000 Myanmaris di Malaysia, about 130,000 Rohingya. Ya. And they are just floating around. And and bila jabatan kerajaan, pihak berkuasa, penguatkuasa, polis semua tidak ada clarity, tidak ada kejelasan tentang apa kerangka undang-undang, sebab ahli politik dan pimpinan di atas tak nak buat keputusan, takut orang marah, then dia nak buat macam mana? Dia tangkap, dia lepas. Dia marah sekejap, dia round sekejap. Tapi benda itu lama-lama dia almost bila dia dah jadi aa satu komuniti yang besar, it becomes lawless. Kan? Jadi dia mesti bermula daripada itu. Dan yalah kita I hope to see more people basically pushing the government dan juga masyarakat. Satu, to bring masyarakat punya pemahaman mengenai segala ni lah. Kedua ialah basically to to get some landing and to get some progress. Sebab lama mana kita nak procrastinate ni? Ha, ini yang berlaku sekarang ni ialah kerana kita dah procrastinate lamalah.
 
-[1:58:18] Farhan (Pa'an): Tin foil hat maksudnya? Tin foil conspiracy theories. Oh, okey. Migrant and refugee crisis is one of the biggest push factors untuk the rise of right-wing ideologies di Europe. And we've seen that over the last what, 5 years, 10 years?
+[1:58:11] Haziq: Tapi mungkin akan ada yang tak puas hati juga dengan.
+
+[1:58:14] Rafizi: Memang takkan ada orang puas hatilah.
+
+[1:58:16] Farhan (Pa'an): Saya saya nak pakai tin foil hat kejap je.
+
+[1:58:18] Rafizi: Tin foil hat maksudnya?
+
+[1:58:19] Farhan (Pa'an): Tin foil conspiracy theories.
+
+[1:58:21] Rafizi: Oh, okey.
+
+[1:58:23] Farhan (Pa'an): Migrant and refugee crisis is one of the biggest push factors untuk the rise of right-wing ideologies di Europe. And we've seen that over the last what, 5 years, 10 years?
 
 [1:58:38] Rafizi: More, even longer. Even masa saya di UK tu pun bibit-bibit tu dah mula ada lah, British National Party semualah.
 
 [1:58:48] Farhan (Pa'an): Ni tin foil hat ni dipasangkan sebab kita tak boleh pinpoint exactly and the timing seems off.
 
-[1:58:55] Rafizi: Saya ada, I I have slightly different different view lah kan. Saya tak rasa, Malaysia ni is so significant internationally that apa nama ni perlu dia menjadi tumpuan kepada conspiracy. Then the fact that kita tak boleh pinpoint tu maksudnya benda ini dah dah dah bernanah lama di bawah. Sebenarnya orang tahan saja tau. Dan cuma yalah sebab kita sekarang ada sosial media, netizen semua, dan memang always ada tendency kepada xenophobia, kepada right wing. Dia benda-benda macam ini bila dia dah lama observation and kerajaan pun tak ada clarity. Jadi dia cepat meletup kan. So I I think more because of the procrast- Procrastination. Procrastination. Ah, dan kerajaan pun tak. Saya ingat eh. Ah, mungkinlah yang mendengar kan, mungkin ini antara perbincangan paling lama dan paling dalam mengenai keadaan pelarian Rohingya. Asal usul dia, apa isu dia semua kan. Dan kita pun nak kena weigh semua. Jadi saya sebenarnya tak adalah nak kata mesti berlaku 1, 2, 3, 4. Sebab contohnya kita nak kena quantify semua. Kita nak kena balance ni. Contohnya kan, the strain on healthcare system. Ya. Sama mungkin di kawasan lain orang tak tak merasalah. Saya bekas ahli parlimen kan Pandan. Hospital Ampang tu dalam parlimen saya. Jadi beberapa kali saya pergilah melawat wad bersalin kan. At any one point, easily 30 to 40% adalah pelarian Rohingya. And they are the strain on our system sebenarnya kan. Kalau kita jadi doktor ataupun kita jadi jururawat kan, kita we are duty bound to treat everyone. Tapi bets itu are taken by by Rohingya in disproportionate number berbanding dengan dengan pesakit tempatan lah. Tu satu kan. Keduanya pula ialah contohnya the financially the strain on healthcare. Ini di satu hospital. Kalau dia tak boleh bayar. Yes, yes, yes. Kalau dia ada UNHCR card, dia dapat diskaun 50% daripada foreigner. Bill foreigner kan. Tapi kalau dia tak ada, dia kena bayar, bayar full kan. Full. Tapi kalau dia tak boleh bayar? What do you do? Kan?
+[1:58:55] Rafizi: Saya ada, I I have slightly different different view lah kan. Saya tak rasa, Malaysia ni is so significant internationally that apa nama ni perlu dia menjadi tumpuan kepada conspiracy. Then the fact that kita tak boleh pinpoint tu maksudnya benda ini dah dah dah bernanah lama di bawah. Sebenarnya orang tahan saja tau. Dan cuma yalah sebab kita sekarang ada sosial media, netizen semua, dan memang always ada tendency kepada xenophobia, kepada right wing. Dia benda-benda macam ini bila dia dah lama observation and kerajaan pun tak ada clarity. Jadi dia cepat meletup kan. So I I think more because of the procrast- Procrastination.
+
+[2:00:00] Haziq: Procrastination.
+
+[2:00:01] Rafizi: Ah, dan kerajaan pun tak. Saya ingat eh. Ah, mungkinlah yang mendengar kan, mungkin ini antara perbincangan paling lama dan paling dalam mengenai keadaan pelarian Rohingya. Asal usul dia, apa isu dia semua kan. Dan kita pun nak kena weigh semua. Jadi saya sebenarnya tak adalah nak kata mesti berlaku 1, 2, 3, 4. Sebab contohnya kita nak kena quantify semua. Kita nak kena balance ni. Contohnya kan, the strain on healthcare system.
+
+[2:00:36] Haziq: Ya.
+
+[2:00:36] Rafizi: Sama mungkin di kawasan lain orang tak tak merasalah. Saya bekas ahli parlimen kan Pandan. Hospital Ampang tu dalam parlimen saya. Jadi beberapa kali saya pergilah melawat wad bersalin kan. At any one point, easily 30 to 40% adalah pelarian Rohingya. And they are the strain on our system sebenarnya kan. Kalau kita jadi doktor ataupun kita jadi jururawat kan, kita we are duty bound to treat everyone. Tapi bets itu are taken by by Rohingya in disproportionate number berbanding dengan dengan pesakit tempatan lah. Tu satu kan. Keduanya pula ialah contohnya the financially the strain on healthcare. Ini di satu hospital. Kalau dia tak boleh bayar.
+
+[2:01:34] Haziq: Yes, yes, yes.
+
+[2:01:35] Rafizi: Kalau dia ada UNHCR card, dia dapat diskaun 50% daripada foreigner. Bill foreigner kan. Tapi kalau dia tak ada, dia kena bayar, bayar full kan. Full. Tapi kalau dia tak boleh bayar? What do you do? Kan?
 
 [2:01:51] Haziq: Takkan nak biarkan dia?
 
@@ -377,39 +789,63 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [2:03:52] Haziq: Okey, baik. Jadi kerajaan kena buat keputusan, jangan bertangguh. Ada clarity dan-
 
-[2:03:59] Rafizi: So sebenarnya siapa agaknya yang nak kena address benda ni ni? Kalau kerajaan tu maksudnya siapa dia? Menteri dalam negeri.
+[2:03:59] Rafizi: So sebenarnya siapa agaknya yang nak kena address benda ni ni? Kalau kerajaan tu maksudnya siapa dia?
 
-[2:04:08] Haziq: Kena take charge tapi kena buat benda tu whole of government approach lah.
+[2:04:06] Haziq: Menteri dalam negeri. Kena take charge tapi kena buat benda tu whole of government approach lah.
 
-[2:04:14] Rafizi: Cewa. Cewa. Cewa whole of government approach. Takpalah kita tunggulah siapa kan. Sebab dia meliputi banyak, banyak aa pemegang taruh kan. KDN is one. Yes. Kemudian law minister is another one. Kemudian menteri luar. Yes. Menteri luar kan. Aa kemudian Menteri Pendidikan. Maksudnya apa dia? Ini mesti datang dan dan dipandu oleh Perdana Menteri lah. Part of it saya ingat itulah yang jadi macam ni kerana successif Perdana Menteri tak nak pergi dekat. Masa untuk dapatkan political capital pergi pergi perhimpunan Rohiyah semua nak pergi. Tapi bila bab sampai sampai masalah ni, ha, dia kira alah kalau kita tumpukan pun kita bukan dapat undi pun. Dia orang ni bukan mengundi pun kan. So I think they, they are floating. They don't appear at all in the system because most probably politician rasa bukan dapat apa pun. Tapi yalah is a ticking time bomb lah.
+[2:04:14] Rafizi: Cewa.
+
+[2:04:14] Haziq: Cewa.
+
+[2:04:15] Rafizi: Cewa whole of government approach. Takpalah kita tunggulah siapa kan. Sebab dia meliputi banyak, banyak aa pemegang taruh kan. KDN is one.
+
+[2:04:26] Haziq: Yes.
+
+[2:04:27] Rafizi: Kemudian law minister is another one. Kemudian menteri luar.
+
+[2:04:33] Haziq: Yes.
+
+[2:04:33] Rafizi: Menteri luar kan. Aa kemudian Menteri Pendidikan. Maksudnya apa dia? Ini mesti datang dan dan dipandu oleh Perdana Menteri lah. Part of it saya ingat itulah yang jadi macam ni kerana successif Perdana Menteri tak nak pergi dekat. Masa untuk dapatkan political capital pergi pergi perhimpunan Rohiyah semua nak pergi. Tapi bila bab sampai sampai masalah ni, ha, dia kira alah kalau kita tumpukan pun kita bukan dapat undi pun. Dia orang ni bukan mengundi pun kan. So I think they, they are floating. They don't appear at all in the system because most probably politician rasa bukan dapat apa pun. Tapi yalah is a ticking time bomb lah.
 
 [2:05:29] Haziq: Baik. Dah meletup oh YB. . Dah meletup pun. Haah. Okey YB?
 
-[2:05:33] Rafizi: So kita ada berapa minit lagi?
+[2:05:33] Rafizi: So kita ada berapa minit lagi? Setengah jam lagi lebih kuranglah. Setengah jam lebih kurang lagilah.
 
-[2:05:35] Multiple speakers: Setengah jam lagi lebih kuranglah. Setengah jam lebih kurang lagilah.
+[2:05:40] Haziq: Tak ada dah.
 
-[2:05:40] Multiple speakers: Tak ada dah.
+[2:05:41] Rafizi: Kita habiskan.
 
-[2:05:41] Haziq: Kita habiskan. Ha, kita ada topik yang kedua. Masuk pilihan raya, duit masyuk.
+[2:05:42] Haziq: Ha, kita ada topik yang kedua. Masuk pilihan raya, duit masyuk.
 
-[2:05:47] Rafizi: Ya Allah, engkau pergi ambil pula AI yang pakai kebaya ni pulanya. Ish, Ish, Pa'an.
+[2:05:47] Rafizi: Ya Allah, engkau pergi ambil pula AI yang pakai kebaya ni pulanya.
+
+[2:05:52] Haziq: Ish, Ish, Pa'an.
 
 [2:05:54] Farhan (Pa'an): Last week kata nampak Han Ayus. Hari ni kita letak orang lain pula.
 
-[2:05:58] Rafizi: Lain kali kau letak jelah aku kat situ. Kan senang. Gemini tak nak render. Okey, ha. So kita pilihan raya duit masyuk ha.
+[2:05:58] Rafizi: Lain kali kau letak jelah aku kat situ. Kan senang.
 
-[2:06:11] Haziq: Ini kita nak bercakap tentang, yalah bila pilihan raya saja banyak duit akan digunakanlah YB. Ha dan aa saya rasa biasalah ahli politik ya cari duit tepi untuk biaya pilihan raya, kemudian dia jadi kerajaan, dia cari lagi duit tepi, kemudian dia bertanding lagi. Begitulah kitarannya sampai Abang Jamil mempos. Ra- dan ramai yang cakap nak hapuskan benda ini. Sebab itu ada PFA dan Bersama pun advocate benda ini. Isunya YB, ada banyak cabaran. Antaranya kos pilihan raya ni besar. Sebab MB Kedah pernah cakap sampai 5 juta satu kawasan. Ya ke? Dia kata 1 5 juta. Maksudnya apa dia?
+[2:06:02] Farhan (Pa'an): Gemini tak nak render.
 
-[2:06:52] Rafizi: Maksudnya PAS membelanjakan 5 juta satu kawasan?
+[2:06:06] Haziq: Okey, ha.
+
+[2:06:07] Rafizi: So kita pilihan raya duit masyuk ha.
+
+[2:06:11] Haziq: Ini kita nak bercakap tentang, yalah bila pilihan raya saja banyak duit akan digunakanlah YB. Ha dan aa saya rasa biasalah ahli politik ya cari duit tepi untuk biaya pilihan raya, kemudian dia jadi kerajaan, dia cari lagi duit tepi, kemudian dia bertanding lagi. Begitulah kitarannya sampai Abang Jamil mempos. Ra- dan ramai yang cakap nak hapuskan benda ini. Sebab itu ada PFA dan Bersama pun advocate benda ini. Isunya YB, ada banyak cabaran. Antaranya kos pilihan raya ni besar. Sebab MB Kedah pernah cakap sampai 5 juta satu kawasan.
+
+[2:06:49] Rafizi: Ya ke? Dia kata 1 5 juta. Maksudnya apa dia? Maksudnya PAS membelanjakan 5 juta satu kawasan?
 
 [2:06:55] Haziq: Dia kata akan datang aa satu kawasan tu boleh mencecah. 5 juta ke 1 juta? Saya tak ingatlah.
 
-[2:07:02] Rafizi: Ya. Kan dah tak ingat. Tadi kau ingat 5 juta.
+[2:07:02] Rafizi: Ya. Kan dah tak ingat. Tadi kau ingat 5 juta. Confident dia sebut 5 juta.
 
-[2:07:04] Haziq: Confident dia sebut 5 juta. 1 juta satu kawasan. Dan ada juga demand daripada pengundi, contohnya nak tambang bal- mengundi balik semua kan? Dengan halangan-halangan macam ni, macam mana kita boleh make sure yang pilihan raya kita ni sebenarnya bersih daripada rasuah?
+[2:07:06] Haziq: 1 juta satu kawasan. Dan ada juga demand daripada pengundi, contohnya nak tambang bal- mengundi balik semua kan? Dengan halangan-halangan macam ni, macam mana kita boleh make sure yang pilihan raya kita ni sebenarnya bersih daripada rasuah?
 
-[2:07:21] Rafizi: Ini 10 soalan terus digabungkan jadi 1 soalan. Kau nak balik awal ke apa? No lah, I think yalah, saya ingat kos pilihan raya yang saya dengar-dengarlah kan. Daripada satu pilihan raya ke satu pilihan raya, dia makin besar dan makin besar kan. Biarlah orang akan kata sebenarnya kalau tidak ada demand, maka tak ada supply. Kalau budaya itu, maksudnya pengundi tidak mengharapkan suapan, you know, for the lack of better word lah, suapan ataupun hadiah ataupun duit minyak kan. Maka tak adalah kan. Dan memang betullah saya pernah, yalah saya bertanding pilihan raya kan. Memang betullah di bilik gerakan tu every now and then ada saja yang datang kata tak ada duit minyak ke? Haa sana janji 200. Aku dengan selama ni kita memang tak ada duit minyak kan. Tapi sebelum kita nak komen semua tu lah. Agaknya satu kerusi parlimen, sekarang DUN lah, satu parlimen lah. Satu kerusi parlimen selain daripada Sanusi. 1 juta. 1 juta. 1 juta. Selain daripada Sanusi kata 1 juta 1 kerusi tu. Is there any other information ataupun report ataupun data yang boleh quantify sebenarnya berapa kos yang dibelanjakan oleh parti-parti utama ni untuk 1 kerusi?
+[2:07:21] Rafizi: Ini 10 soalan terus digabungkan jadi 1 soalan. Kau nak balik awal ke apa? No lah, I think yalah, saya ingat kos pilihan raya yang saya dengar-dengarlah kan. Daripada satu pilihan raya ke satu pilihan raya, dia makin besar dan makin besar kan. Biarlah orang akan kata sebenarnya kalau tidak ada demand, maka tak ada supply. Kalau budaya itu, maksudnya pengundi tidak mengharapkan suapan, you know, for the lack of better word lah, suapan ataupun hadiah ataupun duit minyak kan. Maka tak adalah kan. Dan memang betullah saya pernah, yalah saya bertanding pilihan raya kan. Memang betullah di bilik gerakan tu every now and then ada saja yang datang kata tak ada duit minyak ke? Haa sana janji 200. Aku dengan selama ni kita memang tak ada duit minyak kan. Tapi sebelum kita nak komen semua tu lah. Agaknya satu kerusi parlimen, sekarang DUN lah, satu parlimen lah. Satu kerusi parlimen selain daripada Sanusi.
+
+[2:08:44] Haziq: 1 juta. 1 juta.
+
+[2:08:45] Rafizi: 1 juta. Selain daripada Sanusi kata 1 juta 1 kerusi tu. Is there any other information ataupun report ataupun data yang boleh quantify sebenarnya berapa kos yang dibelanjakan oleh parti-parti utama ni untuk 1 kerusi?
 
 [2:09:05] Haziq: Saya dengar kalau perbelanjaan marhaen tu macam dalam parlimen eh, 40,000 macam tu.
 
@@ -417,45 +853,117 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [2:09:13] Haziq: Yang saya pernah dengar lah.
 
-[2:09:14] Rafizi: Itu cerita aku. Maksudnya parti-parti lain. Oh, parti-parti lain.
+[2:09:14] Rafizi: Itu cerita aku. Maksudnya parti-parti lain.
 
-[2:09:21] Haziq: So kita pun tak tahu.
+[2:09:17] Haziq: Oh, parti-parti lain.
 
-[2:09:21] Rafizi: Tak pernah dibincangkan secara open.
+[2:09:21] Rafizi: So kita pun tak tahu.
+
+[2:09:21] Haziq: Tak pernah dibincangkan secara open.
 
 [2:09:25] Farhan (Pa'an): Apart from the caps yang SPR letakkan.
 
-[2:09:28] Rafizi: Caps kan berapa? 100 ke 200,000? 100,000. 200,000 kan 200 rasanya. Well, okay. So let me, let me drill further lah kan. Sebenarnya apa bentuk perbelanjaan untuk mengendalikan kempen pilihan raya dekat satu-satu kerusi ni? Bahan kempen? Bahan kempen contoh? Bendera. Bendera. Bendera. Banner. Banner. Banting. Banting lagi?
+[2:09:28] Rafizi: Caps kan berapa? 100 ke 200,000? 100,000. 200,000 kan 200 rasanya. Well, okay. So let me, let me drill further lah kan. Sebenarnya apa bentuk perbelanjaan untuk mengendalikan kempen pilihan raya dekat satu-satu kerusi ni?
+
+[2:09:48] Haziq: Bahan kempen?
+
+[2:09:49] Rafizi: Bahan kempen contoh? Bendera.
+
+[2:09:51] Haziq: Bendera. Bendera. Banner.
+
+[2:09:53] Rafizi: Banner.
+
+[2:09:53] Haziq: Banting.
+
+[2:09:54] Rafizi: Banting lagi?
 
 [2:09:56] Farhan (Pa'an): Kalau nak masukkan deposit calon.
 
-[2:09:58] Rafizi: No, no, no. Itu bukan bahan kempen. Kita go through cabin Flyers. kategori by category. Okey. So, ben bendera. Satu kerusi parlimen berapa bendera? Ha, sebab aku tanya soalan tadi. Ada ke tidak laporan ataupun data yang kita boleh percayai, yang kita nak compare dengan yang Sanusi kata ataupun yang biasa bukan Sanusi sajalah. Dia jadi macam conventional wisdom satu parlimen ni satu kerusi berjuta-juta. Kalau yang B40 1 juta. Agaknya yang T20 10 juta lah kot lah kan. Sebab PAS tu kalau dia kata 1 juta tu dia B40 lah kan. Kononnya dia tak belanja banyak, dia miskin kan. So that means that kalau PAS 1 juta B40, yang T20 10 juta. So let us work backwards kan. Untuk kita get a sense of sebenarnya apa yang berapa banyak yang diperlukan untuk mengendalikan satu kempen. Then you can go and start comparing and and slice and dice pasal corruption semua tu lah kan. Okey, so now now come back. Kau boleh jot down kan. So bendera satu satu parlimen sebenarnya berapa bendera yang diperlukan? 10,000 banyak sangat tak? 10,000 actually dah cukup dah. Parlimen kan? 10,000 mencukupi lah kan. Kecualilah kalau macam PAS balik kat Terengganu tu kan, sepanjang panjang panjang panjang jalan. Belum mula kempen lagi orang dah kata PAS dah menang, menang bendera. Ha kan. Sepanjang panjang panjang panjang kan. Dekat yang diorang paling suka, semua jambatan tu kena pasang, pasang, pasang, pasang, semua kan. But I think 10,000 is mencukupi untuk satu parlimen lah. So 10,000 bendera. 1 bendera berapa harga?
+[2:09:58] Rafizi: No, no, no. Itu bukan bahan kempen. Kita go through cabin Flyers. kategori by category. Okey. So, ben bendera. Satu kerusi parlimen berapa bendera? Ha, sebab aku tanya soalan tadi. Ada ke tidak laporan ataupun data yang kita boleh percayai, yang kita nak compare dengan yang Sanusi kata ataupun yang biasa bukan Sanusi sajalah. Dia jadi macam conventional wisdom satu parlimen ni satu kerusi berjuta-juta. Kalau yang B40 1 juta. Agaknya yang T20 10 juta lah kot lah kan. Sebab PAS tu kalau dia kata 1 juta tu dia B40 lah kan. Kononnya dia tak belanja banyak, dia miskin kan. So that means that kalau PAS 1 juta B40, yang T20 10 juta. So let us work backwards kan. Untuk kita get a sense of sebenarnya apa yang berapa banyak yang diperlukan untuk mengendalikan satu kempen. Then you can go and start comparing and and slice and dice pasal corruption semua tu lah kan. Okey, so now now come back. Kau boleh jot down kan. So bendera satu satu parlimen sebenarnya berapa bendera yang diperlukan?
+
+[2:11:21] Haziq: 10,000 banyak sangat tak?
+
+[2:11:24] Rafizi: 10,000 actually dah cukup dah. Parlimen kan? 10,000 mencukupi lah kan. Kecualilah kalau macam PAS balik kat Terengganu tu kan, sepanjang panjang panjang panjang jalan. Belum mula kempen lagi orang dah kata PAS dah menang, menang bendera. Ha kan. Sepanjang panjang panjang panjang kan. Dekat yang diorang paling suka, semua jambatan tu kena pasang, pasang, pasang, pasang, semua kan. But I think 10,000 is mencukupi untuk satu parlimen lah. So 10,000 bendera. 1 bendera berapa harga?
 
 [2:12:00] Farhan (Pa'an): Order China 2 ringgit. Beli urgent, eh urgent, ejen Malaysia maybe 4, 5, 6.
 
-[2:12:09] Rafizi: Mana ada? 7? No. It's usually around 2 ringgit, 2 ringgit 50 sen lah. Itu dah Malaysia punya price lah. Yalah betul. So order China 2 ringgit tu ialah memang dah siap termasuklah profit kepada yang menguruskan di sinilah. Sebab order ni ialah printer Malaysia juga. Cuma dia buat kat sana kan. Most probably kat China maybe much cheaper pun. So katakanlah you letak 2, 2 ringgit setengah lah. 10,000, 25,000 je lah. 25,000. Okey. Lagi banting? 1 parlimen. Lagi?
+[2:12:09] Rafizi: Mana ada?
+
+[2:12:10] Farhan (Pa'an): 7?
+
+[2:12:11] Rafizi: No. It's usually around 2 ringgit, 2 ringgit 50 sen lah. Itu dah Malaysia punya price lah.
+
+[2:12:18] Haziq: Yalah betul.
+
+[2:12:18] Rafizi: So order China 2 ringgit tu ialah memang dah siap termasuklah profit kepada yang menguruskan di sinilah. Sebab order ni ialah printer Malaysia juga. Cuma dia buat kat sana kan. Most probably kat China maybe much cheaper pun. So katakanlah you letak 2, 2 ringgit setengah lah. 10,000, 25,000 je lah.
+
+[2:12:41] Haziq: 25,000.
+
+[2:12:42] Rafizi: Okey. Lagi banting? 1 parlimen. Lagi?
 
 [2:12:48] Farhan (Pa'an): Banting maybe tak banyaklah banting.
 
-[2:12:52] Rafizi: 1 banting saiz biasa berapa? Tapolin banting. Oh, yang 2 by, eh, 4 by 8 kaki tu. 4 ke? 4 kaki you mean? Bukan 4 meter, 4 kaki. 4 by 8. By 8. 4 by 8, okay, so 32 square feet. 1 square feet cost dia berapa printing sekarang? 50 cent. I think slightly more kot. Okey, you nak letak seringgit lah. So okeylah campur tolak semua 50 ringgit. Kan satu, satu banner tu kan? So berapa banner diperlukan untuk satu parlimen? Katakanlah 200. Itu pun dah mewah ha 200 banner tu. 200 banner. 100, 100 lah katakanlah 100. 100 kali dengan 50 berapa? 5000. 5000. 5000. Okey, lagi? Flyer. Flyer. Flyer. Flyer, katakan, katakanlah sekarang orang tak pakai sangat dah flyer, tapi katakanlah ada juga flyer kan. Flyer, katakanlah kau nak sebarkan banyak mana? 10,000 flyer. Banyak tu tau, 10,000 flyer. Cukup.
+[2:12:52] Rafizi: 1 banting saiz biasa berapa? Tapolin banting.
 
-[2:14:11] Haziq: Cukup. Tapi logik juga. Kalau setiap seorang dapat satu, pengundi situ maybe ada 60,000. Banyak cakap dak lah engkau.
+[2:12:59] Farhan (Pa'an): Oh, yang 2 by, eh, 4 by 8 kaki tu.
 
-[2:14:19] Rafizi: 100,000 pun 1.6. Kau pernah tengok ke? I'm talking about parti-parti utama ni. Okey. Kau pernah tengok ke orang-orang parti utama ni rajin pergi bagi flyer? Tak juga kan? Mana ada. Okeylah, kita letaklah 10,000 lah sebab korang nak rajin sangat pergi bagi ni kan. 10,000. Aku pengarah pilihan raya tau. Kan. 10,000 kan. 1 flyer berapa sen? 10 sen?
+[2:13:05] Rafizi: 4 ke? 4 kaki you mean? Bukan 4 meter, 4 kaki. 4 by 8.
 
-[2:14:44] Speaker ?: Mahal lagilah.
+[2:13:10] Farhan (Pa'an): By 8.
 
-[2:14:44] Speaker ?: 40, 50 sen.
+[2:13:10] Rafizi: 4 by 8, okay, so 32 square feet. 1 square feet cost dia berapa printing sekarang? 50 cent.
 
-[2:14:46] Rafizi: Mana ada Pa'an flyer apa 40, 50 sen zaman sekarang. Flyer mana ni? Saya tak tahu. Saya.
+[2:13:19] Farhan (Pa'an): I think slightly more kot.
 
-[2:14:53] Farhan (Pa'an): Mana ada. I think yalah.
+[2:13:21] Rafizi: Okey, you nak letak seringgit lah. So okeylah campur tolak semua 50 ringgit. Kan satu, satu banner tu kan? So berapa banner diperlukan untuk satu parlimen? Katakanlah 200. Itu pun dah mewah ha 200 banner tu.
 
-[2:14:55] Rafizi: I think you are talking kalau A5 tu dia depends on kertas sebenarnya. Tapi kalau you pakai kertas biasa yang licin, yang nipis tu, I think you boleh dapatlah. Okeylah. Okeylah kau nak letaklah 50 sen. Maksudnya ni semua kan. Okey, 50 sen. 10,000. Berapa? 5,000. 5,000. 5,000. Kira, kira berapa dah?
+[2:13:38] Haziq: 200 banner.
 
-[2:15:16] Haziq: Setakat ni 35,000. 35,000?
+[2:13:40] Rafizi: 100, 100 lah katakanlah 100. 100 kali dengan 50 berapa? 5000. 5000. 5000. Okey, lagi?
 
-[2:15:21] Rafizi: Macam mana boleh 35,000? Bendera?
+[2:13:52] Haziq: Flyer.
+
+[2:13:52] Rafizi: Flyer. Flyer. Flyer, katakan, katakanlah sekarang orang tak pakai sangat dah flyer, tapi katakanlah ada juga flyer kan. Flyer, katakanlah kau nak sebarkan banyak mana? 10,000 flyer. Banyak tu tau, 10,000 flyer.
+
+[2:14:10] Farhan (Pa'an): Cukup.
+
+[2:14:11] Haziq: Cukup. Tapi logik juga. Kalau setiap seorang dapat satu, pengundi situ maybe ada 60,000.
+
+[2:14:18] Rafizi: Banyak cakap dak lah engkau.
+
+[2:14:19] Haziq: 100,000 pun 1.6.
+
+[2:14:20] Rafizi: Kau pernah tengok ke? I'm talking about parti-parti utama ni.
+
+[2:14:23] Haziq: Okey.
+
+[2:14:23] Rafizi: Kau pernah tengok ke orang-orang parti utama ni rajin pergi bagi flyer?
+
+[2:14:26] Haziq: Tak juga kan?
+
+[2:14:27] Rafizi: Mana ada. Okeylah, kita letaklah 10,000 lah sebab korang nak rajin sangat pergi bagi ni kan. 10,000. Aku pengarah pilihan raya tau. Kan. 10,000 kan. 1 flyer berapa sen?
+
+[2:14:42] Haziq: 10 sen? Mahal lagilah.
+
+[2:14:44] Farhan (Pa'an): 40, 50 sen.
+
+[2:14:46] Rafizi: Mana ada Pa'an flyer apa 40, 50 sen
+
+[2:14:49] Haziq: zaman sekarang.
+
+[2:14:50] Rafizi: Flyer mana ni?
+
+[2:14:52] Farhan (Pa'an): Saya tak tahu. Saya.
+
+[2:14:53] Rafizi: Mana ada. I think yalah. I think you are talking kalau A5 tu dia depends on kertas sebenarnya. Tapi kalau you pakai kertas biasa yang licin, yang nipis tu, I think you boleh dapatlah. Okeylah. Okeylah kau nak letaklah 50 sen. Maksudnya ni semua kan. Okey, 50 sen. 10,000. Berapa? 5,000.
+
+[2:15:12] Haziq: 5,000.
+
+[2:15:13] Rafizi: 5,000. Kira, kira berapa dah?
+
+[2:15:16] Haziq: Setakat ni 35,000.
+
+[2:15:19] Rafizi: 35,000? Macam mana boleh 35,000? Bendera?
 
 [2:15:22] Haziq: 25,000 bendera, 5,000 banner, 5,000 flyer.
 
@@ -463,93 +971,233 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [2:15:31] Farhan (Pa'an): Buluh, buluh kita tak.
 
-[2:15:33] Rafizi: Buluh bendera. Buluh tak beli lagi. Okey. So kau nak buluh berapa kau nak letak kat situ? Buluh seorang sponsor. 5000 ringgit. Ha, 5000. Bubuhlah 5000 ringgit. Jadi 40,000. 40,000. 40,000. Ah, kemudian ah, sebab tu orang tak suka kerja dengan aku. Selalu aku tarik muka masam. Ni nak belanja je ke aku tarik muka masam kan. Ah, kemudian apa lagi belanja yang besarlah kononnya kempen? Belanja program lah kan. Program. Ah, buat high tea sanalah, makan sinilah. Dewan, sewa dewan. Dewan, sewa dewan. Ah, mengun- ah tempoh berkempen 2 minggu. Ah, katakanlah ni yang jenis rajin betullah. Tiap-tiap hari ada dalam katakanlah 5 program begitu. Tiap-tiap hari lah kan. So 2 minggu 5. 5 kali 14 berapa? 70. 70. So 1 program tu kau nak letak berapa? 1000. 1000. Okeylah masuk 70 ribu. Ingatlah, 70 ribu. Lagi?
+[2:15:33] Haziq: Buluh bendera.
 
-[2:16:47] Farhan (Pa'an): Deposit tu? Tak masuk. Okey, tak masuk.
+[2:15:34] Farhan (Pa'an): Buluh tak beli lagi.
 
-[2:16:50] Rafizi: Tak, ini untuk kempen lah.
+[2:15:36] Rafizi: Okey. So kau nak buluh berapa kau nak letak kat situ?
 
-[2:16:51] Multiple speakers: Kempen.
+[2:15:39] Haziq: Buluh seorang sponsor.
 
-[2:16:52] Rafizi: Okeylah, letaklah deposit parlimen. SPR 10 ribu, PBT selalunya 5 ribu, 15 ribu. Tapi itu sebenarnya deposit dapat balik.
+[2:15:41] Rafizi: 5000 ringgit.
 
-[2:17:02] Multiple speakers: Dapat balik.
+[2:15:42] Haziq: Ha, 5000.
 
-[2:17:03] Rafizi: Tapi tak apalah, letak jelah, letak jelah. Lagi? Apa lagi yang besar? Ceramahlah, katakanlah ceramah besarlah. 2 minggu tu ada 4 ceramah besar. 1 ceramah mungkin katakanlah belanja pumpang, pumpang, pumpang semua, katakanlah 5000 1, 20,000.
+[2:15:43] Rafizi: Bubuhlah 5000 ringgit. Jadi 40,000. 40,000. 40,000. Ah, kemudian ah, sebab tu orang tak suka kerja dengan aku. Selalu aku tarik muka masam. Ni nak belanja je ke aku tarik muka masam kan. Ah, kemudian apa lagi belanja yang besarlah kononnya kempen? Belanja program lah kan.
 
-[2:17:21] Multiple speakers: 20,000.
+[2:16:02] Haziq: Program.
 
-[2:17:22] Farhan (Pa'an): Murah lah. Murah lah. Kalau dengan aku macam tu lah. Kalau dengan aku lah. Ceramah cikai-cikai lah.
+[2:16:03] Rafizi: Ah, buat high tea sanalah, makan sinilah.
 
-[2:17:29] Rafizi: Tak adalah, memang itu kos PAS dulu pun. Murah dan bermaruah. Oh ya? Ya, ya, ya. Sebab itu kutipan dia kena sampai dalam, although ini kos zaman 10 tahun lepas lah kan. But I, I don't think it differs that much lah. Especially kalau ceramah tu atas khemah satu je, yang lain tu orang duduk macam biasa kan. Tapi yang saya nampak dekat
+[2:16:07] Farhan (Pa'an): Dewan, sewa dewan.
 
-[2:17:53] Farhan (Pa'an): Negeri Sembilan hari tu dia orang buat besar-besar semua.
+[2:16:08] Rafizi: Dewan, sewa dewan. Ah, mengun- ah tempoh berkempen 2 minggu. Ah, katakanlah ni yang jenis rajin betullah. Tiap-tiap hari ada dalam katakanlah 5 program begitu. Tiap-tiap hari lah kan. So 2 minggu 5. 5 kali 14 berapa? 70. 70. So 1 program tu kau nak letak berapa? 1000. 1000. Okeylah masuk 70 ribu. Ingatlah, 70 ribu. Lagi?
 
-[2:17:55] Rafizi: Yalah, itu PMX punya. Oh, okey. I'm talking about parlimen biasa. Sebab kita nak quantify yang 1 juta yang yang Sanusi kata ni kan. Katakanlah 5,000 kali 4. Itu tak campur kutipan tu sebenarnya sebab dia kutip kan. Tapi katakanlah tak dapat 1 sen pun, 20,000. Okey, lagi?
+[2:16:47] Haziq: Deposit tu? Tak masuk. Okey, tak masuk.
 
-[2:18:21] Farhan (Pa'an): Selalu bayaran jentera. Jentera?
+[2:16:50] Rafizi: Tak, ini untuk kempen lah. Kempen. Okeylah, letaklah deposit parlimen. SPR 10 ribu, PBT selalunya 5 ribu, 15 ribu. Tapi itu sebenarnya deposit dapat balik. Dapat balik. Tapi tak apalah, letak jelah, letak jelah. Lagi? Apa lagi yang besar? Ceramahlah, katakanlah ceramah besarlah. 2 minggu tu ada 4 ceramah besar. 1 ceramah mungkin katakanlah belanja pumpang, pumpang, pumpang semua, katakanlah 5000 1, 20,000.
+
+[2:17:21] Haziq: 20,000.
+
+[2:17:22] Farhan (Pa'an): Murah lah. Murah lah.
+
+[2:17:24] Rafizi: Kalau dengan aku macam tu lah. Kalau dengan aku lah.
+
+[2:17:27] Farhan (Pa'an): Ceramah cikai-cikai lah.
+
+[2:17:29] Rafizi: Tak adalah, memang itu kos PAS dulu pun.
+
+[2:17:32] Haziq: Murah dan bermaruah.
+
+[2:17:33] Farhan (Pa'an): Oh ya?
+
+[2:17:33] Rafizi: Ya, ya, ya. Sebab itu kutipan dia kena sampai dalam, although ini kos zaman 10 tahun lepas lah kan. But I, I don't think it differs that much lah. Especially kalau ceramah tu atas khemah satu je, yang lain tu orang duduk macam biasa kan.
+
+[2:17:50] Farhan (Pa'an): Tapi yang saya nampak dekat Negeri Sembilan hari tu dia orang buat besar-besar semua.
+
+[2:17:55] Rafizi: Yalah, itu PMX punya.
+
+[2:17:57] Farhan (Pa'an): Oh, okey.
+
+[2:17:58] Rafizi: I'm talking about parlimen biasa. Sebab kita nak quantify yang 1 juta yang yang Sanusi kata ni kan. Katakanlah 5,000 kali 4. Itu tak campur kutipan tu sebenarnya sebab dia kutip kan. Tapi katakanlah tak dapat 1 sen pun, 20,000. Okey, lagi?
+
+[2:18:21] Farhan (Pa'an): Selalu bayaran jentera.
+
+[2:18:23] Haziq: Jentera?
 
 [2:18:24] Rafizi: Bayaran jentera tu bayar macam mana maksudnya?
 
-[2:18:26] Farhan (Pa'an): Macam yang pergi pasang bendera, yang. So bayar macam mana? Satu kepala sehari.
+[2:18:26] Farhan (Pa'an): Macam yang pergi pasang bendera, yang.
 
-[2:18:33] Haziq: Bagi atau bagi duit rokok ke. Yalah, berapa?
+[2:18:29] Rafizi: So bayar macam mana?
+
+[2:18:31] Farhan (Pa'an): Satu kepala sehari.
+
+[2:18:33] Haziq: Bagi atau bagi duit rokok ke.
+
+[2:18:36] Rafizi: Yalah, berapa?
 
 [2:18:39] Farhan (Pa'an): Saya tak pernah bagi duit rokok sesekali.
 
 [2:18:42] Rafizi: That's a thing aku tak nak bagi. Ha kan. Tapi betul. Okey, katakanlah, katakanlah you ada 50 orang budak yang buat kerja dalam tempoh katakanlah 10 hari berkempen lah. 50, katakanlah you bagi 50 ringgit seorang sehari, duit minyak dia sikit, itu dia cover rokok dia akan makan semua. 50 orang kali 10 hari serat- 500 kali 50, jadi 25,000. 25,000. Okey, lagi? Human resource.
 
-[2:19:14] Haziq: Itu jelah kot.
+[2:19:14] Haziq: Itu jelah kot. Okey
 
-[2:19:14] Farhan (Pa'an): Okey eh, okey. Human resource lah.
+[2:19:16] Farhan (Pa'an): eh, okey. Human resource lah.
 
-[2:19:18] Multiple speakers: Tak ada.
+[2:19:18] Haziq: Tak ada.
 
 [2:19:19] Rafizi: Haah. Campur semua buat apa?
 
-[2:19:23] Haziq: 25 tambah 20, tambah 15, tambah 70, tambah 40. 170. Ha, 170,000 kan?
+[2:19:23] Haziq: 25 tambah 20, tambah 15, tambah 70, tambah 40. 170.
 
-[2:19:37] Rafizi: Had SPR berapa? 200 kan? 200 eh. So sebenarnya had SPR tu tak banyak. Tak tak banyak jauh lagi. Maksudnya untuk mengendalikan satu pilihan raya yang agak competent banyak tu bendera 10,000, ada leaflet lagi 10,000, ada banner lagi. Lepas tu ada 70 apa nama ni aktiviti ceramah semua. Siap bayar budak-budak lagi. 200 ribu. Okey. So dari mana datang 1 juta ni? Dari mana datang itu B40 punya kempen? Yang yang belum lagi T20. T20 entah-entah 10 juta. Dari mana datang semua ni? Tambang flight pengundi balik. It- well, bukan bukan semua orang flight lah. Duit minyak lah kira kan. So satu yang yang kalau maksudnya, pandangan sayalah, kalau dia dah sampai juta-juta tu, itu kerana ia melibatkan membayar pengundi, whatever you call it. Whatever you call it lah. You kata bayar tambang dia ke, duit minyak dia ke apa, sebab you bayar dia. Sebab kalau tidak, kalau setakat kempen biasa yang tidak melibatkan bayar duit, sebenarnya had SPR 200,000 tu sebenarnya tak adalah papak kedana sangat. You can run election dengan 200,000 kan. So kalau 1 juta ni then dia jadi macam tu lah. Katakanlah seorang pengundi you bayar 200. Kemudian pengundi luar kononnya nak suruh dia balik. So kalau you bayar 1500, cuba cuba kira 1500 orang pengundi bayar 200 ringgit. 300 ribu. 300 ribu. 300 ribu. Itu campur belum lagi campur kalau pergi kat rumah-rumah bagi duit. Ha ni. Ah, dulu-dulu yang kononnya samalah UMNO pun cukup cekap buat benda ni. PAS pun cukup cekap buat benda ni. Iaitu kononnya keluarga angkat. Ha, hantar student-student daripada universiti semua tu, kepung keluarga tu duduk kat situ. Kemudian bayar makan minum semua duduk berkeluarga. Ingat murah ke? Kalau kalau kalau aa campur lagi, setiap satu keluarga tu bayar apa ni, 500 ringgit katakan kalau kalau ada 1000 keluarga, ha dah setengah juta, kan? Ha dah setengah juta. Ha yang itu yang jadi juta-jutanya. Kan. Jadi sebenarnya kos berbelanja pilihan raya ni, dia bolehlah mencapai 1 2 juta sampai 5 juta, 7 juta kan. Tapi bagi saya simple lah. Kalau dia dah sampai melebihi 1 juta tu, you konar kut mana pun kata kamilah parti bagus, kami tak rasuah. Memang you bayar pengundi. It's just a name of, it's just a matter of what names you give kepada duit yang you bagi 200, 300 semua kan. Orang akan katalah engkau cakap senang lah, engkau bandar. Ada je yang a parti yang berlawan di kawasan bandar di KL ni duk bagi duit. Kan. Jadi, then to make matters worse, sebab itu, masa zaman pilihan raya ni ramai orang buat duit. Kerana duit tu tiris. Katakanlah kita nak bayar 2000 orang pengundi luar. Bukan calon tu yang bayar. Bukannya presiden parti tu bayar ke apa. Dia macai dia yang operation kat bawah tu je bayar kan. So bagi duit kat dia. Selalu yang selalu berlaku macam ni, yang aku selalu tak setuju kan. Satu bagi duit kat calon. Bagi duit kat calon. Sebab tu orang berlumba-lumba nak jadi calon pilihan raya ni. Sebab dia ingat parti tu banyak duit, aa nanti akan dapat 100,000, 200,000 kan. This is a joke yang real berlaku kan. Okey. Pengalaman masa dekat PKR dulu, terutamanya pilihan raya di Sarawak. And I went through it straight kan, sebab aku kena jaga. Aku tak ada di situlah sebab aku jaga bilik gerakan di Kuching. Tapi budak-budak petugas aku adalah di satu kawasan ni kan. Oh, parti pun pilihlah dia untuk jadi calon di satu tempat kan. I think aku, sebab aku tak pernah nak handle duit lah. I never like it. Sebab I never believe in it lah kan. Entah kut mana siapa dia. Aku dengar report daripada petugas aku kat bawah. Dia dapat ratus ribu jugak ah. Ini tahun 2011 ni. Dia dapat dalam 150 ribu macam tu kan. Lepas tu tiap-tiap hari aku dapat laporan daripada petugas aku kat bawah. Macam mana ni bos? Dia tak nak keluar rumah. Dia tak nak kempen. Dia tak nak keluar rumah. Dan dan sampailah habis memang dia hilang deposit lah di kawasan itu kan. Tapi dia dapat duit. Dengar cerita 2 3 bulan lepas tu dia beli kereta baru. It's a very good business. Ha, sebab tu ramai orang kan. Jadi dia ketirisan macam itulah. Satu cara tiris ialah dengan bagi kat calon. Bagi kat calon 200,000, dia belanja mungkin 20,000. 180 disimpan kat dia. Banyaklah dengan cerita-cerita kat Sabah pun ni kan, contohnya kan. Bila dah mewah kan. Satu lagi ikut kononnya daerah mengundi ke, ikut zon ke ini, untuk bayar kat orang semua ni kan. Dia tiris lah. Bagi kat dia 10,000 untuk dia agih. Mungkinlah 5,000 ke 7,000 dapat kat orang lah. 3,000 tu dia kira ini kos akulah. Kan. Jadi sebab itu ramai orang berlumba-lumba nak jadi calon, berlumba-lumba nak nak nak keliling semua ni kan. Dan sebab itu, kos dia sampai jadi 3 4 juta sebab tiris yang banyak. Sedangkan to run a competent election, sepatutnya saya bagi akulah 200,000 tu dah kira lebih daripada cukup lah. Pa'an nak tanya.
+[2:19:34] Rafizi: Ha, 170,000 kan? Had SPR berapa? 200 kan?
 
-[2:26:10] Farhan (Pa'an): Saya pelik sebab technically SPR ada had dia. Benda-benda macam ni tak track. Andi Claire.
+[2:19:38] Haziq: 200 eh.
 
-[2:26:20] Rafizi: Tak, dia to be fair lah. To be fair to SPR jugalah kan. Letih dia nak track semua ni dan sebenarnya peruntukan undang-undang tu ada. So ada dua mekanisma kan untuk untuk track dan dan juga untuk ambil tindakan. Satu ialah sudah tentu pengisytiharan perbelanjaan. Jadi setiap a calon lepas habis pilihan raya tu menang kalah ke apa, dia kena memfailkan pengisytiharan perbelanjaan dia. Itu dia jadi macam mekanisma untuk SPR mengesahkan bahawa dia berbelanja mengikut mengikut apa nama ni had lah kan. Loser. So kalau tak isytihar perbelanjaan, dia tak boleh jadi calon untuk pilihan raya akan datang. Itu satu mekanisma lah. You and I know benda tu tak berkesan. Sebab dia bergantung 100% kepada self declaration. Dan SPR tidak ada keupayaan untuk pergi check satu-satu. Kan? Kecuali kita ada satu independent watchdog yang ada beribu-ribu orang track setiap satu tu lah kan. So itu satu mekanisma yang kita tahu memang, memang it's just a formality kan. Tapi to be fair jugalah kalau tanya SPR, saya ingat SPR kata undang-undang kesalahan pilihan raya memang memperuntukkan kalau ada bukti rasuah dan seperti yang kita sebut tadilah, yang yang yang perbelanjaan sehingga melepasi 200,000 ni memang selalunya berbentuk rasuah. Sebab dia panggillah. Selalunya dia panggil duit minyak. Duit minyaklah, duit tiketlah, macam-macamlah kan. Tapi kalau ada bagi saja duit, benda itu ialah melanggar apa nama ni, peraturan pilihan raya dan boleh terus selepas habis saja keputusan boleh file election petition. Cuma sebelum pilihan raya yang lepaslah, tak jarang sangatlah election petition ni boleh menang. Because it's so difficult untuk dapatkan jal- untuk dapatkan bukti. Sebab orang tu dia terima duit, takkan dia nak mengaku. So you bawa election petition. Aku pernah menguruskan tahun 2013, berpuluh-puluh election petition, semua kalah. And bila kalah tu you kena bayar lawyer, you kena bayar apa nama ni, cost semua kan, dan proses tu panjang. Serik dah aku buat election petition kan. Sebab you kena ada bukti. Cuma dalam AN court lah, to be fair to court pun, sejarah apa nama ni mahkamah di Malaysia, selalunya mereka tidak mengambil judicial, active judicial position dalam soal pilihan raya. Sebab pilihan raya ni demokrasi perlu di dihormati. Kalau jadi ah apa nama ni, hakim dan juga mahkamah pula yang duk buat keputusan mengenai siapa menang kalah ni, eh tak payah buat pilihan raya lah. Dan jadi macam negara-negara lain yang mana pilihan raya tu nanti jadi kecoh sebab hakim tu dituduh macam itu, macam inilah. Jadi. The hurdle, the bar that you have to pass untuk membuktikan memang berlaku penipuan dan rasuah memang historically extremely difficult. I suppose kecuali ada orang saksi yang mengaku saya terima duit sekian-sekian. Ha, ini gambar dia. Ini masuk bank account semua. But obviously parti politik sangat berhati-hatilah. Kecuali dalam pilihan raya umum yang lepas. Sebab itu keputusan pilihan raya Kuala Terengganu dan Kemaman dibatalkan. Ha, ya. Agak rare. I ah memang I think kali pertama berlaku. Kali pertama berlakulah. Seingat sayalah. Itu kali pertama berlakulah. Dan apa nama ni, saya tak bacalah penghakiman semua tu, tapi pada ingatan sayalah kerana ia bersabit dengan program kerajaan negeri semasa pilihan raya. Dan dia memang bagi duit. Ha, you call it whatever you call it lah. Hadiah budak sekolah ke, hadiah itu ke, hadiah ini kan. So, yang itu memang nampak ada precedent lah kalau kerajaan negeri buat begitu. I think Kemaman dan Kuala Terengganu dibatalkan kan. Jadi, itu ialah keadaan yang berlaku sekaranglah. Dan mudah kepada yang menonton orang ramai semua kan. Sebenarnya pengalaman sayalah, kalau kita stick to the law dan kita sanggup tahan muka, tahan telinga dan juga kena maki ataupun kena perli sebab tak bagi duit kan. Dan kita ambil risiko untuk tak bagi duit, aa, walaupun ada risiko kalah. Sebenarnya satu pilihan raya tu boleh dilaksanakan dengan baik dan berkesan di bawah 200,000 ringgit satu kerusi.
+[2:19:41] Rafizi: So sebenarnya had SPR tu tak banyak. Tak tak banyak jauh lagi. Maksudnya untuk mengendalikan satu pilihan raya yang agak competent banyak tu bendera 10,000, ada leaflet lagi 10,000, ada banner lagi. Lepas tu ada 70 apa nama ni aktiviti ceramah semua. Siap bayar budak-budak lagi. 200 ribu. Okey. So dari mana datang 1 juta ni? Dari mana datang itu B40 punya kempen? Yang yang belum lagi T20. T20 entah-entah 10 juta. Dari mana datang semua ni?
 
-[2:32:03] Haziq: By the way, you cakap tentang apa ni PR result PRK dekat ka- PR pilihan raya Kuala Terengganu tu kan yang dia terbalikkan cakap tentang jentera kerajaan lah. Macam mana YB draw the line apa ni guna jentera ke, tak guna jentera ke? Saya ingat. Saya ada soalan sebelum tu.
+[2:20:18] Haziq: Tambang flight pengundi balik.
 
-[2:32:23] Rafizi: Ha, okey. Selamba kau potong Haziq, tapi tak apa, sila.
+[2:20:21] Rafizi: It- well, bukan bukan semua orang flight lah. Duit minyak lah kira kan. So satu yang yang kalau maksudnya, pandangan sayalah, kalau dia dah sampai juta-juta tu, itu kerana ia melibatkan membayar pengundi, whatever you call it. Whatever you call it lah. You kata bayar tambang dia ke, duit minyak dia ke apa, sebab you bayar dia. Sebab kalau tidak, kalau setakat kempen biasa yang tidak melibatkan bayar duit, sebenarnya had SPR 200,000 tu sebenarnya tak adalah papak kedana sangat. You can run election dengan 200,000 kan. So kalau 1 juta ni then dia jadi macam tu lah. Katakanlah seorang pengundi you bayar 200. Kemudian pengundi luar kononnya nak suruh dia balik. So kalau you bayar 1500, cuba cuba kira 1500 orang pengundi bayar 200 ringgit.
 
-[2:32:26] Farhan (Pa'an): Tak, sebab yes, we want to talk about salah guna ataupun Jentera pula. My, saya masih tengah fikir, sanusi kata sejuta dan kita dah kira-kira tadi tu boleh run an election below, below 200,000. 200,000. How do you actually fund a po- a an election? Ha, sebelum sampai tu fund kan?
+[2:21:24] Haziq: 300 ribu. 300 ribu.
 
-[2:32:46] Rafizi: Ha, fund dulu. Kutip duit lah. Ini yang toke semua. Taikun. Taikun, toke semua lah. Yalah. Dia sebab itu apa nama ni, rasuah, sakau tak sakau ni kan. I mean, yalah, you know, after a while I- I- I lost faith in- in semua ni lah. Sebab hakikatnya majoriti ahli politik dan- dan pimpinan yang ada ni, dia terima kononnya lah realiti yang untuk menang pilihan raya ni kita perlukan duit dan belanja sekian-sekian. Jadi siapa nak bagi kalau tauke bagi kan? Cuma dia ada nama yang berasingan lah. Kalau UMNO dia kira penyokong. Kalau PKR pun sekarang aku tak tahulah dia panggil apa. Dia panggil penyokong reformasi kan. Kalau DAP tu pun aku tak tahu panggil apa. Betullah penganalisis politik kata penyuang reformasi. Ah, penyokong reformasi kan. Kalau kalau pejuang reformasi. Ah, pejuang reformasi kan. Kalau PAS dia kira infak semua kan. I think kau tanya aku sama je. This is a question of siapa yang ada peluang untuk membentuk kerajaan. So lagi parti tu lagi dekat dengan Putrajaya, maka lagi mudahlah untuk kutip duit. Ha, kerana yang yang yang businessman duk bagi duit semua ni kan. Sebenarnya dia melihat itu sebagai satu pelaburan. Kalau dia bagi aa 10 juta sekarang. Jadi bila seseorang itu jadi Perdana Menteri, dialah orang yang pertama yang boleh ketuk pintu. Sebab you tak menang kalau I tak bagi 10, 100 juta, 50 juta. Sebab itu kalau kita tengok dalam kes Bersatu lah kan. The amount of money was crazy. 400 juta kan? Dalam yang berbaki, yang yang yang Tan Sri Muhyiddin dan Bersatu didakwa tu berapa? 400 juta kan? 400 juga. Cuba tengok. 2 ratus. 1 200 juta, 1 lagi I think total about 400 eh. Ada 2 kes dia. Cuba tengok. Definitely. Kan? Dia ada satu tu 200 juta. Somehow I remember the total is 400 million.
+[2:21:26] Rafizi: 300 ribu. Itu campur belum lagi campur kalau pergi kat rumah-rumah bagi duit. Ha ni. Ah, dulu-dulu yang kononnya samalah UMNO pun cukup cekap buat benda ni. PAS pun cukup cekap buat benda ni. Iaitu kononnya keluarga angkat. Ha, hantar student-student daripada universiti semua tu, kepung keluarga tu duduk kat situ. Kemudian bayar makan minum semua duduk berkeluarga. Ingat murah ke? Kalau kalau kalau aa campur lagi, setiap satu keluarga tu bayar apa ni, 500 ringgit katakan kalau kalau ada 1000 keluarga, ha dah setengah juta, kan? Ha dah setengah juta. Ha yang itu yang jadi juta-jutanya. Kan. Jadi sebenarnya kos berbelanja pilihan raya ni, dia bolehlah mencapai 1 2 juta sampai 5 juta, 7 juta kan. Tapi bagi saya simple lah. Kalau dia dah sampai melebihi 1 juta tu, you konar kut mana pun kata kamilah parti bagus, kami tak rasuah. Memang you bayar pengundi. It's just a name of, it's just a matter of what names you give kepada duit yang you bagi 200, 300 semua kan. Orang akan katalah engkau cakap senang lah, engkau bandar. Ada je yang a parti yang berlawan di kawasan bandar di KL ni duk bagi duit. Kan. Jadi, then to make matters worse, sebab itu, masa zaman pilihan raya ni ramai orang buat duit. Kerana duit tu tiris. Katakanlah kita nak bayar 2000 orang pengundi luar. Bukan calon tu yang bayar. Bukannya presiden parti tu bayar ke apa. Dia macai dia yang operation kat bawah tu je bayar kan. So bagi duit kat dia. Selalu yang selalu berlaku macam ni, yang aku selalu tak setuju kan. Satu bagi duit kat calon.
 
-[2:35:37] Farhan (Pa'an): 232.5 is the next one. Itu satu. Satu lagi? 200 lah. 200 dan 232. Ha, 200 dan 232.5.
+[2:23:38] Haziq: Bagi duit kat calon.
+
+[2:23:39] Rafizi: Sebab tu orang berlumba-lumba nak jadi calon pilihan raya ni. Sebab dia ingat parti tu banyak duit, aa nanti akan dapat 100,000, 200,000 kan. This is a joke yang real berlaku kan.
+
+[2:23:53] Haziq: Okey.
+
+[2:23:54] Rafizi: Pengalaman masa dekat PKR dulu, terutamanya pilihan raya di Sarawak. And I went through it straight kan, sebab aku kena jaga. Aku tak ada di situlah sebab aku jaga bilik gerakan di Kuching. Tapi budak-budak petugas aku adalah di satu kawasan ni kan. Oh, parti pun pilihlah dia untuk jadi calon di satu tempat kan. I think aku, sebab aku tak pernah nak handle duit lah. I never like it. Sebab I never believe in it lah kan. Entah kut mana siapa dia. Aku dengar report daripada petugas aku kat bawah. Dia dapat ratus ribu jugak ah. Ini tahun 2011 ni. Dia dapat dalam 150 ribu macam tu kan. Lepas tu tiap-tiap hari aku dapat laporan daripada petugas aku kat bawah. Macam mana ni bos? Dia tak nak keluar rumah. Dia tak nak kempen. Dia tak nak keluar rumah. Dan dan sampailah habis memang dia hilang deposit lah di kawasan itu kan.
+
+[2:24:54] Haziq: Tapi dia dapat duit.
+
+[2:24:56] Rafizi: Dengar cerita 2 3 bulan lepas tu dia beli kereta baru. It's a very good business. Ha, sebab tu ramai orang kan. Jadi dia ketirisan macam itulah. Satu cara tiris ialah dengan bagi kat calon. Bagi kat calon 200,000, dia belanja mungkin 20,000. 180 disimpan kat dia. Banyaklah dengan cerita-cerita kat Sabah pun ni kan, contohnya kan. Bila dah mewah kan. Satu lagi ikut kononnya daerah mengundi ke, ikut zon ke ini, untuk bayar kat orang semua ni kan. Dia tiris lah. Bagi kat dia 10,000 untuk dia agih. Mungkinlah 5,000 ke 7,000 dapat kat orang lah. 3,000 tu dia kira ini kos akulah. Kan. Jadi sebab itu ramai orang berlumba-lumba nak jadi calon, berlumba-lumba nak nak nak keliling semua ni kan. Dan sebab itu, kos dia sampai jadi 3 4 juta sebab tiris yang banyak. Sedangkan to run a competent election, sepatutnya saya bagi akulah 200,000 tu dah kira lebih daripada cukup lah. Pa'an nak tanya.
+
+[2:26:10] Farhan (Pa'an): Saya pelik sebab technically SPR ada had dia. Benda-benda macam ni tak track.
+
+[2:26:18] Haziq: Andi Claire.
+
+[2:26:20] Rafizi: Tak, dia to be fair lah. To be fair to SPR jugalah kan. Letih dia nak track semua ni dan sebenarnya peruntukan undang-undang tu ada. So ada dua mekanisma kan untuk untuk track dan dan juga untuk ambil tindakan. Satu ialah sudah tentu pengisytiharan perbelanjaan. Jadi setiap a calon lepas habis pilihan raya tu menang kalah ke apa, dia kena memfailkan pengisytiharan perbelanjaan dia. Itu dia jadi macam mekanisma untuk SPR mengesahkan bahawa dia berbelanja mengikut mengikut apa nama ni had lah kan. Loser. So kalau tak isytihar perbelanjaan, dia tak boleh jadi calon untuk pilihan raya akan datang. Itu satu mekanisma lah. You and I know benda tu tak berkesan. Sebab dia bergantung 100% kepada self declaration. Dan SPR tidak ada keupayaan untuk pergi check satu-satu. Kan? Kecuali kita ada satu independent watchdog yang ada beribu-ribu orang track setiap satu tu lah kan. So itu satu mekanisma yang kita tahu memang, memang it's just a formality kan. Tapi to be fair jugalah kalau tanya SPR, saya ingat SPR kata undang-undang kesalahan pilihan raya memang memperuntukkan kalau ada bukti rasuah dan seperti yang kita sebut tadilah, yang yang yang perbelanjaan sehingga melepasi 200,000 ni memang selalunya berbentuk rasuah. Sebab dia panggillah. Selalunya dia panggil duit minyak. Duit minyaklah, duit tiketlah, macam-macamlah kan. Tapi kalau ada bagi saja duit, benda itu ialah melanggar apa nama ni, peraturan pilihan raya dan boleh terus selepas habis saja keputusan boleh file election petition. Cuma sebelum pilihan raya yang lepaslah, tak jarang sangatlah election petition ni boleh menang. Because it's so difficult untuk dapatkan jal- untuk dapatkan bukti. Sebab orang tu dia terima duit, takkan dia nak mengaku. So you bawa election petition. Aku pernah menguruskan tahun 2013, berpuluh-puluh election petition, semua kalah. And bila kalah tu you kena bayar lawyer, you kena bayar apa nama ni, cost semua kan, dan proses tu panjang. Serik dah aku buat election petition kan. Sebab you kena ada bukti. Cuma dalam AN court lah, to be fair to court pun, sejarah apa nama ni mahkamah di Malaysia, selalunya mereka tidak mengambil judicial, active judicial position dalam soal pilihan raya. Sebab pilihan raya ni demokrasi perlu di dihormati. Kalau jadi ah apa nama ni, hakim dan juga mahkamah pula yang duk buat keputusan mengenai siapa menang kalah ni, eh tak payah buat pilihan raya lah. Dan jadi macam negara-negara lain yang mana pilihan raya tu nanti jadi kecoh sebab hakim tu dituduh macam itu, macam inilah. Jadi. The hurdle, the bar that you have to pass untuk membuktikan memang berlaku penipuan dan rasuah memang historically extremely difficult. I suppose kecuali ada orang saksi yang mengaku saya terima duit sekian-sekian. Ha, ini gambar dia. Ini masuk bank account semua. But obviously parti politik sangat berhati-hatilah. Kecuali dalam pilihan raya umum yang lepas. Sebab itu keputusan pilihan raya Kuala Terengganu dan Kemaman dibatalkan. Ha, ya.
+
+[2:30:34] Haziq: Agak rare.
+
+[2:30:35] Rafizi: I ah memang I think kali pertama berlaku. Kali pertama berlakulah. Seingat sayalah. Itu kali pertama berlakulah. Dan apa nama ni, saya tak bacalah penghakiman semua tu, tapi pada ingatan sayalah kerana ia bersabit dengan program kerajaan negeri semasa pilihan raya. Dan dia memang bagi duit. Ha, you call it whatever you call it lah. Hadiah budak sekolah ke, hadiah itu ke, hadiah ini kan. So, yang itu memang nampak ada precedent lah kalau kerajaan negeri buat begitu. I think Kemaman dan Kuala Terengganu dibatalkan kan. Jadi, itu ialah keadaan yang berlaku sekaranglah. Dan mudah kepada yang menonton orang ramai semua kan. Sebenarnya pengalaman sayalah, kalau kita stick to the law dan kita sanggup tahan muka, tahan telinga dan juga kena maki ataupun kena perli sebab tak bagi duit kan. Dan kita ambil risiko untuk tak bagi duit, aa, walaupun ada risiko kalah. Sebenarnya satu pilihan raya tu boleh dilaksanakan dengan baik dan berkesan di bawah 200,000 ringgit satu kerusi.
+
+[2:32:03] Haziq: By the way, you cakap tentang apa ni PR result PRK dekat ka- PR pilihan raya Kuala Terengganu tu kan yang dia terbalikkan cakap tentang jentera kerajaan lah. Macam mana YB draw the line apa ni guna jentera ke, tak guna jentera ke? Saya ingat.
+
+[2:32:21] Farhan (Pa'an): Saya ada soalan sebelum tu.
+
+[2:32:23] Haziq: Ha, okey.
+
+[2:32:23] Rafizi: Selamba kau potong Haziq, tapi tak apa, sila.
+
+[2:32:26] Farhan (Pa'an): Tak, sebab yes, we want to talk about salah guna ataupun Jentera pula. My, saya masih tengah fikir, sanusi kata sejuta dan kita dah kira-kira tadi tu boleh run an election below, below 200,000.
+
+[2:32:41] Haziq: 200,000.
+
+[2:32:42] Farhan (Pa'an): How do you actually fund a po- a an election?
+
+[2:32:45] Rafizi: Ha, sebelum sampai tu fund kan?
+
+[2:32:46] Haziq: Ha, fund dulu.
+
+[2:32:48] Rafizi: Kutip duit lah. Ini yang toke semua.
+
+[2:32:50] Haziq: Taikun.
+
+[2:32:51] Rafizi: Taikun, toke semua lah. Yalah. Dia sebab itu apa nama ni, rasuah, sakau tak sakau ni kan. I mean, yalah, you know, after a while I- I- I lost faith in- in semua ni lah. Sebab hakikatnya majoriti ahli politik dan- dan pimpinan yang ada ni, dia terima kononnya lah realiti yang untuk menang pilihan raya ni kita perlukan duit dan belanja sekian-sekian. Jadi siapa nak bagi kalau tauke bagi kan? Cuma dia ada nama yang berasingan lah. Kalau UMNO dia kira penyokong. Kalau PKR pun sekarang aku tak tahulah dia panggil apa. Dia panggil penyokong reformasi kan. Kalau DAP tu pun aku tak tahu panggil apa.
+
+[2:33:58] Haziq: Betullah penganalisis politik kata penyuang reformasi.
+
+[2:34:01] Rafizi: Ah, penyokong reformasi kan. Kalau kalau pejuang reformasi. Ah, pejuang reformasi kan. Kalau PAS dia kira infak semua kan. I think kau tanya aku sama je. This is a question of siapa yang ada peluang untuk membentuk kerajaan. So lagi parti tu lagi dekat dengan Putrajaya, maka lagi mudahlah untuk kutip duit. Ha, kerana yang yang yang businessman duk bagi duit semua ni kan. Sebenarnya dia melihat itu sebagai satu pelaburan. Kalau dia bagi aa 10 juta sekarang. Jadi bila seseorang itu jadi Perdana Menteri, dialah orang yang pertama yang boleh ketuk pintu. Sebab you tak menang kalau I tak bagi 10, 100 juta, 50 juta. Sebab itu kalau kita tengok dalam kes Bersatu lah kan. The amount of money was crazy. 400 juta kan? Dalam yang berbaki, yang yang yang Tan Sri Muhyiddin dan Bersatu didakwa tu berapa? 400 juta kan? 400 juga. Cuba tengok.
+
+[2:35:15] Haziq: 2 ratus.
+
+[2:35:16] Rafizi: 1 200 juta, 1 lagi I think total about 400 eh. Ada 2 kes dia. Cuba tengok. Definitely. Kan? Dia ada satu tu 200 juta. Somehow I remember the total is 400 million.
+
+[2:35:37] Farhan (Pa'an): 232.5 is the next one.
+
+[2:35:40] Rafizi: Itu satu. Satu lagi?
+
+[2:35:43] Farhan (Pa'an): 200 lah. 200 dan 232.
+
+[2:35:45] Haziq: Ha, 200 dan 232.5.
 
 [2:35:48] Rafizi: So 400 lah. Ha, betullah aku kata kan? 432 kan? 400 juta. Ini untuk dana pilihan raya 400 juta. So, you know, obviously orang akan bagi kepada siapa yang, yang makin dekat jadi Perdana Menteri ataupun telah menjadi Perdana Menteri because then benda itu boleh di recoup lah. Maksudnya pelaburan itu ROI dia ada kan. So, how do you stop all this? How do you stop all this kan? Because dia obscene amount of money kan. And itu salah satu sebab kenapa orang tak suka akulah. Aku tak sukalah masa kempen tu, especially orang-orang parti politik semua ni, gayanya mengalahkan CEO Google. Dia punya oh hebat turun kereta besar, belakang ni ada 20 orang, semua mewah, budak-budak tak apa-apa bawa kereta besar keliling. I know sebab aku kerja dulu, walaupun jawatan besar, sumpah aku takkan belanja macam itu. Kan aku minyak pun aku berkira contohnya kan. So, but you know it's free money. When it kalau orang berbelanja dengan bebas semua, kempennya 1 jam je. Makan dekat restoran, belanja 20 orang ni 5 jam, contohnya kan. So dia langsung tak efficient kan. So how do you stop all this lah? Of course kita kena ada political financing act lah kan. So dia ada dua pilihan. Dan I think is a hybrid of both lah. Satu, setiap kali kita cakap pasal political financing act ni, kita kena bersedia berbincang mengenai state financing. Maksudnya mana-mana parti politik yang mendapat undi popular melebihi sesuatu threshold nationally, 10% ke, 20% ke, 5% ke, mereka akan mendapat pembiayaan secara berkadar dengan saiz dan undi parti itu untuk setiap tahun. Sebagai timbal baliknya, maka undang-undang aa terhadap ahli politik yang aa didapati bersalah ataupun parti politik itu yang didapati bersalah terlibat dengan politik wang atau rasuah. Undang-undang itu mesti betul-betul ketat supaya timbal balik itu berbaloi. Contohnya kan. Kalau parti atau mana parti itu didapati terlibat dengan politik wang atau rasuah, parti itu diharamkan terus, contohnya kan. Dan pimpinan dia diharamkan terus untuk terlibat dengan politik sampai bila-bila, contohnya kan. Wah, manusia. So ha, ahli politik itu didapati terlibat dengan politik wang, selain daripada dia kena penjara ke apa semua tu kan. Dia tidak boleh terlibat dalam politik langsung dah lepas itu. So, you know, it's a, it's a hybrid of and maksudnya it comes in pairs. If there is a state financing, maka mestilah apa nama ni, datang dengan tindakan undang-undang yang begitu ketat. Satu lagi dari segi transparency lah. Bila ada state financing itu, maksudnya semua perkara kena ijtihar. Berapa yang, yang apa nama ni di dikutip, siapa yang bagi, you kena ijtihar terus. And then dia kena ada limit dialah. But at the end of the day kan, saya rasa buatlah political financing act macam mana pun, mesti ada loophole. Akan ada loophole. Kita punya apa nama ni anti-hopping law pun ada loophole. Ha kan, yang enam orang bersatu tu dia lompat, dia kata kita tak keluar parti, tapi kita hanya menyokong kepimpinan Perdana Menteri kan. So dia tak dikira sebagai melompat kan. So loophole tu akan ada. Sebab itu to me ini yang kita cuba nak buatkan bersamalah kan. Orang marahlah, orang gelak. And I think I will have a lot of difficulty awal-awal ni untuk meyakinkan orang yang masuk bersama dan nak jadi calon semua ni. Ha, dia apply jadi calon seronoklah. Ada ratus-ratus dah apply calon ni tau kan? Seronoklah. Mungkin dia ingat bila jadi calon ni, kita sediakan permaidani karpet merah kat dia macam parti-parti lain. Ha, ni duit satu beg, ha, ini semua. Nanti terduduk dia orang bila kata, no kan. Aku tengah fikir perjanjian contohnya deposit. Ha, deposit kita tengoklah kelayakan masing-masing. Kalau budak tu budak sangat, dia tak ada duit, tapi kita rasa dia umur 20, lewat 20-an, awal 30-an, patut jadi calon. Jadi yang itu mungkin kita kena bayarlah. Tapi kalau orang tu dah memang ada duit semua kan, deposit pun dia tak nak bayar, melampaulah kan. Tapi yang yang yang apa nama ni, kita bayar tu pun ada perjanjian. Contohnya kalau hilang deposit contohnya, separuh dia kena bayar, separuh parti tanggung. Ha kan. Jadi, you know, we will have to put all this in play. Sama jugalah pasal kempen kan. Dia tak boleh nak kira. Dia memang tak ada satu sen pun yang kita akan cari duit untuk kita bayar, untuk bayar pengundi. Kan. Minta maaflah kan. Sama juga aktiviti-aktiviti. Aku macam go through dengan korang. Aku akan tanya, ni korang nak ni untuk buat apa ni? Berapa belanja dia? Kertas satu berapa? Kan? So based on that, we'll try to keep the costing minimum, as minimum as possible kan. So yang kami cuba nak buat kat Brazen ialah membuktikan beberapa perkara. Pertama bahawa kita nak jadi betul-betul telus dan terbuka mengenai perbelanjaan pilihan raya kita. Berapa bendera dekat mana, siapa yang bayar, siapa dapat apa kan? So that I think kita nak cuba prove kan sebenarnya dalam 100,000 lebih tu satu parlimen, sebenarnya kita boleh buat kempen yang nampak berkesan. Itu juga sebahagian sebab kenapa saya buat trak dulu tahun 2016 tau. Sebab bila suruh nak buat ceramah, suruh orang bawah buat ceramah, banyak cekada dia dia minta duit. Dah lah aku yang kena jauh-jauh pergi. Dah lah aku yang kena berceramah. Dah lah kalau aku ceramah dia buat kutipan tu dapat kutipan kat dia. Tapi yalah orang kampung, aku faham lah. Dia akan kata, yalah tapi kami nak bayar khemah, nak bayar PA, nak bayar kerusi semua. Lah aku juga kena bayar 2 3 ribu satu. So aku kata senanglah. Kita buat satu trak, semua ada kat atas tu. Lampu ada kat situ, PA ada kat situ, senang. Kita pergi, kau tak bayar bayar satu sen. Kau beritahu kat mana aku nak park je. Itulah asal usul trak tu. Kerana dia cost effective kan. So, kita nak cuba buktikan bahawa dengan cara kempen baru ni, sebenarnya kita boleh hadkan perbelanjaan, secekap yang mungkin. Tu satu. Sebab itu yang kami pening kepala sekarang ini ialah untuk menjadi inovatif. Macam mana kita nak pakai innovation, kempen innovation supaya kita boleh berkempen dengan murah, tapi tak yalah tak adalah sampai kami hilang deposit kan. Jadi yang itu sebanyak dia akan bergantung kepada petugas dan juga ahli parti dan sukarelawan yang betul-betul yakin dan percaya dengan, dengan apa yang kita bawa. Kerana mereka yang akan berdepan dengan pengundi. Dia yang nak kena jumpa pengundi. Modalnya air liur. Dia nak kena berkorban. Maksudnya kalau dia ambil cuti 5 hari, 3 hari, dia kena ambil cuti. Dia kena duduk kat situ. Orang lupa tau masa zaman-zaman PR dulu Pakatan Rakyat kan berkempen. Ni termasuklah kawan-kawan masa tu lah PAS ke ataupun PKR kan. Sebab itu orang mungkin tak faham kenapa saya cukup kecewa dengan budaya kepit beg, duit berterabur yang ada dalam PKR ni. Sebab saya tak kebelakangan inilah kan. Sebab saya tak lupa masa zaman-zaman dulu kita berkempen. Orang tidur kat surau lah. Ha, all these people, sebab mana parti-parti pembangkang masa tu mana ada duit. Jadi, you build the camaraderie because on the one hand, okeylah saya ada kerja. I'm yalah financially I'm okay kan. Tapi you kena duduk sekali dekat surau kadang-kadang, and then orang datang tumpang-menumpang, ada orang datang naik bas. Dia sanggup duduk kat situ 2 3 hari tu berkempen. Suruhlah dia buat apa. Somehow we have lost it. Semua parti have lost it. PAS pun tak payah nak cakap action lah sejak kaya ni kan. Ha, macam-macam. Semua parti have. Mungkin PSM je masih ada kan yang budaya itu kan. So, you know, it's not just about sentimentality or romanticism, tapi you know, keikhlasan itu kena ada dan lebih baik ada 100 orang ahli dan petugas dalam satu kawasan pilihan raya yang betul-betul ikhlas dan betul-betul berkorban untuk berkempen berbanding dengan ada 1000 orang yang dibayar. Kerana 1000 orang yang dibayar tu dia tak cekap. Bayar dia duit, dia ambil, lepas tu dia mengularlah. Dia ada macam-macam mengular kan. Satu lagi tak berkat kan. Aku lagi sanggup 100 orang yang betul-betul committed dan dia sanggup berkorban because I'm convinced benda itu lebih berkat. Usaha dia tu lagi berkat kan. Kalau kita berjaya dalam PRN Johor ini buktikan kita boleh buat kempen itu dan kita transparent berapa jumlah dia semua. Nanti kita check tau bendera berapa semua aku kira semua nanti kan. Itulah juga yang akan meyakinkan orang ramai bahawa dia orang ni memang orang miskin. Dia tak ada duit semua. Jadi kalau dijual tiket boleh beli. Sebab berapa masuk akan diumumkan. Berapa dibelanjakan akan diumumkan, kan. Selain daripada membantu kami, tidak terikat dengan tauke. It's not that I cannot tau. I can. Saya boleh pergi jumpa tauke-tauke, kawan-kawan business semua. I can raise 20, 30, 40 juta just like that. Boleh. But then what's the point? What's the point buat bersama semua ni kan? Might as well lah aku duduk dalam PKR jadi menteri dulu semua kan. So, ini yang kita cuba nak lalui dalam tempoh satu bulan akan datang. Dan selepas mungkinlah eh selepas minggu depan ke apa, kita akan mula setiap bulan bila kita tutup buku tu kita umum yang ini sebenarnya berapa kita dapat dari segi kita jual meja, daripada sumbangan, daripada crowdfunding. Yang ini belanja dia berapa, yang ini baki berapa, yang mana hutang tak bayar lagi. So, I want to see kalau Bersama boleh buat begitu tiap-tiap bulan, sama ada parti lain boleh buat ke tidak? Sebab diorang ni tak fikir tau masa dia duk serang, duk fitnah Bersama ni. Dapat duit Daim lah, dapat duit sanalah, itu semua ni kan. Bila Bersama mula dengan cukup aa telus menunjukkan satu-satu, kita open book dan orang yakin bahawa yes, actually sumber dia orang memang ahli dia orang dan rakyat biasa yang menyokong kan. Dia tak ada tauke ke apa semua kan. Dan orang akan tanya, habis parti-parti lain yang masuk pilihan raya ni, yang duk umum satu kerusi satu juta, lima juta semua ni, sebenarnya mana mari duit diorang ni? Dan kalau kami boleh buat, orang lain tak buat, dan you faham-fahamlah.
 
 [2:48:41] Haziq: Tapi YB, aa yalah, aa point taken untuk YB cerita semua. Dan tadi kita pun dah buat simulasi kira-kira. Let's say kalau parlimen se- 200,000, DUN let's say lah 100,000, let's say. Dan contoh kalau bersama bertanding 10 contoh. So itu kira sejuta. Adakah dengan cara fundraising macam biasa saja ni akan mencukupi juga? Sebab.
 
-[2:49:06] Rafizi: InsyaAllah. InsyaAllah kan. Setakat ini, kalau kita tengoklah kan, aa jumlah sumbangan orang ramai, ahli daripada yuran tu lebih kurang 500 ribu. Kemudian daripada crowdfunding lebih kurang 300 ribu, 800 ribu. Kemudian kita buat private fundraiser eh. Yes. Private fundraiser ni peraturan dia selalunya ialah satu tiket tu antara 1,000, 5,000, 10,000. Ah, selalunya dia tak lebih 10,000 lah. Yang yang terbaru kita buat satu tiket 1,000 kan? Dan orang datang 50 orang. Cuma lunyai aku kena tanya soalan lah 3 4 jam tu kan. Yang private fundraiser we run 51, kita dapat 50,000. Itu dah dalam 850,000. Sekarang kita tengah aa buat aa We Fun eh. Kita launch aa jenama kita We Fun kan. Dan aa yang pertamanya aa Sabtu minggu depanlah, 27 bulan 6 dekat ni dia dah tukar tempat. Asalnya di Sekolah Jenis Kebangsaan Cina Wangsa Maju. Lepas tu dapat apa nama ni, surat cinta. Surat cinta. Daripada PPD, kena tukar ke Sekolah Jenis Kebangsaan Chung Kuo dekat Jalan Pudu kan. Yang itu setakat ini I think lebih kurang as of tonight lah, lebih kurang dah dekat 50% tiket telah dijual. Semua, most of the tiket yang mahal-mahal, platinum 2000, gold 1000, silver 500, semua dah habis jual. So almost 50%. And I think sales dah dekat 130,000. So ada lebih kurang 100,000 lagilah to close dalam tempoh seminggu. So we reach that 50% sales in about a week. Termasuk dengan ku- apa nama ni, meja yang mahal-mahal. So I think within another week we can raise another 100,000. Maksudnya begini tau. Within 5 weeks of bersama, actually kita dah raise 1 million. Itu campur duit yang- From the rakyat. Direct daripada rakyat tau. Campur yang aku sumbangkan semua dah sebenarnya 1.1 million. So it's doable sebenarnya. Eric? Selesai. Ya, aku accountant. Kalau aku kira-kira tak dapat, tak adalah aku buat ni kan. It's because I think sebenarnya rakyat Malaysia nak tengok dan rakyat akan bagi reaksi kepada macam mana parti politik macam Bersama semua ni aa menguruskanlah. Kalau kita berjaya letakkan standard baru yang lebih baik, maksudnya terbuka, telus, kita kempen pun dengan berjimat, kita laporkan semua. Saya rasa memang rakyat Malaysia dan yang bagi ni, yang yang fundraising tu yalah ada tiket 150 kan, banyak orang beli kan. Tapi kalau tengok fu- crowdfunding yang masuk tiap-tiap hari, actually 10 ringgit, 20 ringgit, you know. Saya pernah melalui sendiri masa kempen 2018 di Temerloh. Dan 2018 Temerloh PH menanglah. Walaupun sebelum itu susah nak menang kan. Amanah menang 2018. Saya dah bagi ceramah semua nak balik dengan trak tu lah nak balik. Ada seorang makcik tua datang berlari-lari. Dia berlari pun aku tengok kesian, aku terjatuh. Aku ingatkan ada apa? Dia bagi 20 ringgit. Aku macam 20 ringgit. So you nak bagi balik kat dia. You tengok dia betul-betul nak suruh aku ambil duit tu kan? Aku ambil duit tu. Aku pun buka. Dia stapler tau. Dia ada mesej dekat duit tu, duit 20 ringgit tu stapler. Ha, yang ini jelah yang saya ada YB ha. So sebenarnya orang underestimate rakyat Malaysia. Kalau kau tengok apa ni video-video podcast kita ni, pergi tengok komen. Ada orang cakap saya jadi ada satu yang masa kita post refund lah, I think 2 3 hari lepas lah. Kita jual meja kan. Alah sedihnya lah, kesian tengok. Dia apa nama ni, dia tulis minta maaf YB, saya tak tak ada duit nak beli meja, tapi saya dah masuk bersama hari pertama, dah bayar 20 dan dah bagi sumbangan 50 ringgit. And there are thousands of these people. And kalau kita boleh berjaya tunjukkan daripada satu pilihan raya ke satu pilihan raya, you know, orang akan bagi. Dan duit itu jauh lebih berkat daripada duit toke yang duk bagi 5 juta, 10, 15 juta ni. Orang lain tak nak percaya. Aku rasa dia percaya sebenarnya yang aku cakap ni. Dia percaya duit tu lagi berkat semua. Dia pemalas. Dia tak nak pergi buat kerja tunjuk, kemudian dia kalau dia ambil duit tu, dia nak ambil duit kat dia, masuk poket dia, dia nak bermewah semua kan. Dia tak nak buat kerja yang yakinkan rakyat, kutip crowdfunding, fund semua ni, kemudian laporkan setiap satu, kemudian berkira kedekut dengan jentera, dengan calon. Orang lain, aku ingat semalam Pa'an hantar permohonan untuk berbelanja kan. Satu hari aku sidai dia, aku tak jawab. Siapa-siapa, siapa-siapa yang hantar mesej untuk berbelanja, memang kau kena tahan dengan aku lama because it's by discipline. You need to be as prudent as possible kan? So, kalau contohnya you run a campaign, you pimpinan tinggi parti kan, kalau kau macam tu, kau tak popular lah. Orang tak suka engkau. Super tak payah ikut dia ni. Dah lah tak ada duit, kedekut. Kedekut.
+[2:49:06] Rafizi: InsyaAllah. InsyaAllah kan. Setakat ini, kalau kita tengoklah kan, aa jumlah sumbangan orang ramai, ahli daripada yuran tu lebih kurang 500 ribu. Kemudian daripada crowdfunding lebih kurang 300 ribu, 800 ribu. Kemudian kita buat private fundraiser eh. Yes. Private fundraiser ni peraturan dia selalunya ialah satu tiket tu antara 1,000, 5,000, 10,000. Ah, selalunya dia tak lebih 10,000 lah. Yang yang terbaru kita buat satu tiket 1,000 kan? Dan orang datang 50 orang. Cuma lunyai aku kena tanya soalan lah 3 4 jam tu kan. Yang private fundraiser we run 51, kita dapat 50,000. Itu dah dalam 850,000. Sekarang kita tengah aa buat aa We Fun eh. Kita launch aa jenama kita We Fun kan. Dan aa yang pertamanya aa Sabtu minggu depanlah, 27 bulan 6 dekat ni dia dah tukar tempat. Asalnya di Sekolah Jenis Kebangsaan Cina Wangsa Maju. Lepas tu dapat apa nama ni, surat cinta. Surat cinta. Daripada PPD, kena tukar ke Sekolah Jenis Kebangsaan Chung Kuo dekat Jalan Pudu kan. Yang itu setakat ini I think lebih kurang as of tonight lah, lebih kurang dah dekat 50% tiket telah dijual. Semua, most of the tiket yang mahal-mahal, platinum 2000, gold 1000, silver 500, semua dah habis jual. So almost 50%. And I think sales dah dekat 130,000. So ada lebih kurang 100,000 lagilah to close dalam tempoh seminggu. So we reach that 50% sales in about a week. Termasuk dengan ku- apa nama ni, meja yang mahal-mahal. So I think within another week we can raise another 100,000. Maksudnya begini tau. Within 5 weeks of bersama, actually kita dah raise 1 million. Itu campur duit yang-
+
+[2:51:29] Farhan (Pa'an): From the rakyat.
+
+[2:51:30] Rafizi: Direct daripada rakyat tau. Campur yang aku sumbangkan semua dah sebenarnya 1.1 million. So it's doable sebenarnya.
+
+[2:51:41] Haziq: Eric? Selesai.
+
+[2:51:43] Rafizi: Ya, aku accountant. Kalau aku kira-kira tak dapat, tak adalah aku buat ni kan. It's because I think sebenarnya rakyat Malaysia nak tengok dan rakyat akan bagi reaksi kepada macam mana parti politik macam Bersama semua ni aa menguruskanlah. Kalau kita berjaya letakkan standard baru yang lebih baik, maksudnya terbuka, telus, kita kempen pun dengan berjimat, kita laporkan semua. Saya rasa memang rakyat Malaysia dan yang bagi ni, yang yang fundraising tu yalah ada tiket 150 kan, banyak orang beli kan. Tapi kalau tengok fu- crowdfunding yang masuk tiap-tiap hari, actually 10 ringgit, 20 ringgit, you know. Saya pernah melalui sendiri masa kempen 2018 di Temerloh. Dan 2018 Temerloh PH menanglah. Walaupun sebelum itu susah nak menang kan. Amanah menang 2018. Saya dah bagi ceramah semua nak balik dengan trak tu lah nak balik. Ada seorang makcik tua datang berlari-lari. Dia berlari pun aku tengok kesian, aku terjatuh. Aku ingatkan ada apa? Dia bagi 20 ringgit. Aku macam 20 ringgit. So you nak bagi balik kat dia. You tengok dia betul-betul nak suruh aku ambil duit tu kan? Aku ambil duit tu. Aku pun buka. Dia stapler tau. Dia ada mesej dekat duit tu, duit 20 ringgit tu stapler. Ha, yang ini jelah yang saya ada YB ha. So sebenarnya orang underestimate rakyat Malaysia. Kalau kau tengok apa ni video-video podcast kita ni, pergi tengok komen. Ada orang cakap saya jadi ada satu yang masa kita post refund lah, I think 2 3 hari lepas lah. Kita jual meja kan. Alah sedihnya lah, kesian tengok. Dia apa nama ni, dia tulis minta maaf YB, saya tak tak ada duit nak beli meja, tapi saya dah masuk bersama hari pertama, dah bayar 20 dan dah bagi sumbangan 50 ringgit. And there are thousands of these people. And kalau kita boleh berjaya tunjukkan daripada satu pilihan raya ke satu pilihan raya, you know, orang akan bagi. Dan duit itu jauh lebih berkat daripada duit toke yang duk bagi 5 juta, 10, 15 juta ni. Orang lain tak nak percaya. Aku rasa dia percaya sebenarnya yang aku cakap ni. Dia percaya duit tu lagi berkat semua. Dia pemalas. Dia tak nak pergi buat kerja tunjuk, kemudian dia kalau dia ambil duit tu, dia nak ambil duit kat dia, masuk poket dia, dia nak bermewah semua kan. Dia tak nak buat kerja yang yakinkan rakyat, kutip crowdfunding, fund semua ni, kemudian laporkan setiap satu, kemudian berkira kedekut dengan jentera, dengan calon. Orang lain, aku ingat semalam Pa'an hantar permohonan untuk berbelanja kan. Satu hari aku sidai dia, aku tak jawab. Siapa-siapa, siapa-siapa yang hantar mesej untuk berbelanja, memang kau kena tahan dengan aku lama because it's by discipline. You need to be as prudent as possible kan? So, kalau contohnya you run a campaign, you pimpinan tinggi parti kan, kalau kau macam tu, kau tak popular lah. Orang tak suka engkau. Super tak payah ikut dia ni. Dah lah tak ada duit, kedekut. Kedekut.
 
 [2:55:18] Farhan (Pa'an): Tapi tepuk on record, kami takut nak hantar.
 
-[2:55:21] Rafizi: Dia sebenarnya dia tak hantar. Dia suruh orang lain hantar. Dia hantar kepada Presiden Bersama. Presiden Bersama selawat banyak-banyak hantar kat aku. Satu hari aku sidai semua orang kan. Semua la la aku cakap, okeylah. Hah? Capex. Ha, Capex, Capex kan. So actually is a discipline. Semua orang yang ahli politik tu tahu tau sebenarnya dia lebih berkat buat macam ini. And you sleep well at night. Kau tak payah takut pasal rasuah ke apa. Masalahnya kerja banyak, susah, kemudian tak popular kan. Jadi semua orang nak jadi popular kan. Jadi akhirnya kita jadilah macam ini masuk pilihan raya, duit masuk.
+[2:55:21] Rafizi: Dia sebenarnya dia tak hantar. Dia suruh orang lain hantar. Dia hantar kepada Presiden Bersama. Presiden Bersama selawat banyak-banyak hantar kat aku. Satu hari aku sidai semua orang kan. Semua la la aku cakap, okeylah. Hah?
 
-[2:56:05] Haziq: YB, 2 jam 55 minit. Ha, berhentilah. Kan aku kena pergi kencing sekali lagi. Ha, okey okey. Kita ada sat- pension nanti lain.
+[2:55:35] Farhan (Pa'an): Capex.
 
-[2:56:13] Rafizi: Pension kemudianlah cerita. Kita buat satu topik lain. Ha, cerita pasal macam mana kita kalau kita nak push supaya orang kurang benci sikit kepada ahli-ahli parlimen dan ahli politik ni. Satu caranya ialah hapuskan pension. Pension. Tapi kita nak kena ulas dengan panjanglah benda itu.
+[2:55:36] Rafizi: Ha, Capex, Capex kan. So actually is a discipline. Semua orang yang ahli politik tu tahu tau sebenarnya dia lebih berkat buat macam ini. And you sleep well at night. Kau tak payah takut pasal rasuah ke apa. Masalahnya kerja banyak, susah, kemudian tak popular kan. Jadi semua orang nak jadi popular kan. Jadi akhirnya kita jadilah macam ini masuk pilihan raya, duit masuk.
+
+[2:56:03] Haziq: YB, 2 jam 55 minit.
+
+[2:56:06] Rafizi: Ha, berhentilah. Kan aku kena pergi kencing sekali lagi.
+
+[2:56:08] Haziq: Ha, okey okey. Kita ada sat- pension nanti lain.
+
+[2:56:13] Rafizi: Pension kemudianlah cerita.
+
+[2:56:15] Haziq: Kita buat satu topik lain.
+
+[2:56:16] Rafizi: Ha, cerita pasal macam mana kita kalau kita nak push supaya orang kurang benci sikit kepada ahli-ahli parlimen dan ahli politik ni. Satu caranya ialah hapuskan pension. Pension. Tapi kita nak kena ulas dengan panjanglah benda itu.
 
 [2:56:35] Haziq: Ya. Kita akan ulas nanti. Jadi itu sajalah kot. Ha, saya pun nak pergi kencing.
 
-[2:56:39] Rafizi: Ha, apa nama ni, aa jangan lupa esok ada, saya di Kelantan esok. Pucat muka saya ni. Ha, takut tak ada orang kan. Jadi kawan-kawan di Kelantan, walaupun tempat tu jauh sikit. PCB dia panggil apa? Pantai Cahaya. Pantai Cahaya Bulan. Bulan. Ha, PCB. PCB ni dekat Tumpat kan? Ya tak. Kat mana PCB? Dekat dekat pantai tempat belah belakang. KB. Obviously nama dia pantai. Pantai dekat mana? Pantai Cahaya Bulan. Pantai cahaya dekat mana? Tapi resort tu kat KB je. Dekat KB? Tapi diorang jauh sikit lah eh. Walaupun jauh sikit, aa bolehlah datang untuk meramaikan orang. Kan, kan ada 5 orang je kat situ kan. Kesian kat kita. Tak, tak jauh sangat dari airport pun. Ya. Ha, airport tu kat Pengkalan Chepa. So dekat Pengkalan Chepa lah kot.
+[2:56:39] Rafizi: Ha, apa nama ni, aa jangan lupa esok ada, saya di Kelantan esok. Pucat muka saya ni. Ha, takut tak ada orang kan. Jadi kawan-kawan di Kelantan, walaupun tempat tu jauh sikit. PCB dia panggil apa?
 
-[2:57:34] Farhan (Pa'an): Atas sikit. Atas sikit ha.
+[2:56:55] Haziq: Pantai Cahaya.
+
+[2:56:56] Rafizi: Pantai Cahaya Bulan. Bulan. Ha, PCB. PCB ni dekat Tumpat kan? Ya tak. Kat mana PCB?
+
+[2:57:03] Farhan (Pa'an): Dekat dekat pantai tempat belah belakang.
+
+[2:57:05] Haziq: KB.
+
+[2:57:05] Rafizi: Obviously nama dia pantai. Pantai dekat mana? Pantai Cahaya Bulan. Pantai cahaya dekat mana?
+
+[2:57:12] Haziq: Tapi resort tu kat KB je.
+
+[2:57:14] Rafizi: Dekat KB? Tapi diorang jauh sikit lah eh. Walaupun jauh sikit, aa bolehlah datang untuk meramaikan orang. Kan, kan ada 5 orang je kat situ kan. Kesian kat kita.
+
+[2:57:28] Haziq: Tak, tak jauh sangat dari airport pun.
+
+[2:57:29] Rafizi: Ya. Ha, airport tu kat Pengkalan Chepa. So dekat Pengkalan Chepa lah kot.
+
+[2:57:34] Farhan (Pa'an): Atas sikit.
+
+[2:57:35] Haziq: Atas sikit ha.
 
 [2:57:36] Rafizi: Kemudian apa nama ni, yang yang di utara Terengganu, orang-orang kampung saya, walaupun saya hanya 4 tahun duduk kat Besut kan. Dekat Besut ke, dekat Pasir Putih ke, yang dekat-dekat tu jumpa kami semua, akhirnya muka-muka ni juga kan.
 
 [2:57:52] Haziq: Afiq akan kerahkan.
 
-[2:57:55] Rafizi: Untuk berada di Jelajah Kancil di Kelantan. Hari Sabtu 20 hari bulan. Kemudian Jelajah Kancil di Pahang, Pahang. Di Indera Mahkota hari Ahad 21 hari bulan. Jadi kepada pekerja-pekerja kilang-kilang kat situ tu, ha, walaupun kita mungkin tak pernah jumpa, tapi saya pernah kerja kat kilang-kilang kat situ kan. Dekat loji-loji petrokimia semua tu. Orang Petronas ke, orang BASF ke, orang-orang biasa ke, orang pelabuhan ke, boleh jumpa kami di Jelajah Kancil di Pahang. Pahang. Hari Ahad 21 hari bulan. Termasuklah juga orang-orang Kemaman. Orang kampung saya, orang Kemaman. Dia dekat je setengah jam je ke Indera Mahkota. Jadi jumpa hari Ahad ini. Okey.
+[2:57:55] Rafizi: Untuk berada di Jelajah Kancil di Kelantan. Hari Sabtu 20 hari bulan. Kemudian Jelajah Kancil di Pahang, Pahang. Di Indera Mahkota hari Ahad 21 hari bulan. Jadi kepada pekerja-pekerja kilang-kilang kat situ tu, ha, walaupun kita mungkin tak pernah jumpa, tapi saya pernah kerja kat kilang-kilang kat situ kan. Dekat loji-loji petrokimia semua tu. Orang Petronas ke, orang BASF ke, orang-orang biasa ke, orang pelabuhan ke, boleh jumpa kami di Jelajah Kancil di Pahang.
+
+[2:58:34] Haziq: Pahang.
+
+[2:58:35] Rafizi: Hari Ahad 21 hari bulan. Termasuklah juga orang-orang Kemaman. Orang kampung saya, orang Kemaman. Dia dekat je setengah jam je ke Indera Mahkota. Jadi jumpa hari Ahad ini.
+
+[2:58:48] Haziq: Okey.
 
 [2:58:49] Farhan (Pa'an): Baik. Dan tiket fundraiser masih boleh beli.
 
@@ -557,17 +1205,22 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [2:59:34] Farhan (Pa'an): Oh, silver dah habis.
 
-[2:59:35] Rafizi: Dah. Platinum dah habis. Silver dah habis kan. Gold tinggal 4. Gold tinggal 4. Standard dah 500.
+[2:59:35] Rafizi: Dah. Platinum dah habis. Silver dah habis kan.
 
-[2:59:44] Farhan (Pa'an): Okey.
+[2:59:39] Farhan (Pa'an): Gold tinggal 4.
+
+[2:59:40] Rafizi: Gold tinggal 4.
+
+[2:59:41] Farhan (Pa'an): Standard dah 500.
+
+[2:59:44] Rafizi: Okey.
 
 [2:59:45] Haziq: Okey, itu saja.
 
 [2:59:47] Multiple speakers: 3 jam tepat.
 
-[2:59:48] Rafizi: 3 jam tepat. Alhamdulillah. Tak malam. Make sure view tak rendah macam minggu lepas eh. Ha, kesian Zaim.
+[2:59:48] Rafizi: 3 jam tepat. Alhamdulillah. Tak malam. Make sure view tak rendah macam minggu lepas eh. Ha, kesian Zaim. Dahun. Zaim. Kesian Zaim dengan Syuk kecil hati. Sebahagiannya sebab cannibalization of content. Sebahagiannya mungkin sebab Gen Z. Nampak sangat yang menonton ini bukan muda-muda.
 
-[2:59:55] Haziq: Dahun.
+[3:00:10] Haziq: Okey, selamat malam.
 
-[2:59:56] Rafizi: Zaim. Kesian Zaim dengan Syuk kecil hati. Sebahagiannya sebab cannibalization of content. Sebahagiannya mungkin sebab Gen Z. Nampak sangat yang menonton ini bukan muda-muda. Okey, selamat malam. Selamat malam. Assalamualaikum warahmatullahi wabarakatuh. Minggu depan YBM kita langsung daripada JB.
-
+[3:00:11] Rafizi: Selamat malam. Assalamualaikum warahmatullahi wabarakatuh. Minggu depan YBM kita langsung daripada JB.

@@ -38,7 +38,7 @@ Each file names the model that produced it in its `model:` frontmatter field.
   which decides who speaks at each word, and a voice comparison names each Nemotron speaker.
   A speaker change within two words of a sentence end moves to that end. The owner's own
   rulings, and every `Audience` turn in a forum, are kept as they are. Before 2026-10-20 the
-  names came from the show's camera cuts; ep19, ep31, ep47, ep53, ep61 and ep62 still do.
+  names came from the show's camera cuts; ep47 and ep61 still do.
   A turn that no evidence can name is labelled `Speaker ?`, as Hansard writes "An Hon.
   Member". Earlier versions came from Gemini and from a local Whisper model; none remain.
 
