@@ -7215,3 +7215,17 @@ DeepSeek's own API would test the model itself.
   then match their published ruling counts and are published. ep47 (a one-word ruling at 15:14
   the gate cannot locate after the relabel) and ep61 (its 01:30-03:00 gold passage lost 56 words,
   one MISMATCH at 15:01) keep the camera labels.
+
+### 2.35: Names before the owner's review: honorifics yes, a Whisper name prompt no (2026-10-20)
+
+- **Adopted:** `adopt_mai_camera_raw.py` runs `check_honorifics.py --write` after the name and YB
+  maps, so the review copy already has the roster's Dato'/Dato' Sri spellings (about 115 hand fixes
+  on ep65-68).
+- **Rejected:** a Whisper `prompt_ids` built from the YouTube description's names (33 tokens on
+  ep68: hosts, Zetrix AI Berhad, JPJ, MyEG, UMNO). Names improved (Zetrix 42 -> 139, Zatrix 55 -> 0)
+  but the words against the owner's ep68 got worse, 2,199 -> 3,640 mismatched (9.5% -> 15.8%): the
+  prompt started loops ("RM200,000.000.000..."), dropped the pauses' punctuation, and once printed
+  itself over a quiet chunk ("Zetrix AI Berhad, JPJ, MyEG, UMNO" repeated at 2:10:01). The
+  correction map and check_raw_facts.py stay the way names are fixed.
+- A first test run was void: the transformers pipeline copies generate_kwargs at creation, so a
+  prompt added afterwards never reached Whisper; both runs were identical.

@@ -256,6 +256,9 @@ def main():
     print("[7/8] reviewed name maps, corpus-wide")
     must([PY, "scripts/fix_proper_nouns.py", "--write"], quiet=True)
     must([PY, "scripts/fix_yb_honorific.py", "--write"], quiet=True)
+    # Owner 2026-10-19: honorific spellings were the largest group of the owner's hand fixes on
+    # ep65-68 (Datuk -> Dato' 78, Datuk Seri -> Dato' Sri 37); fix them before the review copy.
+    must([PY, "scripts/check_honorifics.py", "--write"], quiet=True)
     # 7b. The owner sometimes corrects the WORDS, not the name, and a rebuild takes MAI's
     # spelling back. ep34 2:04:29 lost the dictated figure `0.0179` this way on 2026-09-14
     # and AGAIN on 2026-09-16, because the restore was done by hand both times instead of
