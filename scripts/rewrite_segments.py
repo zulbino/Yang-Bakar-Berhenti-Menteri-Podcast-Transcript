@@ -265,7 +265,7 @@ Rules:
 4. Spoken Malaysian talk repeats itself a lot, so a printed version is usually about half to two-thirds of the spoken length. Aim for that. Where a speaker makes the same point three times, print it once, in its clearest form.
 5. Keep each speaker's own voice, in the first person. Do not add facts, explanations or conclusions the speaker did not say.
 6. Keep the language of each clause as spoken, including mid-sentence code-switching between English and Malay. Do not translate a clause into the other language. Keep colloquial Malay function words ("tak", "ni", "tu", "kita", "sebab", "macam", "kalau", "je", "pun").
-7. A short reply that carries no content ("Ya.", "Betul.", "Okey.") can be dropped when the next turn continues the same speaker's point.
+7. A short agreement ("Ya.", "Betul.", "Okey.", "Yes.") that nobody answers is dropped: the other speaker simply carries on with their point. Keep it when it answers a question (the turn before ends with "?", "kan?", "eh?", "ke?") or when the next speaker responds to it ("Haah.", "Okey.", "Ya." at the start of their turn).
 8. No timestamps, no headings, no frontmatter, no commentary before or after. Output the Q&A body only.
 9. When a speaker READS ALOUD from a document (a slide, annual report, news report, filing, statement or letter), print what they read word for word, inside double quotation marks, in the language it was read. Never shorten, paraphrase or translate read-aloud text; rule 4 does not apply to it. Use quotation marks only for read-aloud text.
 

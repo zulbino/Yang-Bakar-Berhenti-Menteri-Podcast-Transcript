@@ -250,9 +250,10 @@ def main():
     # test at 12 of 19, and all 7 misses were the other person speaking OFF FRAME, which no
     # camera can see. Runs AFTER the merge because before it a backchannel's neighbour is
     # often another fragment rather than the speaker's own block.
-    print("[6d/8] drop contentless backchannels that sit inside one speaker's run")
-    must([PY, "scripts/drop_orphan_backchannels.py", a.tag, "--write"])
-    must([PY, "scripts/merge_same_speaker.py", f"--episode={a.tag}", "--raw-only", "--write"], quiet=True)
+    # Step 6d is OFF since 2026-10-21 (owner): raw.md keeps every short agreement, as the owner's
+    # own ep65-68 edits did (56 restored by ear); only interview.md drops an unanswered one
+    # (rewrite_segments.py prompt rule 7). Nemotron now names these turns, so no `Speaker ?` either.
+    print("[6d/8] skipped: raw.md keeps short agreements (owner, 2026-10-21)")
     print("[7/8] reviewed name maps, corpus-wide")
     must([PY, "scripts/fix_proper_nouns.py", "--write"], quiet=True)
     must([PY, "scripts/fix_yb_honorific.py", "--write"], quiet=True)

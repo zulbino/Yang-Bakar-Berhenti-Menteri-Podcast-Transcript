@@ -7229,3 +7229,13 @@ DeepSeek's own API would test the model itself.
   correction map and check_raw_facts.py stay the way names are fixed.
 - A first test run was void: the transformers pipeline copies generate_kwargs at creation, so a
   prompt added afterwards never reached Whisper; both runs were identical.
+
+### 2.36: raw.md keeps short agreements; only interview.md drops an unanswered one (owner, 2026-10-21)
+
+- The 2026-10-11 Hansard ruling would drop an agreement nobody answers from raw.md. The owner's own
+  ep65-68 edits RESTORED 56 short agreements the pipeline had removed (0-2 left per episode before
+  the edit, 6-29 after). A draft Hansard test on those 56: 18 answer a question, 3 get a reply,
+  35 would be dropped. Owner chose: raw.md keeps all; interview.md applies Hansard.
+- Adoption step 6d (`drop_orphan_backchannels.py` + re-merge) no longer runs. `rewrite_segments.py`
+  prompt rule 7 now names the test: keep an agreement that answers a question or that the next
+  speaker responds to, drop the rest. Turns removed by step 6d before this date are not restored.
