@@ -457,7 +457,7 @@ Tapi kalau tengok macam ini, sebenarnya tak payah tunggu worksheet borang 14 —
 
 **Rafizi:** Tapi dalam media memang jahat.
 
-**Tang Hong Yau:** Sebab dalam media Cina dia memang tunjukkan pasal padu kan. Tapi dia tukar persepsi, rasa down to earth sangat, humble sangat.
+**Tang Hong Yau:** Sebab dalam media Cina dia memang tunjukkan pasal PADU kan. Tapi dia tukar persepsi, rasa down to earth sangat, humble sangat.
 
 **Multiple speakers:** "Aku memang down to earth kan, cuma aku garang je." I think IRL itu bantu banyak lah.
 

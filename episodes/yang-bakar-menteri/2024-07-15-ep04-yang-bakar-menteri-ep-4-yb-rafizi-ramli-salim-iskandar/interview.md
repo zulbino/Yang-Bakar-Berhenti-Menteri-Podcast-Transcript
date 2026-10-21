@@ -26,10 +26,10 @@ topics:
 - Sejarah harga minyak mentah dunia dan formula APM (Automatic Pricing Mechanism)
 - Isu kepimpinan tua vs muda dalam politik Melayu (Anwar, Mahathir, Muhyiddin, KJ)
 - Perpaduan kaum dan polarisasi masyarakat Melayu-Cina-India
-- Penukaran skim Padu kepada Budi
+- Penukaran skim PADU kepada Budi
 - Penggunaan Akta Hasutan 1948 terhadap pengkritik kerajaan dan janji manifesto PH untuk memansuhkannya
 - Isu bekalan beras tempatan dan telur di kawasan bandar
-summary: Dalam episod keempat podcast "Yang Bakar Menteri", Haziq mengetuai sesi bersama tetamu kontroversial Salim Iskandar yang menyoal siasat Menteri Ekonomi Rafizi Ramli secara terbuka tanpa sekatan soalan. Perbualan bermula dengan tuduhan Salim sebagai "kartel Rafizi" sebelum beralih kepada analisis mendalam kekalahan PH di PRK Sungai Bakap, di mana Rafizi menghuraikan konsep correlation lawan causation untuk menolak dakwaan bahawa penarikan subsidi diesel menjadi punca utama kekalahan. Perbincangan meluas kepada isu penyasaran subsidi diesel dan RON95, kenaikan bil elektrik TNB, keberkesanan bantuan STR berbanding BRIM zaman dahulu, dasar gaji progresif, prestasi ekonomi dan keyakinan pelabur, isu kepimpinan tua-muda dalam politik Melayu, peranan Anwar Ibrahim dan Mahathir, penukaran Padu kepada Budi, serta penggunaan Akta Hasutan 1948 terhadap pengkritik kerajaan. Episod diakhiri dengan nasihat Salim supaya kerajaan menunjukkan kerja nyata dan tidak bertindak keras terhadap pengkritik.
+summary: Dalam episod keempat podcast "Yang Bakar Menteri", Haziq mengetuai sesi bersama tetamu kontroversial Salim Iskandar yang menyoal siasat Menteri Ekonomi Rafizi Ramli secara terbuka tanpa sekatan soalan. Perbualan bermula dengan tuduhan Salim sebagai "kartel Rafizi" sebelum beralih kepada analisis mendalam kekalahan PH di PRK Sungai Bakap, di mana Rafizi menghuraikan konsep correlation lawan causation untuk menolak dakwaan bahawa penarikan subsidi diesel menjadi punca utama kekalahan. Perbincangan meluas kepada isu penyasaran subsidi diesel dan RON95, kenaikan bil elektrik TNB, keberkesanan bantuan STR berbanding BRIM zaman dahulu, dasar gaji progresif, prestasi ekonomi dan keyakinan pelabur, isu kepimpinan tua-muda dalam politik Melayu, peranan Anwar Ibrahim dan Mahathir, penukaran PADU kepada Budi, serta penggunaan Akta Hasutan 1948 terhadap pengkritik kerajaan. Episod diakhiri dengan nasihat Salim supaya kerajaan menunjukkan kerja nyata dan tidak bertindak keras terhadap pengkritik.
 language: mixed
 model: claude-haiku-4-5-20251001, gemini-flash-lite-latest
 note: Polished newspaper-style Q&A rewrite, kept in the original mixed English/Bahasa Melayu (closest to how it was actually spoken). Rewritten segment by segment, each segment gated on length, Malay density, figures and speaker labels. See raw.md for the unedited transcript, or interview-en.md / interview-ms.md for single-language versions.
@@ -667,15 +667,15 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** So I think so long as we stick to that, then tak ada masalah.
 
-**Salim Iskandar:** Last my question. Kenapa Padu tukar mu- budi?
+**Salim Iskandar:** Last my question. Kenapa PADU tukar mu- budi?
 
 **Rafizi:** Aku dah jawab kat parlimen.
 
-**Salim Iskandar:** Padu jadi budi.
+**Salim Iskandar:** PADU jadi budi.
 
 **Rafizi:** Dah. Just buat simple aje.
 
-**Salim Iskandar:** Padu tukar jadi budi. Saya sampai buat lagu Budiku tabur paduku.
+**Salim Iskandar:** PADU tukar jadi budi. Saya sampai buat lagu Budiku tabur paduku.
 
 **Rafizi:** Yang yang itu Salim sila follow aku punya TikTok.
 

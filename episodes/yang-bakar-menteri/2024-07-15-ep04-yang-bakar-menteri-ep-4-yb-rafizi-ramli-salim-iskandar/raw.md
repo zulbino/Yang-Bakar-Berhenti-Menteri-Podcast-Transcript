@@ -907,15 +907,15 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [1:14:05] Rafizi: Itu hal kamu. So I think so long as we stick to that, then tak ada masalah.
 
-[1:14:10] Salim Iskandar: Last my question. Kenapa Padu tukar mu- budi?
+[1:14:10] Salim Iskandar: Last my question. Kenapa PADU tukar mu- budi?
 
 [1:14:13] Rafizi: Aku dah jawab kat parlimen.
 
-[1:14:15] Salim Iskandar: Padu jadi budi.
+[1:14:15] Salim Iskandar: PADU jadi budi.
 
 [1:14:16] Rafizi: Dah.
 
-[1:14:16] Salim Iskandar: Just buat simple aje. Padu tukar jadi budi. Saya sampai buat lagu Budiku tabur paduku.
+[1:14:16] Salim Iskandar: Just buat simple aje. PADU tukar jadi budi. Saya sampai buat lagu Budiku tabur paduku.
 
 [1:14:26] Rafizi: Yang yang itu Salim sila follow aku punya TikTok.
 
