@@ -19,7 +19,7 @@ topics:
 - Kontroversi kerosakan hiasan kolam Deepavali di Penang
 - Cadangan kerajaan Selangor memperkenalkan sukan pickleball di sekolah
 - 'Soalan parlimen tentang reformasi pendidikan RMK ke-13: prasekolah 5 tahun dan sekolah rendah 6 tahun'
-- Perkembangan sistem Padu dan penggunaannya dalam agihan subsidi bersasar RON95
+- Perkembangan sistem PADU dan penggunaannya dalam agihan subsidi bersasar RON95
 - Tuduhan 'Memali' oleh YB Kota Bharu (Takiyuddin Hassan) dan reaksi PAS
 - Isu tuntutan 40% hasil Sabah dan keputusan Mahkamah Tinggi Kota Kinabalu
 - Teguran PMX kepada pemaju perumahan mega berkaitan penyediaan sekolah dan tadika
@@ -29,7 +29,7 @@ topics:
 - Campur tangan PAS dalam pilihan raya Singapura dan reaksi kerajaan Singapura
 - 'Berita dunia: kecurian barang kemas di Muzium Louvre dan pelantikan PM baru Jepun'
 - 'Segmen soalan penonton: pesaingan e-dagang China terhadap peniaga tempatan, mekanisme aduan salah laku penjawat awam, dan keberlanjutan reformasi pendidikan merentasi pertukaran kerajaan'
-summary: Episod ke-19 podcast Yang Berhenti Menteri bersama Rafizi Ramli dan moderator Haziq. Bermula dengan segmen "Beria" mengupas isu-isu viral seperti kenyataan pegawai Menteri Pendidikan, hujah Najib Razak dalam kes 1MDB, influencer TikTok, kerosakan hiasan Deepavali, dan cadangan Selangor memperkenalkan pickleball di sekolah. Segmen "Standing Order" membincangkan soalan parlimen mengenai reformasi persekolahan awal (prasekolah 5 tahun) dan sistem Padu. Segmen "Hidup Keras" menumpukan kritikan tajam terhadap PAS -- isu tuduhan "Memali" oleh YB Kota Bharu, dakwaan rasis Ustaz Marzuk Shaari, cadangan Hadi Awang guna dinar ganti USD, dan tuduhan PAS berat sebelah tentang peruntukan pengangkutan (LRT Pulau Pinang lawan ECRL). Turut dibincangkan keputusan mahkamah 40% hasil Sabah, teguran PM mengenai keperluan sekolah dalam projek perumahan, dan campur tangan politik PAS dalam pilihan raya Singapura. Segmen berita dunia menyentuh kecurian di Muzium Louvre dan PM baru Jepun. Episod ditutup dengan segmen soalan penonton mengenai bola sepak, perniagaan online vs produk China, aduan salah laku penjawat awam, dan keberlanjutan reformasi pendidikan.
+summary: Episod ke-19 podcast Yang Berhenti Menteri bersama Rafizi Ramli dan moderator Haziq. Bermula dengan segmen "Beria" mengupas isu-isu viral seperti kenyataan pegawai Menteri Pendidikan, hujah Najib Razak dalam kes 1MDB, influencer TikTok, kerosakan hiasan Deepavali, dan cadangan Selangor memperkenalkan pickleball di sekolah. Segmen "Standing Order" membincangkan soalan parlimen mengenai reformasi persekolahan awal (prasekolah 5 tahun) dan sistem PADU. Segmen "Hidup Keras" menumpukan kritikan tajam terhadap PAS -- isu tuduhan "Memali" oleh YB Kota Bharu, dakwaan rasis Ustaz Marzuk Shaari, cadangan Hadi Awang guna dinar ganti USD, dan tuduhan PAS berat sebelah tentang peruntukan pengangkutan (LRT Pulau Pinang lawan ECRL). Turut dibincangkan keputusan mahkamah 40% hasil Sabah, teguran PM mengenai keperluan sekolah dalam projek perumahan, dan campur tangan politik PAS dalam pilihan raya Singapura. Segmen berita dunia menyentuh kecurian di Muzium Louvre dan PM baru Jepun. Episod ditutup dengan segmen soalan penonton mengenai bola sepak, perniagaan online vs produk China, aduan salah laku penjawat awam, dan keberlanjutan reformasi pendidikan.
 language: en
 model: claude-sonnet-5
 note: Full English translation of interview.md (the mixed-language newspaper-style rewrite).

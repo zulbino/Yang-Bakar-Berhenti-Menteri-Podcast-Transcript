@@ -274,7 +274,7 @@ Ada beberapa dapatan yang menarik yang akan bagi konteks kepada saya. Beberapa p
 
 Kedua, ada buah yang senang dipetik. Dan buah yang senang dipetik yang paling utama ialah berkaitan dengan kebebasan institusi. Kebebasan institusi yang selalu diungkit-ungkit, terutamanya di media sosial, ialah soal lantikan SPRM — sebab lantikan SPRM tu, Tan Sri Azam Baki ni dia dah patut bersara. Dan dalam 2 minggu lepas kan, bila ada bising-bising mengenai, yalah, bising-bising UMNO mungkin keluar daripada kerajaan semua, tiba-tiba ada SPRM mengumumkan bahawa seorang bekas menteri wilayah sekarang ini sedang disiasat. Kita tahulah bekas menteri wilayah itu daripada UMNO. Jadi pandangan rakyat, SPRM ni sebenarnya masa dia tu cukup selari, kan. Jadi kita tak boleh nak marah persepsi rakyat bahawa ada permainan di sini, ada permainan di sini kan. Persepsi ada permainan ini menyebabkan keyakinan kepada SPRM, selagi Tan Sri Azam Baki ada di situ, memang bermasalah. Dan tanpa nak umum semua langkah-langkah reformasi yang disebut ini kan, rakyat biasa tanya, "eh, yang melantiknya engkau, bukankah mudah engkau just tukar je?" Itu satu kan. Tapi kalau contohnya PM umumkan dalam siri pengumuman reformasi ini, contohnya PM mengumumkan bahawa lantikan Ketua Pesuruhjaya SPRM dan kawal selia SPRM tidak lagi berada di bawah Perdana Menteri dan diserahkan kepada parlimen — orang baguslah. Tapi kalau contohnya FOI — FOI ini dah ada. Tahu tak FOI ini dah ada?
 
-**Farhan (Pa'an):** Padu.
+**Farhan (Pa'an):** PADU.
 
 **Rafizi:** Mana ada, bukan? FOI dah ada, dah dekat 15 tahun — di Selangor dan juga di Pulau Pinang. Tapi kenapa dia tidak ada kesan sangat kepada pandangan rakyat mengenai reformasi?
 

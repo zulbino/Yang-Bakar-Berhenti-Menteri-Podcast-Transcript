@@ -636,6 +636,14 @@ CORRECTIONS = [
     (r"\bSani Hamzan\b", "Sany Hamzan",
      "Mohd Sany Hamzan, AMANAH MP for Hulu Langat (en.wikipedia.org/wiki/Mohd_Sany_Hamzan). ep26 x4 "
      "sits beside `Ya, hulu langat`; ep68 x1."),
+    (r"\bbuat padu ceng\b", "buat PADU",
+     "owner 2026-10-21: ep01:berhenti 06:44, 'ceng' is Haziq's sound effect, not a word"),
+    (r"\bHeiTech padu\b", "HeiTech Padu",
+     "the company's name (The Star); ep29, ep39 and ep68 wrote the second word lowercase"),
+    (r"(?<!bersatu )(?<!sokongan )(?<!HeiTech )(?<!Jentayu )\b[Pp]adu\b", "PADU",
+     "Pangkalan Data Utama, the government's central database. Owner 2026-10-21 after reading every "
+     "hit: all name the database except 'bersatu padu' (united), 'sokongan padu' (solid support) "
+     "and the companies HeiTech Padu and Jentayu Padu, which the lookbehinds keep."),
     (r"\blokar\b", "lokap",
      "police lock-up. Owner 2026-10-19 on ep10 0:34:48 ('masuk lokar'); ep14's 'baju lokar' is "
      "the same word, the lock-up clothes."),

@@ -15,7 +15,7 @@ topics:
 - Latar belakang dan perjalanan DSA membina akaun TikTok selepas Covid
 - Hubungan Rafizi dengan media semasa dan selepas menjadi menteri
 - RMK13 dan proses penggubalan Rancangan Malaysia Kelima Belas
-- Skim Padu dan pertikaian dasar bantuan tunai bersasar dengan Kementerian Kewangan
+- Skim PADU dan pertikaian dasar bantuan tunai bersasar dengan Kementerian Kewangan
 - Inisiatif Kemudahan Rakyat (IKR) berbanding saluran permohonan ICU/Majlis Daerah tradisional
 - Proses kitaran belanjawan dan permohonan peruntukan kementerian
 - Ketelusan pengumuman projek kerajaan persekutuan kepada wakil rakyat dan rakyat
@@ -28,7 +28,7 @@ topics:
 - Perebutan kuasa dan penyingkiran Rafizi dalam pemilihan PKR
 - Krisis akar umbi PKR selepas pemilihan parti dan inisiatif 'Ayuh Malaysia'/'Bangkit Malaysia'
 - Peranan Rafizi sebagai backbencher kanan dan pendirian terhadap sesi PMQT serta kestabilan kerajaan Anwar Ibrahim
-summary: Dalam episod kelima podcast Yang Berhenti Menteri, Rafizi Ramli menjemput content creator TikTok Dato' Dr. Syed Azuan Al-Idrus (DSA) untuk sesi "open table" di mana DSA bebas menyoal Rafizi mengenai pelbagai isu semasa. Perbualan bermula dengan latar belakang DSA membina penonton TikTok selepas Covid, sebelum beralih kepada pengalaman Rafizi sebagai bekas Menteri Ekonomi dan hubungannya dengan media. Mereka membincangkan RMK13, skim Padu dan bantuan tunai, program IKR berbanding saluran ICU tradisional, proses kitaran belanjawan kerajaan, masa depan kerajaan perpaduan selepas PRU16, isu melantik calon yang kalah ke jawatan kerajaan, budaya "pemimpin siaran" berbanding "pemimpin sembunyian" dalam politik digital, pelantikan duta AS Nick Adams dan rundingan tarif Trump, dinamik dalaman perebutan kuasa dalam PKR selepas pemilihan parti, serta peranan Rafizi sebagai ahli parlimen backbencher dan pendiriannya terhadap PMQT dan kestabilan kerajaan Anwar Ibrahim.
+summary: Dalam episod kelima podcast Yang Berhenti Menteri, Rafizi Ramli menjemput content creator TikTok Dato' Dr. Syed Azuan Al-Idrus (DSA) untuk sesi "open table" di mana DSA bebas menyoal Rafizi mengenai pelbagai isu semasa. Perbualan bermula dengan latar belakang DSA membina penonton TikTok selepas Covid, sebelum beralih kepada pengalaman Rafizi sebagai bekas Menteri Ekonomi dan hubungannya dengan media. Mereka membincangkan RMK13, skim PADU dan bantuan tunai, program IKR berbanding saluran ICU tradisional, proses kitaran belanjawan kerajaan, masa depan kerajaan perpaduan selepas PRU16, isu melantik calon yang kalah ke jawatan kerajaan, budaya "pemimpin siaran" berbanding "pemimpin sembunyian" dalam politik digital, pelantikan duta AS Nick Adams dan rundingan tarif Trump, dinamik dalaman perebutan kuasa dalam PKR selepas pemilihan parti, serta peranan Rafizi sebagai ahli parlimen backbencher dan pendiriannya terhadap PMQT dan kestabilan kerajaan Anwar Ibrahim.
 language: en
 model: claude-haiku-4-5-20251001
 note: Full English translation of interview.md (the mixed-language newspaper-style rewrite), translated segment by segment.

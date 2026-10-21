@@ -757,7 +757,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [1:53:15] Rafizi: sombong sebelum ni kan?
 
-[1:53:16] Tang Hong Yau: Ha, ya betul. Tapi dalam media memang jahat. Sebab dalam media Cina dia memang tunjukkanlah pasal padu kan. Tapi dia tukar persepsi, rasa down to earth sangat, humble sangat yang.
+[1:53:16] Tang Hong Yau: Ha, ya betul. Tapi dalam media memang jahat. Sebab dalam media Cina dia memang tunjukkanlah pasal PADU kan. Tapi dia tukar persepsi, rasa down to earth sangat, humble sangat yang.
 
 [1:53:29] Rafizi: Aku memang down to earth kan, cuma aku garang je kan.
 

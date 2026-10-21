@@ -789,7 +789,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [1:08:16] Rafizi: It's a combination of issues lah. I- ini yang yang kira momentum yang saya set untuk diri saya sendiri masa saya mula-mula ambil alih tugas kan. Kita ada 5 tahun untuk satu penggal kerajaan kan. Apa-apa perubahan dasar dan visi yang nak dibuat itu mestilah diusahakan dalam 2 tahun pertama. Supaya sebab lepas you lulus, you kena laksana. Tak, you kena laksana lepas tu tu kan. So you nak ubah undang-undang ke, you nak lancar benda baru semua, you ubah buat 2 tahun pertama supaya lepas itu dia mula ada bekas, ada kesan dia kepada rakyatlah kan. Yang ekonominya, yang undang-undangnya, supaya baki 3 tahun itu you fokus kepada pelaksanaan kan. Tapi sebab masing-masing saya ingat bergantung kepada kementerian masing-masing, menteri masing-masing, juga kepada Perdana Menteri kan. Saya rasa dalam 2 tahun pertama tu, ada menteri yang masih lagi mencari rhythm. Kemudian dia pun on a learning curve kan. Dia pun nak belajar semua ni. Jadi perkara-perkara yang sepatutnya bagi sayalah menetapkan rentak tu daripada awal, dia terpulang kepada kementerian masing-masing. Tu yang pertama, kan. Kedua, perkara-perkara reform yang besar, contohnya dari segi lantikan dan sebagainya ini pun sama. Yang itu tak boleh tunggu lama. Sebab orang akan tuntut lepas satu tahun kemudian kita ada pula kes macam Tan Sri Azan Baki sambung, sambung, sambung kan. Jadi dia memang orang akan marahlah. Dan benda-benda itu sepatutnya perkara yang berada di dalam kawalan Perdana Menteri yang perlu dibuat dalam Okey. tempoh yang 2 tahun pertama, yang by now we know lah itu tak tak semuanya berlaku lah.
 
-[1:10:17] Chak Onn Lau: So untuk meningkatkan pena- pemahaman dynamic ni kan. So contohnya macam Padu. Okey. That initiative memang datang dari department from your ministry kan? So, lepas tu ada like hantar email kepada PM dulu ke atau hantar email kepada kabinet and then dapat konsensi or bantahan. Is that the dynamic atau you are free to do whatever you want to do?
+[1:10:17] Chak Onn Lau: So untuk meningkatkan pena- pemahaman dynamic ni kan. So contohnya macam PADU. Okey. That initiative memang datang dari department from your ministry kan? So, lepas tu ada like hantar email kepada PM dulu ke atau hantar email kepada kabinet and then dapat konsensi or bantahan. Is that the dynamic atau you are free to do whatever you want to do?
 
 [1:10:44] Rafizi: No, tak. Dia no mean apabila sesuatu keputusan itu melibatkan dasar Atau akta yang perlu ditukar ataupun melibatkan kementerian-kementerian lain, bidang kuasa orang lain, you kena bawa ke kabinet. Jadi dalam kes PADU contohnya, ia dibentangkan di Majlis Tindakan Ekonomi Negara. Dan dipersetujui. Bila dipersetujui di Majlis Tindakan Ekonomi Negara, bawa ke kabinet. Kabinet setuju. Jadi semua setuju. Tak ada yang tak setuju tau. Tapi budaya kita, negara Malaysia ni, macam saya katalah, dia setuju depan, sabotaj belakang.
 
@@ -797,15 +797,15 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [1:11:26] Chak Onn Lau: Ada sabotaj lah.
 
-[1:11:28] Iqbal: Ada ada orang tanya apa status Padu sekarang then?
+[1:11:28] Iqbal: Ada ada orang tanya apa status PADU sekarang then?
 
-[1:11:31] Rafizi: Status Padu beroperasi 100% lah.
+[1:11:31] Rafizi: Status PADU beroperasi 100% lah.
 
 [1:11:34] Iqbal: Tadi.
 
 [1:11:35] Chak Onn Lau: Tadi. Oh ya.
 
-[1:11:36] Rafizi: See, Padu masa kita bentangkan dan dapat arahan untuk buat, kerana diagnosisnya ada 2 3 keperluan. Kenapa kita perlukan 1 pangkalan data utama yang bersepadu. 1 actually dari segi cost more than anything else yang mungkin rakyat di luar tak faham.
+[1:11:36] Rafizi: See, PADU masa kita bentangkan dan dapat arahan untuk buat, kerana diagnosisnya ada 2 3 keperluan. Kenapa kita perlukan 1 pangkalan data utama yang bersepadu. 1 actually dari segi cost more than anything else yang mungkin rakyat di luar tak faham.
 
 [1:11:56] Iqbal: Zamiya, apa maksud tu?
 
@@ -871,9 +871,9 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [1:18:45] Rafizi: Dia dia actually kalau you're freelance, you still have to pay tax. You still file your LHDN. Jadi kalaupun tak ada dalam EPF, dia akan ada dalam LHDN. Dia yang betul-betul berisiko, tidak ada maklumat daripada LHDN ataupun EPF hanyalah informal workers yang gaji bawah-bawah ni, seribu setengah, dua. Tapi orang ni besar kemunan kemungkinan memang layak untuk dapat bantuanlah. Tapi kalau orang yang memang ada pendapatan, it will appear somewhere. Sebab itu kita kena gabungkan sebenarnya. Jadi kalau dia misde declare pun kan, memang ada algorithm yang tengok aa dia ni sekian sekian sekian. Income dia dia kata seribu, tapi kereta dia dia ada BMW. Rumah dia ada banyak ni. Dekat LHDN ada macam ini. Dia, dia punya last 3 years punya tax return. So the algorithm will automatically flag up sebenarnya.
 
-[1:19:46] Chak Onn Lau: So Padu ada algorithm.
+[1:19:46] Chak Onn Lau: So PADU ada algorithm.
 
-[1:19:47] Rafizi: Ya, ya, ada, ada. That's also part yang saya ingat ada setengah orang tak suka Padu lah. Maksudnya dia, dia, they fear the transparency. They fear that alamak lepas ni kerajaan tahu aku misdeclare, de- declare ke, under declare ke apa semua ni kan. Jadi ada juga orang, terutamanya orang bandar lah, yang melihat PADU ni sebagai satu cara untuk kerajaan kejar orang bayar tax. Kan? So ada yang macam tu kan. Jadi opposition kepada PADU ni dia banyak pelbagai-pelbagai. Dalam kerajaan ada je bentuk lain, orang ramai ada bentuk lain. Tapi as a country, kita tak boleh bergerak ke depan tanpa ada satu centralized database. And that job is done. Mana-mana kerajaan masuk lepas ni cuci kaki je. Dah ada dah. Cuma they just have to think the use cases nak buat macam mana. So sekarang ini Padu contohnya, memang dah ada beberapa use cases. Contohnya PTPTN. They are working on use case untuk dia nak pertimbangkan yang mana apa nama ni bayaran bulanan macam mana because you need to categorize into socio-economic groups kan. Then they fall back to PADU lah. Dan juga yang and I think as we go along, setiap kali dia nak nak nak assess kedudukan kewangan ataupun sosioekonomi seseorang itu more fairly, they will fall back to PADU.
+[1:19:47] Rafizi: Ya, ya, ada, ada. That's also part yang saya ingat ada setengah orang tak suka PADU lah. Maksudnya dia, dia, they fear the transparency. They fear that alamak lepas ni kerajaan tahu aku misdeclare, de- declare ke, under declare ke apa semua ni kan. Jadi ada juga orang, terutamanya orang bandar lah, yang melihat PADU ni sebagai satu cara untuk kerajaan kejar orang bayar tax. Kan? So ada yang macam tu kan. Jadi opposition kepada PADU ni dia banyak pelbagai-pelbagai. Dalam kerajaan ada je bentuk lain, orang ramai ada bentuk lain. Tapi as a country, kita tak boleh bergerak ke depan tanpa ada satu centralized database. And that job is done. Mana-mana kerajaan masuk lepas ni cuci kaki je. Dah ada dah. Cuma they just have to think the use cases nak buat macam mana. So sekarang ini PADU contohnya, memang dah ada beberapa use cases. Contohnya PTPTN. They are working on use case untuk dia nak pertimbangkan yang mana apa nama ni bayaran bulanan macam mana because you need to categorize into socio-economic groups kan. Then they fall back to PADU lah. Dan juga yang and I think as we go along, setiap kali dia nak nak nak assess kedudukan kewangan ataupun sosioekonomi seseorang itu more fairly, they will fall back to PADU.
 
 [1:21:08] Chak Onn Lau: So okay, that was the question also from one of the the people because cuba saya faham lah. So sekarang status PADU, maknanya basis database semua dah ada. Yang aa boleh digunakan aa aa aa aa by each ministry lah. Tapi kegunaan tu belum siap lagi kah?
 
@@ -889,13 +889,13 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [1:22:09] Chak Onn Lau: For what?
 
-[1:22:10] Rafizi: Because sekarang ni ada macam-macam. And each one cost money, kemudian tak update and vendornya banyak and so on. And actually kepada rakyat dia menyusahkan. You should just have one app yang semua ada kat situlah. And that's part and parcel of digitizing our government service kan. So apa nama ni, Kementerian Digital when they have been developing it, I don't know bila dia nak launch. Memanglah back end dia adalah Padu. Cuma we don't, I mean, rakyat tak pergi, dia nampak Padu ni seolah-olah Ron 95 saja.
+[1:22:10] Rafizi: Because sekarang ni ada macam-macam. And each one cost money, kemudian tak update and vendornya banyak and so on. And actually kepada rakyat dia menyusahkan. You should just have one app yang semua ada kat situlah. And that's part and parcel of digitizing our government service kan. So apa nama ni, Kementerian Digital when they have been developing it, I don't know bila dia nak launch. Memanglah back end dia adalah PADU. Cuma we don't, I mean, rakyat tak pergi, dia nampak PADU ni seolah-olah Ron 95 saja.
 
 [1:22:47] Chak Onn Lau: Yes, yes.
 
-[1:22:47] Rafizi: It's actually much, much wider than that. Imagine you tak ada back end untuk your system. So Padu is the back end untuk government system and it is done.
+[1:22:47] Rafizi: It's actually much, much wider than that. Imagine you tak ada back end untuk your system. So PADU is the back end untuk government system and it is done.
 
-[1:22:57] Chak Onn Lau: Okey, soalan terakhir tentang Padu kan? Maknanya sekarang YB telah with your ministry has destroyed all the silos. Or after Padu exist, can MOF still maintain their silo? Can MOE still maintain their silo? Maknanya dia ada data sendiri, tak payah plug into Padu.
+[1:22:57] Chak Onn Lau: Okey, soalan terakhir tentang PADU kan? Maknanya sekarang YB telah with your ministry has destroyed all the silos. Or after PADU exist, can MOF still maintain their silo? Can MOE still maintain their silo? Maknanya dia ada data sendiri, tak payah plug into PADU.
 
 [1:23:20] Rafizi: No, di di apa nama ni, kementerian masing-masing masih ada apa nama ni database masing-masing. Sebabnya ialah bila kita buat PADU, bukannya kita hapuskan semua database yang lain, but it extracts, it integrates.
 
@@ -917,15 +917,15 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [1:24:29] Chak Onn Lau: Ikan besar.
 
-[1:24:29] Rafizi: Tak, kita juga, I mean before and in fact dalam RMK 13 tu memang kita dah letakkan sistem IT kerajaan mesti berdasarkan kepada enterprise. And enterprise architecture ni mesti di di atas sekali yang yang menggabungkan semua kementerian-kementerian. Jadi contohnya, kalaulah ada kementerian or jabatan A dia pandai-pandai nak buat dia punya sendiri, tapi dia tak fall into the right spot ataupun dia tak fit into enterprise architecture, and therefore dia kena buat daripada scratch. Bila dia pergi minta bajet dekat Kementerian Ekonomi, Kementerian Ekonomi tak nak bagi, tak bolehlah sebab dia tak fit. Because you don't have to do A, B, C, D, E. You should only do C and D. Sebab A, B, C ni Padu dah ada, yang ni dah ada, yang ni dah ada. That's how you control it jugalah.
+[1:24:29] Rafizi: Tak, kita juga, I mean before and in fact dalam RMK 13 tu memang kita dah letakkan sistem IT kerajaan mesti berdasarkan kepada enterprise. And enterprise architecture ni mesti di di atas sekali yang yang menggabungkan semua kementerian-kementerian. Jadi contohnya, kalaulah ada kementerian or jabatan A dia pandai-pandai nak buat dia punya sendiri, tapi dia tak fall into the right spot ataupun dia tak fit into enterprise architecture, and therefore dia kena buat daripada scratch. Bila dia pergi minta bajet dekat Kementerian Ekonomi, Kementerian Ekonomi tak nak bagi, tak bolehlah sebab dia tak fit. Because you don't have to do A, B, C, D, E. You should only do C and D. Sebab A, B, C ni PADU dah ada, yang ni dah ada, yang ni dah ada. That's how you control it jugalah.
 
 [1:25:19] Chak Onn Lau: Faham. I think we have to move on already for now.
 
 [1:25:22] Iqbal: Let's or how was the time?
 
-[1:25:25] Rafizi: Oh, itulah yang korang kata apa nama ni pedasnya. Korang nak tanya pasal Padu lah rupanya.
+[1:25:25] Rafizi: Oh, itulah yang korang kata apa nama ni pedasnya. Korang nak tanya pasal PADU lah rupanya.
 
-[1:25:30] Chak Onn Lau: Tak. Padu yang senang je. Yang ni nak tanya ke tak?
+[1:25:30] Chak Onn Lau: Tak. PADU yang senang je. Yang ni nak tanya ke tak?
 
 [1:25:34] Iqbal: Maybe then we wrap up to the last question, Cyber Troopers.
 
