@@ -58,39 +58,39 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Azlan Awang:** Terima kasih banyak kerana menjemput saya. Apa yang sebenarnya apabila anda melancarkan Putra itu, kami bimbang juga kerana dalam proses kongres kan, Putra, kami tidak dapat dan kami telahpun mengingatkan MTM dan dewan, kami berada dalam apa yang dipanggil jawatankuasa tetap. Kami adalah ahli tetap di jawatankuasa pemandu atau sepertinya, anda tahu.
 
-**Ibrahim Sani:** Jadi kami hadiri banyak juga beberapa mesyuarat lah dengan
+**Azlan Awang:** Jadi kami hadiri banyak juga beberapa mesyuarat lah dengan
 
 **Azlan Awang:** Ada yang apa ni Datuk Seri Z. Pengerusi MBD. Yang selebihnya dipengerusikan oleh Asyraf atau. Jadi kami diingatkan bahawa harus ada, harus ada, mesti ada matlamat yang jelas dan matlamat yang munasabah dan semacam panduan yang benar untuk agenda Melayu. Tetapi entah bagaimana ia tidak pernah diambil kira. Jadi kami bimbang apabila anda melancarkan, maksud saya perdana menteri melancarkan Putra, kami bimbang tidak akan ada sebarang matlamat yang boleh diukur sedemikian, sebarang matlamat kuantitatif yang pasti. Alhamdulillah, kami, apabila kami melihat 9 Matlamat tersebut, kami agak, anda tahu, agak lega lah. Walau bagaimanapun, terdapat, terdapat beberapa, saya rasa terdapat beberapa, sesetengah matlamat. Saya fikir kebanyakan daripadanya diambil daripada RMK 12. Kedua-dua RMK 12 yang asal dan semakan separuh penggal anda. Dan, dan kami sedar bahawa terdapat sedikit penurunan dari segi nilai sasaran dan macam-macam lagi lah. Dan macam, iaitu 3, betul? Jadi itu, itu kami amat biasa. MTAM amat biasa dengan matlamat dan sasaran Bumiputera dan macam-macam lagi kerana kami sebahagiannya terlibat Wawasan Kemakmuran Bersama, betul? Pada peringkat awal. Jadi kebanyakan matlamat tersebut telah dibangunkan oleh Majlis Tindakan Ekonomi Melayu. Jadi salah satu perkara yang kami sedar ialah nisbah upah median antara Bumiputera dengan Cina. Anda, anda turunkan kepada 0.9 berbanding 1 kepada 1, betul? Isipadu isi rumah kepada memang 0.9 kepada 1.
 
-**Ibrahim Sani:** Jadi itu, itu boleh difahami kerana pendapatan isi rumah, ada, ada unsur kekayaan, unsur kesan kekayaan di situ, yang tidak mudah untuk.
+**Azlan Awang:** Jadi itu, itu boleh difahami kerana pendapatan isi rumah, ada, ada unsur kekayaan, unsur kesan kekayaan di situ, yang tidak mudah untuk.
 
 **Azlan Awang:** Tetapi upah adalah, dengan andaian bahawa anda, anda mempunyai kelayakan, pendidikan, bakat yang sama, dan macam-macam lagi, anda sepatutnya mendapat ni. Jadi sepatutnya 1 kepada 1 lah, pada, pada pendapat kami.
 
-**Ibrahim Sani:** Perkara yang satu lagi ialah apa yang dipanggil sumbangan, sumbangan perusahaan Bumiputera.
+**Azlan Awang:** Perkara yang satu lagi ialah apa yang dipanggil sumbangan, sumbangan perusahaan Bumiputera.
 
 **Azlan Awang:** Sumbangan ekonomi Bumiputera kepada KDNK. Ini ada dalam Wawasan juga, tetapi Wawasan dalam Wawasan dan kemudian saya fikir ia diteruskan dalam RMK 12, 20% ni lah. Terus terang, itu bukan sesuatu yang diketengahkan oleh MTEM lah, anda tahu, kerana kami lebih berusaha supaya Bumiputera mempunyai bahagian tertentu dalam KDNK per kapita kerana kami fikir itu akan menjadi lebih holistik. Tetapi entah bagaimana, dan dalam proses mereka, kerana kami, kami keluar apabila mereka mengambilnya dalam kerajaan 2018, betul? Kami sebelum mereka ni lah, sebelum mereka. Tidak, minta maaf, sebenarnya semasa kerajaan itulah kami, kami membangunkan ini. Ia telah dibentangkan kepada Majlis Presiden dan Pemukiman PH. Jadi ia diluluskan dalam kabinet, sejenisnya, tetapi entah bagaimana ia dikeluarkan oleh EPU. 75, 70% KDNK per kapita kerana kami fikir itu akan merangkumi matlamat ekonomi yang sangat baik lah. Kedua-dua upah serta lebihan operasi kasar. Tapi diorang keluarkan dan kemudian mereka letakkan 20% sumbangan Bumiputera itu. Dan kemudian itu pun anda kurangkan daripada 20% kepada 15%. Kerana itu akan mempunyai beberapa, beberapa kesan memandangkan ia adalah sumbangan kepada KDNK. Maksudnya jika anda kurangkan sebanyak 5%, anda bercakap tentang 5% pada tahun 2035, ia boleh jadi KDNK boleh jadi sama ada antara 3 trilion hingga 4 trilion, bergantung
 
-**Ibrahim Sani:** kepada pertumbuhan yang anda andaikan.
+**Azlan Awang:** kepada pertumbuhan yang anda andaikan.
 
 **Azlan Awang:** Pada pertumbuhan 4%, anda bercakap tentang 3 trilion.
 
-**Ibrahim Sani:** Jadi kalau pada 3 trilion pun, kalau 5% turun, anda
+**Azlan Awang:** Jadi kalau pada 3 trilion pun, kalau 5% turun, anda
 
 **Azlan Awang:** Bercakap tentang 5% darab 3 adalah kira-kira 150 bilion. Ni lah maksudnya ia akan menurunkan ni. 20% pun sudah sukar. Kalau 20% nak capai pun sukar, betul? Kerana 20% ni, apa yang dipanggil sumbangan Bumiputera kepada KDNK ni, dia sebenarnya adalah nilai tambah. Ia adalah ukuran nilai tambah yang terdiri daripada pulangan perniagaan, lebihan operasi kasar, serta gaji lah, atau pampasan pampasan majikan. Jadi, lazimnya berdasarkan tinjauan pertubuhan sebelum ini punya ni adalah kira-kira 30%. Untuk kedua-dua bukan Bumiputera dan Bumiputera, ia adalah kira-kira 30% hingga 70%, 70% kasar dan 30%. Jadi kita boleh anggarkan, sebaik sahaja anda mempunyai 15% atau 20% daripada KDNK itu, anda boleh menganggarkan apakah jumlah kasar untuk Bumiputera yang anda sasarkan lah.
 
-**Ibrahim Sani:** Dan sudah tentu, KDNK Bumiputera akan terdiri daripada lebihan operasi kasar ditambah upah global. Kerana upah kat dalam perusahaan Bumiputera itu pada asasnya dia punya ni lah kata dalam kes tahun 2015 punya, kerana data terkini yang ada adalah 2015. Tinjauan pertubuhan. Saya tertanya-tanya jika mungkin YB Menteri sudah ada dah anda yang terkini punya ni, Dawson punya ni.
+**Azlan Awang:** Dan sudah tentu, KDNK Bumiputera akan terdiri daripada lebihan operasi kasar ditambah upah global. Kerana upah kat dalam perusahaan Bumiputera itu pada asasnya dia punya ni lah kata dalam kes tahun 2015 punya, kerana data terkini yang ada adalah 2015. Tinjauan pertubuhan. Saya tertanya-tanya jika mungkin YB Menteri sudah ada dah anda yang terkini punya ni, Dawson punya ni.
 
 **Azlan Awang:** Saya rasa anda ada kerana anda memetiknya kedudukan semasa ialah 8%, 8.1% kan?
 
-**Ibrahim Sani:** Jadi matlamat yang anda kira dari situ, anda boleh apabila anda tambah anda perlu menambah keseluruhan global
+**Azlan Awang:** Jadi matlamat yang anda kira dari situ, anda boleh apabila anda tambah anda perlu menambah keseluruhan global
 
 **Azlan Awang:** kerana kat dalam perusahaan Bumiputera itu dia kalau 2015
 
-**Ibrahim Sani:** mereka hanya bayar kira-kira 67 bilion gaji, betul? Tapi kebanyakan Bumiputera, mereka bekerja di syarikat multinasional dan syarikat bukan Bumiputera dan kerajaan, betul? Jadi itu membentuk ni global lah, termasuk yang 67 kat dalam tinjauan pertubuhan Bumiputera. Jadi, dulunya kira-kira 200, 230 bilion, 280 bilion pada 2015, 2018. Jika anda unjurkan berdasarkan asas ikrar, betul, maksudnya tiada dasar baharu yang sebenar mengenai gaji ini, maka ia
+**Azlan Awang:** mereka hanya bayar kira-kira 67 bilion gaji, betul? Tapi kebanyakan Bumiputera, mereka bekerja di syarikat multinasional dan syarikat bukan Bumiputera dan kerajaan, betul? Jadi itu membentuk ni global lah, termasuk yang 67 kat dalam tinjauan pertubuhan Bumiputera. Jadi, dulunya kira-kira 200, 230 bilion, 280 bilion pada 2015, 2018. Jika anda unjurkan berdasarkan asas ikrar, betul, maksudnya tiada dasar baharu yang sebenar mengenai gaji ini, maka ia
 
 **Azlan Awang:** akan naik sehingga 800. Jadi anda sebenarnya boleh, dari situ anda boleh menganggarkan Keluaran Dalam Negeri Kasar (KDNK) Bumiputera. Anda tahu lebih kurang KDNK Bumiputera, pertumbuhan penduduk, trend atau tidak. Jadi anda boleh tentukan apakah KDNK per kapita pada tahun 2035. Jadi, disebabkan oleh penurunan utama 15% itu, walaupun penurunan 5%, tetapi ia sebenarnya
 
-**Ibrahim Sani:** Apa itu *freeze*, ia tidak berkembang.
+**Azlan Awang:** Apa itu *freeze*, ia tidak berkembang.
 
 **Azlan Awang:** KDNK per kapita Bumiputera mengikut data tahun 2015, ia langsung tidak berkembang. Jadi itulah kebimbangan kami. Dan sudah tentu, memandangkan apa tu maksudnya ia bukan matlamat yang begitu sukar. Maksudnya anda hanya kekalkan apa sahaja kan. Cuma pada gaji sahaja anda kekalkan.
 
@@ -98,11 +98,11 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Azlan Awang:** Dan yang terkini baru-baru inilah, Ren Hill.
 
-**Ibrahim Sani:** Anda tahu, mereka menjual saham mereka dan macam-macam lagi kan.
+**Azlan Awang:** Anda tahu, mereka menjual saham mereka dan macam-macam lagi kan.
 
 **Azlan Awang:** Jadi, tetapi kami tidak mempunyai data secara keseluruhan. Kami tidak tahu.
 
-**Ibrahim Sani:** Maksud saya, Kementerian Ekonomi akan ada, dan kemudian saya rasa Teraju juga ada buat ya ni.
+**Azlan Awang:** Maksud saya, Kementerian Ekonomi akan ada, dan kemudian saya rasa Teraju juga ada buat ya ni.
 
 **Azlan Awang:** Kita banyak membuat spekulasi. Setiap kali kita melakukan banyak perkara yang kita panggil ekonomi gerila (*gorilla economics*). Apa sahaja data yang kita ada, kita cuba menganalisisnya supaya kita dapat melihat gambaran besar tanpa terlalu banyak ralat. Jadi itulah yang kita bimbang. Sudah tentu, kenaikan gaji daripada 0.9 kepada 1 itu okay, mungkin tidak memberi kesan yang begitu besar kerana kita melihat kepada pertumbuhan keseluruhan.
 
@@ -150,17 +150,17 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Tapi cerita aliran tunai itu mungkin tidak betul. Sebab selalunya cabaran dalam kerajaan setakat inilah dalam 20 bulan yang lepas, sebenarnya hendak pastikan projek itu berjalan lebih cepat supaya kita boleh salurkan bayaran. Cabarannya ialah banyak projek yang sepatutnya diselesaikan mengikut *milestone* dia, kebanyakannya ada masalahlah. Sepanjang tempoh itu. Kemajuan tidak cukup baguslah. Kemajuan tidak cukup bagus.
 
-**Azlan Awang:** Mereka tidak memenuhi-
+**Ibrahim Sani:** Mereka tidak memenuhi-
 
 **Rafizi:** Kemajuan tidak cukup bagus. Jadi, *milestone* projek tidak- Jadi kalau sepatutnya projek itu kita sudah salurkan 20 juta, setakat ini *milestone* dia baru 10 juta. Jadi daripada pandangan contohnya dekat Kementerian Ekonomi secara makro lah kan, kita mahu pastikan kalau tahun itu kita suntik 90 bilion dalam projek infrastruktur DE, 90 bilion belanja semualah. Jadi saya fikir sebenarnya ada isu. Malah, kita sedang lihat proses itu dengan KKR, dengan JKR. Malah, sekarang kita sedang melalui proses untuk pembaharuan DE. Tapi ia lebih kepada dari segi kecekapan. Yalah, kecekapan kan, penyampaian projek. Cuma satu perkara saya ingat yang, yang kerajaan mana-mana jabatanlah ia kena tangani kan. Dari perspektif sektor swasta, tidak kisahlah Bumiputera ke bukan Bumiputera kan, bila dia berurusan dengan kerajaan, tambah kalau perolehan kan, dia nampak dari perspektif dia sajalah. Jadi dia mungkin okey. Tapi bila kerajaan buat peraturan, borang semua ini kan, ia kena mengambil kira keseluruhan kemungkinan. Ha, inilah cabaran dia. Kerana sementara 80% itu okey, ada 20% yang tidak okey. 20% yang tidak okey itu selalunya yang menyebabkan peraturan dia kena penuhi untuk golongan itu. Dan saya dapati ia memang masih lagi mencabar kerana kalau kita mahu apa nama ini, relaks atau kita mahu mengambil kira, kita tidak mengambil kira risiko itu. Kalau tiada 20% yang bermasalah itu tidak apa. Tapi kalau ada, ia menjadi laporan Ketua Audit Negara, ia pergi Parlimen, yang itu yang rakyat bising. Dan untuk berlaku adil, kalau jadi pegawai kerajaan kan, dia memang tersekat di tengah-tengah. Jadi sebab itu kecenderungan dia adalah untuk memastikan peraturan, syarat semua itu betul-betul merangkumi semua ini. Tapi merangkumi semua ini sebenarnya mahu menguruskan masalah epal busuk yang mungkin 10-20%. Tapi kesan dia mungkin kepada 80% yang lainlah. Jadi proses itu memang agak mencabarlah. Maksud saya, kita sedang lihat contohnya macam mana kita mahu imbang antara peraturan, prosedur semua itu, supaya hanya kerana kita mahu fokus, kita mahu merangkumi 20% yang selalunya bermasalah ini, ia tidak memperlahankan atau menyusahkan semua yang lain kan. Tapi pengalaman saya 20 bulan, saya sebenarnya terkejut dengan betapa kreatifnya rakyat Malaysia dengan cara mahu melencong. Jadi dan saya melalui proses itu. Bila saya reka sesuatu kan, saya tidak terfikir boleh dia buat macam itu. Jadi kita pun ah okeylah begini, begini, begini kan. Jadi banyak pada awal-awal itu, keluk pembelajaran saya sendiri, saya selalunya ketepikan pegawai-pegawai saya. Tidak apa, buat begini, begini kan. Kemudian ia jadi, barulah anda sebenarnya ada kebijaksanaan apabila mereka kata ya, ya, sebab dalam proses kerajaan benda ini pernah berlaku. Ya. Jadi saya fikir itu juga apa nama ini, adalah proses pembelajaran tentang macam mana kita mahu menguruskan semua inilah kan. Dan sebab itu bila perbincangan pasal prosedur, borang, perolehan semua ini, ia jadi proses yang panjang kerana kementerian atau jabatan yang bertanggungjawab itu, mereka akan beritahu, yalah kita buat macam ni sebab dulu kita dah kena. 1, 2, 3, 4. Jadi seseorang harus membuat keputusan pertimbangan itu. Dan itulah yang satu demi satu yang kita kena tengoklah.
 
 **Azlan Awang:** Boleh, boleh saya beralih daripada pembinaan? Mengenai perolehan lain, contohnya seperti perolehan kesihatan ini banyak kan? Apa ni ubat, perubatan dan sebagainya. Saya nak cerita satu kes. Kes ini adalah kes sebenar lah. Orangnya orang Terengganu juga. Orang Dungun. *Right?* Dia adalah, dia adalah, dia adalah jawatan terakhirnya dia jadi kerja ialah pengurus negara untuk Pfizer di Singapura. *Right.* Sekarang, bagaimana anda menilai orang seperti itu, *man*? Maksud saya, dia berpangkalan di New York dan kemudian akhirnya ditempatkan kat Singapura. *Right.* Sebagai pengurus negara. Kemudian dia letak jawatan. Dia nampak potensi perniagaan ubat. Maksud saya ubat inilah, ubat-ubatan. Yalah ubat-ubatan. Dan dia buat kilangnya. Dia bersama rakan kongsi lain termasuk beberapa agensi kerajaan melabur 30 juta. Dekat Malaysia?
 
-**Ibrahim Sani:** Di Terengganu. Kerana ubat ini bernilai tinggi tau.
+**Azlan Awang:** Di Terengganu. Kerana ubat ini bernilai tinggi tau.
 
 **Azlan Awang:** Jadi dia tidak semestinya berada di-
 
-**Ibrahim Sani:** Kawasan-kawasan pusat kan. Jadi Dungun pun ada lapangan terbang dan sebagainya. Jadi dia buat kat Dungun. Masalah dia ialah masalah apa, kronisme di dalam sistem kita ini. Jadi sekarang kalau kita tengok dari segi dia ini memang hebatlah dari segi pengalaman dia dan apa ni masa EPP, apa ni ETP punya, dia terlibat dengan apa ni bengkel ETP dan sebagainya. Dia buat cadangan macam-macam cadangan kerana dia datang dari latar belakang seperti itu kan. Jadi dari segi banyak aspek dia amat berbakatlah. Jadi dia telah meletakkan wangnya di tempat dia menuturkan kata-katanya. Tapi tidak berjaya kerana kronisme dan nepotisme atau apa dalam sistem.
+**Azlan Awang:** Kawasan-kawasan pusat kan. Jadi Dungun pun ada lapangan terbang dan sebagainya. Jadi dia buat kat Dungun. Masalah dia ialah masalah apa, kronisme di dalam sistem kita ini. Jadi sekarang kalau kita tengok dari segi dia ini memang hebatlah dari segi pengalaman dia dan apa ni masa EPP, apa ni ETP punya, dia terlibat dengan apa ni bengkel ETP dan sebagainya. Dia buat cadangan macam-macam cadangan kerana dia datang dari latar belakang seperti itu kan. Jadi dari segi banyak aspek dia amat berbakatlah. Jadi dia telah meletakkan wangnya di tempat dia menuturkan kata-katanya. Tapi tidak berjaya kerana kronisme dan nepotisme atau apa dalam sistem.
 
 **Rafizi:** Maksudnya dalam ini APPL lah. Maksudnya bekalan kepada kerajaan. *Yes, yes, yes.* APPL.
 
@@ -186,7 +186,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Ibrahim Sani:** Mereka tiada insentif untuk masuk arena.
 
-**Rafizi:** Tapi itu poin saya tadi. Macam saya beri contoh dalam pembinaan (*construction*), dalam binaan, terdapat halangan seperti halangan struktur seperti syarat-syarat kontrak kan? Ataupun ketiadaan rantaian bekalan mengenai bekalan.
+**Azlan Awang:** Tapi itu poin saya tadi. Macam saya beri contoh dalam pembinaan (*construction*), dalam binaan, terdapat halangan seperti halangan struktur seperti syarat-syarat kontrak kan? Ataupun ketiadaan rantaian bekalan mengenai bekalan.
 
 **Azlan Awang:** Ini kadangkala, walaupun pengurus terbaik daripada Renung ke apa kan, bila dia masuk industri itu, dia tidak boleh urus (*manage*) tahu kerana ia terlalu besar. Saya tanya lagi soalan.
 
@@ -194,7 +194,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Azlan Awang:** Tapi saya rasa masalah ini terpakai untuk semua. Bukan yang maksud saya lepasan-lepasan Renung ke apa, bukan. Malah orang biasa pun, maksudnya dia kena, proses pengiraan (*counting process*) itu mesti ada dan kemudian, anda tahu. Sudah tentu rantaian bekalan itu memang Bumiputera tidak ada sangat. Tetapi apabila anda lihat, ia sebenarnya begini. Sebenarnya bukan semua pembekal bukan Melayu atau bukan Bumiputera mendiskriminasi. Tetapi apabila rekod prestasi (*track record*) anda tidak bagus.
 
-**Rafizi:** Ia menjadi risiko kredit lah (*credit risk*). Ha, anda menjadi risiko kredit kan Jadi masalahnya macam mana mahu, satu perkara adalah untuk meningkatkan kemahiran dan kapasiti pengurusan mereka.
+**Azlan Awang:** Ia menjadi risiko kredit lah (*credit risk*). Ha, anda menjadi risiko kredit kan Jadi masalahnya macam mana mahu, satu perkara adalah untuk meningkatkan kemahiran dan kapasiti pengurusan mereka.
 
 **Azlan Awang:** Satunya untuk mewujudkan ini. Jadi sekarang ini ia adalah persoalan sama ada kita mahu perkara ini menjadi kenyataan melalui kuasa pasaran (*market forces*), dan kemudian melangkaui kuasa pasaran lah. Maksudnya tiada campur tangan, tiada apa itu. Saya fikir ia akan mengambil masa yang lama lah. Jadi jika dalam tempoh 10 tahun, 11 tahun yang kita ada sekarang ini, kita perlu merancang. Tapi perancangan kita itu mestilah bukan sekadar pegawai kerajaan yang melakukannya. Anda perlu libatkan pihak pemain daripada industri dan untuk memasukkan sejenis, memasukkan pengalaman mereka ke dalam ini dan kemudian pastikan bahawa. Dan sudah tentu pihak yang menganjurkan ini mesti tahu juga, seperti pihak yang memudahkan proses pembangunan ini, seperti yang saya katakan tadi, bagaimana untuk mengatasi masalah syarat-syarat kontrak ini kan, 203 ini kan. Jadi ini memang mesti ada pihak yang sebenar, yang berkebolehan yang boleh melakukan ini.
 
@@ -206,7 +206,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Ibrahim Sani:** Salah satu perkara yang mahu kita tentukan adalah di luar daripada Bumiputera 35, KEB, MEB dan sebagainya. Kita mahu lihat bagaimana penerimaan sosial (*socio-acceptance*) masyarakat Bumiputera sekarang terhadap reka bentuk program, terhadap tingkah laku program campur tangan (*intervention*) dan sebagainya. Di luar daripada ekonomi. Seperti contoh, dari segi pendidikan, walaupun kita sudah bersembang mengenai geran *pro-novo*, ada juga geran pendidikan *pro-novo*. Ijazah pertama dia ambil pendidikan daripada MARA atau JPA. Kemudian persijilan profesional dia ambil daripada tempat lain. Kemudian PhD dia pergi ambil pula dekat JPA dan sebagainya. Dan kemudian apabila mahu bayar balik, tidak mahu bayar balik. Saya fikir ini adalah lambang (*emblematic*) kerana jika anda fikirkan tentang ini dari segi pendidikan, maka segala aspek pun begitu. Dia mahu ambil sahaja, mahu bertongkat. Ini kita cerita mengenai topik-topik yang sangat sensitif. Kita cerita mengenai ini. Jadi bukankah ini
 
-**Rafizi:** Hampir lah keluar portal semua. Jadi tajuk utama lah. Tetapi betapa besarnya, betapa besarnya kumpulan ini? Saya rasa tidak se- tidak semua orang begitu.
+**Azlan Awang:** Hampir lah keluar portal semua. Jadi tajuk utama lah. Tetapi betapa besarnya, betapa besarnya kumpulan ini? Saya rasa tidak se- tidak semua orang begitu.
 
 **Ibrahim Sani:** Ia sebenarnya besar kerana kerja harian saya memerlukan saya untuk menilai perkara itu, dan ia memang sangat besar. Ia memang besar.
 
@@ -226,7 +226,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Azlan Awang:** Ya. Jadi dia rasa lebih baik aku beri kepada zakat, beri kepada apa tu menubuhkan.
 
-**Rafizi:** Ataupun kena tipu lah. Ataupun kena tipu lah. Ataupun kena tipu lah. Jadi saya rasa, maksud saya, tetapi saya, saya memang menyokong penuh perkara ini. Apa, malahan dalam MT pun kita ada mencadangkan kutipan sebanyak kira-kira 1% atau setengah peratus, setengah peratus daripada pendapatan anda.
+**Azlan Awang:** Ataupun kena tipu lah. Ataupun kena tipu lah. Ataupun kena tipu lah. Jadi saya rasa, maksud saya, tetapi saya, saya memang menyokong penuh perkara ini. Apa, malahan dalam MT pun kita ada mencadangkan kutipan sebanyak kira-kira 1% atau setengah peratus, setengah peratus daripada pendapatan anda.
 
 **Azlan Awang:** Dimasukkan ke dalam dana apa ni yang diuruskan oleh PNB ke apa kan Ya. Semua orang menyumbang kan? Dan kemudian itu boleh, itu boleh digunakan. Anda tahu, yalah macam-macamlah mekanisme yang boleh kita cadangkan. Tetapi ini- Tetapi apa yang menghalang kita?
 
@@ -262,7 +262,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Azlan Awang:** Habiskan pandangan anda. Habiskan pandangan anda. Jadi apa pengiktirafannya.
 
-**Ibrahim Sani:** Saya rasa orang Melayu ni ada
+**Azlan Awang:** Saya rasa orang Melayu ni ada
 
 **Azlan Awang:** anda mesti, anda mesti ada situasi "pukul dan dorong" (*stick and carrot*), betul? Saya tidak boleh mencadangkan penyelesaian keseluruhan, keseluruhan penyelesaianlah. Tetapi sejenis persatuan sedemikian dan ia mesti, mesti ada lah. Kalau dulu mereka ada pertubuhan rahsia (*secret societies*) dan sebagainya untuk menguatkuasakan dan sebagainya kan Sekarang anda terpaksa bergantung pada persatuan. Tetapi sekarang ini orang tidak lagi pergi kepada persatuan kerana agensi kerajaan pun telah menyediakan macam-macam sekarang. Jadi, peranan Dewan itu kadangkala kerana mereka pula seperti tadi kita bincangkan mengenai geran, geran Pernas dan sebagainya kan. Agensi menyediakan pembiayaan. Agensi menyediakan bimbingan (*hand holding*). Agensi menyediakan sehinggakan masalah ini dilonjakkan pun mereka buat setakat itu. Jadi agensi yang, yang mereka tuju adalah agensi. Yang mana itu bagus, betul? Tapi sampai ke tahap tertentu, agensi pula mempunyai protokol. Mereka tidak boleh bercakap kepada menteri, kami mahu ini, kami menuntut ini. Tidak boleh. Tetapi Dewan boleh. Persatuan boleh. Kan? Walaupun atas risiko mereka sendiri lah, tetapi kita boleh, anda tahu, kita tidak peduli, kan? Jadi itu yang perlu dipikul semula, membina semula institusi seperti Dewan dan Majlis Tindakan Ekonomi Melayu yang sebenarnya tidak ada kepentingan apa-apa ni, maksud saya, kami telah menentang semua perdana menteri lah, betul? Masa seperti MTem adalah pihak di sebalik penentangan CPTPP, membantah CPTPP. Dan saya adalah salah seorang pengasasnya lah. Jadi kita tidak kira siapa perdana menterinya ke apa ke, kita rasakan ini bukan sahaja menjejaskan masyarakat Melayu tetapi masyarakat, masyarakat semua, masyarakat Malaysia secara keseluruhan. Tetapi ia tidaklah begitu ni. Apa pun, itu adalah subjek lain yang patut kita bincangkan. Sebenarnya, ia ada dalam soalan saya, apa ni, tetapi saya fikir masanya tidak cukup.
 
@@ -280,11 +280,11 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Ibrahim Sani:** Yang panggang menteri. Yalah jemput dia, dia tak bakar lah.
 
-**Rafizi:** Maksud saya, saya risau macam yang awak katakan tadi, kan? Bahawa kita ada begitu banyak pelan dan ini dan itu kan dan ia adalah benda lama yang diulang (same old, same old). Jadi kita ada
+**Azlan Awang:** Maksud saya, saya risau macam yang awak katakan tadi, kan? Bahawa kita ada begitu banyak pelan dan ini dan itu kan dan ia adalah benda lama yang diulang (same old, same old). Jadi kita ada
 
 **Azlan Awang:** Untuk benar-benar pastikan bahawa ini bukan benda lama yang diulang. Ia adalah ni dan saya fikir yang penting ialah wacana dan penglibatan itu penting.
 
-**Rafizi:** Saya tak kata bahawa
+**Azlan Awang:** Saya tak kata bahawa
 
 **Azlan Awang:** Awak seorang diri tidak mampu melakukannya, tapi saya fikir adalah lebih baik jika anda mempunyai lebih ramai orang yang menyumbang idea dan pengalaman dan pandangan dan macam-macam lagi. Penting tu.
 
@@ -296,25 +296,25 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Azlan Awang:** Tetapi saya tetap berharap agar ia substantif lah. Maksudnya bukan sekadar ala kadar atau asalkan kita buat. Ia sepatutnya tidak begitu, sepatutnya begitulah. Paling tidak begitu. Dan buat masa ini dengan sumbangan perusahaan Bumiputera dengan pariti gaji (wage parity) tu, saya rasa masih belum jelas ke mana arah tuju kita tu. Jadi saya harapkan dan saya harapkan juga bahawa Putra 35 ini juga ada elemen kerja dalam proses (work in progress) lah. Boleh kita tambah, tokok tambah dan perkuatkan hasil (outcome) dan titik penamat (end game) dia macam mana. Saya rasa penting sebab buat masa ini kalau saya bincang dengan ramai orang, ada di antara mereka yang kata di manakah aspek yang menarik perhatian (eye catching) ni, saya tak nampak lagi. Nampak tak? Mungkin dia tak fahamlah. Tapi apabila kita nampak bahawa okey, anda ada ini, anda ada itu kan kita kata okey, ini adalah komponen yang boleh dibangunkan. Cuma ia perlu, anda perlu tukar itu menjadi sesuatu yang boleh diukur (measurable) sama ada setiap suku tahun (quarter) ke, separuh tahun ke, setiap tahun ke. Dan kemudian ikhtiar-ikhtiar tu yang berapa, 120 ke apa. Ya. Anda mesti entah bagaimana tukarkannya menjadi seperti kalau boleh projek titik permulaan (entry point projects) pun boleh. Kalau boleh. Kemudian ia mesti menjadi sesuatu yang sudah boleh dilaksanakan juga. Jadi proses itu saya fikir saya harap kita akan terlibatlah. Dan pastikan saya fikir kita ada sebelas tahun. Jadi kalau setahun ini kita perkuatkan dari segi garis asas (baseline), dari segi perincian, yang terperinci (granular) dan macam-macam lagi kan. Saya fikir sudah tentu kemudian kita perlu lihat aspek bukan ekonomi yang lain seperti tadi kita cakap pasal sikap, minda, sosial, aspek sosial mengenainya kan Apa yang dipanggil modal sosial (social capital) dan sebagainya. Kita perlu tangani itu juga, kan? Dan saya fikir itu memang sebenarnya tanggungjawab pihak Dewan. Pihak NGO lain. Itu adalah tanggungjawab kita, bukan kerajaan. Kerajaan, saya fikir peranan anda adalah untuk mengesahkan usaha kita. Maksudnya kalau apabila kita buat, anda kena sokong kamilah. Tapi memang saya rasa itu adalah tanggungjawab kita. Bagaimana untuk memastikan bahawa ada perpaduan, ada keharmonian di kalangan Bumiputera dan kesungguhan untuk berusaha membangunkan industri kita dan sebagainya kan. Jadi itu saya rasa perlu ada hubungan baik dan rapat itu. Kami telah membuat komitmen ini kepada Perdana Menteri sebenarnya, bahawa kami berada di sini untuk memastikan bahawa apa sahaja agenda yang anda ada, dan kita berasa selesa kerana apabila saya fikir apa yang saya minati ialah EWS (Early Warning System) anda lah, laporan suku tahunan (quarterly) anda tu. Sebab saya kata ini bagus. Dan saya rasa lebih banyak lagi data agregat yang boleh kita rangkumkan, kumpulkan dan sebagainya. Macam katalah cukai ke atas bank kan Berkala supaya anda boleh terima.
 
-**Ibrahim Sani:** Tapi tak mudah nak buat tu tau.
+**Rafizi:** Tapi tak mudah nak buat tu tau.
 
 **Rafizi:** Saya setuju. Sebab peraturan tak membenarkan sebelum ni. Yalah. Jadi, tapi saya ingat itulah sebabnya tahun ini bila kerajaan membentangkan Akta Perkongsian Data sesama jabatan kerajaan, jadi lebih banyak data berbutir (granular data) seperti itu. Contohnya sekarang kan, kalau Teraju sebagai sekretariat kepada Majlis Ekonomi Bumiputera, nak dapatkan data daripada SSM untuk kita teliti dengan lebih mendalam (drill down) lagi pasal Bumiputera, tak dapatlah. Sebab peraturan dan akta tidak membenarkan. Tapi saya fikir untuk masa hadapanlah. Dan itu juga yang saya ambil maklum, macam mana kita nak pastikan bahawa penilaian kita, diagnosis kita itu betul-betul bersandarkan kepada data yang betul, dan peranan itu sebenarnya boleh dimainkan oleh agensi-agensi kerajaan yang kemudiannya dikongsi. Maksud saya, ambil contoh ekonomi lah. Kita ada hala tuju dan juga kayu ukur yang lebih terurus untuk ekonomi negara. Sebab kita ada banyak pelaporan sama ada daripada kerajaan ataupun daripada macam Bank Dunia semua ni, yang memang betul-betul menyediakan hala tuju kan. Untuk sebenarnya bagi Bumiputera, masih belum ada perkara itu kan. Jadi itu adalah pembinaan kapasiti yang sebenarnya boleh dibuat oleh beberapa agensi Bumiputera yang akan membantu keseluruhan ekosistem. Jadi perkara-perkara itulah yang kita mula dengan laporan gaji setiap suku tahun tu. Dan itu memang sangat bernas (insightful). Dia bukan sahaja untuk Bumiputera tapi keseluruhan gambaran. Contohnya kita tahu, ia menceritakan kisah yang sebenar.
 
-**Azlan Awang:** Ia menceritakan kisah yang sebenar.
+**Rafizi:** Ia menceritakan kisah yang sebenar.
 
 **Rafizi:** Awak tak boleh lari dah. Ya, ya. Kita tahu contohnya, awak buatlah gaji minimum (minimum wage) macam mana pun, ia tidak menyelesaikan keseluruhan masalah kerana ia ada mampatan gaji (wage compression). Dan kalau tak berhati-hati, golongan di tengah-tengah ini yang bergaji RM1,800 ke RM4,000 ini semakin tertekan, tertekan kan. Jadi, pendekatan yang sama itu sebenarnya boleh dibawa juga kepada isu-isu yang bersabit dengan Bumiputera lah. Dan saya fikir kita laksanakanlah hal itu. Cuma ia bukan perkara yang mudahlah. Itu pun kesian dekat DOSM dan kena panggil KWSP (EPF), kena panggil PERKESO (SOCSO), kena panggil LHDN lah kan. Tapi saya fikir ia permulaan yang baik dan perkara itulah yang diperlukan juga dalam kita nak merangka soal Bumiputera ni. Kita benar-benar perlu bersikap objektif terhadap diagnosis dan hipotesis kita untuk masa hadapanlah. Ya.
 
 **Ibrahim Sani:** Tapi adakah maksud Yang Berhormat bahawa macam SSM contohnya, kalau mereka nak kongsi pun tak boleh.
 
-**Azlan Awang:** sebab dia tak ada peraturan yang membenarkan mereka kongsi.
+**Ibrahim Sani:** sebab dia tak ada peraturan yang membenarkan mereka kongsi.
 
 **Rafizi:** Tak boleh, akta tak bagi. Saya rasa boleh.
 
-**Azlan Awang:** Kalau beli lah. Belilah.
+**Rafizi:** Kalau beli lah. Belilah.
 
 **Rafizi:** Beli. Ya lah. Tapi nak beli.
 
-**Ibrahim Sani:** Dia ada dua cara. Satu. Satunya kita beli. 15 ringgit, 15 ringgit you can get a 5 year account.
+**Azlan Awang:** Dia ada dua cara. Satu. Satunya kita beli. 15 ringgit, 15 ringgit you can get a 5 year account.
 
 **Azlan Awang:** Tapi kalau you minta agregat (aggregate), maksud saya.
 
@@ -322,7 +322,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Azlan Awang:** Sebenarnya untuk yang sebenar, yang sebenar. Boleh. Tapi kena bayar banyaklah. Itulah kan.
 
-**Rafizi:** Tapi kalau katakanlah, katakanlah, katakanlah kan, Teraju yang buat.
+**Azlan Awang:** Tapi kalau katakanlah, katakanlah, katakanlah kan, Teraju yang buat.
 
 **Azlan Awang:** Teraju ialah agensi kerajaan. Ya. Kenapa patut, kenapa patut mereka caj? Tak, mereka caj.
 
@@ -340,11 +340,11 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Ini semua dibuat secara dalaman. Bagaimana anda menguruskannya kan?
 
-**Azlan Awang:** Kita orang balik pukul 10 malam ah setiap malam.
+**Rafizi:** Kita orang balik pukul 10 malam ah setiap malam.
 
-**Rafizi:** Soalan itu ditanyakan untuk, untuk.
+**Ibrahim Sani:** Soalan itu ditanyakan untuk, untuk.
 
-**Ibrahim Sani:** untuk yang menonton, soalan-soalan itu ditanyakan sebelum kita mula kanamera. Tetapi itu bahagian pujiannya. Dia macam tu, dia puji dulu. Hakikatnya, saya fikir ialah libat urus (engagement).
+**Azlan Awang:** untuk yang menonton, soalan-soalan itu ditanyakan sebelum kita mula kanamera. Tetapi itu bahagian pujiannya. Dia macam tu, dia puji dulu. Hakikatnya, saya fikir ialah libat urus (engagement).
 
 **Azlan Awang:** dan apa tu wacana (discourse) adalah penting. Kalau tidak, macam bahkan mengenai Bumiputera, macam PMX kata okey, KAB ini mesti ada penglibatan bukan Bumiputera. Dalam aspek tertentu, kita pun tak setuju. Tapi dalam aspek yang lain pula, katakan kita perlu mengadakan wacana atau katakan kita nak tetapkan sasaran ke atas, apa tu, KDNK per kapita (GDP per capita) ke, ke atas sumbangan perusahaan Bumiputera ke apa kan Mesti ada wacana dan mesti ada konsensus lah. Semacam satu bentuk. Tak boleh nak bersoilo (silo) sangat. Semacam satu bentuk kontrak sosial lah. Macam semakan semula (revisit) terhadap kontrak sosial. Okey, inilah yang akan kita lakukan. Ia penting dan anda, mereka mesti diyakinkan kerana kita bercakap tentang kita tidak mahu, tidak mahu Bangladesh yang lain. Anda tahu maksud saya? Dan pada kadar keadaan sekarang, maksud saya, macam apa tu kata Minsky kata kan, apabila mencecah 30% golongan belia menganggur (tak ada kerja), dan kita sedang, kita sedang menuju ke arah itu lah kerana kita tidak tahu guna tenaga separa (underemployment) yang sebenar dan sebagainya sama ada ia sedang mencecah tahap itu. Apabila guna tenaga separa ataupun pengangguran mencecah 30% dalam kalangan belia, itu adalah situasi yang sangat berbahaya. Jadi saya fikir ia bukan, ia bukan apa ni, ia bukan semuanya cantik, indah khabar dari rupa (rosy). Indah. Ia bukan begitu. Kalau kita tengok apa ni, macam simpanan KWSP, yang baru-baru ini.
 
@@ -362,15 +362,15 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Ibrahim Sani:** Dan kurang pada permintaan domestik.
 
-**Rafizi:** Dan, dan ini adalah sesuatu yang seperti Persidangan Perdagangan dan Pembangunan Pertubuhan Bangsa-Bangsa Bersatu (UNCTAD),
+**Azlan Awang:** Dan, dan ini adalah sesuatu yang seperti Persidangan Perdagangan dan Pembangunan Pertubuhan Bangsa-Bangsa Bersatu (UNCTAD),
 
 **Azlan Awang:** mereka telah mengingatkan bahawa, lihatlah, strategi diterajui eksport ini sudah tidak berkesan lagi.
 
-**Rafizi:** Sejak krisis 2008, betul, ia sudah tidak berkesan lagi.
+**Azlan Awang:** Sejak krisis 2008, betul, ia sudah tidak berkesan lagi.
 
 **Azlan Awang:** Anda perlu memberi lebih tumpuan kepada permintaan domestik anda. Anda perlu memberi lebih tumpuan kepada apa ni pasaran mendalam jiran anda seperti ASEAN dan sebagainya. Pasaran tempatan.
 
-**Rafizi:** Anda perlu memberi tumpuan kepada bagaimana anda menambah baik permintaan domestik anda? Anda perlu memberi tumpuan kepada gaji, betul? Mesti ada sedikit intervensi, peranan kerajaan, perkara seperti itulah kan.
+**Azlan Awang:** Anda perlu memberi tumpuan kepada bagaimana anda menambah baik permintaan domestik anda? Anda perlu memberi tumpuan kepada gaji, betul? Mesti ada sedikit intervensi, peranan kerajaan, perkara seperti itulah kan.
 
 **Azlan Awang:** Jadi macam apa, saya rasa benda-benda macam ni, ia bukan bersifat politik. Kita terutamanya kita tidak berpihak, betul? Kita berharap apa ni lah apa. Dengan apa yang diperkatakan. Apa yang kita boleh dan kita mesti lakukan sesuatu yang serius dengan perkara ini juga. Apa? Saya harap begitu.
 
@@ -384,5 +384,5 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Ibrahim Sani:** Bateri pun 33% je. Tapi ah tadi kita dah dengar daripada Pak Lan ataupun Azlan Awang, felo kanan daripada Majlis Tindakan Ekonomi Melayu dan juga Yang Berhormat Rafizi Ramli, Menteri Ekonomi. Dan kalau kita boleh gesa penonton untuk terus bersama dengan kita punya media sosial Yang Berhormat Rafizi itu, ikuti YB Rafizi di semua media sosial di situ. Sekian sahaja. Terima kasih.
 
-**Rafizi:** Merci. Terima kasih banyak. Terima kasih YB. Merci banyak. Merci, Vivi.
+**Azlan Awang:** Merci. Terima kasih banyak. Terima kasih YB. Merci banyak. Merci, Vivi.
 

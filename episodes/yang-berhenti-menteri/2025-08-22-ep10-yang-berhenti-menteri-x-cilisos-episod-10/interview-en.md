@@ -107,7 +107,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Chak Onn Lau:** A half-cooked devil.
 
-**Rafizi:** Not fully cooked yet.
+**Chak Onn Lau:** Not fully cooked yet.
 
 **Chak Onn Lau:** Okay, so we asked our fanbase what they wanted to ask you, YB. But before that, we have. A little icebreaker lah.
 
@@ -127,7 +127,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** I can.
 
-**Iqbal:** Can we get a comment from YB?
+**Rafizi:** Can we get a comment from YB?
 
 **Rafizi:** I can sue him in court for that, that's defamation. No, I think.
 
@@ -189,7 +189,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** No, that's the elitist part.
 
-**Chak Onn Lau:** Oh, MCKK, oh okay okay.
+**Iqbal:** Oh, MCKK, oh okay okay.
 
 **Rafizi:** They only went to certain schools.
 
@@ -211,7 +211,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Menara, yeah, over there right?
 
-**Iqbal:** Was there no KLCC yet at that time?
+**Chak Onn Lau:** Was there no KLCC yet at that time?
 
 **Rafizi:** No! I'm that old, you know. Back in my era there was no KLCC. So, anyway, we met their head of geology, right. So I asked, "What do you actually study in geology?" Right, you're a Form 5 kid, a kampung kid, you don't know anything. He told us, in the first year you have to memorize 100 types of rocks. Okay. Second year, memorize another 100 rocks! And he sounded so fascinated by all these rocks.
 
@@ -219,7 +219,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** So going back from that, I said, "I'm not going to be a geologist lah."
 
-**Chak Onn Lau:** "I'm going to be PM."
+**Rafizi:** "I'm going to be PM."
 
 **Rafizi:** That wasn't in the plan then. So the second scholarship, besides Exxon, was even more kiasu — they gave it before you sat for SPM. Petronas was slightly less kiasu than that. They gave the scholarship before the SPM results came out. So right after I sat for my SPM, I went to Petronas and it was quite straightforward, I got the scholarship.
 
@@ -253,7 +253,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** No no, he's from Clifford, the one across the road.
 
-**Iqbal:** Is there a rivalry between MCKK and Clifford?
+**Rafizi:** Is there a rivalry between MCKK and Clifford?
 
 **Chak Onn Lau:** Between those without scholarships and those with.
 
@@ -263,7 +263,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** I was told, I was told, right. So if you want to ask about his background, I'll tell you everything I know, right. So I think the first appearance that we noticed in the party was sometime in 2005, 2006, when he had probably just finished studying. I think he graduated from Portsmouth University, came back because he was involved in the Anwar Ibrahim Club. When Anwar Ibrahim was released from prison in 2004, he took a hiatus for a while, then, well, there was.
 
-**Chak Onn Lau:** Were you in the same club also?
+**Rafizi:** Were you in the same club also?
 
 **Rafizi:** No no no no, I was off politics. No, because we come from different generations. Right, I joined PKR in '99, since '98. So when Anwar was released in 2004, I said bye-bye because I wanted to move on with my life, because a lot of us from that 2000, '98, '99 era, weren't really interested in politics anymore, because a lot of the people who joined PKR early on were professionals. So we led a double life, you know. You had to juggle between your professional career, your life, and activism, right?
 
@@ -385,7 +385,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Iqbal:** In theoretical terms, yes.
 
-**Chak Onn Lau:** In theoretical terms, for those who aren't in the political arena.
+**Iqbal:** In theoretical terms, for those who aren't in the political arena.
 
 **Rafizi:** Okay, but if you look at it, we tried our best to make sure that the arrangement was sealed by an agreement — there is an agreement, there is a clear, what do you call it, charter of what you can do, what you cannot do, common principles and so on. So given the circumstances, I think it's the lesser of two evils that we have to live with. I think the issue isn't so much about forming the government. The issue is that after you form the government, how you act, because that's fluid, you know. When it's fluid, reform — the pace of reform — becomes subjective. Until when do we say, "Oh, we're a unity government and therefore we can't do 1, 2, 3, 4"? At some point I think you must draw the line.
 
@@ -555,7 +555,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Yeah, this is it, unless one day we truly succeed in separating the prosecutorial function from.
 
-**Iqbal:** That's also a point we wanted to ask about further.
+**Rafizi:** That's also a point we wanted to ask about further.
 
 **Chak Onn Lau:** Reform, right.
 
@@ -567,7 +567,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** That many, huh?
 
-**Chak Onn Lau:** The most ever.
+**Iqbal:** The most ever.
 
 **Iqbal:** So this one relates to a case that was just resolved two days ago, Heidy Quah's case. She, if I'm not mistaken, tried to challenge Act 233, the words "offensive and annoying" in the MCMC Act. If I'm not mistaken, hasn't YB also been charged under an MCMC Section before? No? Never?
 
@@ -581,7 +581,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Iqbal:** Do you want to ask.
 
-**Chak Onn Lau:** It's not black and white, lah, it's not black and white.
+**Rafizi:** It's not black and white, lah, it's not black and white.
 
 **Iqbal:** No, ask Dr. Jason's question.
 
@@ -655,7 +655,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** No, no, I think it's good, what's happening now. Meaning the government needs to balance the demands of all parties. In society there are all kinds of groups. You all are Bangsar, for example. Bangsar is one group, Klang is another group, and so on. Of course the government can say, "Oh, we need to balance things and prioritize other matters. So we'll do this first before that," and so on. But.
 
-**Iqbal:** So what's the government's focus now?
+**Rafizi:** So what's the government's focus now?
 
 **Rafizi:** On the people's side, every group has the right to demand what's important to them. And which one should be prioritized, expedited — if that's left to politicians alone, then some will be left behind. So the current situation, I think, will inevitably have noise here, noise there, people dissatisfied. And that is the test and challenge for a government that won on the reform ticket. You need to balance it. And if I were the public or a group, I would feel the same way — make them pay. Because once you've won, my issue is at the very bottom. I want my issue to be raised to the top. So I think the pressure and the discourse must continue.
 
@@ -665,7 +665,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Iqbal:** Next question.
 
-**Chak Onn Lau:** Oh, next one, ah, sorry.
+**Iqbal:** Oh, next one, ah, sorry.
 
 **Iqbal:** If we go into the policy questions — so far, when we discuss policies that will be, or are being, or have been implemented, has the government's pace of work been okay?
 
@@ -761,7 +761,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Iqbal:** Maybe then we'll wrap up with the last question, cybertroopers. One question about cybertroopers. So maybe the very last wrap-up one.
 
-**Chak Onn Lau:** Next one, next one, next one. Quite far, quite far.
+**Iqbal:** Next one, next one, next one. Quite far, quite far.
 
 **Rafizi:** How long did you all take compiling these questions?
 

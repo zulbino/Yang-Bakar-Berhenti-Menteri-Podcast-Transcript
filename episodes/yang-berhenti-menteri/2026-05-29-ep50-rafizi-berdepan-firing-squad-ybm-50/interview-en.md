@@ -60,7 +60,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Okay, never mind, I'll explain.
 
-**Wan Afiq:** His Besut accent — he needs to go to class, because I'm from Besut too.
+**Rafizi:** His Besut accent — he needs to go to class, because I'm from Besut too.
 
 **Rafizi:** He needs to go to class on how to get rid of the Besut accent. Okay, in this podcast. Later we'll do a course.
 
@@ -88,7 +88,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Ha, okay.
 
-**Farhan (Pa'an):** Alright, let's go to "beria."
+**Rafizi:** Alright, let's go to "beria."
 
 **Wan Afiq:** Let's go to "beria," YB. So the first "beria": Anwar Ibrahim has become a side throw. To the listeners out there who might be driving and not watching the visual — here there's a screenshot of Dato' Seri Anwar Ibrahim. Is this really his number?
 
@@ -142,7 +142,7 @@ So good luck to Dato' On Hafiz in trying to get any action taken. I don't think 
 
 **Farhan (Pa'an):** I'm not sure, I haven't checked.
 
-**Rafizi:** But since Fahmi—
+**Farhan (Pa'an):** But since Fahmi—
 
 **Farhan (Pa'an):** I found out that Julia Roberts was born in 1967. Oh really?
 
@@ -154,7 +154,7 @@ So imagine if for every ridiculous slander they make, I sue — that means I can
 
 So, the best we can do is be transparent. For example, like this, we'll explain it, and we'll actually share our joint financial statement — how much money comes in each month, how much money goes out each month — so people can see it. As for the rest, I think let it be — I think people like Fahmi and the rest, I wonder if they don't understand that we have God. Ha, right? There are rules — rules set by humans, if we break them, that's one thing. But rules set by Allah — I don't know about others, but I'm afraid, because it's beyond you. If you do something and it's clearly slander with malicious intent to persecute someone, the best we can do is pray. Because — I keep saying this to listeners — many politicians don't understand that politics actually can't determine how people should behave. We can talk, we can present, we can try. Ha, this is the problem with being live — who's calling me now? They just want to tie you down with a phone call.
 
-**Farhan (Pa'an):** Hang on, hang on, hang on. A phone call, of all things.
+**Rafizi:** Hang on, hang on, hang on. A phone call, of all things.
 
 **Rafizi:** Let me put it on — I'll put it on airplane mode. Airplane mode, for real. Serves everyone right. Be patient, everyone listening. Patience, patience, okay. Patience, patience, calm down.
 
@@ -196,9 +196,9 @@ So what I mean is, from early on I already knew the tactics of this person named
 
 **Rafizi:** Now I'm the one apologizing.
 
-**Wan Afiq:** No need to apologize.
+**Rafizi:** No need to apologize.
 
-**Rafizi:** Okay, let's proceed.
+**Wan Afiq:** Okay, let's proceed.
 
 **Wan Afiq:** Fahmi again. Fahmi has two — that's why I asked for two comments, because he has two, he's been "beria" twice. So Fahmi did an initiative where he said he upgraded a road. But on social media, people weren't exactly angry, but they questioned why only the middle part of the road was upgraded. Then people gave a bit of feedback or comments on social media. So Fahmi got hit quite hard on social media.
 
@@ -218,7 +218,7 @@ So what I mean is, from early on I already knew the tactics of this person named
 
 **Rafizi:** Please. Hold it if you can. I've already been scolded.
 
-**Wan Afiq:** Hold it like this. Please hold it like this.
+**Rafizi:** Hold it like this. Please hold it like this.
 
 **Farhan (Pa'an):** They're saying there's a cockroach on the soundboard.
 
@@ -262,7 +262,7 @@ If YB does that, poor Fuziah. No, well, let's see how she tries to spin her way 
 
 **Rafizi:** Let's use the phone.
 
-**Farhan (Pa'an):** We'll use the stopwatch. Okay.
+**Rafizi:** We'll use the stopwatch. Okay.
 
 **Rafizi:** For each one I'll try to stay within 90 seconds. Who's the first question from?
 
@@ -292,7 +292,7 @@ If YB does that, poor Fuziah. No, well, let's see how she tries to spin her way 
 
 **Rafizi:** UNHCR. Okay, sorry. If you look at Bersama's 12 agendas, one of them is indeed to reduce the number of foreign workers in this country to only 5% of the total workforce. That policy actually already exists within the 13th Malaysia Plan. That's something I insisted on before and left in place. In fact, even when I was Minister of Economy before, we already implemented policies that began controlling foreign workers. But there will definitely be pushback because some people don't like it, some people will give excuses, and it challenges the status quo. There's fear of upsetting people, right. So if Bersama is destined one day, regardless of which general election, to become the government, the agenda to reduce foreign workers must happen because it's one of the structural issues causing wages to stagnate, causing us to remain stuck in a low-value economy. As for UNHCR, that's far more complicated. Because Malaysia is not a signatory to the UNHCR convention. So in our country, refugees don't exist according to the UNHCR definition. But at the same time, we also cannot send them home because that would create a major problem in terms of the government's image at the international level and with the UN. So we're stuck.
 
-**Wan Afiq:** Okay, a bit over 10 seconds. It's fine. So YB, next question. Yuan Kuan S asks, just trying my luck. RR wrote the constitution for PKR and now for Bersama. What change in the letter will prevent the kind of corrupt or rot happening in PKR?
+**Farhan (Pa'an):** Okay, a bit over 10 seconds. It's fine. So YB, next question. Yuan Kuan S asks, just trying my luck. RR wrote the constitution for PKR and now for Bersama. What change in the letter will prevent the kind of corrupt or rot happening in PKR?
 
 **Rafizi:** I didn't write PKR's current constitution. The current constitution was written under the leadership of a committee chaired by Datin Paduka Tan Yu Qiu in 2014. I was Secretary-General at the time and I managed the process. So we understand not just PKR's constitution, but we understand the political culture that exists in Malaysia. That's why the joint constitution that we're going to submit to the new ROS does not follow the model of the political parties that currently exist in our country. So the structure has to change. That's why I say it needs to be a flat structure. Because with a flat structure, there are no branches, no divisions. The lowest unit is just the state level. Because these structures are what create warlords. They'll say, "if you don't have me at this level, or I've already spent so much money, if you don't give me such-and-such project, then I won't support you." So a flat structure is very important. Secondly, to contest for joint leadership, there will be merit-based criteria. That means we won't have "blank" committee members. Having blank committee members contest for the supreme council is actually very dangerous. Because if they have money, even without any background whatsoever, they can campaign with money. Suddenly they become a supreme council member. Suddenly they want to become a minister. We'll structure it based on portfolios so members can see for themselves — no matter how rich you are, if you want to contest for the health portfolio but you don't even understand medicine, then you won't win.
 
@@ -308,7 +308,7 @@ If YB does that, poor Fuziah. No, well, let's see how she tries to spin her way 
 
 **Rafizi:** Actually, I—people always ask me about Kira.
 
-**Wan Afiq:** Oh no, I need to set that up properly. "People always ask me about Kira."
+**Rafizi:** Oh no, I need to set that up properly. "People always ask me about Kira."
 
 **Rafizi:** Even though everyone says I can't work with people and all that, I actually don't interfere with Kira. My job was to create and establish Kira. After Kira was established, it's run by the board of directors of Kira (ALK). I don't interfere at all. Before I left the party, I asked the ALK Kira chairman what the position was. They had checked with the Cooperative Commission. According to Kira's constitution, even if someone leaves PKR, that doesn't nullify their membership in Kira. So it's up to those who have bought shares in Kira whether they want to stay or withdraw their money. But Kira membership is not tied to being a member of Bersama or PKR. So I will withdraw my money. It's up to others.
 
@@ -356,7 +356,7 @@ If YB does that, poor Fuziah. No, well, let's see how she tries to spin her way 
 
 **Rafizi:** He asks for permission, then he says thank you. Very feudal. Okay, I need to step out—let's take turns, take turns.
 
-**Multiple speakers:** Poor thing, poor thing—
+**Farhan (Pa'an):** Poor thing, poor thing—
 
 **Rafizi:** So take the heat off Afiq.
 
@@ -424,7 +424,7 @@ If YB does that, poor Fuziah. No, well, let's see how she tries to spin her way 
 
 **Wan Afiq:** You always pick this Eric Fikri guy. No, he has a lot of questions.
 
-**Farhan (Pa'an):** Oh, he has a lot of questions. People are really upset with him.
+**Rafizi:** Oh, he has a lot of questions. People are really upset with him.
 
 **Wan Afiq:** Favoritism. So, question: What problem is the obstacle preventing PMX from carrying out reforms as promoted over these 3 years? Who's the mastermind — UMNO? Farhash? GPS, JRS? PMX himself?
 
@@ -504,7 +504,7 @@ Third question — the allegation that PKR used government funds is not true. In
 
 **Rafizi:** So many. So many doctors or something asking this?
 
-**Multiple speakers:** A lot about healthcare.
+**Farhan (Pa'an):** A lot about healthcare.
 
 **Rafizi:** I'm not a doctor and healthcare is not my forte.
 
@@ -526,9 +526,9 @@ Third question — the allegation that PKR used government funds is not true. In
 
 **Farhan (Pa'an):** I don't know how he counted.
 
-**Rafizi:** No, I got the side score earlier, I'm fine.
+**Wan Afiq:** No, I got the side score earlier, I'm fine.
 
-**Wan Afiq:** No, I'm not asking like that.
+**Rafizi:** No, I'm not asking like that.
 
 **Rafizi:** People say there's no way it can be shared between three. I'm dead tired already. Right. Sorry, my bad.
 
@@ -586,11 +586,11 @@ The third thing is we need to ensure the branding, the vibe, the feel of Bersama
 
 **Multiple speakers:** Sure, sure.
 
-**Wan Afiq:** Are there more questions?
+**Rafizi:** Are there more questions?
 
-**Multiple speakers:** No, there aren't.
+**Wan Afiq:** No, there aren't.
 
-**Wan Afiq:** Is this the end then? This is the end already. Oh, okay, okay, okay, okay.
+**Rafizi:** Is this the end then? This is the end already. Oh, okay, okay, okay, okay.
 
 **Multiple speakers:** So this—
 

@@ -79,11 +79,11 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Because I think it might go to that stage.
 
-**Multiple speakers:** Aku punya batuk. Hopefully not.
+**Rafizi:** Aku punya batuk. Hopefully not.
 
 **Rafizi:** Terbangun tengah tidur sebab batuk. Tapi YB dah recover lah.
 
-**Haziq:** Dah recover lah. Much better.
+**Rafizi:** Dah recover lah. Much better.
 
 **Iqbal:** Okey, lepas saya, Haziq pula lepas ni.
 
@@ -107,7 +107,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Yeah. Next day baru keluar. Yeah. Oh, I didn't get it. Ini daddy joke betul lah.
 
-**Haziq:** Hambah sangat. Hambah sikit lah.
+**Rafizi:** Hambah sangat. Hambah sikit lah.
 
 **Iqbal:** Masuk 11:58 keluar tahun baru. Saya tengok movie Avatar yang terbaru. Avatar sekarang dah Avatar 3? Dah ketiga.
 
@@ -119,7 +119,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Haziq:** Okey, YB, jom kita tengok apa yang ada pada minggu ini dalam episod yang 29. Segmen pertama, beria mat. Kita ada beberapa lah, YB ya. Pertama kita ada. Jangan hambar eh. Ha okey.
 
-**Rafizi:** InsyaAllah saya cuba kan. Kalah pemilihan KRT, ambil semula sumbangan.
+**Haziq:** InsyaAllah saya cuba kan. Kalah pemilihan KRT, ambil semula sumbangan.
 
 **Haziq:** Ni kat mana ni? Ni kat Indonesia, Sulawesi. So apa tengah jadi ni?
 
@@ -145,7 +145,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Haziq:** Tak apa, B, kita ada lagi yang lain. Next. Siapa yang alpa?
 
-**Iqbal:** Azam yang dulu bukan yang sekarang. Ada 2 cerita berbeza, YB, kat sini. Satu Apandi Ali yang komen tentang 1MDB, dan satu lagi macam biasalah, Ketua Pesuruhjaya SPRM yang memberi komen juga tentang keputusan 1MDB.
+**Haziq:** Azam yang dulu bukan yang sekarang. Ada 2 cerita berbeza, YB, kat sini. Satu Apandi Ali yang komen tentang 1MDB, dan satu lagi macam biasalah, Ketua Pesuruhjaya SPRM yang memberi komen juga tentang keputusan 1MDB.
 
 **Rafizi:** Yang ini bolehlah kata beria. Sebab dia juga yang beria tahun 2015. Dia yang pergi sahkan pasal derma tu kan daripada Arab. Ni kau tengok pengarah bahagian siasatan SPRM, Datuk Azam Baki, ketika mengesahkan perkara itu berkata, pertemuan tersebut berlaku di sebuah negara Asia Barat baru-baru ini. Maksudnya dia kena scam lah kan. Tapi pada masa yang sama, dia juga yang paling awal sekali mengucapkan tahniah kepada pasukan penyiasat pendakwaan penat lelah sejak 2015. Kalau ikutnya, sepatutnya penyiasat yang terlibat dalam siasatan 1MDB tu, diorang ni mesti senyap-senyap, diam-diam sebenarnya menyampah dekat Azam Baki. Sebab Azam Baki in 2015 dengan kenyataan dia tu menutup kes tau. Oleh sebab itulah akhirnya sebenarnya memang derma dan tidak ada kes. I said my piece. And Apandi ada seorang lagi. Apandi tu sebenarnya, yalah nak komen tu susah. Sebab dia cakap cryptic. Alpa tu tak tahu maksudnya siapa. Speculate kan kau salah cakap nanti dia saman kau.
 
@@ -165,7 +165,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Partly eh, sebab saya ingat saya dah sebut dalam beberapa podcast yang lepas atau even the last one kan. Kalau negara barat lah kan, mereka ambil masa 500 tahun tau to slowly-
 
-**Iqbal:** Move away daripada feudalism.
+**Rafizi:** Move away daripada feudalism.
 
 **Rafizi:** French Revolution is all about feudalism kan. And Bolshevik is about feudalism. And kalau ambil Jepun, Meiji Restoration is about anti-feudalism. So paling kuranglah negara lain 200 tahun, dan different countries successively meletakkan pembaharuan dan reformasi politik dan budayalah. So eventually, lebih banyak kuasa dan pengaruh itu di-devolve kepada lebih ramai kumpulan lah kan. Kita ni sebenarnya tak sampai 100 tahun lagi. Kerana bila kita merdeka kan, kita datang daripada sistem beraja dan sistem beraja ni ada bangsawan kan. Kemudian bila kita merdeka daripada British kan, British memberikan kemerdekaan dengan mengekalkan sistem itu. Berbanding contohnya dengan Indonesia, yang mana they move completely to presidential kan. Jadi dari segi itu memang kita lebih pekatlah. Jadi sebab itu corridor of power by Malaysian standard ni memang betul-betul wujudlah. Jadi mereka yang berlegar, akan timbul keadaan-keadaan macam ni lah. Cuma kalau saya Tan Sri Azam Baki lah, mungkinlah saya tak cepat sangat keluarkan kenyataan mengucapkan tahniah penat lelah sejak 2015 ni. Dia mungkin kata, yalah saya mewakili SPRM kan. Tapi pada masa yang sama, dia menimbulkan keadaan yang beria-ia macam inilah, sebab tahun 2015 dia juga yang mengesahkan ada pertemuan mengenai derma daripada Saudi tu kan. Dan dia tak pernah komen lah sampai sekarang.
 
@@ -239,7 +239,7 @@ Cuma itu dah mula menular ke banyak negara, dan I think kalau di Eropah, antara 
 
 **Rafizi:** Sebahagiannya itu adalah kehendak undang-undang. Untuk bertanding pakai logo sesuatu parti, memang kena dapat kelulusan daripada presiden parti itu. Tapi maksudnya kat Malaysia ni, sebab kita bukan presidential, kita masih lagi parliamentary — Westminster parliamentary system. Tetapi kaedah yang kata "oh, kita ada 8 juta anggota maka kita akan kuat" — that's not necessarily true. If anything, DAP telah buktikan pun. DAP is a very weak grassroots party — anggota DAP ada 100,000 lebih je, but for all these years they are still over many years the largest party. Sebabnya ialah naratif kepada rakyat. So I think going forward, dia akan buka horizon baru — kerana pandangan Gen X, boomer yang tua-tua ni semua ingat, oh, buat parti ni perlukan 100 juta, sebab satu bahagian 1 juta setahun kena bayar. Actually, that's no longer true sebenarnya. Dan ini beria — yang ini beria. Anything yang melibatkan Bachok dan juga bos dia, Dato' Seri Hadi Awang adalah beria.
 
-**Haziq:** Lagi beria daripada Fuziah?
+**Farhan (Pa'an):** Lagi beria daripada Fuziah?
 
 **Rafizi:** Tak boleh, tak boleh. Boleh cuba lagi, tapi belum lagi. Itu tak boleh lah. You have to watch pengumuman Fuziah cukup jumlah tu — you cannot get rid of your mind kan, dia punya beria tu.
 
@@ -273,7 +273,7 @@ Cuma itu dah mula menular ke banyak negara, dan I think kalau di Eropah, antara 
 
 **Iqbal:** Dia position of authority, I would imagine.
 
-**Multiple speakers:** At least untuk buat first impression tu lah.
+**Haziq:** At least untuk buat first impression tu lah.
 
 **Rafizi:** You pergi office, kemudian you go through taklimat. Ada beberapa perkara pentadbiran yang perlu dipenuhi — contohnya whatever dokumen rahsia rasmi yang you kena sign, you kena sign. Dan selalunya kalau kementerian, ataupun kalau negeri, SUK — Setiausaha Kerajaan Negeri — dia akan sediakan basically welcoming pack. Welcoming pack tu selalunya, kalau menteri, buku tatacara menteri dan juga akta, dan juga contohnya kelayakan menteri, hal-hal pentadbiran. But after that, in my case — in fact in my case lagi teruk — because I think, I don't know dia, but I think I had to represent the country and attend the meeting sebelum aku angkat sumpah. Sebab angkat sumpah hari Isnin, hari bekerja. So kebetulan meeting OPEC. Meeting OPEC is always online, dan dia malam kadang-kadang sampai 2, 3 pagi. So menteri tak ada, kerana kerajaan bertukar, dan meeting OPEC ni dipengerusikan oleh Putera Abdul Aziz, which is abang kepada Muhammad bin Salman. So it's very high powered punya tu. Jadi kalau tak ada menteri, memang panik kerajaan. Jadi I think they persuaded me, walaupun tak angkat sumpah lagi or something, kena hadir tu. Aku macam, must I do this meeting OPEC kan. So but I don't know other people lah — my experience is that after angkat sumpah tu you hit the ground running terus.
 
@@ -283,7 +283,7 @@ Cuma itu dah mula menular ke banyak negara, dan I think kalau di Eropah, antara 
 
 **Rafizi:** I don't think—
 
-**Multiple speakers:** Dan kenapa sukan tarik tali?
+**Farhan (Pa'an):** Dan kenapa sukan tarik tali?
 
 **Rafizi:** I don't think Ustaz Syukri ada kawan Abang Sado kot. Sebenarnya itu ditentukan oleh menteri dan menteri besar masing-masing. So in my case dulu contohnya, memang orang tak suka, sebab saya langsung tidak bagi ruang untuk diraikan atau meraikan jadi menteri — you hit the ground running. Saya paling anti kunjungan hormat. Memang I don't think there was any kunjungan hormat as a minister — "oh, tahniah, jadi menteri" — I have a lot of work to do, I don't need that. Just send me an email. Tapi kebiasaannya juga, you have to understand apabila seorang ahli politik jadi menteri besar ke menteri hatta Perdana Menteri, that's the highest achievement dalam kerjaya dia. Jadi ramai orang yang nak buat kunjungan hormat, yang nak mengucapkan tahniah, kami sokong YB semua. Dan selalunya itu bergantung kepada menteri besar ataupun menteri tu — dia akan minta pejabat dia susun jadual, dan kalau arahan dia ialah untuk beri keutamaan orang ni nak jumpa dia kunjungan hormat, dia jadi macam ni. Cuma agak — apa word eh — agak beria lah, banyak-banyak orang nak buat kunjungan hormat, Abang Sado dari Kelab Tarik Tali. Tak boleh pergi Perlis aku lepas ni.
 
@@ -309,7 +309,7 @@ Cuma itu dah mula menular ke banyak negara, dan I think kalau di Eropah, antara 
 
 **Rafizi:** Tak apa, tak tahu, suruh Iqbal lah. Give the honor to Iqbal. Dalam mungkin pilih satu yang paling beria dalam banyak-banyak.
 
-**Haziq:** Champion of the week.
+**Rafizi:** Champion of the week.
 
 **Iqbal:** Yang paling beria personally saya rasa yang UMNO punya — UMNO Puchong punya. Azam Baki kalah.
 
@@ -375,7 +375,7 @@ Jadi dalam kes SRC dengan 1MDB, kerana persistent questions dan peeling of the d
 
 **Rafizi:** Yeah, yalah, I think we were made for the time and the challenges of our time lah, dan I think it's also — tak ada, and then, you know, it just so happened at the time. So macam contohnya kita —
 
-**Iqbal:** There were people like me and Tony with —
+**Rafizi:** There were people like me and Tony with —
 
 **Rafizi:** That skill and experience lah. But to be fair jugalah, I think we have, we need to have trust in society sebab people like me and Tony Pua played our part in one segment of society, which is bringing to the masses. Tapi to be fair, there were also people like DH, the journalist, that actually quietly dig. So either way, contohnya kan, I would have imagined lah kalau pun Tony and I were not there, yang keliling Malaysia duk buat cerita pasal 1MDB ni kan, DH would have stumbled and would have developed the story. Cuma most probably then politician akan pick up daripada DH lah. So whether or not DH would be able to reach the masses — different segment tu, that is debatable lah. But I'm sure kalau dia dah sampai ke peringkat 1MDB size ni kan, kalau tak DH pun, Wall Street Journal would have done. You cannot run away. It's not so much about myself ke, about Tony Pua ke, about other people kan. The sheer size — memanglah kalau ikutnya, ikut rekod, ini scandal kewangan and embezzlement yang paling besar dalam dunia. Then once you dah reach kat situ, dia akan ada saja because kalau kita contohnya lah, kalau katalah kita jadi Reuters ke, Wall Street Journal ke, Bloomberg ke, kita sekarang ada Al-Jazirah ke apa kan — just tak masuk akal kan. So the story would have run, and politicians would have picked it up.
 
@@ -383,7 +383,7 @@ Jadi dalam kes SRC dengan 1MDB, kerana persistent questions dan peeling of the d
 
 **Rafizi:** You're referring to Dato' Seri Zahid, Dato' Sri Azalina, dan kemudian Datuk Khairy Jamaluddin. Kemudian Datuk Tan Sri Azam Baki semualah kan. PAS yang pernah cakap.
 
-**Iqbal:** Oh, PAS ana berpuas hati.
+**Rafizi:** Oh, PAS ana berpuas hati.
 
 **Farhan (Pa'an):** And I think also it goes beyond that because there are several people within the professional world yang also either turn a blind eye ataupun mereka membiarkan — turn a blind eye ataupun membiarkanlah, the board of the company.
 
@@ -437,17 +437,17 @@ Maybe your effort macam Rent Seeking Act dulu — I don't think Anti-Rent Seekin
 
 **Rafizi:** First, you have to define at what level is rent seeking.
 
-**Iqbal:** Kalau JV? Kalau subcontractor?
+**Rafizi:** Kalau JV? Kalau subcontractor?
 
 **Rafizi:** Ha, so you kena define sebenarnya. You kena define what is rent seeking dulu. I mean, the general understanding lah, rent seeking ni maksudnya you are profiteering without adding value.
 
-**Iqbal:** So dalam satu corporate JV contohnya kan — I dapat tender tu, tapi saya tak buat apa, tapi semua saya bayar semua.
+**Rafizi:** So dalam satu corporate JV contohnya kan — I dapat tender tu, tapi saya tak buat apa, tapi semua saya bayar semua.
 
 **Rafizi:** 95% company tu buat — it's quite obvious he's rent seeking lah, kan. But if it's 70%, if it's 80%, kalau dia kata "I bring expertise because saya kenal Perdana Menteri, and that's my expertise" — so, translating konsep yang kita faham, yang kita marah pasal rent seeking ni, to canonize law is not that straightforward lah. Dan kita dah semak di banyak negara lah, tak ada tau specific Anti-Rent Seeking Act ni — dia ada different different parts of it lah, and so we wanted to put it together lah. But I could feel daripada awal the resentment and tentangan mengenai anti-rent seeking ni. Dan saya rasa it's quite universal kerana dia akan mengubah status quo 100%. Dia bukan saja dalam kerajaan, tetapi businesses ni — sebab cara lama buat business, ada broker, ada tu, ada Alibaba semua ni, tak bolehlah, kan.
 
 **Farhan (Pa'an):** But I remember that public reaction — ini dah lama ni satu isu ni.
 
-**Rafizi:** Ya, betul, betul. Can we—
+**Farhan (Pa'an):** Ya, betul, betul. Can we—
 
 **Farhan (Pa'an):** Maybe, maybe lah. I remember public reaction kepada Akta Anti-Alibaba tu was quite positive lah.
 
@@ -535,7 +535,7 @@ Cuma, kalau pun akhirnya PAS dan Bersatu, dan PN, didamaikan dan mereka bersetuj
 
 **Rafizi:** Janganlah tanya lebih. Aku tak nak tanya. Kau bayar aku, kan. Data-data ini aku hanya cakap apa yang aku nak cakap je. Yang lain sila bayar, kan. Subscribe.
 
-**Haziq:** So, so, so sila subscribe kan.
+**Rafizi:** So, so, so sila subscribe kan.
 
 **Rafizi:** Ke Onlyfin. So, antara tokoh-tokoh yang ada di dalam PN ni kan, yang paling sellable sebagai Perdana Menteri gabungan PN ialah Tan Sri Muhyiddin dengan orang Melayu lah. Dan itu yang paling penting untuk mereka, because the core undi dia ialah Melayu. So untuk calon Perdana Menteri mestilah calon yang paling popular dengan core dia, iaitu Melayu kan? And it's actually Tan Sri Muhyiddin. Alternatif lain, Dato' Seri Hadi Awang, actually by quite a distance. Dato' Seri Hamzah Zainuddin lagi jauh. So dia tak ada calon lain tau. Jadi kalau PAS dan pimpinan PAS yang menonton, paling kurang aku dah cakap awal-awal lah — at least I'm helping you kan. So kalau they make that egoistic and emotional decision untuk ganti Tan Sri Muhyiddin dengan orang lain, then actually they will suffer a few percentage point dengan pengundi Melayu tau. Itu satu. More than that, dalam semua pimpinan Perikatan Nasional, kalau pun yang ada sedikit kelebihan dengan pengundi bukan Melayu, Tan Sri Muhyiddin lagi. So they're quite jam tau. Tu yang saya kata, ini sebenarnya paralysis. So whatever they decide, sebenarnya episod ini tidak akan memberi kekuatan berganda ataupun kekuatan baru kepada PN, because alternatif dia contohnya — pertama, kalau letak Dato' Seri Hadi Awang, then they have to pay that price lah. Itu tak campur lagi yang Bersatu akan mula bergaduh dan makin, so it doesn't solve a problem kan. So the alternative, katakanlah dia pun suddenly dapat eureka moment: actually ya, our best person is still Tan Sri Muhyiddin kan — then Muhyiddin akan dapat moral victory, dia punya gamble itu, paid off. Dan siapa yang akan kena gelak seluruh dunia? PAS lah. PAS pula marah kan. Jadi, I mean they dig a hole and terjatuh dalam lubang yang mereka gali sendiri sekarang lah.
 
@@ -559,11 +559,11 @@ Cuma, kalau pun akhirnya PAS dan Bersatu, dan PN, didamaikan dan mereka bersetuj
 
 **Rafizi:** Okey, I mean, that's cukup untuk dapat C lah. Untuk dapat A, you have to explain a bit deeper than that lah. Apa dia? Ketiadaan skandal besar?
 
-**Haziq:** No, no, no, no, no, no.
+**Rafizi:** No, no, no, no, no, no.
 
 **Rafizi:** Moderate Malay?
 
-**Haziq:** No, no, no, no, no, no.
+**Rafizi:** No, no, no, no, no, no.
 
 **Rafizi:** Perpaduan ummah. Okey, ha, yang paling emosional, emotif ni yang menyebabkan Melayu atas pagar menyokong PN ialah perpaduan ummah. Kita nak melihat Melayu bersatu kerana kita mesti dapatkan balik kuasa Melayu, kan. Jadi yang mereka suka ialah mereka lihat PN ini aman — PAS dan Bersatu sanggup masing-masing berkorban demi untuk perpaduan ummah. Berbeza dengan UMNO, dia sanggup tinggalkan perpaduan ummah ini demi kuasa, demi nak lepas kes ke apa-apa jelah. Yang itu yang meletakkan bahawa PN ini nampak lebih appealing kepada pengundi atas pagar Melayu. Now bila jadi macam ini — not anymore lah. Sebab itu paling kurang dia akan hilang undi Melayu. Cuma, what happens to that undi Melayu yang tawar hati bahawa perpaduan ummah PAS, Bersatu semua ni sembang je lah, lepas tu sama juga diorang ni — "kita macam bodoh duk sokong 3, 4 tahun perpaduan ummah, perpaduan ummah." Jadi macam ni kan.
 
@@ -619,7 +619,7 @@ Jadi, satu dunia sekarang ni, sebab Romania ni walaupun dia Romania, they are pa
 
 **Rafizi:** Ya, perbezaan tu. Tapi sebenarnya sebahagiannya, kalau tengok kepada pengalaman Argentina lah — at least economically kan, Javier Milei kan — actually within 6 months you dah boleh nampak impact. Okey, so tak perlu pun tunggu.
 
-**Iqbal:** Dia tak sampai setahun.
+**Rafizi:** Dia tak sampai setahun.
 
 **Farhan (Pa'an):** Javier Milei took a very—
 
@@ -627,7 +627,7 @@ Jadi, satu dunia sekarang ni, sebab Romania ni walaupun dia Romania, they are pa
 
 **Farhan (Pa'an):** —extreme approach dengan chainsaw dia semua kan. So mungkin ada orang—
 
-**Iqbal:** When bila dia jadi presiden, dia punya stand dia tu tak ada lah—
+**Rafizi:** When bila dia jadi presiden, dia punya stand dia tu tak ada lah—
 
 **Rafizi:** Cuma policy prescription dia memang extreme lah. Tapi sebenarnya economically, by now people have a lot more confidence dengan Javier Milei. Aku pun sebenarnya macam, gila ke apa dia ni kan? I mean it's like some of the things yang dia cakap itu bukan lah sebenarnya eureka hebat apa, tapi to do it in Argentina, good luck kan? But he actually managed to do it, and in his case sebenarnya dia menang subsequent election tau — parti dia menang lebih besar dekat local election semua kan. So in the case of Argentina lah, we didn't hear Argentina kena bail out — lepas ni orang ingat lepas ni kena bail out, habis lah orang protest atas jalan semua, terbakar lah semua kan. But so I suppose within a few months, kalau things work well, then you will hear a lot more about Romania lah.
 
@@ -655,7 +655,7 @@ Jadi, satu dunia sekarang ni, sebab Romania ni walaupun dia Romania, they are pa
 
 **Rafizi:** Well, Malaysia ni banyak wait and see kan. Kita mula-mula nampak economic impact tu dari segi market lah — maksudnya bursa was picking up, ringgit was holding, kemudian growth seems to be more secure. Kita hanya mula nampak 2024. So, I don't think dia boleh pun apple to apple comparison, sebabnya timing matters juga. Masa Dato' Seri Anwar jadi PM, November 2022, masa tu masih lagi ada doubts about COVID globally. Kemudian ada isu pasal the strength of dollar — dollar was very strong, dan semua currency weakens around the world. There's also the spillover effect of global food inflation kepada inflation semua kan. Sedangkan kalau macam Ilie Bolojan ni, sekarang dia jadi PM dalam tempoh 1-2 bulan yang lepas, yang mana there's a lot more economic certainty globally lah — orang akan rasa macam the worst is over, it's just a question of whether can we grow. Slightly different lah kan. So I don't think you can make an apple to apple comparison sebab faktor banyak kan.
 
-**Haziq:** Okey Webby, itu jelah kot. Dia dah, dia pun dah takut kena marah aku kan.
+**Rafizi:** Okey Webby, itu jelah kot. Dia dah, dia pun dah takut kena marah aku kan.
 
 **Rafizi:** 2 jam 52 minit. 2 jam 52 minit juga?
 
@@ -665,10 +665,10 @@ Jadi, satu dunia sekarang ni, sebab Romania ni walaupun dia Romania, they are pa
 
 **Haziq:** Memang target nak lebih pendek pula kan? Memang sepatutnya lebih pendek. Baik, selamat malam. Happy New Year.
 
-**Iqbal:** Mana ada orang ho ho.
+**Rafizi:** Mana ada orang ho ho.
 
 **Rafizi:** Santa Claus dah balik tidur lah kan?
 
 **Haziq:** New Year kan? Yeah, New Year. Jomlah kita balik juga. Jumpa lagi minggu depan.
 
-**Rafizi:** Sama-sama semua.
+**Farhan (Pa'an):** Sama-sama semua.

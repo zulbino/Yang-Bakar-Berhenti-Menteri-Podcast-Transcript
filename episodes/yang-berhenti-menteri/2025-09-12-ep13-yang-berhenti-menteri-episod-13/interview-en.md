@@ -112,7 +112,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Haziq:** Okay, we won't entertain him anymore.
 
-**Multiple speakers:** Okay, next time then.
+**Haziq:** Okay, next time then.
 
 **Haziq:** Okay, last one I think.
 
@@ -162,7 +162,7 @@ So we also need to look at supply and demand. If demand for certain courses is h
 
 And lastly, I think this issue arises because there's a sense of distrust toward the system — because non-Malays continue to feel that they are sidelined. So transparency is important, and that transparency must be based on a system that the public can accept. For example, if merit reaches the point where 1000 people get 100% merit, how does the bell curve work? How do we set criteria such that if we only want to take 85, there are 1000 people with a perfect score? That system needs to be reviewed. I'll give an example — in some countries, top universities have 2 filters — one based on the application, they look at trial results or whatever before making an offer. Then for those shortlisted, they have to go for an interview. It's normal for university entry to require an interview.
 
-**Haziq:** In Malaysia, is there an interview?
+**Rafizi:** In Malaysia, is there an interview?
 
 **Rafizi:** For certain courses.
 
@@ -226,7 +226,7 @@ Imagine if we were Nepali citizens, and Nepal has only been a democracy for less
 
 So that's also a reminder to politicians in Malaysia. We promise a lot of change, whether at the PH level, BN, PAS before this, or after this. If the people are pressured to the point where change doesn't come, and worse still, you end up replacing — it becomes like Animal Farm. Have you read George Orwell's Animal Farm?
 
-**Haziq:** Okay, need to read it.
+**Rafizi:** Okay, need to read it.
 
 **Rafizi:** Alright, I've read it. George Orwell's Animal Farm is a story about animals and humans. When humans were the masters, the animals lived in pens. The animals were dissatisfied because they were treated a certain way — all slaughtered to become food. So there was one group — the pigs. They promised and campaigned that we must remove the humans so that we govern ourselves, no master in the house, then our lives would be better. So all the animals rebelled, eventually the house owner fled, leaving them among themselves. Not long after, the pigs then took over living in the house, they became the masters, they became the boss.
 

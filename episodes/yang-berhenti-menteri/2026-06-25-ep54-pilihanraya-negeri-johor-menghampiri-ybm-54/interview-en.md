@@ -127,7 +127,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** I need to give my grand story.
 
-**Haziq:** Give the grand story. Because this, I learned about Amharic.
+**Rafizi:** Give the grand story. Because this, I learned about Amharic.
 
 **Rafizi:** I've actually been to Ethiopia once.
 
@@ -145,7 +145,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Haziq:** Okay, alright, Fi. Okay, congratulations to the people from Amharic and Chittagong.
 
-**Rafizi:** Let's move on to Hidup Keras [Hard Life] YB, since we're pressed for time.
+**Haziq:** Let's move on to Hidup Keras [Hard Life] YB, since we're pressed for time.
 
 **Haziq:** We have about an hour left. Let's continue.
 
@@ -171,7 +171,7 @@ Then, PH was the first coalition to announce candidates. There's been noise here
 
 **Rafizi:** Nobody cares about us, right. So, of course, amid all this we're still not sure what's actually going to happen with Perikatan Nasional — which has been very quiet, crickets.
 
-**Haziq:** Ha, there was some noise yesterday.
+**Rafizi:** Ha, there was some noise yesterday.
 
 **Rafizi:** Yesterday, PN's Election Director, Dato' Seri Sanusi Md Nor, announced that seat negotiations had been finalized. But what that actually means isn't even clear. When asked whether PAS would campaign in Bersatu seats, he didn't answer. Because following that announcement there were two more announcements: one, Wawasan won't be contesting at all — meaning the ones contesting in Johor will be Bersatu under Tan Sri Muhyiddin's camp, not the ex-Bersatu people now in Wawasan. That's one. So as for that Bersatu, PAS has cut ties. So does that mean if both are contesting under the Perikatan Nasional banner — in name only, style-wise it's the PN banner — it won't be easy for PAS leaders to go campaign, because it's rather funny. Two weeks ago you cut ties, you divorced, then suddenly, eh, change of clothes, eh, reconciled or what? We're confused too.
 
@@ -191,11 +191,11 @@ Another announcement made by yet another PN component party was Gerakan. Gerakan
 
 **Haziq:** The effects of that very intense development.
 
-**Multiple speakers:** Okay, more specifically, what do you mean?
+**Rafizi:** Okay, more specifically, what do you mean?
 
 **Multiple speakers:** Traffic jams.
 
-**Multiple speakers:** It's actually traffic jams.
+**Rafizi:** It's actually traffic jams.
 
 **Multiple speakers:** Okay.
 
@@ -259,7 +259,7 @@ The only thing we need to ask for help with is for the public, especially Bersam
 
 **Haziq:** Interesting, YB. Maybe a truly final question.
 
-**Rafizi:** For tomorrow's promo then.
+**Haziq:** For tomorrow's promo then.
 
 **Haziq:** What to expect tomorrow, actually?
 

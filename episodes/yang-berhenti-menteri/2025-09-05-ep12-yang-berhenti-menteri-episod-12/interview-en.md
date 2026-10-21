@@ -154,7 +154,7 @@ The first reading means the complete bill is placed on the MPs' table — that's
 
 **Rafizi:** Not the blue one.
 
-**Haziq:** Not the blue bill. Okay.
+**Rafizi:** Not the blue bill. Okay.
 
 **Rafizi:** So, before it can be tabled for first reading in the Dewan Rakyat, it must first pass through Cabinet. So even that — I don't know whether comments were sought on the bill or not. But okay, let's assume all ministries have indeed reviewed this Procurement Bill. I don't know, I'm not a minister. Let's assume. So when the bill is tabled for first reading, that's the first time MPs see it. Ideally, if everything runs as it should — this is what the opposition raised, and I sympathize with that view — after the first reading, before the second reading (the second reading is for debate), it should first be referred to the JKPK, the Special Select Committee — for feedback and so on, so that the feedback can be taken into account. Only then, before the second reading, at least all the views would have been incorporated, and then it can be debated. Because once the second reading begins, it has to be voted on after that.
 
@@ -164,7 +164,7 @@ The second reading means the debate is about the policy, the whole — you can t
 
 **Rafizi:** Yes, yes. That's why the Chok Ma[?] has to be lowered. Okay, fine. Now, going back to that, why did I say I sympathize with the opposition? Because that thing was bulldozed. I recall they tabled the first reading, and the first reading was just two days before the second reading. That thing is thick and important. Yes, it's thicker than the URA bill, right? Thick. This is a very important bill for the country, for us to control leakages, to curb the power of ministers in the future, the Prime Minister, all very important. Why bulldoze it? So, this is the argument the opposition raised, and I actually sympathize with it. If I were in the opposition, I'd ask the same question. That's why when the Speaker answered that unless the select committee writes requesting a review, it wouldn't be referred — it goes straight from committee stage — we can hide behind that kind of technicality. But if I were an ordinary citizen, I'd say, hey, the ones who are so concerned about separation of powers and Parliament acting as a check and balance is PH. So when you become the government, and the Speaker is your Speaker too, the best practice would be — from first reading, refer it to JKPK, then have it refined and improved, then hold the second reading and debate it all. Give time for MPs, JKPK, everyone to do their job. When it comes to your turn, you hide behind technicality — oh, this wasn't written so it needs to be written first, and all that. So when the excuse is that it needs to be written first before referral, people can say we're not serious about parliamentary institutional reform. So, against that backdrop, in the end we go around in circles back to that point. That day, they actually didn't have enough time to properly deep-dive into all the debate because of time constraints from bulldozing it through. So I hope — nothing can be done now, the bill has already been passed that day. Some MPs asked me when it was time to vote on the second reading, some came up to me — I've now become like the old uncle at the coffee shop in Parliament. When it's time to vote, people come and ask, "How should we vote on this one, like this, like this, right?"
 
-**Multiple speakers:** PKR too, or—
+**Haziq:** PKR too, or—
 
 **Rafizi:** Yes, yes, other parties too. Other parties too. Oji. So my view that day, once it reached the second reading stage, that dilemma was placed on the MPs. It should be the government's job not to put MPs — regardless of which party — in that kind of dilemma. Because if I said I abstain or I don't support it, that wouldn't be fair to the civil servants who worked hard on this bill. And it wouldn't reflect my actual position on the Procurement Bill, which I support. If the planning at the Ministry of Finance level had been better — if you want to table something like this, plan it properly, take 4-5 months, get the main reading done, gather everyone's views. Don't bulldoze it. Because in the last week of Parliament, government MPs, backbenchers, we were in a dilemma. We already spoke up about things like Subang and others regarding URA. Then if we speak up again like this because you bulldozed it, people will say, are you trying to bring down the government or what? So it was such a dilemma that could actually have been avoided if this bill hadn't been bulldozed like that day. That's what you asked about rubber-stamping — actually the first thing, the first thing that came to my mind, it wasn't about URA, it was about the Procurement Bill. I feel like I really did rubber-stamp that day.
 
@@ -236,11 +236,11 @@ But this is a bit unfortunate. The unfortunate part is that the action and infor
 
 **Rafizi:** So after that first term in 2018, I think I probably hold the record among MPs for not making any claims — 5 years without claiming anything. At that time, I regretted it.
 
-**Haziq:** Okay, felt kind of foolish, huh.
+**Rafizi:** Okay, felt kind of foolish, huh.
 
 **Rafizi:** Supposedly this was about the principle of serving, on top of possibly being thrown into prison, then all the court cases.
 
-**Haziq:** There's definitely that feeling.
+**Rafizi:** There's definitely that feeling.
 
 **Rafizi:** But even now, sometimes it is a trial. But I still believe that if, for example, our intention is right — well, the RM22,000 one gets a month might be difficult, or might not be luxurious. To say it's difficult isn't quite right either. It's just not lavish. So it really depends. That's why I need other businesses, other jobs, everything I do is to supplement it. To say it's lavish wouldn't be accurate. But if you want to complain, take someone earning a salary of RM2,000, young graduates working hard, paying rent on a RM2,000 salary. So that's the dilemma we have in our country. It's just that I don't think it's apples-to-apples with what happened in Indonesia. The good thing is I don't think any MP will dare ask for a salary or allowance increase after this. But I remember things like what I mentioned earlier, when someone holds up to 4, 5 positions, and each position carries an allowance, so that person alone gets 180,000 from each — that's something that should be reviewed in future. Because for example, at Petronas, from my experience there, because of our position, as management, we had to sit on boards — board of subsidiary A, subsidiary B, subsidiary C, all of them. But we didn't get an allowance for that, because you're already paid a salary. That's part of your salary. In Malaysia it's not like that. In Malaysia, that's why people compete to become board members. So if there are 5 boards, each one pays 10, 10, 10, 10, 10 — you get all of them. So that, to me, is something that needs to be refined in the future. Same goes for pensions — one person can get 3, 4 pensions. This pension, that pension. I once asked a politician, he has passed away now. I asked, "Datuk, you're still active, you're not an MP or anything, you've retired, no position. How do you live? I see your car is big too." He answered, "I have 4 pensions."
 
@@ -252,7 +252,7 @@ But this is a bit unfortunate. The unfortunate part is that the action and infor
 
 **Rafizi:** So that also needs to be looked at. We should really start reviewing all this so that if someone has held multiple separate positions, they should just take the highest pension — one is enough. Not up to 3, 4. And these pensions are all paid by the federal government.
 
-**Haziq:** Okay. States too? Do states pay too?
+**Rafizi:** Okay. States too? Do states pay too?
 
 **Rafizi:** States too, as far as I remember, it's paid. Since pensions are a federal government responsibility, when each state assembly raises salaries and pensions, it ultimately becomes a burden on the federal government. So let's see whether there will be pension reform, for example so that those with layered pensions just get the highest one — that's enough.
 

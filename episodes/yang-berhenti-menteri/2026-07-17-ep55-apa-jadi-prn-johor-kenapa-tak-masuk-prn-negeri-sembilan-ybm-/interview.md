@@ -13,9 +13,9 @@ hosts:
 - Farhan (Pa'an)
 guests:
 - Tang Hong Yau (Ubat)
-- Dato' Dr. Samsu Adabi Mamat
 - Dr. Harith Fakhrudin
 - Dato' Dr. Syed Azuan Al-Idrus (DSA)
+- Dato' Dr. Samsu Adabi Mamat
 topics:
 - 'Segmen Beria: insiden tuduhan curi barang wanita mengandung di Lotus Selayang'
 - 'Segmen Beria: reaksi pasca PRN Johor termasuk kenyataan AMK dan pantun KM Melaka'
@@ -59,9 +59,9 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Kalau dalam podcast, Haziq ni takut-takut kat aku tau. Ceramah, beranilah sikit.
 
-**Multiple speakers:** Asal YB tak ada ke depan.
+**Haziq:** Asal YB tak ada ke depan.
 
-**Rafizi:** Kalau saya ada, dia takut-takut tau.
+**Haziq:** Kalau saya ada, dia takut-takut tau.
 
 **Haziq:** Seles, seles, seles, seles. Okey, baik. Kita ada 4 orang YB. Dan yang pertama sudah pasti kita ada Hong Yao atau Ubat. Betul.
 
@@ -79,19 +79,19 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Haziq:** Ya, Dr. Shamsu Adabi Mamat, mantan pensyarah kanan sains politik di Universiti Kebangsaan Malaysia. Khabar Datuk Doktor.
 
-**Dato' Dr. Samsu Adabi Mamat:** Datuk Doktor. Tapi saya suka pakai "doktor" ya. Bila pertama kali jumpa Pak Biro? Kita orang politik juga kan. 1.0 dulu dah.
+**Tang Hong Yau:** Datuk Doktor. Tapi saya suka pakai "doktor" ya. Bila pertama kali jumpa Pak Biro? Kita orang politik juga kan. 1.0 dulu dah.
 
 **Haziq:** Oh, kena rapat sikit, doktor. Tapi dia tak adalah rapat sangatlah masa tu. Dah lama jumpa lah, masa PH 1.0. Masa tu saya contest Putrajaya. Okey, baik, baik, baik, baik. 2018 — itu first time yang doktor contest lah. Okey, baik. Terima kasih, Dr. Sam. Kita teruskan ke Dr—
 
-**Dato' Dr. Samsu Adabi Mamat:** Haris. Calon kita di Dun Tiram tempoh hari.
+**Haziq:** Haris. Calon kita di Dun Tiram tempoh hari.
 
 **Haziq:** Doktor, bila pertama kali jumpa?
 
-**Dato' Dr. Samsu Adabi Mamat:** Masa interview lah.
+**Dr. Harith Fakhrudin:** Masa interview lah.
 
 **Dr. Harith Fakhrudin:** Oh, interview. Itu kali pertama. Itu online kan?
 
-**Rafizi:** Kalau kali pertama memang dekat Perling lah, dekat rumah, 2 hari sebelum penamaan calon. Meeting tamu malam tu.
+**Dr. Harith Fakhrudin:** Kalau kali pertama memang dekat Perling lah, dekat rumah, 2 hari sebelum penamaan calon. Meeting tamu malam tu.
 
 **Haziq:** Baik, baik, baik. Dan yang terakhir, Datuk DSA yang bukan pertama kali muncul di sini lah — second time. Saya rasa dah pernah tanya soalan ni kot, jadi saya tak—
 
@@ -109,17 +109,17 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Postmortem tu untuk orang mati.
 
-**Multiple speakers:** Oh, itu sebenarnya.
+**Haziq:** Oh, itu sebenarnya.
 
 **Rafizi:** Kan postmortem bedah orang mati lah kan?
 
-**Haziq:** Bedah siasah. Mati kan?
+**Rafizi:** Bedah siasah. Mati kan?
 
-**Multiple speakers:** Mati. Sebab postmortem aku.
+**Rafizi:** Mati. Sebab postmortem aku.
 
 **Haziq:** Bukan postmortem. Kita akan refleksi, dan kemudian kita akan tengok ke PRN Negeri 9, Melaka, dan way forward lah. Okey, tapi sebelum itu kita akan ada "beria mat" sedikit lah. Jadi kita minta panelis-panelis kita bersedia untuk rate mana satu yang paling beria. Kita cuba eh, kita tengok minggu ni macam mana. Okey, baik. Yang pertama, biasa pertama bukan politik lah. Siapa letak gambar semua tu?
 
-**Rafizi:** Lepas ni aku pun kena juga kalau aku pergi.
+**Haziq:** Lepas ni aku pun kena juga kalau aku pergi.
 
 **Haziq:** Tengok CCTV tak, tengok perut. Ini kes di Lotus Selayang. Apabila ada orang yang mengandung di-accuse mencuri barang, jadi dia disuruh untuk tunjukkan perut.
 
@@ -137,7 +137,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Haziq:** Ini beria lah YB kot.
 
-**Multiple speakers:** Beria. Dekat-dekat situ suruh buka.
+**Dr. Harith Fakhrudin:** Beria. Dekat-dekat situ suruh buka.
 
 **Rafizi:** Dahsyat sebenarnya, netizen. Tapi betul juga, CCTV, dia tak boleh tengok CCTV ke? Betul sebenarnya — yalah, kalau aku jadi guard, aku kata, "tapi saya buat kerja saya". Kalau terlepas, saya teruk kena kan. So to be fair, macam mana dia nak semak CCTV lah?
 
@@ -163,7 +163,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Dato' Dr. Syed Azuan Al-Idrus (DSA):** Ni hebat lah.
 
-**Multiple speakers:** Beria, beria. Baik, kita ada yang seterusnya. Yang ketiga kepada UMNO. Beria berpantun. Dia sebenarnya ada yang penuh YB, kalau saya boleh baca eh: "Bernikah tanpa kadi, bercerai tidak bertalak, bersanding tanpa pelamin." Lepas tu dia gelak.
+**Haziq:** Beria, beria. Baik, kita ada yang seterusnya. Yang ketiga kepada UMNO. Beria berpantun. Dia sebenarnya ada yang penuh YB, kalau saya boleh baca eh: "Bernikah tanpa kadi, bercerai tidak bertalak, bersanding tanpa pelamin." Lepas tu dia gelak.
 
 **Haziq:** Lepas tu dia gelak pang. Ya, ya, ya, ya.
 
@@ -191,7 +191,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Haziq:** Punchline aku kena.
 
-**Rafizi:** Beria dia kan, beria dia prepare pantun dia kan.
+**Haziq:** Beria dia kan, beria dia prepare pantun dia kan.
 
 **Haziq:** Cantik, cantik. Tapi DSA, mereka pun kalau kata UMNO dengan PAS pernah pun bersanding dekat PWTC menangis-nangis. Tapi kita tahu lah apa result dia kan — 2.0.
 
@@ -199,7 +199,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Satu hari nanti kita simpan ni tau, satu hari nanti.
 
-**Multiple speakers:** Kena simpan bersih.
+**Rafizi:** Kena simpan bersih.
 
 **Rafizi:** Kita arak pelamin.
 
@@ -221,7 +221,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Haziq:** Tapi betul lah, Ceplos pun memang all-out lah dengan diorang kan. Sakit hati betul?
 
-**Multiple speakers:** Tapi yalah, saya ingat kita lah kalau—
+**Rafizi:** Tapi yalah, saya ingat kita lah kalau—
 
 **Rafizi:** Macam kita lah kan, parti yang baru umur 2 bulan ni kan, selepas sesuatu keputusan, kita akan duduk dan tengok mana yang okey, mana yang tak okey kan. Jadi saya pun tak tahu lah apa yang jadi dengan PN sekarang ni — dia seolah-olah tak ada command control langsung tau. Benda ni memang dah jelas jadi bahan tertawa orang kan, sepatutnya perlu dihentikan segera lah, maknanya dia tidak ada kesan kan. Tapi bila dia alihkan daripada menyerang — sebab sebelum ini selalunya kempen digital bersama lah, kempen digital kita yang selalu dapat tontonan tinggi kan — jadi sekarang bila dialihkan kepada BN tu, dia mengesahkan yang kita cakap selama ini lah. Tahniah kepada BN, maksudnya duit banyak. Mungkin dia dah ikat kontrak sampai PRU ni, jadi nak tak nak sebab kontrak dah ikat, kerja kena buat lah kan siapa-siapa. Kita tak apa, kita hantar chopper.
 
@@ -239,11 +239,11 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Dato' Dr. Syed Azuan Al-Idrus (DSA):** Saya pilih tu lah, YB — apa nama, KM Melaka tu lah, beria berpantun. Gelak lekah-lekah lah tu. Pantun dia tu memang terbaik hari tu. Saya tak terfikir kan dia boleh main cerita kadi, dia boleh main pelamin semua. Yang the best tu dia kata "kita tak ada surat babi eh" — maknanya kita tak boleh memfaraid.
 
-**Multiple speakers:** Faraid pun tak boleh.
+**Haziq:** Faraid pun tak boleh.
 
-**Haziq:** Habis keluar kita faraid semua.
+**Rafizi:** Habis keluar kita faraid semua.
 
-**Multiple speakers:** Habis keluar faraid semua kan.
+**Dato' Dr. Syed Azuan Al-Idrus (DSA):** Habis keluar faraid semua kan.
 
 **Haziq:** Doktor Haris macam mana?
 
@@ -299,7 +299,7 @@ Banyak perkara yang saya lihat dalam apa yang dipanggil peralihan undi ketara tu
 
 **Haziq:** Mungkin saya boleh singgah kepada DSA. DSA mungkin dah ada pengalaman kempen yang agak lama, dan sebelum ini dalam parti lama DSA lebih structured, setiap benda ni.
 
-**Rafizi:** Parti lama YB jugalah.
+**Haziq:** Parti lama YB jugalah.
 
 **Haziq:** Sekarang ni memang macam back to basic lah, simple, tapi masih lagi mencapai objektif dia. Apa perbezaan ketara yang DSA nampak berbanding pengalaman dulu? YB Rafizi kata ini kempen pengalaman paling manis yang pernah dia handle, sebab walaupun team kecil, semua function well. Kalau DSA macam mana?
 
@@ -333,7 +333,7 @@ So kita memang masuk perfect storm — pengundi Johor, dan sudah tentulah ini so
 
 **Tang Hong Yau:** Saya rasa polling swing tu ada kena mengena juga dengan strategi PH. Sebab masuk minggu pertama mereka bangkitkan isu release Najib, pardon Najib, dan juga green wave — jadi saya rasa ini isyarat yang dihantar untuk pengundi Melayu juga, untuk ada muafakat, perpaduan ummah. How about split vote Chinese? Saya rasa dalam minggu pertama, pengundi Cina ni memang kecewa dan bosan. Tapi minggu kedua, you ada perasan tak mereka menjemput balik Superman?
 
-**Rafizi:** Ah, ya ya ya, ada. Kit Siang, Superman.
+**Haziq:** Ah, ya ya ya, ada. Kit Siang, Superman.
 
 **Haziq:** Dan Kit Siang pun terpaksa keluar dari retirement.
 
@@ -391,7 +391,7 @@ Tapi kalau tengok macam ini, sebenarnya tak payah tunggu worksheet borang 14 —
 
 **Tang Hong Yau:** Tisu bersama. Wipe your tears, vote for dia — Team China. Sebab ada satu advertise untuk pihak PH — dia siarkan, kau orang tahu tak, ada satu movie dalam bahasa Cina, "Amar de Qing su", surat cinta daripada nenek — memang viral dekat masyarakat Cina. Jadi dia pun siarkan: nenek panggil you untuk balik undi. Media Cina bersama pun buat satu poster: nenek suruh balik, tapi jangan undi dengan tears — jika tawarkan tisu ni, you boleh undi dengan senyuman.
 
-**Multiple speakers:** Di dalam tank.
+**Dr. Harith Fakhrudin:** Di dalam tank.
 
 **Multiple speakers:** Faham, faham.
 
@@ -447,7 +447,7 @@ Tapi kalau tengok macam ini, sebenarnya tak payah tunggu worksheet borang 14 —
 
 **Haziq:** Kita dah lama Johor — 1 jam 47 minit. Kita 3 jam kan? Yalah, tapi janganlah.
 
-**Rafizi:** Aku nak kena kencing tadi.
+**Haziq:** Aku nak kena kencing tadi.
 
 **Haziq:** Okey, YB dah sebut tadi apa yang Bersama dapat, dari hilang semua deposit 15 kerusi — kita bina jentera dalam masa seminggu, kita ada 1 juta rakyat yang menonton dan 315,000 yang baru, kita buktikan calon-calon kita, kita tunjukkan semangat sukarelawan dan cara kita menguruskan model kewangan kita. Dan mungkin kalau YB nak kongsi — sebenarnya kalau compare parti baru macam Bersama ni masuk dalam pilihan raya kali pertama, dibandingkan dengan parti-parti politik lain yang first time masuk juga, macam mana performance dia?
 
@@ -455,11 +455,11 @@ Tapi kalau tengok macam ini, sebenarnya tak payah tunggu worksheet borang 14 —
 
 **Tang Hong Yau:** Ha, IRL. Itu yang baik sebab ada kawan-kawan saya yang tengok, dia tukar persepsi lah — dia kata "aku sombong sebelum ni kan?" Ha, ya betul.
 
-**Rafizi:** Tapi dalam media memang jahat.
+**Tang Hong Yau:** Tapi dalam media memang jahat.
 
 **Tang Hong Yau:** Sebab dalam media Cina dia memang tunjukkan pasal PADU kan. Tapi dia tukar persepsi, rasa down to earth sangat, humble sangat.
 
-**Multiple speakers:** "Aku memang down to earth kan, cuma aku garang je." I think IRL itu bantu banyak lah.
+**Rafizi:** "Aku memang down to earth kan, cuma aku garang je." I think IRL itu bantu banyak lah.
 
 **Rafizi:** Ya, so itu juga macam inovasi politik lah — kita terpaksa buat IRL, sebab memang tak ada duit nak buat kempen besar-besar. Dan actually salah satu sebab kenapa kita perkenalkan IRL tu ialah kerana memang persepsi rakyat pasal ahli politik ni memang jahat, sombong, semua tu — dan kita nak tunjukkan bahawa boleh kita menawarkan politik yang ada lebih keikhlasan, yang lebih tulus. Cuma masalah saya sekarang orang duk kejar bila nak buat IRL, bagi lah berehat sikit.
 
@@ -487,7 +487,7 @@ Tapi kalau tengok macam ini, sebenarnya tak payah tunggu worksheet borang 14 —
 
 **Dato' Dr. Samsu Adabi Mamat:** Okey, saya mungkin nak bercakap dua perkara sebagai penutup ni. Pertama, mengenai gelombang — sebab saya sains politik, kalau tak ada gelombang ni, susah nak berubah kan. Jadi bila YB sebut dalam satu ucapan iaitu "gelombang kuning dari selatan," saya pun highlight lah di situ. Sebab Panglima dah sebut gelombang kuning dari selatan, saya harap gelombang tu berlaku lah. Lepas tu saya tuliskan tiga perkara: kalau kita tak hilang deposit; yang kedua, kalau kita dapat tiga atau empat kerusi menang; atau kita dapat 10 kerusi ke atas. Dalam ketiga-tiga keadaan ni, gelombang kuning akan berlaku dari selatan kan. Sebab gelombang ni sifatnya emosional. Tambah tabiat mengundi orang Melayu ni pun routine behavior — kalau parti tu dah macam popular je, dia orang akan berbondong-bondong masuk. Lepas tu gelombang tu akan berlaku di Negeri Sembilan kan. Tetapi saya tak terfikir salah satu bahawa kalau tak hilang deposit macam mana. Kalau hilang deposit, sebenarnya gelombang tu tetap akan berlaku, cuma delay sikit. Saya percaya, dengan kita ada expectation pada kepimpinan kita, gelombang tu tetap akan berlaku, cuma macam mana kita nak mencari cara memupuk kembali gelombang tu. Sebab tu lah, dengan sedikit asas dalam kajian politik ni, saya highlight kan partisipasi politik. Kerana melalui partisipasi politik lah kita dapat develop orang muda, orang biasa dan juga orang profesional untuk involve. Ini adalah bukti bagaimana parti kita bersama ni berjaya menyediakan satu platform participation tu. Kalau kita tengok parti Dinaso ni, dia tak, dia tak dakwah terhadap partisipasi politik ni — kalau boleh dia nak halang, dia nak tutup kalau boleh.
 
-**Rafizi:** Jadi kita kat dia je.
+**Dato' Dr. Samsu Adabi Mamat:** Jadi kita kat dia je.
 
 **Dato' Dr. Samsu Adabi Mamat:** Ah, political participation kan. Jadi bila Ubat pun join, dan calon kita 15 orang ni — kalau kita dah berjaya memupuk keberanian mereka jadi calon, jadi bila mereka sebenarnya dia ada level participation. Paling debek lah, paling cokea — kita memupuk rasa cinta terhadap negara, kemudian daripada rasa cinta tu dia ambil tahu pasal politik. Level tu pun dah cukup dah. Level kedua, bila dah umur 18 tahun, turunlah mengundi kan. Level ketiga, dia masuk parti — nak masuk parti mana? Kan kita mestilah kita tangguh masuk lah parti bersama kan, kerana parti ni lah yang memupuk participation tu. Dan level ketiga ni dah jadi calon. Level ketiga ni saya harap yang dah masuk jadi calon ni, kita ada 15 orang, jadi pemerkasaan kepimpinan kita tu kita dapat grow. Kemudian kita boleh cipta gelombang tu, yang dah delay sikit kan. Jadi saya rasa itulah berbezanya parti bersama.
 
@@ -501,9 +501,9 @@ Tapi kalau tengok macam ini, sebenarnya tak payah tunggu worksheet borang 14 —
 
 **Tang Hong Yau:** Saya ada dua pendapat lah. Satu, refleksi personal. Sebenarnya tempoh ni saya banyak pakai bahasa Malaysia. Dalam masyarakat Cina, dia memang kawan lah dengan bangsa Cina saja kan. Jadi saya rasa this campaign make me more feel like a Malaysian, sebab ada kawan Melayu, kawan India. You tengok dekat ceramah, boleh tengok saya cakap bahasa Cina pun orang ramai sabar saja. Saya rasa bersyukur lah dalam keadaan politik yang makin polarized ni, parti bersama ni memang penting. Dalam content-content yang saya beritahu untuk pengundi Cina, saya memang menegaskan ni — PH ni macam PN, BN, dia macam membuatkan orang Melayu dengan orang non-Melayu tu pluralize dan dendam sama sendiri lah. Jadi saya rasa ni sangat penting, satu aspirasi yang sangat baik untuk saya. Dan dengan ini saya yakinkan lah Parti Bersama ni ada future, dan dia penting untuk stopkan dendam antara dua kaum majoriti ni. Yang kedua, refleksi ni sebab saya pun baru dalam politik kan — BN dengan MCA sebenarnya mereka tidak kacau kita. Yang DAP dia kacau kita lah, kata kita split vote ni. Jadi memang dalam media Cina ni kita lebih serang DAP. Jadi ada sedikit pengundi rasa kita seolah-olahnya MCA. Jadi saya rasa kita kena — stand kita kena lebih tegas. Kita tidak berkawan dengan PH ke, BN ke. Kenalah.
 
-**Dato' Dr. Syed Azuan Al-Idrus (DSA):** Baik, baik, baik, baik.
+**Haziq:** Baik, baik, baik, baik.
 
-**Haziq:** WASIA dah sebut tu. Saya nak pegang ayat WAP tu.
+**Dato' Dr. Syed Azuan Al-Idrus (DSA):** WASIA dah sebut tu. Saya nak pegang ayat WAP tu.
 
 **Dato' Dr. Syed Azuan Al-Idrus (DSA):** A truly multiracial party. Yang ni terbaik lah tu.
 
@@ -511,7 +511,7 @@ Tapi kalau tengok macam ini, sebenarnya tak payah tunggu worksheet borang 14 —
 
 **Haziq:** YB, jadi untuk merealisasikan apa yang YB cakap tu lah — soalan terakhir saya. Kita pun ada 107 constituencies poll ni. Jadi mungkin YB boleh share, what's next for bersama dari segi latest survey
 
-**Multiple speakers:** Dekat seluruh negara, dan adakah keputusan
+**Haziq:** Dekat seluruh negara, dan adakah keputusan
 
 **Haziq:** di PRN Johor tu akan menghantui kita sehingga ke PRU nanti.
 
@@ -569,7 +569,7 @@ Tapi itu perkiraan kita. Sebab, you know, orang panggil general kan — orang in
 
 **Dato' Dr. Samsu Adabi Mamat:** Saya tengok dari segi macam tadi lah — saya pun dengan Saidi, temu dengan Saidi sebab tak ada partner, dia ajak saya, saya pergi lah kan. Dia pun bagi mesej kat saya, "Eh, kenapa senyap ni pilihan raya Negeri Sembilan ni?" Sebab lepas tu saya bagitahu dia lah, saya kata saya pun sebenarnya dah prepare dah. Mana boleh tak buat ni — hilang momentum saja, hilang momentum. Sebab bila orang tengah semangat kan, tapi kadang-kadang tu dia tidak mewakili majoriti pemikiran sebenarnya begitu. Sebab saya teringat saya pernah baca dulu dalam buku motivasi kan.
 
-**Haziq:** Panggil paradox. Paradox maksudnya kadang-kadang untuk get more done, slow down kan — maksudnya kita nak dapat satu momentum speed yang baru tu, kita kena slow down sekejap, ambil momentum tu. So bila power dah cukup, macam bateri, kita kena charge dulu kan. So bila kita get the power tu mungkin lonjakan kita tu lagi laju. Jadi bila dapat mesej daripada Facebook YB tu kan, kata "tak, skip Negeri Sembilan, join Melaka" dan fokus untuk rasmikan pejabat — jadi saya pun dapat, baru kita dapat, daripada emosi sebenarnya daripada yang kita nak bergerak ni kerana momentum ni dia lebih pada emotional kan. So bila dah datang mesej tu, mesej skip Negeri Sembilan, join Melaka dan fokus perasmian HQ baru, pejabat tu — baru rasional tu come balik kan. Saya percaya ahli bersama kita akan dirasionalisasikan balik, dan di situ kita akan cipta momentum baru lah. Baik, baik, faham doktor. Doktor Haris atau Ubat mungkin?
+**Dato' Dr. Samsu Adabi Mamat:** Panggil paradox. Paradox maksudnya kadang-kadang untuk get more done, slow down kan — maksudnya kita nak dapat satu momentum speed yang baru tu, kita kena slow down sekejap, ambil momentum tu. So bila power dah cukup, macam bateri, kita kena charge dulu kan. So bila kita get the power tu mungkin lonjakan kita tu lagi laju. Jadi bila dapat mesej daripada Facebook YB tu kan, kata "tak, skip Negeri Sembilan, join Melaka" dan fokus untuk rasmikan pejabat — jadi saya pun dapat, baru kita dapat, daripada emosi sebenarnya daripada yang kita nak bergerak ni kerana momentum ni dia lebih pada emotional kan. So bila dah datang mesej tu, mesej skip Negeri Sembilan, join Melaka dan fokus perasmian HQ baru, pejabat tu — baru rasional tu come balik kan. Saya percaya ahli bersama kita akan dirasionalisasikan balik, dan di situ kita akan cipta momentum baru lah. Baik, baik, faham doktor. Doktor Haris atau Ubat mungkin?
 
 **Tang Hong Yau:** Saya dulu lah. Saya pun setuju lah, sebab kita masuk Johor atas andaian tu ada banyak kekecewaan daripada semua kaum, dan mereka akan pilih Bersama sebagai rumah, parti yang baru lah. Tapi hipotesis tidak jadi. Jadi saya fikir kita kena banyak masa untuk fikirkan satu naratif yang baru untuk dapat undi. Ini ambil masa lah, takkan satu minggu kita masuk, we just repeat the same thing and get the same result. So I rasa tak berbaloi lah, lebih elok tengok workout kan dekat JSQ.
 
@@ -605,9 +605,9 @@ Tapi itu perkiraan kita. Sebab, you know, orang panggil general kan — orang in
 
 **Dato' Dr. Samsu Adabi Mamat:** Ya.
 
-**Multiple speakers:** Visibility kita, kan.
+**Dato' Dr. Samsu Adabi Mamat:** Visibility kita, kan.
 
-**Multiple speakers:** So, yang menonton podcast, kau orang kena bersedia jelah lepas ni podcast ni bising kan, Kuching ni.
+**Rafizi:** So, yang menonton podcast, kau orang kena bersedia jelah lepas ni podcast ni bising kan, Kuching ni.
 
 **Rafizi:** Tak apa, tak apa, pandai-pandai. Sebab saya rasa kita memang tak boleh berehat lama. Cuma saya perlukan satu dua minggu ni untuk planning. Minggu depan saya mula sit down dengan team Ubat, team sana, team sini. Joe is coming to see me esok. Satu-satu kita nak kena susun. Tanggungjawab saya pun besarlah sebab ada orang letak jawatan semua ni, kan — yang letak jawatan untuk menumpukan setahun akan datang untuk buat benda ni, dan diorang ni gaji puluh-puluh ribu, kan. Jadi kita nak kena pastikan semua tu disusun dengan baik. Dalam tempoh seminggu akan datang tu kita plan betul-betul, dan insyaAllah by hujung bulan Julai ni, saya rasa kita dah mula kat Melaka dah. Diorang — saya tak cakap kat diorang je lagi — diorang ada dua hari je pun kalau nak rehat minggu depan. Jelajah Kancil tu, jelajah negeri tu, aktifkan balik. Macam Selangor kita dah delay, dan Selangor kita nak kena teruskan dengan tarikh-tarikh baru. Maksudnya kalau sebelum ini semua firepower tu di Johor, sekarang dari Melaka pula, akan ada Selangor — jadi 3-4 benda yang saya sebut tadi, dah kena berlaku serentak. Maksudnya membina balik momentum keahlian parti, kan. Soal dasar nak kena dibangunkan balik — kita memang ada satu team yang dah ready untuk mula perincikan dasar. Jadi banyak kerja. Tak apalah, kita jumpa hari Ahad. InsyaAllah, tolong jangan pecahkan apa-apa dekat HQ tu, kan. Orang kata, "macam mana ni YB, YB buat secara terbuka, nanti SB semua masuk, dia akan pasang device untuk spy semua." Kami sedia maklum — kita memang kalau boleh nak buka supaya orang boleh tengok, ambil gambar semua, lepas tu aku akan panggil company untuk sweep balik semua. Kalau ada listening device ke apa, nanti kita carilah sweeper. Kepada sesiapa yang bimbang — sebab kita ni ramai ada je orang yang bimbang, duk hantar mesej, "habislah lepas ni SB akan tap," orang tu tap semua — tak apa, lepas tu kita sweep balik semua. Baik, YB.
 
@@ -617,10 +617,10 @@ Tapi itu perkiraan kita. Sebab, you know, orang panggil general kan — orang in
 
 **Haziq:** 2 jam 55 minit lah. Okey, boleh kot berhenti. Terima kasih banyak kepada semua. Terima kasih banyak kepada panelis-panelis yang hadir pada malam ni. Harap boleh join lagi dalam masa akan datang. Okey, baik. Kita berehat dulu sebab esok nak sambung kerja. Selamat malam, jumpa lagi.
 
-**Rafizi:** Assalamualaikum. Chopper kata nak bagi salam.
+**Haziq:** Assalamualaikum. Chopper kata nak bagi salam.
 
 **Multiple speakers:** Eh, Chopper.
 
-**Rafizi:** Tak apa. Assalamualaikum. Jumpa lagi hari Ahad.
+**Haziq:** Tak apa. Assalamualaikum. Jumpa lagi hari Ahad.
 
 **Multiple speakers:** Ya, hari Ahad. Hari Ahad.

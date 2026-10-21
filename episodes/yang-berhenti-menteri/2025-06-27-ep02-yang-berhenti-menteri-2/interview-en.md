@@ -56,7 +56,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Iswardy Morni:** Well, if we're talking about education, I studied law from Southampton University in the UK. Same year as YB. Why do you look older? Because I have this. Same year. We're the same age.
 
-**Rafizi:** Whoever was born in 77, that can't be used.
+**Haziq:** Whoever was born in 77, that can't be used.
 
 **Iswardy Morni:** After that, as time goes by, I like to explore many things. On the side as a part-time interest, I also compose music. At the same time I'm also a scriptwriter.
 
@@ -96,7 +96,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Haziq:** I'm scared.
 
-**Rafizi:** Okay. So we can continue with
+**Haziq:** Okay. So we can continue with
 
 **Haziq:** The discussion today, YB. It's just that production also informed us that the discussion or podcast of "Yang Berhenti Menteri" after this will be formatted. Is it a podcast format? Podcast. I apologize. Podcast. Pronunciation. The "Yang Berhenti Menteri" podcast will be segmented. Meaning we will have one segment that we focus on and maybe some technical aspects. And the rest we will touch on.
 
@@ -106,7 +106,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Iswardy Morni:** That Suardi, Rafizi.
 
-**Rafizi:** I don't mind.
+**Haziq:** I don't mind.
 
 **Haziq:** Chill, chill. Okay brother.
 
@@ -120,19 +120,19 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Yeah, that's why sometimes our people
 
-**Haziq:** jumped to conclusions, right?
+**Rafizi:** jumped to conclusions, right?
 
 **Rafizi:** People haven't figured it out yet. We don't even understand how the tariff is structured, how it works. So at the end of last year, yes, when what was announced was called IBR. Our opposition people, they didn't even understand what IBR is. What's it called, incentive based regulation. So at that time TNB announced the government had agreed to increase the base tariff, from 39 point 6 cents something to 45 point 5 cents something. So the base tariff increased by 14%. This was at the end of last year. So all of Malaysia was in chaos. On July 1st electricity prices will go up 14%. 14%. At that time I was about to make a TikTok, or I was about to comment, but I said no let's wait because it's better when the final tariff to consumers is announced, which I think was announced last week. Because that will give us a good opportunity to explain the tariff structure. Actually sometimes when we look at things until electricity reaches us, the bill at our place. I think it's good for us Malaysians, we need to start understanding how the industry works. So electricity needs to be generated. And it's not just TNB that generates it. We have private companies called IPP, Independent Power Producer, that generate electricity. Then TNB buys all of it. Then TNB will distribute and sell to homes, to shops, to factories. So actually it's like when we buy goods. When we buy goods from a shop, the shop doesn't make it. It buys from another factory. It has its own price. Then it takes the goods and sells it back. So the final price is what we pay. Electricity is the same too. What was announced at the end of last year is what's called the base tariff. That is, one price that TNB buys from all electricity generators in Malaysia. Actually the price has indeed gone up by 14% from 39 cents plus to 45 cents plus. So I want to ask back, I want to ask about his fried rice.
 
-**Iswardy Morni:** Everyone told me to burn him. Apparently he wants to burn me. I want to burn him tonight.
+**Rafizi:** Everyone told me to burn him. Apparently he wants to burn me. I want to burn him tonight.
 
 **Rafizi:** So how is it that from when TNB buys from the generators, it's gone up by 14 cents, but suddenly now when the new tariff schedule came out, suddenly TNB says everyone is saving. How is that? How?
 
 **Haziq:** How, Faiz?
 
-**Iswardy Morni:** How? Ask me, I'm not the Economic Minister. Ask those outside commenting. Ask those who were beating the drums about tariff going up 14% and all. How can it be like this?
+**Rafizi:** How? Ask me, I'm not the Economic Minister. Ask those outside commenting. Ask those who were beating the drums about tariff going up 14% and all. How can it be like this?
 
-**Haziq:** How can there be savings? Okay. I'll wait 6 months so this becomes noisy. Then everyone will answer.
+**Rafizi:** How can there be savings? Okay. I'll wait 6 months so this becomes noisy. Then everyone will answer.
 
 **Rafizi:** Can I comment?
 
@@ -198,7 +198,7 @@ So if you look at the projection of energy requirements it's really sky-high. So
 
 **Rafizi:** That is the vision, fundamentally. Meaning, the solar potential in Malaysia—we won't be able to fulfill it if we depend on large-scale solar farms like now, using 100 acres, 200 acres. We need to quickly transition to rooftop solar because first, it helps sustain the country's electricity supply. Secondly, it actually helps people because suddenly their house can generate income. So unless we push it, and for that to happen, there are many steps. We need a market. That market, and the question is: do people sell to TNB or do people sell to an exchange market? That's what, God willing, we'll have to ask many more times. And I hope to see within the next 3-4 years this can start happening, because once we can unlock rooftop solar, then at least we can accelerate the increase in the share of solar generation. Who should we ask about this? Petra.
 
-**Iswardy Morni:** To Petra, to the Ministry of Economy.
+**Rafizi:** To Petra, to the Ministry of Economy.
 
 **Rafizi:** Ministry of Economy, whoever he is. Whoever becomes minister. Anyone, right. So that's one component in the plan that actually involves the people, and it's not just about tariffs—it's also about sustaining the country's electricity. But it still hasn't been answered. Yes. Why does the base tariff of 45 cents increase by 14%, but suddenly the cheap tariff schedule saves 4 ringgit? Not answered yet.
 
@@ -216,7 +216,7 @@ So if you look at the projection of energy requirements it's really sky-high. So
 
 **Rafizi:** The lesser subsidy. So houses at 85% actually really do use 600. If they use 600, I recall that 600 still gets a 9 sen rebate. So it means they pay approximately 36 sen compared to the cost of 45 sen. So when all of this is combined and factored in, when we compare according to the new tariff schedule, they can actually save RM4. But of course, no matter what, it's just left pocket into right pocket. Because the one bearing it is still the government. The government has to pay the final bill and this final bill is a problem. Because the final bill that reaches the government, 45 sen per unit, is based on the projected price of gas and coal when we calculated it last year. Let's say a war happens. Like now, right? Suddenly the price goes up 75. Let's say it goes up 100. If the estimate at that time was the price, let's say hypothetically 65 dollars per barrel. So when it goes up to 100, the government has to add more. But the price doesn't change.
 
-**Iswardy Morni:** Because the scheduled price doesn't change.
+**Rafizi:** Because the scheduled price doesn't change.
 
 **Rafizi:** The price that we pay doesn't change, but the price that has to be paid to TNB will go up and down.
 
@@ -234,9 +234,9 @@ So if you look at the projection of energy requirements it's really sky-high. So
 
 **Haziq:** Okay, so I think we've answered the first question related to.
 
-**Iswardy Morni:** No, he hasn't answered.
+**Rafizi:** No, he hasn't answered.
 
-**Haziq:** Because the question is whether anyone will get burned or not after this? Let's see.
+**Rafizi:** Because the question is whether anyone will get burned or not after this? Let's see.
 
 **Iswardy Morni:** But I don't think so because 85% are not affected. So like before, the previous increase too, 85% were not affected. People are complaining about the so-called T20.
 
@@ -258,7 +258,7 @@ So if you look at the projection of energy requirements it's really sky-high. So
 
 **Iswardy Morni:** We, we need to understand the background first, right. This, this this. He makes law.
 
-**Rafizi:** Ask him. We need to understand one thing.
+**Iswardy Morni:** Ask him. We need to understand one thing.
 
 **Iswardy Morni:** When AGC gives a reason like that, I can't actually accept it. I mean, do you need to produce the original document in that case before the judge? You have to produce the original document, right? That was my question. In my live stream, I asked. We need to understand this. This case was charged, I think, in 2019. SRC, we need to remember, there are two SRC cases. One is for 42 million, he's already been found guilty and jailed. The other one is 27 million for money laundering. It's money laundering. So this one in 2019 was charged. Once in court, they should call the first witness. So the first witness wasn't called. Not only was it not called, there were delays. When the judge asks when we delay again, delay, delay, delay until 2025, we say. So the judge said, as a judge, he said, it's hopeless, Pak Karim. He said, it's hopeless for Najib. You can't keep waiting so long. Are you ready or not? Usually the judge will ask like that. Are you ready? We ask for an adjournment again, yes Arif, he said. If that's how it is, okay. I'll give DNAA first. DNAA means discharge not amounting to acquittal. It means discharged without acquittal. Does it mean they can charge again? Yes. When? Anytime. Right, as soon as the DPP is ready, then we charge later. So DNAA doesn't mean he's not guilty or guilty. Not yet. Because the trial hasn't started. Sometimes people jump up and say, yes, Najib is already not guilty. Look at Rafizi. There are slanderers here. Najib is not guilty, he said. No, the case hasn't started. Not yet, the trial hasn't started yet, and the 42 million case has already found him guilty. So we need to understand that. But the question arises, why has it taken 5 years? Up to 6, not 4 years. This case has dragged on so long, delays in charging, delays in starting the trial. And the reason given by AGC, by the DPP, is in my view not, not professional, right. You know, like I said earlier, if they say the document is used in other cases. Yeah, I know we have criminal cases, 1MDB, we have civil cases and so on. You should already be ready, you already have the document. If it's being used, you photocopy it. You're within one department. You can certainly use that thing, right? And I think, I believe that Arif wouldn't reject if you photocopied that and so on. If that's the reason. Why the real reason, it beats me. I also don't know what the real reason is. But sometimes he might, this is my assumption, I could be wrong about this. The unpreparedness of the prosecutor themselves with the evidence and what people call, the prosecution itself. Maybe, this maybe. And the reason the document wasn't brought might just be used as an excuse. Because when you want to charge, sometimes you need to have a solid case and maybe the timing, maybe again rushed or something, I don't know. For example the Tok Sri Zahid Hamidi case, the mental case we call it, and also the foreign visa case. Those 40 cases were all found not guilty. At a time when I read the judgment, I said the prosecutor or the investigating officer themselves were really not ready with anything.
 
@@ -270,7 +270,7 @@ So if you look at the projection of energy requirements it's really sky-high. So
 
 **Rafizi:** Yes, that's one aspect from a legal perspective, you see. But there's another aspect from the perspective of perception and what the people think, you see. Legally, that's what should really be answered before the trial begins — the prosecutor and his defense counsel need to exchange documents. Usually they need to provide a bundle, you know. If it's a civil case they exchange, but if it's the public prosecutor for this criminal case they need to provide a bundle, you see. The document bundle is usually meant to stay. As long as, even when we submit to the court, even though I'm not a lawyer, but because I always go in and out of court, you see. As long as for example you can call the maker of the document and he confirms that the photostate document is indeed the original. It can be accepted as evidence. So that question, I do remember, you know — people would scratch their heads if we say, oh we want to wait until all the other 1MDB cases, the other SRC cases are finished before we start, only then give the documents. That's what raises another concern, which is perception. Because there are several series of cases involving 1MDB that are seen to have slipped through, you see. For example, the one involving the stepchild. Dato' Sri Najib. So this case, when it gets DNAA, whatever the reason given by the AGC, some of the people will say, is this the price paid because UMNO is in the unity government? So that will bring about problems, you see. So that's why I, as a backbencher, need to remind the government that this is dicey. I don't know what's really happening or not. This is purely a matter of documents or if there's a request or what. We don't know. And as ordinary people, we think like ordinary people, you know. Ordinary people will say, if we look at this track record, one after another, does this mean this case too will eventually fall away and disappear just like that? DNAA after that disappears because this is part of a package, right? When it becomes part of a package, if you're a staunch voter for Pakatan Harapan, you'd be angry. You'd say, I didn't vote for you for this. You have to be clear about what's happening here, you see. So that's my concern. That's why I'm asking for, okay, it's fine if you say now you're not ready, documents are still being waited for from other cases. That's fine. But there must be a commitment to charge again. Don't let the DNAA after that disappear. Don't not charge again after the DNAA, right. DNAA is okay.
 
-**Iswardy Morni:** Give a time frame, lah. One month. Then if yes, that's what the judge keeps asking when, when, when, you see.
+**Rafizi:** Give a time frame, lah. One month. Then if yes, that's what the judge keeps asking when, when, when, you see.
 
 **Rafizi:** So I hope that's how it should be because there will be a political price that needs to be paid. If this looks like it continues, then that will strengthen further, and people like Iz, like me now, we want to face the opposition. It's difficult for us, you know. We speak about principles like this and that, they say DNAA. We're tired. We're tired of having to answer, you see. So and what's more important really is the mandate obtained by Pakatan Harapan previously, which is to ensure we see through the process that is fair to the people. Because 1MDB has victimized the people. If there was an ordinary person accused of stealing government money of 27 million, it's the end of the world, right? Another perspective is that maybe they're not involved with politics at all, whether it's Najib or the government or what, you see. I used to go to court often, and he was placed in the same cell with the other accused people. Many of those accused are drug cases. So the story of DNAA not being ready for 6 years, imagine if the case is a drug case. Or a burglary case, a young burglar, right? So he gets arrested. He gets detained waiting for trial. But the trial hasn't happened for 6 years. For 6 years he has to sit in prison because his family is poor, can't afford to.
 
@@ -278,7 +278,7 @@ So if you look at the projection of energy requirements it's really sky-high. So
 
 **Rafizi:** Or the bail is too high, you see. And it's true some people in the past were very shocked by this. I asked what case it was, you see. They told me, oh how long has it been. So they sit there for 7, 8 months, 2 years waiting for the trial to start. They go with me to court, just for mention sessions. Mention postponed, mention postponed, you see. So that too is something we need to treat fairly.
 
-**Iswardy Morni:** So the matter of DNAA when the reason is because.
+**Rafizi:** So the matter of DNAA when the reason is because.
 
 **Rafizi:** Not ready and 6 years. It also opens up another new layer to this issue if Najib gets not ready for 6 years, if it happens to ordinary people.
 
@@ -312,15 +312,15 @@ So if you look at the projection of energy requirements it's really sky-high. So
 
 **Haziq:** So let's go to the next one. So is there another issue next? So next, YB is regarding the Telegram court order. Where the MCMC recently applied and the High Court granted an injunction so that the investigation agency, this investigation agency disappeared. So yes, YB was also once a minister and such. Don't keep bringing it up. YB now as an ordinary citizen, see. So a minister is not an ordinary citizen?
 
-**Rafizi:** Some don't feel like ordinary citizens. Actually ordinary citizens, but.
+**Haziq:** Some don't feel like ordinary citizens. Actually ordinary citizens, but.
 
-**Haziq:** That connotation is wrong. Once you become a minister, you're no longer an ordinary citizen.
+**Rafizi:** That connotation is wrong. Once you become a minister, you're no longer an ordinary citizen.
 
 **Rafizi:** Anyway, okay.
 
 **Haziq:** So yes, this person wants to do, they want to balance yes the government maybe thinks they need some kind of digital sovereignty, need to have control for security and all, what they say in that. And another part is for us to balance with media freedom, including for whistleblowing and so on. So how do we want to put it, want to strike the balance actually, between these two. But for this issue it's more extreme because the reason given is just simply this will threaten government institutions. Which I feel I don't know if Brother Is can accept or not. But this? Okay, the reason given is that. Okay. Me first, Gabi. Can I go first?
 
-**Rafizi:** You go. Okay, okay.
+**Iswardy Morni:** You go. Okay, okay.
 
 **Iswardy Morni:** It's like this.
 
@@ -334,7 +334,7 @@ So if you look at the projection of energy requirements it's really sky-high. So
 
 **Haziq:** There's some truth to that too. But you know YB, the price to become a whistleblower is very high. Some people will lose everything. So it's not easy to expose yourself like that. YB, you've experienced more, you know many cases, a civil one.
 
-**Iswardy Morni:** Yeah, the whole Telegram thing is a dicey issue isn't it.
+**Rafizi:** Yeah, the whole Telegram thing is a dicey issue isn't it.
 
 **Rafizi:** But I think there needs to be a balance like this. The strong reason or argument for the government to license and with that license or take legal action can direct the platform to remove and so on to close, right. The reason is for crime—scammers, sex, prostitution and everything, right. So every law and every action, even if it starts with good intentions, but if not careful it will be misinterpreted. So if anything I think about this investigative edition, if there were actually 10, 20 similar actions on other things about scammers and so on, it might be able to balance. Striking the balance. So when suddenly the first one taken to direct to close is the investigative edition, then some people feel that this government has no tolerance for dissenting space, right. So what Is said earlier I agree, right. Me as a public figure, right. If you notice, I've never sued anyone. I want to sue Wan Faisal like that. Ha, because clearly he talks nonsense and slanders, right.
 
@@ -348,7 +348,7 @@ So if you look at the projection of energy requirements it's really sky-high. So
 
 **Iswardy Morni:** I told you early on. Later people will say, actually it's really true Rafizi with you. So I think I agree with that, right.
 
-**Rafizi:** Only yes, the balancing, when the public sees this action the first one he takes. Yes, so there's concern that the trend is that the dissenting space, the democratic space is getting smaller and smaller. If that came from another government, it's okay. When it comes from Pakatan Harapan, because we reached this stage, became this government, because we used fully any space given to us to convey differing views. So suddenly when we, you know, it cannot be that what works for you suddenly when it's disadvantageous to you is no longer tenable. It's no longer good. What works for you, if before it works for you because of the principle behind it, should work now. It is a trade-off from the security aspect and so on like this, but there are ways to get around it like in other countries, you know. So if for example in another country, if there's something considered to violate or infringe on someone's freedom, right, they need to get a warrant first. They have to prove, you know, a credible case first, in court. Of course not openly. A magistrate or judge agrees that this balances and this is indeed a case that should be, only then they get that permission, right. So we have more space to build the processes, the regulation so we can balance like this. Because if not careful, even though the intention for us to license the platform is good, finally what people see is it is being weaponized to close dissent.
+**Iswardy Morni:** Only yes, the balancing, when the public sees this action the first one he takes. Yes, so there's concern that the trend is that the dissenting space, the democratic space is getting smaller and smaller. If that came from another government, it's okay. When it comes from Pakatan Harapan, because we reached this stage, became this government, because we used fully any space given to us to convey differing views. So suddenly when we, you know, it cannot be that what works for you suddenly when it's disadvantageous to you is no longer tenable. It's no longer good. What works for you, if before it works for you because of the principle behind it, should work now. It is a trade-off from the security aspect and so on like this, but there are ways to get around it like in other countries, you know. So if for example in another country, if there's something considered to violate or infringe on someone's freedom, right, they need to get a warrant first. They have to prove, you know, a credible case first, in court. Of course not openly. A magistrate or judge agrees that this balances and this is indeed a case that should be, only then they get that permission, right. So we have more space to build the processes, the regulation so we can balance like this. Because if not careful, even though the intention for us to license the platform is good, finally what people see is it is being weaponized to close dissent.
 
 **Iswardy Morni:** Just one additional point from me. I also have internal information. For example, with Telegram pages, if there are more than 30,000 subscribers, people cannot request to close them. Meaning we can actually request it. For less than that we can request—for example, if we're dissatisfied. For example, scammers can also request. There are some, and we should also mention that some have already been closed. But once it reaches more than 30,000, that's when they're forced to use civil procedures. But I agree. Actually the avenues should be wider than that because now the government is using civil procedures. Civil procedures. They're using civil, using what people say? Yeah, using civil procedures to request closure. But yeah, you know, balance—as YB said, there needs to be balance. Which I also agree with. Just, yeah, we need to look at the harms and benefits occurring there. So do you agree or not? No, I actually, to be honest, agree to close. I agree. I don't agree to close.
 
@@ -414,7 +414,7 @@ So if you look at the projection of energy requirements it's really sky-high. So
 
 **Rafizi:** And the party also didn't have any special program to win the elections because the elections were already won. So actually my service wasn't needed at that time.
 
-**Iswardy Morni:** If you are in my shoes, why would I sit there struggling?
+**Rafizi:** If you are in my shoes, why would I sit there struggling?
 
 **Rafizi:** I have my life to run. But there was no demand on YB to feel that weakness, YB. I don't know. I was jogging at that time. I mean, I'm a human being. Actually sometimes people forget too, right. I have a family. After 2018 I had no salary. I have to live, right. Because there were no more responsibilities and so on, it's only right I move on. I didn't bother anyone and I just did my own thing, right. Of course, it's different now because I'm still an MP. And what's the word, 2 years from now the situation after that is fluid. We don't know what will happen. So it's the same, different from 2019, my financial position is much better now compared to before. I mean what I've worked toward is the result. So I have more space and time to continue to be active in the community. Plus 2 and a half years as Minister of Economy, there are things I feel are important for the country that the government will take time to do. So that's the space I feel I can pursue earlier with the community. That's what I mean by the third sector and so on, right. I think it's an exciting learning curve for me. Take for example the third sector, right. The main problem in this country is prices are rising. Food prices, you know. Inflation at its lowest even last month was 1.2, it's pretty certain that nasi campur prices and all won't come down, for example, right. Electricity didn't rise, it's pretty certain it won't come down either, right. So if we follow the figures above, the reporting above, the statistics all look good. But the price drop doesn't materialize, right. So I actually want to learn. I actually want to run a shop and open and give opportunities for kids to work. Most of all I don't really want to make money or whatever. Pak Lee isn't really doing business, because only by going through it, then I can appreciate and understand the supply chain from top to bottom, the costs and everything. Why aren't these product prices coming down, right? Similarly there are 2 or 3 things I'm working on, that I want to work on. So there's an agenda that I want to pursue—one for my own learning curve, my own learning. One, it helps the community, people with certain families, certain people who will benefit. Thirdly, it's also good for the community and country if we can accelerate more social enterprises and the third sector. So, when I have this lineup, that's why when people ask, you don't feel it, suddenly you want to leave being a minister and all that, lose your position? I'm actually excited for what is to come.
 
@@ -426,7 +426,7 @@ So if you look at the projection of energy requirements it's really sky-high. So
 
 **Rafizi:** I don't think I have the mandate to speak on behalf of the party or PH. No, no—you, personally as a person? Yeah well, no, as a person I don't have the mandate. Ah, okay.
 
-**Iswardy Morni:** 2016 was different because 2016 was because there was a cartel and everything.
+**Rafizi:** 2016 was different because 2016 was because there was a cartel and everything.
 
 **Rafizi:** Yeah, yeah. So things didn't work. I understand. Some people mentioned, you know, election director together with Izzah and all. Yeah, actually what was happening inside the party didn't work at all. That's why we didn't have a choice. We had to go out and campaign for the party from outside. So, who wanted to discuss about the election at that time? So I think now it's working. That's their responsibility. But the situation is different. Now there's a Prime Minister, there are Ministers compared to 2016. In 2016 Pakatan Rakyat didn't even exist. We wanted to make something new. Dato' Seri Anwar was in prison. Most of the party leadership actually didn't want to move and there were differences of opinion because they wanted to be together with UMNO. JPRP didn't really function at that time. So I was at that time as Vice President and Secretary General. I was in the middle of this, knowing what was happening. For the party because at that time we knew Dato' Seri Anwar could only be freed if Pakatan Harapan won and formed the government. Only through the path of royal pardon could it happen. So what choice do I have? Wait, wait, wait—so I went out. I don't know about other people. I mean, people like us are usually people who are forced. Campaigner of the last resort. Yeah. When there's no one else, so you're forced. But now there are many people. That's right. So influencers are also many and so on. So there are many other groups that I think could benefit from our energy, our focus. And maybe those groups aren't even from partisan politics. And finally I think if you are a politician, you want to have an impact to society.
 
@@ -438,7 +438,7 @@ So if you look at the projection of energy requirements it's really sky-high. So
 
 **Rafizi:** Ah, I became a pollster—data science and all that—was because I wasn't satisfied with the medical center. Because the data that arrived, it never asked about what's it called: Who's gonna vote? Tomorrow's election, who are you going to vote for? Because the survey depends very much on the question. Plus Malays. They speak indirectly, you know what I mean. That's one. Second, the survey because the sampling size is only 1200, 1500, just to get what we call margin of error—what is it in Malay? Range of difference. Range of difference. Just to get that margin of error of 2 to 3%, you only need about 1500. Right. This is for people who always ask: only 1500 compared to chickens in Malaysia? Surveys are like that. Surveys, statistically you only need 1500 respondents just to give a 2% margin of error. The challenge isn't the number of respondents. The challenge is to ensure the respondent is truly representative. So let me give an example. Why have I never believed in face-to-face surveys, door knocking? Why? So for example IDER, Institut Darul Ehsan, what they provide. That's why if we follow IDER, PKR would win 100 seats every election. True. Because when they conduct a survey, they use university students carrying questionnaires. They do it like a census. They send the university students into a village. Then it depends on the students. The student knocks on doors. Now they carry tablets, not papers, going into villages. Say the student goes into a village, they find a coffee shop, many people. They interview everyone in the coffee shop. They don't know that coffee shop is a PAS coffee shop. Everyone answers PAS. So because of that, it has to be computerized. Meaning there has to be a computer system that dials randomly so it's truly random. For example if the university student is lazy. They arrive at a certain area, they look at this apartment building. That building—from what I can see, many people going up. It happens that building is all PKR. Of course PKR gets it. So you have to make sure the system is truly random and dials so you stratify early. Say, the survey that I run for example—I think it has strata, strata, there are about 60 plus. For example, a Malay boy aged 20 to 25 in this area, in a village, education SPM, unemployed. Different from a Malay boy aged 20, 25, graduated from university, living in the same village. Their views are different. Very different. So you need to have 60 strata. So for each stratum, the phone has to dial until you get the required number. Once you get that required number, then the 1500 is truly representative. Then you weight it to the entire population. That's the challenge now: Malaysians don't want to pick up the phone because they think it's a scammer. So if before we could complete one nationwide survey in two weeks, now sometimes it takes more than three weeks. So I'm still waiting. But you are right. Yeah. Because the question—if you ask if the country is on the right track? They answer yes. Well, it depends on the person. They say, "I just watched Kluang Man, I don't like it. So it's not on the right track." For example. So it depends on things that are very subjective. That's why how we construct the question is very important. But it must end with the question: if tomorrow there's an election, which party are you going to vote for? From there actually, if there's enough data, you can make correlation. There are people who say the country is on the right track, everything is okay, but vote for a different party. There are people who are dissatisfied, dissatisfied, but vote for a different party. So unless you ask the question—the problem is, why don't most pollsters ask that question? Because they've already gone through the hassle of asking 10 questions, and by then asking tomorrow what they're going to vote for? So to get 1 person who answers completely and is willing to tell you who they want to vote for, maybe you need to talk to 50 people. So it's long, difficult, expensive. And you need to find those who
 
-**Iswardy Morni:** We need to break down by specific stratum.
+**Rafizi:** We need to break down by specific stratum.
 
 **Rafizi:** Stratum, yes. So it's simpler then to ask whether the country is on the right track.
 
@@ -464,7 +464,7 @@ So if you look at the projection of energy requirements it's really sky-high. So
 
 **Haziq:** Okay, I think that's just it for the session of episode two of the podcast Yang Berhenti Menteri.
 
-**Rafizi:** Podcast. Podcast Yang Berhenti Menteri this time.
+**Haziq:** Podcast. Podcast Yang Berhenti Menteri this time.
 
 **Haziq:** Until we meet again in the future. It's not necessarily me as moderator. That's all.
 

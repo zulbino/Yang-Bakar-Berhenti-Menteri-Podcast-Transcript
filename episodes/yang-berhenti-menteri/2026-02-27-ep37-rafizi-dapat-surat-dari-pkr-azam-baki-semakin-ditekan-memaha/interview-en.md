@@ -79,9 +79,9 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Haziq:** Okay, good. "Beria," YB. Let's move to the third one. Backup now after not resigning from his position. Dr. Akmal still hasn't resigned, right?
 
-**Farhan (Pa'an):** Hasn't resigned.
+**Haziq:** Hasn't resigned.
 
-**Haziq:** As far as I know, not yet.
+**Farhan (Pa'an):** As far as I know, not yet.
 
 **Farhan (Pa'an):** Not yet. He declared it but it wasn't accepted because—
 
@@ -89,7 +89,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Does he represent Malaysian bureaucracy? Yes, bureaucracy. Resigning from a position takes this long. Don't let it be that after saying "I've been declared out of PKR and I'm no longer an MP," he's still stuck in the bureaucratic process, hasn't resigned yet. That's embarrassing, isn't it. This follows DAP saying "he goes or we go." Then UMNO Youth Chief said there's no need to pretend to threaten PMX — if you're brave, walk now. So, coming from Dr. Akmal, that's really "beria." If it's about bravery, go ahead — as long as he hasn't given up his position as Exco, I'd advise Dr. Akmal not to touch on matters of resignation, leaving the government and so on. But in the end I don't even understand why there was a need for Dr. Akmal to comment on this. He's really being "beria" commenting, and backing them up. If, for example, DAP directed that comment at UMNO, we'd understand why the UMNO Youth Chief needed to react. But they don't even like Dato' Seri Anwar or PKR either, right, UMNO? So why is he so eager to jump into the ring? Is there tea, YB? Is there tea? Don't understand. Any inside story? That's a Gen Z thing.
 
-**Farhan (Pa'an):** Oh yes, Gen Z.
+**Haziq:** Oh yes, Gen Z.
 
 **Rafizi:** Okay, later. I don't drink tea, eh, I drink coffee. Is there, oh, is there tea, spill the tea. There isn't. I'm asking.
 
@@ -115,7 +115,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Haziq:** In short — please summarize — in short, previously before MBMBI, it was 3.5 hours a week. Then because of MBMBI, it was shortened to 3 hours from 3.5 hours. And by 2027, it will be raised back to 3.5 hours. Okay, so? Therefore. Even you don't understand it. He didn't answer the question.
 
-**Farhan (Pa'an):** He didn't answer the question.
+**Haziq:** He didn't answer the question.
 
 **Rafizi:** He thinks he answered the question, but he missed the mark. We asked — we're currently in the lagging league, 576 hours, compared to 1000 hours in other countries in the region. So we want to know how to bring this from 576 to 1000 hours. And he tells us this whole saga instead — previously it was 3.5 hours, then it dropped to 3 hours, but now it'll be raised back up to what it was before, 3.5 hours. Hooray, hooray, great, right? But the funny thing is, that only amounts to an increase of 32 hours. That increase of 32 hours will bring it from the current 576 hours to 608 hours. Might as well not bother — that's still far from 1000 hours. It's a lot of effort for a very small result.
 
@@ -229,7 +229,7 @@ This seems like a repeat of the episode involving Shamsul Iskandar earlier. When
 
 **Rafizi:** So being popular. Very popular right now. So let's see where — during 1MDB earlier, when those accusations first arose, MACC — here, this is Tan Sri Azam Baki. Where is he? Right here. Tan Sri Azam Baki, in the middle. Help me find. Here he is — Tan Sri Azam Baki insisted adamantly that the thing was, what do you call it, a donation from Saudi. And the same thing happened during 1MDB earlier — when it first surfaced, the government's reaction was to go after whoever spoke about it — arrest them, sue them, arrest them, then suspend them all, right. So now this is repeating. Dato' Seri Anwar got angry back at a journalist when asked, right. Then the Speaker won't allow it, right. And because of that, it's reached a point where I think DAP itself feels that if they don't do something, they will really be in trouble — they're the ones who'll be in trouble. Like I said at the "Topple Azam Baki" rally. And many other things have happened — suddenly there's an investigation into misappropriation involving 3.6 billion involving me, right. So after this, even if I don't have a job, even if I'm unemployed, it's fine, I have 3.6 billion. How could you, YB, all on my own, huh.
 
-**Haziq:** Rich all on your own.
+**Rafizi:** Rich all on your own.
 
 **Rafizi:** Rich all on my own, I have 3.6 billion, InsyaAllah. Doesn't even buy me coffee, right. So then today there's also an investigation into a conspiracy to destabilize the government. So I haven't had time to comment yet, and reporters are already chasing me on all this, right. So the same seeds are sprouting now that we went through during 1MDB. So I don't see how Dato' Seri Anwar can escape this — the most likely outcome, I think, is that Tan Sri Azam Baki will not be reappointed. If he's reappointed for a fourth term, I don't know what to say anymore, right. But what we need to keep pushing and keep speaking up about now is that it's not enough to just not reappoint him — this matter needs to be investigated. Because the allegations relate to corporate mafia, relate to abuse of power, extortion, relate to how misappropriation occurred for the wealth and financial motives of individuals within MACC. So that needs to be investigated. What I'm not sure now is whether Dato' Seri Anwar can defend not conducting an investigation. I think he might try to find a middle path, saying why all the fuss, he won't be reappointed anyway after this, right. But I'm grateful to friends in DAP — although there are some in DAP who are angry at me, criticize me, say "oh when he was in government he didn't speak up." I spoke up a lot, right? And they're angry because I said DAP please speak up, because if DAP speaks up, Anwar Ibrahim listens a bit, right. Thankfully the senior DAP leadership isn't like the DAP folks here — they understand, and I'm grateful to DAP and I hope this matter continues to be pushed until there's a Royal Commission. Because we really need to investigate this matter thoroughly. And whoever is involved in this, within MACC, outside MACC, they need to be brought before the courts. Because we need to restore public confidence in MACC, right. And MACC, you know, has more power than the police even — they can go arrest anyone, they can freeze anyone's accounts, right. And nowadays a lot of crime is white-collar crime. Even organized crime syndicates need white-collar crime because they need to launder money, right. So if there's no confidence in MACC, then we'll be in a situation where — who do we trust? When MACC keeps arresting people — even if a politician really did take money, really is corrupt, MACC arrests them, the public still doesn't believe it because the public has no confidence in MACC, right. So restoring public confidence in MACC is very, very important.
 
@@ -249,7 +249,7 @@ This seems like a repeat of the episode involving Shamsul Iskandar earlier. When
 
 **Rafizi:** The conditioner seems to be working.
 
-**Speaker ?:** True, true, true.
+**Haziq:** True, true, true.
 
 **Rafizi:** If not, wouldn't he still be bald? That shows.
 
@@ -283,7 +283,7 @@ That's why I hope — I don't know what will happen next week, because so far th
 
 **Rafizi:** No, I'm not in their WhatsApp group, I don't have a WhatsApp group. But I think if you look at the diagnosis it's fairly clear — meaning PAS now has full control within PN. Because of the split that occurred within Bersatu, PAS can play the divide-and-rule role more easily. Because both factions, Tan Sri Muhyiddin and also Dato' Seri Hamzah Zainuddin, both of their groups depend on PAS — both of them want to stay on good terms with PAS. So that allows PAS to get everything. That's why so far we know that the PN chairman is from PAS, and the opposition leader will also be from PAS. It's just not yet been decided who the opposition leader will be — I think they need to decide whether the opposition leader is Datuk Tuan Ibrahim as Deputy President or Datuk Takiyuddin as Chief Whip. This shows that at Tan Sri Muhyiddin Yassin's level, he's being pragmatic that so far the only political option available is to concede 100% to PAS.
 
-**Farhan (Pa'an):** There's nothing else?
+**Rafizi:** There's nothing else?
 
 **Rafizi:** Nothing so far. Below that, nothing. Meaning he has to concede 100% to PAS and give PAS full face 100%. And then buy time and fight another day. At the same time, Dato' Seri Hamzah Zainuddin's faction has also stated they are loyal to the new PN chairman. So that's the result of the split that occurred within Bersatu — it's reached that stage, and it gives PAS the advantage to divide and rule completely.
 
@@ -313,7 +313,7 @@ That's why I hope — I don't know what will happen next week, because so far th
 
 **Rafizi:** Why is there Stranger Things? Is Stranger Things really Gen Z? Eh, Gen Z. I watch Stranger Things, so I figure it's Gen Z, YB. The heart of Gen Z.
 
-**Haziq:** Ha, Gen Z transfer.
+**Farhan (Pa'an):** Ha, Gen Z transfer.
 
 **Rafizi:** Gen Z transfer. Ha, why is there Friends then? Since when is Friends Gen Z? Eh, that's Millennials' Friends. No way, Friends is Gen X. Really? That's my era, old fogey. My generation watched it. Ha, that means you're behind the times, meaning you like oldies. Friends is from the 90s, right? 90s ah. You guys weren't even born yet then, right?
 

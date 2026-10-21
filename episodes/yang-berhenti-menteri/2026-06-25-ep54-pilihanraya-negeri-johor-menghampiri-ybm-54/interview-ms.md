@@ -127,7 +127,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Kena bagi cerita agong aku.
 
-**Haziq:** Kena bagi cerita agong. Sebab ni aku belajar mengenai Amharic.
+**Rafizi:** Kena bagi cerita agong. Sebab ni aku belajar mengenai Amharic.
 
 **Rafizi:** Aku pernah sampai kat Ethiopia tu sekali.
 
@@ -145,7 +145,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Haziq:** Okey, baik baik, Fi. Okey, tahniah kepada orang dari Amharic dan Chittagong.
 
-**Rafizi:** Kita terus ke Hidup Keras YB, disebabkan kita kejar masa.
+**Haziq:** Kita terus ke Hidup Keras YB, disebabkan kita kejar masa.
 
 **Haziq:** Kita ada dalam sejam lagi. Kita terus.
 
@@ -171,7 +171,7 @@ Kemudian, PH adalah gabungan pertama yang mengumumkan calon. Adalah bising di sa
 
 **Rafizi:** Tak ada orang peduli kat kita, kan. Jadi, sudah tentu, di dalam semua ini kita masih lagi tidak pasti sebenarnya apa yang akan berlaku dengan Perikatan Nasional ini — yang sangat senyap, krik-krik.
 
-**Haziq:** Ha, ada bising-bising semalam.
+**Rafizi:** Ha, ada bising-bising semalam.
 
 **Rafizi:** Semalam, Pengarah Pilihan Raya PN, Dato' Seri Sanusi Md Nor, mengumumkan bahawa rundingan kerusi telah selesai. Tapi apa maksudnya itu pun tak tentu jugalah. Bila ditanya sama ada PAS akan berkempen di kerusi-kerusi Bersatu, dia tidak menjawab. Sebab rentetan daripada pengumuman itu ada dua lagi pengumuman: satu, Wawasan tidak bertanding langsung — jadi maksudnya yang akan bertanding di Johor ialah Bersatu kem Tan Sri Muhyiddin, bukan bekas-Bersatu dalam Wawasan sekarang. Itu satu. Jadi Bersatu itu, PAS telah putuskan hubungan. Jadi adakah bermakna kalau kedua-duanya bertanding atas bendera Perikatan Nasional — nama saja gayanya bendera itu Perikatan Nasional — tak mudahlah agaknya untuk pimpinan PAS pergi berkempen, kerana ia agak lawak. Dua minggu lepas you putuskan hubungan, you dah bercerai, kemudian eh tukar baju, eh rujuk balik ke apa macam ini? Kita pun keliru.
 
@@ -259,7 +259,7 @@ Cuma satu-satunya yang kita perlu minta tolong ialah orang ramai, terutamanya ah
 
 **Haziq:** Menarik, YB. Mungkin soalan yang betul-betul terakhir.
 
-**Rafizi:** Untuk promosi esok pula.
+**Haziq:** Untuk promosi esok pula.
 
 **Haziq:** Apa yang boleh dijangka esok sebenarnya?
 

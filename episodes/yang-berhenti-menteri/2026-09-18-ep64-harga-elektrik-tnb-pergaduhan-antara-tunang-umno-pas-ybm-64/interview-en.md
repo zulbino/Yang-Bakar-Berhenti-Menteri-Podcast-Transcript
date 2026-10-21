@@ -72,7 +72,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Haziq:** But there's another thing, which is—since we are recording on a Thursday night. And YB, being someone with a lot of info, mentioned that there's some news circulating. I think right now, apart from TNB, what people are making noise about is the issue of the throne in Negeri Sembilan. But another issue is the release of Dato' Sri Najib. So. Well, it started circulating around this afternoon.
 
-**Rafizi:** Oh, okay. So by the time this podcast is broadcast—well, I don't know, hopefully it doesn't turn out to be just a rumor or if something has actually been confirmed. But the information circulating is from people who are very close, I suppose. Including, well—I can't mention who. Fair enough. But we were informed that there is a very high possibility that Dato' Sri Najib will be granted house arrest. Well, I mean, that's what the pardon or the release is about, right? Ah, okay. Meaning it's house arrest. Ah, right, right, right. So, we will only know by the time it goes live. By the time it goes live. Ah, so don't ask us to comment on it right away. We're mentioning this because if that happens, it means the biggest news at the time this podcast is broadcasted will be the news about Datuk Seri Najib's release from prison. So we won't have time to comment because we are recording this a day earlier than usual. Okay, right, right, right, right.
+**Haziq:** Oh, okay. So by the time this podcast is broadcast—well, I don't know, hopefully it doesn't turn out to be just a rumor or if something has actually been confirmed. But the information circulating is from people who are very close, I suppose. Including, well—I can't mention who. Fair enough. But we were informed that there is a very high possibility that Dato' Sri Najib will be granted house arrest. Well, I mean, that's what the pardon or the release is about, right? Ah, okay. Meaning it's house arrest. Ah, right, right, right. So, we will only know by the time it goes live. By the time it goes live. Ah, so don't ask us to comment on it right away. We're mentioning this because if that happens, it means the biggest news at the time this podcast is broadcasted will be the news about Datuk Seri Najib's release from prison. So we won't have time to comment because we are recording this a day earlier than usual. Okay, right, right, right, right.
 
 **Haziq:** Okay. We'll move on to the break, but before that, this setup might only be temporary, YB. Because Farhan has work, he said.
 
@@ -120,9 +120,9 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Haziq:** YB should just let it be.
 
-**Rafizi:** Nah, Ceplos isn't even worth much. Ah yes. Okay. So now he's helping Dato' Seri Anwar Ibrahim by taking on the hatred from TNB staff instead.
+**Haziq:** Nah, Ceplos isn't even worth much. Ah yes. Okay. So now he's helping Dato' Seri Anwar Ibrahim by taking on the hatred from TNB staff instead.
 
-**Haziq:** A good strategy. Okay, right. Next, YB. We have. ah, the Negeri Sembilan throne issue a little bit. Solving it by saying one thing to your face, another behind your back, doing something else, and announcing something else. Looks like there's a U-turn again, huh?
+**Rafizi:** A good strategy. Okay, right. Next, YB. We have. ah, the Negeri Sembilan throne issue a little bit. Solving it by saying one thing to your face, another behind your back, doing something else, and announcing something else. Looks like there's a U-turn again, huh?
 
 **Rafizi:** What is so strange about it is ba-
 
@@ -154,9 +154,9 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** So it's not actually news then. I thought—unless this major UMNO ulama was actually withdrawing, right? *Tawakuf* like Lim Sian Si. What do people usually call it when someone withdraws? *Tawakuf*, right?
 
-**Haziq:** *Tawakuf*. Try Googling it. *Tawakuf*. Ha, this kid right here.
+**Rafizi:** *Tawakuf*. Try Googling it. *Tawakuf*. Ha, this kid right here.
 
-**Farhan:** Withholding judgment, pausing or refraining from giving a definitive opinion. Ah, that's right, it's *tawakuf*.
+**Haziq:** Withholding judgment, pausing or refraining from giving a definitive opinion. Ah, that's right, it's *tawakuf*.
 
 **Rafizi:** Ah, he's a major UMNO ulama. Yeah. So he has to use language like that. I thought he was dead serious about sulking and was going to go ahead and *tawakuf* for good.
 
@@ -394,7 +394,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Haziq:** It's because it's volatile.
 
-**Farhan:** No, no, no, no. Why do we need to have tier one, tier two? Yeah, I'm not blaming you all. Only a few people in Malaysia know about this.
+**Rafizi:** No, no, no, no. Why do we need to have tier one, tier two? Yeah, I'm not blaming you all. Only a few people in Malaysia know about this.
 
 **Rafizi:** The ones who know. This has never been presented. That's also a blunder. You don't explain how it's all calculated, right? So when people see the price go up, they get angry. They don't know where the gas comes from. Why is there one tier where the price is 30, the maximum price is 35 per MMBTU. MMBTU is British Thermal Unit. The other one is 46 ringgit. Because the source or origin of this gas is different. Tier 1 is gas from Peninsular Malaysia. A long time ago, 30, 40 years back, we had a lot of gas. And our industrialization wasn't very high yet. So back then this gas was used for electricity generation. I remember when I was young, about 30 years, well, almost 26, 27 years ago right. The price of gas for electricity generation in Malaysia, in Peninsular Malaysia, was RM6.40 per MMBTU. Right. There was a lot of gas back then. A lot. No problem. Burn, burn, burn to generate electricity right. That was when everyone wanted to build IPPs. Ha, because gas was cheap right. Over time the demand for gas kept increasing. Right. So for example in Peninsular Malaysia, I remember the usage per day is roughly 2100 to 2200 mscaf per day. And because of the high demand, then around 2007, 2008, it became an issue. Instead of us just burning gas for electricity generation, the gas could generate more returns to the country, both in terms of value creation, both in terms of taxes, if we sell it to industry. For example, we sell to the petrochemical industry, we sell to factories, all of it.
 
@@ -402,11 +402,11 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Yes, of course because you sell at market price. And it can take the gas molecule. Natural gas is what? Chemistry—did you do chemistry before? Yes. So natural gas is C. Natural gas is
 
-**Haziq:** Natural gas is C1 methane.
+**Rafizi:** Natural gas is C1 methane.
 
 **Rafizi:** C1 is one carbon with 4 H right? Ah, C1. So it can take this C1 and it can make, for example it can make urea. And it can export and urea has many effects. It can make ammonia. Ammonia becomes a base chemical for many other things. From this base chemical it can make adhesives and so on. Can make paint and so on. Right. Right? So the value creation is a lot more than just burning for
 
-**Haziq:** Electricity. To make electricity. So next people say improvement to the regime, this gas regime, at some point it went up from RM6.40 per MMBTU to RM11.32, I think, per MMBTU.
+**Rafizi:** Electricity. To make electricity. So next people say improvement to the regime, this gas regime, at some point it went up from RM6.40 per MMBTU to RM11.32, I think, per MMBTU.
 
 **Rafizi:** So this thing evolved, evolved. I think up to a certain point must be 10, 15 years back. By that time I had already left oil and gas and all that right. The country limited how much could go to energy. So that's what became tier 1. Tier 1 is the maximum volume of gas in Peninsular Malaysia that can be supplied for electricity generation. And that volume now is 800 mscaf per day. Right. Anything above 800 mscaf per day, there's no gas anyway. So in the end if the gas from Peninsular Malaysia isn't enough, what does it have to do to meet the demand from electricity generators?
 
@@ -414,25 +414,25 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Import from around the world. It becomes LNG. So LNG you have to pay what's it called, market price. That's the reference price for tier 2. Tier 2 is from or source of gas from internationally. Not from Peninsular Malaysia, right. So when you look at that, what does that mean?
 
-**Haziq:** Meaning. Look at the graph, 2 there.
+**Rafizi:** Meaning. Look at the graph, 2 there.
 
 **Rafizi:** What does the graph mean? Notice? May, June, July. Yes. The price, then notice throughout it's almost like tier 1 gas never even reached 35 MMBTU. Never even reached its reference price. Then April, May, June, July it went down. Down. In fact, you know, it doesn't make sense how tier 2 went up. But meaning tier 2 went up by 1 times, but tier 1 actually kept decreasing. Decreasing a bit.
 
-**Haziq:** So, what can be read from it?
+**Rafizi:** So, what can be read from it?
 
 **Rafizi:** He's about to spray Ridsect, but while I'm at it here I'll spray for a bit.
 
-**Farhan:** It had to be used for another sector.
+**Haziq:** It had to be used for another sector.
 
 **Haziq:** What is it? When.
 
 **Rafizi:** How can there be? Don't drink that water, I'll spray Ridsect on all of it. The water too, I'll spray Ridsect on it. Kill you all mosquitoes. So, we definitely have to go to, have to go to reading class. What exactly can be, you guys are showing this graph right? Yes.
 
-**Farhan:** We have a small face there. Yes.
+**Rafizi:** We have a small face there. Yes.
 
 **Rafizi:** What can be read from the graph? Look at what's implicit, don't look at what's explicit.
 
-**Farhan:** I see that from May to July, T1 gas was lowered in price again.
+**Farhan (Pa'an):** I see that from May to July, T1 gas was lowered in price again.
 
 **Rafizi:** How can there be tier 1 gas? True, its price went down, but how can the price be lowered? The price is set by a reference price. Maybe to compensate major increase in tier 2 price. Unlikely. The more realistic possibility is that actually between perhaps April, May, June, July, there wasn't enough gas from Peninsular Malaysia. So they have to source it from LNG. So the gas balance has become problematic. Meaning to fulfill the supply of 800 mscaf per day, there isn't even enough gas in Peninsular Malaysia anymore. So it has to import. Right? That's more likely than lowering, it doesn't work like that. Than lowering what's it called gas, gas price. Oh God, ants now.
 
@@ -570,7 +570,7 @@ So what's the impact?
 
 **Farhan (Pa'an):** People who pledge to open whatever industry.
 
-**Farhan:** What, what is the process?
+**Rafizi:** What, what is the process?
 
 **Rafizi:** You can't just use pledges, pledges, pledges. What is the process? Application? Yes, they have to get a manufacturing license. Yes. Right? Anything, to get a manufacturing license or to get incentives, all of that needs to be approved by MITI. So once MITI approves it, only then can they go deal with—just like us. They submit an application to TNB. To apply for, what do you call it, electricity supply. Except that our electricity supply is your standard voltage, all standard usage. Factories vary depending on the specific factory. Different factories have different usages, different peak demands, different maximum demands, especially data centers and all that. So the root of that demand projection comes from industrial projects approved by MITI. So what does this have to do with data centers?
 
@@ -586,7 +586,7 @@ So what's the impact?
 
 **Rafizi:** Economy. Because gas is under the Ministry of Economy. There is no gas.
 
-**Farhan:** Yes, yes, yes. The energy division.
+**Farhan (Pa'an):** Yes, yes, yes. The energy division.
 
 **Rafizi:** There is no gas. If we import gas, God help us. Third, MOF, of course. Because if anything happens, we have to pay all the subsidies, right? So, okay. Now people are starting to speak out about all these data centers. But what about these data centers? What do data centers have to do with capacity charges, with demand, with network charges?
 
@@ -626,7 +626,7 @@ So what's the impact?
 
 **Rafizi:** No, no, no, no, no, no. That's where electricity is different. You should not use the word generate.
 
-**Farhan:** Okey. That's our capacity.
+**Rafizi:** Okey. That's our capacity.
 
 **Rafizi:** Meaning if everything, all the power plants are run to the maximum capacity that they have, it can create 28. It can produce 28 gigawatt. But it depends on overall demand. So you may have 1 gigawatt capacity, but you may be running at 500 megawatt. Besides, if nobody wants to buy your electricity, why would you run at 1 gigawatt? You run only at 500 megawatt. And it's not the same as solar. Solar, because you don't generate it, you basically—so you can store it in a battery. So that was my question. But a coal-fired plant, a gas-fired plant, where is there electri—where is there a battery? And I don't think it makes economic sense to run a gas turbine plant, run, run, run to store [energy]. That's not how electricity is generated or how the grid is maintained. That is why in other countries, demand planning and dispatch become very important. That is why they use AI. That is why they call it a smart grid. So that you just generate just enough and then you dispatch just enough to optimize everything. So that goes back to this whole question that is bigger than just the issue of the AFA and all that. It's also this question about capacity charges and network charges. So at the national level, there is this question about actually what is the spare capacity that we are comfortable with. You ask people in the industry, they will say 25% is okay because what if there is a blackout? If there is a blackout, YB, it's even worse. We suffer even heavier losses. There are people who say maybe we should be operating only at 20 [percent] because that 5% saving in spare capacity, that should translate into cheaper electricity for our country. Because of course it will translate into cheaper capacity charges, network charges, and everything. So that's at the macro level of the country. But when it comes to data centers, the reason why I say there is some truth to it is because you have to look at the numbers. Otherwise, I wouldn't comment. Every month, these are figures that take quite an effort to track down. From TNB announcements, from MITI announcements, and from everything else. So I have tabulated, for example, the data center capacity that has already entered into electricity sales agreements—the ESAs. Every month I want to look, I want to look at how much is approved, how much is actually connected to TNB, and how much of that data center load is actually consuming power? The numbers are not good, you know. I'll give you an example, June 2024. The announced data center capacity. This is the one that enters investment announcements and all that. June 2024, secured capacity is 4 gigawatt. The amount connected and energized, meaning it's fully hooked up to electricity.
 
@@ -634,15 +634,15 @@ So what's the impact?
 
 **Rafizi:** The amount actually used during operations so far is 190 megawatt.
 
-**Farhan:** Only 11% utilization.
+**Rafizi:** Only 11% utilization.
 
 **Rafizi:** That's based on those figures. I may be wrong. The problem is all these things are not reported or there is no watchdog body looking at all of this. So people like me have to go check one by one and tabulate. So I have to take from different sources of information. Then, take September 2025, Secured capacity is 7.1 gigawatt.
 
-**Farhan:** The connected amount is 3.8.
+**Rafizi:** The connected amount is 3.8.
 
 **Rafizi:** The amount used is 710 megawatt.
 
-**Farhan:** Utilization is 19%.
+**Rafizi:** Utilization is 19%.
 
 **Rafizi:** So, even if for example—the issue is, and then you can go on, I have the numbers for every month here, if people want to argue with me. They are there. But the utilization is in the range of between 10% to 54%. And I asked my friends in the industry, why does it happen like that? Is this because projects didn't materialize or what? One, there are projects that are delayed or not continued. But another reason is indeed the nature of a data center: when it first starts operating, it doesn't install all the data racks at once. It ramps up. It's like a factory, you see. It uses this much first, then it adds more, then it adds more. So, what they state when they secure [capacity] is the maximum demand, you know. But they have to pay a certain amount based on that maximum demand of theirs. But their maximum demand, let's say this month the maximum demand is 100 megawatt. Then they pay up to that amount. But TNB, when it looks at the overall project, the data center says at our peak we need 1 gigawatt. TNB has to prepare 1 gigawatt, you see. Even though its maximum demand is revved up from 100 megawatt to 300 megawatt, to 400 megawatt. That takes time. And that delay in consuming the capacity, that becomes a cost. So there is truth, and there is untruth to it. The untruth is if people say the entirety of it is borne by the rakyat.
 
@@ -702,7 +702,7 @@ So what's the impact?
 
 **Rafizi:** Nuclear has actually been approved. But it will take, I think, at the absolute fastest, 10 years. Because of the Philippines. So even if MOSTI and Petra are running as fast as possible, most probably it will take 10 years. That's not even factoring in the public, which will become a major issue, right, regarding nuclear and all. I mean, yalah, energy policy if you look into the Nether[lands] too, it's indeed nuclear, you know, and nuclear has actually been approved at the government level. The question is how fast can they make it happen and do it properly, do it professionally. And also there's the other question about nuclear. I have not seen the costing. For all you know, it's just as expensive. Just, ha. Because you have to buy.
 
-**Farhan:** Well, one, the technology is expensive.
+**Rafizi:** Well, one, the technology is expensive.
 
 **Rafizi:** Then we don't have the fuel. You still require nuclear fuel and all, right. So that is actually the main challenge for whoever becomes the government after this. The real issue is everything about energy that we know of in this country is changing fast. And our electricity, our energy profile was built based on oil, which Malaysia will have forever. And when we have a government where everything must be pampered, feared, right, it equates to oil subsidies, to electricity and all these things. So it teeters back and forth for a moment. That is what becomes—again I repeat—patchwork. Patch here. But it's not gonna resolve the problem. And maybe by design, every time this happens, politicians probably want TNB to take the beating. Whereas it's not TNB. It's actually the politicians. It's the government that makes all these policies, right? YB has explained this, that's it.
 
@@ -770,7 +770,7 @@ So what's the impact?
 
 **Rafizi:** Actually that's it. Actually, one thing that, if I were in GPS, the strategic threat to GPS and GRS in Borneo is when UMNO and PAS merge. Because if on the Peninsula there's 165, they can win up to 120, they don't need Borneo at all. Right? So, GPS and GRS in their view, whoever becomes government, they will join that government right. But how much they can extract from the federal government depends on the leverage they have. If for example, PAS with UMNO won't be shaken at all by whatever they ask or whatever they threaten. So really they just become backbenchers in that government. Right. So, among many combinations I think the one that would feel most affected by UMNO with PAS is GPS, then GRS. Why is there a difference between GPS, GRS, and Hobi?
 
-**Haziq:** Because GRS used to have many ex-UMNOs.
+**Rafizi:** Because GRS used to have many ex-UMNOs.
 
 **Rafizi:** Ha, GPS never has. And they felt being for so long in BN before, where they had to submit to UMNO from the Peninsula. So now Anwar places GPS as the most powerful person, with the strongest leverage, who Anwar fears most. So, you know, they are used to that power and clout. So they won't want to lose that because they lived before, in the BN era when UMNO was very dominant. And what's it called, because of that I remember, logically speaking GPS especially and GRM, they only have just over a year before this election to get as much as they can from Anwar Ibrahim. Including for example, to give an increase in parliamentary seats. One third. One third. Okay. So, apart from that is the Petronas issue, all of that. So, GPS's best chance of getting it is actually from Anwar. That comes back to your question. Your question is whether in this way, will it cause Anwar to be able to win and become Prime Minister again? I think it will backfire greatly. Because Malay voters, one thing I feel, the majority of Malay voters, one thing they always have a problem with Dato' Seri Anwar is trustworthiness. They don't trust Dato' Seri Anwar. They feel Dato' Seri Anwar for the sake of power, he has no red lines. Ha, that's what is always being played—that he's willing with DAP or he's friendly with DAP and DAP's propaganda controls Anwar Ibrahim because for the sake of power, he's willing, right. Now you put that dimension in Sabah, Sarawak. Meaning, if for example, any decision regarding Petronas later is seen, or taken advantage of by UMNO or PAS to build a narrative that Dato' Seri Anwar is not protecting Petronas rights. Then it will backfire. Same with the one-third seats issue in Sabah, Sarawak. Because the issue is not merely one-third seats in Sabah, Sarawak. What about the seats in the strong PH bastions that have 300,000 voters, 200,000 voters? If you give to Sabah, Sarawak and increase seats to get 1 in 3, but their voters are 20,000, 30,000, but there are no new seats in Selangor for example, areas that have 300,000, 200,000 that are not redivided, then surely people will say look only. So it will backfire. So they don't, they don't. This is what Malays say di luah mati what is it? Child, swallowed to death the father. Is it?
 

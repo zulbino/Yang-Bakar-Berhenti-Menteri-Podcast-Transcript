@@ -65,7 +65,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** He needs to make sure it's pre-booking only.
 
-**Farhan (Pa'an):** Right, so. No walk-ins allowed.
+**Haziq:** Right, so. No walk-ins allowed.
 
 **Rafizi:** I think there's a — don't do walk-ins. Right, because when you operate a restaurant with a seating capacity of, what, 240? That means all the usual risks that a much smaller restaurant would face get amplified by 10, 20 times. So there's the parking risk. There's the wastage risk. Because if you get it wrong and allow walk-ins — say one day there are few people, the next day there are a lot — managing inventory and raw materials becomes quite challenging. So I think so far it looks like Khairul Amin has taken a lot of things into account. But when something goes viral like this, there are a lot of upsides, but there are also risks, because it depends on whether the interest holds beyond the initial viral phase — whether you can sustain it. So at the end of the day, it's all about the product. It's actually the total value offering — product, and whether the pricing is right too. But I think for the first few months, people will walk all the way from KLCC just to go there, because it's become part of our culture — wanting to try it out and take photos.
 
@@ -93,11 +93,11 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** "Beria" — he's defending himself. But I don't know who's actually advising him, or acting as communications strategy adviser to Kamil Munim. One thing is when Utusan Malaysia did an interview — a two-page interview, two full pages.
 
-**Farhan (Pa'an):** Like Hari Raya pages. I was testing that one.
+**Rafizi:** Like Hari Raya pages. I was testing that one.
 
 **Rafizi:** So if it's two full newspaper pages, chances are Utusan didn't just decide on their own. That means it's a communication strategy from Kamil to explain himself. But actually, this is an issue that can never be won with the public. This letter-of-support issue — no matter how well you explain it, just tell him to follow the process. Even with all this eager explaining, this is something the public has already made up their mind about.
 
-**Farhan (Pa'an):** Meaning ordinary people.
+**Rafizi:** Meaning ordinary people.
 
 **Rafizi:** We must remember, ordinary people, you know.
 
@@ -105,11 +105,11 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** I want to enter a tender. That itself is a problem for politicians, you know, because they never actually go through the tender process themselves. They're up top, they give instructions, they interfere, wanting to get into the tender. This very idea that no matter how good I am, someone else can get an express lane. People don't like express lanes. Even at the supermarket, if we're queuing patiently and someone cuts in — people get angry. So this letter-of-support issue is actually the same thing as in the tender process. Everyone else follows the process, and you go and cut in line. So no matter how well he explains the letter of support, it's simply not going to succeed in changing public perception. So, try again next time.
 
-**Farhan (Pa'an):** Alright, YB. Good luck. Let's see.
+**Haziq:** Alright, YB. Good luck. Let's see.
 
 **Rafizi:** If he wants to come on this podcast to explain, he's welcome to.
 
-**Farhan (Pa'an):** Really? How much do we charge, YB?
+**Haziq:** Really? How much do we charge, YB?
 
 **Rafizi:** Ha, well we should charge. How much did Utusan Malaysia charge him for two pages?
 
@@ -147,7 +147,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Are all those involved in it? Why isn't the Deputy Minister of Religious Affairs in that photo, guys?
 
-**Haziq:** There's only one photo of him, which is at the front.
+**Farhan (Pa'an):** There's only one photo of him, which is at the front.
 
 **Farhan (Pa'an):** I think it's from Parliament when he was sworn in as senator.
 
@@ -341,7 +341,7 @@ So what challenges need to be addressed, especially by PKR? This question hasn't
 
 **Rafizi:** Good luck to you then, not my problem. Well if we've already lost, meaning, why do you feel it's about your generation — you cannot speak on behalf of your generation. You're the only one who thinks that way. Other young people, I guess we will have to go through another cycle.
 
-**Farhan (Pa'an):** Yes, waiting for the cycle.
+**Haziq:** Yes, waiting for the cycle.
 
 **Rafizi:** Wow, definitely, I think it will take a lot more than one or two cycles. Right. That's why, as we've discussed before, historically in this world, parties that rise on the platform of reform and succeed in becoming the government — not many succeed, you know. After one term they lose and never come back. So that's our main concern. That's why I'm concerned about the future. If people say, "ah you're too idealistic, all of you" — well, is idealism the only weapon we have to secure the future for progressive multiracial politics in this country? Because Malaysia will continue to be a country whose majority population shifts towards Bumiputera Malays decade after decade. So if, for example, the experience with PH — ordinary voters, your generation, feels bitter — it was such a letdown. They say this, that, this way, but eh, it's the same thing. Then what's the point? Once that "what's the point" sets in, then what will become dominant are perhaps right-wing parties, racially-based parties in the future. So that's why when we criticize, when we call things out, it has nothing to do with position or being a minister or anything like that. I've said this so many times actually — if we're not corrupt, it's actually not worth it to be a minister — small salary, and then you have to behave well. We could be a CEO of a big company, a GLC CEO even gets 200, 300 thousand a month. Why become a minister with a 35 thousand salary, and then have to put up with all sorts of things — even if a cat gets stuck in a tree, people call you, right? So it's not worth it. The only reason there's meaning to that job is if we can contribute to making sure that political contestation in Malaysia remains competitive for the future. And that is what is at stake now when people talk about idealism versus pragmatism, because pragmatism — as many people feel about the current government, even though it's the PH government — because it tries too hard to be pragmatic, the only conclusion voters will draw is "actually you're all the same." Idealism is what's very important to differentiate between the parties that exist, in a situation where voters feel you're all the same.
 
@@ -371,7 +371,7 @@ So what challenges need to be addressed, especially by PKR? This question hasn't
 
 **Rafizi:** I have a personal interest in it. Absorbable meaning — isn't it dangerous if the stent later disappears? So over time it disappears?
 
-**Farhan (Pa'an):** It disappears.
+**Haziq:** It disappears.
 
 **Rafizi:** So isn't that even more dangerous for my heart? The whole idea of having a stent —
 
@@ -401,7 +401,7 @@ So what challenges need to be addressed, especially by PKR? This question hasn't
 
 **Rafizi:** Why is it called a Junior Nobel?
 
-**Haziq:** Because it's only for undergraduate students.
+**Farhan (Pa'an):** Because it's only for undergraduate students.
 
 **Rafizi:** Right, but is it given by the Alfred Nobel Foundation?
 
@@ -435,7 +435,7 @@ So what challenges need to be addressed, especially by PKR? This question hasn't
 
 **Haziq:** Let's move to the next segment, the last segment, YB. Lots of questions, although there are many, but maybe — how many minutes do we have left?
 
-**Rafizi:** We're at 2 hours 22 minutes.
+**Haziq:** We're at 2 hours 22 minutes.
 
 **Haziq:** Okay, about 8 minutes. Okay, alright, sure. First question, Chong Wejin: YB, statistics show many self-employed people are now contributing to Perkeso [SOCSO], but the arts sector's numbers are very small. As someone who works a lot with creatives and media, what's a realistic social protection model for musicians, actors, production crew whose income goes up and down like a yoyo?
 

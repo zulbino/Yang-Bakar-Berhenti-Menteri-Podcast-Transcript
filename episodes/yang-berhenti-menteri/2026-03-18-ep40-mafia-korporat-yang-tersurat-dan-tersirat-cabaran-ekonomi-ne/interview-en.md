@@ -122,9 +122,9 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Farhan (Pa'an):** Who's Shahrir Islam? Right, that's him.
 
-**Rafizi:** The person who went hysterical.
+**Haziq:** The person who went hysterical.
 
-**Haziq:** Is he famous?
+**Farhan (Pa'an):** Is he famous?
 
 **Rafizi:** Don't know. Why? The views are high—that's it, 22,000. We're the foolish ones doing a podcast. We should've gone hysterical at the airport, in the car heading back to Terengganu—go hysterical like that, then we'd get views. He, actually, well, this puts me in an awkward position. Plus if, for example, he's trying to go abroad, plus if he has connecting flights and everything, or he's already booked an Airbnb, if he's delayed he'd just have to pay for an extra day. So I understand the anger, because I think we've all been through this phase. If it's Air Asia to Sabah—if it's a night flight, 8pm, be prepared to fly at 8am the next morning instead. And you really do end up sleeping at the airport. How many times has this happened—YB has experience too, I've had it myself 3 4 times, you know. And Air Asia really has thick skin about it, so casual about it.
 
@@ -266,11 +266,11 @@ So I think for us to understand this implicit matter — because this implicit s
 
 **Rafizi:** How long ago was that? So how much is it now?
 
-**Farhan (Pa'an):** 5 ringgit lah.
+**Haziq:** 5 ringgit lah.
 
 **Rafizi:** 45 ringgit maybe?
 
-**Farhan (Pa'an):** 5 ringgit, 5 ringgit.
+**Haziq:** 5 ringgit, 5 ringgit.
 
 **Rafizi:** 5 ringgit a pack. Regular cigarettes are 18 or so?
 
@@ -278,7 +278,7 @@ So I think for us to understand this implicit matter — because this implicit s
 
 **Rafizi:** 18, 19 right — 3, 4 times more expensive. Why? Because John is a smuggled cigarette. It doesn't pay anything, all of it is smuggled. So that's when I understood, I started to know why your cigarettes are all so cheap — they'd laugh, "these are smuggled cigarettes."
 
-**Farhan (Pa'an):** Smuggled cigarettes. Okay.
+**Rafizi:** Smuggled cigarettes. Okay.
 
 **Rafizi:** What's strange is, smuggled cigarettes, smuggled goods, are supposed to be hard to get, right?
 
@@ -302,7 +302,7 @@ So I think for us to understand this implicit matter — because this implicit s
 
 **Rafizi:** If we look at Godfather or how it's done in the US — how is illegal money laundered?
 
-**Farhan (Pa'an):** Open a laundromat. A shop.
+**Rafizi:** Open a laundromat. A shop.
 
 **Rafizi:** Yeah, right, open a shop, but there are certain types of shops — usually restaurants.
 
@@ -360,7 +360,7 @@ And the underworld might be seen as easier. Why? If the old way to get money, co
 
 Okay, this is because I've seen the evidence, and it's frightening. So the shares held in one company began with an order from the PDRM, the AMLA division, that the CDS account — CDS, as we explained last week, meaning a bank account, a securities account — that account be frozen under AMLA investigation. So, uh-oh, and it can't be done — I'm the owner, whether it's Tan Sri Khairul Adib or Tan Sri Abu Hanifah — he can't... Abu Hanifah or Abu Hanafiah? Hanifah, right? Hanifah. Eh, sometimes as I get older, I forget, there's too much to remember. Abu Hanifah or Abu Hanafiah? I think Abu Hanifah, Datuk Abu Hanifah.
 
-**Haziq:** Datuk Abu Hanifah, right?
+**Rafizi:** Datuk Abu Hanifah, right?
 
 **Rafizi:** Datuk Abu Hanifah. Datuk Abu Hanifah. So both got frozen. Then there was an order from the authorities, from PDRM, without the knowledge of the share owners, to the broker, the stockbroker holding the shares, to transfer shares from one company to another company. Without knowledge and consent. Okay, but let me clarify before that consent part — imagine you have a bank account, you have 10 thousand ringgit in it, you don't know anything, and the authorities actually order the bank to transfer that money to another account. Frightening, right? It's scary, you know. And the amount involved was 60 million transferred. Right. Then, this part is alleged — the owner was allegedly forced to sign a statement saying that he agreed to transfer his shares. And I've seen the evidence for that too.
 
@@ -428,7 +428,7 @@ That's why I wonder — if this matter had been acted upon earlier at the nation
 
 **Rafizi:** If you ask me, even saying the government needs to determine society's narrative — I'm not comfortable with that either. Actually, you know, society is — if possible, the government shouldn't interfere too much in matters of social harmony. So the government's job is like a parent's — that's how I look at government, you know. As a parent, why do we become parents? I don't want to dictate and control what my child thinks, what my child should do. My job is to educate him so that he has good values, so that he knows his limits, so that he knows his strengths, his weaknesses, he knows right from wrong, and he gets a good education to develop his potential. Then every decision, he has to make himself. And because we've done our best to educate him in all these things, and we're confident that whatever decision he makes is a learning curve for him — some decisions he makes we disagree with, but we're confident that from his experience and perhaps his failures, he becomes a better person. Some decisions we agree with. So that's my recipe for being a parent. Actually, being the government isn't much different from that. I don't agree if the government wants to control the narrative and control the people's thinking. I don't agree with that. But the government's responsibility is to educate. And that starts with education, and it also starts with the example set by our leadership as politicians and government people — being fair to everyone, not showing favoritism. The government's responsibility is to lay down the legal boundaries — if you cross this line, this happens — to protect everyone. The government's responsibility is, if there's a conflict, to step in and put it out immediately. And once all of this exists in our society, then it's like a child's experience. Some decisions a segment of society makes, we disagree with, but that's their right to feel that way. We can't say "the majority doesn't like this, so I'll beat you all up" — that's not allowed. But when there are good boundaries, when there's a consistent and functioning legal process, when political leadership sets a good example, then the equilibrium in society will function well. That's what we don't have right now. So we have no equilibrium at all. That's why people say, "oh, the government needs to intervene, oh the government needs to set the narrative." Then all the influencers come in — what's the difference between influencers and what we have now? These influencers, once they feel their influence, they start wanting to flex. But the current situation is — if we look at it overall, what hasn't been done yet is political consensus among the parties and senior leadership. There isn't yet an Anwar Ibrahim and Samsuri saying "okay, we differ on this and that, but on this issue, no." And when that happens, call in Saravanan or Ramanan too, call everyone. Similarly, call in all the religious scholars or whoever. They can fight tooth and nail on other matters, but as long as they haven't reached an agreement that we can have different views on all this, but don't play with the fire of racial sentiment. Why hasn't that been done? Is it because someone gains from—
 
-**Haziq:** I don't think so.
+**Rafizi:** I don't think so.
 
 **Rafizi:** I don't think so either — I mean, politicians who genuinely feel they gain from it are the truly bad ones, that's the simplistic view. But actually this matter is complicated. The temple issue is complicated, unresolved since before. So people get lazy. And sometimes when people come — if temple leaders or temple activists come with a list of 70 demands. And when the government looks at a list of 70, 80 items, they feel it's too much, that if we do all this, other people will get angry. But that doesn't mean that because some of what's being requested seems difficult to implement, that means we shouldn't act at all. That doesn't mean we shouldn't engage at all. The process must start. But I think because the process is complicated, they say "oh dear, this is hard." Eventually it drags, drags, drags, drags, and it becomes like this now — lose-lose. We all lose, lose-lose. No one benefits from this. The only ones who might benefit, who become celebrities, are those who get arrested. That's it.
 
@@ -506,7 +506,7 @@ These are matters that should have been discussed in Cabinet, as far as I recall
 
 **Haziq:** Okay, this is YB's Raya greeting character for this year that will be coming out later. Okay, that's it. Happy Raya, happy Raya, forgive me for any wrongdoing.
 
-**Multiple speakers:** Drive safely.
+**Rafizi:** Drive safely.
 
 **Multiple speakers:** Okay, bye.
 

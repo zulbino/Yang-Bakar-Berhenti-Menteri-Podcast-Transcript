@@ -186,7 +186,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** I often go campaigning in Kuala Ketil. It's near the border of Baling with Sungai Petani, Kulim, around there, on the way from there. Watch this video — he was campaigning for a Sabah candidate, saying his salary alone is enough to buy Gardenia bread for people. How insulting to the people of Sabah. But he's already apologized. I'd advise the people of Sabah, after watching this TikTok, don't vote for PAS in the upcoming state election, because his view of Sabahans is very low. He thinks Sabahans are so lowly that Gardenia bread is enough for them. That shouldn't come out of the mouth of an elected representative — an Exco member, no less.
 
-**Haziq:** He's an Exco member? God almighty.
+**Rafizi:** He's an Exco member? God almighty.
 
 **Rafizi:** No wonder Sanusi looks so smart.
 
@@ -206,9 +206,9 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Did a Sabahan actually say something like that? No, this was during a campaign speech, right?
 
-**Farhan (Pa'an):** During a campaign speech, that's what he said.
+**Haziq:** During a campaign speech, that's what he said.
 
-**Haziq:** Well, there you go.
+**Rafizi:** Well, there you go.
 
 **Rafizi:** So never mind, I'm actually more thrilled to find out he's an Exco member. Never mind, let's send him some Gardenia bread.
 
@@ -270,7 +270,7 @@ Fleximat is calmer, that's true, because it sells coffee, curry noodles and groc
 
 **Rafizi:** That's it, some say he's really evil, that he wants to kill off all Malay businesses. There's that too. This is a social experiment. Let's take nasi lemak with fried chicken as an example — how much do we sell it for? The cost is roughly RM3-something, depending on the price of chicken, wastage — if there's excess, between RM3 to RM3.50. That's the raw material cost. So there's about one ringgit for indirect cost — meaning wage cost, rent cost, electricity cost. But people need to understand that the material cost really is like that. Because whatever happens, our society — as I mentioned in the last podcast — likes to normalize high prices. And when we normalize high prices, we give room, if anything happens, for the excuse to be that costs are expensive, raw material prices are expensive. So factually, I think the public can assess that the cost for a plate of nasi lemak with fried anchovies and spiced fried chicken — one bird, if under 1.5 kilos cut into 12 pieces, if 2 kilos cut into 14 — I'll say it straight, the cost is roughly RM3. If someone sells it for RM12, that means their gross margin, before other costs, is roughly triple, 300%. Of course we can't compare apples to apples, because Kesum's structure is different. For example, it doesn't have the pressure to get a higher profit to pay for my Alphard.
 
-**Haziq:** Why would we have an Alphard?
+**Rafizi:** Why would we have an Alphard?
 
 **Rafizi:** No no, for example I don't have an Alphard. But what I mean is, as an investor or capital partner for Kesum and Fleximat, they pay me about RM500 a month, that's my profit, whatever happens, I get RM500 a month, and I'm satisfied because I say this isn't for getting rich. If I wanted to get rich, I'd go do something else, I wouldn't need to do this. But for others, the model is different because the business is truly a capitalist business — regardless of whether it's small or big, its model isn't a musyarakah model, it's not a social enterprise model, it's a for-profit model. So when it's a for-profit model, for example if they estimate their monthly living costs — they need to pay for their car, they need to pay for their house, they need RM6,000 a month. So that RM6,000 a month must be over and above the raw material and indirect cost. Say raw material is RM3.50, indirect cost including staff and everything comes to RM6. But if they sell at RM6, there's not a single cent for them. So if they calculate their costs like this, "I need RM6,000 a month," that's what turns into RM12 a plate.
 
@@ -326,7 +326,7 @@ But whatever the outcome, I think it breaks — if PKR Sabah has 5 pillars, 3 pi
 
 **Rafizi:** Let's say PKR Sabah is a house. It has 5 pillars. 3 pillars are broken. Because imagine PKR members in Sabah who have been loyal to PKR, to Anwar Ibrahim since 1999 — and PKR Sabah in terms of membership is the second highest in Malaysia after Selangor. Sabah also has among the most branches, 26 branches. But out of those 26 branches, how many branch chiefs actually became candidates? I think only 2. There's a romance with... Rufina, no wait — she's the Women's chief. There's another one. Who was the former MP for Putatan? Awang Usaini Salleh.
 
-**Haziq:** Awang Usaini. Just the two of them.
+**Rafizi:** Awang Usaini. Just the two of them.
 
 **Rafizi:** The others, I don't think Tony Chee counts either. So imagine, after decades, out of all the PKR branch leadership in Sabah, only 2-3 people are actually deemed fit to contest. That's actually a huge impact. So if I were someone from Sabah, it would be difficult — PKR Sabah already has to face the perception that PKR is a Malaya-centric party. It's already an uphill battle. Then they'll be belittled further — proof that you're a Malaya party, since even your own candidates aren't chosen. This is something internal to the party — I can speak about this because I still have many friends in PKR Sabah, branch chiefs, all the leadership. Someone sent me a message — PKR Sabah branch chiefs said, "Raf, if you were around, this wouldn't have happened. That's why I don't want to be involved." Because if I were there, there would be a big fight over Fazal wanting to bring in these candidates. Because my principle is that as much as possible, we should put forward our own people, especially those who have struggled for a long time, because win or lose, the party must remain strong. People who parachute in only join when we're winning, when things are easy — if things get tough later, they'll just leave. In the end, it's the same core group that remains. But if someone feels, "I've spent 10, 15 years of my youth, spent money during hard times, and now that we're in government and it's election time, someone else becomes the candidate" — after that, everyone will go their own way. So win or lose, whatever the outcome of the Sabah state election, internally it will weaken the party. Like I said earlier — of the 5 pillars of the PKR Sabah house, 3 are already broken.
 
@@ -348,15 +348,15 @@ But whatever the outcome, I think it breaks — if PKR Sabah has 5 pillars, 3 pi
 
 **Haziq:** Like a pointed nose and a flat nose. For example, YB has a pointed nose, but—
 
-**Rafizi:** YB has a flat nose.
+**Haziq:** YB has a flat nose.
 
 **Haziq:** Then I issue a media statement because I'm a celebrity. I say, I will not dispute the defamation act, but I will appeal the judge's decision.
 
 **Rafizi:** Now I'm confused. Your example is really hard to understand. What do you mean by it?
 
-**Haziq:** I mean, actually — what are you trying to get at?
+**Rafizi:** I mean, actually — what are you trying to get at?
 
-**Rafizi:** They're not challenging the article itself.
+**Haziq:** They're not challenging the article itself.
 
 **Haziq:** Everyone knows that, and that's really the basic point. So what they're challenging is how the High Court's judgment — for example, it nullifies past payments made by the government, because it has to be recalculated from 1974, for example. So in the end, people will say, hey, this is also an appeal.
 
@@ -396,7 +396,7 @@ But what worries me a lot is, even if we were to do what PSM says, make it manda
 
 **Rafizi:** Yeah, that trend is fine. I think, if compared to the older generation before, we understand that the younger generation doesn't want to stay in one job until they die. But please, not every 6 months. From a company's perspective, for example, if they've spent 3, 4 months training a fresh graduate, they've already trained the kid to be able to do the job, right? If it's more than 2 years, we understand too, they might want to look for a different career, and within those 2 years the company's operations and affairs are stable, because the worker has been trained, has been able to contribute for up to 2 years. But if it's every 6 months, 4 months having to find new people constantly — that's also why small and medium businesses say it's not worth paying a lot. So it's actually a problem.
 
-**Haziq:** It's a problem indeed.
+**Rafizi:** It's a problem indeed.
 
 **Rafizi:** And I'm not saying this lightly. We did a study before the stage of implementing this progressive wage policy. One of the main pain points for small and medium enterprises that prevents them from having higher productivity, creating higher value, or growing bigger, is actually the issue of employee quality too. Because our society is all competing to get big jobs. If you graduate from university, you can't even blame him — even the parents say, "Don't work at that company in Hulu Sungai Besi. Go work at the Twin Towers, or now Menara 118." Everyone's competing for that. So for example, when he first joins a mid-tier company, even after working there for 1 year he'll try to run away, get a higher job, higher and higher. Eventually, those who are trained, who have good experience, who are of quality, don't stay in small and medium enterprises. How is that company supposed to grow? They're busy firefighting every 6 months, every year. So the purpose is to make SMEs more stable and also successful in attracting graduates and higher-quality workforce. And that can't run away from the issue of wages.
 
@@ -446,19 +446,19 @@ So of course Tong Kui Hong asked, why did we only allocate 41% out of the 50,000
 
 **Farhan (Pa'an):** If YB yourself talked about this, maybe more people would listen to our podcast. If YB discussed this topic yourself, maybe more people could listen to the podcast. About what? About the Romans learning — let's dissect whether Julius Caesar learned to build...
 
-**Haziq:** But that's not my field.
+**Rafizi:** But that's not my field.
 
 **Rafizi:** I have no — I mean, you know, whatever I know is from what I've read about European history. If I were to talk about this properly, it would mean I'd have to spend 20 years of my life researching it. For all I know, after spending 20 years researching it, it turns out to actually be wrong. Can't waste time like that.
 
 **Haziq:** Okay, YB. Given there's no more issue, we're at 2 hours 17 minutes. We seek your — what do we call it in civil-service language — direction? Oh, guidance.
 
-**Rafizi:** Guidance. Let's continue.
+**Haziq:** Guidance. Let's continue.
 
-**Haziq:** Anything else heavy? No, there isn't. Well, let's wrap it up quickly then.
+**Rafizi:** Anything else heavy? No, there isn't. Well, let's wrap it up quickly then.
 
-**Rafizi:** Quick, quick. Okay, the first problem.
+**Haziq:** Quick, quick. Okay, the first problem.
 
-**Haziq:** That's the story with Professor Solehah Rom, it's long, huh.
+**Rafizi:** That's the story with Professor Solehah Rom, it's long, huh.
 
 **Rafizi:** Good thing I didn't say anything about, what's it called, "crossing the Rubicon" — I wouldn't understand that. People outside would understand if you say Crossing the Rubicon. But never mind. Okay, YB?
 
@@ -482,7 +482,7 @@ So of course Tong Kui Hong asked, why did we only allocate 41% out of the 50,000
 
 **Rafizi:** Long Island. People say all sorts of things. I've read a book about Zohran Mamdani. I did some research on him — I do follow Democratic Party politics fairly closely, because I have several Democrat friends who are quite close to me. They're not frontline politicians, but the Democratic Party in the United States isn't like ours — they don't have official positions like that. So they have a lot of important or experienced people who stay behind the scenes, and some of them are close friends of mine. People will give all sorts of opinions — that he's good at social media, that he's good at this and that. But actually everyone wants to use social media, everyone is good at using social media. Those with more money can hire bigger social media teams. Some succeed, many don't, and some succeed even though they're completely wrong. So this isn't just about social media — I think it's also about substance. What form did we learn — there's a physics theory called resonance, right?
 
-**Haziq:** Is this law or physics?
+**Rafizi:** Is this law or physics?
 
 **Rafizi:** Physics. There's a concept called resonance. A politician, even someone selling nasi lemak or any product, will get a good response if there's resonance. Westerners say it *strikes a chord*. My view is, Zohran Mamdani was well received because his core issue, the core campaign he carried, had resonance with voters. What core issue did he bring?
 
@@ -494,7 +494,7 @@ So of course Tong Kui Hong asked, why did we only allocate 41% out of the 50,000
 
 **Rafizi:** Yes, but what's his issue about cost of living exactly? PAS also keeps talking about cost of living, cost of living.
 
-**Farhan (Pa'an):** Rent's already high. No, no, those are all details of it.
+**Rafizi:** Rent's already high. No, no, those are all details of it.
 
 **Rafizi:** What emotionally appealing substantive message did he bring to voters?
 
@@ -508,7 +508,7 @@ Same with Malaysia. I don't know about other politicians in Malaysia — people 
 
 That's if you look at the normal curve, the bell distribution — the fringes, whatever they do, they don't care. But the ones sitting on the fence can swing. So the race is on — if we learn from Zohran Mamdani, for the next 7, 8 years, what is actually the resonance point of our silent majority voters. And this is something I sometimes always remind — whether it's the Prime Minister, myself as a politician, including PAS leadership, the opposition — don't live in our own bubble, you know. Because people actually don't think like we do. Ordinary people, politics doesn't even take up 10% of their time. So they only relate to politics if there's resonance with something important to them. And the race is on. I think what happened with Zohran Mamdani proves once again that you need science and you need data, and also you need to cleverly package all this together if you want to create something nearly impossible like this. Okay, let's move on.
 
-**Haziq:** Okay. Wow. Okay, we've reached the exciting part. I'm very excited about this one.
+**Rafizi:** Okay. Wow. Okay, we've reached the exciting part. I'm very excited about this one.
 
 **Rafizi:** YB, let me continue. Listen, for outside viewers — this is something I remember, over the past 2-3 years, everyone's been talking about AI, about robots. Actually, China has been quietly doing something that isn't widely reported in the West — well, that's Western bias. There's a reason why, since this thing started in America. But maybe Haziq can explain a bit about the molten salt reactor. This is one of the things that will have a very big impact on the world and on human civilization.
 
@@ -536,7 +536,7 @@ That's if you look at the normal curve, the bell distribution — the fringes, w
 
 **Rafizi:** I'll try to explain it in simpler language, since he just memorized for exams.
 
-**Haziq:** Ha, he memorized it.
+**Rafizi:** Ha, he memorized it.
 
 **Rafizi:** Understandable, he's a law student, he's not interested in things like this. Okay. The world is going to face an energy problem. Right now the solution is green energy — using solar and all that. But the problem with green energy is it has its limits. We can't just cover the whole world with solar panels, where would people live? Because usually 1 megawatt requires 4 acres — maybe now it's a bit more efficient, 3 acres. So if the plant is 1 gigawatt, meaning 1000 megawatts, it needs 4000 acres. So solar is good, but it has its limits. The most efficient energy generation in the world is nuclear energy, because with just a little uranium — although it's not renewable, well, people don't argue whether it's renewable or not because in terms of resources we currently have an abundant supply, especially thorium and uranium. So there's no question of us running out of atoms to use.
 
@@ -562,9 +562,9 @@ So if they succeed in building it, the effect, for example, Petronas is really i
 
 **Rafizi:** And the backstory of this — the US didn't want to pursue it, they didn't develop it further, they abandoned the molten salt reactor after having built it. China took it, and after 30 years, China got it, China built it. Okay, YB.
 
-**Haziq:** Eh, let's hurry, we want to go home.
+**Rafizi:** Eh, let's hurry, we want to go home.
 
-**Rafizi:** Quick, quick, quick, quick, quick.
+**Haziq:** Quick, quick, quick, quick, quick.
 
 **Haziq:** Lots of questions. Okay. Let's go quickly on this one. There are more and more incidents of illegal street racer accidents on highways. Recently there was another viral case of a mass crash. Why is this phenomenon becoming more widespread? What's the real combination of factors behind it — is it lax enforcement, youth economics, viewing culture, or road design that encourages speeding? From a policy standpoint, what's a realistic 12 to 18-month plan to reduce incidents, not just seasonal operations? It's like asking ChatGPT, huh.
 
@@ -588,15 +588,15 @@ Yes, there are short-term measures that could possibly be done. For example, the
 
 **Rafizi:** Ha, I looked into that, you know, I think we stopped it, right?
 
-**Farhan (Pa'an):** Wherever we could stop it, we stopped it.
+**Rafizi:** Wherever we could stop it, we stopped it.
 
 **Rafizi:** That's why, if you look at the Ministry of Economy, people would ask, "oh why don't you do it like this minister, do it like that minister." People don't know that if you go a certain route, sure it looks impressive, but he's paying hundreds of thousands. Why isn't it out there? Why isn't it out here? People always ask, right, why aren't you on TV? Eh, you think it's free? You have to pay, you have to pay, right. So we're the ones thinking, this is the rakyat's money, "instead of me paying 200,000, never mind, I'll just do my own TikTok," for example. The influencer issue is one thing — cost to the government, because they're expensive, you know, 80,000 for one video from these people. Second, today you're in power, so you pay him. Tomorrow you're not in power, someone else pays him, and he curses you out. It becomes like — like it just happened.
 
-**Farhan (Pa'an):** Just happened, just happened.
+**Haziq:** Just happened, just happened.
 
 **Rafizi:** What was his name? Salim, Salim Iskandar.
 
-**Farhan (Pa'an):** Oh yes, right.
+**Rafizi:** Oh yes, right.
 
 **Rafizi:** We didn't pay him.
 
@@ -610,7 +610,7 @@ Yes, there are short-term measures that could possibly be done. For example, the
 
 **Haziq:** We do. Okay, I think that's it. Ha, that's all. Alhamdulillah.
 
-**Rafizi:** That's a record tonight, eh, right?
+**Farhan (Pa'an):** That's a record tonight, eh, right?
 
 **Farhan (Pa'an):** How many hours is this? 2 hours 50 minutes.
 

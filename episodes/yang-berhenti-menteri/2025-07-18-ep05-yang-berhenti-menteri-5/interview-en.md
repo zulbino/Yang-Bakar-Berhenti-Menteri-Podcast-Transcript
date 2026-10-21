@@ -50,7 +50,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Yes, yes, because Kedah was the last because when we wanted to do it Kedah was flooded. So it was postponed to month 2 I said. It was supposed to be month 9.
 
-**Dato' Dr. Syed Azuan Al-Idrus (DSA):** Ah, like that, it was supposed to be the month last year.
+**Rafizi:** Ah, like that, it was supposed to be the month last year.
 
 **Rafizi:** Month 9. Datuk, because you're sponsoring our coffee tonight, so we have more time to introduce you. Who is DSA actually besides what we encounter on live and YouTube?
 
@@ -80,7 +80,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Dato' Dr. Syed Azuan Al-Idrus (DSA):** So, you came not too far. That's the thing actually this Saturday I want to go to Kuala Terengganu, YB. There's an event for Tokku Paloh if you know. Oh, Tokku Syed Paloh. Tokku Paloh, he has an event for his Tokku, his father, Tokku Tuan Besar. So my daughter, you know, she's already joined Syed Sharipoh's group. She's been pressuring me, Walid has to go. Has to go. I said it's okay, I want to go to get some blessings a bit YB yes. Sometimes we, sometimes we've strayed a bit right. Not really right. So tonight I'm also wondering right, because I looked at YB's podcast. It has a title right. Ha, it has a title. The first one was really grand right. People have been waiting for YB to come back. Wow, I saw that YB's media statement I grabbed that one line. Welcome back YB. Right. So before we go far, I want to ask why did the journalist say welcome back YB?
 
-**Rafizi:** At the media conference? At the media conference in Subang Jaya. That's the line I grabbed.
+**Dato' Dr. Syed Azuan Al-Idrus (DSA):** At the media conference? At the media conference in Subang Jaya. That's the line I grabbed.
 
 **Dato' Dr. Syed Azuan Al-Idrus (DSA):** Welcome back YB.
 

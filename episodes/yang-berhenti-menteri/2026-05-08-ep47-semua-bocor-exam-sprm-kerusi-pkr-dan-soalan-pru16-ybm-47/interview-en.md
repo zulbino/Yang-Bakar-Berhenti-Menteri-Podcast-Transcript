@@ -200,7 +200,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Oh, when we discuss corporate mafia matters.
 
-**Haziq:** Because the news is—
+**Rafizi:** Because the news is—
 
 **Rafizi:** —those who are investigated face threats and pressure until they're forced to hand over their companies.
 
@@ -310,7 +310,7 @@ When we actually looked at where the world's technology direction was heading, t
 
 **Rafizi:** On its own. So it's somewhat cheaper this way. Take the example of Samsung or SK Hynix in Korea — the two biggest semiconductor chip makers. Samsung because they use chips in their own phones and so on, and the other is SK Hynix, which makes chips for others too. So when Samsung makes their chips, those chips are actually designed — the IP and architecture are designed by ARM — they buy it from ARM, then they produce the chip. Roughly 80% of the design is by ARM, they add a bit more to meet their own design requirements, which is the remaining 20%. So the chip is made. When that chip is used in a Samsung phone and sold worldwide, Samsung actually has to pay ARM. It's like a franchise — ARM is the franchisor. They give it to you, you use it, when you sell it, you have to pay back 20%.
 
-**Farhan (Pa'an):** Is it like a royalty?
+**Rafizi:** Is it like a royalty?
 
 **Rafizi:** You can call it that — it's a royalty. So you have to pay for every chip you sell, there's a royalty back to ARM. Why am I telling you all this? Long story, but why am I bringing this up?
 
@@ -544,7 +544,7 @@ So within that 6-month period, I think we should focus on those things, and that
 
 **Rafizi:** I can't contact him at all, because—
 
-**Haziq:** —we don't want—
+**Rafizi:** —we don't want—
 
 **Rafizi:** —to give room for the MACC or the authorities to use the excuse that I'm interfering with a witness or something. So honestly, I don't know the full situation since he came back. But it's fine, we'll wait for the charge. After he's charged, I can catch up and see how things are. But as I gave an early hint — whether it's me or James, there's really nothing there. Nothing at all. And my interrogation actually covered the allegations that would be made. And once all the questioning was done, it seemed quite clear that there was no mention at all of any bribery or money — not asked at all. So if it wasn't asked of me, that means the whole case doesn't involve bribery or any illicit money at all. So if that's the case, James is just a special officer — not only can he not make decisions, he can't even decide on scheduling, let alone sign anything. So once it goes to court, how are they going to charge James with breach of trust or abuse of power? He doesn't even have any power. So I'm still puzzled myself. But I don't think James should worry too much, InsyaAllah. Then I hope — I'll say this openly — I hope to persuade him. After being wronged like this, I hope he'll consider running in the election. Because the problem with smart young people — Malay, Chinese, Indian, whoever, in their 20s, 30s — once they have a good education and then a good career, they don't want to get involved in politics. Jim's the same. When he joined me at the office before, that was his way of contributing and serving the country — by contributing his expertise and mind. He's not interested in politics. So I hope that after being beaten up, thrown behind bars, getting scorched because of me or whatever — that this changes his view, that for some of us, politics isn't about wanting a position or power. Because if people like us take the stance of not wanting to get involved, not wanting to take the risk of contesting, because we're already living fine, or because we feel we don't actually need politics — many end up becoming victims, they just haven't been hit yet. So once we've been hit, I hope I can convince James and his family to consider that. And I'm doing this openly through the podcast so that James's friends and family will tell him the same thing.
 

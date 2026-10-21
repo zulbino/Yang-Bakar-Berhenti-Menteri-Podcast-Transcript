@@ -117,7 +117,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Buat masa sekarang, bila PADU ditubuhkan, kita terlalu terpaksa melalui proses yang pedih lah kerana untuk kita dapatkan satu agensi itu menyumbang data ke dalam PADU, kementerian kena tandatangan satu perjanjian perkongsian data. Satu, satu, satu. Kemudian kita kena buat permohonan kepada Pesuruhjaya Perlindungan Data Peribadi untuk bagi pelepasan untuk tempoh masa tertentu. Kan? Jadi sebab itu sekarang ini, insyaAllah tahun inilah kita akan bentangkan Akta Omnibus untuk membolehkan perkongsian data sesama jabatan kerajaan ini, diluluskan oleh parlimen tanpa kita melalui proses manual ini. Kerana dia cerewet, ada beratus-ratus. Jadi kalau contohnya macam sekarang, memang dalam teraju tak masuk PADU lagilah. MARA pun saya ingat tak masuk PADU. Sebab dia belum sign lagi. Sebab dia belum lagi sign dan sebagainya. Dan bagi tujuan untuk mengenal pasti use case pertama, iaitu kelayakan subsidi bersasar, sebenarnya tidak perlukan data-data yang ini lagilah. Jadi kita beri tumpuan kepada data-data yang besar lah. But ideally kita nak seberapa banyak yang ada itu, data dia ada untuk membolehkan pelbagai semak silang yang boleh berlaku di masa akan datang untuk pelbagai tujuan itu boleh dibuat. And insyaAllah bila Akta Omnibus itu diluluskan, itu akan memudahkanlah. Buat masa sekarang, kalau kami nak, contohnya dengan PTPTN, saya tak pasti PTPTN masuk ke tidak dalam PADU. I'm not too sure sebenarnya. Tapi PTPTN ada kat dalam SIKRIS. Yalah, sebab maksudnya Bank Negara. Yalah. PTPTN dia perlukan maklumat SIKRIS itu.
 
-**Faiz:** So dia kena contribute lah.
+**Rafizi:** So dia kena contribute lah.
 
 **Rafizi:** Dia kena contribute lah. Tapi since SIKRIS pun ada dalam PADU, shouldn't it be- SIKRIS tak ada dalam PADU. SIKRIS tak ada dalam PADU? Financial tak ada.
 
@@ -125,11 +125,11 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Tak, itulah kita demografi masyarakat kita dah berubah kan. Dalam tempoh 10 tahun, Malaysia akan memasuki fasa negara menua. Maksudnya lebih ramai orang yang bersara dan di luar pasaran kerja berbanding dengan orang yang bekerja. Dan sebab itu maka beban menanggung kos perbelanjaan negara itu tertumpu kepada kumpulan yang lebih kecil. Pada masa yang sama pula, orang-orang tua ini yang pencen sebagainya, mereka memerlukan tumpuan khidmat kesihatan, penjagaan yang lebih tinggi kan. Kita memang sedang merancang dasar dan agenda menua kita untuk menyiapkan negara ke arah itulah. Perkara ini akan dibentangkan dan diluluskan dan jadi dasar. Tapi pada pandangan sayalah kan, kita ada beberapa pilihan. Logikal. Satu logiknya ialah kalau kerajaan tidak campur tangan langsung, maka penjagaan kumpulan pesara orang tua ini diserahkan bulat-bulat kepada ikut suka kamu. Bila jadi ikut suka kamu, maka dia akan wujud sektor swasta. Business lah. Services. Takut Faiz nak buat rumah penjaga orang tua pula lepas. Kalau ada money ini, why not? Tapi kalau itu berlaku, pada pandangan sayalah, kalau kerajaan tak campur tangan langsung 100% swasta, dia akan membebankan rakyat kerana banyak orang pesara, orang tua ni dia tak boleh kan. Jadi kalau kerajaan nak sediakan semua pun jadi susah juga. Kita tak boleh nak sediakan untuk setiap orang yang pesara semua ni pun semua kita kena jaga, bagi wang tiap-tiap. Jadi pun payah juga. Jadi beban kepada masyarakat kerana yang menanggungnya itu nanti makin kecil kumpulan yang bekerja. Yang membayar cukai kan. Jadi keadaan idealnya ialah kita mesti ada perkhidmatan untuk kumpulan-kumpulan sasar yang tidak mampu menjaga ataupun kalau kita tak bagi bantuan itu kepada mereka, mereka jatuh kepada daif. Dia jadi orang miskin tegar ke, tidak terjaga dan sebagainya. Buat masa sekarang, kita tak ada dalam khidmat kita ni. Mana ada orang jaga jabatan orang tua ke, tak ada, carer tak ada. Kalau yang dia ada pun dia kena pergi ke hospital, tapi itu untuk penjagaan kesihatan kan. Jadi maksudnya di masa akan datang, oleh kerana perubahan demografi, khidmat awam kita juga mesti berubah dengan kehendak dan keperluan pada masa itu. Dan kehendak keperluan pada masa itu ialah di sebelah kedua-dua hujung ni, penjagaan golongan tua dan penjagaan yang muda sebelum sekolah, pada pandangan saya mesti diperkasakan. Kerana kita juga nakkan tenaga kerja wanita supaya dapat menyumbang dalam pasaran kerja. Kalau mereka ni jadi homemaker banyak sebab dia nak kena jaga banyak, kita akan ada keciciran dari segi guna tenaga wanita.
 
-**Faiz:** Sedangkan kita kena ada guna tenaga wanita dalam keadaan jumlah pekerja kita itu semakin kira secara relatifnya kecil berbanding dengan yang nak kena tanggung.
+**Rafizi:** Sedangkan kita kena ada guna tenaga wanita dalam keadaan jumlah pekerja kita itu semakin kira secara relatifnya kecil berbanding dengan yang nak kena tanggung.
 
 **Rafizi:** Tapi di sebelah yang tua tu pun ada. Kedua-dua ini masih lagi belum wujud secara meluas dalam khidmat awam kita.
 
-**Syed Munawar:** Bagi, kalau perkhidmatan awam
+**Faiz:** Bagi, kalau perkhidmatan awam
 
 **Faiz:** untuk menjaga golongan tua dan muda ni yang kecil ni, bukankah itu bayaran ni datang daripada kerajaan jugalah?
 
@@ -165,7 +165,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Tak, yang itu saya ingat dari semasa ke semasa. Contohnya JPA kan, JPA kalau untuk khidmat awam ini.
 
-**Faiz:** Dasar perkhidmatan, tempoh masa, dasar pencen.
+**Rafizi:** Dasar perkhidmatan, tempoh masa, dasar pencen.
 
 **Rafizi:** Itu ialah keputusan besar kerajaan yang perlu dibuat oleh kerajaanlah, dan puncanya itu akan datang daripada JPA, Jabatan Perkhidmatan Awam. Dan JPA memang dalam prosesnya akan terus melihat dari satu masa ke satu masa unjuran guna tenaga kan. Jadi setakat ini tak adalah, setakat ini tak ada yang. tak ada bunyi-bunyi lanjut bunyi-bunyi tak adalah. Tapi yalah, we have to be dynamic ya, apabila dari satu masa ke satu masa projection itu akan berubah. Dia sama soal pencenlah kan, contohnya soal ketidakmampuan dan ketidakmampanan pendekatan memberi pencen untuk penjawat awam ini telah pun disuarakan daripada awal 90-an. Maksudnya actuary ni daripada tahun 90-an lagi beritahu, kalau you continue like this, satu hari nanti you tak cukup duit untuk bayar pencen yang sedia ada kan? Tapi tak diambil tindakan, tak ada siapa kajian, tak ada siapa yang berani tindakan sebab tak popular sangat. Daripada 90-an, 2000, 2010 sekarang kita kena buat kan, tapi sebenarnya signaling itu dan kajian itu telah dibuat lama dah. Sama juga seperti ini, memang dalam prosesnya JPA akan berterusan kerana unjuran itu perlu dibuat setiap tahun kan. Saya ingat bila sampai masanya, apabila perlu ada keputusan ataupun perubahan, kalau perlu ia akan dibawa kepada kabinet dan kabinet akan bincanglah. KWSP ni ada akta dia sendiri dan fungsi KWSP bukan kerajaan arahkan tau, and I think kadang-kadang orang ingat KWSP ni kerajaan arahkan, tak, dia ada akta dia sendiri.
 
@@ -175,7 +175,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Faiz:** Pencen ke?
 
-**Syed Munawar:** Pencen, KWSP jugalah.
+**Faiz:** Pencen, KWSP jugalah.
 
 **Faiz:** So dari segi pencen dan juga dari segi apa ni KWSP ni adalah nampak macam kerajaan sekarang ni dari segi finance ya, sebab financial Faiz tengok kewanganlah, adalah doing the right thing. Tetapi messaging yang ada di sosial media ni adalah very, very negative. Ada masalah ke dari segi telling it as it is? Macam dia dipusing-pusingkan dan amat mudah dipusing-pusingkan. Contohnya isu pencen, amat mudah dipusingkan, pencen dihapuskan, dihapuskan tapi bukan untuk yang sekarang ni, yang akan datang. Dari segi KWSP pun, even tahun lepas pun memang ramai yang kata pasal FSA akaun dua contohnya, tu duit saya, tapi nak pakai kena pinjam daripada bank, ya, sebagai gunakan duit akaun dua tu sebagai cagaran pula.
 
@@ -229,9 +229,9 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Syed Munawar:** Tapi I mean educational lah saya rasa. Hopefully it becomes educational. Ya, ya, ya. Itu salah satu tujuan podcast ni juga. Kita nak mencerdikkan orang-orang di bawah lah sana. Okey, terima kasih suara Faiz sekali lagi.
 
-**Rafizi:** Terima kasih YB yang meluangkan masa. Ya, ya, ya, ya. Kita ingat sejam setengah tapi kita dah pergi 2 jam lebih, kan? Aku dah sebut aku nak kencing. Alright.
+**Syed Munawar:** Terima kasih YB yang meluangkan masa. Ya, ya, ya, ya. Kita ingat sejam setengah tapi kita dah pergi 2 jam lebih, kan? Aku dah sebut aku nak kencing. Alright.
 
 **Syed Munawar:** Jadi terima kasih kepada anda yang menonton. Kita jumpa lagi 2 minggu dari sekarang. InsyaAllah. Assalamualaikum warahmatullahi taala wabarakatuh.
 
-**Rafizi:** Bye bye. Assalamualaikum.
+**Syed Munawar:** Bye bye. Assalamualaikum.
 

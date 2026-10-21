@@ -66,17 +66,17 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Haziq:** Ha, okey, baik. Tapi nanti akan ada plan untuk buka kaunter Pusat Khidmat, macam biasa?
 
-**Rafizi:** Kerja, kerja berjalan.
+**Nik Nazmi:** Kerja, kerja berjalan.
 
 **Nik Nazmi:** Saudara Nik pun? Ya, ya, konsep saya lain sikit — kita akan aturkan nak buat town hall dengan pengundi-pengundi persatuan penduduk. Just nak explain apa rasional saya letak jawatan, dan bahawa saya masih committed kepada Setiawangsa. Sekurang-kurangnya walaupun mereka tak tahu Afnin Syauqi bertanding ke siapa bertanding, saya akan bertanding Setiawangsa.
 
 **Haziq:** Okey, oki doki.
 
-**Nik Nazmi:** Okey, kita tengok. Oki doki.
+**Haziq:** Okey, kita tengok. Oki doki.
 
 **Haziq:** Kita tengok segmen pertama, tapi segmen kali ni agak special sikit.
 
-**Nik Nazmi:** Sebab ini beri respons, basically, kepada semua yang menggelupur. Menggelupur. Wah.
+**Haziq:** Sebab ini beri respons, basically, kepada semua yang menggelupur. Menggelupur. Wah.
 
 **Rafizi:** Sekarang Gen Z masih guna perkataan "menggelupur" ke?
 
@@ -126,7 +126,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Loke sekarang tak macam tu, tau.
 
-**Multiple speakers:** Ha, betul. Saya setuju.
+**Haziq:** Ha, betul. Saya setuju.
 
 **Rafizi:** Tapi it's a bit rich for me to comment that because aku pun pakai gambar tahun 2021.
 
@@ -198,7 +198,7 @@ Eh, YB pula. Bukan? Tak, okey. Waktu pemilihan? Ya, tapi bukan masa pemilihan. I
 
 **Rafizi:** Geng Encaplos, 4 5 orang ni je. Tak ada orang layan. Lepas tu dia gelak sama mereka.
 
-**Haziq:** Ha, gelak sama.
+**Rafizi:** Ha, gelak sama.
 
 **Rafizi:** Lain kali, ni siapa ni? Wan Hadi ni ada cerita.
 
@@ -252,11 +252,11 @@ Eh, YB pula. Bukan? Tak, okey. Waktu pemilihan? Ya, tapi bukan masa pemilihan. I
 
 **Rafizi:** So kita akan tengok banyak benda ini berlaku lah di Pandan. Setiawangsa lepas ni — cuma Setiawangsa sebab tak ada intern. Belum ada intern.
 
-**Nik Nazmi:** Belum ada intern.
+**Rafizi:** Belum ada intern.
 
 **Rafizi:** Belum ada intern lagi? Sebab Pandan dah ada intern, Zafrul. Nanti mungkinlah. Tapi kalau kau dapat intern pelawak, mati kau.
 
-**Nik Nazmi:** Oh, intern tu hiburan, hiburan.
+**Rafizi:** Oh, intern tu hiburan, hiburan.
 
 **Rafizi:** Jadi hiburan sajalah kan, jadi teruskan, teruskan beria-ia. Sebenarnya ini pun jasa kita orang juga kat Pandan, kat Setiawangsa, kerana bila kita buat keputusan kosongkan kerusi untuk Bersama, respon daripada PKR, daripada Amiruddin semua ni ialah bagi makan besar-besaran. Saya harap tiap-tiap hari ada bagi makanlah kat Pandan.
 
@@ -302,7 +302,7 @@ Eh, YB pula. Bukan? Tak, okey. Waktu pemilihan? Ya, tapi bukan masa pemilihan. I
 
 **Rafizi:** Kemudian dia stabilize dekat 11,000 lah. Jadi daripada channel saya saja yang mengikuti, iaitu majlis hari tu, I think consistently lebih kurang 30,000 — itu tak campur dengan live yang lain. Saya ingat campur tolak bolehlah dapat 40,000. Tak adalah banyak, tapi lebih kurang 10 kali ganda yang PH punyalah kan. Tapi Ceplos, oleh kerana Ceplos, dia akan cuba cari jalan juga untuk beria respon lah — jadi dia ambil mudah, oh follower 1 juta tapi 5,000 je. Dia tak tengok yang Anwar Ibrahim, follower Anwar Ibrahim berapa? 6 juta ke 3 juta?
 
-**Haziq:** Cuba tengok, Facebook 3 point... ha, 3 juta lebih dekat 4 juta lah kan, Facebook dekat 3.1.
+**Rafizi:** Cuba tengok, Facebook 3 point... ha, 3 juta lebih dekat 4 juta lah kan, Facebook dekat 3.1.
 
 **Rafizi:** Ha, 3.1, 3 juta, tapi hari tu live lebih kurang 4,000.
 
@@ -328,7 +328,7 @@ Eh, YB pula. Bukan? Tak, okey. Waktu pemilihan? Ya, tapi bukan masa pemilihan. I
 
 **Nik Nazmi:** Fami, Fami — dia 6 7, 6 7 lah kan?
 
-**Rafizi:** Ha, 6 7. Wartawan.
+**Haziq:** Ha, 6 7. Wartawan.
 
 **Farhan (Pa'an):** Scuba.
 
@@ -336,11 +336,11 @@ Eh, YB pula. Bukan? Tak, okey. Waktu pemilihan? Ya, tapi bukan masa pemilihan. I
 
 **Farhan (Pa'an):** Saya ada tanya kan, hari dia buat scuba tu, hari sebelum — so hari pelancaran ada 3 orang Gen Z, so saya tanya diorang.
 
-**Multiple speakers:** Secara random kan?
+**Haziq:** Secara random kan?
 
-**Haziq:** Aku ada kat situ.
+**Farhan (Pa'an):** Aku ada kat situ.
 
-**Multiple speakers:** Ada dengan saya.
+**Farhan (Pa'an):** Ada dengan saya.
 
 **Farhan (Pa'an):** Korang tahu ke apa scuba 96 7 tu? Dia orang kata tak tahu.
 
@@ -374,7 +374,7 @@ Eh, YB pula. Bukan? Tak, okey. Waktu pemilihan? Ya, tapi bukan masa pemilihan. I
 
 **Nik Nazmi:** Dia macam saya, saya ada jugalah, mungkin tak ramai — maknanya mereka ni dulu sokong Anwar contohnya. Ada, small minority sokong, tetapi bila kita nak keluar parti, dia kata okeylah, dia kata kita member, tapi kau nak keluar parti, itu keputusan kau; tapi keluar parti aku tak boleh buat. Dia tanya kenapa sampai kena keluar parti. Tapi jawapan saya mudah: kita sokong PKR ni sebab dulu kita nak tengok something reformasi. Dan bila kena kat saya, to be honest, saya bukanlah pendukung besar Dato' Seri Anwar waktu dia di UMNO — my family was more PAS. Okey, so bila mula-mula dia kena pecat tu, orang cakap alah, ni masalah UMNO, buat apa kita nak kisah. Tetapi bila dah kena kat dia sampai macam tu, sampai kena diaibkan, kena pukul, dan sistem kehakiman — so kita pun minatlah, kita pun membantu dan sebagainya. Tapi yang kita pelik pada waktu itu, dia lawan berdegar-degar, me-excite the whole country, bercakap pasal reformasi, masuk dalam semua. Tapi bila kuasa ada kat dia, macam-macam ada alasan tak boleh buat sebab ni, tak boleh ada ni sebab dia Perdana Menteri. Perdana Menteri kat Malaysia ni very powerful. Dan kadang-kadang, pengalaman saya dengan Raf dalam kabinet dan sebagainya — bukanlah dalam 100%, tapi banyak perkara — UMNO ke, GPS ke, DAP ke, tak melawan nak buat reform. Yang ini ialah benda yang PM boleh buat tapi tak buat. Jadi kita tiba-tiba bila bab ni, kita tengok dalam setahun ni — kalah pemilihan tu okeylah, tak apa, kita pun tak go detail sangat pasal itu.
 
-**Rafizi:** Dan kita selalu kalah pun, tak ada isu, saya pun pernah kalah.
+**Nik Nazmi:** Dan kita selalu kalah pun, tak ada isu, saya pun pernah kalah.
 
 **Nik Nazmi:** Tak keluar parti pun waktu tu. Tapi isu dia ialah, after that, kehakiman — apa yang berlaku kat anak Raf, SPRM. Sampai kadang-kadang kita rasa, eh, dulu nak lawan Najib pun taklah sampai macam ni. Dan bila datang daripada kawan-kawan lama, dia punya menyampah tu lain macamlah. Kita rasa macam, eh, apa yang kita buat 20, 25 tahun?
 
@@ -408,7 +408,7 @@ Eh, YB pula. Bukan? Tak, okey. Waktu pemilihan? Ya, tapi bukan masa pemilihan. I
 
 **Rafizi:** Ya, masa tu tak ada kuasa pun.
 
-**Nik Nazmi:** Itu lagi menyampah tak dapat. So kau bayangkan kan.
+**Rafizi:** Itu lagi menyampah tak dapat. So kau bayangkan kan.
 
 **Rafizi:** You know, I have a good career in Petronas, good salary semua. Okeylah, bagi aku, ini fardhu kifayah aku dalam parti ni, so aku duduk. Memang it was so annoying. I feel like saying, kau orang ni bukan ada apa pun — yang kau nak bodek Kak Wan gila-gila ni kenapa, yang kau nak agung-agungkan Anwar dalam penjara tu kenapa? Because we were more interested, more than anything else, kepada solution. Dan daripada 2001, saya ingat, Arwah Kamarul — dari time to time dia akan hantar surat kepada saya di UK, sebab aku buat kerja kat UK, pergi lobi zafir Anwar semua ni. So I was already in the Exco masa tu, Exco Pemuda, tapi I was overseas. Dan masa tu aku menghabiskan sepenuh jiwa raga untuk PKR. Actually, people forget — masa tu PKR ada radio internet yang pertama, dah ada streaming. I had to buy streaming, bandwidth — masa tu mahal gila. Dan kau tahu apa dia? Akulah yang rekod suara aku baca begitu. Tapi berapa kau dengar? Aku tak pernah check. Masa tu it wasn't as good as this, sebab dia punya tracking tu was not good. Masa tu dia pakai — aku tak ingat apa framework dia — masa tu WordPress.
 
@@ -440,7 +440,7 @@ Eh, YB pula. Bukan? Tak, okey. Waktu pemilihan? Ya, tapi bukan masa pemilihan. I
 
 **Nik Nazmi:** Berhutang bank, bukan. Tapi kebetulan timing semua tu. So for me, nak kata — I mean, saya untunglah, sebab saya tahu macam ada kawan-kawan PAS dulu bertanding enam kali election, enam negeri tak menang-menang.
 
-**Rafizi:** Suhaizan Kayat lah.
+**Nik Nazmi:** Suhaizan Kayat lah.
 
 **Nik Nazmi:** Haah ya. Akhirnya menang. Suhaizan bertanding kali kelima ke keenam menang, ganti Arwah Salahuddin. So dalam PAS pun banyak cerita-cerita tu. So I was so lucky, memang tak mimpi nak menang kat Selangor semua tu. Yalah, waktu tu — orang kata right time. So nak kata saya menyesal, kata tak fair, tak boleh, sebab I had it good dari segi tu. Tapi of course, kita lalu — I think, compare dengan Ramanan tu, kita lalu masuk lokap, kita lalu buat benda-benda tu. For me, it mengajar saya dan kenal banyak orang. And it's not about Anwar. Kalau nak fikir kita berjuang kat Anwar, then memang rugilah. Tapi kerana kita kenal ramai orang biasa, dan some of them will be part of Bersama, dan mungkin pengalaman tu kita akan gunakan. Tapi yes, kalau fikir kawan lain dah kaya raya, then yalah, kita tak boleh — your choice. Bila masuk politik cara betul, takkan kayalah.
 
@@ -454,7 +454,7 @@ Eh, YB pula. Bukan? Tak, okey. Waktu pemilihan? Ya, tapi bukan masa pemilihan. I
 
 **Rafizi:** Kalau ni ingat kan, selepas pemilihan tu emosi dia tinggi. Betul. Banyak orang — saya tak kata penyokong saya ke Nik ke apa. Orang selalu kata faction faction ni. Sebenarnya dalam PKR ni tak, you know, kami ni orang kecil je dalam PKR. Sebab kami tak ada duit. Faction ni sebenarnya kalau ada duit, dia bayar semua orang, bergantung kepada 2 3 orang. Kami ni tak ada. Kami kawan-kawan banyak-banyak kan. Cuma dalam pemilihan yang lepas, banyak orang jadi mangsa blockchain. So dia punya bitterness ditipu kan, bitterness. Sepatutnyalah orang PKR, Dato' Seri Anwar semua ni faham sebab kita pergi sampai 5 kali bersih, kan, untuk free and fair election. Sebab kena tipu ni, luka dalam tu memang betul-betul lah kan. Jadi habis saja pemilihan tu emosi tu tinggi. Masa itu sebenarnya saya memang tak ada niat langsung untuk buat parti — boleh tanya niat lah. My concern masa itu ialah macam mana kita nak land the emotion supaya dia tak jadi toxic. Sama macam lepas PRU 2013, Black 505 kan. Dia ada cerita dia kan — malam itu di Hotel One World, malam dapat keputusan.
 
-**Nik Nazmi:** Malam dapat keputusan sebab Anwar was so confident boleh menang. Boleh menang. Ini kalilah. Ha, ini kalilah, ini kalilah kan.
+**Rafizi:** Malam dapat keputusan sebab Anwar was so confident boleh menang. Boleh menang. Ini kalilah. Ha, ini kalilah, ini kalilah kan.
 
 **Rafizi:** So I just want big in Pandan. So I went to Wan Utama, I mean Hotel One World.
 
@@ -462,7 +462,7 @@ Eh, YB pula. Bukan? Tak, okey. Waktu pemilihan? Ya, tapi bukan masa pemilihan. I
 
 **Rafizi:** One World kan. He was so down. Dan masalah daripada awal, daripada aku muda, I saw it with my own eyes — selalunya orang keliling ni yang berbahaya. And Anwar, because dia memang tak pernah decisive daripada dulu — you know the joke among us, if you recall kan, the joke among us ialah Anwar ni buat keputusan based on siapa yang last sekali boleh bisik kat dia.
 
-**Nik Nazmi:** So sebab itu — there was no grand strategy.
+**Rafizi:** So sebab itu — there was no grand strategy.
 
 **Rafizi:** Taktik pun tak ada.
 
@@ -480,7 +480,7 @@ Eh, YB pula. Bukan? Tak, okey. Waktu pemilihan? Ya, tapi bukan masa pemilihan. I
 
 **Nik Nazmi:** Kau pengarah strategi. I was pengarah strategi masa tu kan.
 
-**Rafizi:** I was pengarah komunikasi.
+**Nik Nazmi:** I was pengarah komunikasi.
 
 **Nik Nazmi:** Komunikasi kan.
 
@@ -514,7 +514,7 @@ Eh, YB pula. Bukan? Tak, okey. Waktu pemilihan? Ya, tapi bukan masa pemilihan. I
 
 **Rafizi:** Ceplos. Tapi dia tak develop apa-apa. So you know that product market fit is so important lah. So from Oktober 2025 tu, ah, memang jelas actually there is a demand for this. Dan angka itu berterusan naik, naik, naik, naik lah — we'll get to that later lah kan.
 
-**Nik Nazmi:** Jadi daripada situlah bermulanya the possibility of a new party.
+**Rafizi:** Jadi daripada situlah bermulanya the possibility of a new party.
 
 **Rafizi:** So dia pull and push factor tau.
 
@@ -528,7 +528,7 @@ Eh, YB pula. Bukan? Tak, okey. Waktu pemilihan? Ya, tapi bukan masa pemilihan. I
 
 **Rafizi:** Ha, ini cerita dia. So sebab itu you kena fikir semua possibility lah. Possibilitynya, kalau kita register parti baru, mungkin dia tak tolak pun, tapi dia sit on it — maksudnya tak dengar berita setahun, 2 tahun. Sebab itu parti-parti lain macam Muda kan — Muda actually selepas 1 tahun lebih tak dengar-dengar cerita, dia terpaksa ambil mandamus order tau, file mandamus order dekat court kan. So, you know, kalau kita nak buat macam itu, we have to terima hakikatlah — besar kemungkinan sama ada dia reject terus ataupun kita kena tunggu 1 2 tahun lepas tu buat mandamus order. Macam tu tak payahlah, dah habis election kan, orang tak ingat dah kat kita. Tak ada apa dah kan — jadi masa tu dah episod YBM episod ke-270, kan, tak ke mana kan. So apa yang kita buat ialah kita pakai decoy. Sebenarnya kami register dua parti baru — of course bukan nama akulah, pergi letak nama aku, banganglah, memang kena pangkah awal-awal lah kan. So kita ada register parti A, register parti B, because my thinking begini eh — kita ni dah lama dalam PKR, kita kenal perangai setiap seorang yang ada kat PKR tu kan. Saya rasa akal mereka ialah dia ingat kita akan buat macam yang dia akan buat kalau dia berada dalam kedudukan kitalah. Ha, jadi dia ingat kalau dialah jadi macam ni semua, buat parti baru, register lah atas nama sendiri.
 
-**Nik Nazmi:** Ha, sama ada atas nama parti sendiri, atas nama sendiri ke — tu satu benda lah.
+**Rafizi:** Ha, sama ada atas nama parti sendiri, atas nama sendiri ke — tu satu benda lah.
 
 **Rafizi:** Tapi the only route ialah register parti baru. So you send decoy dua lah supaya dia buat due diligence semua, dia kata, "Ha, ini orang Rafizi ni." So tak apalah, kita just tak buat apa-apa kat situ lah. True enough lah kan, memang tak dengar apalah. Saya, by Oktober tu, I share with Nick by that time lah. Aku dah tulis semua perlembagaan lah — aku rasa itu akan jadi perlembagaan parti paling panjang dalam Malaysia kan. But we know enough juga bahawa the real test ialah kalau kita boleh ambil alih parti baru lah — bukan parti baru, parti sedia ada. Kat Malaysia ni ada 73 parti berdaftar, kan. So the trick is to know which parti berdaftar tu — kalau kau cuba tanya ChatGPT, kau tak dapat. So kau kena buat investigative.
 
@@ -558,7 +558,7 @@ Eh, YB pula. Bukan? Tak, okey. Waktu pemilihan? Ya, tapi bukan masa pemilihan. I
 
 **Nik Nazmi:** Dan nak tak nak kena ada some parti baru, dan saya rasa ada benefit dia sebab orang punya meluat dengan banyak parti-parti yang existing ni ialah sangat deep. Dan mungkin lepas ni bila kita talk about demographic keanggotaan atau—
 
-**Rafizi:** Kita akan tengok keanggotaan.
+**Haziq:** Kita akan tengok keanggotaan.
 
 **Nik Nazmi:** Tu kita akan dapat tengok, aa, dia sebenarnya hasil daripada tu lah yang semakin tinggi yang disenfranchised voters tu. Okey, okey, baik YB.
 
@@ -574,7 +574,7 @@ Eh, YB pula. Bukan? Tak, okey. Waktu pemilihan? Ya, tapi bukan masa pemilihan. I
 
 **Haziq:** Jadi saudara ni agak critical sikit lah dengan nama progresif. Bukanlah nak cari satu nama yang ni.
 
-**Nik Nazmi:** Kita bincang berminggu-minggu.
+**Rafizi:** Kita bincang berminggu-minggu.
 
 **Rafizi:** Kemajuan.
 
@@ -628,7 +628,7 @@ Eh, YB pula. Bukan? Tak, okey. Waktu pemilihan? Ya, tapi bukan masa pemilihan. I
 
 **Rafizi:** Malaysian kartun. Tapi Kancil ada 2 yang popular dulu lah. Satu tu yang siri buaya — 1, 2, 3 ketuk, jantan betina aku ketuk kan, something like that lah, 1, 2, 3 lekuk ke apa kan, itu yang buaya. Satu lagi, I don't know whether you remember, yang dengan monyet tu — makan cili.
 
-**Nik Nazmi:** Ha, makan cili kan. Dia kata — aku ingat, jangan monyet.
+**Rafizi:** Ha, makan cili kan. Dia kata — aku ingat, jangan monyet.
 
 **Rafizi:** Kancil nasihatkan jangan monyet, monyet tak dengar nasihat kan. Kita dalam politik banyak lah yang monyet-monyet yang kita nasihatkan. So I think all those things, actually it can make campaigning a lot more fun bila kita ada Kancil lah.
 
@@ -676,7 +676,7 @@ Eh, YB pula. Bukan? Tak, okey. Waktu pemilihan? Ya, tapi bukan masa pemilihan. I
 
 **Rafizi:** Melayu juga kan? Kemudian parti keempat paling banyak masuk, a bersama bekas parti dia, Amanah.
 
-**Haziq:** 2.5. Bersatu 2.5.
+**Rafizi:** 2.5. Bersatu 2.5.
 
 **Rafizi:** Muda 2.2. DAP 1.3. MIC 1.3, MCA 1.1. Satu kumpulan yang besar ialah parti-parti kecil yang lain yang kita tak namakan — semua tu letak parti lain-lain di Semenanjung 2.6%. So kalau ikut rankingnya, paling banyak PKR, kemudian UMNO, kemudian PAS — ini yang meninggalkan parti masing-masing masuk. Kemudian parti-parti lain, and then you have Amanah, Bersatu, Muda, DAP, MIC, you know, and then ada Warisan, Gerakan, GRS, UPKO, tapi kecil-kecil semua lah.
 
@@ -688,7 +688,7 @@ Eh, YB pula. Bukan? Tak, okey. Waktu pemilihan? Ya, tapi bukan masa pemilihan. I
 
 **Rafizi:** Amanah, Bersatu kan — 6.3 campur 2.6 itu
 
-**Haziq:** 9.8. 8.9.
+**Rafizi:** 9.8. 8.9.
 
 **Rafizi:** 9% lah. Kemudian Amanah campur Bersatu 2.5, 2.5, 5%. So itu dah 14. And then yang parti lain-lain Semenanjung tu 2.6% lah, kita katalah ambil separuh lah kan. So maksudnya lebih kurang 15%, plus 1.3, about 15% daripada keanggotaan bersama selepas 5 hari ialah daripada parti-parti Melayu yang lain.
 
@@ -700,13 +700,13 @@ Eh, YB pula. Bukan? Tak, okey. Waktu pemilihan? Ya, tapi bukan masa pemilihan. I
 
 **Rafizi:** So you are group yang paling lama, dan you perhaps millennials yang merasai reformasi ni tak ramai.
 
-**Haziq:** Tak. Because masa tu-
+**Rafizi:** Tak. Because masa tu-
 
 **Rafizi:** Kita je budak gila, orang sekolah. Budak gila. So maksudnya walaupun millennials ni tak melalui zaman reformasi, zaman-zaman tu semua, millennials yang paling banyak menyertai lah, 41% lebih kurang. Kumpulan kedua, understandably, Gen X lah. Sebab the hypothesis ialah kalau orang yang betul-betul idealist buat reform ni sepatutnya Gen X. Sebab Gen X, my generation, yang went through 98 sampailah 2018 semua lah kan. Kami dah tua, and then we were frustrated. But it's actually millennials lagi tinggi daripada Gen X. So Gen X 36, boomers and older 16.3, Gen Z 7%. Now, compare that kepada Malaysian adult age breakdown — millennials 38% population kita, age breakdown untuk bersama 41%. So it's not that far off, lebih kurang. Gen X population 24%, dalam membership bersama 36%. Boomers and older 22% population, di dalam bersama 16%. Yang we have to work and try to get closer to population ialah Gen Z — Gen Z population 16%, dalam bersama 7%, lebih kurang half lah. But then again, Gen Z memang tak join. So if you ask me, it doesn't make sense kalau kita nak expect any parti punya membership ni untuk Gen Z ni resemble population. So kalau population 16%, to me if you hit 10% of the party membership tu ialah Gen Z, it's actually quite good. And we are at around 7% selepas 5 hari.
 
 **Nik Nazmi:** Sebab dia nak, yang paling penting nak translate dia orang punya undi lah kan? Tu jadi ahli-
 
-**Haziq:** Dia jadi ya, special.
+**Rafizi:** Dia jadi ya, special.
 
 **Nik Nazmi:** Most people tak, tak ke sana lah.
 
@@ -736,11 +736,11 @@ Eh, YB pula. Bukan? Tak, okey. Waktu pemilihan? Ya, tapi bukan masa pemilihan. I
 
 **Rafizi:** Itu yang jadi Invoke tu. Kita buat Invoke 2016 sebab kita tahu bahawa orang parti ni, katakanlah anggota dia dekat satu cabang, dekat Selangor ni, katakanlah 5000, tapi dia nak buat keluar 100 orang, payah. Sebenarnya kan?
 
-**Nik Nazmi:** 5000 untuk pemilihan lah, anggota kan?
+**Rafizi:** 5000 untuk pemilihan lah, anggota kan?
 
 **Rafizi:** Tapi dia nak keluar 100 orang semua tu payah kan, dia baca tak cukup. Sebab tu pacar semua masalah kan. Jadi sebab itu, Invoke pengalamannya kita kata, kita kena ambil volunteer lah, dan ini yang kita hantarkan di seluruh negara untuk jadi pacar kan. Jadi the energy and how energized the members are, very important. So katakan lah ambil Shah Alam, 800 anggota dalam tempoh 5 hari kan, dan diorang semua ni dia kena bayar tu nak masuk — banyak parti tak bayar tau, tak ada membership fee. PKR kena, PKR pula, bersama-
 
-**Nik Nazmi:** PKR, bini lama.
+**Rafizi:** PKR, bini lama.
 
 **Rafizi:** Hari tu aku tak sanggup sebut Bersatu. Hari ni PKR kan. So 800 ni kan, yang pada peringkat ni dia very energetic, very gung-ho dan dia ke depan semua kan. Maksudnya kalau you boleh activate even separuh daripada 800 orang ahli bersama di Shah Alam, that's already 400. I can categorically tell you 400 tu lebih besar daripada kekuatan jentera Amanah di Shah Alam.
 
@@ -750,7 +750,7 @@ Eh, YB pula. Bukan? Tak, okey. Waktu pemilihan? Ya, tapi bukan masa pemilihan. I
 
 **Rafizi:** Ya, sekarang ni kita tak cukup tangan lah. Sebenarnya orang lupa sebenarnya yang menguruskan ni selain daripada bedroom kita adalah. Bedroom pun kita tak banyak, ada lebih kurang beberapa orang saja. Tapi yang betul-betul nak kena pakai different hat semua ni aku dengan Nik lah. Kita tak cukup tangan lah sebenarnya kan. Dia ada semuanya perlu berlaku serentak. So kita akan Nik yang akan ketuai selepas raya haji, kita akan buat state tour daripada satu negeri ke satu negeri. Jelajah. Jadi anggota yang dah masuk tu memang dijemput. Tapi yang belum, belum lagi kita jemput semualah. Yang berminat. Saya ingat minggu depan kita akan umumkanlah. Dan fokus kita ialah, kita tak nak buat macam kempen parti-parti lain ni — bila turun, jerit sakau, maki orang tu semua kan. Kita nak fokus kepada agenda kita. Kita ada 12 agenda. Jadi di setiap negeri kita turun tu, Nik akan ambil satu, saya ambil satu. Dan that will take at least lebih kurang 4-5 minggu daripada masa kami lah kan. Itu satu. Ini di peringkat kami di peringkat pusat lah. Pada masa yang sama kita pun juga ada satu team sebenarnya yang sekarang ini sedang menyiapkan satu persatu perincian dasar yang 12 tu. Ada dikritik — apa nama ni, seorang pensyarah daripada UUM. Aku perasan pensyarah tu jugalah, siapa jadi kerajaan, dia akan kata kerajaan tu bagus. Masa BN dulu, masa zaman Najib dulu, dia kata Najib akan jadi PM masa tahun 2022. So okeylah, fine. Tapi tak apalah, pensyarah tu tulis dia kata ini retorik, tak masuk akal, tidak diperincikan semua. So memang kita akan buat sesuatu yang saya ingat jarang dibuatlah di negara ini kan. Maksudnya I really want to validate costingnya. Kita akan tengok sebenarnya apa program design yang perlu sokong. Kalau kita kata nak doctor to patient ratio 1 to 300, actually, what are the program design, satu persatu kita cost it. Kita juga akan tengok kepada unintended consequences and how you're going to manage it and map it to sebenarnya stakeholders kan. So benda tu kita akan buat secara berterusan. Tapi YB lukislah, jangan tulis panjang-panjang. Dan kita akan cuba lukis, sebab I think kita pun tak nak tulis panjang-panjang ni. Aku dah ada pengalaman menyediakan RMK. Itu pun RMK 13, arahannya ialah supaya menjadi RMK yang terpendek, sebab kau tidak tebal semua kan. So itu juga berlaku. Banyaklah kempen lain semua, so itu di peringkat kami lah. Yang saya ingat, dia akan mula ada kesan kepada orang ramai. Yalah kita akan mula buka dan jemput orang ramai yang rasa it's time for them to come forward menawarkan diri untuk menjadi calon pilihan raya. InsyaAllah kita buka awal Jun. Dan Haziq nak tahu tu lah, dia tunggu-tunggu, Haziq nak tahu tu je dia tu kan. Okey, takde.
 
-**Haziq:** Kau pun menganggur kan? Kau dah berapa kali resign ni? Hari tu resign apa ni, jawatan kerajaan.
+**Rafizi:** Kau pun menganggur kan? Kau dah berapa kali resign ni? Hari tu resign apa ni, jawatan kerajaan.
 
 **Rafizi:** Sekarang resign daripada AMK pula, keluar parti. So kemudian Jun banyak bendalah. Jun juga insyaAllah kita akan ada baseline pertama, yang kita boleh mengukur sebenarnya penerimaan dan sokongan pengundi. Yalah keahlian ni memberangsangkan. Tapi sama ada pengundi tu akan undi kita ke tidak, wallahu alam kan. So from that, kalau everything goes well, kita boleh mula umumkan calon-calon potensi di kerusi-kerusi potensi, because by then kita dah boleh match kan kekuatan jentera dengan penerimaan pengundi. So by end of June, saya ingat kita dah boleh mula umum the first batch semualah. Umumkan lebih awal lah. Amin.
 
@@ -798,7 +798,7 @@ Eh, YB pula. Bukan? Tak, okey. Waktu pemilihan? Ya, tapi bukan masa pemilihan. I
 
 **Rafizi:** Yalah, kita memang daripada awal cautious sebab benda ni kan. Dan saya ingat salah satu complain dia terhadap aku, belakang-belakang aku — depan aku dia tak berani cakap, dia senyum semacam masa depan aku — belakang aku ialah dia kata aku ni tak mesra sangat dengan UMNO. Dia selalu, kalau pilihan raya kecil Kuala Kubu, bukan yang UMNO bertanding — yang mana Air Panas yang dekat Johor? Bukan yang dekat Perak tu, apa ni, Air Kuning.
 
-**Haziq:** Air Kuning yang dekat Tapah tu kan.
+**Rafizi:** Air Kuning yang dekat Tapah tu kan.
 
 **Rafizi:** Dia kata, oh you tak pergi lagi berkempen semua kan, you know, pergilah tolong UMNO. Tapi memang betul aku tak nak pergilah kan. Bukanlah sebab saya ada masalah dengan UMNO. Saya okey je dengan Menteri UMNO. Nick can tell — actually I get along so well dengan Menteri UMNO, termasuklah Tok Mat duk sebelah aku, Dato' Seri Zamri kat depan. I'm okey lah kan. And I give credit where the credit is due lah. Tetapi itu dari segi pentadbiran negara. Dari segi strategi politik ni, daripada awal hari pertama, I just do not see yang UMNO akan bertanding dalam satu pakatan dengan Pakatan Harapan, because it's just illogical. UMNO ini tidak wujud untuk dia play second fiddle. UMNO wujud untuk menguasai kerajaan. Cuma dia kalah besar tahun 2022, jadi untuk survival dia, dia terpaksa bergantung kepada PH supaya dia berada dalam kerajaan. Then of course, you know, you have the case of Dato' Seri Zahid dan case 47 dialah — 47 case dia kan. Jadi benda tu, in fact, there's no hard feeling pun. Saya tak ada masalah pun kalau contohnya UMNO memang begitu. What do you expect? Kalau kita jadi UMNO pun, we would have done exactly the same thing. Jadi sebab itu bila saya tengok emosinya di Pakatan Harapan, komen, aku gelak ah. I cakap, yalah, yang takkanlah kau tak tahu kot.
 
@@ -838,7 +838,7 @@ Eh, YB pula. Bukan? Tak, okey. Waktu pemilihan? Ya, tapi bukan masa pemilihan. I
 
 **Rafizi:** Ya lah, Anwar tak pernah jadi Perdana Menteri sebelum ini. Jadi kita nak baca macam mana dia buat keputusan bila nak buat pilihan raya tu pun tak boleh juga. Lagipun kalau ikut rekod dia, contohnya pilihan raya parti kan, kepala otak dia pun baru ubah — maksudnya dipersetujui tak ada pemilihan kan, eh tiba-tiba dia ada balik. Jadi saya rasa bacaan yang lebih baiklah untuk kita menghidu tarikh-tarikh pilihan raya ni ialah tengok kepada arahan-arahan kepada penjawat awam, returning officer. Sebab dia perlukan lead time untuk buat pilihan raya — penjawat awam perlu dipanggil, dilatih, dan bersedia untuk menguruskan pilihan raya kan. Saya dengar-dengarlah, contohnya returning officer — dalam bahasa Melayu apa dia? Pegawai... tak ada lah, keluar pilihan raya kot, returning officer lah kan. Returning officer pilihan raya semua ni, jentera telah dipanggil tau untuk Johor. Jadi maksudnya Johor is coming. Jadi besar kemungkinan lah setakat ni nampaknya Dewan Undangan Negeri Johor mungkin dibubarkan dalam 2, 3 minggu lagi, lepas habis hari raya haji. Kemudian orang mula balik, saya ingat seminggu, 2 minggu lepas itulah kan. So I think you're looking at, I mean, 2, 3 minggu akan dibubarkan. Kita ada parti baru. Kemudian pilihan raya negeri selalunya dia ambil masa lebih kurang 2, 3 minggu untuk penamaan calon kan.
 
-**Nik Nazmi:** Kempen about 10 hari macam tu.
+**Rafizi:** Kempen about 10 hari macam tu.
 
 **Rafizi:** Jadi you are looking at sebulan lepas itulah — maksudnya pilihan raya negeri Johor ni nampaknya akhir Julai, minggu ketiga Julai kan. Jadi seterusnya Melaka dengan Negeri Sembilan lah. Kerana Negeri Sembilan tu dia paling lama, Oktober — dia boleh heret Oktober, sebelum bajet lah. Kalau tidak, because by that time UMNO akan buat undi tak percaya ke apalah kan, ataupun dia akan terbubar sendiri kalau tak buat Dewan Undangan Negeri kan. So you are looking at Oktober. Melaka pun gaya-gayanya macam Oktober. Cuma yang kita tak pasti, masih lagi open field begini, sama ada Dato' Seri Anwar akan melalui pilihan raya negeri demi pilihan raya negeri, tapi dia tak buat juga pilihan raya umum Oktober. Kan? So dia ada pilihan itu. Cuma satu kekangan yang dia ada juga ialah soal subsidi minyak. Kerana kalau kita terus bayar 7 billion tiap-tiap bulan kan, dia ada limit lah lama mana perkara itu boleh dibuat. Jadi akhirnya dia nak kena naikkan juga harga minyak RON 95 ni kan. Jadi lagi lama dia tak buat, lagi terdesak untuk dia naikkan.
 
@@ -886,7 +886,7 @@ Eh, YB pula. Bukan? Tak, okey. Waktu pemilihan? Ya, tapi bukan masa pemilihan. I
 
 **Rafizi:** Kempen untuk DAP. Kempen untuk DAP.
 
-**Nik Nazmi:** Ha kan. DAP musuh Islam. Ha, DAP musuh Islam lah kan.
+**Rafizi:** Ha kan. DAP musuh Islam. Ha, DAP musuh Islam lah kan.
 
 **Rafizi:** Tiba-tiba Dr. Samsuri yang dibesarkan di dalam suasana itu now has to go out and try to win and manage contrasting issues dan pelbagai cabaran, basically to really become a fighter and a bruiser. Not easy. Dia tak pernah buat itu. Dan dia smooth sailing daripada menteri. He was put on a pedestal daripada day one. Daripada, apa nama ni, basically PA kepada Ustaz Hadi, terus jadi apa nama ni, menteri besar. Daripada menteri.
 

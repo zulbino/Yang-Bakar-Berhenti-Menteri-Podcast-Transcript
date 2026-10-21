@@ -67,17 +67,17 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Saya demam dan sakit tekak. Dan sejak akhir-akhir ini memang panas kan. Malaysia dry spell ni sampai ke Jun kan?
 
-**Iqbal:** Dan tapi YB—
+**Haziq:** Dan tapi YB—
 
 **Haziq:** akan spill cerita yang agak panaslah.
 
-**Iqbal:** Ha, itulah sebab saya demam hari ini.
+**Rafizi:** Ha, itulah sebab saya demam hari ini.
 
 **Rafizi:** Jadi pasukan produksi kata tak apalah kita skip seminggu. Saya tahu mereka kerja nak skip saja.
 
-**Iqbal:** Minggu depan, minggu depan.
+**Farhan (Pa'an):** Minggu depan, minggu depan.
 
-**Farhan (Pa'an):** Oh, minggu depan ha.
+**Rafizi:** Oh, minggu depan ha.
 
 **Iqbal:** Raya kan?
 
@@ -103,11 +103,11 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Di-out Melayu dan di-out Islam dengan komik. Apa nama komen-komen netizen di Twitter ini — "lakonan semata-mata, yang kurang cerdik saja yang akan mudah terpedaya." Ini kita doakan agar hati Nga Kor Ming dilembutkan agar dia memeluk Islam dan memahami Islam. Alhamdulillah, tarbiah mantap. Oh, yang ini yang menyokonglah — sepatutnya Melayu Islam menyokong dan memuji, tetapi ini pula sakit hati. Bagus lah. Jadi, pandangan kau? Saya... semua tak nak komen lagi ni. Tanya Farhan dulu komennya.
 
-**Haziq:** Komen saya eh.
+**Farhan (Pa'an):** Komen saya eh.
 
 **Farhan (Pa'an):** Kami masukkan sebab selalunya yang kuat — saya benci perkataan "mengampu", tapi kuat mengampu ini — jadi ada segmen rakyat yang nampak dia buat begini, mereka kata, oh dia ini bukan main lagi, semua benda dia nak mengampu kan.
 
-**Rafizi:** Jadi dia dalam konteks itulah.
+**Haziq:** Jadi dia dalam konteks itulah.
 
 **Haziq:** Bukannya maksudnya orang yang bukan Islam mendengar ceramah itu salah.
 
@@ -125,7 +125,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Haziq:** Jangan risau, tetamu tetap kita sudah menunggu.
 
-**Rafizi:** Oh ya. Okey, kita tengok — yang mahal itu sebab dia duduk bersimpuh. Okey. Ah, beria umum, berita baik. Sudah tulis sia-sia, beria. Belum sahih lagi, tapi beria lah kot kan? Beria. Ini ada 2 pengumuman YB.
+**Haziq:** Oh ya. Okey, kita tengok — yang mahal itu sebab dia duduk bersimpuh. Okey. Ah, beria umum, berita baik. Sudah tulis sia-sia, beria. Belum sahih lagi, tapi beria lah kot kan? Beria. Ini ada 2 pengumuman YB.
 
 **Haziq:** Pengumuman daripada Kementerian Pendidikan tentang cuti tambahan bersempena hari raya, yang memang sudah ada dalam takwim. Dan kemudian pengumuman daripada Perdana Menteri yang ditunggu-tunggu rakyat.
 
@@ -133,7 +133,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Iqbal:** Tidak sangat, mungkin boleh.
 
-**Rafizi:** Yang ini pengumuman—
+**Haziq:** Yang ini pengumuman—
 
 **Haziq:** yang dibuat, dia mengeluarkan kenyataan media berkaitan cuti tambahan hari raya.
 
@@ -159,7 +159,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Masa di parlimen?
 
-**Iqbal:** Ya, ya, ya.
+**Rafizi:** Ya, ya, ya.
 
 **Haziq:** Sidang parlimen. Ya, ini sepatutnya masuk minggu lepas.
 
@@ -173,7 +173,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Apa kena-mengena Klinik Satu Malaysia dengan 1MDB? Kedai Rakyat Satu Malaysia dengan 1MDB?
 
-**Iqbal:** Kena tanya tuan empunya badan.
+**Haziq:** Kena tanya tuan empunya badan.
 
 **Rafizi:** Saya bimbang dengan kemahiran berfikir ahli-ahli parlimen kita. Sebab klinik 1 Malaysia, kedai 1 Malaysia semua itu, itu semua di bawah gagasan kempen 1 Malaysia Dato' Sri Najib yang menggunakan wang rakyat daripada belanjawan kerajaan. Ia tidak ada kena-mengena — bukannya 1MDB yang membiayai semua itu. Kalau orang kampung di Ulu Tenggara tidak faham, fahamlah. Tapi kalau ahli parlimen yang membawa cerita, beria-ia sangatlah kot. Tak tahu Iqbal?
 
@@ -189,7 +189,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Sebenarnya tidak. Saya ni, ya kita akan ada pengundi tegar sesuatu parti yang datang macam mana pun dia sokong kan. Tapi pemahaman dan juga pemerhatian saya kepada pengundi-pengundi, sebenarnya mereka melihat isu yang lebih dalam. Tak kisahlah Melayu, Cina, atau India kan. Ambil contoh orang Melayu. Masalah mereka dengan contohnya PH atau Dato' Seri Anwar ataupun DAP kan. Memang betul ada yang tegar sama ada dia berasaskan perkauman ataupun kalau PAS saja dia akan sokong 100% kan. Tapi orang Melayu yang atas pagar yang tidak menyokong PH itu, dia ada satu isu yang perlu diselesaikan. Kita mungkin bersetuju ataupun tidak bersetuju dengan pandangan dia, tapi pandangan dia itu adalah valid tahu. Pandangan dia ialah soal trust deficit terhadap Dato' Seri Anwar. Adakah Dato' Seri Anwar Ibrahim, oleh kerana dia sangat mahu menjadi Perdana Menteri, adakah dia akan membuat keputusan untuk jangka masa panjang? Kerana kebimbangan trust deficit itu, kalau dia terdesak nak menjadi Perdana Menteri, maka dia akan bersetuju dengan semua dan apa-apa yang pada pandangan mereka boleh menjejaskan kepentingan Melayu, kan? Tapi isunya ialah trust deficit. Dan to be fair kepada mereka, kita nak marah dia macam mana pun, sekarang ini isu trust deficit itu memang betul-betul berlaku. Jadi saya letihlah mendengar mereka berkata I told you so kan. Jadi maksudnya walaupun komen mereka nampak seperti perkauman, nampak seperti ini, tapi kalau kau distill ia lebih jauh, sebenarnya ada isu trust deficit. Sebenarnya, ia perkara yang sama tentang bukan Melayu. Kenapa bukan Melayu ada masalah dengan soal PAS, soal UMNO ataupun sekarang ini soal PH dan DAP sendiri kan? Dia bukan semata-mata melihat, oh saya suka dengan Komeng, oh saya suka Cina, oh saya suka Anwar. Tidak ada tahu. Kalau tengok komen-komen saya sekarang, banyak juga saya habiskan masa membaca komen-komen netizen di media Cina. Sebab sekarang ada Google Translate.
 
-**Iqbal:** Dulu tidak boleh kan?
+**Rafizi:** Dulu tidak boleh kan?
 
 **Rafizi:** Mereka mengomen banyak dalam Mandarin dan kemudian kau klik saja, kau baca, go through kan. Saya sangat terkejut kerana antara komen mengenai politik oleh pengundi Cina berbanding pengundi Melayu, pengundi Cina jauh lebih deep tahu.
 
@@ -207,7 +207,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Farhan (Pa'an):** Double park, ada yang kata dia halang jalan. Macam itulah. Mungkin dia jalan raya.
 
-**Haziq:** Kereta macam itu.
+**Farhan (Pa'an):** Kereta macam itu.
 
 **Rafizi:** Jadi sebenarnya baiklah kerana yang buat hal itu, kereta itu memang nampak betul-betul dia letak tengah jalan yang kau suka itulah.
 
@@ -217,7 +217,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Haziq:** Ah, ketuk, maaf anda melakukan kesilapan.
 
-**Rafizi:** Jangan ulang lagi.
+**Haziq:** Jangan ulang lagi.
 
 **Farhan (Pa'an):** Di Russia ada satu kumpulan ini. Ha, ini sebab saya tengok benda ini saya cari macam mana orang tangani isu road rage. Di Russia ada satu kumpulan ini, bila salah parking ataupun double park ataupun block, mereka tampal stiker yang memang tak boleh koyak. Mungkin kita boleh mula macam itu.
 
@@ -227,7 +227,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Macam itu saja kan. Jadi kau sampai, ya Allah — jadi pak guard itu dia akan rasa bersalah kerana dia dah cuba sedaya upaya. Tapi orang kita ni memang muka selamba. Jadi kalau apa-apa yang beria ni bukanlah sangat soal sesuatu itu satu hal, tapi yang beria ini adalah perangai orang kita. Kau tengok yang ini, dia beria saja muka selamba letak tengah jalan kereta itu. Dan ramai orang begini, tak berkira orang lain. Kemudian bila ada orang tak puas hati, dia pergi buat sesuatu macam itu pun jadi beria juga. Jadi saya tak tahulah, salah satu perkara yang saya paling tak suka ialah bagaimana kita boleh menanam semangat sivik yang lebih baik. Sebab kesedaran sivik di Malaysia ini sama macam kita nak melintas jalan. Dah memang zebra crossing — zebra crossing itu sepatutnya tak payah tunggu orang berhenti atau apa, memang jalan kita jalan. Cuba kau jalan di sini, nanti saya kena langgar. Tak berani kita tunggu kiri kanan semua. Jadi zebra crossing yang kita kena tunggu kiri kanan tengok semua ini memang mengalahkan tujuannya. Tapi itulah budaya kita kerana ini menunjukkan bahawa kesedaran sivik amat rendah.
 
-**Haziq:** Beria? Semua beria. Semua beria.
+**Rafizi:** Beria? Semua beria. Semua beria.
 
 **Rafizi:** Janganlah salahkan pakcik itu saja, sebab kita tak tahu latar belakangnya. Tapi bila dah tendang dan rosakkan kereta orang macam itu, kemudian bergaduh — saya tak tahu, mungkin. Tapi kalau kena kereta, tapi saya tak apa sebab insyaAllah tak kena kereta saya. Tapi kalau ada gerakan macam itu tampal stiker.
 
@@ -277,7 +277,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Haziq:** Fuyo. Ha, kita bawa Fuyo ke depan sedikit. Okey, kita satu — Anthropic versus Trump. Ini isu yang tidaklah baru sangat, bermula dari Januari lagi, apabila Pentagon — Pentagon ini macam pertahanan US. Kalau macam Wisma Putra kita, Kementerian Luar; Pentagon itu pertahanan, tempat Setiausaha Pertahanan.
 
-**Farhan (Pa'an):** Betul. Pentagon MINDEF lah.
+**Rafizi:** Betul. Pentagon MINDEF lah.
 
 **Haziq:** Ah, yalah, MINDEF.
 
@@ -309,13 +309,13 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Itu satu, okey, itu satu bahagian. Tapi guardrails ini maksudnya ada beberapa garis etika yang tidak boleh dilanggar, okey. Jadi satu guardrails yang macam Farhan sebut tadi, Anthropic berkeras bahawa model AI mereka, Claude, tidak boleh digunakan untuk pengawasan domestik — itu Pentagon berkeras, mereka mahu juga. Tapi yang paling besar mengenai perang Iran ini yang akan memberi kesan kepada kita semua ialah soal adakah kau serahkan semuanya kepada AI, atau keputusan akhir untuk menyerang dan membunuh mestilah berada dengan manusia? Jadi Anthropic berkeras, dan itu sebenarnya, saya rasa, isu etika yang besar, kerana kau tengok apa nama ini, Star Wars, Droid Wars, contohnya semua itu, Terminator — pada masa depan, Terminator atau apa semua ini. Anthropic berkeras, dan itu sebenarnya saya rasa adalah garis panduan etika global dalam AI juga. Dalam perkara-perkara yang melibatkan nyawa. Dan bukan saja sebenarnya perang tahu — ia juga perubatan. Contohnya apa-apa yang melibatkan nyawa, perubatan, malah pemanduan autonomi pada masa depan. Apa-apa yang melibatkan nyawa, keputusan akhir itu mestilah berada di tangan manusia. Kau tak boleh biarkan robot ataupun AI membuat keputusan sendiri mengenai nyawa manusia. Jadi kalau dalam soal perang sekarang, yang Pentagon mahu ialah, kalau Claude dah kenal pasti model semua itu di mana nak serang semua, sebenarnya mereka boleh memutuskan sendiri untuk menyerang dan membunuh.
 
-**Haziq:** Jadi itu bermakna—
+**Farhan (Pa'an):** Jadi itu bermakna—
 
 **Farhan (Pa'an):** Menggunakan AI, kau ambil keluar elemen manusia daripada keputusan berkaitan serangan, perancangan.
 
 **Rafizi:** Yeah.
 
-**Haziq:** Jadi sepenuhnya autonomi.
+**Farhan (Pa'an):** Jadi sepenuhnya autonomi.
 
 **Rafizi:** Sepenuhnya autonomi. Itu yang Anthropic berkeras, mereka tidak akan buat itu. Dan sebabnya berbahaya kerana sebaik saja kau keluarkan manusia, kemudian kau nak salahkan apa? Tribunal jenayah perang mesin Claude.
 
@@ -347,7 +347,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Tapi ia benda yang sama, ia benda yang sama. Maksudnya konsep input cost pass through tu tetap sama, maksudnya rakyat dilindungi daripada kenaikan mendadak harga bahan api. Itu ditanggung oleh subsidi yang diberikan oleh kerajaan. Isunya adalah sama ada you laras setiap 6 bulan ataupun setiap bulan, itu sajalah kan. Sebab AFA ini memang diumumkan sekali dengan tarif selepas IBR, selepas RP3 itu, memang ada AFA. So maknanya ICPT, konsep yang mana kerajaan perlu membayar subsidi itu akan tetap ada lah kan. Jadi supaya kita tak panjang lebar pasal benda ni kan — maksudnya, dia ada kesan yang banyaklah. Selain daripada kesan ekonomi, dia mungkin juga kesan politik kan. Satu, seperti yang saya sebut tadi, kalau ketidaktentuan di peringkat antarabangsa itu berterusan, dia akan ada kesan kepada nilai ringgit, kepada nilai bursa kan. Inflasi kita pun kena tengok kerana contohnya bekalan urea di dunia sekarang ini semakin berkurangan, kerana urea ini dihasilkan daripada gas mentah — aku pernah dulu jaga petrokimia, urea semua ni kan. Saya rasa 20% pasaran urea global dibekalkan atau melalui Selat Hormuz. Yang tengah terkesan. Jadi bila ada perang ni, akan ada kekurangan, gangguan bekalan urea lah.
 
-**Iqbal:** Urea ni baja.
+**Rafizi:** Urea ni baja.
 
 **Rafizi:** Jadi bila baja harga naik melambung, maka bahan mentah makanan pun akan naik melambung jugalah. Jadi kita kena tengok sama ada itu akan mula ada kesan kepada harga komoditi lah. Tapi ringkasnya lah — maksudnya kalau perang ini berlarutan, dia akan mengurangkan kilauan, kilauan prestasi ekonomi yang sebelum ini dicanang-canang oleh kerajaan Madani lah. Dan itu hanyalah satu-satu kelebihan yang kerajaan Madani ada. Jadi bila kilauan itu berkurangan, kilauan itu berkurangan akibat semua ini — sama ada harga minyak nak kena naik ke, defisit dia akan melonjak ke, atau inflasi naik ke — walaupun bukan di dalam kawalan kerajaan, tapi orang akan kata, well, masa good time you kata itu semua kerja you, masa bad time pun you kena hadap jugalah. Sama macam Covid dulu — masa itu semua teruk kan, tapi Tan Sri Muhyiddin bagi alasan, oh, ini sebab zaman Covid. So kerajaan bila melibatkan prestasi ekonomi, naik dan turun itu you tak boleh pilih-pilih kan. Jadi katakanlah kalau ada kenaikan harga minyak kan, sama ada lama mana itu berlaku, dia juga akan ada kesan kepada sama ada pilihan raya umum akan dipanggil ke tidaklah. Sebab kalau naikkan minyak bulan 6, nak panggil pilihan raya bulan 6, bulan 7 tu agak payah lah kan.
 
@@ -369,7 +369,7 @@ Tapi sekarang ini agak jelas Budi 95 ini mungkin rakyat kata bagus, tapi dia tid
 
 **Rafizi:** Well, sebenarnya semua benda membantu kan. Cuma work from home ni saya tak pasti sama ada dia ada kesan yang mendadak kepada penggunaan RON 95. Sebab work from home ni hanya sebahagian, hanya pegawai-pegawai kerajaan sahaja. Dia nak paksa work from home kepada swasta tak boleh, kecuali dia umum darurat, macam PKP — jangan bagi idea, aku tak nak PKP, nanti aku kena hidup dengan kucing aku 20 ekor tiap-tiap hari. Kecuali dia buat ijtihad darurat, sebarang work from home ini kepada syarikat swasta hanya boleh digalakkan, dia tak boleh nak paksakan. Sebab syarikat swasta, asalkan dia mengikut Akta Pekerja, Akta Buruh semua tu, you tak boleh paksa dia buat benda yang di luar undang-undang. Dan work from home ini belum lagi ada dikanunkan di dalam undang-undang. Jadi sebenarnya niat baik. So maksudnya kesan utama hanyalah kepada pegawai kerajaan. Pegawai kerajaan pun tumpuan utamanya di Lembah Klang. Di tempat lain ni pegawai kerajaan tak ramai sangat. Yang ramainya di Putrajaya, di KL. Jadi ada kesan kepada penggunaan RON 95, tapi sama ada dia betul-betul akan menyelamatkan negara tu, mungkin, mungkin tidak. Tapi saya rasa tanpa apa-apa lain, maka mereka terpaksa memberi respons kepadanya.
 
-**Haziq:** Dan lagi hampir dengan raya, jadi.
+**Farhan (Pa'an):** Dan lagi hampir dengan raya, jadi.
 
 **Farhan (Pa'an):** Macam mana nak raya from home?
 
@@ -407,7 +407,7 @@ Dalam kenyataan Abu Hanifah: "Saya telah dimaklumkan bahawa ugutan-ugutan telah 
 
 Jadi untuk saya letak konteks — Abu Hanifah ini ialah satu kumpulan dengan Datuk Isa. Mereka berlawan dengan Farhash. Farhash mahu ambil alih syarikat NextG. Datuk Abu Hanifah ini membuat tuduhan secara terbuka bahawa taktik-taktik untuk memaksa, mengugut, telah digunakan untuk memaksa ahli lembaga pengarah dan pimpinan kanan syarikat yang tidak sehaluan — kalau ikut tuduhan ini — dengan Farhash, telah diugut akan disiasat ataupun akan dibekukan akaun, disiasat oleh pihak PDRM sekiranya mereka tidak meletakkan jawatan ataupun berundur daripada syarikat.
 
-**Haziq:** Ini sama seperti apa yang dikatakan oleh Bloomberg lah.
+**Farhan (Pa'an):** Ini sama seperti apa yang dikatakan oleh Bloomberg lah.
 
 **Rafizi:** Ya, itulah yang dikatakan sebagai kemuncak mafia korporat dan semua yang didedahkan oleh Bloomberg itu, ia memang berkisar kepada NextG juga. Kerana kontrak yang paling besar dalam semua syarikat-syarikat yang didedahkan di dalam laporan Bloomberg itu, akhirnya syarikat yang paling kaya mendapat kontrak 2 bilion lebih adalah NextG. Akhirnya ia kembali kepada NextG kan.
 
@@ -449,7 +449,7 @@ Asal Usul NextG dan Kemasukan Farhash — latar belakang NextG dan bagaimana Far
 
 **Rafizi:** Ini pendedahan lah, maklumat-maklumat yang saya dapat lah kan. Contohnya, bagaimana tekanan-tekanan itu digunakan. Dan ini melibatkan agensi-agensi kerajaan tahu. SPRM kita dah tahu. Ini tuduhan-tuduhan yang dibuat, yang melibatkan pihak polis pula. Contohnya akhir Oktober 2025, sebuah syarikat pemegang saham khas (SPV) bernama Rembulan Lestari Sendirian Berhad yang dimiliki oleh Datuk Abu Hanifah Nordin, yang memegang satu lot saham sebanyak 150.34 juta saham NextG Berhad, di bawah satu sub akaun CDS dekat Velocity Capital Sdn Berhad. Apabila berlaku perebutan ini dalam akhir bulan Oktober 2025, akaun CDS itu telah dibekukan. Okey, apa maksud CDS ni ialah Central Depository System. Cuba tengok — ini untuk pegang saham, Central Depository System, kan? CDS lah. Maksudnya bila kita pegang saham, bukannya kita simpan sijil saham tu, dalam peti besi macam dulu kan? Semua ni dia macam akaun bank. Kalau akaun bank pegang duit, CDS pegang saham. Jadi dekat bank pelaburan ke, dekat institusi kewangan, awak ada akaun CDS lah, pada asasnya di mana awak simpan saham awak kan. Jadi bila bergaduh, saham Datuk Abu Hanifah 150 juta ini dibekukan. Siapa yang boleh bekukan ni?
 
-**Haziq:** Saham, saham dibekukan.
+**Farhan (Pa'an):** Saham, saham dibekukan.
 
 **Rafizi:** Bukan, akaun CDS. Bila... Bursa? Ha, okey, nanti sebutlah kan. Maksud saya konsep akaun CDS kan — kalau akaun bank kita dibekukan, dia bekukan akaun kan. Jadi bila akaun itu dibekukan, kita tak boleh keluarkan duit lah, tak boleh transaksi, duit kita sangkut. Konsep yang sama dengan saham. Jadi awak ada akaun CDS, dalam akaun CDS syarikat itu, awak pegang saham beratus-ratus juta syarikat lain lah, awak simpan kat situ. Dia macam dalam akaun bank lah. Jadi bila awak bekukan akaun itu, dia stuck kat situlah. Awak tak boleh transaksi, awak tak boleh buat apa. Nak keluarkan pun tak boleh, jual pun tak bolehlah kan. Jadi, arahan ini yalah — didakwa arahan ini datangnya daripada Unit AMLA, maksudnya di Bukit Aman.
 
@@ -483,7 +483,7 @@ Asal Usul NextG dan Kemasukan Farhash — latar belakang NextG dan bagaimana Far
 
 **Iqbal:** Yang saya mungkin nak dapatkan pendapat YB — kalau YB berada dalam kedudukan PMX sekarang, dia dah lambatkan isu ni sudah 3 tahun berturut-turut. Dan kalau dia ambil tindakan sekarang pun, orang dah memang tak puas hati dengan situasi ni sekarang. Dia ambil tindakan pun, dia tak ambil tindakan pun, lagi orang marah. Jadi apa cara pun, orang dah marah. Buat apa dia nak buat apa-apa pasal perkara ni kan?
 
-**Rafizi:** Air yang telah mengalir di bawah jambatan (water under the bridge).
+**Haziq:** Air yang telah mengalir di bawah jambatan (water under the bridge).
 
 **Iqbal:** Kenapa dia nak buat apa-apa dengan cara berbeza kalau dah begitu?
 

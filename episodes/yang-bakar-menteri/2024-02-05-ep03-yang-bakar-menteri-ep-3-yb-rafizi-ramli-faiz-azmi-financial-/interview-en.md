@@ -123,7 +123,7 @@ That is also my approach with the agencies under the Ministry of Economy, and I 
 
 **Rafizi:** For now, when PADU was established, we had to go through a very painful process because for an agency to contribute data into PADU, the ministry has to sign a data-sharing agreement. One, one, one. Then we have to make an application to the Personal Data Protection Commissioner to grant an exemption for a specific period of time, right? So that is why right now, insya-Allah, this year we will table the Omnibus Act to enable data sharing among government departments to be approved by parliament without us having to go through this manual process. Because it is tedious—there are hundreds of them. So, for example, right now, Teraju is not in PADU yet. MARA too, I think, is not in PADU. Because they haven't signed yet. Because they haven't signed yet and so on. And for the purpose of identifying the first use case, which is targeted subsidy eligibility, we actually don't need these data yet. So we focus on the big data. But ideally, we want as much available data as possible so that various cross-checks can be done in the future for various purposes. And insya-Allah, when the Omnibus Act is passed, that will make things easier. For now, if we want—for example, with PTPTN—I'm not sure whether PTPTN is in PADU or not. I'm not too sure, actually. But PTPTN is in SIKRIS. Yes, because Bank Negara. Yes. PTPTN needs that SIKRIS information.
 
-**Faiz:** So they have to contribute.
+**Rafizi:** So they have to contribute.
 
 **Rafizi:** They have to contribute. But since SIKRIS is also in PADU, shouldn't it be—SIKRIS is not in PADU. SIKRIS is not in PADU, right? Financial data is not there.
 
@@ -135,11 +135,11 @@ That is also my approach with the agencies under the Ministry of Economy, and I 
 
 **Rafizi:** Those who pay taxes, right. So the ideal situation is that we must have services for targeted groups who are unable to care for themselves or who, if we don't give them assistance, will fall into destitution. They become hardcore poor, uncared for, and so on. Right now, we don't have this in our services. Where is there anyone managing a department for the elderly? There is none, there are no carers. If there is any, they have to go to the hospital, but that is for healthcare, right. So meaning in the future, because of demographic changes, our civil service must also change according to the demands and needs of that time. And the demands and needs at that time—at both ends, elderly care and pre-school childcare—in my view must be empowered. Because we also want the female workforce to be able to contribute to the job market. If they become homemakers largely because they have to care for many dependents, we will experience a dropout in terms of female labor utilization.
 
-**Faiz:** Whereas we need female labor utilization at a time when our total workforce is relatively small compared to those who need to be supported.
+**Rafizi:** Whereas we need female labor utilization at a time when our total workforce is relatively small compared to those who need to be supported.
 
 **Rafizi:** But the elderly side is there too. Both of these still do not exist widely in our civil service.
 
-**Syed Munawar:** For, if the civil service—
+**Faiz:** For, if the civil service—
 
 **Faiz:** To care for the elderly and these young ones, wouldn't these payments come from the government as well?
 
@@ -175,7 +175,7 @@ That is also my approach with the agencies under the Ministry of Economy, and I 
 
 **Rafizi:** No, that is something I think about from time to time. For example, JPA, if JPA for the public service.
 
-**Faiz:** Service policy, time period, pension policy.
+**Rafizi:** Service policy, time period, pension policy.
 
 **Rafizi:** That is a major government decision that needs to be made by the government, and the source of it will come from JPA, the Public Service Department. And JPA is indeed in the process of continuously reviewing workforce projections from time to time. So far, there is none—so far there is no. no talk of an extension, talk of it doesn't exist. But well, we have to be dynamic, you see, as projections change from time to time. It's the same with pensions, for example; the issue of the affordability and sustainability of the civil servant pension approach was already raised from the early 90s. Meaning actuaries have been saying since the 90s, if you continue like this, one day you won't have enough money to pay the existing pensions, right? But no action was taken, nobody conducted a study, nobody dared to take action because it wasn't very popular. From the 90s, 2000, 2010, now we have to do it, but actually that signaling and those studies were done a long time ago. It is the same with this; JPA is indeed in the process of continuing this because projections need to be made every year. I think when the time comes, when a decision or change is needed, if necessary it will be brought to the cabinet and the cabinet will discuss it. EPF has its own act, and the function of EPF is not something the government dictates, you know, and I think sometimes people think the government dictates to EPF—no, it has its own act.
 
@@ -185,7 +185,7 @@ That is also my approach with the agencies under the Ministry of Economy, and I 
 
 **Faiz:** Pensions?
 
-**Syed Munawar:** Pensions, and EPF too.
+**Faiz:** Pensions, and EPF too.
 
 **Faiz:** So in terms of pensions and also in terms of this EPF, it seems like the current government in terms of finance—because financial Faiz looks at finance—is doing the right thing. But the messaging on social media is very, very negative. Is there a problem in terms of telling it as it is? It gets twisted, and it is very easy to twist. For example, the pension issue, it is very easy to twist: "pensions are abolished, abolished," but it's not for current [pensioners], it's for future ones. In terms of EPF too, even last year, many people talked about the FSA Account 2 example: "that's my money, but to use it I have to borrow from the bank," yeah, using Account 2 money as collateral instead.
 
@@ -243,9 +243,9 @@ And the third thing is the existing industries that have traditionally driven ou
 
 **Syed Munawar:** But I mean it's educational, I think. Hopefully it becomes educational. Yeah, yeah, yeah. That's one of the goals of this podcast too. We want to enlighten the people down there. Okay, thank you Faiz once again.
 
-**Rafizi:** Thank you YB for taking the time. Yeah, yeah, yeah, yeah. We thought an hour and a half, but we've gone for over 2 hours, right? I already mentioned I need to pee. Alright.
+**Syed Munawar:** Thank you YB for taking the time. Yeah, yeah, yeah, yeah. We thought an hour and a half, but we've gone for over 2 hours, right? I already mentioned I need to pee. Alright.
 
 **Syed Munawar:** So thank you to those watching. We'll see you again 2 weeks from now. InsyaAllah. Assalamualaikum warahmatullahi taala wabarakatuh.
 
-**Rafizi:** Bye bye. Assalamualaikum.
+**Syed Munawar:** Bye bye. Assalamualaikum.
 

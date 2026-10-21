@@ -58,39 +58,39 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Azlan Awang:** Thank you very much for inviting me. What we actually—when you launched Putra, we were also worried because in the process of the congress, right, Putra, we could not—and we have been reminding the MTM and the Chamber, we are in the so-called permanent committee. We were permanent members in the steering committee or something, you know.
 
-**Ibrahim Sani:** So we attended several meetings lah with
+**Azlan Awang:** So we attended several meetings lah with
 
 **Azlan Awang:** Some chaired by Datuk Seri Z. MBD chair. The rest is chaired by Asyraf or— So we reminded them that there should be, there should, there must be clear goals and reasonable goals, and some kind of a true north for the Malay agenda. But somehow it was never picked up. So we were worried that when you launched the—I mean the PM launched Putra—we were worried that there would not be any such measurable goals, any definitive quantitative goals. Alhamdulillah, when we saw the 9 goals, we were quite, you know, quite relieved lah. However, there are some, I think there were some goals. I think most of them are adopted from the 12th Malaysia Plan (RMK 12), both the original RMK 12 and your midterm review. And we noticed that there are some reductions in terms of target values and whatnot lah. And namely three, right? So that, that—we are quite familiar. MTEM is quite familiar with the Bumiputera goals and targets and whatnot because we were in a way involved Shared Prosperity Vision (Wawasan Kemakmuran Bersama), right? In the initial stage. So most of the goals were developed by the Malay Economic Action Council. So one of the things that we noticed was the median wage ratio between Bumiputera and Chinese. You dropped it to 0.9 instead of 1 to 1, right? The household to—it's already 0.9 to 1.
 
-**Ibrahim Sani:** So that's understandable because for household income, there is a wealth element, a wealth effect element there, which is not easy to.
+**Azlan Awang:** So that's understandable because for household income, there is a wealth element, a wealth effect element there, which is not easy to.
 
 **Azlan Awang:** But wage—assuming that you have equal qualifications, education, talent, and whatnot—you should be getting that. So that should have been 1 to 1 lah, in our opinion.
 
-**Ibrahim Sani:** The other thing is what is called the contribution, the Bumiputera enterprise contribution.
+**Azlan Awang:** The other thing is what is called the contribution, the Bumiputera enterprise contribution.
 
 **Azlan Awang:** The Bumiputera economic contribution to the GDP. This was in the Vision as well, but the Vision—and then I think it was carried on in RMK 12—was 20% lah. Frankly, that was not something that MTEM was putting forward, you know, because we were pushing more for Bumiputera to have a certain proportion in GDP per capita, because we thought that would be a bit more holistic. But somehow, in the process of them—because we were out when they took it up in the 2018 government, right? We were before that, before they—no, sorry, it was actually during that government that we developed this. It was presented to the Council of Presidents and the PH retreat. So it was approved in the cabinet, sort of, but somehow it was taken out by EPU. The 75%, 70% GDP per capita, because we thought that would encapsulate a very good economic goal lah, both wages as well as gross operating surplus. But they took it out and then they put in place the 20% Bumiputera contribution. And then even that, you reduced it from 20% to 15%. Because that would have some impact, because it's a contribution to GDP. Meaning if you reduce it by 5%, you're talking about 5% in 2035—the GDP could be between 3 trillion to 4 trillion, depending
 
-**Ibrahim Sani:** on the growth you assume.
+**Azlan Awang:** on the growth you assume.
 
 **Azlan Awang:** At 4% growth, you're talking about 3 trillion.
 
-**Ibrahim Sani:** So even at 3 trillion, if there's a 5% drop, you're
+**Azlan Awang:** So even at 3 trillion, if there's a 5% drop, you're
 
 **Azlan Awang:** talking about 5% times 3, which is about 150 billion. Meaning it will bring down the—20% is already tough. If achieving 20% is already tough, right? Because the 20%—what is called the Bumiputera contribution to GDP—is actually a value-added measure which consists of business returns, the gross operating surplus, as well as wages, or employer's compensation. So normally, based on previous establishment surveys, it is about 30%. For both non-Bumiputera and Bumiputera, it's about 30% to 70%, 70% gross and 30%. So we can estimate, once you have that 15% or 20% of the GDP, you can estimate what would be the gross for Bumiputera that you're targeting lah.
 
-**Ibrahim Sani:** And of course, a Bumiputera GDP would consist of the gross operating surplus plus the global wage. Because the wages inside the Bumiputera enterprises are basically—like in the case of 2015, because the latest data available is from 2015, the establishment survey. I wonder if maybe YB Minister already has the latest one, the latest data.
+**Azlan Awang:** And of course, a Bumiputera GDP would consist of the gross operating surplus plus the global wage. Because the wages inside the Bumiputera enterprises are basically—like in the case of 2015, because the latest data available is from 2015, the establishment survey. I wonder if maybe YB Minister already has the latest one, the latest data.
 
 **Azlan Awang:** I think you do, because you were quoting that the present position is 8%, 8.1% right?
 
-**Ibrahim Sani:** So the goals that you calculated from that—when you add, you have to add the overall global
+**Azlan Awang:** So the goals that you calculated from that—when you add, you have to add the overall global
 
 **Azlan Awang:** because inside the Bumiputera enterprises, in 2015
 
-**Ibrahim Sani:** they only paid about 67 billion in wages, right? But most Bumiputera, they are working in multinationals and non-Bumiputera companies and the government, right? So that constitutes the global ni lah, including the 67 billion inside the Bumiputera establishment survey. So, it used to be about 200, 230 billion, 280 billion in 2015, 2018. If you project on a vow basis, right, meaning there's no real new policies on wages, then it
+**Azlan Awang:** they only paid about 67 billion in wages, right? But most Bumiputera, they are working in multinationals and non-Bumiputera companies and the government, right? So that constitutes the global ni lah, including the 67 billion inside the Bumiputera establishment survey. So, it used to be about 200, 230 billion, 280 billion in 2015, 2018. If you project on a vow basis, right, meaning there's no real new policies on wages, then it
 
 **Azlan Awang:** will go up to 800. So you can actually, from there you can actually estimate the Bumiputera GDP. You know more or less the Bumiputera GDP, population growth, the trends or not. So you can actually determine what would be the GDP per capita in 2035. So, because of that main 15% reduction, even though it's a 5% reduction, but it actually
 
-**Ibrahim Sani:** What do you call it, freeze it, it doesn't grow.
+**Azlan Awang:** What do you call it, freeze it, it doesn't grow.
 
 **Azlan Awang:** The Bumiputera GDP per capita as per the 2015 data, it doesn't grow at all. So that's our concern. And of course, being that, meaning it's not a goal that is so difficult. Meaning you just maintain whatever. It's just that on wages you maintain.
 
@@ -98,11 +98,11 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Azlan Awang:** And the latest one just recently was Renville.
 
-**Ibrahim Sani:** You know, they sold their shares and whatnot.
+**Azlan Awang:** You know, they sold their shares and whatnot.
 
 **Azlan Awang:** So, but we don't have the overall data. We do not know.
 
-**Ibrahim Sani:** I mean, the Ministry of Economy will have it, and then I think Teraju also did this.
+**Azlan Awang:** I mean, the Ministry of Economy will have it, and then I think Teraju also did this.
 
 **Azlan Awang:** We speculate a lot. Every time we do a lot of, what we call gorilla economics. Whatever data we have, we try to analyze it so that we can see the big picture without too much error, you know. So that is what we are concerned about. Of course, the wage ratio going from 0.9 to 1.0 is okay, maybe not that big an effect because we're looking at the overall growth.
 
@@ -158,17 +158,17 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Progress is not good enough. So, project milestones aren't— So if we were supposed to disburse 20 million for a project, so far its milestone is only at 10 million. So from the perspective of, say, the Ministry of Economy at a macro level, right, we want to ensure that if in that year we inject 90 billion into infrastructure DE projects, 90 billion total spending. So I think there is actually an issue. In fact, we are looking at the process with KKR, with JKR. In fact, we are currently going through the process for DE reform. But it's more in terms of efficiency. Well, efficiency, right, project delivery. Except for one thing I think that any government department has to navigate. From the private sector perspective, it doesn't matter whether it's Bumiputera or non-Bumiputera, right, when they deal with the government, especially procurement, right, they only see it from their own perspective. So to them, it might be okay. But when the government makes rules, forms, and all these, right, it has to take into account all possibilities. Ha, this is the challenge. Because while 80% are okay, there's 20% that are not okay. That 20% that are not okay is usually what causes the rules to have to cater to them. And I find it is still quite challenging because if we want to, what do you call this, relax or take things into account, we don't account for that risk. If there wasn't that 20% with problems, it would be fine. But when they exist, it becomes a report by the Auditor-General, it goes to parliament, and that's what the public makes a fuss about. And to be fair, if you're a civil servant, right, you are truly stuck in the middle. Which is why their tendency is to ensure that rules and conditions thoroughly cover all of this. But covering all of this is actually to manage the problem of bad apples, which might be 10 to 20%. But the impact might be on the other 80%. So that process is indeed quite challenging. I mean, we are looking at, for example, how we want to balance between regulations, procedures, and all that, so that just because we want to focus on covering that 20% that always causes problems, it doesn't slow down or inconvenience everyone else, right? But in my experience of 20 months, I've actually been shocked by how creative Malaysians are with ways to bypass things. So, and I went through that process. When I designed something, right, I didn't think it could be done that way. So we were like, ah okay, it's like this, like this, like this, right. So a lot of the time in the beginning, my own learning curve, I would usually override my officers. It's okay, do it like this, like this, right. Then later it happens, and then you actually gain wisdom when they say yes, yes, because in government processes this has happened before. Yes. So I think that is also, what do you call it, a learning process of how we manage all this, right. And that's why when discussions happen about procedures, forms, procurement, and all that, it becomes a long process because the ministry or department responsible will say, well, we do it this way because we've been burned before. 1, 2, 3, 4. So someone has to make that judgment call. And that is what we have to look at one by one.
 
-**Azlan Awang:** Can I, can I move away from construction? On other procurement, for example, health procurement, there's a lot, right? What medicines, medical supplies, and whatnot. I want to tell a story about a case. This case is a real case. The person is also from Terengganu. From Dungun. Right? He was, he was, his last position was working as the country manager for Pfizer in Singapore. Right? Now, how do you rate that kind of person, man? I mean, he was based in New York and then finally posted to Singapore. Right, as country manager. Then he resigned. He saw the potential of the drug business. I mean, drugs meaning medicine. Well, medicine.
+**Ibrahim Sani:** Can I, can I move away from construction? On other procurement, for example, health procurement, there's a lot, right? What medicines, medical supplies, and whatnot. I want to tell a story about a case. This case is a real case. The person is also from Terengganu. From Dungun. Right? He was, he was, his last position was working as the country manager for Pfizer in Singapore. Right? Now, how do you rate that kind of person, man? I mean, he was based in New York and then finally posted to Singapore. Right, as country manager. Then he resigned. He saw the potential of the drug business. I mean, drugs meaning medicine. Well, medicine.
 
 **Rafizi:** Pharmaceuticals.
 
 **Azlan Awang:** And he built his own factory. He with other partners including some government agencies invested 30 million. In Malaysia?
 
-**Ibrahim Sani:** In Terengganu. Because medicine is high value, you know.
+**Azlan Awang:** In Terengganu. Because medicine is high value, you know.
 
 **Azlan Awang:** So he doesn't have to be in—
 
-**Ibrahim Sani:** Central areas, right. So Dungun also has an airport and whatnot. So he built it in Dungun. His problem was the problem of what, cronyism in our system. So now if we look at it from the aspect that he is truly capable in terms of his experience and, what was it, during EPP, what was it, ETP, he was involved with what, ETP workshops and whatnot. He made proposals, all sorts of proposals because he came from that kind of background, right. So from many aspects he is very talented. So he has put his money where his mouth is. But it didn't succeed because of cronyism and nepotism or whatever in the system.
+**Azlan Awang:** Central areas, right. So Dungun also has an airport and whatnot. So he built it in Dungun. His problem was the problem of what, cronyism in our system. So now if we look at it from the aspect that he is truly capable in terms of his experience and, what was it, during EPP, what was it, ETP, he was involved with what, ETP workshops and whatnot. He made proposals, all sorts of proposals because he came from that kind of background, right. So from many aspects he is very talented. So he has put his money where his mouth is. But it didn't succeed because of cronyism and nepotism or whatever in the system.
 
 **Rafizi:** Meaning in this case it's APPL. Meaning the supply to the government. Yes, yes, yes. APPL.
 
@@ -198,7 +198,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Ibrahim Sani:** They have no incentive to enter the arena.
 
-**Rafizi:** But that's my point just now. Like I gave the example in construction, in building, there are structural hurdles such as conditions, contract terms,? Or the absence of a supply chain regarding provisions.
+**Azlan Awang:** But that's my point just now. Like I gave the example in construction, in building, there are structural hurdles such as conditions, contract terms,? Or the absence of a supply chain regarding provisions.
 
 **Azlan Awang:** This sometimes, even the best of managers from Renong or whatever, when they enter that industry, they can't manage, you know, because it is just too big. Let me ask another question.
 
@@ -206,7 +206,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Azlan Awang:** But I think this problem applies to everyone. Not just past Renong people or whatever, no. Even ordinary people, meaning they have to, that counting process has to be there and then, you know. Of course, the supply chain, Bumiputeras don't really have it. But when you see, it's one thing like this. It's actually not that all non-Malay or non-Bumiputera suppliers discriminate. But when your track record is not good—
 
-**Rafizi:** You become a credit risk, lah. Ha, you become a credit risk, So the problem is how to, one thing is to improve their skills and management capacity.
+**Azlan Awang:** You become a credit risk, lah. Ha, you become a credit risk, So the problem is how to, one thing is to improve their skills and management capacity.
 
 **Azlan Awang:** One is to create this. So right now it's a question of do we want this to become a reality through market forces, and then beyond through market forces, lah? Meaning no intervention, no nothing. I think it will take a long time, lah. So if in the span of 10 years, 11 years that we have now, we have to plan. But our plan has to be not just government officers doing it. You have to get involved players from the industries and to create some kind of, you know, to put their experience into this and then make sure that. And of course, the people who organize this must also know, like the people who facilitate this process of developing, like I said just now, how to overcome the problem of contract conditions, right, 203? So this really needs the real, capable people who can do this.
 
@@ -218,7 +218,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Ibrahim Sani:** One of the things we want to determine outside of Putera 35, KEB, MEB, and so on, we want to look at how the socio-acceptance of the Bumiputera community is right now toward program designs, toward the behavior of intervention programs, and so on. Outside of economics. For example, in terms of education, although we've talked about pro-grants, there are also education pro-grants. For their first degree, they take a MARA education or JPA. Then for their professional certification, they take it from somewhere else. Then for their PhD, they go and take it from JPA and so on. And then when it's time to pay it back, they don't want to pay it back. I think this is emblematic because if you think about this in terms of education, then every other aspect is like that too. They just want to take, want the crutch. Here we are talking about very sensitive topics. We are talking about this. So isn't this—
 
-**Rafizi:** It's out on almost all portals. It's a headline. But how big, how big is this group? I think not everybody is like that.
+**Azlan Awang:** It's out on almost all portals. It's a headline. But how big, how big is this group? I think not everybody is like that.
 
 **Ibrahim Sani:** It is actually big because my day job requires me to evaluate that, and it is very big. It's big.
 
@@ -234,7 +234,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Azlan Awang:** Yes. So they feel it's better I know I give to zakat, give to what, establish a—
 
-**Rafizi:** Or get scammed. Or get scammed. Or get scammed. So I think, I mean, but I, I am really all for this. What—in fact, within MT we also propose this collection of some 1% or half a percent, half a percent of your income.
+**Azlan Awang:** Or get scammed. Or get scammed. Or get scammed. So I think, I mean, but I, I am really all for this. What—in fact, within MT we also propose this collection of some 1% or half a percent, half a percent of your income.
 
 **Azlan Awang:** Put it into a fund managed by PNB or something, right? Yeah. Everybody contribute, right? And then that can, that can be used. You know, yeah, all sorts of mechanisms that we can propose. But this—but what's stopping us?
 
@@ -270,7 +270,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Azlan Awang:** Finish your thought. Finish your thought. So what about the recognition.
 
-**Ibrahim Sani:** I think Malay people got—
+**Azlan Awang:** I think Malay people got—
 
 **Azlan Awang:** Got to, you got to have a stick and carrot situation, right? I cannot suggest the, the overall solution, the whole, the whole solution, right? But some kind of that kind of, you know, associations and it must, must be there, right? If previously they had secret societies and whatnot to enforce and whatnot, right? Now you have to rely on associations. But now people don't go for associations anymore because the, you know, agencies also provide all sorts of things now. So they, so the role of the Chamber sometimes, because they are also like just now we talked about grants, Gran Pernor and whatnot, right? Agencies provide funding. Agencies provide the handholding. Agencies provide even, even like escalating problems, they do to that extent. So they gravitate to agencies. Which is okay, right? But up, up to a certain point, agencies have protocols. They cannot tell the minister, "we want this, we want, we demand this." They can't. But the Chamber can. Associations can, right? At their own peril, but we can, you know, we don't care, right? So that's what needs to be built back—institutions like the Chamber and the Malay Council which actually have no interests, I mean, we have fought all prime ministers, right? Like MTeM is the people behind the anti-CPTPP, protesting the CPTPP. And I'm one of the founders of that, right? So we don't care what prime minister or what, we feel that this—this not only affects the Malay community, but the community, everyone, the Malaysian community as a whole. But it was not, you know. Anyway, that's another subject that we should discuss. Actually, it is in my question, what's it, but I think there's not enough time.
 
@@ -284,7 +284,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Ibrahim Sani:** Where is the minister-roasting part? We want to roast the minister. Too bad, I'm tired.
 
-**Rafizi:** Roast, roast. Grill.
+**Azlan Awang:** Roast, roast. Grill.
 
 **Ibrahim Sani:** You invite him, but he doesn't get roasted.
 
@@ -292,7 +292,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Azlan Awang:** To really make sure that this is not the same old, same old. It's this, and I think what's important is that the discourse and engagement are important.
 
-**Rafizi:** I'm not saying that—
+**Azlan Awang:** I'm not saying that—
 
 **Azlan Awang:** You on your own are not capable of doing it, but I think it's better that you have more people contributing ideas and experience and insights and whatnot. That's important.
 
@@ -304,25 +304,25 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Azlan Awang:** But I still would hope that it would be substantive. Meaning not just half-hearted or just for the sake of doing it. It should not be, it ought to be that way. At the very least, it should be like that. And for now, with the contribution of Bumiputera enterprises and wage parity, I feel it's still unclear where we are heading. So I hope, and I also hope that Putra 35 has elements of a work in progress. We can add to it, supplement it, and strengthen the outcome and what the end game is. I think that's important because right now, when I discuss with many people, some say, "Where is the eye-catching part? I don't see it yet." See? Maybe they don't understand. But when we saw that okay, you had this, you had that, we said okay, these are components that can be built up. Except that you need—you have to convert that into something that is measurable, whether quarterly, semi-annually, or yearly. And then those initiatives, however many there are—120 or whatever—yes, you have to somehow convert them into something like, if possible, even entry point projects. If possible. Then it's got to be something that is already executable as well. So that process, I think I hope we will get involved and ensure—I think we have eleven years. So if this year we strengthen the baseline, the detail, the granular, and whatnot, I think then of course we have to look at the other non-economic aspects like we mentioned earlier: attitude, mindset, social, the social aspect of it, what's called social capital, and so on. We have to address that also, right? And I think that is actually the responsibility of people like the Chamber, people like other NGOs. That is our responsibility, not the government's. The government, I think your role would be to validate our efforts. Meaning when we do it, you must support us. But I really feel that is our responsibility: how to make sure that there is solidarity, cohesion among Bumiputera, and earnestness to pursue and develop our industries and so on. So I think there needs to be that good, close relationship. We have made this commitment to the Prime Minister actually, that we are here to make sure that whatever agenda you have, we feel comfortable because what I fall in love with is your EWS, your quarterly reports, because I said this is good. And I feel there is much more aggregate data that we can compile, collect, and so on. Like, let's say, taxes on banks periodically so that you can receive it.
 
-**Ibrahim Sani:** But that's not easy to do, you know.
+**Rafizi:** But that's not easy to do, you know.
 
 **Rafizi:** I agree. Because the regulations didn't allow it before. Right. So, but I think that's why this year when the government tabled the Data Sharing Act between government departments, then we get more granular data like that. For example now, if Teraju acts as the secretariat to the Bumiputera Economic Council, you want to get data from SSM to drill down further on Bumiputera, you can't. Because the rules and acts don't allow it. But I think going forward. And that is also what I took note of—how we want to make sure that our assessment, our diagnosis is truly based on the right data, and that role can actually be played by government agencies which are then shared. I mean, take economy for example. We have a more organized direction and benchmark for the country's economy. Because we have a lot of reports either from the government or from like the World Bank, all these really provide the direction, right. But actually for Bumiputera, that thing still doesn't exist, right. So those are the capacity buildings that can actually be done by several Bumiputera agencies that will help the whole ecosystem. So those things, we start with the quarterly wage report. And that is indeed very insightful. It's not just for Bumis, but the overall picture. For example, we know. It tells the true story.
 
-**Azlan Awang:** It tells the true story.
+**Rafizi:** It tells the true story.
 
 **Rafizi:** You can't run away from it anymore. Yeah, yeah. We know for example, you can implement minimum wage however you want, it doesn't solve the overall problem because there is wage compression. And if you're not careful, those in the middle earning between 1,800 and 4,000 are getting more and more pressured, pressured, right. So, that same approach can actually be brought to issues related to Bumiputera as well. And I think we undertake that. Only it's not an easy matter. Even then, we feel sorry for DOSM as they have to call EPF, call SOCSO, call LHDN, right. But I think it's a good start and that matter is also needed for us to chart this Bumiputera issue. We really need to be objective on our diagnosis and hypothesis going forward. Yeah.
 
 **Ibrahim Sani:** But does YB mean that SSM for example, even if they want to share, they can't
 
-**Azlan Awang:** because there is no regulation allowing them to share.
+**Ibrahim Sani:** because there is no regulation allowing them to share.
 
 **Rafizi:** Can't, the act doesn't allow it. I think we can.
 
-**Azlan Awang:** If you buy it. You have to buy it.
+**Rafizi:** If you buy it. You have to buy it.
 
 **Rafizi:** Buy it. Yeah. But you want to buy it.
 
-**Ibrahim Sani:** There are two ways. One. One is we buy it. 15 ringgit, 15 ringgit you can get a 5-year account.
+**Azlan Awang:** There are two ways. One. One is we buy it. 15 ringgit, 15 ringgit you can get a 5-year account.
 
 **Azlan Awang:** But if you ask for aggregate, I mean.
 
@@ -330,7 +330,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Azlan Awang:** Actually for actual, actual. You can. But you have to pay a lot. That's it, right.
 
-**Rafizi:** But if let's say, let's say, let's say, Teraju does it.
+**Azlan Awang:** But if let's say, let's say, let's say, Teraju does it.
 
 **Azlan Awang:** Teraju is a government agency. Yeah. Why should, why should they charge? No, they charge.
 
@@ -348,11 +348,11 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** This was all done internally. How do you manage that?
 
-**Azlan Awang:** We go back at 10 PM every night.
+**Rafizi:** We go back at 10 PM every night.
 
-**Rafizi:** That question was asked for, for,
+**Ibrahim Sani:** That question was asked for, for,
 
-**Ibrahim Sani:** for the viewers, those questions were asked before we started the camera. But that's the part he praised.
+**Azlan Awang:** for the viewers, those questions were asked before we started the camera. But that's the part he praised.
 
 **Azlan Awang:** The reality is I think.
 
@@ -374,17 +374,17 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** That's right.
 
-**Ibrahim Sani:** And less on domestic demand.
+**Azlan Awang:** And less on domestic demand.
 
-**Rafizi:** And this is something that, like the United Nations Conference on Trade and Development—
+**Azlan Awang:** And this is something that, like the United Nations Conference on Trade and Development—
 
 **Azlan Awang:** They are reminded that, look, the export-led strategy doesn't work anymore.
 
-**Rafizi:** Ever since the 2008 crisis, right, it doesn't work anymore.
+**Azlan Awang:** Ever since the 2008 crisis, right, it doesn't work anymore.
 
 **Azlan Awang:** You have to give more focus to your domestic demand. You have to give more focus to your neighboring deep markets like ASEAN and whatnot. The home market.
 
-**Rafizi:** You have to focus on how do you improve your domestic demand? You have to focus on wages, right? There must be some intervention, the role of government, things like that.
+**Azlan Awang:** You have to focus on how do you improve your domestic demand? You have to focus on wages, right? There must be some intervention, the role of government, things like that.
 
 **Azlan Awang:** So I feel that things like this are not political. We, especially since we are non-partisan, right? We hope that with what's been said, we can and must do something serious with this putra as well. What? I hope so.
 
@@ -398,5 +398,5 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Ibrahim Sani:** The battery is only at 33% [sic]! But earlier we heard from Pak Lan, or Azlan Awang, senior fellow from the Malay Economic Action Council, as well as Yang Berhormat Rafizi Ramli, Minister of Economy. And if we can urge viewers to continue following Yang Berhormat Rafizi's social media, follow YB Rafizi on all social media platforms there. That is all. Thank you.
 
-**Rafizi:** Merci. Thank you very much. Thank you, YB. Merci very much. Merci, Vivi.
+**Azlan Awang:** Merci. Thank you very much. Thank you, YB. Merci very much. Merci, Vivi.
 

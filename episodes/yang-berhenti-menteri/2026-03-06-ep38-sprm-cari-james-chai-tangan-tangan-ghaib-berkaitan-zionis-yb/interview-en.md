@@ -48,7 +48,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Waalaikumussalam. Good day today. Greet properly, no dragging it out, just greet properly first. Proper, right?
 
-**Haziq:** Ha, this is proper. Assalamualaikum and salam sejahtera. And salam sejahtera.
+**Rafizi:** Ha, this is proper. Assalamualaikum and salam sejahtera. And salam sejahtera.
 
 **Rafizi:** Salam...
 
@@ -90,11 +90,11 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** For a week?
 
-**Farhan (Pa'an):** A month. A few hundred ringgit a month.
+**Rafizi:** A month. A few hundred ringgit a month.
 
-**Rafizi:** Like renting a car, huh?
+**Haziq:** Like renting a car, huh?
 
-**Farhan (Pa'an):** Like renting a car.
+**Rafizi:** Like renting a car.
 
 **Rafizi:** But yeah, so enthusiastic. I think this is kids, probably.
 
@@ -160,7 +160,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Haziq:** Okay, alright. Maybe we've got one more, hey — waking people for sahur disturbing public peace.
 
-**Rafizi:** Good thing you don't pass by in front of my house, right.
+**Haziq:** Good thing you don't pass by in front of my house, right.
 
 **Haziq:** What, being all good, are you?
 
@@ -182,11 +182,11 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** There isn't one. I — you're the only one here who went to religious school before.
 
-**Haziq:** There isn't. There isn't.
+**Rafizi:** There isn't. There isn't.
 
 **Rafizi:** Even coming from you, we're a bit skeptical. What's the story here? Go check it again, right. Isn't it that during the nights of Ramadan, the most virtuous thing is to do qiamullail. Qiamullail, if done in congregation, we do it at home or at the surau, and qiamullail is calm, peaceful, because it doesn't disturb others, right. It can go on a long time too, you wake up during others' sleeping hours, right, and this nighttime is the time for worship, right, people are praying and everything. This isn't about worship. This is about having fun. This is about — you're supposed to be sleeping, supposed to be productive the next morning for work, supposed to be worshipping — and instead you go out making a ruckus and disturbing others. Neighbors really should file police reports, so the police can go and catch whoever's cleverly doing this. So, losing votes over it, well, so be it. But this isn't our culture, and I do get a bit triggered, honestly, when people like to ride on religion for things that are actually just about their own personal interests. Actually, they're just doing this for the fun of it, but they ride on religion and say, "oh, this is a good deed because we're waking people up for sahur." There's no such thing. If you want to wander around at night making noise, and the way you do it disturbs other people, that's your own business. If you get caught, you get caught. No need to add on some claim that this practice is somehow part of Islam. Because as far as I know — I've lived a long time, I'm nearly 50 years old now, right — this thing never existed before. What culture is this from? You've caught me off guard. You think I can't be an ustaz? I stand corrected.
 
-**Haziq:** Alright. Ha, see, this is really true, right?
+**Rafizi:** Alright. Ha, see, this is really true, right?
 
 **Rafizi:** Disturbing neighbors is haram. I won't go so far as to say haram outright because I'm not qualified to issue rulings, right. But all of us who are sane know, this is all just an excuse for them to go out and play around at night, that's all. So if the police go and disperse them, they'll say, "oh no, we're actually doing something good." That's it. So my advice to the police, brother officers, if you come across them, please disperse them, tell them to go home and do qiamullail there instead.
 
@@ -196,7 +196,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Haziq:** Congratulations Dr. Sam. Two times in a row after being appointed.
 
-**Rafizi:** Oh, really?
+**Haziq:** Oh, really?
 
 **Haziq:** Yes, a week ago.
 
@@ -210,7 +210,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** This is just to remind everyone, right. I'll give a bit more explanation, maybe tomorrow or whenever. But this Sunday, this Sunday, at 9, right, we start at 9.
 
-**Farhan (Pa'an):** 10. 10, eh, 10 o'clock.
+**Rafizi:** 10. 10, eh, 10 o'clock.
 
 **Rafizi:** We'll be launching another new initiative by Ayuh Malaysia — something we rarely do, which is trying to help with laptop or gadget ownership, especially for poor families. Laptops are a necessity now, especially for those who've entered university or beyond secondary school. Even schoolkids need laptops nowadays, right. And laptop prices, even the lowest spec ones, cost at least 3000. Recently, because RAM and storage prices have gone up so much, right, doubled even. So at least 3000, and if it's the cheapest MacBook Air, it's over 5000. So it's expensive. For ordinary people this might not be a big deal, but there are still many families in Malaysia who face financial barriers in accessing laptops and the electronic devices needed for learning. So we don't have the funds ourselves — that's why through Ayuh Malaysia we've developed programs in collaboration with groups that want to help. We're fortunate because there are two groups willing to help. One of them, their business and expertise is specifically repairing laptops. But we don't just want to purely use money, ask for donations from the public, and then hand it over for them to repair laptops, because that doesn't seem sustainable and its impact wouldn't be widespread.
 
@@ -290,7 +290,7 @@ I'd like to thank YB Lee Ching Chong and his colleagues, because we assigned thi
 
 **Rafizi:** Those votes are usually the type that would bring down the government. For example, in the situation of voting on the budget—
 
-**Haziq:** The budget, every year.
+**Rafizi:** The budget, every year.
 
 **Rafizi:** For that one, if you don't vote for it, you really should be expelled. Because not voting for the budget essentially means we want to bring down the government. For that one, if even I didn't vote for the budget, I should really be expelled, right. So for that, there's no choice. Then there are votes where each party has its own respective position. And ideally the party wants people to follow that position, right. But even that doesn't 100% bind MPs to follow 100%. If they don't follow, the Chief Whip — I used to be Chief Whip, you know. I was PKR's Chief Whip, right. If they don't follow, we can summon them and ask them to explain. And there's a third category, which is the free vote. Meaning based on conscience. And there are issues where MPs are allowed to vote according to their own conscience for several reasons. Usually the main reason is that the MP may be from a certain party that has a certain position on a certain issue, but they represent a constituency that strongly opposes their party's position on that particular issue. A good example, if I look back at the UK, for instance Scotland. We have Conservative, we have Labour, and since the 1990s we have the SNP, Scottish National Party, right. So on several issues related to Scottish national identity, or related to devolved power, power devolved to the Scottish Assembly, even though it contradicts the position in Westminster, MPs from Labour or from the Tories usually have different views and will vote against the party line in Westminster because they have to follow the party's position in Scotland, and also the mood of the Scottish people. So there are these 3 categories. For example, in the case of the recent bill, when 10 PKR MPs including myself took the position that we would not support it unless the matters we raised were improved, especially those related to accountability, that falls into the second category. So PKR's current Chief Whip is Dato' Seri Aminuddin Harun. The Chief Whip is usually the most senior MP in parliament. When I was Deputy President before, it was me. Now the Deputy President isn't an MP, so the most senior is either the Selangor Chief Minister or the Negeri Sembilan Chief Minister. So the Chief Whip now is the Negeri Sembilan Chief Minister. If, for example, the PKR Chief Whip wanted me and the other 10 to explain why we took that position, we would give an explanation. But it's not correct to say that an MP must 100% follow whatever is set by the government.
 
@@ -344,9 +344,9 @@ I'd like to thank YB Lee Ching Chong and his colleagues, because we assigned thi
 
 **Haziq:** Let's wait, man. Okay, Webby, let's wait for June to see what happens if there's another parliamentary sitting — we'll discuss it then too. But let's welcome our regular guest who's been waiting a while. Okay, this time it's Tan Sri Azam Baki together with Dato' Seri Anwar Ibrahim. Why aren't his eyes red this time?
 
-**Rafizi:** This is an old photo.
+**Haziq:** This is an old photo.
 
-**Haziq:** Oh, an old photo.
+**Rafizi:** Oh, an old photo.
 
 **Rafizi:** Good move, Pa'an, being sensitive about it. Before the share story broke. After the share story broke, he's been sleeping a bit less.
 
@@ -368,7 +368,7 @@ I'd like to thank YB Lee Ching Chong and his colleagues, because we assigned thi
 
 **Farhan (Pa'an):** Last Friday.
 
-**Haziq:** Last Friday. What was it claimed to be? Bloomberg rate.
+**Farhan (Pa'an):** Last Friday. What was it claimed to be? Bloomberg rate.
 
 **Rafizi:** No, no, no, no. What's significant about Friday morning. If you look at the accusations made against Toh Puan Naimah, the timeline — that's old, that's from 2025, from July 2025, remember, about a year ago. Why suddenly a police report, suddenly an investigation, suddenly a press conference by the IGP, last Friday, early in the morning? Why?
 
@@ -448,7 +448,7 @@ I'd like to thank YB Lee Ching Chong and his colleagues, because we assigned thi
 
 **Haziq:** And a lot of people are angry too. All busy about it. Who's angry? Ceplos.
 
-**Rafizi:** Ceplos, as usual.
+**Haziq:** Ceplos, as usual.
 
 **Haziq:** Everyone's so busy attacking and so on. Actually, the one MACC should be investigating is Anwar. Because after all, he's the chief negotiator, he's the one who met [them] twice before, and YB was only following up. Maybe YB would like to comment a bit on that.
 
@@ -486,11 +486,11 @@ I'd like to thank YB Lee Ching Chong and his colleagues, because we assigned thi
 
 **Rafizi:** 10 billion, right? Over how many years? Launched in 2023 until 2030. So minus 2023, that's 4, 5, 6, 7, 8, 9, 10 — 7 years, 10 billion. 1 billion a year. 1.1 billion a year, and none of you made a fuss about that. What the government had to provide to Tengku Zafrul at that time, for whatever purpose — we're not even too sure. So that's why when we told Dato' Seri Anwar Ibrahim that we needed 100 million a year to build this high-level semiconductor industry, he had no problem with it.
 
-**Haziq:** Go ahead. Please, please, please.
+**Rafizi:** Go ahead. Please, please, please.
 
 **Rafizi:** So that's why if anyone says this is all corruption because it was rushed, Tan Sri Azam Baki should have called in Dato' Seri Anwar first, ahead of everyone else. Because if you were in my position, why would I go through all the trouble of negotiating, doing something this incredibly complicated, making an agreement within such a short timeframe, if I knew the PM wouldn't agree to 1 billion? Because it would go to cabinet, and in the end if the PM didn't agree, it would be a waste of effort. The problem we had, and what upset us at the time, was that as usual, Anwar Ibrahim would agree with us behind the scenes and tell us to proceed. This is fine, this amount is fine, everything. But when it reached cabinet, even though he'd agreed, when it got to cabinet, Zafrul disagreed because he said we wanted to do it.
 
-**Haziq:** This is our job.
+**Rafizi:** This is our job.
 
 **Rafizi:** Why take this away from us? This isn't the Ministry of Economy's task. Yet Anwar Ibrahim was the one who instructed it. And I was half expecting Anwar to say, no Zafrul, this one — this task has already been — since all of this originated from the Ministry of Economy, from their idea, they're the ones who brought it in, why are you so eager to get involved? You know, a good leader would have said that — after all, I'm the one who gave these people the instruction to do it, right? But that never happened. When that never happened, that's what caused the objections from MITI and MOF. We have to remember, Datuk Seri Amir Hamzah and the senior officers at MOF — before Anwar Ibrahim and Amir Hamzah, who was the Finance Minister? Zafrul. So their politics is such that whatever MITI agrees with, MOF usually supports, because Zafrul was previously the Finance Minister. So you can already see the whole pattern there. So when Zafrul disagreed, MOF was uneasy too. And even so, we went through the entire process until it was approved. If it hadn't been approved by cabinet and everything, do you think Anwar Ibrahim could have gone ahead and launched it? Do you think MIDA could have signed the agreement? If not, why would Tengku Zafrul bother rushing around to hold press conferences about it? So that's why, if the question is that this matter is so serious that they need to find a skinny Chinese guy named James Chai to resolve this investigation and settle it immediately — because by now we know there's no element of gratification, there's no element of money at all — there's only the claim that this was rushed. And the connotation they're trying to give is that because it was rushed, it harmed the country. Now, if Anwar Ibrahim and the current new cabinet suddenly realized, oh no, this agreement is harming the country — what should they have done?
 
@@ -542,7 +542,7 @@ I'd like to thank YB Lee Ching Chong and his colleagues, because we assigned thi
 
 **Rafizi:** This situation puts AM in a difficult position. They already have an agreement with the Malaysian government and a 10-year commitment to fully develop the front-end semiconductor industry in Malaysia. They've already started mobilizing and bringing investment here — they've already started opening offices, bringing their engineers here, and have collaborations with universities, many different facets of development they're carrying out. Therefore they have a commitment with the country of Malaysia that needs to be managed with the government. That government is Anwar Ibrahim. Now if it's at the Ministry of Economy, it's Akmal; if it's MITI, it's Johari Ghani. So they're well aware that the AM issue has been dragged into becoming a political weapon to destroy someone named Rafizi Ramli. So they can't interfere, they can't say "actually it's not like that." That's also why, if MACC, if Azam Baki genuinely wanted to investigate AM properly, I could teach them an easy way without making drama and without chasing after this skinny Chinese kid. For example, the first group they need to take statements from and investigate is AM. And they could work with Bank Negara to trace the flow of money — is there or isn't there money from AM going to the accused, whether me or James? Check my bank account, check James's bank account. Then look at asset ownership — has there been a sudden spike in asset ownership or not? James's Persona car, and me, I'm still renting a house until now, no increase in assets over the past year. So AM would easily cooperate, check everything, and from there if there's really no evidence of money flow, it should end there. But in the current situation they can't interfere. But if this matter reaches court, they'll make decisions actually out of ego — someone in power like Azam Baki or Anwar, their view is "I'll teach him a lesson." You don't know, in the corridor of power, this sentence — "teach him a lesson" — is something commonly said. Because they think this kid thinks he's too brave, let's teach him a lesson. So that's really the mentality of people in power, whether it's authorities, enforcement agencies, agencies like MACC, police — "let's teach him a lesson" is something very common in their mentality, among major political figures, Prime Ministers and all. So actually he just wants to settle the score.
 
-**Haziq:** Wants to teach a lesson.
+**Rafizi:** Wants to teach a lesson.
 
 **Rafizi:** So if they prosecute anyway, even without evidence, if it looks too stupid, they still want to prosecute. And that's up to me to subpoena AM. So AM will get subpoenaed. Whether AM wants to continue with that agreement or not, the impact on the government and the country once it becomes a court case. Because once it becomes a court case, when I subpoena AM to become a witness and grill AM thoroughly, and this becomes court record, what impact will that have on AM at the international level? That's something we can't say for sure.
 
@@ -558,7 +558,7 @@ I'd like to thank YB Lee Ching Chong and his colleagues, because we assigned thi
 
 **Farhan (Pa'an):** Okay, so I want to add a bit. Another reaction that friends have given me personally — I have many friends who are overseas, many who are still here but planning to go overseas. So the consensus in that group is they say, "don't come back to Malaysia." Those outside Malaysia say, "I've told you already, who told you to stay here, something like this can still happen. You think reformasi is real, whatever. Emigrate." Those in Malaysia are more of the type who actually feel, "we really have no hope anymore, so might as well we get out."
 
-**Rafizi:** So when they see—
+**Farhan (Pa'an):** So when they see—
 
 **Farhan (Pa'an):** A talent that exists in Malaysia, who has sacrificed and worked hard for the country with a spirit of patriotism and all that, still gets treated like this. I think many of us — we talked about Gen Z and millennials last week — many from the millennial and Gen Z generation now have started to, maybe I don't know whether this is the right word, but feel disenfranchised with this whole patriotism feeling. More and more people, especially my generation, feel like why should I stay on—
 
@@ -572,7 +572,7 @@ I'd like to thank YB Lee Ching Chong and his colleagues, because we assigned thi
 
 **Rafizi:** We can't determine right now the exact level of support for everything. And even if there's a correlation — for example, a drop in support for the government within a month — correlation is not necessarily causation, and it's not certain it's due to this issue. So the best data we have so far is looking at reactions on social media. And that reaction is bad. Meaning, this issue is very emotive, especially to Gen Z and voter groups that have traditionally voted PH — non-Malays, urban groups, educated groups. Because they can relate to it. The group that gave a lot of support to the reform movement back then, among the Malays, was this educated group, professional group. The group that, 20, 30 years ago, was in the same position as James — they made the choice to stand up and be counted. They had the option not to bother with all this, their jobs were already good, they wore nice clothes, big salary, why bother? But they were the few ones who felt it's my moral duty to do something. So when it turns out like this, the older ones can relate because they could have felt the same way, seeing the disappointment happening now with the reform movement. The younger ones can relate because of age, because of aspirations, all that. So I wouldn't be so bold as to say that this issue alone is causing people to migrate or votes to drop — I think that's something we need to watch. But every major political change needs an emotive story, and that emotive story usually involves the smallest person. If you look at the Arab Spring back in 2010, where did it start?
 
-**Haziq:** What was it called again?
+**Rafizi:** What was it called again?
 
 **Rafizi:** Feels like so long ago. Where did it start?
 
@@ -612,4 +612,4 @@ I'd like to thank YB Lee Ching Chong and his colleagues, because we assigned thi
 
 **Rafizi:** Okay, good night.
 
-**Haziq:** Have a good Ramadan. Assalamualaikum.
+**Rafizi:** Have a good Ramadan. Assalamualaikum.

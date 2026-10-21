@@ -63,7 +63,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Dan — memang beria. Yalah, dia bukan salah staff ke apalah. Tapi maksudnya, kadang-kadang pun perangai orang kita juga, perangai pengguna lah kan. Kita nak sangat benda-benda yang kira lebih daripada yang lebih. Dan makanan ni dia nak bersaing tu dia jadi payah lah kan. Jadi orang kita sanggup bayar premium untuk makanan. Bila benda tu dah jadi perangai pengguna, maka jadilah orang buat macam-macam kritik. Tapi ni agak terlebih lah pendedahan makanan jual sate kan, tiga cucuk. Yang itu apa tu, kertas ke apa tu?
 
-**Haziq:** Macam kertas memasak.
+**Farhan (Pa'an):** Macam kertas memasak.
 
 **Rafizi:** Kertas memasak. Nantilah mungkinlah saya cuba buat dekat Kesom.
 
@@ -75,7 +75,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Yang ini sebenarnya kan kita gelakkan restoran yang beria-ia buat pendedahan makanan untuk 3 cucuk sate ni kan. Tapi sebenarnya dia melambangkan masyarakat, kerana permintaan pengguna itu yang membolehkan benda ini. Saya tak tahu orang lainlah, tapi makan ni adalah fisiologi bagi saya — makan sedap sepanjang masa ini adalah benda yang tak masuk akal. Kalau kita ada 7 hari seminggu, kita perlukan asalkan cukup karbo, cukup protein, tak keracunan makanan. Cuma dalam kes saya tak cukup vitamin lah sebab saya tak makan sayur kan. Jadi asalkan cukup, itu fisiologi untuk kekal sihat dan meneruskan hidup. Sekali-sekala makan sedap tu okeylah. Tapi kita dah jadi masyarakat pengguna yang orang jangka seolah-olah setiap kali kita makan tu kena fine dining. Dan dia menimbulkan segala jenis perkara lain — soal harga makanan, soal jangkaan pengguna — dan itulah yang membolehkan restoran-restoran, peniaga-peniaga cuba nak memanfaatkan perangai pengguna itu dan nak mencipta nilai tambah yang premium. Cuma jadinya orang kata bayar premium tapi dapat 3 cucuk sate lah. Jadi ia cerminan masyarakat jugalah, sebagai ganjaran lah kot — penatlah hidup.
 
-**Haziq:** Banyak lagi benda lain boleh jadi ganjaran.
+**Rafizi:** Banyak lagi benda lain boleh jadi ganjaran.
 
 **Rafizi:** Ganjaran memang kena diberi, tapi kalau ganjaran melantak makan sedap tiap-tiap hari, itu tak bagus tau. Okey, kita tengok seterusnya.
 
@@ -145,7 +145,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Haziq:** PKR, Parti Keadilan Rakyat. Jadi saya tak ada soalan spesifik lah, tapi banyak perkembangan-perkembangan yang berlaku dalam PKR yang kita tak pasti dia berkait atau tidak. Pertama, sudah pastilah dah ramai orang awam mencari ke mana-mana kelibat Timbalan Presiden Parti Keadilan Rakyat. Jumpa Mesut Ozil.
 
-**Farhan (Pa'an):** Oh, dia jumpa Mesut Ozil.
+**Rafizi:** Oh, dia jumpa Mesut Ozil.
 
 **Haziq:** Itu satu. Kalau satu lagi, tiba-tiba jumpa sewaktu mempromosikan konsert Siti Nurhaliza. Kemudian dalam pada itu ada pula kisah adakah benarkah PM tak salam Saifuddin? Dan yang paling pelik dan semua orang macam tak tahu apa bendanya adalah tiba-tiba keluar kenyataan daripada Lembaga Disiplin Parti Keadilan Rakyat yang biasanya dikatakan nak pecat dia ni lah, ataupun pecat orang-orang lain. Jadi apa pandangan YB pasal ini?
 
@@ -321,7 +321,7 @@ Kemudian bila kita masuk kerajaan, salah satu bangkangan kepada PADU yang mungki
 
 **Rafizi:** Dalam ni. Aku takut nanti nak tangkap.
 
-**Farhan (Pa'an):** Tiba-tiba ada SPRM pula kan.
+**Rafizi:** Tiba-tiba ada SPRM pula kan.
 
 **Rafizi:** Tiba-tiba Haziq tak guna, dia dah susun dengan SPRM datang rate podcast ini. Eh, tak mungkin. Okey, cukup dengan anak muda ini.
 

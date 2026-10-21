@@ -144,7 +144,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** No, no. This was earlier — this was the first one we did. At that time we didn't even do it live, it was too early, there was no livestream.
 
-**Haziq:** Or was there a livestream?
+**Rafizi:** Or was there a livestream?
 
 **Rafizi:** There was. There was, there was already livestreaming right? At that time I remember it was around the second month, January 2023 or so — very early, before the budget even. So a reporter asked about Johor and all that. I'm the type who doesn't sugarcoat things, I speak my mind. So I told them what Johor actually was — because someone asked at the time, members of the public who came, media who came, it was a member of the public who asked, I recall. He asked what the Ministry of Economy's, the federal government's, plans were for Johor. So I let slip what was in my head, having just been minister for a month. I said Johor actually has huge potential because Johor is next to Singapore, so Johor has resources that, if matched with Singapore's needs, could create a very good economic symbiosis. But I said the problem before this was that we developed the Iskandar region purely to sell land and buildings. Whereas if people are doing business, they don't just think about cheap land or buildings — they need workers, and more importantly, Malaysia and Singapore are two separate countries. So how could a company in Singapore open a factory or an advanced research center in Johor? Even though Johor to Singapore is really just half an hour away, they're two different countries — every day you go out you need your passport stamped, then if goods need to go in and out, there's customs declarations for everything. That's why it hasn't worked, I said something like that. So my view was, if we really want to develop Johor, we need a special economic zone so that, say I'm in Singapore, the administrative efficiency in Johor and all that bureaucracy gets resolved, so that if I'm a company in Singapore, I can have my headquarters in Singapore but operations in Johor as if it's within the same administrative region — we need to harmonize everything. And sure enough, the next day, all the media reported "Rafizi proposes a Johor-Singapore special economic zone." I got scolded left and right after that — as usual, we had a government and a Prime Minister before whom ministers weren't allowed to just speak freely. So I thought, fair enough. But just a few months later, I think mid-2023, we needed to hold that JMC meeting, the Joint Ministerial Committee. And what I said wasn't some clever formula — it was just common sense, something that should have happened because people forget how close Singapore actually is to part of southern Johor — it's roughly the same distance as Ampang to Shah Alam, or Ampang to Petaling Jaya. If you live at the Johor Causeway, it's just one kilometer away — I sometimes walk five kilometers a day, so I could commute daily between Singapore and Johor. So if we're here, we could have an office in Ampang and a factory in Shah Alam or a factory in PJ, for example. I mean, that's essentially what Johor and Singapore is. So it's just plain common sense. But well, politics and bureaucracy, you know. So I took my time, there was a meeting at Datuk Onn Hafiz's house, the Menteri Besar. That meeting was a planning meeting for the JMC that would take place between Malaysia and Singapore. But by that time I'd learned government bureaucracy — even though it was federal jurisdiction, you still had to inform the Menteri Besar. So I went to Johor, to the official residence of the Menteri Besar of Johor, in the morning there was a breakfast meeting with my officers and him. So I said: the Ministry of Economy will be changing our approach regarding the JMC, and our plans with Singapore. Our plan is we don't want to waste time, spend hundreds of thousands of ringgit on one meeting, then have officers spend months finalizing minutes, finalizing the agenda, just to discuss building a joint park. That's what they were going to discuss — building a small joint park involving two countries. I was like, oh my God. So I told him, the potential really requires a new entity, and that entity — the federal government and the state government need to look beyond just property matters — it's about people's movement, goods movement, harmonization of customs so there's seamless movement, no need for double or triple handling. It's like what, similar to—
 
@@ -170,9 +170,9 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Farhan (Pa'an):** 7 January 2025. It slipped a bit too, by a year.
 
-**Rafizi:** Almost 1 year.
+**Farhan (Pa'an):** Almost 1 year.
 
-**Farhan (Pa'an):** Almost 1 year, right.
+**Rafizi:** Almost 1 year, right.
 
 **Rafizi:** So it was really painful. The whole process was painful because this had never been done at that speed. Usually negotiations between two countries can take 10 years and still not be resolved — dragging on and on. So we did it in a very, very short time frame. That's why there's going to be another MACC case coming — that the JS-SEZ was rushed through hastily. Of course it was. Actually everything I worked on before was within a span of 4-5 months, 4-5 months, 4-5 months. Because we wanted to build the economic narrative. When you want to build that economic narrative, you have to move fast. We can't take 7, 8 years just to make one announcement. So in the end, once everything was signed and approved, guess what — MITI brought a paper to cabinet saying that from then on, they would be the ones responsible for the JS-SEZ.
 
@@ -186,7 +186,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Farhan (Pa'an):** This is a question for you, because—
 
-**Rafizi:** I remember someone floated—
+**Farhan (Pa'an):** I remember someone floated—
 
 **Farhan (Pa'an):** —the idea also between Malaysia and Thailand. Was it because of JSSEZ or did it already exist before?
 
@@ -202,7 +202,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Haziq:** Okay, speaking of MITI, we have a former MITI Minister.
 
-**Farhan (Pa'an):** Pandan intern. Eh, Pandan intern. Even a football team can flip-flop on which side to support.
+**Haziq:** Pandan intern. Eh, Pandan intern. Even a football team can flip-flop on which side to support.
 
 **Rafizi:** But he answered, he tried to answer. He said he had an agreement with the Ampang AMK chief to swap jerseys.
 
@@ -222,7 +222,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Ha, but that's the latest story — it started at 8.5 million, then a story about the late Tun Daim's wife, Toh Puan Naimah, giving money to contest in the Johor and Melaka state elections, eh, and Negeri Sembilan too, saying, "oh, this is because he has a backer, a funder for all this." But among all the slander, the funniest slander is that Rafizi is using PADU data to sign up members. If I used PADU data — today I recall, today I recall the joint membership is around 23,000-something.
 
-**Haziq:** Oh, 23,000-plus. It's slowed down.
+**Rafizi:** Oh, 23,000-plus. It's slowed down.
 
 **Rafizi:** It's slowed down, the FOMO has died down, it's slowed to 23,000. But I think, God willing, after 1 month, joint membership will reach 30,000. Which is okay, quite encouraging. But if I used PADU data, joint membership would be 34 million! Not 23,000. It's nonsense — I don't even have PADU access, and this is all government data. And it's very insulting to people on the fence who are genuinely enthusiastic about becoming joint members, to the point where I become customer service getting scolded every day — "my registration number hasn't come through yet, I haven't been approved yet." So, I don't know, does anyone actually believe this, or is it just their own echo chamber?
 
@@ -336,7 +336,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** — those unintended consequences have started to show.
 
-**Haziq:** For example, data centers.
+**Rafizi:** For example, data centers.
 
 **Rafizi:** Data centers that people are complaining about. People complain because data centers are everywhere. And in a situation where Johor has resource shortages, especially water. Whether people have started to see that there is the other side of the coin of JSSZ and also of economic growth. All these investments, we haven't gotten anything else from them yet, right. But at the same time it's starting to have other effects — water resources is one matter. Prices become high because growth comes with inflation. Right, stronger growth means stronger buying power. Stronger buying power will cause prices to rise. It's just that Johor is unique. If that stronger buying power is from outsiders coming into Johor — whether people from Singapore, people from the Klang Valley, or people from China, foreigners coming to work — that causes rent to rise, that causes house prices to go very high, right. So all these things right now, I don't think anyone has measured them and can conclusively say it's white or black. But the economic narrative, which does become the deciding factor or the most important factor influencing voters, is actually a double-edged sword for everyone. Same as at the federal level, right.
 
@@ -428,7 +428,7 @@ So I think once we start announcing candidates, I hope all voters, Malay and non
 
 **Rafizi:** Ha, that's right, it's not a good start, is it. But the last one week has been so bad. Over 3 days, every day I've only been sleeping on average 2-3 hours. Gosh, it hurts so much. Okay, alright. So that's it. Let's — see the voters in Pandan and around Ampang. We'll start the Kaunter Bersama Rakyat at Pasar Pagi Taman Muda Ampang tomorrow, at 8:30am I think, I'll be there until noon. Then I'll rush to Johor. So see us in Johor at Danga Bay starting at 8pm for the state tour, the Kancil tour. And apart from me and Nik, there will be a special appearance. Of course the Bersama president will be there, right? Yes, the Bersama president.
 
-**Haziq:** The Bersama president will be there.
+**Rafizi:** The Bersama president will be there.
 
 **Rafizi:** And we also have 2-3 new faces that we'll start introducing from one tour to the next. If people think it's just Rafizi and Nik — every tour will have new faces, new faces. And see us in Melaka on Sunday, also 8pm at Hotel Seri Malaysia.
 

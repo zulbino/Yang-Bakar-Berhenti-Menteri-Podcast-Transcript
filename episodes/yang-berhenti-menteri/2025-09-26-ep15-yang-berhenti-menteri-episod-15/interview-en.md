@@ -64,7 +64,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Pranks back in school, for example during April Fool's, waking up in the morning, someone would take the dipper to go shower at the hostel, so they'd put toothpaste in the dipper or tie up someone's sports shoes. Because it was like a drill, you only had 4-5 minutes to get ready before moving to the next activity. So people would get angry, but it usually just involved toothpaste and that could be called a prank. Or people would wait behind the door, open it and scare you with a "ghost" jump. This here isn't a prank — this is causing injury, this is bullying. He might say it's bullying only if it's not consensual, he won't admit it's bullying. But if joking around like this goes beyond limits — if he causes injury, and worse if the kid has long-term injury and later can't have children? So we don't know who's the outrageous one here — the victim or the group who did it together. But they should be suspended already.
 
-**Haziq:** All of them got in trouble?
+**Rafizi:** All of them got in trouble?
 
 **Rafizi:** 7.
 
@@ -84,7 +84,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Right, UMNO doesn't agree. This is Hafiz Sabri, who already went into "outrageous" the other day — he's in again.
 
-**Haziq:** He's in "outrageous" twice.
+**Rafizi:** He's in "outrageous" twice.
 
 **Rafizi:** YB — this is the Manjoi state assemblyman. Getting in twice is a record.
 
@@ -224,7 +224,7 @@ So I think the best approach is to cool down, look at the overall picture. And I
 
 **Rafizi:** English maybe. Oh, English. So he really doesn't have the Malay term, really. There is one, but mostly it's that.
 
-**Haziq:** Okay, well put.
+**Rafizi:** Okay, well put.
 
 **Rafizi:** Collecting SD (statutory declarations).
 
@@ -298,7 +298,7 @@ So with things like this happening, I think the impact isn't only in Sabah, but 
 
 **Rafizi:** Sodium-ion batteries already exist.
 
-**Multiple speakers:** They already exist. This is about scaling up commercial operations.
+**Rafizi:** They already exist. This is about scaling up commercial operations.
 
 **Haziq:** Yes, yes. And with current batteries, we're usually familiar with lithium-ion — so actually both have their pros and cons. But with this first commercialized sodium-ion battery, YB, will it be a bit of a game changer, especially for renewable energy?
 
@@ -394,7 +394,7 @@ Before we ask about merit, KPI, transparency, governance — actually what's the
 
 **Rafizi:** What was that thriller before, the police squad one? What was it — wasn't that the Yusof Aslam one? Gerak Khas.
 
-**Haziq:** Gerak Khas. But that's not a thriller.
+**Rafizi:** Gerak Khas. But that's not a thriller.
 
 **Rafizi:** Right, not a thriller. But look, like I mentioned earlier, starting with Korea, a lot of their content started with thriller stories first, because it's human instinct to like suspenseful stories — who killed this, why did this happen, mystery. We don't have mystery stories, right, it's hard. So if we look at the agencies that exist and the arrangement in terms of policy and so on, most of it has already reached the second, third layer — actors and so on. And even what we have there is far behind compared to, for example, becoming an actor in Korea, it's so difficult — they have to go to university, trained from young. Same with Bollywood, Hollywood, Poland, the "Mat Salleh" (Westerners) too. Look at those Western actors, do you think they were born naturally good at acting like that? It's hard, you know, they have to go to drama school and most of them are actors from school — every school has a play. When I did my A-levels in the UK, the biggest event at school every year was the play. And the guy who was the rugby captain, he was also the one who played rugby, he was also the one who could sing opera, he was also the one who could act, because from early on he was already like that. Our schools haven't reached that level. So don't talk about actors and such, we're already behind there. But the gap I think is huge is related to script writing, screenwriting — the idea isn't enough yet, and creative ideas in Malaysia haven't reached that level. So as for KPI, there really isn't one, merit really doesn't exist. And even the arrangement of agencies, I don't think has reached the level where we're capable of producing great scripts, that become stories, that can then get good producers, good directors, good directors, good actors, good styling, good cinematography. What are you going to shoot, if there's no story, right?
 

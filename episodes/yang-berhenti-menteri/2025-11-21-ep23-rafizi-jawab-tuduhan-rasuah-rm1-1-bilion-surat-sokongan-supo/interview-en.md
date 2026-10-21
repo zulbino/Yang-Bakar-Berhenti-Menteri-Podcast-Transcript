@@ -76,9 +76,9 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Haziq:** Sorry, it's not show-offy.
 
-**Rafizi:** Maybe not show-offy then. Okay, let's look at the next one. I'm scared this one isn't show-offy either.
+**Haziq:** Maybe not show-offy then. Okay, let's look at the next one. I'm scared this one isn't show-offy either.
 
-**Haziq:** He's already scared.
+**Rafizi:** He's already scared.
 
 **Rafizi:** Okay, next.
 
@@ -86,11 +86,11 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** TM cables don't electrocute you to death, do they?
 
-**Haziq:** That's the thing. Actually, if there's anything "beria" about this, it's not really about the cable theft itself.
+**Rafizi:** That's the thing. Actually, if there's anything "beria" about this, it's not really about the cable theft itself.
 
 **Rafizi:** Stealing cables is a common thing everywhere. True. But the TV3 news bulletin wanted to emphasize the "law graduate" angle. Clickbait.
 
-**Haziq:** Ha, clickbait is clickbait.
+**Rafizi:** Ha, clickbait is clickbait.
 
 **Rafizi:** Keng Yaik.
 
@@ -142,7 +142,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Yes, in Kemaman, right?
 
-**Haziq:** It's just, I actually don't know if there's a law about this or not.
+**Rafizi:** It's just, I actually don't know if there's a law about this or not.
 
 **Rafizi:** I'm not sure if it's allowed or not to do that.
 
@@ -158,7 +158,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** There must be demand for it. "Oh, isn't it great seeing him there."
 
-**Haziq:** To the point where it's so great that our elected representative himself went to put out the fire.
+**Rafizi:** To the point where it's so great that our elected representative himself went to put out the fire.
 
 **Rafizi:** But actually, aside from the legal question, ethically this should apply even to ordinary citizens — once there's already a professional party, one who's entrusted and trained, we shouldn't interfere. In other countries, action has indeed been taken on this — occasionally there really are prosecutions because this can be charged as obstructing a public officer's duty.
 
@@ -178,9 +178,9 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** That's still quite a while. Yeah. But we don't know where Tan Sri Muhyiddin's son-in-law lives, right? People say he lives in Dubai.
 
-**Haziq:** Haziq doesn't know.
+**Farhan (Pa'an):** Haziq doesn't know.
 
-**Farhan (Pa'an):** Haziq doesn't know, oh my God.
+**Rafizi:** Haziq doesn't know, oh my God.
 
 **Rafizi:** I'm not a member of congress. This should have been researched earlier. People say so, but there's no proof.
 
@@ -234,7 +234,7 @@ So early in my time as minister, we had to make a decision — whether to shut i
 
 **Rafizi:** He's not visible at all, right? He doesn't know. Cut out of the corner entirely.
 
-**Haziq:** He's not there, wasn't invited at all.
+**Rafizi:** He's not there, wasn't invited at all.
 
 **Rafizi:** I don't see him at all, right? That's the state of things in Malaysia. True enough.
 
@@ -250,7 +250,7 @@ Okay, so when you want to make a chip, the chip has a blueprint, an architecture
 
 But there was a company founded by experts from Cambridge University. Its name is ARM. Actually the company has been around since the 70s, but it didn't take off until — I think the late 90s — because the first model was dominant. Because companies like Intel, AMD did their own research, developed their own chips, then manufactured them themselves, assembled them themselves, or sold them to laptop and PC makers. In the 90s we started seeing a new phenomenon — gadgets, starting with smartphones. That's when a second model for making semiconductor chips began, where the company that creates the chip — makes the whole blueprint, but actually doesn't manufacture. It sells its architecture, and then other people manufacture it, other people sell it. It's not involved at all.
 
-**Haziq:** It focuses on R&D and just does the IP.
+**Rafizi:** It focuses on R&D and just does the IP.
 
 **Rafizi:** It sells that IP to other companies, then takes a royalty on every chip sold. Now that model is the dominant one. Because the first model, they got too comfortable because they felt they already had a captive market. So their R&D was slower compared to what ARM did. And from the start, ARM's advantage was that they focused on energy-efficient chip technology so it doesn't overheat. So you can pack more in, it doesn't overheat, it doesn't use much power. So chips designed by ARM are very suitable for gadgets like smartphones. So fast forward now, 20 years from the late 90s, now in the 2020s, ARM chips are in phones, in cars, in all IoT gadgets — in phones, 95% of all chips are ARM.
 
@@ -338,7 +338,7 @@ Okay, let me wrap up this story. It was happy, it had all started, it became wor
 
 **Rafizi:** By their paymaster, and that paymaster has access to government information. That's why I want to remind Dato' Seri Anwar — this is a different era, not like before. And because their paymaster isn't very smart either, they're not even involved in matters like this at all, they don't take it into account, they don't do due diligence and cost-benefit analysis, that this matter could actually embarrass the country again. Like I said, it will make Malaysia the laughingstock of the world. About 6, 7 months ago, Malaysia was praised for being the first country with the Silicon Vision ambition to produce its own chip, its own GPU, and that aligned with Malaysia's situation of having AI data center infrastructure.
 
-**Farhan (Pa'an):** It looks good.
+**Rafizi:** It looks good.
 
 **Rafizi:** Everyone said Malaysia has a plan. 6 months later, Malaysia gets laughed at because a cyber trooper sabotaged the country's own plan by turning it into a major court case.
 
@@ -426,7 +426,7 @@ So that situation will become quite controversial. Because, for example, in term
 
 **Rafizi:** Within a week.
 
-**Farhan (Pa'an):** Within the period after dissolution.
+**Rafizi:** Within the period after dissolution.
 
 **Haziq:** Oh, within the period after dissolution.
 
@@ -480,7 +480,7 @@ So that situation will become quite controversial. Because, for example, in term
 
 **Rafizi:** This one is also pitiful, actually. Right, meaning underage here is under 17, under 16? Our requirement is that workers allowed to work must be 16 and above. Still in school but maybe they're still in Form 5, because under compulsory schooling law it's supposed to be until — but maybe it hasn't been enforced yet. So meaning they're either under 16 or whatever. There must be something wrong with our system that maybe YB is seeing, that we're not seeing.
 
-**Haziq:** For other individuals.
+**Rafizi:** For other individuals.
 
 **Rafizi:** Okay, and legally the problem is that if they use someone else's identity, legally they could be subject to action. But that's the thing — especially those who've already dropped out of school, some work part-time too. This is actually something we've been trying to find a solution for, and there's already a pilot project. Some people disagreed when I said we should — and this has already become policy in the 13th Malaysia Plan — that schooling should end at age 16. That's one thing. Because our education system should have already begun gradually changing to take into account not just the economic needs of the country and society, but also the inclinations of young people. Young people are more inclined to work earlier. But our education system still requires schooling until Form 5. But some will say, don't we already have TVET? Have you noticed what TVET is like? Still studying. So the way our schools work, take the SPM — oh, the smart ones get scholarships to go to university, and so on. The less academically inclined, ah, off you go to a training institute to do TVET, as if they're "not smart." Actually, if their SPM results aren't that excellent, it might not be because they're stupid. Maybe they've simply lost interest in being in a classroom. What's the point of sending them for 3 more years in a classroom? Then they come out with a TVET certificate or diploma, and it's still hard for them to find work. They struggle through 3 years having to do all that, but end up possibly not getting a job. They see their friends who are already working and already have money. So that's something we can't really change, that's a social phenomenon. If there's a policymaker who thinks they can change everything because "oh we must make sure all our children go to university" — that's not realistic. Remember last week I talked about the bell curve? There are people at different points on the bell curve.
 

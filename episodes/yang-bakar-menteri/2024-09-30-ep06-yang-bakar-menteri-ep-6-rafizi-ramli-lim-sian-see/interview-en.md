@@ -47,7 +47,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Syed Munawar:** Okay, assalamualaikum, salam Muhibah. Many might have been waiting for "Yang Bakar Menteri" (YBM) tonight to meet with me for what episode is this, YB? 6? 7? I don't know. I lost count.
 
-**Rafizi:** Lost count already, yes. 6.
+**Syed Munawar:** Lost count already, yes. 6.
 
 **Syed Munawar:** 6. Okay, thank you for reminding me, and I thank the organizers for inviting me. I am Syed Munawar. And as was set up in the 1990s, some people might view this as a debate, but my role is more as a middle person—a referee—providing the space for. So, will there be a red card later?
 
@@ -61,7 +61,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Syed Munawar:** Fine, never mind. But everyone already knows, already recognizes YB Rafizi. Lim Sian Si. Yes. Real name? My real name is Eric See-To. Okay. Datuk, you said earlier?
 
-**Eric See-To:** Well, yeah. Okay, Datuk Eric See-To.
+**Syed Munawar:** Well, yeah. Okay, Datuk Eric See-To.
 
 **Syed Munawar:** Now, by revealing yourself, is that a burden or a good opportunity for Lim Sian Si?
 
@@ -127,11 +127,11 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Eric See-To:** So earlier the YB said, when they opposed Linus it was mostly in 2011. At that time, the industry or demand for rare earths wasn't very high. The YB said it only started skyrocketing in 2016. That means Datuk Najib's government back then was indeed visionary. Because building a plant takes time too. To develop, we have the first-mover advantage. Okay. That's rare earths. The real thing, the one that actually asked them to dispose of waste in Malaysia was the government that asked Linus to build a permanent disposal facility, and that was the PH 1.0 government. That cannot be denied. Okay. That's the Linus issue. Now, oil prices, today's diesel price. What I read and know is that the Second Minister of Finance, the Right Honourable, the Honourable Second Minister of Finance, said diesel prices have been floated since June 10 according to the APM price and will fluctuate according to market prices. But the first 8 weeks it never changed. It stayed at RM3.35 for those 8 weeks until I started calculating it. And when I calculated it, the actual diesel price was already 30 sen cheaper than the retail price. When I calculated it yesterday, the diesel price was 52 sen cheaper. The actual price is RM2.62, the current price is RM3.16. That means the rakyat are subsidizing the government. If it were back then, with the YB standing in front calculating oil every week, he would say, oh, the government is robbing the rakyat stealthily, or the rakyat are being plundered. So YB, if you still remember the formula, shall we calculate it today?
 
-**Syed Munawar:** Okay. Is that a question?
+**Rafizi:** Okay. Is that a question?
 
 **Eric See-To:** A statement.
 
-**Rafizi:** A statement and a question. If we calculate it, if you want to believe—
+**Eric See-To:** A statement and a question. If we calculate it, if you want to believe—
 
 **Eric See-To:** There's still time. This is the Singapore MOPS gas oil price. Is this price correct? 85 ringgit—85 US dollars per barrel. 1 barrel is 159 liters. Remember that? Add the alpha, the station margin, the petrol dealer's margin, everything, ya. 25.8 sen. If we use today's Forex exchange rate, the price is indeed RM2.62. And I have calculated it every week since 4 or 5 weeks ago, until the government started lowering the retail diesel price. Same with RON 97. 30 seconds, Datuk, for the question. Yes. If there is a specific one. So, a specific one is: does the government want to be transparent with the rakyat by saying the government is taxing diesel and RON 97, and where does this money go? Back then, BN would channel it into a fund to stabilize oil prices, retail prices. Right now, the government is taking a lot from the rakyat as a hidden tax. Does this money go into consolidated accounts or into a fund? And why didn't you tell the rakyat?
 
@@ -139,7 +139,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Syed Munawar:** We are already 20 minutes in. Still re-revolving around
 
-**Eric See-To:** When can I ask?
+**Rafizi:** When can I ask?
 
 **Syed Munawar:** Ah, you can in, within those 3 minutes, YB.
 
@@ -157,7 +157,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Eric See-To:** Actually, it's. I'll start my 3 minutes.
 
-**Syed Munawar:** Subsidies, fisherman subsidies, subsidies
+**Eric See-To:** Subsidies, fisherman subsidies, subsidies
 
 **Eric See-To:** Logistics, all of that was still around during Najib's time.
 
@@ -169,7 +169,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Eric See-To:** Right now I want to change the format. I want to ask about 1MDB. I want YB to answer. It's still 3 minutes.
 
-**Syed Munawar:** No. How can it be like that?
+**Rafizi:** No. How can it be like that?
 
 **Eric See-To:** I ask him, he doesn't answer. Okay. He doesn't answer. If it's like this, if it's like this. I ask, he has to answer. If it's like this, let me ask, I answer. If I answer wrongly, YB please correct me, you know, immediately. Right?
 
@@ -189,7 +189,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** I am pleased with Brother Lim's answer. Firs- firstly, when he lists at length about how much money has been returned. He does not deny the fact that the money was only recovered after criminal cases and the government took all legal actions around the world.
 
-**Syed Munawar:** Meaning the money was misappropriated.
+**Rafizi:** Meaning the money was misappropriated.
 
 **Rafizi:** Meaning if we follow Brother Lim's logic, we can steal money, but as long as the money is returned, we are not guilty. That is not the concept. The concept is that a company that used the people's money to supposedly develop the country's strategic assets. That money was ultimately misappropriated and some of it cannot be trac- tracked to this day. And part of that money was used for personal gain, Similarly, for example, SRC, I am- I am glad Brother Lim mentioned SRC. Because SRC used 4 billion of the rakyat's pension funds. Oh, this is wrong. The excuse at the beginning, and I was in parliament at that time. The excuse was to establish a national strategic asset company, so that the country could have a company that controls world minerals. In the end, it was tabled and announced that the companies invested in by SRC, for example, would control mines in Mongolia. Until now we haven't seen those mines in Mongolia. It's as if the money vanished. And finally, some of the money went not to companies like Ehsan Perdana whose expenditures were tracked, including paying millions of ringgit in personal credit card spending. So that's what I don't understand about Brother Lim here. Meaning up until now, I can accept other matters, but defending something that clearly happened and we have already moved on. Whoever should be punished, is punished. The government needs to take action to retrieve it. We are not repeating it. But when Brother Lim insists on repeating something, well that is what I haven't gotten an answer for from this Brother Lim Siansi. What actually is his motive here?
 
@@ -197,19 +197,19 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Eric See-To:** didn't deny that this 2.6 billion has been returned.
 
-**Syed Munawar:** He didn't den- that we got back even more than what was claimed missing.
+**Eric See-To:** He didn't den- that we got back even more than what was claimed missing.
 
 **Eric See-To:** 4.5 billion US with 31 billion recovered.
 
-**Syed Munawar:** Meaning this is not a burden to the country.
+**Eric See-To:** Meaning this is not a burden to the country.
 
 **Eric See-To:** Then, YB said that yes, only after the PH 1.0 government took over was this money recovered, recovered. No, this is wrong because during the BN government in 2017, a settlement agreement between 1MDB and IPIC had already been
 
-**Syed Munawar:** Signed, and in this agreement,
+**Eric See-To:** Signed, and in this agreement,
 
 **Eric See-To:** 1MDB asked IPIC to return 7.5 billion US to Malaysia. But after PH 1.0 took over, they forgot about this agreement. Well, indeed IPIC owed money to Malaysia. When the Madani government started, we got back 8 billion from IPIC. Meaning they are the ones in the wrong. All the money that was lost or claimed to be missing was after it was sent to
 
-**Syed Munawar:** IPIC and Aabar's company or guaranteed by IPIC and Aabar.
+**Eric See-To:** IPIC and Aabar's company or guaranteed by IPIC and Aabar.
 
 **Eric See-To:** And this is all in the settlement agreement. So, my question is, why cancel that agreement and why refuse to disclose this settlement agreement to the rakyat that Dato' Najib had indeed recovered that money before the date of 30 December 2020. This is all in the agreement.
 
@@ -219,13 +219,13 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Syed Munawar:** Do you want to continue with questions, is there remaining time or? Or is that enough questions. Okay.
 
-**Rafizi:** I’ll give 3 minutes to the YB.
+**Syed Munawar:** I’ll give 3 minutes to the YB.
 
-**Syed Munawar:** I smiled because I remembered the officers.
+**Rafizi:** I smiled because I remembered the officers.
 
 **Rafizi:** The Inland Revenue Board (LHDN) hears that argument and they burst out laughing. The concept of tax is on income. If you remember, when we file our income tax, we declare our income. It doesn't stop there and then you deduct "I paid my lover, my house, I transferred money to everyone." The only deductions allowed are those permitted under the tax Act. There's a personal allowance or allowance to buy books and so on, right. I don't know the ins and outs of LHDN's investigations. That is only known by LHDN, which made the decision and brought it to court. But the argument given by See-To just now really doesn't make sense. This is what I feel is actually irresponsible for an intelligent person like him to use social media platforms to dumb down the public with such an argument. If the argument is that 2.6 billion came in, then went out of the account, so that income needs to be deducted from the income assessment, then none of us need to pay taxes. Every year, just show how much salary came in and show how much went out. Those of us who understand all this definitely say this is propaganda. But ordinary people at the grassroots will take this as the absolute truth of what See-To wrote, or if it comes out on Datuk Seri Najib’s Facebook page which he manages, they assume it’s true that it’s unfair. But I know that you yourself know this isn’t true. Yet he uses media to spread these things. In the end, his large following of readers are Malays. That matter dumbs down the Malays. Okay.
 
-**Syed Munawar:** I want to answer.
+**Eric See-To:** I want to answer.
 
 **Eric See-To:** Because he is distorting facts and lying.
 
@@ -243,7 +243,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Syed Munawar:** Alright. We have finished 3 rounds, but because the YB and also Datuk did not fully use those 3 minutes, we can have a consensus round space. It has been 60 minutes. So, not yet. We have approximately another 7, 8 minutes or so. I don't have—I, if possible, would like a little time.
 
-**Rafizi:** I give the YB the floor to start for 3 minutes.
+**Syed Munawar:** I give the YB the floor to start for 3 minutes.
 
 **Syed Munawar:** Please go ahead.
 
@@ -251,7 +251,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Eric See-To:** Don't put [words in my mouth].
 
-**Syed Munawar:** In the context, the context when he mentioned that.
+**Rafizi:** In the context, the context when he mentioned that.
 
 **Rafizi:** If the 2.6 billion went into my account, then when it went out he gave the context as a loan. That's why he said if the 2.6 was returned as a loan. So that is what I understand he was trying to say. He wants to say that the 2.6 billion money was not income because it is capital in nature, which is a loan. Capital in nature indeed, according to income tax, is not subject to income tax because it is capital. But brother See-To slipped up here because it opens up a new front—that suddenly a new story brought by See-To today shifts away from the Saudi donation story, and today we get a new discovery: a loan. If it's truly a loan, where is the loan agreement? Who lent it? Unless he can show it. So this is what I want to share with the public. You can see for yourselves today how he keeps changing his story as long as whatever he mentions has some numbers, spinning here and there so that the Malays at the grassroots can take it and repeat it. Just like when he mentioned that when Dato' Sri Najib first came to power, Petronas's assets went up a lot, Khazanah went up a lot, and now how it has dropped. He didn't give the picture that if you want to measure Dato' Sri Najib from when he first came to power until he fell, it was 9 years. It's not even an apple-to-apple comparison. He cannot compare it like that. If brother See-To is truly right, he can—he would actually state that this increase in value was over a period of 9 years compared to this one year. Because any administration will have ups and downs and ups and downs. So if you really want to convey facts, to correct facts, the facts must be presented in context and under true conditions, not trying to be twisted like the 1MDB story today.
 
@@ -275,7 +275,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** And it's easy to enter and take action and make a report. So if there are examples, and this includes I think if there were past posts, whether people want to sue civilly or take criminal action, I think after this people can take it because previously they couldn't when hiding behind Lim Sian See. That's the first thing, Secondly, my summary is, ultimately what will be the determinant is the people's understanding. But the people can see tonight behind the short writings that give a half-baked picture. When asked in detail, brother Lim Sian See will spin until he traps himself. Take the example about donations, right? At first when I asked about this, he said actually he was also the one asking why there's income tax when the money came in and went out. At first he gave the impression of a loan. Ah, that's it again.
 
-**Eric See-To:** Then now, now he says, okay, now he says it's a donation.
+**Rafizi:** Then now, now he says, okay, now he says it's a donation.
 
 **Rafizi:** Brother, when someone makes a donation, unless the donation is given an exemption by LHDN as non-income, you memang have to pay tax. So if it's true based on what Dato' Sri Najib or Lim Sian See are peddling right now that it's a donation, if it's a donation and didn't get an exemption from LHDN, you memang have to pay tax. Otherwise, it becomes money laundering. I can make it so I don't pay tax, I donate to Syed Munawar, he doesn't pay tax, then he returns it to me. So these matters are examples of how brother Lim Sian See will spin and spin, and we need readers and listeners out there who truly digest it. If people take things half-baked and believe them blindly, it will end up like tonight. When asked one by one by one, finally I hope the viewers can see for themselves who and where Lim Sian See, who is idolized by many people outside, really is.
 

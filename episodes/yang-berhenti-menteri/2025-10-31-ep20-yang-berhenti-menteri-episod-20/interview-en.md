@@ -130,13 +130,13 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Actually, because of their level, Papa Gomo and Sayuti are already in the same basket, tied, can't give it to them. So I'll give it to "Make Malaysia Great Again" — congratulations, for being way too excessive in trying to flatter to the point it turned into this. Who knows, since PKR currently has two vacant ministerial posts, maybe with "Make Malaysia Great Again" the Bayan Baru MP could become a minister after this, who knows.
 
-**Haziq:** Alright, YB, so this is the winner for this week, congratulations — 4.5 stars.
+**Rafizi:** Alright, YB, so this is the winner for this week, congratulations — 4.5 stars.
 
 **Rafizi:** 4.5 stars. Actually I want to give 3.75 stars.
 
 **Haziq:** Okay, alright YB. Let's move to the next segment. Before that, is the producer okay?
 
-**Farhan (Pa'an):** How many times are you going to ask the producer?
+**Rafizi:** How many times are you going to ask the producer?
 
 **Haziq:** Just wanted to show he's here. For Standing Order, YB, maybe let's go a bit faster since I can't wait to ask about tariffs, YB.
 
@@ -288,11 +288,11 @@ So unfortunately, the dance, although I think it's a spur-of-the-moment thing, i
 
 **Rafizi:** The opposition is asking for it to be disclosed. Why can't the government disclose it yet?
 
-**Multiple speakers:** Because it doesn't exist?
+**Haziq:** Because it doesn't exist?
 
 **Rafizi:** The reason is it wasn't negotiated during the agreement. As a result of this agreement, the US said that these 1722 items will be exempted and the US will choose those 1722 items, to be informed later. We don't know. So even this estimate of 1722 — but if we take the earlier figures again, right. Because on one hand later we'll go through all the investments that need to be made, but if we take, for example, what Tengku Zafrul mentioned, these 1722 items are only roughly 20 billion ringgit. But what we need to commit to — needing to buy, then giving guarantees that we have to comply with, realign everything — is far bigger. Estimated up to 1 trillion, right. Whereas what's been stated so far, I believe this 5.2 billion was announced by the government itself. I'm looking for where this 5.2 billion comes from. Yes, that's right.
 
-**Haziq:** But it was mentioned by Tengku Zafrul himself, right? Yes, yes, yes.
+**Rafizi:** But it was mentioned by Tengku Zafrul himself, right? Yes, yes, yes.
 
 **Rafizi:** He's going to sue me after this.
 
@@ -308,7 +308,7 @@ So unfortunately, the dance, although I think it's a spur-of-the-moment thing, i
 
 **Rafizi:** So, but even if we take that, the 0%, 5.2 billion, 22 billion. But if we also take semiconductors, semiconductor exports to the US are 60, 61 billion. So that's only 88 billion combined compared to 1 trillion. That's a huge difference, you know. So if we then compare it to the investment commitments Malaysia has to give — if we look at the article stating investment, Article 6.1 Investment, paragraph 3: "Malaysia shall facilitate to the extent practicable approximately 70 billion dollar in job creating investments, including greenfield investment in United States, over the next 10 years." 70 billion dollars. Not people investing in us — we have to invest in the US. This 70 billion dollars is roughly 300 billion ringgit. That's what people lump together to get that 1 trillion figure. So, on that score alone, we don't even have enough money. We need to go invest in the US to create job opportunities in the US. Cambodia doesn't have this. We do.
 
-**Haziq:** But I've checked. Yes, I've read Cambodia's word by word.
+**Rafizi:** But I've checked. Yes, I've read Cambodia's word by word.
 
 **Rafizi:** Cambodia has none. Cambodia's commitment is only one thing — buying planes. There's a certain number of planes they have to buy. There's nothing about investing in the US, none of that. So if you take that alone, 70 billion dollars times 4, roughly 4.2, it comes to around 300 billion. Whereas the total exports we saved from the 19% tariff is only 22 billion, as Tengku Zafrul mentioned. And if we assume all E&E semiconductors are exempted, combined 61, 62, roughly 80. So that's a big gap now, right? That's why I can go on at length, go through it one by one, but just on these few points. I understand if people question these matters. I'm actually not too worried about the die-hard supporters, because no matter what happens, they will rationalize even a "devil's deal." The die-hards will say, "Ah, this is the greatness of our Prime Minister, top-class diplomacy saving us" — without even looking at the fact that Cambodia didn't dance around, didn't do any diplomacy, and got a better deal than us, for example. What I'm actually worried about is on behalf of Pakatan Harapan and PKR. I'm actually worried about the thinking crowd — people who read, who compare, people who can think about how we agreed to all this when the cost-benefit analysis is so far off. Never mind if Tengku Zafrul says buying Boeing is a commercial decision, Petronas is a commercial decision, data centers are a commercial decision — but the clauses here do mention GLCs, you know. And if, for example, especially in matters involving technology, wanting to buy data centers or telecommunications equipment and so on, with this agreement, it means I'm already locked in with the US. If the price from the US is higher and the technology is behind compared to China, I have no choice. That then raises a question about how this affects the government's earlier decision to build a dual network. Before this, there were Westerners using Ericsson, right, then the second one for 5G, likely to be Huawei. Now with this agreement, what happens to Huawei? It has many spillover effects on decisions that have already been made, aside from nuclear. Now it's Huawei. So even though they want to buy Boeing, it doesn't mean MAS will use Boeing forever. Maybe that's their decision. But say in 5 years for fleet expansion, if China's fleet — they've set up a new company, I forget the name — if others start using that now, we can't use it, we're stuck with Boeing. Same with Petronas. It's true that Petronas trades LNG worldwide.
 
@@ -354,7 +354,7 @@ So unfortunately, the dance, although I think it's a spur-of-the-moment thing, i
 
 **Rafizi:** We've already banned that too, right? Okay, alright YB. Next — a bit of politics, YB.
 
-**Haziq:** Alhamdulillah, finally Azmin's face came out.
+**Rafizi:** Alhamdulillah, finally Azmin's face came out.
 
 **Rafizi:** It's a relief seeing that. So they want to talk about Trump and the tariffs and all that — REE is a long story, hard to explain.
 

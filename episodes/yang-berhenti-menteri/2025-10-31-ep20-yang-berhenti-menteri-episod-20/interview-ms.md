@@ -130,13 +130,13 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Dia sebenarnya, sebab level dia, Papa Gomo dengan Sayuti ni dah kira satu bakul, seri, tak boleh nak bagi kepada mereka lah. Jadi saya bagi kepada "Make Malaysia Great Again" — tahniah, sebab terlebih-lebih beria dia nak membodek sampai jadi macam ni. Kut lah PKR sekarang ni ada dua kekosongan menteri, mungkinlah dengan "Make Malaysia Great Again" ni ahli parlimen Bayan Baru boleh jadi menteri lepas ni, tak tahulah.
 
-**Haziq:** Baik, YB, so yang ini pemenang untuk minggu ini lah, tahniah — 4 setengah bintang.
+**Rafizi:** Baik, YB, so yang ini pemenang untuk minggu ini lah, tahniah — 4 setengah bintang.
 
 **Rafizi:** 4 setengah bintang. Sebenarnya aku nak bagi 3 suku bintang.
 
 **Haziq:** Okey, baik YB. Kita terus ke segmen seterusnya. Sebelum itu, produser okey ke?
 
-**Farhan (Pa'an):** Berapa kali duk tanya produser ni?
+**Rafizi:** Berapa kali duk tanya produser ni?
 
 **Haziq:** Saja je nak tunjuk dia ada. Untuk Standing Order, YB, mungkin kita cepat sikitlah sebab saya tak sabar nak tanya tentang tarif, YB.
 
@@ -286,11 +286,11 @@ Jadi malangnya, tarian itu, walaupun saya rasa ia hanyalah tindakan spontan pada
 
 **Rafizi:** Pembangkang minta didedahkan. Kenapa kerajaan tak boleh dedahkan lagi?
 
-**Multiple speakers:** Sebab tak ada?
+**Haziq:** Sebab tak ada?
 
 **Rafizi:** Sebabnya dia tidak dirundingkan masa perjanjian tu. Akibat perjanjian ini, US kata sebanyak 1722 item ini akan dikecualikan dan US akan memilih 1722 item itu yang akan dimaklumkan kemudian. Kita tak tahu. Jadi anggaran 1722 ni pun kita — tapi kalau kita ambil angka-angka tadi baliklah kan. Sebab di satu pihak nanti kita go through semua pelaburan-pelaburan yang kena buat, tapi kalau kita ambil contohnya yang Tengku Zafrul sebut tu, 1722 item ini lebih kurang 20 billion ringgit je. Tapi yang kita nak kena komit ni — dengan nak kena beli, kemudian kita bagi dia jaminan yang kita kena ikut, penyelarasan semula semua tu — jauh lebih besar. Anggaran sampai 1 trillion kan. Sedangkan yang disebut sendiri setakat ini, saya ingat yang 5.2 billion ini diumumkan oleh kerajaan sendiri. Saya tengah cari daripada mana datang 5.2 billion ini. Ya, betul.
 
-**Haziq:** Tapi dia disebut oleh Tengku Zafrul sendiri kan? Yes, yes, yes.
+**Rafizi:** Tapi dia disebut oleh Tengku Zafrul sendiri kan? Yes, yes, yes.
 
 **Rafizi:** Kan dia saman aku lepas ni kang.
 
@@ -306,7 +306,7 @@ Jadi malangnya, tarian itu, walaupun saya rasa ia hanyalah tindakan spontan pada
 
 **Rafizi:** So, but even katakanlah kita ambil yang itu, yang 0%, 5.2 billion, 22 billion. Tapi kalau kita ambil semikonduktor pun, eksport semikonduktor ke US ialah 60, 61 billion. So baru 88 billion berbanding dengan 1 trillion. Banyak beza tu tau. Jadi kalau kita bandingkan pula dengan komitmen pelaburan yang Malaysia nak kena bagi — kalau kita tengok artikel yang menyatakan pelaburan, artikel 6.1 investment, perenggan 3: "Malaysia shall facilitate to the extent practicable approximately 70 billion dollar in job creating investments, including greenfield investment in United States, over the next 10 years." 70 billion dolar. Bukan orang melabur kat kita — kita kena melabur dekat US. 70 billion dolar ni lebih kurang 300 billion ringgit. Tu yang orang campur-campur semua jadi 1 trillion tu. Jadi, on that score alone, kita dah tak cukup duit. Kita nak pergi melabur ke US untuk menghasilkan peluang pekerjaan di US. Dekat Cambodia punya tak ada. Kita ada.
 
-**Haziq:** Tapi dah check. Dah, aku dah baca perkataan demi perkataan Cambodia punya.
+**Rafizi:** Tapi dah check. Dah, aku dah baca perkataan demi perkataan Cambodia punya.
 
 **Rafizi:** Cambodia tidak ada. Komitmen Cambodia hanya satu sahaja — beli kapal terbang. Ada lebih kurang berapa buah kapal terbang yang dia kena beli. Tidak ada yang perlu melabur di US semua itu tidak ada. So kalau kita ambil itu sahaja, 70 billion dolar kali 4, lebih kurang kalau 4.2, dia nak sampai lebih kurang 300 billion. Sedangkan jumlah eksport kita yang diselamatkan daripada tarif 19% ini hanyalah 22 billion yang Tengku Zafrul sebut. Dan kalau kita andaikan semua E&E semiconductor dikecualikan, campur 61, 62, lebih kurang 80. Jadi itu satu jurang yang besar sekarang, kan? Sebab itu saya boleh cakap panjang, boleh pergi satu-satu, tapi atas beberapa perkara ini sahajalah. Saya faham kalau orang mempersoalkan perkara-perkara ini. Saya sebenarnya tidak bimbang sangat dengan walanun-walanun ini, sebab walanun-walanun ini cakap apa pun, dia akan rukiah perjanjian syaitan. Walanun akan kata, "Ah, inilah kehebatan Perdana Menteri kita, diplomasi kelas atasan yang menyelamatkan kita" — dia tidak lihat pun Cambodia tidak berjoget, tidak ada diplomasi apa pun, dapat perjanjian yang lebih baik daripada kita, contohnya. Saya sebenarnya bimbang bagi pihak Pakatan Harapan dan PKR. Saya sebenarnya bimbang kepada golongan yang berfikir — orang yang membaca, yang membandingkan, orang yang boleh memikirkan bagaimana kita bersetuju dengan semua ini sedangkan analisis kos manfaat itu terlalu jauh bezanya. Tidak kisahlah kalau Tengku Zafrul kata beli Boeing itu keputusan komersial, Petronas keputusan komersial, data center keputusan komersial — tapi klausa-klausa ini ada menyebut mengenai GLC, tahu. Dan kalau saya contohnya, terutamanya yang melibatkan teknologi, yang hendak membeli data center, hendak membeli peralatan telekomunikasi semua ini, dengan perjanjian ini, maksudnya saya sudah terkunci dengan US. Kalau harga daripada US itu lebih tinggi dan teknologinya terkebelakang berbanding dengan China, saya tidak ada pilihan. Itu pula menimbulkan tanda tanya bagaimana pula kesannya kepada keputusan kerajaan sebelum ini untuk membuat rangkaian dual (dual network). Sebelum ini ada yang barat pakai Ericsson kan, kemudian yang kedua ini 5G, besar kemungkinan dia hendak Huawei. Sudah ada perjanjian ini, bagaimana pula dengan Huawei? Ia banyak kesan sampingannya kepada keputusan-keputusan yang telah dibuat, selain daripada nuklear. Sekarang Huawei kan. Jadi walaupun hendak beli Boeing, tapi maksudnya kecualilah MAS sampai bila-bila hendak pakai Boeing. Mungkin itu keputusan dia. Tapi katakanlah kalau 5 tahun lagi untuk pengembangan fleet, kalau fleet China — mereka sudah ada buat syarikat baru, saya tidak ingat namanya — kalau itu sekarang orang lain sudah mula pakai, kita tidak boleh pakai, kita tetap dengan Boeing. Sama juga dengan Petronas. Memang betullah Petronas berdagang LNG di seluruh dunia.
 
@@ -352,7 +352,7 @@ Jadi malangnya, tarian itu, walaupun saya rasa ia hanyalah tindakan spontan pada
 
 **Rafizi:** Kita pun dah larang dah kan? Okey, baik YB. Seterusnya, politik sikit YB.
 
-**Haziq:** Alhamdulillah akhirnya keluar muka Azmin.
+**Rafizi:** Alhamdulillah akhirnya keluar muka Azmin.
 
 **Rafizi:** Sejuk hati saya tengok. Jadi dia nak cerita Trump dengan tarif semua ni, REE ni panjang cerita, susah nak terangkan.
 

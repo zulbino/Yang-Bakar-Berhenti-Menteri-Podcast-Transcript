@@ -47,7 +47,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Syed Munawar:** Okey, assalamualaikum, salam Muhibah. Ramai yang mungkin ternanti-nantikan Yang Bakar Menteri YBM pada malam ini berjumpa dengan saya untuk episod ke berapa ni YB? 6? 7? I don't know. I lost count.
 
-**Rafizi:** Lost count already, yes. 6.
+**Syed Munawar:** Lost count already, yes. 6.
 
 **Syed Munawar:** 6. Okey, terima kasih kerana mengingatkan dan saya mengucapkan terima kasih kepada penganjur mengundang saya. Saya Syed Munawar. Dan seperti yang di-1990 kan, perdebatan ada yang menganggapnya akan jadi sebuah perdebatan, tapi peranan saya adalah lebih sebagai orang tengah referee yang memberikan ruang untuk So ada ada red card nanti ke?
 
@@ -61,7 +61,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Syed Munawar:** Baik, tak apa. Cuma se- semua dah tahu, dah kenal YB Rafizi. Lim Sian Si. Ya. Nama sebenar? Nama sebenar saya Eric See-To. Okey. Datuk katanya tadi?
 
-**Eric See-To:** Yalah. Okey, Datuk Eric See-To.
+**Syed Munawar:** Yalah. Okey, Datuk Eric See-To.
 
 **Syed Munawar:** Sekarang ni dengan mendedahkan diri, adakah itu menjadi beban ataupun satu opportunity yang baik untuk Lim Siansi?
 
@@ -131,11 +131,11 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Eric See-To:** So tadi YB cakap, masa mereka membantah Linus selalunya 2011. Masa tu industri ataupun permintaan untuk nadir bumi tak tinggi sangat. YB kata 2016 baru mula mencanak naik. Bermaksudnya kerajaan biar masa Dato' Najib tu dahulu memang berpandangan jauh. Sebab nak bina kilang pun perlu masa. Nak memajukan kita ada first mover advantage. Okey. Itu nadir bumi. Yang real, yang benar-benar nak bagi mereka buang sisa-sisa kat Malaysia ialah kerajaan yang meminta Linus membina permanent disposal facility, dan itu kerajaan PH 1.0. Itu tak boleh dinafikan. Okey. Itu soal Linus. Sekarang ni harga minyak, hari harga diesel. Yang saya baca dan saya tahu ialah Menteri Kewangan 2, Yang Amat Berhormat, Yang Berhormat Menteri Kewangan 2, dia kata harga diesel sudah diapungkan sejak Jun 10 mengikut harga APM dan akan berubah-ubah mengikut harga pasaran. Tetapi 8 minggu yang pertama tak pernah berubah. Tetap pada RM3.35 untuk 8 minggu tu sehingga saya mula kirakan. Dan masa saya kirakan, harga diesel sudah, sebenar diesel sudah 30 sen lebih murah dari harga runcit. Yang saya kira semalam, harga diesel 52 sen lagi murah. Harga sebenar RM2.62, harga sekarang ni RM3.16. Bermaksud rakyat sedang bagi subsidi kepada kerajaan. Kalau masa dulu, YB kat depan yang kira minyak tiap-tiap minggu akan kata, oh ini sedang kerajaan sedang rompak rakyat secara sorok-sorok ataupun kita kena rakyat kena samun. So YB kalau masih ingat formula, kita nak kira tak hari ni?
 
-**Syed Munawar:** Okey. Itu soalan ke?
+**Rafizi:** Okey. Itu soalan ke?
 
 **Eric See-To:** Kenyataan.
 
-**Rafizi:** Kenyataan dan soalan. Kalau kita kira, kalau nak percaya,
+**Eric See-To:** Kenyataan dan soalan. Kalau kita kira, kalau nak percaya,
 
 **Eric See-To:** Masih ada masa. Ini ialah harga Mops gas oil Singapura. Betul tak harga ini? 85 ringgit, 85 US dollars 1 tong. 1 tong 159 liter. Ingat tak? Campur yang alpha, yang margin station, margin serangkap minyak, semuanya ya. 25.8 sen. Kalau kita guna kadar tukaran Forex hari ni, memang harganya RM2.62. Dan saya sudah kira setiap minggu sejak 4 5 minggu dulu, sehingga kerajaan mula turunkan harga runcit diesel. Sama dengan RON 97. 30 saat, Datuk, soalannya. Ya. Kalau ada spesifik. So, seorang spesifik ialah adakah kerajaan nak telus dengan rakyat dengan kata kerajaan sedang cukaikan diesel dan RON 97 dan ke mana wang ini pergi? Masa dulu BN dia akan masuk satu tabung untuk stabilkan harga minyak, harga runcit. Sekarang ni kerajaan sedang angkat banyak dari rakyat dalam sebagai cukai tersembunyi. Adakah wang ini masuk ke dalam consolidated accounts ataupun masuk ke dalam tabung? Dan kenapa tak beritahu rakyat?
 
@@ -143,7 +143,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Syed Munawar:** Kita sudah pun berlangsung 20 minit. Masih lagi bers-bersekisar tentang
 
-**Eric See-To:** Bila saya boleh tanya?
+**Rafizi:** Bila saya boleh tanya?
 
 **Syed Munawar:** Ah, boleh saja dalam dalam 3 minit tu YB.
 
@@ -161,7 +161,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Eric See-To:** Dia sebenarnya. Saya mula 3 minit.
 
-**Syed Munawar:** Subsidi, subsidi nelayan, subsidi
+**Eric See-To:** Subsidi, subsidi nelayan, subsidi
 
 **Eric See-To:** logistik semua masa Najib pun masih ada.
 
@@ -173,7 +173,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Eric See-To:** Sekarang ni saya nak tukar format. Saya nak tanya tentang 1MDB. Saya nak YB jawab. Masih 3 minit.
 
-**Syed Munawar:** Tak. Mana boleh macam tu.
+**Rafizi:** Tak. Mana boleh macam tu.
 
 **Eric See-To:** Saya tanya dia tak jawab. Okey. Dia tak jawab. Kalau macam ni kan. Kalau macam ni. Saya tanya dia kena jawab lah. Kalau macam ni, bagi saya tanya, saya jawab. Kalau saya jawab salah, YB tolong perbetulkan, you know, immediately. Betul tak?
 
@@ -193,7 +193,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Saya gembira dengan jawapan saudara Lim. Pertanya- pertamanya bila dia menyenaraikan dengan panjang lebar soal berapa wang yang telah dipulangkan. Dia tidak menolak hakikat bahawa wang itu hanya diperoleh kembali setelah kes jenayah dan kerajaan mengambil segala tindakan undang-undang di seluruh dunia.
 
-**Syed Munawar:** Maknanya wang itu telah diselewengkan.
+**Rafizi:** Maknanya wang itu telah diselewengkan.
 
 **Rafizi:** Maknanya kalau ikut logik saudara Lim, kita boleh curi duit, tapi asalkan wang itu dipulangkan kembali, kita tak bersalah. Itu bukan konsep dia. Konsepnya bahawa satu syarikat yang menggunakan wang rakyat untuk kononnya membangunkan aset strategik negara. Wang itu akhirnya telah diselewengkan dan ada sebahagiannya yang sehingga sekarang tidak boleh da- dikesan. Dan sebahagian wang itu digunakan untuk kepentingan peribadi Sama contohnya SRC pun saya, saya gembira saudara Lim sebut pasal SRC. Kerana SRC ini menggunakan wang pencen rakyat 4 bilion. Oh, ini salah. Alasannya ialah pada awal dan saya di parlimen pada ketika itu. Alasannya ialah untuk menubuhkan satu syarikat aset strategik negara, supaya negara boleh mempunyai syarikat yang mengawal mineral dunia. Akhirnya dibentangkan dan diumumkan bahawa syarikat-syarikat yang dilaburkan oleh SRC ini, contohnya, akan menguasai lombong-lombong di Mongolia. Sampai sekarang kita tak tengok lombong di Mongolia itu. Macam wang itu hilang. Dan akhir wang sebahagiannya itu bukan pula kepada syarikat-syarikat seperti Ehsan Perdana yang perbelanjaannya dikesan, termasuklah membayar juta-juta ringgit kredit kad perbelanjaan peribadi. Jadi itu yang saya tak faham dengan saudara Lim ni. Maksudnya sehingga sekarang ni, saya boleh terima perkara yang lain, tapi mempertahankan sesuatu yang jelas telah berlaku dan kita pun dah move on. Siapa yang patut dihukum, dihukum. Kerajaan perlu ambil tindakan untuk ambil balik. Kita pun tak ulang. Tetapi bila saudara Lim berkeras mengulangi sesuatu, jadi yang itu saya belum dapat jawapan daripada saudara Lim Siansi ni. Apa sebenarnya motifnya ni?
 
@@ -201,19 +201,19 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Eric See-To:** tak nafikan yang 2.6 billion ini sudah dipulangkan.
 
-**Syed Munawar:** Dia tak nafkawa kita dapatkan lebih lagi banyak daripada apa yang didakwa hilang.
+**Eric See-To:** Dia tak nafkawa kita dapatkan lebih lagi banyak daripada apa yang didakwa hilang.
 
 **Eric See-To:** 4.5 billion US dengan 31 billion yang dapat balik.
 
-**Syed Munawar:** Bermaksud ini bukan beban kepada negara.
+**Eric See-To:** Bermaksud ini bukan beban kepada negara.
 
 **Eric See-To:** Lepas tu, YB kata bahawa ya, hanya selepas kerajaan PH 1.0 ambil alih yang wang ini didapatkan, didapatkan semula. Bukan ini salah sebab masa kerajaan BN tahun 27, satu perjanjian penyelesaian antara 1MDB dengan IPIC sudah pun
 
-**Syed Munawar:** Ditandatangan dan di dalam perjanjian ni,
+**Eric See-To:** Ditandatangan dan di dalam perjanjian ni,
 
 **Eric See-To:** Waneri minta IPIC untuk kembalikan sebanyak 7.5 billion US kepada Malaysia. Tetapi selepas PH 1.0 Ambil alih, lupakan pula perjanjian ni. Nah, memang IPIC hutang wang dengan dengan Malaysia. Bila kerajaan Madani mula, kita dapat balik 8 billion dari IPIC. Bermaksud mereka yang salah. Yang semua duit yang hilang ataupun didakwa ringkan ialah selepas ianya dihantar kepada
 
-**Syed Munawar:** syarikat IPIC dan ABA ataupun dijamin oleh IPIC dan ABA.
+**Eric See-To:** syarikat IPIC dan ABA ataupun dijamin oleh IPIC dan ABA.
 
 **Eric See-To:** Dan ini semua ada dalam perjanjian penyelesaian. So, soalan saya, kenapa nak batalkan perjanjian itu dan kenapa tak mahu dedahkan perjanjian penyelesaian ini kepada rakyat bahawa memang Dato' Najib sudah mendapat kembali wang itu sebelum tarikh 30 Disember 2020. Ini semua ada dalam perjanjian.
 
@@ -223,13 +223,13 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Syed Munawar:** Nak sambung soalan, ada masa berbaki lagi atau? Ataupun cukup soalan. Okey.
 
-**Rafizi:** Saya bagi 3 minit pada YB.
+**Syed Munawar:** Saya bagi 3 minit pada YB.
 
-**Syed Munawar:** Saya senyum sebab saya ingat pegawai-pegawai.
+**Rafizi:** Saya senyum sebab saya ingat pegawai-pegawai.
 
 **Rafizi:** Lembaga Hasil Dalam Negara dengar hujah itu, mereka ketawa terbahak-bahak. Konsep cukai ini ialah atas pendapatan. Kalau ingat, bila kita memfailkan cukai pendapatan kita, kita akan isytiharkan pendapatan kita. Tak lepas itu tolak saya bayar kekasih saya, rumah saya, saya pindahkan duit kepada semua orang. Yang dibenarkan tolakan itu hanyalah yang dibenarkan mengikut Akta cukai. Ada personal allowance ke ataupun allowance untuk beli buku dan sebagainya kan. Saya tak tahu selok-belok siasatan LHDN. Yang itu hanya LHDN tahu yang mengaku keputusan dan sampai ke mahkamah. Tetapi hujah yang diberikan oleh See-To tadi tu memang tak masuk akal. Yang ini yang saya rasa sebenarnya tidak bertanggungjawab seorang yang cerdik seperti beliau menggunakan laman media sosial untuk membodohkan orang ramai dengan hujah seperti itu. Kalau hujahnya ialah masuk 2.6 bilion, kemudian telah keluar balik akaun, maka yang pendapatan itu perlu ditolak daripada assessment ataupun taksiran pendapatan. Macam itu kita semua tak payah bayar cukailah. Tiap tahun tunjukkan berapa gaji yang masuk dan tunjukkan berapa yang keluar. Kita yang faham semua ni memang kita kata benda ni propaganda. Tetapi kepada orang biasa di bawah akan mengambil perkara ini sebagai betullah yang See-To tulis ataupun kalau keluar dekat Facebook Dato' Sri Najib yang dia jaga, kira betullah tak adil. Tapi perkara itu saya tahu saudara sendiri tahu benda tu tak betul. Tapi dia menggunakan media tu untuk menabur perkara. Akhirnya pembaca suruhannya yang ramai ni adalah Melayu. Perkara itu membodohkan orang Melayu. Okey.
 
-**Syed Munawar:** Saya nak jawab.
+**Eric See-To:** Saya nak jawab.
 
 **Eric See-To:** Sebab dia dan memesongkan fakta dan menipu.
 
@@ -247,7 +247,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Syed Munawar:** Baik. Kita dah habis 3 pusingan, tapi oleh kerana YB dan juga Datuk tak menggunakan sepenuhnya 3 minit itu. Kita boleh ada 1 ruang pusingan konsensus. Dah 60 minit. Jadi, belum. Kita ada lebih kurang lagi 7, 8 minit begitu. Saya tidak ada. Saya, saya kalau boleh diberikan masa sedikitlah.
 
-**Rafizi:** Saya beri kepada YB mulakan 3 minit.
+**Syed Munawar:** Saya beri kepada YB mulakan 3 minit.
 
 **Syed Munawar:** Silakan.
 
@@ -255,7 +255,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Eric See-To:** Don't put.
 
-**Syed Munawar:** Dalam konteks konteks bila dia sebut bahawa.
+**Rafizi:** Dalam konteks konteks bila dia sebut bahawa.
 
 **Rafizi:** Kalau duit 2.6 bilion tu masuk akaun saya, kemudian bila keluar tu dia bagi konteks sebagai pinjaman. Sebab itu dia kata 2.6 itu kalau telah dipulangkan sebagai pinjaman. Jadi itu adalah saya faham yang dia cuba nak kata. Dia nak kata bahawa wang 2.6 bilion itu adalah bukan pendapatan kerana dia capital in nature, which is loan. Capital in nature memang kalau ikut cukai pendapatan, tidak dikenakan cukai pendapatan kerana dia capital. Tapi saudara See-To tergelincir ini kerana itu membawa ruang yang baru bahawa tiba-tiba cerita baru yang dibawa See-To hari ini ialah daripada beralih daripada cerita derma Saudi, hari ini kita dapat penemuan baru pinjaman. Kalau betul pinjaman, mana perjanjian pinjaman? Siapa yang bagi pinjam? Kecualilah dia boleh tunjukkan. Jadi yang ini yang saya nak kongsi dengan orang ramai. Boleh tengok sendiri hari ini macam mana dia bertukar-tukar asalkan yang disebut itu dia bagi sedikit angka, dia pusing sana sini supaya yang Melayu di bawah ini boleh ambil dan ulang. Sama seperti bila dia sebut apabila Dato' Sri Najib mula-mula naik, aset Petronas naik banyak itu, Khazanah naik banyak itu, sekarang ini macam mana turun. Dia tak bagi gambaran bahawa Dato' Sri Najib kalau nak ukur daripada mula naik itu sampai dia jatuh 9 tahun. It's not even an apple to apple comparison. Dia tak boleh membandingkan begitu. Kalau saudara See-To betullah dia boleh, dia akan beritahu sebenarnya kenaikan nilai ini ialah dalam tempoh 9 tahun berbanding yang ini 1 tahun. Sebab mana-mana pentadbiran pun dia akan ada turun naik dan turun naik. Jadi kalau betul-betul nak sampaikan fakta, nak perbetulkan fakta, fakta itu perlu dibentangkan dalam konteks dan dalam keadaan yang sebenar, bukannya cuba diputarbelitkan macam cerita 1MDB hari ini.
 
@@ -279,7 +279,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Dan mudah untuk masuk dan diambil tindakan dan buat laporan. Jadi kalau ada contohnya, dan ini termasuklah juga saya ingat kalau ada posting-posting dulu, sama ada yang orang nak saman secara sivil ataupun ambil tindakan jenayah, saya ingat lepas ini orang boleh ambil kerana sebelum ini tak boleh ambil bila berselindung di belakang Lim Sian See. Itu yang pertama Yang kedua, rumusan sayalah kan, akhirnya yang akan menjadi penentu itu pemahaman rakyat. Tapi rakyat boleh tengok pada malam ini di sebalik tulisan-tulisan yang pendek yang memberi gambaran separuh-separuh. Apabila ditanya dengan detailnya, saudara Lim Sian See akan pusing sehingga menjerat diri sendiri. Ambil contoh pasal derma ni kan. Mula bila saya tanya pasal perkara ini, dia kata sebenarnya dia juga yang tanyalah kenapa kena income tax ni sebab ambil duit masuk dah keluar. Mula dia bagi gambaran pinjaman. Ah, itu yang sekali lagi.
 
-**Eric See-To:** Kemudian sekarang, sekarang dia kata, okey sekarang dia kata itu adalah derma.
+**Rafizi:** Kemudian sekarang, sekarang dia kata, okey sekarang dia kata itu adalah derma.
 
 **Rafizi:** Saudara, bila ada orang derma, kecuali derma itu diberikan pelepasan oleh LHDN sebagai bukan income, memang kena bayar cukai. Jadi kalau betul atas berdasarkan yang Dato' Sri Najib atau Lim Sian See duk jaja sekarang ni bahawa itu derma, kalau derma dan tak dapat pelepasan daripada LHDN, memang kena bayar cukai. Kalau tidak, dia jadi money laundering lah. Saya boleh bagi supaya saya tak bayar cukai, saya derma kepada Syed Munawar, dia tak bayar cukai, lepas tu dia pulangkan balik kat saya. Jadi perkara-perkara ini ialah contoh-contoh bagaimana saudara Lim Sian See ni dia akan pusing dan pusing, dan kita memerlukan pembaca dan pendengar di luar yang betul-betul hadam. Kalaulah orang ambil separuh-separuh dan percaya semata-mata, dia akan jadi macam malam inilah. Bila ditanya satu, satu, satu, akhirnya saya harap penonton boleh tengok sendiri siapa dan ke mana Lim Sian See yang diagung-agungkan ramai orang di luar.
 

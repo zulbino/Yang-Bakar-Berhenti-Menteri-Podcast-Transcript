@@ -51,7 +51,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Haziq:** Assalamualaikum dan salam sejahtera.
 
-**Rafizi:** Waalaikumussalam. Podcast Yang Menteri-Menteri episod ke-63.
+**Haziq:** Waalaikumussalam. Podcast Yang Menteri-Menteri episod ke-63.
 
 **Haziq:** Macam biasa bersama saudara Rafizi dan tak biasa bersama saudara Sum Dek Joe.
 
@@ -71,13 +71,13 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Haziq:** Okey, kita teruskan YB macam biasa dengan Beria dengan Joe.
 
-**Speaker ?:** Joe dah familiar eh, YB?
+**Haziq:** Joe dah familiar eh, YB?
 
 **Speaker ?:** Ha, okey.
 
 **Rafizi:** Okey, baik, baik, baik. Cuma ingatan kepada saya — sebab kita tak nak melebihi 3 jam kan, jadi kita jangan beria sangat komen lah. Ada 4 je YB? Okey, ada 4. Saya dah tahu dah kalau panjang-panjang, yang ni panjang jadi kita — ha, okey baik. Yang first, kita buat promo sikit sebab sekarang dah boleh booking slot beria.
 
-**Speaker ?:** Ini kenyataan YB dekat Threads, tapi dia kata pasal dana yang dilambung oleh PAS.
+**Haziq:** Ini kenyataan YB dekat Threads, tapi dia kata pasal dana yang dilambung oleh PAS.
 
 **Rafizi:** Yang ini sebenarnya saya ingat benda ni budak-budak PAS je yang duk sibuk-sibuk kan, jadi tak pasal-pasal Lapiji kena. Lapiji senyap je bab dana yang dilambung oleh PAS kan. Asal-usul dia ialah kerana semasa muktamar PAS tu, Dato' Seri Hadi Awang dia buat surprise kan. Surprisenya ialah dia kata tahun 2018 dulu kot — waktu Najib lah kan — kononnya kerajaan Amerika Syarikat menawarkan bantuan kepada PAS untuk menjatuhkan Najib. Jadi saya pun cuba memahami sebenarnya apa yang dia nak cakap ni — sama ada kehebatan PAS sampai US pun approach PAS untuk menjatuhkan Najib, ataupun dia nak kata bagusnya PAS ni, walaupun orang bagi offer ke apa, kita tak tamak jadi kuasalah. So itulah yang dilambung-lambungkan oleh PAS lah. Jadi kedutaan US keluarkan kenyataan tak betul lah kan. Jadi saya ingat budak PAS dalam 1-2 minggu yang lepas ni tengah cuba nak cover baliklah. Salah satu daripada cara mereka nak cover balik tu, dia mula kata kononnya semua parti lain dalam Malaysia ni, kecuali PAS, tak pernah dapat bantuan dana asing. Adalah seorang ini pun cyber trooper PAS lah tu kot, Zack Ayubi tu kan. So itu aku kata tak apa, sebab memang kita masuk segment beria — dekat situ je selayaknya komen pasal benda ni kan. Cuma saya rasa okey untuk orang ramai yang menonton lah kan — sebenarnya apa fungsi kedutaan negara lain di sesebuah negara? Kalau contohnya kedutaan kita di US, apa kerja dia dan apa fungsi dia di sana bagi pihak kerajaan Malaysia?
 
@@ -87,11 +87,11 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Sum Dek Joe:** Mungkin pernah, tapi tak tahu.
 
-**Haziq:** Ha, you tak tahu.
+**Sum Dek Joe:** Ha, you tak tahu.
 
 **Rafizi:** That's the thing.
 
-**Haziq:** That's the whole point.
+**Sum Dek Joe:** That's the whole point.
 
 **Rafizi:** CIA, you takkan tahu dia siapa, sebab CIA ni bukan pegawai kerajaan US. Dia tak datang dalam, "Wup, saya sebenarnya daripada kudeta." Tak ada. Dia CIA. Sebab tu ada ejen-ejen ataupun — macam Mossad. Mossad tu Israel lah. Maksudnya model perisikan ini — sebab itu nama dia perisikan — dia bukan dalam kapasiti rasmi. Dia mungkin businessman lah, dia mungkin artis lah, kita tak tahu siapa dia. Kalau dia approach, for all you know dia sebenarnya seorang Arab yang sebenarnya orang Amerika — you don't know. So kalau US nak campur tangan apa-apa, dia tak gunakan saluran rasmi, sebab diplomatic relation ni dia memang ada set standard dia mengikut antarabangsa; kita tak boleh nak buat macam ini. Jadi bila Dato' Seri Hadi Awang beria macam ini, biarlah orang-orang PAS mungkinlah yang tepuk tangan bagusnya, hebatnya PAS semua, ataupun tengok baiknya PAS kan. Tapi kepada orang yang faham mengenai protokol diplomasi, dia membayangkan PAS ni macam tak faham macam mana protokol diplomasi antarabangsa ni. You jadi kerajaan, naya kita. Tu satu kan. Yang kedua, maksudnya kalau PAS sekarang ni disebut-sebut mungkin akan jadi kerajaan kan, then nota-nota briefing daripada kedutaan masing-masing balik kepada kerajaan diorang — kita pun tak tahu apa yang dia akan tulis lah. Kebimbangan dia kalau PAS naik bukan sangat sebab soal PAS ni Islam ke apa; saya ingat kebimbangan dia — kalau simple diplomatic protocol pun dia tak tahu, sebenarnya it creates a big uncertainty. Kalau contohnya PAS memimpin kerajaan, dan uncertainty itu adalah sebenarnya kesan dia kepada pelaburan, kesan dia kepada kerjasama, kita tak tahulah. Jadi sebab itu saya kata beria-ia lah yang bermula daripada satu perkara yang diorang tak brief Dato' Seri Hadi Awang ni secara betul, dia dah jadi macam ini yang sehingga melayakkan PAS dan juga cyber trooper dia terus masuk dalam slot beria yang pertamalah.
 
@@ -111,13 +111,13 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Dia tak adalah kritik saya. Cuma ni ada seorang yang nama Imroh 20 ni — kalau baca yang disebutlah: "Bro, sebelum Najib jatuh 2017, ekonomi Tabung Haji mantap, 9 tahun bagi dividen 6%. Hotel Tabung Haji buat profit. HSR akan lalu kawasan tanah Tabung Haji di Sepang. Tanah Tabung Haji TTRX beli 188 juta 2015, sekarang value 550 juta. Kau sembang juga profit TH buat investment ada untung rugi." Ceh, wah kan — dia Threads ni algorithm dia lagi tepatlah, dia tahu kalau pasal Tabung Haji, dia kena benda dengan aku, dia keluar kat timeline aku kan. So pagi-pagi sebelum pergi kerja tu aku check lah. Dan ini yang saya katalah — sebenarnya ni, nak kata orang Melayu pun tak juga, sebab saya rasa soal kena scam, skim cepat kaya ni, semua kena. Cina pun kena, India mungkin kurang sikit dengar kan. Tapi kalau Melayu dengan Cina ni memang mangsa scam — MLM semua, Ponzi scheme lah, skim cepat kaya "Pak Mandelo" ni kan. Nampak macam brother kita ni, nampak macam dia educator, tapi dia ada kumpulan kalau dia dah pegang pegangan politik dia tu. Sebab tu saya ingat orang Melayu dulu bagus, dia sebut "menegakkan benang yang basah," you fikir kan? So benda tu kalau dah jelas tak betul dalam kes Tabung Haji ni — semua yang dia bagi contoh ekonomi Tabung Haji mantap tu kan, itu yalah Pak Mandelo kau rolling duit. Memanglah nampak mantap kan, Pak Mandelo pun mantap kan — masuk 1000 ringgit, tiap-tiap bulan dapat 300 ringgit, gila engkau kan, itu return terbaik dalam dunia. Itu yang nama Ponzi scheme, Madoff, semua kan. Tapi dia akan tetap mempertahankan benda ni kan. Dan ada satu perangai orang kita pasal skim cepat kaya ni kan — asal tak kena kat dia. Kalau dia dapat dividen 6% ni kan, dia seronoklah — memang seronoklah dapat 6% kan. Anak-beranak Aziz Rahim yang banyak anak-anak dia yang sekarang ni duk viral simpan dalam Tabung Haji kan, ni seronoklah dapat 6% kan. Tapi duit tu duit orang, dan dia akan sampai ke satu masa yang banyak akan jadi mangsa, when the pyramid scheme collapse. So sebab itu kalau orang tanya saya lah soal rasuah, soal Tabung Haji ni — dia bukan semata-mata soal rasuah, penyelewengan semualah. Kita orang biasa pun kena berubah, maksudnya jangan kita pentingkan diri — selagi tak kena kat saya tak apa. Sebab bila orang lain kena tu kan, dia jadi mangsa, satu hari dia akan kena kat kita juga kan. Kalau ada orang dimangsakan, hilang duit ke apa semua kan, walaupun benda tu tak kena kat kita, benda tu ialah satu perkara yang merosakkan dalam masyarakat. Sebetulnya kita benci tau apa-apa yang merosakkan dalam masyarakat, walaupun tak kena kat kita — it's still a bad thing. Just because it doesn't hit us, it doesn't mean that it's okay kan? Tapi yalah, kita akan tetap ada orang macam ini yang beria — "orang lain kena tak apa, asalkan yang penting aku dapat dividen Tabung Haji." Sumber mana duit tu tak penting. Itu juga yang menyebabkan budaya politik kita ni corrupt — sebab kita fikir bagusnyalah orang tu bagi duit, bagi bantuan, bagi apa kat saya; dia tak tanya sebenarnya mana dia ambil duit tu. Sebab kalau duit tu tak padan dengan gaji dia ke apa, maksudnya dia ambil orang lain punya. Bila orang lain punya, walaupun bukan duit aku yang kena curi, tapi orang lain yang hilang duit tau — it's still wrong. Masalahnya masyarakat kita tak terima bab itulah kan. Jadi beria, beria. Okey, baik.
 
-**Haziq:** Joe pun tak boleh komen sebab Tabung Haji.
+**Rafizi:** Joe pun tak boleh komen sebab Tabung Haji.
 
 **Rafizi:** Tabung Haji.
 
 **Haziq:** Okey, baik. Ah, ketiga. Ha, cakap teruslah. "Undi dulu, masalah nanti kami confirm selesaikan." Ini sebab melihat kepada senario yang berlaku di Negeri Sembilan lah dalam minggu ini yang agak kucar-kacir. Jadi teringatlah kata pemimpin utama mereka, tak apa, bagi kami menang dulu.
 
-**Speaker ?:** "Dah menang, kami tahu macam mana nak buat."
+**Haziq:** "Dah menang, kami tahu macam mana nak buat."
 
 **Rafizi:** Ini yang Tok Mat umumkan dalam ucapan dia sebelum pilihan raya Negeri Sembilan ni Julai kan, third week of July, I remember baca ni kan. So yang itu yang Badrul Bakhtiar tu, masa dia kena orang tanya dia pasal manifesto pilihan raya negeri 2023 — "rahsia, undi dulu." Baguslah diorang berkahwin, ya benar. Yang ini Joe boleh komen — bagi Joe komen jap.
 
@@ -131,11 +131,11 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Kau panggil Tok Mat budak jahat? Oh bukan, bukan Tok Mat — pimpinan UMNO.
 
-**Sum Dek Joe:** Yang PAS tu budak sikit.
+**Rafizi:** Yang PAS tu budak sikit.
 
-**Rafizi:** Sebab tu dia... oh tak, saya sedang komen yang komen.
+**Sum Dek Joe:** Sebab tu dia... oh tak, saya sedang komen yang komen.
 
-**Sum Dek Joe:** Oh, komen budak tu, komen budak ni or something.
+**Rafizi:** Oh, komen budak tu, komen budak ni or something.
 
 **Rafizi:** Tapi yang itulah yang seronok tu — "saya memang ada manifesto sendiri, tapi manifesto itu akan terjadi apabila kemenangan berpihak pada saya."
 
@@ -147,13 +147,13 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Ini ikut komen-komen nanti kena saman.
 
-**Speaker ?:** Saya dah ready.
+**Haziq:** Saya dah ready.
 
-**Speaker ?:** Yang ni bagi Joe komen.
+**Rafizi:** Yang ni bagi Joe komen.
 
 **Rafizi:** YB kan ada panel lawyer. Tak adalah, tak adalah sebab takut kena saman ke apa. Cuma yalah, ahli politik ni, dan tidak terhad kepada Datuk Seri Asyraf Wajdi sajalah — saya pun semualah kan. Satu tuntutan daripada rakyat yang saya ingat fair ialah consistency. Kita kena konsisten dalam semua perkara. Dan ahli politik ni memang susah nak kekalkan itu. Soalan yang sama yang netizen tanya ni — kalau soal budak-budak, you bully, you touch, you go, fair enough kan. Saya rasa ibu bapa yang anak dia kena bully tu memang setuju, sebab kesan bully tu boleh jadi kesan jangka panjang. So benda tu fair enough. Tapi bila ada inconsistency — untuk budak-budak bully, tak ada second chance langsung — tapi kepada orang tua, tambah-tambah kalau ahli politik atau pemimpin, macam-macam alasan diberi yang sebenarnya contradict dengan betapa beria dia pasal "no second chance, you touch you go." Masalah inconsistency ni sama juga dengan soal Dato' Seri Anwar sekarang. Sekarang ini pendakwaan demi pendakwaan, beria — baguslah, kita sokong. Tapi pada masa yang sama, bila nampak inconsistent — kes-kes yang bersabit dengan orang rapat dengan beliau, Tan Sri Azam Baki, Farhash, corporate mafia, Ramanan, Shamsul Iskandar dan lain-lain — kalau dalam Pejabat Perdana Menteri sendiri benda macam itu boleh berlaku dan kantoi, kita tak tahu apa lagi yang berlaku di tempat lain. Bila dia inconsistent macam ini, rakyat jadi sinikal. Yang tidak sehaluan dengan UMNO, dia hentam Asyraf Wajdi; yang tak sehaluan dengan PH pula daripada PAS atau BN, bila ada pendakwaan, dia hentam juga. Jadi isunya ialah inconsistency yang diamalkan ahli-ahli politik ni. Jadi akhirnya memang betullah, "you touch you go" ni untuk rakyat marhaen saja, untuk orang biasa — tak applicable kepada orang-orang yang di atas. Okey.
 
-**Haziq:** Joe boleh komen tak kalau you nak komen?
+**Rafizi:** Joe boleh komen tak kalau you nak komen?
 
 **Rafizi:** Tak nak. Saya takutlah.
 
@@ -161,9 +161,9 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Yeah, aku setuju. Tadi aku nak rate juga, tapi kau bagi Joe rate — tapi yes, yes, yes, setuju, kita orang sependapat. Okey, baik, baik, baik. Sebab dia kata US tawarkan bantuan untuk menjatuhkan.
 
-**Speaker ?:** Tahniah kepada Tan Sri Hadi Awang.
+**Haziq:** Tahniah kepada Tan Sri Hadi Awang.
 
-**Speaker ?:** Okey, baik. Selesai.
+**Haziq:** Okey, baik. Selesai.
 
 **Haziq:** Kita pergi hidup keras YB. Kita ada 2 topik. Isu FELDA kita sambung lagi sikit, dan kemudian kita tengok laporan PISAR lah. Okey, pertama kita tengok isu FELDA part 2. Kalau sebelum ini kita dah go through 44 penulisan YB berkaitan dengan FELDA, semua expose-expose. Kali ni mungkin kita nak check the way forward — apa yang kita boleh buat dengan FELDA sekarang. Mungkin kita sentuh tentang model dia, sebab YB pun ada sebut sebelum ini masalah FELDA — daripada 122,000 peneroka sampai tahun 1990, sekarang saya check dah berkembang jadi 2 juta keluarga, generasi keempat. Dalam masa sama kita kena buat replanting sebab umur kelapa sawit dah berkurang, berkaitan hutang peneroka. Jadi dah banyak masalah — adakah model yang dulu itu sesuai lagi sekarang?
 
@@ -181,13 +181,13 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Apa-apa loan yang FGV ambil semua kerajaan assume. Jadi contingent liability.
 
-**Sum Dek Joe:** Ha, so jadi contingent liability. So there's a cost to FGV.
+**Rafizi:** Ha, so jadi contingent liability. So there's a cost to FGV.
 
 **Rafizi:** So delisting FGV itu sementara beefed up income statement dan balance sheet FELDA — dia tidak semestinya menyelesaikan masalah FELDA terus, sebab masalah tu masih banyak structural. Net cash flow itu pun bergantung — kalau contohnya you dapat 800 juta, 1 billion daripada FGV, tapi FGV tak untung, untung dia sebenarnya mungkin 100 juta, then you kena compare dengan liability yang you assume, the interest yang you assume kan. 3, 4 tahun kemudian kita boleh cakap sebenarnya delisting of FGV tidak berjaya, dia terus menjadi beban kewangan kepada kerajaan. Lepas tu nak buat apa? Nak release balik ke apa? So while saya faham kenapa delisting itu berlaku, tapi mistake dah berlaku. You reverse itu pun — yang kita hanya boleh berharap ialah bila di-lease FGV dan jadi part of FELDA balik, FGV itu perform better, dan paling kurang net cash flow kepada FELDA itu berbaloi dengan kos yang rakyat tanggung, dan hutang yang rakyat kena assume. Dan itu paling kurang mengurangkan pergantungan FELDA kepada suntikan peruntukan kerajaan in the future. So it's like if it's a loss-making business but something yang you tak boleh nak exit, the best that you can do is make sure dia cash-neutral going forward. Kalaupun tak unlock the value, atau tak bagi hasil tinggi, at least you don't have to keep on putting good money after bad money kan. Itu FGV. Tapi sebenarnya daripada 2010 lagi pun, dah ada isu-isu structural ni — inilah yang sepatutnya diberi tumpuan oleh kerajaan Dato' Seri Anwar, tambah pula sebab dia ambil portfolio FELDA ni, dia yang jaga FELDA. Dia marahlah kat saya kalau kita sebut semua ni. Tapi realitinya, kalau trace balik segala pengumuman daripada Dato' Seri Anwar Ibrahim mengenai FELDA, ada ke tidak pasal structural? Tak ada tau. In fact, there was hardly any announcement about fixing the structural problem of FELDA sejak hari pertama dia jadi Perdana Menteri. Dan orang lain tak boleh sentuh FELDA — memang di bawah dia, dan kalau sentuh kena marah. Jadi apa structural issues-nya? Satu ialah model FELDA sekarang. FELDA ni dibuat tahun 60-an, 70-an. Daripada 115,000 orang peserta FELDA, of course dia orang semua dah jadi datuk nenek sekarang, dah tua, umur 70, 80. Ada generasi kedua, ketiga sampai keempat. Modelnya — kalau sebelum ini masa BN dulu, FELDA ini jadi macam anak kerajaan. And so because of vote bank — macam saya sebut dalam podcast yang lepas — fault line pertama ialah kerana FELDA ini dilihat sebagai vote bank untuk menang kerajaan. Jadi ada banyak decision making yang mendefinisikan economic and financial sustainability. Bila dah daripada generasi pertama, jadi generasi kedua, model FELDA yang awal itu tidak dirangka untuk mengambil kira sampai generasi keempat. Maka timbul soal perumahan generasi kedua, generasi ketiga — sedangkan tanah-tanah FELDA tu dah dibagi-bagikan suku ekar setiap seorang untuk buat rumah untuk dia sendiri. Tapi bila dah ada anak, ada cucu, dan penempatan FELDA makin besar, dan dia orang nak rumah — ambil tanah mana? Itu tak ada tau, dulu masa awal-awal tak ada sebut mandat FELDA ini untuk jaga generasi kedua, ketiga, keempat sampai kiamat. Tak ada tau. Ia hanya — I think the model expects it to be self-sustaining, sebab ia program pembasmian kemiskinan. Jadi modelnya, generasi kedua, ketiga semua, they will be out of FELDA, tidak bergantung kepada penempatan FELDA. Kemudian kita juga ada isu bila dah sampai generasi kedua, ketiga, keempat ni, isu pasal pewarisan. You nak maintain 10 acres of land — kalau anak dia 5, 6 orang, memanglah kena pilih salah seorang untuk mewarisi. But it's easier said than done, kalau dia mewariskan the whole scheme kepada seorang anak, sebab nama dia lah nanti jadi pemilik geran, rumah, semua tu. Tapi anak-anak lain, sebab itu, proses pewarisan jadi panjang. And then there is no guarantee generasi kedua, bila sampai generasi ketiga nak wariskan kepada cucu atau cicit — there's no guarantee they know anything about kelapa sawit. For all you know, cucu generasi ketiga, keempat tu totally detached, mungkin dia tak lahir dalam penempatan FELDA pun, tak tahu pasal kelapa sawit, tapi they have to run a small plot of kelapa sawit. Ini memang cabaran kepada model itu — to expect orang yang memulakan FELDA dulu-dulu, 40, 50 tahun lepas, untuk work this out semua, memang tak adil, sebab they have to do the heavy lifting masa itu untuk get FELDA off the ground and create this. Memang tanggungjawab subsequent governments untuk masuk dan fine-tune model ni. Itu pun kita tak tahu ada any change atau tidak — saya rasa tak ada. Dan kalau you start tengok model dia semua ni, then you have to ask a question lagi. Oleh kerana life cycle kelapa sawit ni lama — satu pusingan daripada tanam sampai jadi prime, sampai mature, kemudian jadi pokok tua — satu cycle tu berapa lama? 18 years, 15 years?
 
-**Speaker ?:** I think about that.
+**Sum Dek Joe:** I think about that.
 
-**Speaker ?:** 25 to 30 years.
+**Haziq:** 25 to 30 years.
 
 **Rafizi:** Ya.
 
@@ -199,7 +199,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Mungkin cepat sikitlah. So but at least 18, 20 tahun macam tu. Maksudnya satu cycle ni ialah satu generation. Kalau 20 to 30 years, the world changes a lot dalam tempoh itu. Commodity prices changes a lot, value kelapa sawit pun berubah, value tanah pun dah berubah. Zaman 60, 70-an dulu, tanah-tanah ni tak ada value kepada kerajaan, sebab tu kerajaan bagi je. Tapi bila dah lama macam ini, dah jadi perbandaran around FELDA semua, tanah-tanah tu semua ada value. Yang plantation swasta — dia swap daripada tanam kelapa sawit jadi taman perumahan. Itu yang keluar bandar-bandar yang Sime Darby buat. In fact, the whole KL ni sebenarnya is built on plantation atau lombong. Subang USJ was lombong atau kelapa sawit? Taman Tun, I think kelapa sawit. So while commercial plantations can pivot dan boleh berubah, sebab it's their decision, tanah dia semua — dia orang lebih responsive kepada keperluan dan nilai ekonomi semasa. FELDA tak boleh macam tu. Then you go even further — kena juga tanya soalan going forward, food sustainability and food security becomes very important. Dulu kita pilih kelapa sawit, awal-awal getah, kemudian kelapa sawit sebab it was a good revenue earner for the country dan pada masa yang sama boleh bagi good income kepada settlers. But what if — dan trajectory-nya, Joe you can tell better, I don't monitor all these numbers every day — chances are going forward, food prices will continue to rise, go up. In the future, benda-benda yang we take for granted, contohnya food, contohnya air, water — ini semua akan jadi mahal sebab population and climate change. Kita punya food dependency kepada import is very high. Apa dipanggil — self-sustaining level, SSL kan. Tahap sara diri dalam Bahasa Melayu — apa dia SSL untuk apa? Self-sustaining level ke apa? Aku pun lupa kadang-kadang, I'm not an encyclopedia yang boleh ingat semua.
 
-**Speaker ?:** Tahap sara diri.
+**Haziq:** Tahap sara diri.
 
 **Rafizi:** Oh, dipanggil tahap sara diri. In English, SSL. Which is? Self-sufficiency.
 
@@ -207,15 +207,15 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** SSL pun ada orang pakai, SSR pun ada. Dua-dua ada.
 
-**Haziq:** Dia pakai interchangeably kan.
+**Rafizi:** Dia pakai interchangeably kan.
 
 **Rafizi:** Self-sufficiency ratio — itu more commonly used lah. Dia kira berapa peratus daripada demand itu locally produced, berapa banyak import. SSR kita contohnya untuk cili, baru 20-30%. Kalau beef, kita sampai — beef kalau tak silap I think.
 
-**Sum Dek Joe:** What? Below 20% eh?
+**Rafizi:** What? Below 20% eh?
 
-**Rafizi:** Eh, ya ke?
+**Sum Dek Joe:** Eh, ya ke?
 
-**Sum Dek Joe:** No, no, dia terbalik.
+**Rafizi:** No, no, dia terbalik.
 
 **Rafizi:** Oh, okay, sorry, you're right. Maksudnya kalau cili, SSR sepatutnya berapa? Kalau beef 80%, kita sekarang 20%. Kita sekarang berapa? Chili, cuba tengok cili kita berapa? SSR sepatutnya berapa and what is our achievement sekarang?
 
@@ -223,11 +223,11 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** 35%. Kalau beef dalam 20% — eh sorry, dia selalu terbalik. Tu dia interchangeable tu, Joe. 35% itu — oh, betul.
 
-**Sum Dek Joe:** Ha, dia terbalik.
+**Rafizi:** Ha, dia terbalik.
 
-**Rafizi:** Beef is about 16%.
+**Sum Dek Joe:** Beef is about 16%.
 
-**Sum Dek Joe:** Ha, beef 16%, dia reverse.
+**Rafizi:** Ha, beef 16%, dia reverse.
 
 **Rafizi:** Dia reverse. So kalau cili 35%, maksudnya — sebab tu aku rasa SSR 35% tu is not correct maksudnya. SSR kita berapa? Cuma kita sekarang at 35%. What is the optimum ratio between locally produced dengan import? So cili I think is much higher than 35 sepatutnya. So beef sekarang import 16% — eh sorry, import 84%, locally produced 16%. So SSR tu sepatutnya satu figure yang menjadi sasaran negara. Sebab kita pun tak boleh kata kita nak produce semua, kan tak boleh. Okay, coming back to FELDA — so you have this question about food security. Kalau dulu because of national agenda untuk membasmi kemiskinan, our forefathers pergi buat semua ni, buat sampai satu rancangan tanah terbesar di dunia, spend billions of ringgit doing it. Then you have to go through that motion untuk kita decide going forward dengan structural problem, soal economies of scale semua, kemudian value semua. Adakah sampai bila kita akan kekal tanam kelapa sawit ni? Contohnya, just to throw an idea — orang selalu cakap aku gila — tapi just to throw an idea: kalau ada tanah-tanah FELDA yang lebih sesuai untuk ditukar menjadi greenhouses, dan kalau kerajaan tumpu kepada greenhouses untuk tanam makanan, dia bagi better value. Even kalau tak boleh parity sama dengan kelapa sawit, tapi kalau ia create more jobs kepada local, maka ia juga achieve food security. Then those are the motions that we have to go through. Soalannya, adakah benda ini kerajaan dah go through?
 
@@ -257,25 +257,25 @@ So kalau you tengok, sebenarnya sebelum kita nak go into the high level semua, k
 
 The picture is somewhat murky. Ha kan. So kalau ikut official number eh, sebenarnya replanting cost FELDA ni, dia agak competitive, ataupun even lagi rendah daripada replanting cost commercial plantation ni sehingga tahun 2020. So you'll be surprised. Wow. Ha, tapi ada, ha, apa caveat dia?
 
-**Speaker ?:** Ha, ada caveat dia.
+**Rafizi:** Ha, ada caveat dia.
 
 **Speaker ?:** Caveat.
 
-**Speaker ?:** Nanti jap eh.
+**Rafizi:** Nanti jap eh.
 
 **Rafizi:** So saya bagi mana?
 
-**Speaker ?:** Let me see, I got a lot of numbers here.
+**Rafizi:** Let me see, I got a lot of numbers here.
 
 **Speaker ?:** Aku pun.
 
 **Rafizi:** Ah, kat mana tadi? Yang tu yield punya tu lah. Yang saya tengah nak cari yang data saya pasal direct development cost lah kan. Okey, kalau tengok ni kan, ini daripada data FELDA sendiri lah. Sebab you nak kena go through dia punya laporan tahunan lah, jawapan di parlimen lah, kenyataan semua kan. So kalau ikutnya 2010, FELDA umum dia punya replanting cost direct, maksudnya kos pembangunan per hektar lah. Yang itu termasuklah contohnya clear tanah, kemudian anak pokok, kemudian tanam, kemudian baja, kemudian jaga, jaga lalang, semua lah untuk tempoh 36 bulan kan. So kalau ikut ni, 2010 FELDA umum 6500 per hektar. 2015 ke 2019, 10,000 per hektar. 2022 dia dah naik jadi 18,000 per hektar. Ha, 2022 ni, 2025 yang last year eh, dia dah jadi antara 27,000 ke 29,000 per hektar. So kalau tengok that angka alone tanpa konteks, memang lunyai lah, kerajaan Madani kan. Ini kalau Lim Sian Si dapat ni, oh, they go to town lah. Tapi dia tengah merajuk. Ha, dia tengah merajuk. Kenapa pula? Kenapa? Kan dia ada buat penulisan, "jangan rujuk saya lagi." Sebab apa pula dia merajuk? Dalam UMNO kot. Kata pergilah tanya ketua penerangan semua. Oh. Berjaya kita. So macam mana, part UMNO dah tak ada ulama Lim, dia kena cari ulama baru. Ha. Okey, okey. Anyhow, balik pula. Berita. Patut kau masukkan beria. Ah, dah lupa, masuk beria.
 
-**Haziq:** Ulama UMNO merajuk. Alah, beria merajuk.
+**Rafizi:** Ulama UMNO merajuk. Alah, beria merajuk.
 
 **Rafizi:** Okey, so kalau based on this kan, UMNO ke PAS kan kata tak guna punya Madani. Dia dah naik sampai 3, 4 kali ganda dalam tempoh 15 tahun di bawah Madani. Daripada 6500 sehektar, sekarang dah jadi 27,000, 29,000 kan. But that's without context lah. So aku pun terkejut, "shit, teruk, takkan teruk macam tu kot." So you have to double check lah kan. So let me give you two numbers kan. Satu ialah replanting cost masa untuk tempoh itu dengan commercial plantation. Ha, tengok eh, dia banyak-banyak angka, aku pun pening kepala. Ha, kalau tengok 2012, kalau OSK punya report kan, dia letak commercial plantation 15,000 per hektar. Which tadi saya sebut berapa tadi? Maksudnya kalau based on that kan, FELDA lagi murah, tau, masa tu, 6500, commercial 15,000. Kan? Kemudian FELDA punya angka 2015 ke 2019, 10 ribu per hektar pun sama. So kalau untuk commercial antara tahun 2015 ke 2020 tu dia antara 15,000 ke 18,000 per hektar. Berbanding dengan FELDA dalam tempoh yang sama lebih kurang 10,000 saja, tau. Dia kekal 10,000 sampai ke tahun 2020. So macam mana? Rasuah ke tak rasuah? So kalau yang duk duk hentam FELDA, apa namanya, FELDA ni separuh mati, kata, "oh FELDA rasuah lah, replanting hutang tinggi semua, sebab itu hutang" — the number doesn't seem to suggest that, no. Ha, sebab kalau tengok kepada yang diumumkan oleh FELDA, replanting cost per hektar, dia lagi murah. Masa industri dalam 12,000, dia separuh, 6,500. Masa industri dalam 15 ke 18,000, dia separuh juga, 10,000. Cuma masa Madani ni je naik sampai 27 ke 29,000. So why? Dia sebab subsidi. Ah, I was going to say. Dia sebut pasal subsidi. Yang itu yang diumumkan ialah yang di charge.
 
-**Sum Dek Joe:** Jadi itu gross net lah kan. Net subsidy. Subsidi dia tak diumumkan lah — sebenarnya yang peserta sign tu, kalau peserta nak lantik dan bagi kepada FELDA, dia tahulah berapa kos semua. Itu yang dikira hutang dia lah kan. Tapi dia ada subsidi. Bila saya lihat, ha, biar betul kan, sebab number-nya tak jive antara FELDA dengan setengah daripada apa yang commercial plantation kena bayar. Jadi saya trace balik — dulu ada FELDA Technoplan, subsidiary yang buat kerja ni. Selepas pertukaran kerajaan 2020, FELDA Technoplan diserap dan direform, sekarang dipanggil FELDA Plantation Management (FPM).
+**Rafizi:** Jadi itu gross net lah kan. Net subsidy. Subsidi dia tak diumumkan lah — sebenarnya yang peserta sign tu, kalau peserta nak lantik dan bagi kepada FELDA, dia tahulah berapa kos semua. Itu yang dikira hutang dia lah kan. Tapi dia ada subsidi. Bila saya lihat, ha, biar betul kan, sebab number-nya tak jive antara FELDA dengan setengah daripada apa yang commercial plantation kena bayar. Jadi saya trace balik — dulu ada FELDA Technoplan, subsidiary yang buat kerja ni. Selepas pertukaran kerajaan 2020, FELDA Technoplan diserap dan direform, sekarang dipanggil FELDA Plantation Management (FPM).
 
 Bila kita tengok, masalahnya ialah pada zaman Technoplan dulu, dia selalu above budget — cost overrun. Ambil contoh daripada laporan Ketua Audit Negara, rasanya 2010, masa Tan Sri Amrin buang. Masa itu pun sudah dihighlightkan betapa cacamerbanya keadaan — perjanjian tak jelas, tak pasti siapa buat apa, siapa yang patut potong rumput dan sebagainya. Sebab itu ada peneroka marah — dah bayar kat FELDA tapi rumput tak dipotong, mungkin sebab kontrak itu tak jelas tentang tanggungjawab. Ini semua ada dalam laporan Ketua Audit Negara 2010. Ambil masa 10 tahun untuk direform — hanya pada 2020 FELDA Technoplan ditutup dan ditukar nama jadi FPM.
 
@@ -341,7 +341,7 @@ Saya harap lepas ini kertas putih, kertas kuning, kertas hijau semua akan keluar
 
 **Rafizi:** Orang tak — FELDA yang awal-awal ada semua. FELDA Bilut ada Cina, ada orang India. FELDA kat Johor... saya tak ingat lah FELDA Johor yang paling awal sekali, bukan a type anda, yang lebih awal daripada itu. Sebenarnya ada Cina, India. Tapi sebab masa awal-awal FELDA ni ialah a economic restructuring untuk mengeluarkan keluarga daripada kemiskinan, so awal-awal tu memang ada macam tu lah. Okey, baik.
 
-**Speaker ?:** Alright. Okey, YB.
+**Haziq:** Alright. Okey, YB.
 
 **Haziq:** 1 jam 40 minit. So kita ada baki 1 jam 40 minit total lah — total untuk eh, total total. Bukan FELDA. Maksudnya sejam 10 minit untuk FELDA. So kita ada baki lebih kurang sejam 20 minit untuk PISA. Okey, baik. Jom.
 
@@ -417,7 +417,7 @@ Saya harap lepas ini kertas putih, kertas kuning, kertas hijau semua akan keluar
 
 **Sum Dek Joe:** Okey. Yalah, just going back to the point lah — hampir dua pertiga anak pelajar kita berumur 15 tahun tidak dapat mencapai tahap asas Level 2 dalam matematik kita. Apa maksud dia? Dia ada satu contoh lah — penonton-penonton semua, kalau ada masa lapang boleh pergi baca lah. Dia bagi satu contoh apa exactly example untuk Level 2. So Level 2 untuk matematik ialah, boleh tak — let's say — convert currency. So let's say kalau 1 Sing dollar boleh tukar berapa ringgit? 3 ringgit. So kalau ada 40 Sing dollar boleh dapat berapa duit? Dia tak boleh jawab yang itu.
 
-**Rafizi:** Kau bayangkan. 2 out of 3.
+**Sum Dek Joe:** Kau bayangkan. 2 out of 3.
 
 **Sum Dek Joe:** 65% anak pelajar kita. Sangat membimbangkan tau.
 
@@ -431,7 +431,7 @@ Saya harap lepas ini kertas putih, kertas kuning, kertas hijau semua akan keluar
 
 **Speaker ?:** Percaya saya.
 
-**Speaker ?:** Kau percaya ke aku?
+**Rafizi:** Kau percaya ke aku?
 
 **Sum Dek Joe:** Kita memang rekod yang keempat besar. Dan yang jatuh lebih banyak macam Norway ke, Iceland ke, Slovenia ke — dia punya nominal level is actually higher daripada kita orang. So base dia actually lagi tinggi.
 
@@ -489,7 +489,7 @@ Saya harap lepas ini kertas putih, kertas kuning, kertas hijau semua akan keluar
 
 **Rafizi:** Lebih tinggi. Cuma membaca berapa — sebab ini kena tengok konteks dia. Membaca yang tak sampai tahap, dia berapa — about 50% plus ke? Sekejap, saya sedang check.
 
-**Sum Dek Joe:** Ada kat sini, aku pun ada kat sini.
+**Rafizi:** Ada kat sini, aku pun ada kat sini.
 
 **Rafizi:** Reading, eh — reading maksudnya 56% below reading proficiency. Maksudnya begini — bayangkan orang ramai yang menonton ni, ini budak umur 15 tahun tau, ini bukan budak darjah 1, darjah 2. Budak umur 15 tahun, tingkatan 3 — 56% dari segi keupayaan membaca di bawah tahap penguasaan pembacaan yang ditetapkan. Ada example tak, Joe?
 
@@ -505,11 +505,11 @@ Saya harap lepas ini kertas putih, kertas kuning, kertas hijau semua akan keluar
 
 **Rafizi:** Dia berbelanja — kalau tengok bar tu besar, kemungkinan dia belanja berapa? Dalam 60, 70 dollar lah kot, tak? Mungkin close to 100 dollar.
 
-**Sum Dek Joe:** Dia berbelanja only lebih kurang one-fifth, 20% je daripada yang kita berbelanja untuk murid-murid kita.
+**Rafizi:** Dia berbelanja only lebih kurang one-fifth, 20% je daripada yang kita berbelanja untuk murid-murid kita.
 
-**Rafizi:** Tapi dia punya trend pick up?
+**Sum Dek Joe:** Tapi dia punya trend pick up?
 
-**Sum Dek Joe:** Philippines, Vietnam, semualah.
+**Rafizi:** Philippines, Vietnam, semualah.
 
 **Rafizi:** And then kita bolehlah kata, oh, Singapore, Hong Kong, Korea, Japan, China ni semua lagi bagus daripada kita sebab peruntukan dia lebih besar. Then you nak jawab macam mana yang Thailand, Philippines, Vietnam semua ni?
 
@@ -529,17 +529,17 @@ Satu lagi sebenarnya preschool lah — umur 5 tahun, kalau kita ada duit even fr
 
 Tapi untuk menyediakan universal child care atau preschool, dia tak boleh buat macam piecemeal yang kita ada sekarang ni lah — umumkan peruntukan lebih sikit kepada itu, lebih sikit. It has to be a national revolution. Satu negara buat, dia kena commit untuk 10 tahun, berapa banyak tambahan. Dan untuk kita membina tu, dia perlukan national plan. Kalau kita nak kurangkan cost per classroom sekarang 1 juta lebih, how to bring it down to maybe just 200,000 — then necessity is the mother of all invention. Oleh kerana itu keperluan kita, kita kumpullah seberapa yang cerdik dalam negara ni to work it out. But for that to happen, dia perlukan national push daripada paling atas. Then my question again kepada Dato' Seri Anwar — do you do it? Adakah kita ada dengar daripada dia? Adakah dia sangat passionate pasal benda ni? Janganlah dia kata, kenapa nak tanya saya, Zahid kau tak serang, Hadi kau tak. Well, I mean, kita memang tak menaruh harapan kepada Zahid ke Hadi ke Hamzah lah. Rakyat sebelum ni menaruh harapan kepada you, kan. So kalau kita tegur, you janganlah kata nyek nyek nyek lah, itu semua. Ini adalah expectation kepada seorang reform prime minister. Then tak kisahlah you sepenggal ke apa, tapi you tinggalkan legasi — after all Tun Razak dulu sepenggal je pun. Tun Razak bukan dua penggal pun, from 1970 kepada 1976, dan dia meninggal — dia menang pilihan raya sekali je, 1974, tak pernah menang pilihan raya more than that. Tapi to be fair to him, I know there's a divided opinion about Malays, non-Malays pasal Tun Razak — to be fair to him, he left a lot of legacies yang jadi the basis of the country. So salah ke kalau kita nak expect the same thing daripada Anwar Ibrahim? It's been 4 years, dia dah dekat nak sampai lebih kurang sama lama dengan Tun Razak ni kan. But you don't see him pushing this. Ucapan-ucapan — sebab tu orang lama-lama marah, kalau dia semua ucapan dia sakau, sakau, sakau. People actually expect him to lay out the foundation satu demi satu, okey? Orang yang membenci sayalah, orang-orang PH ke apa, ceplos ni, dia akan kata saya dah menjadi pencinta Tun Mahathir lah. No, we need to be objective. Objektif. Ingat tak Wawasan 2020? Korang tak lahir lagi kot masa tu?
 
-**Haziq:** Dah lahir. Tak, tak, masa pelancaran. Pelancaran bila? 1990 kan? Joe 1993 — so tak ada lagi kan?
+**Rafizi:** Dah lahir. Tak, tak, masa pelancaran. Pelancaran bila? 1990 kan? Joe 1993 — so tak ada lagi kan?
 
 **Rafizi:** 3 tahun kemudian. Kau pun tak ada lagi kan? 92 kan? Kau ingat macam mana Wawasan 2020 tu dilancarkan? Ada belon? Tak, tak, tak. Wawasan 2020, saya tak ingat ada pelancaran. Dia bukan macam yang ada sekarang ni, pumpang-pumpang, semua besar-besaran, ada hologram, jarayawara whatever lah kan, yang macam program Madani Rakyat semua ni kan. Actually dia hanyalah satu ucapan daripada Tun Mahathir — dia satu ucapan je. Dia set out sebenarnya the vision for Wawasan 2020 gini-gini kan. Mungkin masa tu sebab tak ada internet ke apalah kan, so semua orang duk repeat semua kan. But without internet pun benda tu eventually cascaded and very quickly. Then dia jadi gagal — Wawasan 2020 gagal lah. Tapi the 90s tu was defined dari segi direction about Wawasan 2020. So we are waiting for that kind of direction daripada Dato' Seri Anwar. Kalau tanya dia, dia akan kata, kami dah lancarkan Madani. Tak ada orang faham Madani bila dia lancarkan buku tu, because it's all high level. Diorang selalu marah aku sebab aku tak nak guna nama Madani kan — mana ada branding Madani dalam program yang Kementerian Ekonomi buat dulu-dulu. Tapi at the end maybe guna jugalah kan, contoh Madani Mendengar — ha, yang itulah, itu pun paan paksa. Okey, baik-baik, betul kan kalau ikut aku. Tapi anyhow, sepatutnya dalam 1-2 tahun pertama tu kan, soal FELDA, very clarity about what kind of reform, apa nak jadi. Sebab di Malaysia ini is very top driven — menteri pun kalau tak berhati-hati, nothing much you can do sebab orang menunggu isyarat Perdana Menteri. Sebab tu memilih Perdana Menteri tu memang pentinglah — orang tunggu isyarat daripada Perdana Menteri kan. So you set out and make sure your team bagi instruction, bagi KPI semua, and then you kena hold him or her accountable every now and then.
 
 Kemudian soal pendidikan — satu, satu, satu, and you must take the ownership. Jangan tinggalkan soal PISA ni 100% kepada Fadlina saja. To be fair to Fadlina, banyak benda yang dia nak kena buat di luar kemampuan ataupun bidang kuasa Kementerian Pendidikan. Soal bajet orang lain, soal nak bina sekolah tu soal JKR, soal preschool sekarang ni ada overlapping jurisdiction. Very fragmented — sebahagiannya di bawah Kementerian Perpaduan, ada tu Kemas di bawah Zahid Hamidi semua kan. So semua ini as a prime minister, dia nak kena come in, break the walls, put everyone and jalan. Itu kita tak nampak. Dan saya haraplah lepas ni, kot-kot ada orang dengar semua ni, terbukalah hati Dato' Seri Anwar ke. Fadlina dah Datuk Seri sekarang kan.
 
-**Haziq:** Datuk Seri Fadlina Sidek ke kan?
+**Rafizi:** Datuk Seri Fadlina Sidek ke kan?
 
 **Rafizi:** Sebab dia worrying kalau sampai dua pertiga anak-anak kita tak boleh nak convert satu Sing dollar kepada Malaysia ni — is scary lah kan. Dia banyak lagilah kan, dia satu perkara yang saya rasa kita kena drill down betul-betul. Orang akan kata masalah Rafizi ni, dia rasa dia sorang je cerdik, lepas tu dia rasa dia sorang je tahu benda-benda detail semua. Actually, cuba kau tanya engineer kan — engkau nak buat iPad, kau ingat Steve Jobs bila dia nak buat iPad ni, dia pakai bagi instruction, lepas tu pakai turtleneck dia, dia pergi lompat-lompat ke? Dia ambil tahu — dia bukan software engineer tau, Steve Jobs ni background marketing.
 
-**Haziq:** Oh ya ke?
+**Sum Dek Joe:** Oh ya ke?
 
 **Rafizi:** Yeah, he's marketing, dia bukan macam Mark Zuckerberg yang computer software engineering. Tapi he will ambil tahu — kalau dia kata aku nak benda ni licin macam ini, macam itu kan, dia akan hold you accountable and dia akan kejar you sampai dia dapat skrin selicin ini. Walaupun dia terpaksa bergaduh dengan semua orang, semua beli IP sana, he will do it. Dia sama juga — kalau dia nak benda tu curve macam ini, he goes into the most minute detail of the design. So kalau you nak selesai masalah, memanglah bukan you kena buat benda tu sendiri — after all, you Perdana Menteri ke, you menteri kan. But you need to know all the details. Jadi budaya kepimpinan dekat atas ni pun bermasalah sebab dia memang tak nak tahu detail — the program, report-report semua ni tak nak, dia panjang, payah kan.
 
@@ -555,7 +555,7 @@ Kemudian competency guru — setiap kali kita tukar syllabus, setiap kali kita n
 
 **Rafizi:** Dia hanya setakat jadi dokumen bentang dekat parlimen. Habislah. Sedangkan kalau sayalah kan, you develop a master plan, business plan untuk 5 tahun — actually your life is sebenarnya making sure kalau you CEO kat atas, you making sure your division, this is your deliverable, what have you done, and you need to transparently communicate and be accountable for it, bukan sahaja kepada me, the stakeholder, but all the other stakeholders. So you tak nampak benda tu semua. Sekarang ni keseluruhannya ialah politicking lah — sakau, sakau, kemudian yang sana marah Anwar, yang sini nak bergabung kan. So bila perkara ni berlaku, mark my word lah, most probably 2029 punya pilihan, kalau kita masih lagi macam ini dekat podcast ni, kita dah sama dengan Cambodia kot — mungkin Cambodia sudah.
 
-**Sum Dek Joe:** Oh, selesailah lagi Cambodia take over kita, mampus kita.
+**Rafizi:** Oh, selesailah lagi Cambodia take over kita, mampus kita.
 
 **Rafizi:** Ha kan. Kemudian yang tak boleh menguasai matematik tu, bukan saja dua pertiga lah, selesailah lagi jadi 80%, mampus kita kan. So these are perkara-perkara besar yang kita tak boleh selesaikan sekarang lah. But I wish the national discourse is about this lah. And I wish there are more actually to be fair.
 
@@ -581,7 +581,7 @@ Kemudian competency guru — setiap kali kita tukar syllabus, setiap kali kita n
 
 **Rafizi:** Kita kan ada banyak podcast-podcast lain. Kita pun dah 3 jam setengah ni. Mana ada, 2 jam 50 minit. Oh, so dia nak drag supaya hit 3 jam lah, supaya monetized type. Tak, dia in fact kita punya agenda untuk pendidikan, satu yang pendidikan tu memang is all about Pisa. Kita nak mencapai top 30%, top 1/3 lah, menjelang tahun 2030. Kayanya susah. Saya pun stress lah. I think mungkinlah lepas ini kita kena tukar agenda — sasaran kita ialah untuk beat Cambodia menjelang tahun 2030, ataupun mengelakkan Cambodia beat kita. Sebab top one-third ni nampak macam dah, it will take what, 10 tahun. Tapi.
 
-**Speaker ?:** So every cheer.
+**Sum Dek Joe:** So every cheer.
 
 **Rafizi:** Tak juga tau, kalau tengok — it's okay. Tapi kalau tengok, apa nama ni, Cambodia kan? Dia punya improvement tu from 2018 sampai 2025, 7 years, is almost 100 points improvement tau.
 
@@ -589,7 +589,7 @@ Kemudian competency guru — setiap kali kita tukar syllabus, setiap kali kita n
 
 **Rafizi:** If you look at absolute quantum points, dalam tempoh 7 tahun — saya tak ada full detail kat situlah.
 
-**Speaker ?:** Oh, tapi tak sampai eh.
+**Rafizi:** Oh, tapi tak sampai eh.
 
 **Rafizi:** It's basically daripada around 330, kalau ambil max kan, 330 kepada around 380. So 50 points dalam tempoh 7 tahun. Kalau 10 tahun, actually it's possible to achieve 80, 90 points kan. So kalau kita achieve 80, 90 points daripada 397, kita dah masuk kepada OECD average punya ha. Tapi 5 tahun tak bolehlah, mungkin 10 tahun lah. So maybe kita kena ubah kot, supaya kita tak kena beat dengan Cambodia. Tengok macam ni. Okey, okey.
 
@@ -599,7 +599,7 @@ Kemudian competency guru — setiap kali kita tukar syllabus, setiap kali kita n
 
 **Sum Dek Joe:** Sampai hujung bulan ini je? Sampai hujung September? Kenapa term dia start lambat?
 
-**Speaker ?:** Cambridge start Oktober.
+**Rafizi:** Cambridge start Oktober.
 
 **Sum Dek Joe:** Tak sure, I think start Oktober kot. Tapi bukan sahaja dia lah, ada budak-budak lain yang actually helping out lah semua.
 
@@ -609,17 +609,17 @@ Kemudian competency guru — setiap kali kita tukar syllabus, setiap kali kita n
 
 **Rafizi:** So itu ialah untuk podcast-podcast yang akan datang. Dah cukup 3 jam dah? 2 jam 57 minit.
 
-**Speaker ?:** 2 jam 57 ah.
+**Haziq:** 2 jam 57 ah.
 
 **Rafizi:** Sub-subsoy lah, 3 minit. Sebab minggu lepas dah 4 jam. Makasih can lah.
 
-**Speaker ?:** Okey, itu saja.
+**Haziq:** Okey, itu saja.
 
 **Haziq:** Kita jumpa lagi kat malam.
 
-**Speaker ?:** Okey, macam tu je habis.
+**Rafizi:** Okey, macam tu je habis.
 
-**Speaker ?:** Macam tu lah.
+**Haziq:** Macam tu lah.
 
 **Haziq:** Orang suka, orang puji — orang banyak kritik lah kan, tapi orang puji Haziq bagus, dia buat ending. Endingnya okey baik ah, tu je.
 

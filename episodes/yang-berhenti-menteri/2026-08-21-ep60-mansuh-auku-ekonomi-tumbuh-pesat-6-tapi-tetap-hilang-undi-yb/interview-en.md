@@ -74,7 +74,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Haziq:** Husband. Yeah that's it. Samdek Joe. But it's okay, sorry. How are you? Well? Thank you. If we look at the profile, well brother Joe isn't a first-timer here. Before this we've seen him a lot at launches, at various tours. But if we look at the background, brother Joe really is what — should I call you brother Joe?
 
-**Rafizi:** Oh Joe lah, Joe.
+**Haziq:** Oh Joe lah, Joe.
 
 **Haziq:** Joe. Not formal. Okay, brother—
 
@@ -104,7 +104,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Plus 3, meaning ASEAN— China, plus—
 
-**Multiple speakers:** Japan. and. plus—
+**Sum Dek Joe:** Japan. and. plus—
 
 **Haziq:** Korea— Coming to that question — I mean, why were you willing to resign and go full-time to help YB Raf together in— Help together—
 
@@ -150,7 +150,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Haziq:** Okay, well, that broke my heart, you know.
 
-**Rafizi:** Yeah, okay, let's continue.
+**Haziq:** Yeah, okay, let's continue.
 
 **Haziq:** Beria — the first one, let's start with UMNO. At the UMNO General Assembly, who got LODs? There were so many, this happened right after the Tabung Haji RCI issue was raised. So Ismail Salleh got an LOD, Abied Abdullah got an LOD, and also pro-government pages that we don't even know who run them were also threatened with lawsuits. My News Hub — something like that, isn't My News Hub Najib's? Now has it. has it, has it swung now? I haven't read it. No, it has another name, but it's close to My News Hub, which is Najib's, he's close to it too. But the point is the threat is from Najib's side, not the LOD. 5 million OAB — Ringgit Malaysia — and yeah, if we look at it, usually in personal politics cases, it won't even win up to 5 million. It's like Isham Jalil we once talked about too, he also wanted to sue for several million.
 
@@ -192,7 +192,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Sum Dek Joe:** There are two aspects to it. So one aspect — the first aspect, second term.
 
-**Rafizi:** Very confident, is it Nurul Izzah? Very confident indeed.
+**Sum Dek Joe:** Very confident, is it Nurul Izzah? Very confident indeed.
 
 **Sum Dek Joe:** Okay, very confident. Very confident about the second term, because I feel it's not really strong for — not really confident. But personally, from my own perspective, in my opinion, I feel it's actually quite far-fetched for them to win the upcoming general election. So that's the first point. Second point, regarding this wage reform — why not do it now? Why wait until the second term to do it? Right, there are already a few policies currently being implemented, but we don't have to wait for second term — you can start now. So I really don't understand the context, why wait until the second term to start.
 
@@ -296,7 +296,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** A unit that's elected.
 
-**Haziq:** It's just that there might be unintended consequences.
+**Rafizi:** It's just that there might be unintended consequences.
 
 **Rafizi:** Oh, unintended consequences.
 
@@ -306,7 +306,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Haziq:** Alright, alright. Let's vote. Let's vote. Kak Joe, choose which one went all out the most.
 
-**Multiple Speakers:** For me, I think it's expensive.
+**Sum Dek Joe:** For me, I think it's expensive.
 
 **Rafizi:** Oh, not Fahani. Fahal—
 
@@ -500,7 +500,7 @@ And for this second quarter, even though we see a GDP growth rate of 6%, if we l
 
 **Sum Dek Joe:** The demand boom for AI is mostly about semiconductors. Semiconductors, because there are data processors, data centers and so on, so they need chips that are fast enough or advanced enough, and also memory chips to store the data we use on ChatGPT or in the cloud. So there is indeed very high demand, and Malaysia serves as a hub for OSAT — outsourced semiconductor assembly and testing.
 
-**Rafizi:** The back-end part?
+**Haziq:** The back-end part?
 
 **Sum Dek Joe:** Back-end, yes, definitely back-end. And it must be said, it must be emphasized, that this back-end work is actually the lowest value-added. In a semiconductor chain, the front-end, such as design, actually captures the highest value. But what we do, especially in Penang, is usually back-end work. And we can see that in the second quarter, semiconductor exports grew by 40%. 40%! That's a very high figure — we haven't seen a figure that high in a long time.
 

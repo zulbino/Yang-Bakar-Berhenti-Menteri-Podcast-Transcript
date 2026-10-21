@@ -95,9 +95,9 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** No, it's actually opportunistic sebab you have to match dengan your skill kan. Aku kalau kau macam dekat Colac dulu Form 1 kan, aku tengok semua orang sportsman semua ni, it's not that I have a lower chance of making a difference kalau aku nak main ragbi lah kot. So I can, but I have to work double, triple daripada orang lain. So buat apa baik aku buat benda lain kan.
 
-**Iqbal:** Path of least resistance.
+**Nik Nazmi:** Path of least resistance.
 
-**Rafizi:** Path of least resistance. Tapi pada masa yang sama, persepsi saya bila saya balik dari belajar luar negara-
+**Iqbal:** Path of least resistance. Tapi pada masa yang sama, persepsi saya bila saya balik dari belajar luar negara-
 
 **Iqbal:** Luar negara mungkin yes, kita ada so-called jocks yang ahli-ahli sukan yang itulah budak-budak popular. Tapi kat sini saya perasan golongan budak popular adalah golongan budak berdebat.
 
@@ -127,7 +127,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Nik Nazmi:** Cuma tak tahulah persepsi saya era 88, 90 especially lah dan 91 apa Wawasan 2020. Waktu tu ada that can-do spirit. Malaysia boleh.
 
-**Rafizi:** Menendang Malaysia Thomas, Piala Thomas, dan then yalah waktu tu kita rasa memang I think that confidence ada.
+**Nik Nazmi:** Menendang Malaysia Thomas, Piala Thomas, dan then yalah waktu tu kita rasa memang I think that confidence ada.
 
 **Nik Nazmi:** Maybe.
 
@@ -215,7 +215,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** PJ. Saya di Kemaman, kan. So, you know, to be top student darjah 5, darjah 6 tu, memang you kena beat anak Cina.
 
-**Iqbal:** Dan zaman tu kita ada pelbagai kaum kat sekolah kebangsaan.
+**Nik Nazmi:** Dan zaman tu kita ada pelbagai kaum kat sekolah kebangsaan.
 
 **Rafizi:** Sekolah, kan. Jadi we embrace competition differently, tau. Jadi saya rasa that's why —
 
@@ -269,7 +269,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Dulu memang Malaysia ni, oleh kerana the total control of information oleh kerajaan UMNO dan BN — saya rasa masa awal-awal reformasi dulu, kan, sumbangan yang paling besar kepada reformasi masa itu lah, at least daripada perspektif saya, ialah maklumat. Jadi sebab itu saya ada nilai sebab saya boleh buat website. In fact, masa tahun 2000 tu, saya buat radio internet daripada London, tau, untuk Pemuda Keadilan — macam orang bodoh, akulah tulis berita, akulah rekodkan suara aku, akulah letak streaming — masa tu dah ada streaming, ya. Adalah aku rasa 15 orang dengar setiap hari, lah, kan.
 
-**Iqbal:** One of which was me, lah.
+**Nik Nazmi:** One of which was me, lah.
 
 **Rafizi:** So in fact masa tu, I was exploring — dan saya tried, tau, bayar. Aku dah kerja masa tu, kan, so adalah credit card, bayar untuk beli airwave, untuk shortwave, untuk transmit radio shortwave daripada Europe, tau, to Malaysia.
 
@@ -279,7 +279,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Nik Nazmi:** Dia 2008, waktu saya bertanding waktu tu, kira pembangkang dapat buat satu progress yang besar. Nafikan majoriti dua pertiga, menang 5 negeri semua. It was blocked kan? Waktu tu sebab orang macam waktu tu contohnya lah, sebab satu sudut orang-orang Mahathir dipinggirkan. Apa Khadir Jasin, Rocky Brew semua, diorang ada block. Jeff Uy — saya kebetulan, Jeff Uy semua bertanding pula kan. Jadi that was the turning point kalau 2008. Dan betul 2018 is Facebook. Jadi teknologi.
 
-**Rafizi:** 2022 TikTok tau. Yang tu dah kita kalah yang tu lah.
+**Nik Nazmi:** 2022 TikTok tau. Yang tu dah kita kalah yang tu lah.
 
 **Iqbal:** Masa tu YB Nik dah sedar ke apa yang YB Rafizi tengah merujuk kepada ni, yang bahawa the main cabaran pada masa tu adalah the information monopoly — and kalau boleh atasi cabaran tu, maka there would be wide gains yang boleh dicapai. Macam 2008 tu saya kempen, satu tu saya buat video kempen lah. Orang tak kenal, kata siapa budak macam budak sekolah ni nak bertanding kat sini kan.
 
@@ -315,9 +315,9 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Nik Nazmi:** Dan UMNO pula ambil apa tu, pemuda dia jadi sangat keras. Kres. Apa tu Indra.
 
-**Rafizi:** So non-Malays.
+**Nik Nazmi:** So non-Malays.
 
-**Nik Nazmi:** Take for non-Malays for granted.
+**Rafizi:** Take for non-Malays for granted.
 
 **Rafizi:** Sedangkan kemenangan UMNO tahun 1999 dan juga 2004 tu adalah solid backing of non-Malays kan. Tapi kalau kita tengok sebenarnya tawaran ataupun kempen PKR, PAS dan juga DAP pembangkang masa itu, 2008, tak ada apa pun sebenarnya.
 
@@ -327,9 +327,9 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Iqbal:** BA.
 
-**Rafizi:** PKR dengan PAS. I think apa tu Hassan Ali selit benda tu dan kita pun sign off.
+**Nik Nazmi:** PKR dengan PAS. I think apa tu Hassan Ali selit benda tu dan kita pun sign off.
 
-**Nik Nazmi:** Sebab tu kena ada.
+**Rafizi:** Sebab tu kena ada.
 
 **Rafizi:** So I think 2008 tu banyaknya kerana perpecahan dalaman UMNO. But then again, setiap pilihan raya is not necessarily strength pemenang. It's also the dynamic — competition, weakness of your opponent.
 
@@ -349,7 +349,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Nik Nazmi:** Sedikit, sebab saya ada pengalaman di kerajaan negeri 2008 sampai 2018. Tetapi dia tak sama lah sampai — betul tak seintens di peringkat persekutuan, dia punya level.
 
-**Rafizi:** Tak seintens lah.
+**Nik Nazmi:** Tak seintens lah.
 
 **Nik Nazmi:** I mean Selangor, apa orang kisah, aku jaga pula pendidikan, memang bukan bawah kita bagi duit je kan. Tetapi bila di peringkat persekutuan kan, the buck stops with you. Dan walaupun kadang-kadang banyak benda tanah, apa mineral, tak ada kuasa saya pun, tetapi orang akan tengok kat kita kan. So memang it's a whole different level lah.
 
@@ -397,7 +397,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Nik Nazmi:** Ada orang macam tu. Yes. Ada orang macam tu. Dekat kabinet pun ada orang macam tu. Tapi intervention di dalam kabinet dia ada nota percakapan, dia baca sebiji-sebiji. Sebiji. Tapi my point is, apa gunanya kat situ? Sebab kalau macam tu baik KSU je masuk kabinet. Because you are the one yang ada mandat politik. Accountable to the public, dan you have to give direction. I mean, I have great respect ayah saya penjawat awam. Tetapi dia punya job scope lain. Dia bagi nasihat, keputusan akhir political direction tu daripada kita. Satu lagi, dalam kabinet kita bertanggungjawab secara kolektif. So you ada menteri yang takkan cakap kalau bukan benda dia, hal dia. Yang banyak cakap ni tercampak keluar. Kan? Yang tercampak keluar ni lah yang selalu ada pandangan kan.
 
-**Rafizi:** Sebab kita at that time, that is our last intervention lah kan kalau kerajaan nak bawa benda yang kita tak selesa ke apa.
+**Nik Nazmi:** Sebab kita at that time, that is our last intervention lah kan kalau kerajaan nak bawa benda yang kita tak selesa ke apa.
 
 **Nik Nazmi:** And you have to speak beyond your brief. Kan? Jadi bagi saya, saya rasa penting sebab saya I'm not just minister for NRES. Tapi saya juga ahli jemaah menteri. Tapi tak banyaklah yang semua main selamat.
 
@@ -413,7 +413,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Iqbal:** Very expensive.
 
-**Nik Nazmi:** Very expensive pasu bunga kan.
+**Rafizi:** Very expensive pasu bunga kan.
 
 **Rafizi:** Jadi ini adalah expectation yang saya ingat dalam budaya politik kita masih lagi jauh lah. Kan. Jadi orang rasa kenapa kamu nak — itu yang orang kata, oh dia rasa dia sorang je betul. I mean, is it wrong to put a higher standard? Because without that higher standard, actually then what's the point of changing government and bertanding masuk politik semua?
 
@@ -427,7 +427,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Nik Nazmi:** PSM.
 
-**Iqbal:** PSM is very clear.
+**Rafizi:** PSM is very clear.
 
 **Rafizi:** Okey. No, it's a fair comment lah sebenarnya kan. Dan cuma saya tak rasa hanya kerana ada parti macam PAS atau PSM ada clarity, that does not make it better than orang lain. Kerana clarity itu pun mestilah tengok clear kut mana, ya tak? Jadi memang kalau macam PAS, memang mudahlah dia bagi clarity kerana dia menunggang agama. Sama juga kalau macam PSM, mudahlah dia bagi clarity kerana socialism cara diorang itu will not work at all. Dia tidak akan menyelesaikan, and that makes them so far unelectable sampai sekaranglah. Jadi masalah kepada parti-parti lain, kita ada kumpulan yang berbeza-beza, bukan sahaja dari segi kaum, tapi juga sosioekonomi, dari segi background dan sebagainya. Jadi Malaysia ni sangat majmuk. Bila sangat majmuk, kita kena jadi seinklusif yang sebaik mungkin kan. Dan mungkin bagi pengundi dia tak nampak sangatlah, dan itu kelemahan saya ingat PKR sebelum inilah. Kita tak boleh menyampaikan visi itu dengan baik seperti mana kita faham. I can tell straight away why saya dalam PKR dan bahagian mana dalam PKR yang saya subscribe, kenapa saya tak masuk UMNO dan sebagainya. It's not about semata-mata Melayu, Cina, PAS man. Sebenarnya dari segi the confidence and jati diri in terms of the world view that I hold kan. Saya tak percaya yang saya nak jadi Malaysia yang sejahtera dengan menekan orang lain. Saya tak nak ambil hak orang lain. Saya tak nak sebenarnya jadi hebat dengan berlaku tidak adil dan takut-takut dengan bayang-bayang sendiri tau. I want to be a confident person. I want to be able to strike on my own. I want to be able to put forth an argument dengan confident sama ada betul atau salah, dan saya mahu dihormati for that. And I have my pride, and I want to have that pride, kan? Jadi Malaysia yang saya ingat masa dulu-dulu yang boleh diterjemahkan ke arah masyarakat macam itu ialah melalui PKR. Kerana kemajmukannya, kerana hormatnya kepada perbezaan pandangan, kerana premium yang diberikan kepada intelektual, kerana kita tidak ambil jalan mudah yang mengambil emosi, perkauman dan sebagainya lah. Whether or not PKR is still on that path, we all have to ask, but kalaulah contohnya kita konsisten memastikan bahawa itulah yang orang nampak PKR — meaning that I support this party because it makes me a different kind of person yang can thrive on my own under Malaysian sun tanpa falling back on all this identity, on all this divide ni kan. Because if you are like that, campak kat mana pun you'll be fine. Campak pergi Jepun pun okey.
 
@@ -485,7 +485,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Ha, cape membesar kan. Jadi sekarang ini, masalah utama kita ialah social mobility tu perlahan. Salah satu sebabnya kerana kita starting at the higher point dah sekarang ni, middle class kan. Satu lagi sebabnya ialah kerana dari segi competitiveness, ekonomi kita ni sebenarnya banyak masalah struktur dari segi bentuk ekonominya, dari segi syarikatnya, dari segi kemampuan mencipta nilai ekonomi kita. Kenapa ada masalah struktur? Dia kembali kepada yang Nik sebut tadi — political will, sistem, dari segi regulation, budaya politik, rasuah dan sebagainya. Jadi sebenarnya, walaupun social mobility itu ialah sesuatu yang semua orang faham — kalau dia rasa macam "aku kerja tiap-tiap hari ni macam orang gila ni, sama je hidup aku," then dia tak sukalah, dia tak puas hati kan? Yap. But as you feel layer after layer after layer, it goes back to government sebenarnya kan? Now, kenapa I say is the biggest threat ialah itu telah berlaku di negara-negara lain. Dia belum sampai kat Malaysia lagi. Kenapa berlaku fenomena Trump di US? Kenapa berlaku kucar-kacir, ketidakstabilan politik ataupun kalau di UK, Nigel Farage? Kalau di Eropah, why the lurch to the far right is because of the lack of social mobility.
 
-**Iqbal:** Orang dah frustrated.
+**Rafizi:** Orang dah frustrated.
 
 **Rafizi:** Ha, bila orang frustrated, belajar macam mana pun sama je macam itu juga. They then start pointing fingers lah. Dia jadi anti elite. "Yang kaya tu sebenarnya mesti jahat ini, dia menekan kita." Jadilah PSM contohnya kan. Kemudian—
 
@@ -515,13 +515,13 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Bila kita nak cakap pasal Merdeka?
 
-**Iqbal:** Yeah, by the time—
+**Rafizi:** Yeah, by the time—
 
 **Rafizi:** Or Sudirman for that matter. By the time kita habis perbincangan ini dah Merdeka dah. Actually, now that you mention it eh — tadi you tanya pasal our growing up, pasal Merdeka semua kan. Actually, the constant theme of Merdeka growing up ni Sudirman lah. Ha, dengan baju dia.
 
 **Nik Nazmi:** Sekarang bahaya kot kalau buat apa buat baju pada merdeka. Jadi merdeka terbalik.
 
-**Rafizi:** So I guess mungkin kita boleh mula close up, but then—
+**Iqbal:** So I guess mungkin kita boleh mula close up, but then—
 
 **Iqbal:** Dari segi personal reflections, was there a moment di mana kedua-dua YB Nik, YB Rafizi, you rasa there was this was the most merdeka point you've reached in your career? Was it waktu 2018 kita berjaya jatuhkan kerajaan BN, ataupun was it bila Anwar became PMX? Was there a specific moment in time that made you go, "kita mungkin rasa apa datuk-datuk ibu bapa kita rasa pada tahun 1957"?
 
@@ -531,11 +531,11 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Nik Nazmi:** So that was my point lah, saya rasa. Yalah, after that of course benda tu ada simpang siur dia, tapi I think ada sense of kita mencapai sesuatulah.
 
-**Iqbal:** Okey. Saya pelik sikit tau.
+**Rafizi:** Okey. Saya pelik sikit tau.
 
 **Rafizi:** Saya rasa the most liberating moment was actually 2008. Sebabnya, saya waktu tu di luar. Saya corporate, kerja corporate. Jadi saya tak terlibat dalam kempen 2008 semua tu. Saya dengan keluarga dekat Kemaman habis mengundi tu, malam semua tengok TV kan. Dan kalau you di luar masa tu, you tak rasa denyut kempen tu. Memang it was a big shock lah 2008 kan. Dan bila 2008 berlaku tu, saya memang betul-betul rasa finally everything was not futile after all. Then you know, it cannot be turned back. And it provide — jadi sebab itu lepas 2008, walaupun saya tak berminat, I have marked my career semua, lepas tu bila Dato' Seri Anwar duk kacau semua, sebab itu saya dengan bodohnya resign my job kan, untuk memerdekakan saya daripada corporate sleep kan. 2013, 2018, atau 2022 pun, sebab saya ingat, because I was actually in the thick of everything — jadi kalau you were part and parcel of the campaign strategy, you've been campaigning, you more or less know the result. Jadi it wasn't such a shock. Habis saja keputusan itu, then you sibuk pula dengan aftermath nak bentuk kerajaan lah itu. Jadi aku mandi pun tak sempat kan. And in the case of 2022, 4 hari tak tidur tau, sebab susah nak bentuk kerajaan kan. I remember at some point tu I just singgah dekat office dan then aku just pengsan for about 2 hours kan. Jadi I never had that feel seperti mana 2008. 2008 was yang sampai subuh tak tidur. It's like I was about — yeah, yeah, yeah.
 
-**Iqbal:** Was it excitement?
+**Nik Nazmi:** Was it excitement?
 
 **Rafizi:** Dan Selangor result keluar lambat. And then you must remember, Iqbal, 2008 happened selepas the utter destruction of 2004. Dan semua orang dah bungkus lah, parti nyamuk semua ni, tak ada can lah kan. Jadi suddenly, you know, you feel that the last 10 years was not in vain lah.
 
@@ -547,7 +547,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Simpanan dulu, ani kau simpan.
 
-**Iqbal:** Simpanan dia simpan tau.
+**Nik Nazmi:** Simpanan dia simpan tau.
 
 **Nik Nazmi:** Apa merdeka eh. Merdeka, I think ultimately dia bebas tu satu bahagian, tetapi dia juga — kita ada keupayaan untuk menentukan hala tuju kita. Okey, and—
 
@@ -563,7 +563,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Hari ni aku rasa viewership went down.
 
-**Iqbal:** Janganlah panggil aku.
+**Nik Nazmi:** Janganlah panggil aku.
 
 **Rafizi:** Dah sebab orang bosan oh kalau tak bakar-bakar ni. Dia nak bakar je, bakar lagi, bakar lagi.
 
@@ -571,6 +571,6 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Iqbal:** It was weird because you had people, the feedback asking for, "can you ask for more vision questions like long term mission building questions."
 
-**Rafizi:** Oh ya ka? Okey, okey, okey. So ada, oh, ada, ada juga.
+**Iqbal:** Oh ya ka? Okey, okey, okey. So ada, oh, ada, ada juga.
 
 **Iqbal:** Ada, tapi tak ramai. Itu nerd-nerd lah yang tanya. Okey, ada juga nerd. So to the nerds, Selamat Hari Merdeka. Semoga, Selamat Hari Merdeka.

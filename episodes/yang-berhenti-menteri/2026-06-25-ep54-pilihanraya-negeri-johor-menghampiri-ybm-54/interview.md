@@ -127,7 +127,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Kena bagi cerita agong aku.
 
-**Haziq:** Kena bagi cerita agong. Sebab ni aku belajar mengenai Amharic.
+**Rafizi:** Kena bagi cerita agong. Sebab ni aku belajar mengenai Amharic.
 
 **Rafizi:** Aku pernah sampai kat Ethiopia tu sekali.
 
@@ -145,7 +145,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Haziq:** Okey, baik baik, Fi. Okey, tahniah kepada orang dari Amharic dan Chittagong.
 
-**Rafizi:** Kita terus ke Hidup Keras YB, disebabkan kita kejar masa.
+**Haziq:** Kita terus ke Hidup Keras YB, disebabkan kita kejar masa.
 
 **Haziq:** Kita ada dalam sejam lagi. Kita terus.
 
@@ -171,7 +171,7 @@ Kemudian, PH adalah gabungan yang pertama yang mengumumkan calon. Adalah bising 
 
 **Rafizi:** Tak ada orang peduli kat kita, kan. Jadi, of course, di dalam kesemua ini kita masih lagi tidak pasti sebenarnya apa yang akan berlaku dengan Perikatan Nasional ni — yang sangat senyap, krik-krik.
 
-**Haziq:** Ha, adalah bising-bising semalam.
+**Rafizi:** Ha, adalah bising-bising semalam.
 
 **Rafizi:** Semalam, Pengarah Pilihan Raya PN, Dato' Seri Sanusi Md Nor, mengumumkan bahawa rundingan kerusi itu telah selesai. Tapi apa maknanya itu pun tak tentu jugalah. Bila ditanya sama ada PAS akan berkempen di kerusi-kerusi Bersatu, dia tak jawab. Sebab rentetan daripada pengumuman itu ada dua lagi pengumuman: satu, Wawasan tidak bertanding langsung — jadi maksudnya yang akan bertanding di Johor itu ialah Bersatu kem Tan Sri Muhyiddin, bukan ex-Bersatu dalam Wawasan sekarang. Itu satu. So Bersatu yang itu, PAS telah putuskan hubungan. Jadi adakah bermakna kalau dua-dua bertanding atas bendera Perikatan Nasional — nama saja gayanya bendera itu Perikatan Nasional — tak mudahlah agaknya untuk pimpinan PAS pergi berkempen, kerana ia agak lawak. Dua minggu lepas you putuskan hubungan, you dah cerai, kemudian eh tukar baju, eh rujuk balik ke apa macam ni? Kita pun confuse.
 
@@ -191,11 +191,11 @@ Satu lagi pengumuman yang dibuat oleh satu lagi parti komponen Perikatan Nasiona
 
 **Haziq:** Kesan daripada pembangunan yang sangat dahsyat tu.
 
-**Multiple speakers:** Okey, spesifik lagi maksudnya?
+**Rafizi:** Okey, spesifik lagi maksudnya?
 
 **Multiple speakers:** Traffic jam.
 
-**Multiple speakers:** Dia sebenarnya traffic jam.
+**Rafizi:** Dia sebenarnya traffic jam.
 
 **Multiple speakers:** Okey.
 
@@ -259,7 +259,7 @@ Cuma satu-satunya yang kita perlu minta tolong ialah orang ramai, terutamanya ah
 
 **Haziq:** Menarik, YB. Mungkin soalan yang betul-betul terakhir.
 
-**Rafizi:** Untuk promo esok pula.
+**Haziq:** Untuk promo esok pula.
 
 **Haziq:** What to expect esok sebenarnya?
 

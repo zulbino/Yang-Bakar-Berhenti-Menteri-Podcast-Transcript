@@ -150,7 +150,7 @@ Itu sebenarnya the structural weakness of kerajaan bila ada J-KOM. Dari zaman Da
 
 **Haziq:** Okey, baik, YB.
 
-**Rafizi:** Ambil pengajaran, okey.
+**Haziq:** Ambil pengajaran, okey.
 
 **Haziq:** Ambil pengajaran.
 
@@ -180,7 +180,7 @@ Itu sebenarnya the structural weakness of kerajaan bila ada J-KOM. Dari zaman Da
 
 **Rafizi:** Kemudian ada gambar — ini gambar AI Ramanan ni. Kau orang pakai sebab dia ada rambut, dia mana ada rambut kan? Dia tak ada rambut. Kemudian "Ramanan missing from radar."
 
-**Haziq:** "Target not found." Status — gambar lama. Oh, gambar lama.
+**Rafizi:** "Target not found." Status — gambar lama. Oh, gambar lama.
 
 **Rafizi:** "Status missing, callsign unknown, location not detected. Ramanan cannot be located. Please try again. System message: search unsuccessful."
 
@@ -236,7 +236,7 @@ Itu sebenarnya the structural weakness of kerajaan bila ada J-KOM. Dari zaman Da
 
 **Rafizi:** Boleh ke nak hantar balik Myanmar?
 
-**Haziq:** Kenapa? Myanmar — orang tak recognize dia orang.
+**Farhan (Pa'an):** Kenapa? Myanmar — orang tak recognize dia orang.
 
 **Rafizi:** Well, dia ada 2 level lah kan. Contohnya, satu, kalaupun dia ada kerakyatan Myanmar, tapi kalau hendak menghantar mereka balik, negara itu mestilah nak terima dia. Dan bila dia kembali, maksudnya tidak ada risiko terhadap nyawa dan keselamatan mereka. That's the simple, international rule lah. Jadi dalam kes ini, perkara itu sudah tentu belum boleh berlaku, kerana masih lagi ada perang, masih lagi ada ethnic cleansing dekat Rakhine State, yang mana asal kebanyakan Rohingya ni kan. Rohingya ada lebih kurang 130,000. Lebih kurang 80,000 itu ialah orang Myanmar etnik lain. Jadi ada banyak etnik — etnik Myanmar pun ada, Chin pun ada, Shan pun ada, macam-macam adalah kan. Oh, saya pernah pergi Myanmar berkali-kali tau. Ni saya menyimpang sikit lah, tapi nak cerita — sebab kebanyakan yang komen ni pun besar kemungkinan tak pernah sampai ke Myanmar kan. Jadi mungkin berapa peratus je rakyat Malaysia yang pernah sampai ke Myanmar. It's not called Yangon now kan? Eh tak, betullah Yangon — dulu dia panggil "Rangoon," sekarang dipanggil Yangon kan. Naypyidaw tak pernah sampai. Sebab dulu saya menjaga portfolio kewangan untuk upstream investment bagi semua international ventures Petronas. Antara venture awal Petronas sebenarnya di luar negara adalah di Myanmar, sebab Myanmar ada satu lapangan gas lah — tak tahu masih ada lagi kat situ semua kan. So I have wonderful experience dengan staf-staf saya yang Myanmar ni kan. Dan Petronas pun sebenarnya ada mengambil ramai Rohingya yang diberikan biasiswa di universiti macam UIA. Tapi ini sebelum cerita pelarian semualah — sebahagian saya ingat daripada CSR Petronas masa di Myanmar dulu, mengambil anak-anak Rohingya yang terpelajar, yang bagus ni. Mereka mendapat pendidikan di UIA, kemudian bekerja di Petronas. Saya ingat staf saya dulu ada dua orang ACCA — seorang nama Yahya, seorang nama Kassim, kan. So anyhow, coming back to this. Isu dia ialah, pertama, kenapa tak hantar balik — satu, kalaupun dia ada kerakyatan, kalau dia tidak diterima oleh negara asal dan dipulangkan atau dihantar balik secara paksa, itu melanggar peraturan antarabangsa. Okay, we'll come back to that. Orang akan kata "apa peduli ni pasal antarabangsa tak antarabangsa" kan. Cuma yang pasal Rohingya ni, that's why the distinction between different ethnic groups tu penting — kerana kalau etnik tu etnik Myanmar, dia ada kerakyatan, tapi Rohingya tak ada kerakyatan. They are stateless. Kerana memang mereka tidak diiktiraf sebagai rakyat Myanmar. Mereka juga tidak diiktiraf sebagai rakyat Bangladesh. Jadi Rohingya is a stateless people — tak banyak beza dengan Palestin lah, maksudnya dia tak ada state kan. Jadi dia tak boleh pergi — memang tak ada. Homeland dia which is Rakhine tu, di sempadan Bangladesh dengan Myanmar. Tapi over the years ni, zaman British dulu, bila dia lukis peta ke apa semua, dia bukan ambil kira pun semua ni — etnik tak etnik semua kan. Itu yang ada Melayu di selatan Thai, sekarang jadi sebahagian daripada Thai kan. So it's a product of history. Jadi kerajaan Myanmar memang daripada awal tidak menerima mereka sebagai rakyat. Kemudian saya ingat tahun 1982, ada undang-undang kerakyatan yang baru di Burma, dan secara undang-undang dan rasmi, kerakyatan tidak diberikan kepada Rohingya. So they are stateless kan. So itu origin tu kena faham — daripada 100 tahun yang lepas, mereka tidak ada kerakyatan. Then you ask the question lah, apa sebenarnya yang berlaku — nak menjawab yang Haziq tanya tadi, kenapa di Asia Tenggara ini Rohingya paling ramai di Malaysia? So ini juga sebahagiannya adalah historical product, sebahagiannya adalah kerana kelemahan kita sekarang, kelemahan negara kan. Seingat saya, I grew up di Kemaman tahun 80-an, memang dah ada pelarian Rohingya. Ada seorang tu saya ingat, dia pernah kerja dengan ayah saya sekejap — nama Maaruf ke apa nama, kan. Kemudian dalam tahun 90-an, oleh kerana kekacauan dan kezaliman kepada orang Rohingya ni memang berlaku sepanjang masa — cuma dia ada spike dia, every now and then, every decade ada je spike kan — tahun 90-an tu saya ingat ada perang dan ada spike. Jadi kerajaan Malaysia memang ada mengambil pelarian Rohingya daripada tahun 90-an, dan mereka ini resettled at certain places. Seingat saya, di Kemaman, di Seberang Bandi, ada satu kawasan pedalaman sangat dekat dengan FELDA semua, ada satu settlement Rohingya. Correct me if I'm wrong, terutamanya orang di Langkawi — di Langkawi ada satu settlement yang agak besar kan. Cuma masa itu dari segi peperangan tu tidak melimpah teruk. Kalau ambil pun, dalam 100 orang, 300 orang — tak banyaklah. Settlement itu banyak sebenarnya, tapi tak sampai ke peringkat sekarang — relatively smaller daripada sekarang, maksudnya 300 orang sana, 400 orang sini kan. Fenomena yang berlaku sekarang ini ialah kerana perang, 10, 12 tahun yang lepas, bila junta tentera merampas daripada Aung San Suu Kyi kan, ada kudeta dan mereka memerangi, memang isytihar perang kepada homeland Rohingya ni. So tahun 2015 ada kemasukan besar-besaran, eh. Just to put things in perspective kan — majoriti pelarian Rohingya ni lari ke Bangladesh, Cox's Bazar. Cox's Bazar ada lebih kurang 1.2 juta pelarian Rohingya — is actually the largest refugee camp in the world, paling besar dekat Cox's Bazar kan. Dan Bangladesh pun tak boleh dah nak absorb semua kan, dia pun ada isu dia. Jadi kumpulan kedua pelarian yang besar ni, yang datang daripada bot semua banyak, ini ialah datang ke Malaysia lah. Ha, itu yang Malaysia ada Rohingya. Saya tak tahulah, data ni very sketchy — jadi kita tak tahu yang 130,000 orang yang ada sekarang, terutamanya di Lembah Klang, sebenarnya datang daripada wave mana. Saya tak rasa they come from the 90s — saya rasa they come from the 10, 15 tahun yang lepas, from the war in the mid-2010 to 2015, begitulah kan. Now. So itu ialah masalah dalam konteks yang bersabit dengan pelarian. Okey. Kalau ikut dari segi penarafan ataupun macam mana kita nak kategorikan, mereka itu memang memenuhi kalau perjanjian ataupun takrifan mengenai pelarian antarabangsa. Kemudian kita ada satu lagi masalah — iaitu pemerdagangan manusia. Jadi pemerdagangan manusia ini yang masuk melalui sempadan kita — kalau ingat dalam 7, 8 tahun yang lepas, or maybe longer kan, pihak berkuasa jumpa kubur, Wang Kelian — Wang Kelian ada 40 lebih yang ditanam kan. So sindiket-sindiket ini besarlah, dan mereka ini, of course lah, bila dia datang kat sini, mereka akan cuba mendapatkan perlindungan suaka ataupun sebagai pelarian. Tapi you know, it's very dicey kerana they are basically economic migrants — they are also economic migrants, but you nak bergaduh dengan dia, "you are economic migrants." Kalau dia Rohingya, memang dia flat persecution kan. Jadi berapa banyak yang masuk tiap-tiap tahun hasil pemerdagangan manusia ni, kita pun tak tahu. Angka tu pun saya ingat sketchy — kalau tanya Kementerian Dalam Negeri pun, angka yang dia sebut itu mungkin angka yang dia berjaya jejaki ataupun tahan, tapi yang bolos semua tu, kita tak tahu kan. Okay, now, this understanding is important, kerana kita ada dua group ni — satu ialah group yang memang, for the lack of better word, diterima oleh kerajaan dulu-dulu lah. Dan saya, ada orang criticize, bila bergaduh pasal Rohingya ni kan, ada mula menuding jari — kata ini dulu Najib, PAS semua kan. Saya rasa kita tolak ke tepilah — I mean, saya tak condone lah sebenarnya kalau ada himpunan Rohingya dulu untuk mendapatkan sokongan Melayu kan, Anwar dan PAS masa tu kan. Yang itu bagi saya, itu niat masing-masing, kau jawablah kemudian kan. But on humanitarian ground, saya tak rasa mana-mana kerajaan, before and after, past and present, yang boleh menutup mata 100%. So given the situation and severity of the conflict dalam 10-15 tahun yang lepas, itu keputusan yang dibuat oleh kerajaan BN masa itu, dan saya rasa tak adil untuk kita mempolitikkannya sekarang. Okay now, the real issue ialah what has happened since then — kerana ada dua cabaran besar yang sepatutnya menjadi tumpuan kerajaan. Satu ialah soal menutup sempadan kita supaya tidak dibolosi oleh sindiket pemerdagangan manusia. Dan kita memang betul-betul kena perangi mereka ini — bukan perangi Rohingya yang datang ni, yang kaya raya ni ialah kongsi-kongsi gelap. Sebab tu kalau orang tanya saya, masalah kita ialah penjenayah-penjenayah ni. Sebab tu saya cukup sensitif kalau soal pasal kongsi gelap, korporat mafia semua, kerana banyak masalah yang ada dalam negara ni ada kaitan dengan mereka pun. And they are very rich — dia orang ni hidup kaya raya, yang kat bawah ni macai ja. Dan selagi kita tak betul-betul perangi dan pecahkan sindiket kongsi gelap, mafia semua ni yang terlibat di dalam perdagangan manusia ni, memang masalah ini akan berterusanlah. Dan tiap-tiap tahun bila lebih ramai datang, you cannot tell which is which anymore lah — sebab sebenarnya ada dalam dua kumpulan yang berlainan kan. So itu ialah satu masalah yang berterusan setiap hari, yang sepatutnya ada tindakan, dan kerajaan semasa, incumbent government, tak kisahlah siapa kerajaan tu kan, perlu ada tanggungjawab untuk menyelesaikan masalah itu. Satu lagi perkara operational yang perlu ditangani segera ialah soal, what do you do dengan yang 130,000 yang dah ada ni? Okey, so what do you do?
 
@@ -314,7 +314,7 @@ Itu sebenarnya the structural weakness of kerajaan bila ada J-KOM. Dari zaman Da
 
 **Rafizi:** Bukan PPR. Itu mungkin, actually you are right. Cuma I tak pasti. I don't think is officially PPR. Ha, ya, flat ni lah kos rendah yang. Dia orang dah beli semua dan dia bagi sewa kan. Ha, dia bagi sewa. Itu pun masalahnya kerana penduduk tempatan yang ada flat kat situ tu, dia orang bukan beli. Dia tak mampu beli pun ke apa semua kan. Tapi sebab penduduk tempatan yang asalnya memiliki, ataupun dulu bila bagi-bagi flat kos rendah ni untuk orang beli, yang dapat pun bukannya miskin sangat, orang kaya, orang berpendapatan. Jadi dia gunakan ni sebagai pelaburan. Jadi dia bagi sewa, dia tak duk kat situ. Jadi yang kesiannya ialah yang 30% yang memang betul-betul beli, orang susah, orang tempatan duduk kat situ. They have to put up with it. Saya bertahun juga cuba selesaikan dan memang tak selesai. Contohnya, kita cuba berurusan dengan pihak polis. Tapi berapa kali sangat pihak polis nak kena round kat situ. Dan orang-orang yang duduk kat situ pun lama-lama jadi takut, terutamanya yang wanita. Dia jadi takut nak keluar pergi kereta semua, sebab dia orang kadang-kadang ugut depan je. Kemudian akhirnya kita cuba susun supaya ada gotong-royong sesama penduduk kat situ. Tapi itu bukan solution dia, kerana kalaupun kita pergi letak pondok satu, every now and then polis datang, kemudian they take turns. Tapi, you know, nobody should feel insecure or unsafe dekat kawasan dia sampai dia kena buat security round kan. Dan orang tempatan yang bagi sewa tu — sebab itu salah satu perkara yang kita nak buat dalam Akta Anti Alibaba. Rent seeking. Sebahagiannya Anti Rent Seeking Act tu ialah untuk mengendalikan perkara-perkara macam inilah. Supaya kalau contohnya rumah itu asalnya rumah kos rendah dan ada syarat dia tak boleh bagi sewa kepada orang lain, kalau dia bagi sewa, maka dia menyalahi di sisi undang-undang. Sama juga contohnya, orang Malaysia memberikan nama dia untuk buka bank akaun, untuk buat lesen perniagaan, untuk menyewa kedai. Tiap-tiap bulan dia dapat 3,4000 ringgit sebulan, tapi tuan punya business itu jadi business orang asing — baik Bangladesh, baik mana-manalah. Itu berlaku di mana-mana sekarang ini kan. Tapi sebenarnya tak ada akta. Sebab itu kita nak buat Akta Alibaba yang entah ke manalah sekarang ni, dah masuk gua ke apa semua lah.
 
-**Farhan (Pa'an):** Masuk gua memang tak positif ke waktu YB bawa tu?
+**Haziq:** Masuk gua memang tak positif ke waktu YB bawa tu?
 
 **Rafizi:** Tak, memang dia mendapat tentangan. Jadi aku tak nak, kau tahulah aku berkeras kan, tapi aku tak nak matikan benda tu. Jadi kita terpaksa buy time lah. Kita mula-mula bawa kerangka mengenai Akta Alibaba ni tahun 2023. So I was hoping lah, okeylah mungkin tenang sikit 2026 aku boleh bawa balik. Rupanya 2026 aku dah menganggur. Tak terfikir. Timeline dia sebenarnya 2025, lepas kita dah habiskan Rancangan Malaysia ke-13 dan kita masukkan di dalam RMK tu Akta Alibaba. Ada masuk. Maksudnya kerajaan telah pun bersetuju untuk melaksanakan Akta Alibaba dan we can push it lah. Tapi tak apa, itu belakang kira cerita lain lah. Coming back to this — so, isu-isu ini menjadi isu kerana bila komuniti itu telah menjadi besar, dan memang betul masalah sosial tu real, masalah jenayah itu real, dia bukan yang dibuat-buat, kan? Jadi kita tak boleh nak pass judgment semata-mata kerana ini kita punya international standard ke apa semua kan. Baik. Now kita dah sembang semua ni, kita belum lagi menjawab kenapa jadi macam ini?
 
@@ -330,7 +330,7 @@ Itu sebenarnya the structural weakness of kerajaan bila ada J-KOM. Dari zaman Da
 
 **Rafizi:** Yang mana yang tampar tu? Yang tampar isteri tu?
 
-**Haziq:** Tampar wife real.
+**Farhan (Pa'an):** Tampar wife real.
 
 **Rafizi:** Ha, tampar isteri tu.
 
@@ -414,7 +414,7 @@ Itu sebenarnya the structural weakness of kerajaan bila ada J-KOM. Dari zaman Da
 
 **Rafizi:** So kita ada berapa minit lagi?
 
-**Multiple speakers:** Setengah jam lebih kurang lagilah.
+**Rafizi:** Setengah jam lebih kurang lagilah.
 
 **Haziq:** Kita habiskan. Kita ada topik yang kedua — masuk pilihan raya, duit masuk.
 
@@ -444,9 +444,9 @@ Itu sebenarnya the structural weakness of kerajaan bila ada J-KOM. Dari zaman Da
 
 **Rafizi:** Itu cerita aku. Maksudnya parti-parti lain?
 
-**Haziq:** So kita pun tak tahu.
+**Rafizi:** So kita pun tak tahu.
 
-**Rafizi:** Tak pernah dibincangkan secara open.
+**Haziq:** Tak pernah dibincangkan secara open.
 
 **Farhan (Pa'an):** Apart from the caps yang SPR letakkan.
 
@@ -472,7 +472,7 @@ Itu sebenarnya the structural weakness of kerajaan bila ada J-KOM. Dari zaman Da
 
 **Rafizi:** Mana ada, Pa'an, flyer apa 40, 50 sen zaman sekarang. Flyer mana ni?
 
-**Farhan (Pa'an):** Mana ada, I think ya.
+**Rafizi:** Mana ada, I think ya.
 
 **Rafizi:** I think you are talking kalau A5 tu dia depends on kertas sebenarnya. Tapi kalau you pakai kertas biasa yang licin, yang nipis tu, I think you boleh dapat lah. Okeylah, kau nak letak lah 50 sen — maksudnya ni semua kan. Okey, 50 sen, 10,000, berapa? 5,000. Kira, berapa dah?
 
@@ -488,7 +488,7 @@ Itu sebenarnya the structural weakness of kerajaan bila ada J-KOM. Dari zaman Da
 
 **Rafizi:** Buluh bendera, buluh tak beli lagi. Okey, so kau nak buluh berapa kau nak letak kat situ? Buluh seorang sponsor, 5,000 ringgit. Bubuhlah 5,000 ringgit, jadi 40,000. Kemudian, sebab tu orang tak suka kerja dengan aku — selalu aku tarik muka masam, ni nak belanja je ke aku tarik muka masam kan. Kemudian apa lagi belanja yang besar kononnya kempen? Belanja program lah kan. Buat high tea sana lah, makan sini lah, sewa dewan. Tempoh berkempen 2 minggu, katakanlah ni yang jenis rajin betul lah, tiap-tiap hari ada dalam katakanlah 5 program begitu. So 2 minggu, 5 kali 14, berapa? 70. Satu program tu kau nak letak berapa? 1,000. Okeylah masuk 70 ribu. Ingatlah, 70 ribu. Lagi?
 
-**Farhan (Pa'an):** Deposit tu tak masuk?
+**Haziq:** Deposit tu tak masuk?
 
 **Rafizi:** Tak, ini untuk kempen lah.
 

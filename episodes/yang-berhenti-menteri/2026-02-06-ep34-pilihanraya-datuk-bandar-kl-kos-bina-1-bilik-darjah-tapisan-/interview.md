@@ -46,15 +46,15 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Haziq:** Assalamualaikum dan selamat kembali semua.
 
-**Rafizi:** Podcast Yang Berhenti Menteri episod ke-34. Kenapa kau gelak?
+**Haziq:** Podcast Yang Berhenti Menteri episod ke-34. Kenapa kau gelak?
 
 **Haziq:** Sebab YB macam dia lagi. Macam biasa. Here we go again. YB Rafizi Ramli dan hari ni tak ada guest.
 
 **Rafizi:** Jadi kita selang selikan lah. Ya, kita dengar Friday sermon dari YB Rafizi.
 
-**Haziq:** Dan marah anjir, orang PAS buat Friday sermon pula dah.
+**Rafizi:** Dan marah anjir, orang PAS buat Friday sermon pula dah.
 
-**Rafizi:** Eh, Allah Allah. Bukan bukan, context tu tak betul. Saya tarik balik. Dia kuliah malam Jumaat. Kuliah malam Jumaat bersama saudara Rafizi Ramli.
+**Haziq:** Eh, Allah Allah. Bukan bukan, context tu tak betul. Saya tarik balik. Dia kuliah malam Jumaat. Kuliah malam Jumaat bersama saudara Rafizi Ramli.
 
 **Haziq:** Dan mungkin pada malam ini, mungkin ada banyaklah, dan kita cuba cepatkan semua.
 
@@ -62,7 +62,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Haziq:** Baik, baik. Jadi kena tunggu sampai habis lah. Apa pun kita start dengan segmen yang pertama, YB.
 
-**Rafizi:** Macam biasa, beriamat. Tapi saya risau tak fulfill expectation kali ni. Sebab minggu ni pun orang takut dah nak buat benda-benda tak senonoh bila ada segmen ni. Ceplos masih lagi macam biasa, dia dalam bubble dia. Okey, tak apa kita try lah.
+**Haziq:** Macam biasa, beriamat. Tapi saya risau tak fulfill expectation kali ni. Sebab minggu ni pun orang takut dah nak buat benda-benda tak senonoh bila ada segmen ni. Ceplos masih lagi macam biasa, dia dalam bubble dia. Okey, tak apa kita try lah.
 
 **Haziq:** Yang pertama.
 
@@ -84,7 +84,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Hutan.
 
-**Haziq:** Oh, itu jawapan dia.
+**Rafizi:** Oh, itu jawapan dia.
 
 **Rafizi:** Ya, bila nak suruh beruk tengok. Diinterrogate kan? Ini memang betul-betul, sah orang Selangor ke? Ke orang Kelantan yang duduk Selangor?
 
@@ -92,13 +92,13 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Manalah tahu, takut ada orang daripada Shah Alam ke. So dia memang orang Selangor lah.
 
-**Farhan (Pa'an):** Dia Ultras Selangor. Ultras. Ultras Sel. Ultrasel. Ultrasel.
+**Haziq:** Dia Ultras Selangor. Ultras. Ultras Sel. Ultrasel. Ultrasel.
 
 **Rafizi:** So siapa yang beria ni sebenarnya?
 
 **Haziq:** Paling kuat Ultrasel tu lah, YB.
 
-**Rafizi:** Sebab bakar suar.
+**Haziq:** Sebab bakar suar.
 
 **Haziq:** Dia bakar suar dekat tempat tu, dan bila polis tanya, dia jawab sebegitu, dengan penuh confident lah.
 
@@ -124,7 +124,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** "Klanek." Klanek, ah, klanek. Oh, video tu. Okey okey okey, producer tak tahu, aku pun tahu Kelantan cakap Kelantan. Ingat ke dia duduk Bangsa ni?
 
-**Haziq:** Oh, ingat ke Kelantan—
+**Rafizi:** Oh, ingat ke Kelantan—
 
 **Rafizi:** dia lagi teruk hidup — lagi hebat daripada Bangsa, tak boleh sebutlah kan? Kelantan tangkap Kelantan ni, ingat ke ini promosi mula daripada dia untuk promosikan konsert dia? Tak adalah, bukan. So siapa yang beria ni?
 
@@ -142,11 +142,11 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Farhan (Pa'an):** Maka Fest bukan. I think dia banyak buat kat tempat-tempat, kita confuse lah. Cuma saya rasa yang beria adalah mereka yang—
 
-**Rafizi:** Yang pergi pula?
+**Haziq:** Yang pergi pula?
 
 **Farhan (Pa'an):** Bukan yang menangkap.
 
-**Rafizi:** Oh, yang menangkap?
+**Haziq:** Oh, yang menangkap?
 
 **Farhan (Pa'an):** Sebab you dah benarkan.
 
@@ -214,9 +214,9 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Haziq:** Dia letak, tapi tunggulah kena jumpa TYT dan CM bincang dulu.
 
-**Rafizi:** Tapi dah kemas office semua.
+**Farhan (Pa'an):** Tapi dah kemas office semua.
 
-**Farhan (Pa'an):** Tapi dah kemas office.
+**Haziq:** Tapi dah kemas office.
 
 **Rafizi:** Dah kemas office. So mungkinlah kot budaya UMNO ni lain sikitlah, sebab birokrasi dia banyak sikit. Kalau aku boleh bercakaplah soal letak jawatan — ha ya, aku letak jawatan — yang paling berpengalaman letak jawatan kan, so mudah je tulis letak jawatan. Saya ingat surat tu kalau aku nak baca pun boleh, ada baca kat sini kan — sebenarnya tulis jelah bahawa saya meletakkan jawatan berkuat kuasa dari tarikh ini, terima kasih, XOXO. Tak ada XOXO. Jadi lepas itu, dia tak timbul dah soal bincang. Kalau nak bincang ke, dapat pandangan ke, itu sebelum mengeluarkan surat. Kalau surat tu dah keluar, keluarlah — kerana yalah, kalau macam ini Ketua Menteri Melaka pun, Datuk Seri Rauf kan, dia kena fikir jugalah — Dr. Akmal ni ada maruah dia. Kalau dia dah buat keputusan dan itu sesuatu yang penting untuk dia, dan dia ahli politik — kalau contohnya dia dah hantar surat letak jawatan, lepas tu kita nak pujuk lagi ke, ataupun kita nak suruh dia tukar keputusan tu, yang menanggungnya nanti dia. Jadi lebih baik kalau dah berpisah tu, berpisahlah elok-elok kan, jangan pisah rujuk, pisah rujuk nanti. Tapi yalah UMNO macam tu lah kot, dengan PAS pun pisah rujuk, pisah rujuk kan — lama-lama nanti jadi bahan troll, macam inilah, tak pasal-pasal masuk beria dan terus menang.
 
@@ -232,7 +232,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Mungkin sebagai ADUN. Sebagai ex-exco tak silap? Saya tak sure. Tak apalah, tak apalah. Kita doakan supaya urusan meletakkan jawatan ini berjalan lancar, sebab kalau tidak dia masuk beria lagi. Kalau seminggu, dua minggu lagi ada cerita baru, kena masuk beria sikit lagi. Masuk sini lah.
 
-**Haziq:** Masuk sini terus lah. Masuk sini terus.
+**Rafizi:** Masuk sini terus lah. Masuk sini terus.
 
 **Rafizi:** Okey, baik. Okeylah, itu saja. Dah menang, dah menang, tahniah, dah menang, ambil piala kemenangan. Okey, jom, kita ke standing order, YB.
 
@@ -268,7 +268,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Tidak meyakinkan. Nampak macam. Itu macam soalan-soalan, jawapan administratif kerajaan je. Saya ikut apa yang — okey, berbalik kepada ini. Daripada zaman aku rambut tebal lagi, memanglah soal utama ialah kita kena bertanggungjawab dan tidak mewariskan hutang kepada generasi akan datang, sebab cabaran mereka lebih besar daripada kita. Kita dah sebut soal ancaman negara menua, sandwich generation semua ni kan. Baik eh, pertama kita nak kena banding berapa yang jawapan yang diberikan itu ialah memberikan prestasi membayar yang lebih baik kan — kita nak kena banding daripada data-data yang ada sebelum ini, sebenarnya berapa cukai yang kita tak kembalikan kepada rakyat kan. Berapa? Tak adalah, kau tak sempat check lah kan. Saya dah semak sebenarnya laporan kewangan, kedudukan kewangan Kerajaan Persekutuan — Laporan Kewangan Kerajaan Persekutuan, LKKP kan — daripada tahun 2010. Saya ingat kali pertama laporan yang menyatakan dengan jelas bayaran cukai yang tidak dibayar balik kepada rakyat ini, saya ingat dalam tahun 2015, 2016 lah, sebelum tu tak ada. So the best that we have ialah antara 2015 sampai sekarang lah, 2024 angka terakhir, but at least we have 10 tahun lah kan. Amalan tidak membayar cukai kepada rakyat ini nampaknya memang telah bermula daripada zaman Dato' Sri Najib. Let me try to get the figure, I cannot recall it on top of my head lah, supaya kita tak tersasar kan, nanti orang kata pandai-pandai bagi figure kan. Tahun 2017, dia panggil refund arrears — maksudnya cukai yang tidak dibayar balik, cukai rakyat terlebih bayar yang tidak dibayar balik lah kan — tahun 2017, 34.3 bilion. Kalau diambil dari segi peratusan cukai yang dimasukkan sebagai hasil negara, diisytiharkan sebagai hasil negara, tetapi sebenarnya itu cukai terlebih bayar, itu ialah 19.3%. Maksudnya masa zaman Najib dulu memang betul lagi teruklah, kan, 19.3%. Maksudnya kalau dia umum hasil cukai tahun 2017, 177.7 bilion, sebenarnya 19.3% — memang kena kembalikan kepada rakyat pun, tapi dia tak kembalikan kan. Kemudian tahun 2018 memuncaklah, sebab masa ni dia ada cukai pendapatan yang terlebih bayar dan juga GST yang dia tak kembalikan — tahun 2018, 44.4, masa tu memuncak 25.5%. Dan yalah, kalau kita kata kita lebih baik daripada Najib kan — sebab tu lah Najib kalah kan, sebab tu lah orang marah masa tu kan. Dan kerajaan PH 1.0 semasa saudara Lim Guan Eng jadi Menteri Kewangan berhempas pulas untuk menyelesaikan masalah itu. Jadi kalau ingat tahun 2019 dahulu ada laporan di PAC, ada semakan dan Petronas, kerajaan terpaksa mengambil special dividend, dividend khas daripada Petronas untuk melangsaikan hutang kerajaan kepada rakyat dalam bentuk cukai yang tak boleh dibayar kan. Jadi tahun 2020, benda tu dah turun dah — daripada yang memuncak tahun 44.4 billion 2018, dia dah turun kepada 14.6 tahun 2020. Kemudian dia naik balik — dia naik balik 21.8, 25.7, 25.5 dan 2024, 38.3, 33.3 bilion. Dan setakat 2024, peratusan itu dah naik balik sedikit demi sedikit, dia dah jadi 14% dah daripada cukai kan? Baik. Now, Datuk Seri Amir Hamzah kata benda ni benda biasa. Sebab ha, yang ini kadang-kadang kepada pegawai-pegawai yang menyediakan soalan — saya tahulah kita nak yang menyediakan jawapan kan, kita memanglah nak cover menteri kita supaya menteri kita tu nampak tak tercungap-cungap menjawab ataupun boleh selesaikan soalan-soalan kan. Tapi berhati-hati, jangan bagi jawapan yang sebenarnya tidak tepat ataupun mengelirukan dewan, ataupun nampak tujuannya ialah untuk menutup hakikat sebenar. Sebab itu bila Datuk Seri Amir Hamzah bagi contoh, ini benda seolah-olah benda biasa dan negara-negara lain yang maju macam Singapura, macam Germany, macam Netherlands, macam Norway pun seolah-olah macam ini kan — yang itu sebenarnya salah fakta, tidak tepat, dan saya rasa kalaulah saya pembangkang daripada Bersatu atau PAS, dia dah bangun berniat jahat, sangkaan jahat kerana tidak memberi gambaran yang betul. Pertama, keadaannya walaupun secara umumlah setiap negara itu memilih sama ada dia buat accrual accounting ataupun cash accounting kan, tapi macam mana ia dilaksanakan itu berbeza-beza. Kita tak boleh kata cash accounting kita ni sama dengan Germany, kerana Germany pakai hybrid lain kan. Kedua, amalan percukaian itu juga berbeza. Jadi sebab itu yang tidak disebut oleh Datuk Seri Amir Hamzah, yang saya rasa tidak berterus-teranglah — dia sebenarnya tak bandingkan, kalau Singapore pakai cash accounting macam kita, kalau Norway macam kita, sebenarnya berapa tunggakan cukai tidak dipulangkan kepada rakyat ni? 1% macam tu?
 
-**Haziq:** Itu sebab aku dah cakap dengan kau tadi.
+**Rafizi:** Itu sebab aku dah cakap dengan kau tadi.
 
 **Rafizi:** Ini selama nakal eh. Tak, dia sebab itu kalau jawapan parlimen itu, yang saya rasa sebaiknyalah kalau dia nak bagi contoh negara lain, kita kena benchmark dalam konteks dan perspektif yang betullah. Memang betul Singapura, Norway, Germany dan Netherlands yang dia bagi contoh itu, memang betul mengamalkan cash accounting, walaupun cara pelaksanaan cash accounting dia tu berbeza-beza. Kalau di Germany dia hybrid — ada kerajaan, ada institusi, ada bahagian-bahagian tertentu yang sebenarnya buat accrual accounting. It's not a full-fledged ataupun 100% macam cash accounting macam kita kan. Tapi yang lebih penting, soalan yang perlu dijawab ialah kenapa kerajaan tidak membayar balik sehingga 33 billion, memegang duit rakyat, dan ini mengulangi perkara yang dibuat masa zaman Dato' Sri Najib dahulu kan. Okey, sebab itu kita kena bandingkan kalau dia nak kata Singapura, Norway — kita bandingkan sebenarnya berapa tunggakan cukai yang tidak dipulangkan ni. Kau ingat, kalau dekat Singapore ke, dekat Netherlands ke, kalau kerajaan tak pulangkan sampai 20%, 15% daripada national revenue tu kepada rakyat dia, perniagaan dia sehingga bertahun-tahun, kau ingat jadi macam mana? Guyup kerajaan tu. Jadi sebab itu masalah tunggakan cukai di negara-negara itu tidak berbangkit. Macam yang Haziq potong line tadi, bila kita bandingkan benchmark, kita masa zaman tertinggi 25.5% — maksudnya daripada cukai yang dikutip setiap tahun tu, 25.5% tahun 2018 tidak dipulangkan kepada rakyat, walaupun itu sebenarnya duit rakyat yang terlebih bayar cukai. Sekarang dia dah sampai ke 13.8, 14% kan. Kalau kita tak buat bising, senyap-senyap benda tu akan naik, naik, naik balik kan, contohnya kan. Di negara-negara lain yang diberi contoh tu kan, Singapore, Norway semua tu, amalannya ialah cukai yang tidak dibayar balik ni tak melebihi 1% pun tunggakan. Jadi kalau dia kutip katakanlah 500 billion dollar kan, yang dia tak pulangkan 5 billion ja. Dan itu kita fahamlah bila dalam lingkungan 1% cukai terlebih bayar itu tidak dipulangkan kerana itu perlu melalui proses, dia kena proses. So dia jadi purely administrative dan juga timing difference, dia bukan soal, dia tak berkait sehingga masuk soal deficit ni kan. Jadi kenapa jadi macam itu? Kenapa negara-negara itu risiko kerajaan memegang cukai yang terlebih kutip tidak dipulangkan ini, kenapa risiko itu ada di Malaysia, tidak ada contohnya di Singapore ke, di Netherlands ke, di Germany?
 
@@ -322,7 +322,7 @@ Saya mungkin romantiklah — maybe people say "ah, ikut kepala engkau memang tak
 
 **Rafizi:** Okey ya. Sebab itu memang proses kita sebagai manusia, kita kena melalui kepayahan. Dalam melalui kepayahan itulah baru kita belajar untuk baiki benda yang sebelum ini kita tak nak terima hakikat, ataupun kita rasa susah. So kalau ambil contoh kan, kita sebagai manusia, keluarga kan — kalau kita tak cukup wang kan, apa kita buat? Kerja.
 
-**Haziq:** Kita kerja tambah pendapatan lagi, tak cukup juga.
+**Rafizi:** Kita kerja tambah pendapatan lagi, tak cukup juga.
 
 **Rafizi:** Cut spending. Cut spending tu macam mana? Mana yang tak perlu, yang membazir, kita buanglah. Mana yang kita boleh hidup dan mencukupi — it's not our wants, it's our need kan, itu normal. Tak perlu pergi ke Harvard, Cambridge untuk buat ekonomi pun kita tahu kan. Perasan tak, eh? Saya ingat daripada 10 tahun yang lepas lah, Malaysia sebagai sebuah negara memang tahu kita ada masalah hasil. Panjang ceritalah — cerita pasal structural weaknesses lah, ekonomi kita semua tak cukup tambah nilai lah, semua tu kan. Tapi masa kita jadi pembangkang dulu, kita banyak cerita pasal spending. Kita nak pastikan perbelanjaan kerajaan itu benar-benar membawa nilai yang baik. Kita nak pastikan tidak ada rasuah kan. Sebab itu, kalau kita berterusan memberitahu diri kita bahawa semuanya bagus, wang tinggi kan — kadang-kadang sampai ke peringkat kita sembunyikan soal wang rakyat yang tak dikembalikan pun kita sembunyikan — maka kita akan terus lalai, rasa kita kayalah. Kalau kita terdesak, sebab kita dah tahu wang ni kena pulangkan, deficit saya kena turunkan, duit ada banyak ni je, tapi saya nak menang pilihan raya dan saya nak ada kesan, saya kena buat seribu satu benda ni — how would you have done it? Then you cut the fat lah. Dan benda-benda yang sebelum ini kita rasa tak apalah, ataupun kita rasa kita dalam comfort zone, ada vested interest — now you have no choice but to deal with it. Yang corruption, yang spending, yang membazir. Bayar Ceplos, contohnya kan — pendanaan politik, untuk memastikan bahawa budaya politik ni mahal dan ia ditanggung, sebenarnya pusing-pusing balik semua pun ada kontrak sana, kontrak sini, ada untung, bayar ahli politik sebab dia dah mark up. Semua itu terpaksa dihadapilah. But so long as kita tidak sampai ke peringkat where we think we need to go through the creative destruction phase, then kita jadi business as usual macam ini lah.
 
@@ -330,21 +330,21 @@ Saya mungkin romantiklah — maybe people say "ah, ikut kepala engkau memang tak
 
 **Rafizi:** Sebab itu dia kembali kepada soal niat kita nak jadi kerajaan tadi kan. Saya rasa kita ada standard yang berbeza-beza and saya faham orang tak setuju dengan my standard, but don't blame me for wanting something much better. Kalau standard expectation kita, tugas kerajaan itu hanya menguruskan dan cukup-cukuplah kita okey, nak kata rating kita kena upgrade pun tidak, kan — rating kita bertahan, menokok sedikit saja. Is it good? Is it better than previous ones? Tapi kalau nak banding dengan previous one, memang kita semua better lah. Tapi adakah dengan rating itu akan membolehkan kita memotong balik our peers, Vietnam, Singapore, kita jadi negara maju, kita letak di landasan yang baik untuk 20 tahun akan datang? Itu belum sampai lagi, kan. Jadi sebab itu, we have to ask the question — adakah yang kita ada ini kita berpuas hati? Ini masalah dengan bila politik ni very polarized. Sebab kepada penyokong PH, dia tak boleh sentuh langsung sebab dia takut kalah. Kenapa saya jadi sasaran utama kena maki oleh penyokong-penyokong PKR dan PH ni, keluar habis profesor tak profesornya maki aku — yang akan datang.
 
-**Haziq:** Yang akan datang lepas ni ialah kerana dia takut dengan kritikan-kritikan Rafizi ni, kalah PH nanti.
+**Rafizi:** Yang akan datang lepas ni ialah kerana dia takut dengan kritikan-kritikan Rafizi ni, kalah PH nanti.
 
 **Rafizi:** Sebab dia dah macam de facto opposition. Dia macam dah de facto pembangkang. Benda-benda yang pembangkang tak tercapai akal untuk timbulkan, dia yang tunjuk. Dan saya ingat mereka pun tahu — ini pun ceplos-ceplos nakal. Dia pun tahu dulu-dulu masa kita tumpu kritik kerajaan zaman Najib, jatuh Najib kan. Jadi bila dia dah jadi polarized dan jadi partisan sangat, dia tak fikir lagi tentang kesannya kepada jangka panjang. Niat kita, kita nak kerajaan ini bukan sahaja baik tetapi jauh lebih baik daripada yang ada, supaya hasil 20, 30 tahun jerit reformasi ni ada kesan yang cukup panjang kepada generasi masa depan. That's what I want, kan. Jadi kalau contohnya kerajaan Dato' Seri Anwar, Kementerian Kewangan, kementerian-kementerian yang ada ni, dengan kritikan saya, dia mendengar dan menambah baik — okeylah, dia akan menang dan keadaan negara menjadi lebih baik. Tapi kebimbangan saya, dia tak nampak ke arah itu. Sebab itu, sementara bagus ada prestasi-prestasi yang disebut, tapi dalam kerajaan dulu pun kita sebut juga bahawa ada perkara yang nampak kosmetik, ada perkara yang sebenarnya signal awal daripada pasaran, dan ada perkara yang mesti melibatkan perubahan struktur. Yang kita tak nampak lagi ni ialah perubahan struktur. Jadi bila tak ada perubahan struktur yang mendadak, yang ada kesan jangka panjang, maka angka yang cantik ataupun rating ataupun pengukuhan bursa, benda itu tak tentu akan kekal lama. Dan kalau bertukar kerajaan, maka kita memberi modal dan juga alasan kepada kerajaan yang baru itu untuk mengatakan tak payah buat benda yang payah-payah macam ni semua. Tengok kerajaan Madani dulu — buat, buat, buat, kalah pilihan raya dan keadaan makin buruk. Maka kita akan jadi populis 100% asalkan kita berada dalam kerajaan. That's what we want to avoid sekarang dalam tempoh 1, 2 tahun ke arah pilihan raya akan datang. You know, whoever is the government, sama ada PH ke, BN ke, PN ke, selagi saya ada amanah untuk bersuara, then I will. I will say exactly the same thing. Mari Menteri Kewangan selepas ini — katakanlah Razifuddin — Menteri Kewangan selepas ini pun, dia buat macam ni, samalah juga. Aku cakap benda yang sama dalam parlimen, di luar parlimen. Sebab tanggungjawab kita bukan semata-mata kepada parti kita, kumpulan kita. Once you sign up for this job, if you are in my shoes, my responsibility is to the public and I will be judged by what I do in order to protect and safeguard public's interest in the long run, bukan masa sekarang. Okey, baik YB, sejam 10 minit. Lama ni. Lama kita bincang.
 
 **Haziq:** Bercakap tentang polarisasi pengundi tadi —
 
-**Rafizi:** Kita ke isu yang Ha masuk. Begitu juga hidup keras dik.
+**Haziq:** Kita ke isu yang Ha masuk. Begitu juga hidup keras dik.
 
 **Haziq:** Yang pertama, isu accountability di DBKL atau politik ketakutan.
 
-**Rafizi:** Ini kajian pilihan raya Datuk Bandar.
+**Haziq:** Ini kajian pilihan raya Datuk Bandar.
 
 **Haziq:** Dan saya rasa isu UEC, isu pilihan raya Datuk Bandar ni pun agak 50-50 lah. Cuma mungkin dia ada—
 
-**Rafizi:** 50-50 maksudnya?
+**Haziq:** 50-50 maksudnya?
 
 **Haziq:** Kalau bagi pengundi Melayu PH ni, nak skor macam mana eh?
 
@@ -482,7 +482,7 @@ Saya mungkin romantiklah — maybe people say "ah, ikut kepala engkau memang tak
 
 **Rafizi:** Itu cuba tengok.
 
-**Haziq:** Pergi balik. Cuba tengok soalan saya. Soalan saya tu terperinci kan, menyatakan perincian matrik kos sebuah bilik darjah mengikut komponen kos, jenis sekolah, bandar atau luar bandar, serta mengikut pecahan negeri bagi setiap tahun dari 2015 hingga 2025.
+**Rafizi:** Pergi balik. Cuba tengok soalan saya. Soalan saya tu terperinci kan, menyatakan perincian matrik kos sebuah bilik darjah mengikut komponen kos, jenis sekolah, bandar atau luar bandar, serta mengikut pecahan negeri bagi setiap tahun dari 2015 hingga 2025.
 
 **Rafizi:** Ya. Dan purata tempoh sebuah sekolah disiapkan dari tahun diluluskan hingga diduduki dan jumlah sekolah yang tempoh siap melebihi 5 tahun. Itu soalannya. Tengok jawapan Menteri Pendidikan, memang tak lepas KBAT. Cuba tengok jawapan dia. Nak baca YB? Tak payahlah, tapi aku minta data secara terperinci — dari segi pecahan kos, jenis sekolah, bandar, luar bandar, mengikut negeri, mengikut tahun — satu pun dia tak bagi. Sebab tu lah budak-budak kita bila pergi ambil ujian PISA tercicir. Mana taknya, menteri pun bila orang tanya soalan, lain yang ditanya, lain yang dijawab. Comprehension memang tak betul. Dan kita tengok bila keluar di media punya headline, kos bina bilik darjah naik ketara sejak 2021, cecah 520,000 sebuah.
 

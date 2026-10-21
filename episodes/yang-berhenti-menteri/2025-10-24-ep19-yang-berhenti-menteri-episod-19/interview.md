@@ -145,7 +145,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** — sumber kewangan itu adalah terhad. Jadi adakah lebih baik kalau sumber itu disalurkan kepada sukan-sukan yang memang telah pun bertapak kuat di Malaysia — yang memang sudah ada program berpuluh tahun dari peringkat sekolah. Itu termasuklah sukan-sukan perdana macam bola sepak, hoki, ragbi, basketball, volleyball — ini yang memang sudah ada pertandingan di peringkat Majlis Sukan Sekolah-Sekolah Daerah. Kemudian yang mungkin perlu diambil kira ialah, kalau diperkenalkan dan jadi program, dahlah peruntukan itu akan digunakan, tapi kalau anak-anak yang nak main tu, kalau keluarga dia kena belanjakan pula beratus-ratus, dia mungkin menjadi beban kepada keluarga lah kan. Jadi ini sebenarnya ialah perangai orang kita juga lah — kita selalu ada ikutan baru. Kalau ikut Mat Salleh — saya ingat Einstein pernah cakap, it's not that I am smarter, I stay on the problem longer. Jadi kita kadang-kadang sebagai masyarakat, kita tidak ada daya tahan untuk kita kekal kepada sesuatu perkara, memperbaikinya, menyelesaikan masalahnya sebelum kita berpindah kepada hype baru. Sukan pun kalau tak berhati-hati, pickleball macam inilah yang dikendong tu tak dapat, yang dikejar tak dapat, yang dikendong berceceran kan. Jadi saya tak faham kenapa lah, jadi beria. Tak apalah, mungkin saya kena pergi main pickleball. Budak-budak office saya main lah pickleball, tiap-tiap 2 minggu dia orang pergi, nampak fun lah kan. Cuma saya tahu lah saya tua, sebab budak-budak office tu semua awal 20-an, kalau saya nak pergi mencelah kat situ, terasa lah kan, dah umur dekat 50 ni kan. Mungkin saya main sekali dan mungkin lepas tu saya beria-ia menyokong kerajaan Selangor.
 
-**Haziq:** Baik. Selangor ni maksudnya kerajaan Selangor lah.
+**Rafizi:** Baik. Selangor ni maksudnya kerajaan Selangor lah.
 
 **Rafizi:** Ya, the state also plans.
 
@@ -199,7 +199,7 @@ Jadi saya rasa yang mempolitikkan PADU ini kebanyakannya kurang arif tentang per
 
 **Rafizi:** Tak jauh manalah — ini maksudnya kalau dalam bahasa Inggeris, appealing to the right wing kan. Maksudnya mesej-mesej ataupun kempen yang anti-establishment, yang anti-kerajaan. Jadi sehingga nak dikatakan bahawa ada cubaan untuk melakukan satu lagi Memali kepada PAS. Saya pun pelik jugalah. Sepatutnya saya faham kalau PAS lama-lama ini yang marah pasal Memali. Saya darjah 2 tahun 1985, sempat tengok secara langsung liputan mengenai Memali di TV. Mungkin saya tak faham sangat masa itu, ingat cerita Guru Yahya yang dibuat mengenai ajaran sesat. Bila saya besar sedikit baru saya faham sebenarnya itu propaganda mengenai Memali.
 
-**Haziq:** Kau tak lahir lagilah masa tu kan.
+**Rafizi:** Kau tak lahir lagilah masa tu kan.
 
 **Rafizi:** Jauh. Jadi saya faham kalau PAS sangat sensitif kalau perkara-perkara yang bersabit dengan Memali. Cuma peliknya kerana Menteri Dalam Negeri masa Memali itu adalah Tun Mahathir, penasihat mereka sekarang. Jadi Tun dulu yang pernah dikatakan mengenai Memali terhadap batang hidung mereka ialah yang mati di Memali itu mati kata. Jadi menghidupkan kembali cerita Memali ini dan dikaitkan dengan Masjid Rusila, seolah-olah ada satu konspirasi besar yang cuba memalikan Masjid Rusila — saya rasa itu telah melampaui batas. Dan seperti saya sebut awal tadi, malang apabila parlimen dan negara kita ada banyak masalah dan isu yang perlu kita fokus. Seorang pimpinan kanan daripada PAS yang pernah menjadi Menteri Undang-Undang dan pernah menjadi Menteri Tenaga sepatutnya ada pengalaman dan pandangan besar tentang isu-isu yang banyak ini, terutamanya yang bersabit dengan keterjaminan tenaga. Akhirnya dia menggunakan ucapannya untuk menimbulkan emosi di dalam parlimen — mungkin kerana itu akan dapat TikTok yang lebih, dan lebih banyak sokongan dalaman daripada PAS.
 
@@ -245,7 +245,7 @@ Perkara satu sisi lagi ialah soal 40% ini — 40% adalah hasil kerajaan persekut
 
 **Rafizi:** Ha, dia akan menimbulkan keadaan yang mana sebahagian besar pembayar cukai berada di beberapa buah negeri je — di Wilayah Persekutuan, di Selangor, di Pulau Pinang, di Johor.
 
-**Haziq:** Yalah, negeri-negeri yang ekonominya lebih maju lah.
+**Rafizi:** Yalah, negeri-negeri yang ekonominya lebih maju lah.
 
 **Rafizi:** Jadi dalam keadaan ini, perlembagaan kita menetapkan kita ada senarai persekutuan, senarai bersama dan senarai negeri. Yang saya kurang arif ialah semasa Malaysia dibentuk dan perjanjian-perjanjian termasuk yang berada dalam peruntukan Perlembagaan Persekutuan — bila dikata 40% hasil daripada Sabah itu, adakah itu bermakna pindahan tunai yang mesti dibayar oleh kerajaan persekutuan over and above peruntukan yang sedia ada? Over and above peruntukan yang dibayar oleh kerajaan persekutuan untuk menanggung khidmat, infrastruktur dan gaji yang berada di bawah senarai persekutuan dan senarai bersama. Yang itu saya tak pasti, dan saya rasa ada pandangan yang berbeza-beza juga.
 
@@ -325,7 +325,7 @@ Di Sarawak, kawal selia elektriknya adalah di bawah Sarawak. Di Sabah adalah di 
 
 **Rafizi:** Itulah berdakwah namanya. Ha, berdakwah kan?
 
-**Haziq:** Okey, ini pun sama, Yang Berhormat Marzuk ni kan.
+**Rafizi:** Okey, ini pun sama, Yang Berhormat Marzuk ni kan.
 
 **Rafizi:** Ya, saya ada cerita juga. Tahun sekitar 2012 juga, sama macam Nurul Islam tadi. Cerita. Nurul Islam tadi masih lagi berhutang folder. Ni hutang apa YB? Dia tak adalah hutang, tapi adalah cerita dia. Bachok ni seingat saya adalah satu kerusi yang selalu bertukar-tukar di tangan PAS. Dan pernah ketikanya Bachok ini ialah UMNO. Jadi dalam banyak-banyak kerusi di Kelantan, kira kerusi yang boleh goyang sedikit ialah Bachok. Jadi sebab itu Bachok ni menampilkan banyak muka baru. Jadi tahun 2012, masa tu Ustaz Marzuk ni ustaz pemuda, belumlah jadi hebat begini. Jadi orang-orang dia selalu duk sibuk mengacau dan memujuk saya untuk pergi bagi ceramah besar dekat situ. Masa tu zaman NFC, zaman skandal. Jadi saya ingatlah saya pernah turun ke sana, dan masa tu duit pun tak berapa sangat. Bila pergi ceramah PAS, saya tak pernah ambil duit. Orang lain ambil duit, sebab PAS akan bayar kalau pergi. Sebab tu siapa yang ligat atas ceramah PAS zaman-zaman dulu, memang ligat dengan tin Milo — kerana kutipan tin Milo. Ha, ikut situlah.
 
@@ -373,7 +373,7 @@ Di Sarawak, kawal selia elektriknya adalah di bawah Sarawak. Di Sabah adalah di 
 
 **Rafizi:** 84 billion sampai ke hujung Tumpat pergi. Itu tak campur lagi dengan projek-projek baru menghubungkan Sungai Golok, kemudian jambatan semua, Pelabuhan Tok Bali — kalau kita nak sebut banyak, tapi tak payah sebut yang lainlah. Sebut 84 billion yang ECRL. Katakanlah kita bagi sama rata 3 negeri, 84 bagi 3 berapa?
 
-**Haziq:** 28. 28 billion.
+**Rafizi:** 28. 28 billion.
 
 **Rafizi:** Yang itu dia tak pernah sebut pun. Jadi sebab itulah kalau inilah gaya yang ada daripada pimpinan PAS, I fear for the future. Saya tak apalah, saya dah umur dekat 50 tahun, cukuplah makan anak seorang, kucing je yang lebih sikit, 20 ekor. Tapi kalau beginilah, maksudnya sama ada dia tak faham angka ataupun dia tidak mahu berlaku adil, ataupun modal politik dia untuk dia mengapi-ngapikan Melayu tak suka dengan Cina — sebab Pulau Pinang tu Cina, Kelantan ni Melayu. Banyak mana lagi nak yang itu kita tanggung ni dah, ke Kelantan, ke Terengganu semua ni. Dan masa itu tak ada pula dia buat bising. Malah saya yang mempersoalkan dulu, adakah keperluan untuk membelanjakan sampai 84 bilion — saya yang mempersoalkan adakah keperluan untuk kita membuat ECRL ini, sebab masa itu anggarannya 70 billion pada tahun 2014, 2015. Sedangkan wang itu boleh digunakan untuk banyak lagi benda lain. Jadi saya rasa yang itu kita tunggu PAS nak jawab macam mana. ECRL. Okey, baik YB. Habis kekerasan kita pada minggu ini.
 
@@ -409,7 +409,7 @@ Di Sarawak, kawal selia elektriknya adalah di bawah Sarawak. Di Sabah adalah di 
 
 **Rafizi:** Apa yang mahal ada kat Muzium Negara? Takdelah kot, saya rasa.
 
-**Haziq:** Ha, yalah. Adalah.
+**Rafizi:** Ha, yalah. Adalah.
 
 **Rafizi:** Ni soalan apa ni?
 
@@ -441,9 +441,9 @@ Di Sarawak, kawal selia elektriknya adalah di bawah Sarawak. Di Sabah adalah di 
 
 **Rafizi:** Well, konsep dia — anything that is smaller and faster will make it better. Masa saya buat ijazah dalam bidang kejuruteraan elektronik, memanglah masa tu it's always about trying to get into shorter and shorter wavelength, kerana shorter wavelength means more power, dan you can pack more data into it. Jadi as the world dah menjadi lebih digital — saya tak berapa pasti tentang penemuan ini, tetapi logiknya ialah apabila kita beralih kepada AI, robot semua ni, jumlah bits ataupun zeros and ones tu — is a function of two things: satu berapa banyak data zeros and ones yang you boleh pack, kemudian how fast it can move. Jadi sudah tentulah kalau dia pack zeros and ones tu dalam wavelength — kalau you ada high power wavelength, maksudnya much shorter, shorter frequency — itu akan membolehkan generasi baru chips yang boleh memproses jauh lebih tinggi kapasiti datanya, dan juga jauh lebih tinggi speed dia, frekuensi wavelength dia. Itulah.
 
-**Haziq:** Baik YB. Kan dah tulis kat situ tu — Rainbow Chip menjana jalur cahaya bersela.
+**Rafizi:** Baik YB. Kan dah tulis kat situ tu — Rainbow Chip menjana jalur cahaya bersela.
 
-**Rafizi:** Bersela rapi untuk pengesanan pemaksaan tepat dan komunikasi laju.
+**Haziq:** Bersela rapi untuk pengesanan pemaksaan tepat dan komunikasi laju.
 
 **Haziq:** Memanglah. Itulah dia kepada pendengar yang tak menonton muka kami. Jadi dengan ada yang ini, maksudnya besar kemungkinan kita akan—
 
@@ -455,7 +455,7 @@ Di Sarawak, kawal selia elektriknya adalah di bawah Sarawak. Di Sabah adalah di 
 
 **Haziq:** Okey, YB, clear. Kita pergi ke segmen terakhir. Kena cepat-cepat ni, segmen terakhir.
 
-**Rafizi:** Yes, kita ada beberapa soalan sikit. Terus soalan pertama dari Muhammad Aslan: "Selamat malam YB Raf. Kenapa prestasi Liverpool semakin teruk kebelakangan ini?"
+**Haziq:** Yes, kita ada beberapa soalan sikit. Terus soalan pertama dari Muhammad Aslan: "Selamat malam YB Raf. Kenapa prestasi Liverpool semakin teruk kebelakangan ini?"
 
 **Haziq:** "Adakah pemain-pemain Liverpool masih dibuai kejayaan musim lepas?"
 

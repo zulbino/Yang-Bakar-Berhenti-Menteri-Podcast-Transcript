@@ -86,11 +86,11 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Apa pronunciation dia — Hat Yai ke Hat Nyai? Dia orang kata Hat Yai, cuma orang kita sebut Hat Nyai. Oh, Hat Yai. Ni aku saja nak test siapa yang selalu pergi ni. Tapi Pa'an lagi selalu — siapa yang boleh pronounce properly.
 
-**Haziq:** Bukan AMK ada getaway dekat Hat Yai?
+**Farhan (Pa'an):** Bukan AMK ada getaway dekat Hat Yai?
 
-**Rafizi:** Oh, AMK. Dia tak jemput saya. Sampai hati.
+**Haziq:** Oh, AMK. Dia tak jemput saya. Sampai hati.
 
-**Farhan (Pa'an):** Jadi apa cerita ni?
+**Rafizi:** Jadi apa cerita ni?
 
 **Haziq:** Beria lah, tipu isteri, weh. Boleh je cakap — nak cakap apa eh? Saya pun tak tahu. Cakaplah pergi Hat Yai, tak biasa menipu lah.
 
@@ -212,7 +212,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Ada. Ha, dia disambung, ditukar nama.
 
-**Haziq:** Ditukar nama lah jadi J-KOM lah. Jabatan apa ni?
+**Rafizi:** Ditukar nama lah jadi J-KOM lah. Jabatan apa ni?
 
 **Rafizi:** Jabatan Komunikasi Komuniti. Ha kan, J-KOM. Kemudian berlaku Sheraton Move dan PH 2.0 — kita ingat ke lepas tu tak ada dahlah J-KOM ni? Tapi ada juga. Jadi daripada itu pun, yalah, kalau pengundi biasa ni, dia susahlah — kita dulu kata kita akan hapuskan Jasa, tapi sebenarnya kita tukar nama je, benda tu ada. Kemudian ditambah lagi masalahnya ialah bila J-KOM ini menjadi lubuk untuk membina jentera parti dalaman. Ha, jadi antara perkara yang paling awal yang saya tidak bersetuju ialah apabila J-KOM ini digunakan untuk merekrut dan membayar orang-orang parti — ini orang Fahmi, ini orang Izzah. Dalam J-KOM tu semua orang tahu ini orang Fahmi, ini orang Izzah semua kan, orang Rafizi je tak ada dalam tu kan. Jadi dah boleh nampak bahawa J-KOM tu daripada awal digunakan untuk membina kekuatan parti bagi tujuan pemilihan. Saya fahamlah bila masuk pemilihan ini mereka ni berbayar semua, dia orang ni lah yang digunakan untuk menyerang lawan dan sebagainya kan — itu pun salahlah, salah guna kemudahan rakyat lah kan, kerana mereka ini oleh kerana dia dah dilantik, maka dia berbayar, bila dia berbayar dia terpaksa ikut arahan lah kan. Masa pemilihan parti hari tu pun banyak kali saya dapat yalah anggota — saya pun tak kenal siapa J-KOM ni kerana lantikan semua dibuat oleh Pejabat Perdana Menteri. Ha, J-KOM bermula di bawah Pejabat Perdana Menteri. Kemudian bila dah kecoh-kecoh, cerita Agus lah — cerita Agus tu pun saya dengar ada banyak ceritalah, dia sesama mereka kerana semua berebut nak jadi ketua pengarah. Ha, Game of Thrones lah sesama mereka kan. Jadi saya ingat bila benda tu dah jadi hot potato, maka dipindahkan kepada Fahmi lah kan. Tapi di situ yang bermasalahnya, bila kita menggunakan jawatan awam untuk menyelam sambil minum air — untuk selain daripada kononnya menyampaikan maklumat kerajaan, tapi pada masa yang sama dia digunakan sebagai jentera peribadi tokoh-tokoh tertentu kerana ada yang berbayar — memang tak ada penghujung yang baiklah. Tambah lagi oleh kerana J-KOM ini ada kemudahan untuk melantik dan membayar, maka dia akan menarik perhatian orang-orang yang tak pernah pun ada jiwa reformasi. Itu yang tiba-tiba timbul ceplos-ceplos ni lah, macam Datuk Taufik. Kawan producer — saya tak kenal dia, Datuk Taufik Iskandar tu kan, yang duk bising tu kan.
 

@@ -94,7 +94,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Haziq:** Beria YB. Beria.
 
-**Rafizi:** Contender. Ha, jangan terkejut, kita ada lagi next.
+**Haziq:** Contender. Ha, jangan terkejut, kita ada lagi next.
 
 **Haziq:** Ha, tetamu kita minggu ini.
 
@@ -104,7 +104,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Nak kena ni, able kan dia punya. Okey, tak apa, tak apa, tak apa. Yang ini sebenarnya dalam PKR kan? Ha, inilah yang dimaksudkan oleh — saya ingat orang macam Ramanan lah, dia menjaga akar umbi. Jadi ini daripada PKR Johor ni, berdiri di depan kotak-kotak mengucapkan terima kasih kepada YB Ramanan kerana menyumbangkan kotak-kotak raya. Tengok tu kotak raya tu, tapi kita tak boleh zoom in kan. Kalau zoom in, kotak raya tu ada dua gambar — macam biasalah baju dia pun ada gambar kan, ada Anwar Ibrahim dan juga ada gambar Rahmanan. Tapi yang kecil-kecil itu kalau tengok kat tengah-tengah tu ada Jata Negara, betul kan? Kemudian dekat bawah tu tengok tu ada logo, logo, logo, logo, logo — rupanya itu adalah daripada Kementerian Sumber Manusia dan agensi-agensi. Kalau orang tengok, itu sebenarnya kotak daripada Menteri Sumber Manusia secara rasmi, daripada Kesuma secara rasmi dan disokong oleh agensi-agensi di bawah Kesuma. Kalau kau jadi rakyat biasa, kau cakap apa?
 
-**Haziq:** Asal aku tak dapat.
+**Rafizi:** Asal aku tak dapat.
 
 **Rafizi:** Sebab yang mengedarkannya ni akan kata ini sumbangan daripada menteri, daripada Ramanan. Oh, lemak ah jadi menteri macam itu.
 
@@ -140,7 +140,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Okey, okey, okey. Jangan, jangan. Ada 4, babe? Ada 4. Tengok balik 1, 2, 3, 4. Okey. Go back to dia — contender utama ialah... Okey, bila mana ada Fuziah, dia akan beria. Pergi. Persaingan sengit antara Fuziah dan juga Ramanan. Sila pergi yang ketiga, kita tengok video balik. Ketiga — ada video dah jadi. Tadi ada kan? Tadi ada.
 
-**Haziq:** Haah, kena dengar tu.
+**Rafizi:** Haah, kena dengar tu.
 
 **Rafizi:** Terima kasih kepada... hilang dah. Aduh. Tak apa, tak apa. Tapi setelah dipertimbangkan, terima kasih Dato' Ramanan. Oh, itu yang nak kena tunjuk tu. Tapi minta maaf Ramanan, setiap kali ada Fuziah, Fuziah akan menang. Yang berani melawan sebab beria keluarkan kenyataan tanpa ada asas yang basic untuk menjadi setiausaha agung sesebuah parti, iaitu parti politik tak boleh saman orang.
 
@@ -148,7 +148,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Kredibiliti parti itu memang dah sangat terjejas. Okey, okey. Kita tak boleh cakap lagilah — tak ada kesan sangat kalau Fuziah beria-ia. Mungkin sebab itulah dia terus beria. Alang-alang dah ini.
 
-**Haziq:** Alang-alang dah ini. Okey. Bismillahirrahmanirrahim.
+**Rafizi:** Alang-alang dah ini. Okey. Bismillahirrahmanirrahim.
 
 **Rafizi:** Yang ini baca betul-betul, Bismillahirrahmanirrahim. Siap sedia untuk scan QR code dan download dokumen.
 
@@ -216,7 +216,7 @@ So dia dah beritahu. Jadi sebab itu, di dalam kumpulan orang yang tahu mengenai 
 
 **Rafizi:** Ha, sebab semua ini berlaku secara tunai. Tak adalah orang gila dalam dunia ni bagi invoice. Tak adalah orang gila dalam dunia ni, dia menteri semua tu, dia nak pergi ambil duit, dia sendiri pergi ambil 10 juta — tak ada. Dia akan hantar orang dia, pick up point dekat mana, semua kan. Jadi saya ingat, dalam mana yakin, dan sebelum sampai kat situlah — itu sebabnya kenapa saya tak, aku tak komen apa pun kan. Kau ingat kan, betul, betul, aku tak komen apa. Aku nak beraya memang betul. Aku berhenti kerja ni hanya sekali setahun je, masa raya je. Jadi masa raya selalunya dunia nak runtuh ke apa — ikut suka kau orang lah, aku dengan keluarga aku, dengan kucing aku. Memang YB tak buat kerja apa?
 
-**Haziq:** Memang tak ada, memang.
+**Rafizi:** Memang tak ada, memang.
 
 **Rafizi:** Tanyalah diorang. Aku kalau masa raya, sebab dia tak berlaku adil kepada family aku, aku mana pernah berhenti kerja. Tak pernah cuti ke apa kan. Jadi raya tu 4, 5 hari, berhentilah kan. Jadi dia keluar cerita laporan mengenai Mr. R ni keluar hari Selasa ke Isnin?
 
@@ -366,10 +366,10 @@ Saya bagi contoh lah yang bukan pasal minyak tapi pasal perubahan iklim. Saya sk
 
 **Rafizi:** Kalau aku malulah kut. Okey, kali pertama saya jumpa Lokman Nor Adam lah, yang dia kata dia pergi ke London tu, kononnya nak recruit aku kan. Kau nak tahu apa cerita dia? Aku masuk PKR ni ataupun reformasi ni sebenarnya, yalah sebab saya kenal Dato' Seri Anwar ni lebih awal kan, masa dia pecat tu ikut kawan-kawan lah kan — jadi sebelum ada PKR pun lagi. Masa tu Lokman Adam ni ada dalam UMNO pun lagi. Aku dah ada dah semua kan. Cuma nak dijadikan cerita — ini tahun bila eh? Tahun 2000 kot. Ezam Mohd Nor, entah apa-apa dia ada mesyuarat lah dekat London. Ha, jadi dia nak jumpalah kat London kan. Okeylah, tak apalah. Tapi Ezam kata dia nak bawa Lokman Nor Adam sekali. Masa tu Lokman Nor Adam ni ialah setiausaha pemuda PKR lah masa tu. Tapi Ezam tak nak bayar hotel dia semua, nak bayar tiket saja. Jadi dia kena cari tempat duduk, tempat menumpang. Yalah, dia menumpang atas lantai bilik akulah. Ha, itu kali pertama aku — habis tak pasal-pasal kena.
 
-**Farhan (Pa'an):** Tak pasal-pasal.
+**Rafizi:** Tak pasal-pasal.
 
 **Rafizi:** Kau gila ke apa Lokman ni? Janganlah bawa cerita benda-benda yang boleh memalukan. Ha, kan? Maka dia pun duduklah di bilik aku, tidur atas lantai. Aku kesian tengok, kononnya ini pejuang reformis ini, ha kan, dan tidur atas lantai di bilik aku sebab dia nak sangat pergi ke London, tetapi tidak ada duit dan tidak ada orang boleh bayar untuk accommodation dia. Aku pun bantulah, duduklah atas lantai bilik aku. Itulah kali pertama aku jumpa Lokman Nor Adam. Jadi saya nak perbetulkan — dia bukan bawa aku masuk PKR, aku bawa masuk dia bilik aku. Jadi yang Eng Eng Long yang ke siapa? Em Long apa nama? Eng. Semua orang tak ingat dia nama dia. Dia kata dia pengasas PKR, tapi semua tak ingat. Takpalah, takpalah, itu kita tangguh minggu depanlah. Harap tak basi lagilah. Tak apa, cerita-cerita gosip macam tu orang suka. Tu jelah kot. Sama jugalah yang KJ kata apa nama ni — oh, pembangkang paling tak berguna. Ha, kan? Itulah padan muka walaun-walaun yang selama ni duk lambung KJ kan. Okey, jadi yang itu kita tangguhkan ke minggu depan.
 
 **Haziq:** Okey. Selamat Hari Raya. Jaga makan, jangan banyak sangat. Aku dah tambah 1 kilo.
 
-**Farhan (Pa'an):** Tak apa, boleh turun balik. Okey, bye.
+**Haziq:** Tak apa, boleh turun balik. Okey, bye.

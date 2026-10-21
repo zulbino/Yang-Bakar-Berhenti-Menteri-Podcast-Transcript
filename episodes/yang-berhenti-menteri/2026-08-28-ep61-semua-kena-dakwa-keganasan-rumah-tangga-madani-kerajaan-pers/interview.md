@@ -97,7 +97,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Haziq:** So yang mana part yang beria-nya? Dia jadi beria bila overclaim maybe — taklah buah pinggang, kecil manis, selaput mata pun boleh tertanggal, YB, dengan hanya memakai benda ini. So aku patut pakai lah. YB, selaput mata?
 
-**Rafizi:** Tak ada lah.
+**Haziq:** Tak ada lah.
 
 **Haziq:** That means, aku kan ialah ada masalah-masalah kesihatan biasa rakyat Malaysia tu kan. Oh, okay. Tapi ialah ramai pakar-pakar perubatan yang ialah bangkang lah.
 
@@ -117,7 +117,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Haziq:** Habis semua. Dan orang percaya, sedih. Beria kita komen. Okay, jom YB. Okay, two and first. Harap-harap ada tindakan lah.
 
-**Speaker ?:** Sila lapor kepada pihak berkuasa.
+**Rafizi:** Sila lapor kepada pihak berkuasa.
 
 **Haziq:** Ya, sila lapor kepada pihak berkuasa. Yang kedua, Malaysia Mamdani — Zohran Mamdani. Tapi yang ini sebab kita tak tunjuk video yang viral tu kan.
 
@@ -131,7 +131,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Macam tak seronok je beria minggu ni.
 
-**Haziq:** Ni baru yang kedua. Kita ada banyak sikit, YB pun ada.
+**Rafizi:** Ni baru yang kedua. Kita ada banyak sikit, YB pun ada.
 
 **Rafizi:** Oh okay, alright, dah dua kali lah aku masuk. Masuk beria. Okay.
 
@@ -147,9 +147,9 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Oh belum lagi. Ni apa, tiap-tiap minggu ada beria pensyarah kanan?
 
-**Haziq:** YB lah, YB seru pensyarah kanan UUM minggu lepas dalam.
+**Rafizi:** YB lah, YB seru pensyarah kanan UUM minggu lepas dalam.
 
-**Rafizi:** Saibun Hauku kan. Mungkin dia datang. Tapi orang suruh komen pasal Hauku dan kecemerlangan universiti. Tak apa, bukannya orang suruh komen pasal yang ini.
+**Haziq:** Saibun Hauku kan. Mungkin dia datang. Tapi orang suruh komen pasal Hauku dan kecemerlangan universiti. Tak apa, bukannya orang suruh komen pasal yang ini.
 
 **Haziq:** So kau masukkan ni sebab — ini dia, yelah, dia membuat analisis yang begitu saintifik, dan ada granular data lah. Kan, granular data kata, bila Azmin masuk, peluang Dato' Seri Anwar mendapat term yang kedua adalah cerah. Sebab prestasi dia sebagai timbalan presiden PKR pun sangat bagus. Bukan macam Rafizi, teruk. Itu yang dia kata.
 
@@ -163,7 +163,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Wallahualam, saya tak tahu, saya mana tahu kan. Cuma Dato' Seri Anwar juga ada rekod — depan cakap lain, belakang buat lain. Jadi kita ambil with a bucket of salt. Haa kan, bucket of salt. Lagipun yang jadi orang tengah runding ini, besar kemungkinanlah tengok rundingan dengan BN, dia beri tanggungjawab itu kepada Dato' Seri Amiruddin Syahri. Macam tugas itu, sebab Dato' Seri Amiruddin Syahri sekarang ini pun dia adalah pengarah pilihan raya PKR kan. Jadi maksudnya gabungan kerjasama dalam pilihan raya ini jadi tugas dia. Dan semua kita tahu dia rapat, macam adik lah, dengan Dato' Seri Azmin Ali ini kan. Jadi kita tengok saja lah, mungkin itu panggilan dia — drama rumah tangga. Dia sekarang banyak drama rumah tangga kan, kita akan ulas nanti. Okay next. Saya boleh lihat — oh, respon PAS: "PAS pertahankan Tabung Haji ibarat pertahankan Baitul Maqdis." Tapi macam mana nak pertahan kalau selalu berpuas hati?
 
-**Haziq:** Jadi itulah kelebihan mereka ni, bagi slogan atau branding ni memang nombor satu. Tapi pelaksanaan ni kita tak tahulah macam mana, YB. Dan ini dikaitkan selepas musyawarah nasional.
+**Rafizi:** Jadi itulah kelebihan mereka ni, bagi slogan atau branding ni memang nombor satu. Tapi pelaksanaan ni kita tak tahulah macam mana, YB. Dan ini dikaitkan selepas musyawarah nasional.
 
 **Rafizi:** Macam mana pula ni? Kalau di dunia ini Baitul Maqdis, di Malaysia ini ibaratnya adalah Tabung Haji itu sendiri. Ha? Dia logik dia tak bercantum. Jadi maksudnya kan, jadi parallel dia macam mana? Maksudnya Baitul Maqdis diserang ataupun cuba diranapkan oleh tentera Israel. So Tabung Haji cuba diranapkan kan, macam mana? Tapi kawan dia yang cuba ranapkan Tabung Haji tu — takde. Naratif dia DAP. Mungkin begitulah kot.
 
@@ -183,7 +183,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Takiuddin, Takiuddin beria. Fair lah untuk saya katakan, saudara. Beria. Beria, beria, beria, beria. Okey, baik. Kona baring tu kan. Daripada dia jadi menteri semua tu kan. Dan Timbalan ni pun ada sekali dalam musyawarah nasional tu.
 
-**Haziq:** Timbalan dia maksudnya? Oh, Marzuk.
+**Rafizi:** Timbalan dia maksudnya? Oh, Marzuk.
 
 **Rafizi:** Maksudnya Timbalan Menteri Agama. Ya,
 
@@ -191,7 +191,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Beria dengan pusat jahit. Dia ada gambar masa RCI mula-mula tu. Dia juga yang pergi menempel muka beria. So sekarang dia pula tolak laporan tu. Allahuakbar. Dia punya tak
 
-**Haziq:** tahu malu. Okay. Baik. Next. Tentang bersama. Lokasi sehari bersama di Lembah Pantai dibatalkan sehari sebelum. Yang ini siapa? Agak-agaknya siapa yang
+**Rafizi:** tahu malu. Okay. Baik. Next. Tentang bersama. Lokasi sehari bersama di Lembah Pantai dibatalkan sehari sebelum. Yang ini siapa? Agak-agaknya siapa yang
 
 **Rafizi:** campur tangan ni? Kan kesaman, YB. Itulah. Jadi kita tak boleh sebut nama. Tapi Lembah Pantai lah. YB nak buat eksposik ke? Tak adalah. Cuma aku bersyukur je lah dibatalkan. Sebab at least aku ada satu petang untuk berehat, berhenti lepas satu-satu kan. Jadi apa nama ni, ialah dia jadi isu sebab di Lembah Pantai dan booking tu semua dah confirm kan. Yang lebih awal saya dimaklumkan bahawa CEO IWK Eco Park tu mendapat panggilan telefon daripada orang yang penting, pejabat daripada orang yang penting. Aku pun tak tahu aku. Aku faham-faham je lah. Beria betul dia. Beria 6-7.
 
@@ -203,7 +203,7 @@ tak pernah melalui perkara
 
 itu. Dan kalau dia melalui, sebab ada je yang melaluinya — contohnya Anwar Ibrahim, dia pun melalui benda itu kan. Tapi, you know, apa yang dibuat dulu, dibuat juga sekarang kan. So, I think because dia tak ada that deep sense of justice, jadi benda ni akan berterusan. Yang bagusnya, dia sebenarnya akan menguatkan lagi ahli-ahli bersama ni, ni lagi lah otot dia berketul-ketul lah lepas ni kan. So when they make it personal macam ini, maksudnya they make it very emotional kepada orang biasa kan. After all, dia bukanlah, ini bukan cakap amat pun, ini apa nama ni, kreator. So kan, benda-benda biasa sebenarnya it's just an open day. Kalau kerajaan takut dengan open day ni bahaya
 
-**Haziq:** lah. Baik, beria. Tahniah. Kita ada last kali YB — Rafizi join contest MBSB, menang sampai kena ban. Sampai kena ban. Ini YB buat apa ni YB? Tak adalah dia threat ni. Haa, YB dah ketagih kan?
+**Rafizi:** lah. Baik, beria. Tahniah. Kita ada last kali YB — Rafizi join contest MBSB, menang sampai kena ban. Sampai kena ban. Ini YB buat apa ni YB? Tak adalah dia threat ni. Haa, YB dah ketagih kan?
 
 **Rafizi:** Bukanlah ketagih. Aku kan very evidence driven kan. Okay, so algoritm thread ni nampaknya lebih tepat daripada algoritm act. Haa, betul, dia lagi tepat. Dan dia nampaknya menjadi tempat, terutamanya pengundi-pengundi Melayu yang milenials. Di SREC ni lah so far nampak begitu lah kan, dan algoritm dia tu dia lebih tepat. Jadi buka-buka SREC je every now and then, dia ada semua posting — kalau thread dia panggil post kan, posting macam ni kan. So dia keluarlah MBSB Bank, aku tengah, aku biasa lah, aku kan agak spontaneous as a person kan. Berani bila? Aku peletak lah, berani bila. Buat parti tak masuk gabungan, lawan semua gabungan besar, menang kau. Dan duit RM100 itu telah didermakan untuk tabung sulung, tabung gajah. Sebab aku kena marah lagi kat netizen — ada seorang netizen tu dia kata ini teladan yang tidak baik, memberi makanan kepada haiwan liar.
 
@@ -259,7 +259,7 @@ Ya. Jadi penduduk-penduduk — eh, penduduk-penduduk, dia punya macam cerita pir
 
 Dia cerita pasal kerajaan lah,
 
-**Haziq:** you know, pasal Agong lah, pasal peguam lah, pasal parlimen lah kan. Dan dia disusun ikut bahagian-bahagian. So bahagian ke-6 itu ialah mengenai hubungan di antara persekutuan dan negeri-negeri. Bab satu dia ialah agihan
+**Rafizi:** you know, pasal Agong lah, pasal peguam lah, pasal parlimen lah kan. Dan dia disusun ikut bahagian-bahagian. So bahagian ke-6 itu ialah mengenai hubungan di antara persekutuan dan negeri-negeri. Bab satu dia ialah agihan
 
 **Rafizi:** kuasa perundangan, distribution of kan. Jadi dia adalah Artikel 73, 74, 75, 76 kan. Ya. Kemudian bab kedua ialah agihan kuasa eksekutif — itu ada dua artikel, Artikel 80 dan Artikel 81. Kemudian bab tiga ialah agihan tanggungan kewangan, yang itu Artikel 82 — yalah, Artikel 82 sahaja, yang lain tu dah kurang sikit lah kan.
 
@@ -273,11 +273,11 @@ Saya nak guna tanya hayat. Kau tanya-tanya hayat, tanya apaan. Dia ada dua — s
 
 So dia sebenarnya is common basic sense — common basic economic sense — bahawa negeri yang sebelas ini adalah lebih makmur bila bergabung di bawah satu negara dan diwujudkan satu persekutuan. Kalau saya jadi orang yang mendengar ceramah Sanusi, dah ada dah jawapan dia. Haa itulah, itu jawapan Sanusi tak cerita semua. Dia seolah-olah, bila dia sebut itu, dia seolah-olah macam "oh kita negeri yang berkuasa, kita menyerahkan kuasa kepada engkau, engkau kulit aku, jadi apa yang aku nak, kau kena bagi." It doesn't work like that tau.
 
-**Haziq:** Kerana dia ada symbiotik untuk kita mengurangkan jurang masing-masing. Dan jurang itu maksudnya kelemahan, kelemahan masing-masing
+**Rafizi:** Kerana dia ada symbiotik untuk kita mengurangkan jurang masing-masing. Dan jurang itu maksudnya kelemahan, kelemahan masing-masing
 
 **Rafizi:** itu. Dia bukan sahaja ada di negeri yang dilihat secara ekonominya mundur — negeri yang ke depan pun dia ada jurang juga. Dan vice versa, pembangunan ekonomi ini bukan semata-mata semuanya itu maksudnya masuk, wang masuk — dia datang dengan beban. So sebab itulah maka negeri yang sebelas ini mewujudkan Melayu lah — Persekutuan Tanah
 
-**Haziq:** Melayu lah masa itu kan.
+**Rafizi:** Melayu lah masa itu kan.
 
 **Rafizi:** Jadi hasil daripada itu maka adalah Perlembagaan Persekutuan yang secara jelas menyatakan hubungan di antara persekutuan dengan negeri-negeri kan. Jadi orang cerita pasal kuasa-kuasa ni kan — kau lawyer kan — di bawah agihan kuasa perundangan.
 
@@ -285,11 +285,11 @@ Artikel 80 dan ke Artikel 81
 
 **Haziq:** ialah agihan kuasa eksekutif. Apa beza dua ini? Bila kita kata pasal kuasa itu, apa maksud kuasa? Kuasa perundangan adalah untuk membuat undang-undang, to legislate law — sebab itu kita ada parlimen yang boleh legislate
 
-**Rafizi:** federal law yang kita panggil sebagai akta. Dalam masa yang sama, parlimen
+**Haziq:** federal law yang kita panggil sebagai akta. Dalam masa yang sama, parlimen
 
 **Haziq:** hanya boleh buat undang-undang berkaitan dengan bidang kuasa dia sahaja — negeri ada bidang kuasa dia yang boleh dilegislate melalui enactment ataupun ordinan di Sabah atau Sarawak — yang ni lah
 
-**Rafizi:** legislate bidang kuasa dia sahaja lah. Itu perundangan. Eksekutif pula adalah
+**Haziq:** legislate bidang kuasa dia sahaja lah. Itu perundangan. Eksekutif pula adalah
 
 **Haziq:** kuasa lebih kepada kuasa mentadbir lah. Pun sama juga — dia ada senarai dia, ada senarai negeri, senarai persekutuan. Negeri boleh
 
@@ -307,11 +307,11 @@ So sebab bila orang cakap pasal kuasa, kuasa, kuasa tu kan — yelah, pemahaman 
 
 **Rafizi:** kita nak sambung dengan itu. Selalunya soal federal ni, orang ramai dia tak tahu pun yang mana federalist, yang mana contohnya jalan-jalan kan. Saya rasa orang ramai tak tahu pun yang mana jalan persekutuan,
 
-**Haziq:** yang mana jalan negeri, yang mana jalan PBT. So, kadang-kadang, apa nama ni, ahli parlimen contohnya kenal
+**Rafizi:** yang mana jalan negeri, yang mana jalan PBT. So, kadang-kadang, apa nama ni, ahli parlimen contohnya kenal
 
 **Rafizi:** tu jalan PBT, okelah, you nak kena — iyalah, you nak kena pujuk paksa, jerit pujuk PBT tu buat jalan tu lah, sebab dia tak bertanggungjawab kayu, tau kan, lah, contohnya kan. Jadi yang mungkin orang kurang tahu sedikit ialah senarai-senarai negeri dan juga senarai bersama. Jadi saya dengan cepat ni, sebab yang ni penting untuk tahu bidang kuasa negeri-negeri, dan yang itu yang mungkin boleh menjawab apa yang Haziq tanya tadi pasal alasan yang selalu digunakan, iaitu oh Penang ni, Selangor ni, negeri-negeri ni semua dah maju pun dulu, dari zaman dinosaur lagi maju. Saya tidak faham. Tanah Melay Reservation, tanah-tanah Bumiputera. Permit dan juga license untuk pelombongan, kemudian compulsory acquisition of land, pajakkan dan apa-apa yang berkaitan dengan tanah. Kemudian harta karun semualah. Kemudian soal pertanian — pertanian ialah di bawah kerajaan negeri, tau. Kemudian soal perhutanan kan. Betul. Kemudian soal pentadbiran setempat, soal pihak berkuasa tempatan. Kampung, bandar, lembaga-lembaga luar bandar. Kemudian. boarding houses and lodging houses, so perumahan-perumahan ini yang dia agak, apa nama ni, dia bukan perumahan ni tau, itu nombor berapa tapi? Itu lima. Rumah tumpangan. Rumah tumpangan. Boarding houses adalah rumah tumpangan. Kemudian tempat perkuburan. Kemudian kerja-kerja raya negeri dan juga air. Works and water. Jadi kerja raya negeri, jalan, jambatan, feri yang selain daripada di bawah senarai persekutuan, kemudian air, tapi subjek juga kepada federalist kan. civil state pension. kemudian state holiday. yang lain tu tak penting sangat lah, yang itu je lah kan, penyu dan perpustakaan — penyu dan perpustakaan juga di bawah negeri. So coming back to here — so ini maksudnya, kerajaan negeri sebenarnya mengawal aset yang paling penting iaitu tanah. Tanah dan galian. Oh, dan galian. Inilah benda yang ada dalam tanah. Ya ya, anything bawah tanah, itu milik kerajaan negeri. Dan apa aset kerajaan persekutuan? Aset. hardly any lah. Kecuali dia beli tanah tu daripada
 
-**Haziq:** kerajaan negeri. Betul tak? Cuma. kerajaan Persekutuan
+**Rafizi:** kerajaan negeri. Betul tak? Cuma. kerajaan Persekutuan
 
 **Rafizi:** mengutip cukai perniagaan lah. Cukai perniagaan, cukai. tapi, yang ini yang dia tak cerita sepenuhnya lah. Dia cerita pasal hasil cukai, dia tak cerita pasal tanggungan dan beban. Sebab kalau tengok kepada bidang kuasa kerajaan negeri tu kan, semua yang berkaitan dengan rakyat ni, kecuali tanah, termasuklah perumahan, semua tu ialah kerajaan persekutuan. Cuma dia ada concurrent list lah — senarai bersama, yang duduk pun boleh. Senarai bersama ni ialah social welfare, kebajikan sosial, perlindungan wanita, kanak-kanak, biasiswa, perlindungan binatang, taman-taman negara. Animal husbandry ni apa dia?. perlindungan binatang liar dan meruliah. protection of wild animals and wild birds. Nombor empat, pencegahan perbuatan mengenai binatang. Oh okey, sorry. pertama ialah perancangan bandar kan. Kemudian, okey, kesihatan awam dan kebersihan, dan juga pencegahan wabak — itu senarai bersama. Pengairan dan juga longkang, senarai bersama. Yang lain tak penting. Sukan dan budaya, senarai bersama. Er, yang lain itu tak penting. Perumahan. Perumahan. Housing and provisions for housing, accommodation improvement trust. Dalam bahasa Melayu apa dia? Amanah pemajuan. Kita pun tak faham. Okey. So, kalau tengok semua tanggungjawab yang melibatkan rakyat yang harian yang banyak ni, majoriti adalah di bawah kerajaan persekutuan kan. Jadi itu termasuklah contohnya pendidikan, kesihatan, keselamatan, undang-undang, perumahan, ekonomi, harga barang — semua di bawah kerajaan persekutuan kan. Jadi aku nak pulangkan balik dengan kau. Apa kena-mengena dengan Sanusi-nya?
 
@@ -375,7 +375,7 @@ Jadi sebab itu, dia berbahaya kalau politik Malaysia sekarang, when it comes to 
 
 Jadi sebab itu, kalau kita bandingkan, kan? Ada je negeri yang sebenarnya sumber tanah dia, dan juga sumber-sumber yang di bawah kerajaan negeri dia, sebenarnya lebih rendah daripada negeri-negeri yang selalu bising ni. Negeri Sembilan lebih rendah. Melaka lebih rendah. But you don't hear from them. Tak kisahlah masa bawah BN ke, masa bawah PH ke, you don't hear from them constantly playing this. Maksudnya ada part yang Sanusi sepatutnya play, tapi dia tak buat benda tu. Bukan, maksudnya begini — ini kepada rakyat lah soal Sanusi, soal Anwar, lu belakang kira lah kan. Maksudnya kepada rakyat ni, bagi saya lah yang saya nak kongsi malam ini, ialah pada peringkat sekarang, Perlembagaan Persekutuan yang membahagi-bahagikan kuasa antara negeri dengan Persekutuan ini telah
 
-**Haziq:** dirangka untuk mengimbangi kuasa —
+**Rafizi:** dirangka untuk mengimbangi kuasa —
 
 **Rafizi:** masing-masing, dan masing-masing ada leverage yang cukup besar. Negeri, soal aset penggunaan dan kawalan aset yang paling utama iaitu tanah. Tapi tanah itu dia tak akan jadi dengan sendiri. You have to plan lah. Local planning tu di bawah kerajaan negeri. Kerajaan negeri nak buat apa, nak buat bandar semua, kan. Jadi semua itu sama macam orang buat bisnes lah. You nak buka kedai kan, takkan kau nak buka kedai kau harap semuanya berlaku sebab kau buka kedai. You have to plan for it, you have to find the market, you have to find the pekerja and work on it lah. Kalau contohnya kau nak dapat pekerja, kau kena dapatkan permit daripada kerajaan persekutuan. You go and get the permit lah daripada kerajaan persekutuan, semua kan.
 
@@ -391,7 +391,7 @@ That's how Xi Jinping, I mean, that's how Hu Jintao, that's how Xi Jinping lah, 
 
 Jadi, mungkin daripada apa ni, soal fiskal — hmm, yalah, apa ni, on the one hand, memang perlembagaan persekutuan itu ditulis untuk mengimbangi kuasa; kuasa tanah dan aset paling besar itu ada di pihak kerajaan negeri, fiscal revenue dan juga fiscal responsibility itu berada di tangan kerajaan persekutuan, kan? Hmm. Tapi pada masa yang sama betul lah, kalau kita tengok kepada sustainability of state financial — berapa je kerajaan negeri ni yang betul-betul ada ruang kewangan yang okey. Sabah, Sarawak sebab mereka ada otonomi yang berlainan, dan mereka memang ada peruntukan dan artikel-artikel tambahan dalam Perlembagaan Persekutuan mengenai agihan kepada mereka kan. Tapi kalau di Semenanjung ni, saya ingat selain daripada Johor dan mungkin Selangor, yang lain cukup-cukup makan lah. Kalau Terengganu, kalau tanpa suntikan daripada kerajaan Persekutuan, memang tak boleh bayar gaji lah. Dan malah negeri-negeri yang nampak okey kan, macam Negeri Sembilan, macam Melaka, Pulau Pinang kan, tanpa suntikan daripada kerajaan persekutuan untuk projek-projek kecil, pihak berkuasa tempatan mereka, majlis-majlis perbandaran, semua ni barely ada duit untuk capital expenditure pun. Maksudnya negeri pun tak dapat finance PBT dengan projek-projek kecil tu. Sebahagiannya daripada negeri, tapi terlalu kecil. Sedangkan rakyat ni sekarang nak longkang yang lagi besar. Dan kebanyakan daripada permintaan rakyat ni ialah yang berkaitan bukan daripada di bawah bidang kuasa persekutuan sangat, dia sebenarnya lokaliti dan juga kerajaan negeri. Tapi pada masa yang sama kerajaan negeri tak ada duit tu, jadi dia —
 
-**Haziq:** menimbulkan masalah yang dihadapi oleh rakyat sekarang. Nak dapat longkang baru pun jelah lambat, nak dapat fasiliti yang penting untuk rakyat. Ini jangan cerita pasal nak buka universiti ke, nak buka apa nama ni —
+**Rafizi:** menimbulkan masalah yang dihadapi oleh rakyat sekarang. Nak dapat longkang baru pun jelah lambat, nak dapat fasiliti yang penting untuk rakyat. Ini jangan cerita pasal nak buka universiti ke, nak buka apa nama ni —
 
 **Rafizi:** fasiliti pelaburan bilion-bilion. We are talking about day-to-day needs of maintenance, of renewal. Semua ni bergantung, majoritinya bergantung kepada kerajaan persekutuan. Jadi model perlembagaan persekutuan yang kita ada sekarang ini mula nampak beberapa downside dia lah. Downside dia ialah efficiency dan delivery of service lah. Kerana semua itu nak kena — ini yang ada orang minta, ada orang yang apa nama ni persoalkan lah, takkanlah untuk buat satu blok baru sekolah kami nak kena pergi ke Putrajaya, because negeri tak ada duit, ataupun lokaliti itu tak ada duit, maka dia kena tunggu peruntukan daripada persekutuan. Jadi birokrasi itu menyebabkan lambat, dan bila lambat itu, dia ada kesan kepada rakyat.
 
@@ -433,11 +433,11 @@ Jadi kita dah sampai ke peringkat itu, yang mana kerajaan-kerajaan negeri ini na
 
 **Rafizi:** Baiklah. janganlah tanya aku, mana aku tahu apa dalam kepala otak dia. Scientific punya ni lah — apa ni, hypothesis. Yelah, ini orang kata kemungkinan. Cakap podcast lah, cakap podcast kan. Yalah, selepas yang berlaku tu, maksudnya kita ada berturut-turut kan — Tabung Haji, Datuk Seri Aziz, bekas ahli parlimen, ahli majlis tertinggi semualah Pusat Tabung Haji. Kemudian Tan Sri Irwan Serigar, ni orang kuat Dato' Sri Najib lah kan. Kemudian Dato' Sri Ismail Sabri Yaakob, mantan Perdana Menteri. Kemudian Dato' Sri Saravanan, timbalan Presiden MIC. Dan ialah, saya duduk dengar-dengar akan ada lagi. Akan ada. Jadi. kumpulan mereka jugalah, wallahualam. So yalah, tapi aku rasa aku tidur malam ok, orang lain aku tak tahu. Cuma, maksudnya, selepas kekalahan PH di Johor, di Negeri Sembilan, dan komen-komen politik tentang Dato' Seri Anwar nampaknya sukar untuk kembali menjadi Perdana Menteri, kemudian kegairahan UMNO yang nampaknya mencabar dia kan, dan semua orang tahu bahawa UMNO Barisan Nasional ada 30. Jadi apa ni, you know, kemungkinan-kemungkinan yang akan berlaku sama ada UMNO tarik diri, dia tak jadi PM — jadi banyak teka-teki apakah pilihan-pilihan yang ada pada Dato' Seri Anwar. Ialah dia sebenarnya ada beberapa pilihan sahajalah, saya tengok kan. Satu pilihan dia ialah — kalau pilihan yang bermaruah, bagi saya, kalau pilihan yang bermaruah, ialah dia bubarkan parlimen dan serahkan balik kepada rakyat. Maksudnya, dia pasal rumah tangga politik lah kalau contohnya — dah nampak jelas. Aku ingat dulu, apa nama ni, masa Pakatan Rakyat awal-awal dulu menang 2008 — PAS, PKR, DAP — serangan UMNO yang tak habis-habis ialah "tidur sebantal, mimpi lain-lain." Diaorang ni, PH dengan BN ni, sekarang ni bukan soal tidur sebantal lah ni. Ini soal. haa. tidur lain-lain tu satu hal. Ini bertumbuk sebelum tidur. Lebam mata tiap-tiap malam. Tiap-tiap malam. Haa. tiap-tiap malam. Lebam mata kan. Dulu Pakatan Rakyat kata tidur sebantal, mimpi lain-lain. Ini dah memang tiap-tiap hari keganasan rumah tangga ni kan — nak masuk bilik pun tak boleh kan. Jadi kalau rumah tangga yang macam itu, sepatutnya penyelesaiannya dah memang jelas lah — dah tak boleh nak duduk serumah. Dan orang biasa selalunya kata, yalah, maksudnya berlaku perpisahan lah kan, nak bercerai ke, nak fasa ke apa semua kan. Jadi secara politiknya lah keadaan PH-BN sekarang. Kalau secara yang bermaruah, sepatutnya kerajaan dibubarkan, parlimen dibubarkan, dan keputusan itu dikembalikan kepada rakyat untuk mendapat mandat. But you and I know, Dato' Seri Anwar, it's not like that. So pilihan satu. Pilihan kedua ialah dia cuba pujuk rayu, pujuk rayu, pujuk rayu lah. Nampaknya perkara itu dah water under the bridge — masa Johor dan Negeri Sembilan, pujuk rayu-pujuk rayu tak jadilah. Dan saya ingat, kalau kita letak dalam konteks bila dalam PRN Johor tu dia kata, you know, "janganlah kasar sangat, you know, apa pun keputusan, saya tetap jadi Perdana Menteri" — sebenarnya itu pun dah bagi clue-clue yang dia akan ambil keputusan pilihan ketiga lah. Pilihan ketiga ialah keganasan rumah tangga politik lah. Cekik. Haa, cekik. Cekik, lepas tu apa nama ni, kunci pintu, tak boleh keluar. Haa kan. So lebam mata tiap-tiap hari lah kan. Dan siri keganasan yang awal-awal ni dah kita nampak lah sekarang kan. Jadi kau ambil contoh Yelah, saya ingat Dato' Seri Anwar ni dia rasa bahawa UMNO akan takut kan. Mungkin dia betul. Mungkin dia betul kan, kalau tengok kepada Melaka contohnya kan. Ya ya ya Melaka. Haa. Kalau kita banding nak masuk PRN Johor, nak masuk PRN Negeri Sembilan, keadaan itu sangat hostile — antara penyokong dan pemimpin BN dengan PH ini bermaki hamun tiap-tiap hari, bergaduh, macam-macam. Perasaan Melaka ini diam.
 
-**Haziq:** ada all the leverage yang dia — 21 kursi, dia kuat semua kan. Dan kita pun perasan juga, kalau di Johor dengan Negeri
+**Rafizi:** ada all the leverage yang dia — 21 kursi, dia kuat semua kan. Dan kita pun perasan juga, kalau di Johor dengan Negeri
 
 **Rafizi:** Sembilan tu, dah memang jelas BN akan bersama dengan PN. Sekarang ni kita menunggu lagi Rauf buat pengumuman nak sanding kat mana, tok kadi kat mana, nak nikah kat mana kan — dia duk cerita daripada beberapa bulan dah kan. Kali ni kalau kena betul-betul bersanding semua kan — so nampak macam belum ada, semua orang meneka-neka sebenarnya kan. So, dan in absence of pergaduhan besar-besaran secara terbuka tu, you know, kita tak boleh rule out bahawa ada kemungkinan memang BN akan dengan PH. Sebab kalau tidak, Dr. Akmal Saleh dia tak jerit awal-awal lah — "kalau dengan PH, saya tak bertanding." Kalau bacaan saya sebagai orang politik lah, itu secara tidak langsung mengesahkan bahawa perbincangan BN dengan PH untuk Melaka itu serius. Jadi kalau kita letakkan berlatar-belakangkan semua ini, maksudnya, strategi pilihan ketiga, keganasan rumah tangga ni, mungkin berkesan buat masa sekarang untuk Dato' Seri Anwar lah, untuk kunci pintu dan hentam UMNO kan. Mungkin UMNO slow down sedikit lah daripada tu kan. Kalau kita tengok pada kes-kes ni lah kan. kes Dato' Sri Ismail Sabri contohnya kan, kes itu telah melalui mahkamah
 
-**Haziq:** ya ya ya kan, so masa bising-bising, masa dia tangkap dulu, tunjuk wang semua, kita semua duduk bising, dakwa-dakwa-dakwa kan.
+**Rafizi:** ya ya ya kan, so masa bising-bising, masa dia tangkap dulu, tunjuk wang semua, kita semua duduk bising, dakwa-dakwa-dakwa kan.
 
 **Rafizi:** Dia tak didakwa. Sebaliknya yang berlaku ialah kerajaan — maksudnya Jabatan Peguam Negara, pendakwaan raya — kesnya itu pelik, dengan SPRM mendapat persetujuan yang mana kesnya ialah untuk melucut hak 170 juta itu, dan tidak dicabar oleh Dato' Sri Ismail Sabri. Saya tak rasa benda itu berlaku tanpa ada deal. Maksudnya, sudah ada deal masa itu. Maksudnya, Dato' Seri Anwar nak kautim, UMNO pun kautim, semua kan. Jadi persetujuan sesama mereka ialah, okeylah — okey, so kali ini, okeylah, kita berdamailah, jadi okeylah. Tak didakwa tapi duit tu kau kena bagi balik. Kenyataan lawyer Ismail Sabri di court pun tadi macam tu jugalah — balik, dah buat permohonan lucut hak, lepas tu dia dakwa. Dan yang itu saya ingat akan jadi hujah besar Dato' Sri Ismail Sabri lah, dekat mahkamah nanti — bahawa bila peguam Amir Hamzah dah cakap macam itu kan, dia memberi gambaran memang sudah ada persetujuan, bahawa dia macam plea deal tau — "I tak dakwa you, you serah ni." Kita berdamai lah, habis kat situ kan. Jadi bila tiba-tiba didakwa macam ini — ini memang main kasar, keganasan rumah tangga betul lah. Ini dah koyak hidung ni sebenarnya kan. Kau rasa memang gila lah ni kan. Below the belt kan. So sebab itu, penama ni, saya ingat, keadaan-keadaan ini bermakna bahawa Dato' Seri Anwar hantar mesej yang jelas kepada UMNO. UMNO tak patut terkejut. Sebab aku yang tak ada apa-apa ni pun aku kena heret pasal RM semua, apatah lagi kalau memang ada file ke apa sebelum ni. So I'm not surprised kalau keganasan rumah tangga ni akan berterusan lagi selepas ini lah.
 
@@ -453,7 +453,7 @@ Jadi yang itu, saya rasa, kalau tengok kepada beberapa perkara kan — satu yang
 
 **Rafizi:** contohnya, bila dia berlaku aku dalam PKR ni, tak senang duduk. Tapi dalam UMNO, dia sama diaorang aku nampak okey je dia — dia tahu orang tu ada banyak duit kat mana, orang ni banyak duit kat mana semua kan. So it's common knowledge. Jadi kalau it's common knowledge, orang akan fikirlah benda ni dah tahu lama — itu sebagai stick untuk mengekalkan kerajaan. And now, bila dah jadi macam ini, you go after kan. Jadi ini antara perkara-perkara yang saya ingat kesan dia itu besarlah. Jadi mungkinlah strategi keganasan rumah tangga politik ni mungkin berkesan buat masa sekarang — tapi sama ada, ialah, berkesan buat masa sekarang ni maksudnya, fungsi terbesarlah keganasan rumah tangga politik ni ialah, tu buy time supaya UMNO nak kena fikir dua kali ni, dia nak buat apa-apa
 
-**Haziq:** kan, because dia terpaksa berdepan dengan state resources ni, penguatkuasaan undang-undang
+**Rafizi:** kan, because dia terpaksa berdepan dengan state resources ni, penguatkuasaan undang-undang
 
 **Rafizi:** semua gerak-geri mereka semua jenis kena fikir semua jenis kan. Jadi mungkinlah, dia buy time. Dan kita boleh tengok nanti dalam pilihan raya negeri Melaka nanti lah kan. Tapi sama ada atau tidak, ini akan menambah baiklah kedudukan PH itu — yang itu saya tak pasti. I actually don't think so. Sehinggalah kita dapat angka sokongan daripada survei yang terkini, mungkin dalam sebulan lepas sekarang, only then we can tell lah. But kalau saya tengok secara rawak di media sosial, I don't think so lah.
 
@@ -461,11 +461,11 @@ Dari segi respon BN, sama ada mereka tunduk atau mereka retaliate, apa kesan kep
 
 **Rafizi:** kena scam kan dia. So I think UMNO dah melalui benda ini. Dia pun tahu bahawa proses mahkamah ni, kena dakwa semua ni, bukannya dakwa tu pun masuk lebih. Proses mahkamah paling sekejap 2-3 tahun, mana nak rayu semua lagi kan. So
 
-**Haziq:** dia masih lagi ada banyak leverage — itu masa dia tak adalah terdesak sampai begitu, dan dia tahu, contohnya, kalau tengok kat Melaka
+**Rafizi:** dia masih lagi ada banyak leverage — itu masa dia tak adalah terdesak sampai begitu, dan dia tahu, contohnya, kalau tengok kat Melaka
 
 **Rafizi:** Semua itu nampak macam PN yang lebih terdesak untuk bergabung dengan diorang. So dia pun dah tahu ada formula yang boleh memenangkan BN, iaitu bergabung dengan PAS — UMNO dan PAS masuk pilihan raya bersama, kan. So kita tengoklah macam mana, tapi saya rasa bukan di luar kemampuan Dato' Seri Zahid untuk senyum dan sengih. And he has done it before. Jadi kalau Dato' Seri Anwar underestimate dia, itu risiko yang Dato' Seri Anwar ambillah, kerana. kecualilah semua ini dengan—
 
-**Haziq:** Secara cepat boleh menyebabkan sokongan kepada BN itu—
+**Rafizi:** Secara cepat boleh menyebabkan sokongan kepada BN itu—
 
 **Rafizi:** Jatuh mendadak, kan. Tapi kalau sokongan kepada BN itu jatuh mendadak pun, BN masih lagi ada left flank dia ni, which is PAS. So pun tak mudah, kan. Jadi akibatnya. kita pun dah nak habis kot. Kita berapa lama dah ni? 2 jam 45 minit. Haa, okey lah. Hari ni tak payah cukup 3 jam kot. Haa, ya. Jadi saya rasa kita dah — kita dan juga Dato' Seri Anwar lah saya ingat kan, and by that extension-nya ialah PKR dan PH lah — mereka telah cross the point of no return bila Dato' Seri Anwar ambil pilihan strategi keganasan rumah tangga politik ni. So bila buat begini, maksudnya Dato' Seri Anwar tidak ada pilihan kecuali memastikan macam mana pun dia menang. Sebab kalau dia tak menang dalam pilihan raya akan datang, dia pula kena — then mata lebam tu beralih lah, yang tu lagi teruk lah. Dia bukan saja keganasan rumah tangga lah, maksudnya dia dah kena pukul supaya mati, lepas tu dia kena campak keluar, kena halau kan, jadi kelandangan. Lepas tu lagi teruk kan. So dia dah reach a point of no return, maksudnya macam mana pun, at whatever cost, the end justifies the means, dia mesti kembali berkuasa. Dan itu juga bermakna bahawa untuk dia retrace step dia, untuk dia ambil jalan yang lain itu tidak begitu mudah lah, kerana kalaupun dia berlembut, kalaupun apa, BN tak akan lupakan, UMNO tidak akan melupakan apa yang berlaku dalam 2-3 hari ini. Jadi, I think it's irreconcilable dah. Jadi pilihan dia ialah hanyalah "I must win at all cost." Dan itu juga bermakna lah, strategi keganasan rumah tangga politik ni akan terus digunakan lah. Sebab itu saya rasa akan ada lagi. So lepas ini, kita akan ada drama domestic violence from time to time lah. Cuma, ya lah, yang sedihnya ialah maksudnya. di akhir penggal pemerintahan PH ini, rakyat akan ingat kepada siri domestic violence ini, dakwaan-dakwaan terhadap pimpinan-pimpinan UMNO ni kan. Never mind that they need to go through the court process, dan kita akan melalui court process itu untuk tengok segala pendedahan yang akan berlaku nantilah. Tapi yang saya ingat, yang — a bit orang kata puanian lah — on the low point is begini: after all berpuluh tahun laungan reformasi, soal integrity semua kan, penggal pemerintahan PH kali ini akan diingati sebagai. dengan dakwaan, dengan pertuduhan-pertuduhan yang bila dicerita di masa akan datang ialah seolah-olah SPRM, polis, peguam negara itu telah di-weaponize untuk go after political opponents kan. Sebab itulah paralelnya dengan Tun Mahathir dulu. For my generation, kan — Tun Mahathir. Wan Mawazirul. bukan. masa dia bersara 2003, okay. Kan, so macam selepas meledaknya reformasi 1998 tu kan, Tun Mahathir — you know — presided over unprecedented economic growth dalam sejarah kita kan, orang panggil dia sebelum itu bapa Malaysia moden, semua, everything. Tapi oleh kerana apa yang berlaku dalam kes reformasi itu kan, one whole generation remember him for that bit. You know, and then, and therefore the judgment out there tu dia jadi divided — the public judgment tu divided kan. Jadi orang yang menyokong reformasi itu, Tun Mahathir dilihat daripada lensa itu for long, long time kan. Unfortunately, saya ingat itu jugalah sedikit sebanyaknya nasib Dato' Seri Anwar nanti kalau dia tak kembali menjadi Perdana Menteri. Satu, dia akan diingati oleh generasi yang lebih muda ini sebagai Perdana Menteri yang mana in his last one year, SPRM, polis have been weaponized to go after political opponents — itu satu. Kalau lepas dia tak jadi Perdana Menteri, dia pula yang menjadi mangsa keganasan rumah tangga politik. Then dia akan diingati dengan yang itulah. Then at some point we must think as a society lah, bila kita nak break this vicious cycle — apa nama ni, kitaran ganas. Banyak vicious cycle, vicious cycle ekonomi antara kerajaan negeri dengan persekutuan, sekarang vicious cycle politik kan. So dia nampaknya pusing-pusing-pusing kita, pusing kat situ jugalah.
 

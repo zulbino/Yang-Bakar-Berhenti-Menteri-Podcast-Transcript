@@ -71,7 +71,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Bukan anak muda apa, 27 dah.
 
-**Multiple speakers:** Tua. Jadi ayah orang.
+**Rafizi:** Tua. Jadi ayah orang.
 
 **Rafizi:** Salah jemput lah sebenarnya. Salah jemput yang tua-tua ni. Engkau? 22. Ah, ni masih lagi layaklah.
 
@@ -89,13 +89,13 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Syuk:** Tapi tu fashion dulu memang orang dah pakai macam tu kan?
 
-**Multiple speakers:** Ha, tapi tak tahu asal orang guna pun sekarang.
+**Zaim Zulkifli:** Ha, tapi tak tahu asal orang guna pun sekarang.
 
 **Rafizi:** Dulu lain sikit. Seluar kembang ada ke? Ha, ya, tapi dulu seluar kembang dia kena ketat dekat paha, kembang bawah saja. Dekat paha tu ketat nak mampus kan. Aku senyum tu sebab masa aku kat sekolah, macam yang GQ tu kan, cycle tu berulang-ulang. So masa aku dulu di sekolah menengah, orang pakai yang loose macam tu lah. Tapi aku ada seorang cikgu English, kalau dia tengok dia mesti dia gelak. Dia masa tu zaman awal 90-an, tapi dia pakai baju dia — aku ingat dia tak pernah tukar wardrobe dia daripada 70-an. Kolar dia besar gila, kemudian seluar bell bottom semua. So kita orang panggil dia master collar, sebab orang masa tu kolar semua kecil-kecil kan, dia punya kolar telinga gajah punya kolar. Dia repeat and repeat and repeat kan. Aku rasa 80-an zaman orang pakai skinny jeans ketat gila kan. And then 5, 6 tahun kebelakangan ni ada skinny jeans. So sekarang aku tak tahu nak buat apa dengan skinny jeans aku — bukan sahaja dia dah out of fashion, memang tak muat dengan aku sekarang.
 
 **Haziq:** Kena tunggulah sebab fashion ni dia kan ulang balik.
 
-**Multiple speakers:** Tunggu fasa tu sampai boleh pakai balik.
+**Syuk:** Tunggu fasa tu sampai boleh pakai balik.
 
 **Rafizi:** Yalah, tapi by the time aku 55 pakai skinny jeans ada problem lah.
 
@@ -107,7 +107,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Trauma tak kau lepas habis tu?
 
-**Haziq:** Masih, masih trauma.
+**Rafizi:** Masih, masih trauma.
 
 **Zaim Zulkifli:** Ni sebelum ni pun saya tanya dulu lah Haziq macam okey tak ni, takut kena bantai apa semua ni. Trauma Zaim sekali.
 
@@ -217,7 +217,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Syuk:** Jujurnya, kalau bulatan saya, orang tak kenal pun. Mungkin yang kenal—
 
-**Rafizi:** Tapi kau memang bias, yang layan politik lah kau.
+**Syuk:** Tapi kau memang bias, yang layan politik lah kau.
 
 **Syuk:** Tak, jujurnya. Dia macam kalau orang yang tak layan politik memang tak kenal kot. Yang membaca soal politik macam kenal lah. Dan peguam kan?
 
@@ -225,7 +225,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Syuk:** Bukan aku lah.
 
-**Rafizi:** Peguam duduk Bukit Bintang? Pejabat saya Bukit Bintang. Tapi dia orang kaitkan saya dengan Farhash, tak ada kaitan.
+**Syuk:** Peguam duduk Bukit Bintang? Pejabat saya Bukit Bintang. Tapi dia orang kaitkan saya dengan Farhash, tak ada kaitan.
 
 **Syuk:** Jadi saya nafikan tak ada kaitan. Pejabat saya je kat Bukit Bintang.
 
@@ -305,7 +305,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Haziq:** Dulu adalah "Menteri Hal Ehwal Rafizi," tapi saya dah turunkan jadi "biro Hal Ehwal Rafizi" je.
 
-**Syuk:** Apa lagi? Oh, dah agak lah kalau menteri.
+**Rafizi:** Apa lagi? Oh, dah agak lah kalau menteri.
 
 **Rafizi:** Oh, yang ni yang dia kata "permohonan jadi calon parti bersama kini dibuka."
 
@@ -431,7 +431,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Haziq:** Manalah tahu.
 
-**Rafizi:** Dah, ibu saya yang cop ini.
+**Syuk:** Dah, ibu saya yang cop ini.
 
 **Haziq:** Dah belakang. Saudara-saudari, keputusan telah dibuat. Tahniah kepada usahawan muda kita. Okey, jadi itu sajalah agaknya — ikon anak muda.
 
@@ -457,7 +457,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Haziq:** Orang muda nak ke mana? Dalam masa mudanya saya rasa apa yang macam ucapan YB awal-awal kan waktu pelancaran 17 bulan tu — tapi YB tanya secara umum lah, antara yang pertama, kau ni nak apa?
 
-**Rafizi:** Ha, kau ni nak apa?
+**Haziq:** Ha, kau ni nak apa?
 
 **Haziq:** Tapi untuk hari ini mungkin kita periksa lah apa yang orang muda ni nak sebenarnya. Tapi sebelum itu mungkin kita intro sikit kepada Gen Z — siapa Gen Z ni sebenarnya? Kalau orang biasa kata Gen Z ni manja, tak kental macam generasi dulu, lepas tu orang tua dia selalu cakap, "aku dulu macam ni macam ni, tapi sekarang korang macam ni." Jadi siapa korang ni sebenarnya? Terus Zaim macam...
 
@@ -471,7 +471,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Haziq:** Gen Z paling tua 29.
 
-**Rafizi:** 29. Tua dah tu.
+**Haziq:** 29. Tua dah tu.
 
 **Haziq:** Oh, ya ke? 29. Okey, tua. Tapi 35 masih — ya ke bukan Gen Z? Saya 28. Oh, betullah.
 
@@ -503,7 +503,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Facebook — kat Malaysia ni sekitar 2006, 2007 lah. MySpace sekitar 2002-an, menjelang 2004 tu Friendster, 2003 Friendster. Jadi saya rasa kat Malaysia Friendster telah mengambil alih. Kemudian Facebook mula sekitar 2006, 2007 kat Malaysia. Dan kemudian Twitter sekitar 2008 macam tu kan. Jadi betul lah macam maksud Zaim, masa dia mula kenal telefon, memang semua orang dah ada semua tu.
 
-**Zaim Zulkifli:** YB pertama kali ada Facebook tahun berapa kalau YB ingat balik?
+**Haziq:** YB pertama kali ada Facebook tahun berapa kalau YB ingat balik?
 
 **Rafizi:** Cerita tahun 2007. Aku dulu memang benci media sosial. Satu-satunya sebab kenapa aku mula-mula dulu ada media sosial, dan aku mula dengan Friendster dan MySpace — sebab aku jurulatih budak-budak hoki, debat semua. Masa tu 2003, 2004 sampai 5, 6 lah, dia orang semua berkomunikasi antara satu sama lain dengan Facebook semua.
 
@@ -539,15 +539,15 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Zaim Zulkifli:** Ha, betul, betul. Malah sampai ke tahap permainan — kau bukan Gen Z ke?
 
-**Rafizi:** Saya tak tu lah.
+**Haziq:** Saya tak tu lah.
 
 **Haziq:** Kau lahir bila? Gen Z tua lah.
 
 **Zaim Zulkifli:** Gen Z tua. Tak main game.
 
-**Rafizi:** Saya tak main Discord apa semua.
+**Zaim Zulkifli:** Saya tak main Discord apa semua.
 
-**Haziq:** Malah genre permainan yang kau main—
+**Zaim Zulkifli:** Malah genre permainan yang kau main—
 
 **Zaim Zulkifli:** pun akan mendefinisikan hierarki sosial kau. Contoh kalau kau main permainan macam ni, kau macam mana? Kau budak macam mana? Macam ni budak macam mana? Jadi kalau aku main Ninja Saga, itu susah sikit lah.
 
@@ -559,7 +559,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Syuk:** Respons pasal manja. Taklah, saya nak respons — sebab kalau kita nak cakap dia manja, saya rasa sebab Gen Z ni dia berani bising dekat media sosial. Kiranya, kalau orang dulu mungkin dia ada banyak jugak masalah, okey, tapi diorang tak adalah macam — YB dia ada masalah tapi dia tak hantar dekat Facebook, dia tak hantar dekat TikTok. Tapi dia ada masalah, bukan cara untuk confront.
 
-**Haziq:** Ha, bukan untuk confront.
+**Syuk:** Ha, bukan untuk confront.
 
 **Syuk:** Tapi Gen Z anak muda, dia saya rasa lebih berani dan dia tak rasa simpan malu tu, faham tak?
 
@@ -709,7 +709,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Ia seperti masa saya kecil dahulu kan, sekarang sudah tiada lah — ada mini parlimen. Ingat tak mini parlimen? Kamu tiada, pernah tonton di TV? Mini parlimen di TV satu. Ada seorang pakcik, nama dia Pakcik Jamal kot, dia seperti — ini di TV lah.
 
-**Syuk:** Ya, di TV tiap-tiap tahun.
+**Rafizi:** Ya, di TV tiap-tiap tahun.
 
 **Rafizi:** Perkara itu semua budak-budak tonton tau. Ada Pakcik Jamal itu, dia rendah lah ya, jadi ia seperti budak-budak bila berdiri, jadi speaker, kemudian semua yang bercakap itu budak-budak umur 7, 8 tahun.
 
@@ -747,13 +747,13 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Zaim Zulkifli:** Faktor wow, saya rasa dalam erti penjenamaan lah kot. Bagaimana anda memposisikan diri anda untuk menjadi sangat bertenaga, sangat— tapi anda sudah ada Syed Saddiq. Tapi itu masalahnya — saya rasa masalah tentang Syed Saddiq juga lain.
 
-**Rafizi:** Syed Saddiq menandakan semua kotak faktor wow itu. Tapi satu kotak yang saya rasa dia tidak tandakan adalah orang cenderung tidak bersetuju dengannya secara politik, dalam erti bahawa dia sangat popular kalau contoh membuat kandungan dengan Abela atau kandungan Get Ready With Me ke, Marathon apa semua kan. Tapi saya tidak fikir semua pandangan politiknya atau apa-apa yang dia usulkan—
+**Zaim Zulkifli:** Syed Saddiq menandakan semua kotak faktor wow itu. Tapi satu kotak yang saya rasa dia tidak tandakan adalah orang cenderung tidak bersetuju dengannya secara politik, dalam erti bahawa dia sangat popular kalau contoh membuat kandungan dengan Abela atau kandungan Get Ready With Me ke, Marathon apa semua kan. Tapi saya tidak fikir semua pandangan politiknya atau apa-apa yang dia usulkan—
 
 **Zaim Zulkifli:** Mengapa? Orang boleh bersetuju.
 
 **Rafizi:** Dia apa ini, dia milenium kot eh. Milenium. Dia Gen Z? Baya Vahan. Tak, dia tidak. Dia milenium. Mereka milenium. Sudah 30 lebih. Dia milenium. Oh, Bos Vahan kan? Pukul dia lepas kamera tutup.
 
-**Farhan (Pa'an):** Tutup lampu lepas ini.
+**Rafizi:** Tutup lampu lepas ini.
 
 **Rafizi:** Apa ini, tidak — maksud saya, jadi bila anda kata orang tidak bersetuju dengan pandangan politiknya, itu yang orang akan tanya. Sebenarnya apa yang orang muda ini mahu? Anda sudah ada pemimpin yang muda, yang sangat popular, yang menandakan semua kotak. Kemudian anda pula tidak bersetuju dengan pandangannya. Bukankah pada umur itu yang dia sebut itulah yang orang muda mahu?
 
@@ -761,7 +761,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Zaim Zulkifli:** Ya, ya. Ah, betul, betul.
 
-**Farhan (Pa'an):** Jadi apa dia gelombang itu?
+**Rafizi:** Jadi apa dia gelombang itu?
 
 **Zaim Zulkifli:** Saya rasa mereka kata begini. Dia bercakap banyak tentang kita semua yang muda. Tapi pada akhirnya, dia dan melalui partinya, ramai daripada mereka lebih retorik daripada bagaimana mereka boleh menjadi sangat praktikal untuk bergema dengan orang muda. Apa asas bila anda kata praktikal itu maksudnya? Praktikal dalam erti seperti, macam mana eh? Dia seperti mahu bercakap bersama tapi tidak mahu terlalu menjilat. Tapi contoh apa yang Bersama bawa, banyak daripadanya adalah sesuatu yang bila Gen Z dengar seperti, oh ini perkara yang saya mahu tahu dan saya mahu dengar dan saya tahu perkara ini akan bermanfaat kepada saya. Okey, contoh—
 

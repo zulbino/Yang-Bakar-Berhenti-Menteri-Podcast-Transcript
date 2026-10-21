@@ -53,13 +53,13 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Haziq:** It's special because there are two more people. So YB here, not too tired I guess — yeah I've just been sitting quiet.
 
-**Rafizi:** Don't stay quiet anymore then.
+**Haziq:** Don't stay quiet anymore then.
 
 **Haziq:** So this time we have brother Faizal again. How are you, brother? Good, Alhamdulillah. Clean mic. Okay.
 
 **Rafizi:** Good.
 
-**Faizal Rahman:** We've tested his mic already.
+**Rafizi:** We've tested his mic already.
 
 **Rafizi:** So God willing he won't have problems like the first time he appeared.
 
@@ -95,7 +95,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Okay, that reflex was bold — really bold, that reflex. But yeah, I'd say calling it "boldly arrogant" is hard too, because reflexes come in many types.
 
-**Haziq:** Boldly wicked, boldly arrogant. The slang kids use these days is really hard to keep up with.
+**Rafizi:** Boldly wicked, boldly arrogant. The slang kids use these days is really hard to keep up with.
 
 **Rafizi:** So okay, boldly cheeky — I'll just accept that it was bold.
 
@@ -117,19 +117,19 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Razeef Rakimin:** Ha, Didi. This guy, when he talks to me — because I know him. There's a picture here. He's originally from Semporna, and he told me he's a person with disabilities (OKU), though he didn't say what kind. And when he speaks in pantun [traditional verse], he's really quick at it. So once he went viral, political parties often call on him to help promote things.
 
-**Multiple speakers:** With his pantun.
+**Razeef Rakimin:** With his pantun.
 
 **Haziq:** So even Masidi knows that he switches outfits.
 
-**Razeef Rakimin:** But doesn't PH have one?
+**Rafizi:** But doesn't PH have one?
 
 **Haziq:** There is one.
 
-**Rafizi:** There is, there is, but it's not included in PKR's version.
+**Razeef Rakimin:** There is, there is, but it's not included in PKR's version.
 
 **Razeef Rakimin:** And he calls me Rafizi.
 
-**Faizal Rahman:** Lucky he didn't make a video.
+**Haziq:** Lucky he didn't make a video.
 
 **Razeef Rakimin:** Actually, there is — there's a recent photo. I was on my way to the Inanam terminal, the Inanam bus terminal, to pick up something sent from Semporna. At the time, I don't know why, maybe after the rain I opened the window instead of turning on the aircon, it was cool in the car. Suddenly he shouted, "Rafizi!" I saw him running in front of the car like that. I stopped. He said, "Where's the coffee? I want to go to the terminal first." So I gave him a ride. We chatted.
 
@@ -139,7 +139,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Lucky we have this segment, otherwise people might get angry at him for nothing and criticize him unfairly. Okay, greetings to him from the real Rafizi.
 
-**Razeef Rakimin:** InsyaAllah. But this — over 10,000, more than 10,000 he has.
+**Faizal Rahman:** InsyaAllah. But this — over 10,000, more than 10,000 he has.
 
 **Rafizi:** If that's the case, then the bold one isn't him — the bold ones are the political parties riding on him, exploiting a person with disabilities to create content.
 
@@ -185,7 +185,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Not just this time.
 
-**Haziq:** Of the whole season, I think, so far.
+**Rafizi:** Of the whole season, I think, so far.
 
 **Rafizi:** Unless there's an upcoming episode with something even bolder than this.
 
@@ -193,7 +193,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Rare. Rare.
 
-**Haziq:** Actually, from what I know...
+**Rafizi:** Actually, from what I know...
 
 **Rafizi:** It depends on the evidence available. Usually the one who gives the bribe is needed as a witness for the prosecution — a key witness, because they're the one who confirms the money trail and so on. That's why in many typical cases, the one who becomes a witness is either given a smaller compound or not charged at all. But in this case, I've jumped ahead of Faizal here since you said it's odd — but rare. In my view, if I were the prosecutor — ha, this ex-Deputy Public Prosecutor here — if the evidence is sufficient, I would want to charge both. And in this case, because Albert Teh went and told everyone, he shared it on WhatsApp when this and that happened — that's already become public knowledge, right? That's my view, Faizal. I don't know, as a prosecutor.
 
@@ -281,13 +281,13 @@ So that's why outsiders don't understand why, for example, when the Albert Teh s
 
 **Rafizi:** Eh, no — this is a meeting, so I go.
 
-**Faizal Rahman:** I used to be Deputy Head of Communications before.
+**Razeef Rakimin:** I used to be Deputy Head of Communications before.
 
 **Razeef Rakimin:** Special meetings — that's really what happens. We sit in the meeting, the president will brief, brief, brief, brief. Done. Then he'll ask questions if needed. After that if there's nothing else, okay, that's it. That's really what happens.
 
 **Rafizi:** That's dangerous.
 
-**Razeef Rakimin:** Twice, twice.
+**Rafizi:** Twice, twice.
 
 **Rafizi:** In the end, if there are matters that need to be discussed, even calling him is difficult because he's always busy. And we have to wait for a slot. And waiting for that slot depends on those around him, his political secretaries, who decide when he's available — and they're all against me. So I really can't get a slot. Sometimes even once every 3 months, I can't get 30 minutes with Dato' Seri Anwar. And it's not just me. I know others face the same thing. So if people ask, yes, there are real difficulties. That's why these decisions aren't actually discussed. That's why I said in my statement this week that the Tan Sri Azam Baki matter has become a burden for PH. Sabah too, it's become a burden there. So DAP leaders and Amanah leaders, for example — don't come to me and ask me to go talk to Anwar Ibrahim. You talk to him directly. But Amanah doesn't say anything publicly. Amanah will say the same thing though. They'll complain to me, saying it's hard to meet the PM, can't get a slot at the Presidential Council meeting. So maybe the PMO is actually blocking it. Wallahu alam. I don't know.
 
@@ -329,7 +329,7 @@ So that's why outsiders don't understand why, for example, when the Albert Teh s
 
 **Razeef Rakimin:** "You want me to choose you, you carry our issues. If you can't, we'll choose someone else. We can move as a bloc, no problem." That's why we were shocked by DAP's results. We knew this would happen and we'd warned the leadership from early on. But we saw no change, no action. They said they would act, but nothing happened. We saw no Chinese community issues being raised by them at all. Eventually they saw no other hope besides choosing Warisan. So this isn't sudden, this has been building for over a year. In fact during the Hiruk campaign I think YB already presented this. We saw the support percentage declining, and we knew why.
 
-**Rafizi:** That was shared back then, YB.
+**Faizal Rahman:** That was shared back then, YB.
 
 **Razeef Rakimin:** Shared back then. Yes, because when we see it declining, we don't just look at the support numbers, we want to know what the issue is. This issue could actually be resolved, but some of our leaders focus on other issues, some also have ego. Their confidence is that when we talk about Chinese voters, "they're loyal to Pakatan Harapan." Okay, but the Chinese community isn't like that — you can deliver, I give you my vote; you can't deliver, you're done, bye bye. That's what happened.
 
@@ -363,7 +363,7 @@ So that's why outsiders don't understand why, for example, when the Albert Teh s
 
 **Razeef Rakimin:** I think it would be worse. If more turned out, it'd be even worse. Take Luyang as an example — before, we won by a huge margin, comfortably. To the point where at the time we said we could put anyone as a candidate in Luyang and still win. But it got swept too — a 51% swing in Luyang.
 
-**Haziq:** I, I want to—
+**Rafizi:** I, I want to—
 
 **Rafizi:** Going back to the most dominant narrative right now, namely the "Sabah for Sabah" wave. Actually we can't confirm this with data that's truly bull's eye accurate, because that data won't exist. I mean, if I may share — actually we read a lot of these analyses. To me, before we make a decision, we must base it on theory, hypothesis. And then that must be confirmed with data. That's the scientific way of managing politics. So there are several hypotheses. One hypothesis is Sabah for Sabah, and another is dissatisfaction among hardcore or die-hard Pakatan voters with Pakatan's performance. Indeed, as Razif mentioned, based on data from January 2025, it's actually 50-50 — both hypotheses. So if I may say, I disagree somewhat if there are those trying to whitewash the whole thing, saying this is all a Sabah for Sabahan wave. Actually no. It's a bit more complicated, mixed depending on different voter groups, because the latest data we have from January 2025 suggests that. It's true that some Sabah voters want leadership or a local party government only. My advice to PH and Dato' Seri Anwar is the worst-case scenario would be if GRS merges with Warisan against PH and BN — we'd get zero across the board. Because that would amplify this Sabah for Sabah sentiment.
 
@@ -429,7 +429,7 @@ That's why I think they had two possibilities. I think they convinced Dato' Seri
 
 **Razeef Rakimin:** I always emphasized the autonomy issue. Because we want, for seat negotiations, we know better where we can win. Then who's the suitable candidate. Because we know, we've learned from very long experience. When the centre just takes over completely, everything goes to waste. Why? Because of parachuting. Interference. So when at first we thought it was okay, when we'd repeatedly spoken up about autonomy, well, in the media I clashed with Fuziah several times. And thankfully, during the parliamentary visit, I got 6 minutes to speak at length about autonomy, the importance of autonomy, why we need to make our own decisions. That's why I became a "former." Because they need to understand Sabah's sentiment. It's not just about following his own head. So when we saw that we couldn't get that, and after the selection, right away I noticed — well, I was previously in the seat negotiation committee. Even the seats we secured slipped away, seats that had already been sealed suddenly slipped away. There were seats we really wanted — because based on our list, the data we had, we had the top 3 seats we could win. That strength was Keadilan's own strength, not anyone else's.
 
-**Rafizi:** First, Moyok. Second, Tanjung Aru. And third, Kiolo.
+**Razeef Rakimin:** First, Moyok. Second, Tanjung Aru. And third, Kiolo.
 
 **Razeef Rakimin:** But within just a few weeks, we'd lost those seats.
 
@@ -437,7 +437,7 @@ That's why I think they had two possibilities. I think they convinced Dato' Seri
 
 **Razeef Rakimin:** We lost all those seats, including some seats that had already been signed and sealed.
 
-**Rafizi:** So magic happened?
+**Razeef Rakimin:** So magic happened?
 
 **Razeef Rakimin:** Yes, magic happened. So there I saw—
 
@@ -461,9 +461,9 @@ That's why I think they had two possibilities. I think they convinced Dato' Seri
 
 **Rafizi:** But posters existed, it's just that some candidates didn't get posters. Some candidates got posters, or posters really weren't available. As far as I've seen, they're just relying on banners.
 
-**Razeef Rakimin:** This party is a party of suffering.
+**Faizal Rahman:** This party is a party of suffering.
 
-**Multiple speakers:** Suffering with banners.
+**Razeef Rakimin:** Suffering with banners.
 
 **Rafizi:** Back in my "suffering" days, we at least had posters, you know. So we saw there too—
 
@@ -487,7 +487,7 @@ That's why I think they had two possibilities. I think they convinced Dato' Seri
 
 **Razeef Rakimin:** Then, if YB remembers, during the MPP meeting before, when we wanted to celebrate Keadilan's 25th anniversary, we cancelled the concert idea, cancelled the fireworks.
 
-**Rafizi:** Because we're not —
+**Razeef Rakimin:** Because we're not —
 
 **Razeef Rakimin:** We're a party of substance/stories.
 
@@ -507,7 +507,7 @@ That's why I think they had two possibilities. I think they convinced Dato' Seri
 
 **Rafizi:** Right, Senator Maizul, I remember. I used to campaign often in Kota Marudu. Because in 2013, we lost Kota Marudu by only 3-400 votes. A narrow loss. And at the time, what's his name, Ustaz Kahar, eh?
 
-**Razeef Rakimin:** Ustaz Kahar. Ustaz Kahar was the branch chief.
+**Rafizi:** Ustaz Kahar. Ustaz Kahar was the branch chief.
 
 **Rafizi:** I went to Kota Marudu several times in Sabah, because after 2013 I focused on Penampang, Kota Marudu, all of that. So in the past, seats like that — PKR had potential to win — seats around Kota Marudu down to places like Sepanggar, Sulaman, Tuaran, those were all seats we could win, you know. But unfortunately. Inanam is also our stronghold, never lost Inanam. But from the start I felt we'd lose. What surprised me was how PAS could win in Karambunai, since Karambunai is within Sepanggar.
 
@@ -605,7 +605,7 @@ That one, how can Dato' Seri Anwar fix it? Because at the same time he's also be
 
 And finally on the matter of anger, especially among non-Malay voters — I think the damage is done. And the biggest damage actually started 2 years ago with Dr. Akmal Saleh. When Dr. Akmal Saleh, you know, was allowed to run wild.
 
-**Haziq:** Run wild indeed.
+**Rafizi:** Run wild indeed.
 
 **Rafizi:** Raging on, from one issue to another — from the sock issue, then the flag issue, that one. Imagine if we were Chinese voters — we'd feel, "well, we voted for you at least so you'd defend us." Set aside the tax issue, all this — that issue is about defending them. You didn't defend them at all, and they'll wonder how the Prime Minister couldn't discipline one kid.
 

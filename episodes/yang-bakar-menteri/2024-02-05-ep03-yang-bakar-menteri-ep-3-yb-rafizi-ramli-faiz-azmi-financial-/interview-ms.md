@@ -145,7 +145,7 @@ Saya semasa belum menjadi penjawat awam pun saya tidak nampak semua ini. Apabila
 
 **Rafizi:** Buat masa sekarang, apabila PADU ditubuhkan, kita terpaksa melalui proses yang agak sukar kerana untuk memastikan sesuatu agensi menyumbang data ke dalam PADU, kementerian perlu menandatangani satu perjanjian perkongsian data. Satu persatu. Kemudian, kita perlu membuat permohonan kepada Pesuruhjaya Perlindungan Data Peribadi untuk memberikan pelepasan bagi tempoh masa tertentu. Kan? Jadi sebab itulah sekarang ini, insya-Allah pada tahun inilah kita akan membentangkan Akta Omnibus untuk membolehkan perkongsian data sesama jabatan kerajaan diluluskan oleh parlimen tanpa perlu melalui proses manual ini. Kerana ia agak merumitkan, terdapat beratus-ratus agensi. Jadi kalau contohnya macam sekarang, memang TERAJU belum masuk PADU lagi. MARA pun saya rasa belum masuk PADU kerana mereka belum menandatanganinya lagi. Belum sign dan sebagainya. Dan bagi tujuan untuk mengenal pasti *use case* pertama, iaitu kelayakan subsidi bersasar, sebenarnya kita tidak memerlukan data-data ini buat masa ini. Jadi kita memberi tumpuan kepada data-data yang berskala besar terlebih dahulu. Tetapi idealnya, kita mahu sebanyak mungkin data tersedia untuk membolehkan pelbagai proses semak silang dilakukan pada masa akan datang bagi pelbagai tujuan. Dan insya-Allah apabila Akta Omnibus itu diluluskan nanti, ia akan lebih memudahkan keadaan. Buat masa sekarang, jika kita mahu berurusan dengan PTPTN contohnya, saya tidak pasti sama ada PTPTN sudah masuk ke dalam PADU atau tidak. Saya sebenarnya tidak begitu pasti. Tetapi PTPTN ada di dalam SIKRIS. Ya, kerana maksudnya Bank Negara. Yalah, PTPTN memerlukan maklumat daripada SIKRIS itu.
 
-**Faiz:** Jadi mereka perlu menyumbang data lah.
+**Rafizi:** Jadi mereka perlu menyumbang data lah.
 
 **Rafizi:** Mereka memang perlu menyumbang. Tetapi memandangkan SIKRIS juga ada di dalam PADU, tidakkah sepatutnya— SIKRIS tiada di dalam PADU. SIKRIS tiada di dalam PADU ya? Data kewangan tiada.
 
@@ -157,7 +157,7 @@ Tetapi pada pandangan saya kan, kita ada beberapa pilihan yang logik. Pilihan lo
 
 Tetapi jika itu berlaku, pada pandangan saya, jika kerajaan tidak campur tangan langsung dan menyerahkannya 100 peratus kepada pihak swasta, ia akan membebankan rakyat kerana ramai pesara dan warga emas ini tidak mampu. Sebaliknya, jika kerajaan mahu menyediakan semuanya pula, ia menjadi sukar. Kita tidak mampu menyediakan segala-galanya untuk setiap orang pesara, dan memberikan wang kepada setiap daripada mereka setiap bulan pun sukar juga. Jadi ia tetap menjadi beban kepada masyarakat kerana pihak yang menanggungnya nanti adalah kumpulan yang bekerja dalam jumlah yang semakin kecil.
 
-**Faiz:** Golongan yang membayar cukai.
+**Rafizi:** Golongan yang membayar cukai.
 
 **Rafizi:** Golongan yang membayar cukai kan. Jadi, keadaan yang ideal ialah kita mesti mempunyai perkhidmatan untuk kumpulan sasar yang tidak mampu menjaga diri sendiri, atau jika kita tidak memberikan bantuan sedemikian kepada mereka, mereka akan jatuh ke tahap yang daif. Mereka boleh menjadi miskin tegar, terbiar tidak terjaga, dan sebagainya. Buat masa sekarang, kita tidak mempunyai perkhidmatan sedemikian dalam sistem kita. Di manakah wujudnya jabatan penjagaan warga emas? Tiada, penjaga (*carer*) profesional pun tiada. Kalau ada pun, mereka terpaksa pergi ke hospital, tetapi itu khusus untuk penjagaan kesihatan kan.
 
@@ -167,7 +167,7 @@ Maksudnya, pada masa akan datang, disebabkan oleh perubahan demografi ini, perkh
 
 **Rafizi:** Tetapi isu di pihak warga emas juga begitu keadaannya. Kedua-dua perkhidmatan ini masih belum wujud secara meluas dalam perkhidmatan awam kita.
 
-**Syed Munawar:** Maksudnya, jika perkhidmatan awam—
+**Faiz:** Maksudnya, jika perkhidmatan awam—
 
 **Faiz:** Untuk menjaga golongan warga emas dan kanak-kanak kecil ini, bukankah kos bayaran itu nanti akan datang daripada pihak kerajaan juga?
 
@@ -219,7 +219,7 @@ Keadaan ini akan memberikan ruang yang lebih baik kepada negara kita apabila ia 
 
 **Rafizi:** Tak, yang itu saya ingat dari semasa ke semasa. Contohnya JPA kan, JPA kalau untuk khidmat awam ini.
 
-**Faiz:** Dasar perkhidmatan, tempoh masa, dasar pencen.
+**Rafizi:** Dasar perkhidmatan, tempoh masa, dasar pencen.
 
 **Rafizi:** Itu ialah keputusan besar kerajaan yang perlu dibuat oleh kerajaanlah, dan puncanya itu akan datang daripada JPA, Jabatan Perkhidmatan Awam. Dan JPA memang dalam prosesnya akan terus melihat dari satu masa ke satu masa unjuran guna tenaga kan. Jadi setakat ini tak ada, setakat ini tak ada yang. tak ada bunyi-bunyi lanjut bunyi-bunyi tak ada. Tapi yalah, kita harus dinamik ya, apabila dari satu masa ke satu masa unjuran itu akan berubah. Dia sama soal pencenlah kan, contohnya soal ketidakmampuan dan ketidakmampanan pendekatan memberi pencen untuk penjawat awam ini telah pun disuarakan daripada awal 90-an. Maksudnya aktuari ini daripada tahun 90-an lagi beritahu, kalau anda teruskan begini, satu hari nanti anda tak cukup duit untuk bayar pencen yang sedia ada kan? Tapi tak diambil tindakan, tak ada siapa kaji, tak ada siapa yang berani ambil tindakan sebab tak popular sangat. Daripada 90-an, 2000, 2010, sekarang kita kena buat kan, tapi sebenarnya isyarat itu dan kajian itu telah dibuat lama dah. Sama juga seperti ini, memang dalam prosesnya JPA akan berterusan kerana unjuran itu perlu dibuat setiap tahun kan. Saya ingat bila sampai masanya, apabila perlu ada keputusan ataupun perubahan, kalau perlu ia akan dibawa kepada kabinet dan kabinet akan bincanglah. KWSP ni ada akta dia sendiri dan fungsi KWSP bukan kerajaan arahkan tau, and I think kadang-kadang orang ingat KWSP ni kerajaan arahkan, tak, dia ada akta dia sendiri.
 
@@ -229,7 +229,7 @@ Keadaan ini akan memberikan ruang yang lebih baik kepada negara kita apabila ia 
 
 **Faiz:** Pencen ke?
 
-**Syed Munawar:** Pencen, KWSP jugalah.
+**Faiz:** Pencen, KWSP jugalah.
 
 **Faiz:** So dari segi pencen dan juga dari segi apa ni KWSP ni adalah nampak macam kerajaan sekarang ni dari segi kewangan ya, sebab kewangan Faiz tengok kewanganlah, adalah melakukan perkara yang betul (*doing the right thing*). Tetapi mesej yang ada di media sosial ni adalah sangat-sangat negatif. Ada masalah ke dari segi menyampaikannya seadanya (*telling it as it is*)? Macam dia dipusing-pusingkan dan amat mudah dipusing-pusingkan. Contohnya isu pencen, amat mudah dipusingkan, pencen dihapuskan, dihapuskan tapi bukan untuk yang sekarang ni, yang akan datang. Dari segi KWSP pun, even tahun lepas pun memang ramai yang kata pasal FSA akaun dua contohnya, tu duit saya, tapi nak pakai kena pinjam daripada bank, ya, sebagai gunakan duit akaun dua tu sebagai cagaran pula.
 
@@ -287,9 +287,9 @@ Keadaan ini akan memberikan ruang yang lebih baik kepada negara kita apabila ia 
 
 **Syed Munawar:** Tapi maksud saya ia bersifat mendidik lah saya rasa. Harap-harap ia menjadi bentuk didikan. Ya, ya, ya. Itu salah satu tujuan podcast ini juga. Kita mahu mencerdikkan orang-orang di bawah sana. Okey, terima kasih saudara Faiz sekali lagi.
 
-**Rafizi:** Terima kasih YB yang meluangkan masa. Ya, ya, ya, ya. Kita ingat sejam setengah tapi kita sudah pergi lebih 2 jam, kan? Saya dah sebut saya nak terkencing. Alright.
+**Syed Munawar:** Terima kasih YB yang meluangkan masa. Ya, ya, ya, ya. Kita ingat sejam setengah tapi kita sudah pergi lebih 2 jam, kan? Saya dah sebut saya nak terkencing. Alright.
 
 **Syed Munawar:** Jadi terima kasih kepada anda yang menonton. Kita jumpa lagi 2 minggu dari sekarang. Insya-Allah. Assalamualaikum warahmatullahi taala wabarakatuh.
 
-**Rafizi:** Bye-bye. Assalamualaikum.
+**Syed Munawar:** Bye-bye. Assalamualaikum.
 

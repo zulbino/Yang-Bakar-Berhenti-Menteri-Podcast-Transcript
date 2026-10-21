@@ -137,7 +137,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** —boleh selesaikan. Tapi saya ingat satu tu DeepSeek kata tidak ada penyelesaian kepada soalan ini. Ha, yang itu sebab saya nak semak sendiri dan nak tengok sejauh mana sebenarnya ChatGPT dan DeepSeek ini betul-betul tepat. Jadi kalau pada pandangan saya dan dalam tugasan harian saya, memang saya akan semak sendiri kan. Kalau AI ini hendak ada kesan yang baik kepada kerajaan contohnya, pastikan bahawa kena semak satu-persatu dan pastikan juga ia tidak menimbulkan budaya malas di kalangan pekerja, di kalangan masyarakatlah. Kalau tidak, perkara yang berlaku di Australia ni mungkin akan juga berlaku di Malaysia lah. Tapi mungkin di Malaysia ni kalaupun berlaku, tak ada orang yang nak semak, yang nak mengatakan benda itu salah lah.
 
-**Haziq:** Jadi mungkin terlepaslah.
+**Rafizi:** Jadi mungkin terlepaslah.
 
 **Rafizi:** Terlepas.
 
@@ -159,11 +159,11 @@ Jadi selalunya pelaporan mengenai belanjawan dan analisa belanjawan ini, dia ski
 
 Dari situlah, dalam masa yang sempat saya tengok cepat-cepat tadi, ada satu perkara yang saya tengok tidak pernah ditimbulkan. Saya dulu, 10 tahun lepas, pernah bawa benda ni. Budaya kita, kita ada short termism, kita ada short attention span. Bila belanjawan itu dibentangkan, kita tumpu kepada tahun itu saja. Kalau tahun ini 2026, kita tumpu kepada angka-angka 2026. Kita sebenarnya tak tengok dah apa yang berlaku kat 2025 ni, sedangkan angka 2025 itu penting untuk kita menilai sama ada kerajaan ini cekap atau tidak, boleh deliver atau tidak — apa yang sebenarnya telah berubah daripada semasa belanjawan 2025 dibentangkan setahun yang lepas. Sebab itu, kalau tengok dalam beratus-ratus muka surat tu, kolom untuk 2025 tu bukan lagi angka belanjawan yang dibentangkan dulu — dia akan tulis "revise", anggaran yang telah disemak. Masalahnya, kalau kita betul-betul nak tengok, macam saya, saya kena cepat-cepat tabulate number yang dibentangkan dalam belanjawan ini mengenai angka terkini 2025 — dia panggil unjuran 2025 yang telah disemak — berbanding dengan angka belanjawan yang dibentangkan tahun lepas untuk 2025, sebelum kita cakap pasal 2026. Dan yang itu selalunya tidak pernah dibahaskan, orang tak ambil port pun.
 
-**Haziq:** Bila tengok ni, ya, saya ingat saya nak mula dekat situ. Kalau tengok contohnya hasil kerajaan — kalau dibentangkan 2025, hasil kerajaan sepatutnya untuk tahun 2025 ialah 339.7 bilion. Tapi dalam yang dibentangkan tadi telah disemak ke bawah.
+**Rafizi:** Bila tengok ni, ya, saya ingat saya nak mula dekat situ. Kalau tengok contohnya hasil kerajaan — kalau dibentangkan 2025, hasil kerajaan sepatutnya untuk tahun 2025 ialah 339.7 bilion. Tapi dalam yang dibentangkan tadi telah disemak ke bawah.
 
 **Rafizi:** Unjuran yang telah disemak untuk 2025 adalah 334.1 billion. Maksudnya kurang 5.6 billion tau. Hasil kerajaan dari kutipan cukai dan yang lain-lain semua akan berkurang sebanyak 5.6 billion. Of course, you have to drill down in detail dan banyak kerja untuk kita tengok tally satu-satu. Dan 5.6 billion tu banyak bezanya. And to give a perspective, seperti yang diumumkan oleh Menteri Kewangan Kedua, keseluruhan susah payah kita buat untuk Budi95 ni, penjimatan setahun antara 2.5 ke 4 billion sajalah.
 
-**Haziq:** Jadi kenapa hasil turun?
+**Rafizi:** Jadi kenapa hasil turun?
 
 **Rafizi:** Ha, Haziq, kalau tak sebab baca, memang letih kena tanya dengan aku malam ni.
 
@@ -175,11 +175,11 @@ Dari situlah, dalam masa yang sempat saya tengok cepat-cepat tadi, ada satu perk
 
 **Rafizi:** At the face value bila ditengok begini — sama macam bila kita buat bajet atau business plan untuk syarikat. Kita ada plan tiap-tiap bulan patut dapat berapa. Kalau jualan dapat berapa, maka untung kita dapat berapa. Bila kutipan hasil ni lebih kurang untuk 2025 disemak ke bawah hampir 2%, 1.7% eh — ia memberi gambaran bahawa kutipan cukai itu, walaupun telah ditambah dengan SST dan lain-lain, sebenarnya tidak sebaik seperti yang telah dianggarkan setahun yang lepas. Itu bermakna pertumbuhan ekonomi kita sekarang ni memang betul-betul sedang menyederhana.
 
-**Haziq:** Jadi trajektori pertumbuhan ekonomi yang menyederhana tu, bila kita tengok kepada belanjawan 2026, yang dibentangkan ialah hasil 343.1 billion — pertambahan sebanyak 9 billion daripada yang dijangkakan untuk tahun 2025.
+**Rafizi:** Jadi trajektori pertumbuhan ekonomi yang menyederhana tu, bila kita tengok kepada belanjawan 2026, yang dibentangkan ialah hasil 343.1 billion — pertambahan sebanyak 9 billion daripada yang dijangkakan untuk tahun 2025.
 
 **Rafizi:** Tapi itu pun maknanya, kalau kita sudah tahu dan kalau kita tak berhati-hati menyemak — tahun lepas pun, yang dibentangkan di belanjawan 339.7 bilion, nak sampai akhir tahun dah kurang 5.6 bilion. Jadi walaupun hasil itu diunjurkan akan naik 9 bilion, tak tentu akan naik 9 bilion. Terutamanya kita pun, saya ingat, sedia maklum bahawa ekonomi akan menyederhana. Bila ekonomi menyederhana, maksudnya syarikat-syarikat yang membayar cukai bayar kurang cukai — banyak yang rugi tak bayar langsung. Jadi dalam keadaan itu, sebab itu kita kena tengok pula macam mana kita berbelanja. Perbelanjaan pun kekal naik. Yang baiknya, untuk tahun 2025, perbelanjaan diunjurkan akan berkurang daripada yang dibentangkan dulu, berkurang sebanyak — eh, sorry, 2.8 billion, iaitu lebih kurang 0.85%. But if you see, sebenarnya pengurangan hasil itu lebih drastik daripada pengurangan perbelanjaan.
 
-**Haziq:** So that is also an issue. Tapi untuk tahun depan, dia—
+**Rafizi:** So that is also an issue. Tapi untuk tahun depan, dia—
 
 **Rafizi:** —akan ada pertambahan 6 billion lagi. Dan kita juga sedia maklum bahawa risiko pengurangan hasil itu sebenarnya lebih besar daripada potensi mengurangkan perbelanjaan mengurus, sebab kita dah boleh tengok dari 1 tahun ke 1 tahun. Kemudian dari segi mikro, saya selalunya lihat kepada perbelanjaan pembangunan. Kepada orang ramai yang menonton, ada dua bentuk belanja. Kalau untuk organisasi biasa yang kita buat berniaga swasta, kita ada Opex dengan Capex. Opex ini belanja mengurus, operational — bayar gaji, bayar elektrik, yang bukan berbentuk capital. Bila disebut capital, ia bermaksud pelaburan yang boleh menambah nilai dan mewujudkan pendapatan baru — bahasa mudahnya, itu Capex, capital expenditure, dalam organisasi biasa. Untuk sektor awam, dia dipanggil OE dengan DE. OE ni operating expenditure, ada 4-5 kategori besar.
 
@@ -187,7 +187,7 @@ Dari situlah, dalam masa yang sempat saya tengok cepat-cepat tadi, ada satu perk
 
 **Rafizi:** Ini gaji, memang tak boleh lari. Kedua ialah kenaan dan bayaran tetap dia panggil — yang ini saya ingat termasuklah macam pencen. Kemudian ada yang transfer, maksudnya pindahan yang perlu dibayar kepada negeri-negeri mostly, sebahagiannya kepada agensi awam. Kemudian satu lagi yang besar ialah perbekalan, supply — ini semua, nak buat majlis, nak bayar minyak, nak bayar elektrik bangunan, semua masuk perbekalan. Dua yang besar lagi yang selalunya jadi perhatian rakyat: satu dia panggil debt service charge, khidmat bayaran hutang — ini maksudnya interest yang kita bayar atas hutang kita. Satu lagi dia panggil social and subsidy and social assistance, bantuan sosial dan subsidi — ini termasuklah SARA, STR, subsidi minyak, subsidi elektrik, bantuan-bantuan di bawah JKM, semua tu. Jadi kita berbalik itu OE, kemudian kita ada DE — DE is capex, buat sekolah, buat jalan, buat bangunan, bagi geran, bantuan perniagaan, semua ni DE. Kebimbangan saya bila tengok yang dibentangkan tadi, kita nampaknya ada tanda-tanda bahawa untuk mengurangkan defisit kita,
 
-**Haziq:** DE takes a toll.
+**Rafizi:** DE takes a toll.
 
 **Rafizi:** DE berkurang. Kalau tengok, dia bukan saja berkurang, tapi bila dilihat kepada 2025, kita ada masalah dari segi prestasi melaksanakan projek seperti yang dirancang melalui belanja pembangunan. Jadi kalau ambil tahun dua — kau faham ke tidak ni?
 
@@ -207,11 +207,11 @@ Jadi berbalik kepada soal defisit dan DE semua ni — sebelum kita nak komen sem
 
 **Haziq:** Biasa compare dengan negara lain lah kalau I mean.
 
-**Multiple speakers:** That's one way.
+**Rafizi:** That's one way.
 
-**Multiple speakers:** Lagi cara dia?
+**Rafizi:** Lagi cara dia?
 
-**Multiple speakers:** Kalau tengok kepada negara kita sendiri?
+**Rafizi:** Kalau tengok kepada negara kita sendiri?
 
 **Haziq:** Kita compare dengan... what else? Biasa saya compare dengan negara lain je lah.
 
@@ -239,11 +239,11 @@ Melihatkan perkara ini, the reality is this — masalah nombor 1 kewangan negara
 
 **Rafizi:** Tak tahu — mungkin kita kena panggil orang yang lebih arif. Sekarang amalan biasa tau, terutamanya yang muda-muda, mereka jadi muflis disebabkan oleh kredit kad. Sebab kredit kad ni lama-lama baki tu makin besar dan makin besar. Interest pun 17% kalau credit rating dia rendah. Jadi akhirnya hidup dia ialah kitar hutang. Untuk kerajaan, ini tidak semudah itu untuk kita samakan macam orang berbelanja kredit kad. Cuma satu — mungkin orang dalam kerajaan ataupun Dato' Seri Anwar sendiri kurang selesa dengan saya, kerana saya selalu bertanya ialah how are we doing things differently? So, yang kita nampak banyak tumpuan ini ialah kepada menambah hasil.
 
-**Haziq:** Ada cukai SST yang baru, kemudian.
+**Rafizi:** Ada cukai SST yang baru, kemudian.
 
 **Rafizi:** Stamp duty, contohnya, dikutip atas semua instrumen. Jadi kalau syarikat-syarikat kecil ni, dia kadang-kadang bengkak sikit sebab stamp duty atas employment contract pun kena bayar dulu — dulu tak payah bayar, dulu tak pernah kan.
 
-**Haziq:** So yang jadi tumpuan itu ialah mengutip cukai.
+**Rafizi:** So yang jadi tumpuan itu ialah mengutip cukai.
 
 **Rafizi:** Tapi mungkin kita tidak tumpu, atau kita tak dengar sangat, macam mana kita akan menguruskan perbelanjaan kita secara sangat berbeza dengan amalan sebelum ini. We don't spend enough talking how we are going to do it differently. Kalau Dato' Seri Anwar dekat sini — tadi pun dia, dalam parlimen tadi, ucapan dia dimulakan dengan nada tinggi pasal tata kelola. Yeah, I think nobody is disputing that. Itu yang orang daripada dulu duk minta. Kita nak lihat macam mana kerajaan akan menguruskan perbelanjaan itu dengan lebih baik supaya tidak ada ketirisan, tidak ada rasuah, tender kerajaan dapat harga yang terbaik. Jadi yang itu saya ingat kita tidak dengar sangat daripada belanjawan kali ini, selain daripada a big slogan of tata kelola. Dan rakyat, terutamanya yang membayar cukai, sudah tentu rasa sekarang saya kena bayar cukai lebih tinggi berbanding dulu. So I want to see more it is done, for me to get the confidence that you are going to manage this better. Sebab kalau tidak — satu lagi perkara yang saya bimbang soal perbelanjaan ini — nampaknya dengan SST, dengan semua yang dilakukan, kadar hutang itu masih lagi belum perlahan. Kalau tengok kadar keberhutangan kita, untuk 2026 ini kita dah melepasi 64%, I think about 64.2, 64.3.
 
@@ -251,31 +251,31 @@ Melihatkan perkara ini, the reality is this — masalah nombor 1 kewangan negara
 
 **Rafizi:** 65%. Itu pun ceiling yang telah dinaikkan — ceiling itu dinaikkan tahun 2021, zaman PN rasanya. Sebelum itu, 10 tahun lepas, masa saya mula-mula jadi ahli parlimen, ceilingnya 55%. Bila kita ukur Malaysia — dikira sebagai upper middle income berbanding dengan negara-negara yang sama macam kita — kadar keberhutangan kita sebenarnya tinggi.
 
-**Haziq:** 65% tu tinggi.
+**Rafizi:** 65% tu tinggi.
 
 **Rafizi:** Tinggi. Indonesia pun 40%.
 
-**Haziq:** Negara yang berjaya—
+**Rafizi:** Negara yang berjaya—
 
 **Rafizi:** Daripada upper middle income jadi high income, contohnya Chile — saya rasa Chile — dalam tempoh 10 tahun lepas, satu dua negara yang berjaya, yang selalu dirujuk sebagai rujukan antarabangsa.
 
-**Haziq:** Chile. Chile I think dia punya, kadar keberhutangan—
+**Rafizi:** Chile. Chile I think dia punya, kadar keberhutangan—
 
 **Rafizi:** Chile is only about 30% plus daripada GDP, daripada saiz ekonomi. Jadi untuk tahun depan, dia dah melepasi 64%, silingnya 65%. Dan belanjawan yang dibentangkan ini berdasarkan kepada beberapa andaian tertentu — contohnya andaian ekonomi akan tumbuh sekitar 4.5 ke 5%. Saya tak pasti kita boleh. Do you think it's ambitious?
 
-**Haziq:** Saya rasa ambitious.
+**Rafizi:** Saya rasa ambitious.
 
 **Rafizi:** 4.5 ke 5% — sebab 2024 kita 5.1. Setakat ini it's low 4. Dan unjuran untuk 2025 ini, kalau ikut pasaran, ialah low 4, 4.2. Jadi kalau ada shock — dan dalam dokumen itu dia berikan beberapa senario tau, senario kalau pertumbuhan ekonomi macam mana, kalau global economy berubah macam mana, kalau interest rate berubah macam mana — maksudnya margin yang kita ada untuk tidak melanggar debt ceiling adalah sangat sempit. Kalau ekonomi tumbuh di bawah 4% dan kutipan cukai lebih rendah daripada dalam belanjawan, maka kerajaan hanya ada beberapa pilihan saja.
 
-**Haziq:** Sama ada dia meningkatkan debt ceiling, pergi kat parlimen naikkan.
+**Rafizi:** Sama ada dia meningkatkan debt ceiling, pergi kat parlimen naikkan.
 
 **Rafizi:** Ataupun dia kurang berbelanja — dia potong perbelanjaan infrastruktur dan perbelanjaan pembangunan. Kalau itu berlaku, ada kesan lagi kepada pertumbuhan ekonomi. Dia jadi vicious cycle, it's a spiral.
 
-**Haziq:** Sebab itu kalau kita tengok, kita kena—
+**Rafizi:** Sebab itu kalau kita tengok, kita kena—
 
 **Rafizi:** Perhati juga trend hasil dengan trend perbelanjaan.
 
-**Haziq:** Trend perbelanjaan saya dah sebut banyak tadi kan. Tapi kalau tengok trend hasil, dia ada baik dan buruknya. Okey, hasil.
+**Rafizi:** Trend perbelanjaan saya dah sebut banyak tadi kan. Tapi kalau tengok trend hasil, dia ada baik dan buruknya. Okey, hasil.
 
 **Rafizi:** Baiknya ialah berbeza dengan 10, 15 tahun lepas — kita sudah tidak sangat bergantung kepada hasil petroleum.
 
@@ -287,15 +287,15 @@ Melihatkan perkara ini, the reality is this — masalah nombor 1 kewangan negara
 
 **Rafizi:** Almost 20 tahun. Masa itu hasil daripada petroleum ni easily about 40%. Sekarang dia dah bawah 20%. Jadi penyumbang terbesar hasil negara sekarang ialah daripada cukai langsung — cukai pendapatan, cukai langsung yang bukan pendapatan. Kemudian cukai tidak langsung seperti SST dan juga excise. Kita juga ada hasil bukan cukai, sama ada dividen daripada Petronas, dividen daripada syarikat kerajaan yang lain. So in that sense, on the one hand, selepas 20 tahun, hasil kerajaan tu nampak lebih selamat, kerana kalau bergantung kepada hasil minyak semata-mata, then berbahaya kepada negara — kita akan jadi macam negara-negara Arab. Kalau harga minyak jatuh di bawah harga tertentu, mereka tidak boleh membiayai perbelanjaan, jadi itu jadi masalah. Kita, saya ingat, graduate daripada yang itu. Tapi pada masa yang sama, kalau nak tengok hasilnya itu masih rendah berbanding dengan KDNK — kutipan cukai kita berbanding saiz ekonomi kita masih di bawah 15%, 12% saya ingat. Jadi sedangkan ada inisiatif, ada insentif — sama ada, kalau tanya sebahagian orang, dia kata sebab ada benda yang bolos.
 
-**Haziq:** Tidak dibayar cukai.
+**Rafizi:** Tidak dibayar cukai.
 
 **Rafizi:** Itu yang LHDN pergi kejar semua orang. Ataupun sama ada sektor ekonomi dalam negara kita ini tidak begitu memberangsangkan, maka keuntungan itu tidak sebesar yang dijangka untuk menyumbang cukai lebih tinggi kepada negara.
 
-**Haziq:** Dan akhir sekali kalau bab yang itu — sebab itu, bagi saya, yang saya agak tak nampak daripada belanjawan ni—
+**Rafizi:** Dan akhir sekali kalau bab yang itu — sebab itu, bagi saya, yang saya agak tak nampak daripada belanjawan ni—
 
 **Rafizi:** Yang tak nampak ialah macam mana kita menguruskan belanjawan dan perbelanjaan kerajaan secara berbeza, secara radikal, untuk menukar sosioekonomi negara ini supaya kita tak berulang masalah-masalah ini. Kebimbangan saya ialah kalau kita menguruskannya business as usual.
 
-**Haziq:** Satu, satu, satu.
+**Rafizi:** Satu, satu, satu.
 
 **Rafizi:** Sebab perkara-perkara asas yang saya sebut tadi tidak nampak jalan keluar lagi. Kita tak nampak macam mana kita nak lari daripada debt ceiling 65% itu. Kita tak nampak macam mana kita nak menjimatkan 10, 15 billion daripada bayar kadar faedah hutang tiap-tiap tahun. Itu yang saya ingat perlu dijadikan tumpuan seterusnya. InsyaAllah, saya ingat itu peranan saya untuk terus bercakap — supaya, seperti mana beberapa perkara macam penyasaran semula subsidi dulu saya ulang berkali-kali, walaupun dilaksanakan dengan cara yang berbeza, paling kurang perkara itu sudah mula berjalan. Tapi hasilnya belum nampak lagi kepada matlamat kenapa penyasaran subsidi itu perlu dibuat — hasil kepada kurangnya hutang negara, hasil kepada kurangnya bayaran faedah, belum nampak lagi.
 
@@ -317,7 +317,7 @@ Kalau untuk sektor sosial ni kita fahamlah, nampak, I don't have much comment un
 
 **Rafizi:** Yalah, kita kena tunggu detail dia.
 
-**Haziq:** Okey. Terutamanya pasal pendidikan percuma.
+**Rafizi:** Okey. Terutamanya pasal pendidikan percuma.
 
 **Rafizi:** Ya, PTPTN. I wish kita dengar dua-dua. Maksudnya begini kan — sementara kita berniat baik untuk mula menawarkan pendidikan percuma melalui PTPTN kepada keluarga berpendapatan rendah, kita juga nak kena dengar macam mana nak menyelesaikan masalah PTPTN ni. Sebab PTPTN hutangnya yang dijamin kerajaan dah jadi 41 billion. Jadi kalau kita laksanakan ini melalui PTPTN tanpa kita mengubah kaedah dan juga memperbetulkan atau menyelesaikan masalah itu, kita mengambil risiko masalah itu makin membarah. Saya mungkin lebih nak tahu juga contohnya apa lagi kaedah-kaedah lain yang boleh digunakan. Sebab saya rasa bila dia kata PTPTN menawarkan ni, maksudnya kerajaan akan ambil duit pembayar cukai bagi kat PTPTN. Keluarga yang miskin ini, PTPTN bayar kat dia. Jadi masalah PTPTN yang hutang 41 billion tu pun tak selesai. Masalah kerajaan soal duit ni pun tak selesai juga kerana sebenarnya kita just ambil duit daripada poket kiri pergi ke poket kanan contohnya. Pada masa yang sama, model pembiayaan pendidikan tinggi itu juga kita tak selesaikan. Sebab hakikatnya begini — kerajaan bagi subsidi sampai 90% paling kurang untuk kursus di universiti pendidikan tinggi yang sedia ada. Maksudnya yuran yang dibayar tu 90% dah pun diberikan subsidi oleh kerajaan. Yang dipinjam daripada PTPTN itu selalunya ialah untuk belanja harian, belanja tempat tinggal dan yuran sedikit — yuran 10% sikit. Jadi dia ada 2 komponen — satu ialah membantu pelajar-pelajar untuk membayar, tapi satu lagi ialah yang nak kena bayar tu pun nak kena diselesaikan juga. Yang itu kita tak dengar contohnya. Saya tahu Kementerian Pendidikan Tinggi semua pun mula melihat. Ada pensyarah dan universiti memang kadang-kadang kurang selesa bila kita bercakap pasal perkara ini, sebab dia akan kata, "ini janganlah kacau kita, kita ini sebagai ahli akademik, kita nak tumpu kepada mengajar saja kan." Tapi di peringkat kerajaan dan juga terutamanya kepimpinan universiti pun ada isu juga kerana kalau kedudukan kewangan kerajaan ini tidak bertambah — dan setakat ini kita masih lagi tak nampak jalan kan — maka peruntukan itu tak banyak tiap-tiap tahun. Jadi kita tak dengar lagi apa yang akan dibuat di peringkat pendidikan tinggi. Contohnya kita tak dengar lagi adakah kita akan menyemak kembali kursus-kursus ataupun bagaimana kita nak pastikan subsidi yang 90% itu disasarkan semula. Yang tu kita tak dengar kan. Jadi sebab itu saya ingat kita kena tunggu details. Tapi kalau tidak berhati-hati, masalah PTPTN sedia ada itu akan membengkak. Kerana dia dah 41 billion dan kita dah melalui perkara ini dalam tempoh 5 ke 10 tahun yang lepas kan. Wang pembayar cukai tu, dari satu tahun ke satu tahun, ada saja peruntukan yang perlu dibuat untuk menyelamatkan badan-badan berkanun atau institusi-institusi tertentu. Kita dah melalui dengan 1MDB contohnya. Kemudian kita dah melalui dengan Tabung Haji — Tabung Haji jumlahnya tu bukan sedikit, dekat 20 billion. Kemudian kita dah melalui dengan FELDA — FELDA yang disuntik dalam tempoh 2, 3 tahun ni saya ingat 10 billion. Dan kalau tengok FELDA, jumlah yang dijamin akibat hutang itu tidaklah sampai 41 billion. Jadi kalau PTPTN ni, kalau bukan semua 41 billion pun, bila hutang dia mula jadi matang, kalau 10 billion pun kerajaan garu kepala nak bayar. 10 billion kan? Jadi yang itu tidak — sebab itu saya lebih gemar kalau soal ini semua dirangkum secara menyeluruh. Sebab kalau tidak, kita buat secara kosmetik. Dan kalau kita buat secara kosmetik pada cara untuk buat pengumuman populis — "oh sekarang kita pun ada pendidikan percuma, oh kita pun ada gini gini" — tapi sebenarnya kita tidak membaiki masalah sebenar. Ini macam makan Panadol, sedangkan orang kanser. Jadi dia sedap sekejap, esok demam balik. Itu yang saya bimbang.
 
@@ -403,6 +403,6 @@ Pada masa yang sama, ada social enterprise yang lain — pinjam gadget, kita dah
 
 **Haziq:** Thank you for the update. Itu jelah kot YB. Alhamdulillah, 2 jam 10 minit yang produktif. Terima kasih banyak YB Rafizi dan rakan-rakan. Esok weekend.
 
-**Rafizi:** Betul, esok weekend.
+**Haziq:** Betul, esok weekend.
 
 **Haziq:** Okey, itu saja, dah habis interview ni. Saya segan pula macam ni. Okey, jadi kita stop dekat sini. Kita jumpa lagi minggu depan. Terima kasih. Minta tolong share kepada akaun-akaun yang lain. Kita jumpa lagi minggu depan. Terima kasih.

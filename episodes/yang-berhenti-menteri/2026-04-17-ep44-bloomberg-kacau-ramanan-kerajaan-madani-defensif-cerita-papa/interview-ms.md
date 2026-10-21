@@ -78,7 +78,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Malaysia boleh. Okey, okey, kita — ini lagi menarik daripada cerita ular sawa tu yang menakutkan aku. Bahaya nanti dia tangkap aku, dia letak ular sawa. Dah bocor dah. Okey, hilang eh. Okey, seterusnya nasihat Azam Baki kepada orang ramai.
 
-**Haziq:** Yang ni viral juga kan? Dan saya rasa ada dua je lah yang viral tu kan.
+**Rafizi:** Yang ni viral juga kan? Dan saya rasa ada dua je lah yang viral tu kan.
 
 **Rafizi:** Satu keluar pasal berita dan juga nasihat daripada Tan Sri Azam Baki. Nasihat kewangan: sanggup rasuah demi kekal gaya hidup mewah. Tengoklah siapa yang bercakap. Kemudian keluar pula SPRM turunkan skuad taktikal untuk melindungi Azam Baki.
 
@@ -184,7 +184,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Bloomberg ini, aku pun terkejut juga — dia memang betul-betul fokus sekarang. Satu lepas satu keluar. Jadi ini berita terbaru yang keluar semalam, hari Khamis. Walaupun sebenarnya berita ini dah ada lebih awal, awal bulan 4.
 
-**Farhan (Pa'an):** Ha, dia sendiri yang cakap kan?
+**Haziq:** Ha, dia sendiri yang cakap kan?
 
 **Rafizi:** Ya, betul. Cuma sekarang Bloomberg ini bertindak sikit, sebab apabila dia keluarkan, dia meletupkan semua ceritanya. Agak-agaknya subscription Bloomberg meningkat atau tidak kebelakangan ini? Nanti kita hantar emel kepada Bloomberg, saya cuma nak tahu. Bloomberg ini sebenarnya sudah 2-3 bulan buat begini. Saya ingat Ramanan sendiri pernah mengumumkan — kerajaan sedang membangunkan satu sistem baru, yang tidak melibatkan ejen seperti itu. Kemudian reaksi daripada ejen-ejen pekerja asing agak bising sikit. Kemudian bulan lepas saya ingat MalaysiaKini mendedahkan mengenai "TURAP" ini — sistem TURAP ini yang menyebabkan MalaysiaKini kena serbu dan disiasat, sekarang ada kes terhadap MalaysiaKini. Jadi mungkin Haziq boleh terangkan sikit apa dia — sebab saya nak minum air.
 
@@ -198,7 +198,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Haziq:** Okey. Secara ringkasnya, ada satu sistem baru, dengan alasan yang diberikan adalah untuk menghapuskan ejen. Dengan ini, kalau kita dengar, Aminul Islam sendiri berkata ini bagus — ini akan mengurangkan, pertama, orang tengah; kedua, kos. Kos itu akan menurun. Tetapi apa yang dibangkitkan atau kegusaran orang, adakah dengan kita buat begini sebenarnya ini satu monopoli? Nak memonopoli dengan memberikan semuanya kepada Aminul Islam.
 
-**Rafizi:** Ha, memanglah pula Aminul Islam.
+**Haziq:** Ha, memanglah pula Aminul Islam.
 
 **Haziq:** Jadi saya rasa itulah ringkasannya, dan cuma dia beria sikit YB di penghujung tadi — Aminul Islam nak usahakan Anugerah Nobel Keamanan kepada Dato' Seri Anwar Ibrahim.
 
@@ -254,7 +254,7 @@ Dan di sinilah tuduhan-tuduhan — saya masih lagi ada kes disaman oleh Amin Ban
 
 **Haziq:** Kalau boleh pergi ke politik terus, YB. Saya ada satu soalan.
 
-**Rafizi:** Ha, tanya dulu.
+**Haziq:** Ha, tanya dulu.
 
 **Farhan (Pa'an):** Adakah masalah ini spesifik kepada pekerja Bangladesh ataupun?
 
@@ -364,7 +364,7 @@ Jadi Churchill sudah memberi amaran tentang semuanya. Neville Chamberlain pulang
 
 Jadi daripada Britain yang hampir pasti kalah dalam perang, yang tenteranya terperangkap di Dunkirk, terpaksa dievakuasi semuanya, sampai perlu merayu, memohon kepada Roosevelt di US untuk masuk perang — sepanjang tahun-tahun itu, mereka tidak akan menjadi Great Britain hari ini jika bukan kerana Churchill. Jadi, Churchill ialah satu contoh yang baik bagi kepimpinan performatif dan substantif. Baiklah, kita kembali ke dunia. Okey.
 
-**Haziq:** Dah 2 jam kan.
+**Rafizi:** Dah 2 jam kan.
 
 **Rafizi:** Kita kembali ke dunia, kembali ke Malaysia. Masalah kita ialah masyarakat kita, terutamanya dalam media sosial sekarang, sangat menyukai yang performatif — buat kandungan. Kalau memberi sumbangan, kalau boleh semua orang mesti bergambar, faham tak? Ada orang mengadu kepada saya, dia kata, "YB, YB ini kerja berpolitik sahaja, kenapa YB tidak pergi bantu orang ramai, beri sumbangan banyak-banyak macam menteri lain, ahli politik lain?" Kalau saya jenis yang tidak membantu orang, tidaklah saya menang 48,000 di Pandan, kan? Maksudnya perkara itu berlaku, tetapi pandangan saya, saya tidak suka perkara seperti itu dijadikan bahan politik. Saya rasa kalau saya pergi kepada orang yang susah, kita bergambar dengannya, sebarkan semua — sudahlah. Kalau mahu membantu, tolonglah, itu memang tanggungjawab seorang ahli parlimen. Mana yang boleh dibantu, bantulah. Sama juga bila kita membina kemudahan infrastruktur, tidak perlulah pergi merasmikannya dengan bergambar seolah-olah sayalah yang banyak membuat kerja begini-begini, kerana itu memang tanggungjawab kita. Yang sepatutnya menjadi kayu ukur yang lebih baik ialah bagaimana kita berhasrat untuk membaiki keadaan dan masalah-masalah besar negara dengan idea-idea. Kalau setakat mencari yang performatif, itu senang.
 
@@ -406,7 +406,7 @@ Dan untuk memastikan TNB boleh buat itu, kita perlukan juga Battery Energy Stora
 
 Sebab sebelum NETA, ia macam masalah ayam dan telur — tak payah buat solar sebab kita tak boleh pun menggunakannya, kapasiti tak sepadan, tak ada tenaga. Tanya TNB, TNB kata siapa nak bayar untuk buat semua simpanan bateri ini? Sebab itu Suruhanjaya Tenaga kata, tak boleh banyak sangat, hanya sebanyak itu boleh solar, sebab kalau terlalu banyak nanti meletup sistem kita. Sebab itu ada kuota solar.
 
-**Haziq:** Sebab itu ada kuota solar sebelum ini.
+**Rafizi:** Sebab itu ada kuota solar sebelum ini.
 
 **Rafizi:** Kuota solar itu ialah kerana kalau semua orang buat solar, semua masuk dalam grid, meletuplah grid tu. Ia memerlukan simpanan bateri supaya apa-apa lebihan kamu simpan dahulu, kemudian kamu hantar semula. Tapi siapa nak bayar simpanan bateri tu? Kamu tahu, zaman-zaman sebelum ada NETA, semua orang asyik bercerita tentang solar, solar — dia tak faham, kamu perlu melabur di dalam grid. Kemudian kamu tak boleh mengharapkan TNB membayar buta-buta sedangkan dia tak ada duit. Dan kerana itu, tarif sistem itu juga perlu ditukar.
 

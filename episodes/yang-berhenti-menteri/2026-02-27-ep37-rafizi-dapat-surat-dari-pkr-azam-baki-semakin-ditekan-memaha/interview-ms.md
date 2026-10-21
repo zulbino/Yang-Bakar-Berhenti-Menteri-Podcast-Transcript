@@ -79,9 +79,9 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Haziq:** Okey, baik. Beria, YB. Kita ke yang ketiga. Backup sekarang selepas tak jadi meletak jawatan. Dr. Akmal ini memang belum letak jawatan kan?
 
-**Farhan (Pa'an):** Belum letak jawatan.
+**Haziq:** Belum letak jawatan.
 
-**Haziq:** Setakat yang saya tahu, belum.
+**Farhan (Pa'an):** Setakat yang saya tahu, belum.
 
 **Farhan (Pa'an):** Belum lagi. Dia isytiharkan tapi tak diterimalah sebab.
 
@@ -89,7 +89,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Dia melambangkan birokrasi Malaysia ke? Ya, birokrasi. Nak meletak jawatan ini punyalah panjang. Jangan-jangan lepas ini "aku sudah diisytiharkan keluar PKR dan aku sudah tak jadi ahli parlimen", dia masih lagi dalam proses birokrasi, dia belum letak jawatan. Malu ah macam itu kan. Yang ini ekoran daripada DAP yang berkata "dia pergi atau kami pergi". Kemudian Ketua Pemuda UMNO Malaysia berkata tak perlu berpura-pura mengugut PMX kalau berani jalankan sekarang. Jadi, datangnya daripada Dr. Akmal, memang beria. Sepatutnya soal berani, sila buat, selagi dia tidak melepaskan jawatan sebagai Exco itu, saya nasihatkan Dr. Akmal jangan pergi dekat soal-soal letak jawatan, keluar kerajaan semua ini. Tapi akhirnya saya pun tak faham kenapa ada keperluan daripada Dr. Akmal untuk mengulas perkara ini. Beria dia komen, dan backup. Kalau contohnya DAP menyasarkan komen itu kepada UMNO, kita fahamlah Ketua Pemuda UMNO nak kena beri reaksi. Tapi mereka pun tak suka kepada Dato' Seri Anwar atau PKR, UMNO ini pun kan? Jadi yang dia beria-ia nak masuk gelanggang itu sebab apa? Ada teh ke, YB? Ada teh? Tak faham. Ada cerita dalaman? Itu Gen Z punya.
 
-**Farhan (Pa'an):** Oh ya, Gen Z.
+**Haziq:** Oh ya, Gen Z.
 
 **Rafizi:** Okey, itu nanti. Aku tak minum teh ya, aku minum kopi. Ada oh, ada teh, spill the tea. Tak ada. Aku tanya.
 
@@ -115,7 +115,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Haziq:** Kalau secara ringkasnya — sila rumuskan — secara ringkasnya, kalau dahulu sebelum MBMBI, 3.5 jam seminggu. Kemudian disebabkan MBMBI, dia pendekkan kepada 3 jam daripada 3 jam setengah. Dan menjelang 2027, dia akan dinaikkan semula kepada 3 jam setengah. Okey, jadi? Oleh itu. Kau pun tak faham. Dia tak jawab soalan.
 
-**Farhan (Pa'an):** Dia tak jawab soalan lah.
+**Haziq:** Dia tak jawab soalan lah.
 
 **Rafizi:** Dia rasa dia menjawab soalan, tapi tersasar. Kita tanya, kita sekarang ini dalam liga tercorot — 576 jam, berbanding dengan 1000 jam negara-negara lain di rantau ini. Jadi kita nak tahu macam mana nak bawa ini daripada 576 kepada 1000 jam. Dia pun bercerita panjang lebar — dahulu 3.5 jam, lepas itu turun kepada 3 jam, tapi sekarang ini akan dinaikkan balik kepada yang dahulu, 3.5 jam. Hore, hore, bagus kan? Tapi yang lawaknya, itu akan bersamaan dengan pertambahan 32 jam sahaja. Pertambahan 32 jam itu akan membawa daripada keadaan sekarang 576 jam kepada 608 jam. Sama sahaja tak payah — jauh lagi ini daripada 1000 jam. Maksudnya dia bersusah payah, tapi hasilnya sangat kecil.
 
@@ -229,7 +229,7 @@ Ini seolah-olah ulangan kepada episod yang melibatkan Shamsul Iskandar dulu. Mas
 
 **Rafizi:** Jadi orang popular. Sekarang sangat popular. Jadi tengok kat mana? Masa 1MDB dahulu kan, bila ada tuduhan-tuduhan itu awal-awal, SPRM — ha nilah, ni Tan Sri Azam Baki. Kat mana? Dekat sini. Tan Sri Azam Baki, dekat tengah-tengah. Tolong cari. Kat sini lah, Tan Sri Azam Baki ni lah beria-ia beritahu benda tu memang, apa nama ni, derma daripada Saudi. Dan benda yang sama masa 1MDB dahulu, apabila ia mula-mula timbul, maka reaksi daripada kerajaan ialah dia pergi kejar orang yang bercakap tu — aku kena tangkaplah, orang tu kena samanlah, kena tangkap, kemudian kena gantunglah semua kan. Jadi sekarang ini perkara itu berulang. Dato' Seri Anwar marah balik wartawan bila tanya kan. Kemudian Speaker tak bagi kan. Dan oleh sebab itu, dia dah sampai ke peringkat yang saya ingat DAP sendiri merasakan kalau mereka tak buat sesuatu memang habislah — mereka yang akan habis. Macam saya sebut masa perhimpunan tangkap Azam Baki itulah. Dan banyak lagi perkara-perkara yang berlaku — tiba-tiba ada siasatan penyelewengan membabitkan 3.6 bilion membabitkan aku kan. Sebab tu lepas ni kalau aku tak ada kerja pun, menganggur pun tak apa, aku ada 3.6 bilion. Sampai hati YB, seorang-seorang eh.
 
-**Haziq:** Seorang-seorang kaya.
+**Rafizi:** Seorang-seorang kaya.
 
 **Rafizi:** Seorang-seorang kaya, aku ada 3.6 billion, insyaAllah. Kopi pun tak belanja kan. Jadi kemudian yang hari ini ada siasatan mengenai konspirasi untuk mengganggu-gugat kestabilan kerajaan. Jadi saya tak sempat komen lagilah, ni wartawan duk kejar semua ni kan. Jadi maksudnya bibit-bibit yang sama itu sedang berlaku dan kita telah melaluinya semasa 1MDB dahulu. Jadi saya tak nampak macam mana Dato' Seri Anwar boleh lepas daripada perkara ini, yang akhirnya besar kemungkinanlah saya rasa Tan Sri Azam Baki tidak akan disambung. Kalau dia disambung juga kali keempat, aku tak tahu nak cakap apalah kan. Cuma yang kita nak kena terus tekan sekarang dan terus bersuara ialah, tak cukup dengan tak sambung dia — perkara itu kena disiasat. Kerana tuduhan-tuduhan itu berkaitan dengan konspirasi korporat, berkaitan dengan salah guna kuasa, peras ugut, berkaitan dengan macam mana penyelewengan berlaku untuk motif kekayaan dan kewangan individu-individu di dalam SPRM. Jadi perkara itu perlu disiasatlah. Yang sekarang ini yang saya tak pasti sama ada Dato' Seri Anwar boleh pertahankan atau tidak untuk tidak membuat siasatan. Saya ingat dia mungkin cuba cari jalan tengah, kata apa nak bising-bising, dia pun lepas ni tak sambung dah kan. Tapi saya berterima kasihlah kepada rakan-rakan dalam DAP — ada yang DAP sini marah akulah, kutuk aku, kata oh masa dia dalam kerajaan tak bersuara. Banyak aku bersuara kan? Dan marah sebab aku kata DAP sila bercakap, sebab kalau DAP bercakap, Anwar Ibrahim dengar sikit kan. Nasib baiklah pimpinan kanan DAP tak macam DAP sini, dia faham, dan saya berterima kasihlah kepada DAP dan saya harap perkara itu akan terus dibawa sehinggalah satu Suruhanjaya Diraja. Kerana kita nak kena siasat betul-betul perkara ini. Dan mana-mana mereka yang terlibat di dalam perkara ini, di dalam SPRM, di luar SPRM, mereka perlu dibawa ke muka kehakiman. Kerana kita perlu kembalikan keyakinan rakyat kepada SPRM kan. Dan SPRM ni dia lebih berkuasa daripada polis semua tahu — dia boleh pergi tangkap semua orang, dia boleh bekukan akaun orang kan. Dan sekarang ini banyak jenayahnya ialah jenayah kolar putih. Jenayah kongsi gelap pun dia memerlukan jenayah kolar putih sebab dia nak cuci duit kan. Jadi kalau tidak ada keyakinan terhadap SPRM, maka kita akan berada dalam keadaan yang kita nak percaya kat siapa? Bila SPRM terus tangkap orang — kalau ahli politik tu betul-betul makan duit pun, betul-betul rasuah, SPRM tangkap, rakyat tak percaya pun sebab rakyat tak yakin dengan SPRM kan. Jadi memulihkan keyakinan rakyat kepada SPRM itu adalah sangat-sangat penting.
 
@@ -249,7 +249,7 @@ Ini seolah-olah ulangan kepada episod yang melibatkan Shamsul Iskandar dulu. Mas
 
 **Rafizi:** Conditioner tu nampak berfungsi lah.
 
-**Speaker ?:** Betul, betul, betul.
+**Haziq:** Betul, betul, betul.
 
 **Rafizi:** Kalau tidak, dia bukan lagi botak ke? Tu nampak.
 
@@ -283,7 +283,7 @@ Sebab itu, saya berharap — saya tidak tahu apa akan berlaku minggu depan, kera
 
 **Rafizi:** Tidak, saya tidak termasuk dalam kumpulan WhatsApp mereka, saya tidak mempunyai kumpulan WhatsApp itu. Tetapi saya rasa jika dilihat diagnosisnya agak jelas — maksudnya PAS sekarang ini berkuasa penuh di dalam PN. Oleh kerana perpecahan yang berlaku di dalam Bersatu, maka PAS boleh memainkan peranan pecah dan perintah dengan lebih mudah. Kerana kedua-dua puak itu, Tan Sri Muhyiddin dan juga Dato' Seri Hamzah Zainuddin, kedua-dua kumpulan mereka bergantung harap kepada PAS — mereka berdua mahu baik dengan PAS. Jadi itu membolehkan PAS mendapat segala-galanya. Sebab itu setakat ini kita sudah tahu bahawa pengerusi PN adalah daripada PAS, dan ketua pembangkang pun akan daripada PAS. Cuma masih belum ditentukan siapa ketua pembangkangnya — saya rasa mereka perlu menentukan sama ada ketua pembangkang itu adalah Datuk Tuan Ibrahim sebagai Timbalan Presiden ataupun Datuk Takiyuddin sebagai Ketua Bebas Parti (Chief Whip). Itu menunjukkan bahawa di peringkat Tan Sri Muhyiddin Yassin, dia pragmatik bahawa setakat ini pilihan politik yang ada ialah mengalah 100% kepada PAS.
 
-**Farhan (Pa'an):** Tidak ada, eh?
+**Rafizi:** Tidak ada, eh?
 
 **Rafizi:** Tidak ada setakat ini. Di bawah pun tidak ada. Maksudnya dia perlu mengalah 100% kepada PAS dan memberi muka kepada PAS 100%. Kemudian membeli masa dan berjuang di hari lain. Pada masa yang sama, puak Dato' Seri Hamzah Zainuddin pun sudah menyatakan mereka adalah setia kepada pengerusi PN yang baru. Jadi itulah hasil daripada perpecahan yang berlaku di dalam Bersatu — ia sudah sampai ke peringkat itu, dan ia memberi kelebihan kepada PAS untuk pecah dan perintah sepenuhnya.
 
@@ -313,7 +313,7 @@ Sebab itu, saya berharap — saya tidak tahu apa akan berlaku minggu depan, kera
 
 **Rafizi:** Kenapa ada Stranger Things? Stranger Things ini memang Gen Z ke? Eh, Gen Z. Saya tengok Stranger Things, jadi saya kira Gen Z lah, YB. Hati Gen Z.
 
-**Haziq:** Ha, Gen Z transfer.
+**Farhan (Pa'an):** Ha, Gen Z transfer.
 
 **Rafizi:** Gen Z transfer. Ha, kenapa pula ada Friends? Sejak bila pula Friends itu Gen Z? Eh, itu Friends Millennials. Mana ada, Friends itu Gen X lah. Iya ke? Itu zaman saya lah, tua bangka. Zaman saya menonton. Ha, itu bermakna kamu sudah ketinggalan zaman, maksudnya kamu suka oldies. Friends kan 90-an. 90-an ah. Kamu semua baru lahir masa itu kan?
 

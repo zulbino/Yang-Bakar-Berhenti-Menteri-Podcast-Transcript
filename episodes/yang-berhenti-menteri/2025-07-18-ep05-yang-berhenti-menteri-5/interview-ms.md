@@ -50,7 +50,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Ya, ya, sebab Kedah paling akhir sekali sebab masa kita nak buat tu Kedah banjir. Jadi dia tunda ke bulan 2 kata saya. Patut bulan 9.
 
-**Dato' Dr. Syed Azuan Al-Idrus (DSA):** Ha, macam tu, patut bulan tahun lepas lah sepatutnya.
+**Rafizi:** Ha, macam tu, patut bulan tahun lepas lah sepatutnya.
 
 **Rafizi:** Bulan 9. Datuk, disebabkan Datuk menaja kopi kita pada malam ini, jadi masa lebih untuk memperkenalkan Datuk lah. Siapa DSA sebenarnya selain daripada yang kita berjumpa di siaran langsung dan YouTube?
 
@@ -80,7 +80,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Dato' Dr. Syed Azuan Al-Idrus (DSA):** Jadi, awak tak datang jauh-jauh. Itulah saya sebenarnya hari Sabtu ini saya nak ke Kuala Terengganu, YB. Ada satu haul Tokku Paloh kalau YB tahu. Oh, Tokku Syed Paloh. Tokku Paloh, dia ada haul Tokku dia, ayah dia, Tokku Tuan Besar. Jadi anak perempuan saya ini, awak tahu, dia dah masuk geng Syed Sharipoh ini. Dia terus desak saya lah, Walid kena pergi. Kena pergi. Saya kata tak apalah, saya nak pergi untuk dapat ambil berkat sikit lah YB ya. Kadang kita ini, kadang dah terpesong sikit kan. Tak ada kan. Jadi malam ini saya pun heran juga kan, sebab saya tengok podcast YB punya. Dia ada tajuk kan. Ha, dia ada tajuk. Pertama itu memang besar lah kan. Orang sudah tunggu YB dah kembali. Wah, saya tengok itu siaran media YB Saya pegang ayat satu itu. Selamat kembali YB. Kan. Jadi sebelum kita pergi jauh itu, saya nak tanya kenapa wartawan dia kata selamat kembali YB?
 
-**Rafizi:** Masa sidang media itu? Masa sidang media di Subang Jaya. Ayat itu yang saya pegang.
+**Dato' Dr. Syed Azuan Al-Idrus (DSA):** Masa sidang media itu? Masa sidang media di Subang Jaya. Ayat itu yang saya pegang.
 
 **Dato' Dr. Syed Azuan Al-Idrus (DSA):** Selamat kembali YB.
 

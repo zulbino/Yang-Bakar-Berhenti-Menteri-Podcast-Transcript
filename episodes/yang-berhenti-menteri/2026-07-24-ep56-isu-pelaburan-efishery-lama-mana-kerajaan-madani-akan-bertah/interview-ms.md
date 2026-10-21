@@ -71,7 +71,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 The interview provided is already in Bahasa Melayu with minimal English phrases and no significant untranslated English-language sections requiring conversion — it appears to already be the target output rather than a mixed English/Malay source needing translation.
 
-**Rafizi:** Podcast Yang Berhenti.
+**Haziq:** Podcast Yang Berhenti.
 
 **Haziq:** Menteri, episod ke-56 macam biasa bersama Saudara Fizi dan Chopper belakang sana.
 
@@ -81,7 +81,7 @@ The interview provided is already in Bahasa Melayu with minimal English phrases 
 
 **Rafizi:** You tak pernah boleh tahu sebenarnya. Bagi mereka yang biasa dalam bidang digital ini, masalah Android Play Store dengan Apple Store ini — bersama sebagai pembangun aplikasi, selepas diluluskan, kita kena submit aplikasi itu, dan dia bergantung kepada Apple Store ataupun Android kerana mereka akan semak. Jadi dia bergantung kepada cepat, laju, ataupun ada perkara-perkara yang mereka minta tukar.
 
-**Haziq:** Oh betul lah, dia minta tukar kadang-kadang kan.
+**Rafizi:** Oh betul lah, dia minta tukar kadang-kadang kan.
 
 **Rafizi:** Jadi kita mulakan dengan Android dahulu, dan kita doa lah dalam tempoh satu dua minggu ini Apple Store pun meluluskan. Itu perancangan-perancangan yang sedang dibuat sekarang.
 
@@ -101,9 +101,9 @@ The interview provided is already in Bahasa Melayu with minimal English phrases 
 
 **Rafizi:** Tak, tak. Aku rasa kita buat begini — yang ni, yang buat begini — mungkin untuk 10 meter sahaja. Tapi pastikan kita race sama banyak macam itu. Work smart. Work smart. So dari segi efisiensi, itu lebih cekap, itu lebih efisien kan. Boleh je actually. Kita pun memang tengah nak buat satu bentuk. apa ni. bukanlah permainan, tapi satu aktiviti rakyat yang sebenarnya dah jadi trend di negara-negara lain kan. Jadi dia berbentuk obstacle course, tapi obstacle course itu ada menguji kemahiran di setiap halangan itu. Dan itu yang kita nak cuba bawa juga. Jadi kita boleh design lah, salah satunya mungkin yang ini kot. So aku tunggu kat depan sekali, lepas tu aku lari lah sebelum ini.
 
-**Haziq:** Okay baik-baik. Ni kenapa pula Beria ni? Apa kena-mengena dia dengan beria?
+**Rafizi:** Okay baik-baik. Ni kenapa pula Beria ni? Apa kena-mengena dia dengan beria?
 
-**Rafizi:** Beria lah, dia buat pendek, YB.
+**Haziq:** Beria lah, dia buat pendek, YB.
 
 **Haziq:** Tapi bagaimana sebenarnya ni? Bagi idea baru? Tapi sekarang ni sebab macam tengah — orang tengah formal untuk lari-lari semua, YB kan tengah nak fit — YB tak ada join yang bayar-bayar ni?
 
@@ -113,7 +113,7 @@ The interview provided is already in Bahasa Melayu with minimal English phrases 
 
 **Rafizi:** Memang lah. Cuma mungkin lah ada orang yang continuously pick up running kan. Saya memang dah ke laut semua sebab gara-gara bersama dan juga politik. Saya dulu, lepas resign tahun lepas bulan 6, bulan 7 tu, dia pick up quite ok. Saya tak boleh nak stretch macam dulu, so lari agak pace dia tu perlahan lah bandingan dulu-dulu sebab maksimum heart rate ni dah jadi lain lah. Tapi lepas itu, lepas bulan puasa, cuti puasa Ramadan sebulan lepas bulan puasa, tengah plan untuk lancar bersama, koyak sampai sekarang, aku tak exercise langsung.
 
-**Haziq:** Bulan puasa bulan berapa dia?
+**Rafizi:** Bulan puasa bulan berapa dia?
 
 **Rafizi:** Bulan 4 ni dah nak masuk 3 bulan lah kan, 3 bulan. Baik, YB. Kita tengok yang next. Beria korang pergi ambil-ambil datang ni saja. Langsung tak terasa korang kata marathon ni sesuai untuk Rafizi.
 
@@ -133,7 +133,7 @@ The interview provided is already in Bahasa Melayu with minimal English phrases 
 
 **Rafizi:** Well, tak tahulah. Nanti ada lah orang PAS menjawab kat luar. So, apa yang nak ceritanya, konon beria orang yang. sekiranya betul, beria. Sekiranya tak betul, beria lah — orang ni buat sekejap saja. Ini bukan beria, namanya bodoh. Bodoh.
 
-**Haziq:** Hai. Yelah, sebab tu aku ragu-ragu lah benda ini ada wujud manusia seperti ini sekarang.
+**Rafizi:** Hai. Yelah, sebab tu aku ragu-ragu lah benda ini ada wujud manusia seperti ini sekarang.
 
 **Rafizi:** Aku ragu-ragu lah. Tak tahulah. Takkanlah jahil sangat kot. Mungkin tak ada kan? Mungkin tak ada kot. Beria siapa yang buat cerita ni sampai Dr. Zulkifli kena pergi reply, kan.
 
@@ -157,7 +157,7 @@ The interview provided is already in Bahasa Melayu with minimal English phrases 
 
 **Rafizi:** Sebab itu politik ni, saya ingat ialah satu proses yang berpanjangan, sebab politik ini sepatutnya ialah proses pencerahan. Kita nak mencerdikkan orang ramai, dan kita nak menghentikan amalan-amalan yang walaupun gaya selesa, tapi sebenarnya itu tidak baik untuk masyarakat. Ini salah satunya lah. Sebab mereka yang menerima dia sukalah — dia kata dia tak pernah bertanya, saya ingat sebenarnya dari mana dia orang dapat duit ni? Kalau dia bagi saya RM200 untuk saya balik tu daripada Penang ke Kota Tinggi tu kan — Puan Nur Sofia Izatul Ain, cantik jugak itu kan, dengan bunga-bunga dia semua tu kan — memanglah yang menerima itu dia. mungkin rasa itu hak saya lah, dia dah nak bagi. Saya ingat kat kampung dulu, bila orang duduk tabur duit kan — adalah, saya membesar dengan jawapan-jawapan orang di kampung macam tu — "dia dah nak bagi, kalau dia tak bagi, bagulah dia bagi." Haa. Dia tidak tahu — satu, dia kena tanya sebenarnya daripada mana duit itu datang, sebab ahli politik tak ada duit sebanyak itu. Jadi duit itu mesti datang daripada sumber yang dipersoalkan. Dia tak boleh pakai duit kerajaan, kerana duit kerajaan memang terbongkar, memang masuk penjara. Jadi duit itu duit bawah meja. Duit bawah meja itu, besar kemungkinan duit rasuah. Jadi kalau kita waraskan, ini satu perkembangan, proses yang akan berterusan dalam masyarakat kita lah — akan ada orang yang merasakan, "asal saya dapat, saya peduli apa dia ambil mana, duit rasuah bukan kena mengenai aku pun." Tapi dia tak sedar bahawa sebab itulah bila rasuah itu berakar, maka dia juga yang komplain — "oh kenapa tol mahal, kenapa yang itu" — kepada segala-galanya yang kerajaan belanja lah. Yang projek patut jadi 100 juta, dia jadi 120 juta, sebab dia nak cover yang itu kan. Dan lapisan kalau kita nak kira, mengupas benda ini secara moral untuk yang lebih dalam kan — dia berat sikit lah kalau saya kata.
 
-**Haziq:** Tapi sebenarnya itu mengambil hak orang?
+**Rafizi:** Tapi sebenarnya itu mengambil hak orang?
 
 **Rafizi:** Mengambil hak orang? Yalah, kalau kita menerima rasuah, dia mengambil hak orang, kerana duit itu dicuri, duit itu sepatutnya pergi kepada orang lain yang lebih berhak. Jadi kalau tanya saya, mengundi itu memang tanggungjawab kita, dan kita perlu faham bahawa kalau kita tak mengundi, dan pemimpin ataupun kerajaan yang dipilih itu melakukan sesuatu yang kita tak suka, memang nasib kita, salah kita. Jadi tanggungjawab setiap rakyat untuk mengundi, dapat memilih kerajaan yang betul-betul berkhidmat atas kepentingan kita, bukannya yang bagi duit kat kita. Kalau macam ini, then tak payah ada parti politik lah, bagi orang terkaya semua lah untuk jadi ahli politik, dia tabur duit, dia menang. Tapi memang betul lah, kalau tengok ni beria-ia, saya tak faham yang dia orang share ni, kenapa dia memang tak rasa salah ke apa — "undi di Batu Pahat, duduk JB, undi di Batu Pahat, hak RM50, guys." Wah.
 
@@ -299,9 +299,9 @@ The interview provided is already in Bahasa Melayu with minimal English phrases 
 
 **Haziq:** Hound.
 
-**Rafizi:** Apa? Bukan ini, bawa masuk?
+**Farhan (Pa'an):** Apa? Bukan ini, bawa masuk?
 
-**Haziq:** Ya, tapi itu jauh lebih kemudian, ia masuk 2024, Syarif Hamdan itu.
+**Rafizi:** Ya, tapi itu jauh lebih kemudian, ia masuk 2024, Syarif Hamdan itu.
 
 **Rafizi:** Ya, kerjanya ialah firma VC, Bullhound Capital kan. Tapi yang awal-awal dan agak popular di Malaysia ialah Gobi Partners dengan 500 Global. 500 Global ini ialah firma VC yang berpangkalan di Silicon Valley, tetapi tumpuan dananya ialah untuk Asia Tenggara, termasuk syarikat-syarikat Malaysia, syarikat-syarikat pemula Malaysia. Yang direkodkan, memang MetCap masa itu — Malaysia Venture Capital, sebuah agensi kerajaan Malaysia — memang sudah pun melabur di dalam 500 Global, yang kita tidak boleh pastikan. ia secara tidak langsung terlibat dengan e-fishery. Sebab cara modal teroka ini beroperasi, ada dua nomenklatur — satu dipanggil GP, satu dipanggil LP. GP ialah rakan kongsi am (general partner), GP ini ialah firma-firma seperti tadi, seperti Bullhound Capital, 500 Global, Gobi Partners ini. Mereka mengambil wang daripada orang yang melabur, dan orang yang melabur itu dipanggil rakan kongsi terhad (LP). Jadi MetCap adalah LP yang meletakkan wang — saya tidak ingat berapa — di dalam dana yang dibuat oleh 500 Global, dan 500 Global akan mengambil peratusan menguruskan dana itu, dan merekalah yang menentukan juga hendak melabur di mana. Jadi 2018 ada penglibatan secara tidak langsung dana Malaysia — 500 Global. Jadi, Kuwait mula melabur dalam e-fishery pada Julai 2023 — itu pun untuk Siri D, untuk 200 juta. Jadi kalau 200 juta, maksudnya Kuwait masuk 20% lah maksudnya — 40 kali 5, 200 juta kan, mereka letak lebih kurang 41%. Selain daripada Kuwait, termasuklah Temasek, SoftBank, 500 Global, North Star. Baik. Tidak — bagaimana perkara ini boleh berlaku? Bagaimana penipuan itu boleh berlaku? Kita akan kembali kepada penglibatan Kuwait tadi, sebab saya rasa barulah berlaku adil untuk orang ramai boleh nampak, adakah ini penyelewengan atau penipuan. Tapi kembali kepada Gibran ini dan kembali kepada perbincangan awal kita tadi mengenai startup — kenapa ia perlu berskala, kenapa perlu membunuh semua, pengumpulan dana kan. Jadi apa sebenarnya yang berlaku sehingga e-fishery ini menjadi begini? Gibran membuat satu pengakuan dalam temu bual Bloomberg — itu sudah lama berlaku, itu selepas acara pertemuan (after talk events).
 

@@ -94,7 +94,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Haziq:** Beria, YB. Beria.
 
-**Rafizi:** Contender. Ha, don't be surprised, we've got more coming.
+**Haziq:** Contender. Ha, don't be surprised, we've got more coming.
 
 **Haziq:** Ha, our guest this week.
 
@@ -104,7 +104,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Need to... okay, never mind, never mind, never mind. This one is actually within PKR, right? Ha, this is what I meant — I think people like Ramanan tend to look after the grassroots. So this is from PKR Johor, standing in front of boxes, thanking YB Ramanan for contributing Raya hampers. Look at that Raya box — but we can't zoom in, right? If you zoom in, that Raya box has two pictures — as usual his shirt also has a picture — there's Anwar Ibrahim and also a picture of Rahmanan. But the smaller ones, if you look in the middle, there's the Coat of Arms, right? Then below that, look, there are logos, logos, logos, logos, logos — turns out those are from the Ministry of Human Resources and its agencies. If you look at it, that box is actually officially from the Human Resources Minister, officially from KESUMA, and supported by agencies under KESUMA. If you were an ordinary citizen, what would you say?
 
-**Haziq:** "Why didn't I get one?"
+**Rafizi:** "Why didn't I get one?"
 
 **Rafizi:** Because whoever's distributing it will say this is a contribution from the minister, from Ramanan. "Oh, it's nice being a minister like that."
 
@@ -140,7 +140,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Okay, okay, okay. Don't, don't. There are 4, babe? There are 4. Look back at 1, 2, 3, 4. Okay. Go back to it — the main contender is... Okay, whenever Fuziah is involved, she'll be celebrating in style. Go on. Fierce competition between Fuziah and also Ramanan. Please go to the third one, let's watch the video again. Third — there's already a video made. There was one earlier, right? There was.
 
-**Haziq:** Yeah, you have to hear that.
+**Rafizi:** Yeah, you have to hear that.
 
 **Rafizi:** Thank you to... it's gone. Aw. Never mind, never mind. But having considered it, thank you Dato' Ramanan. Oh, that's the one that needs to be shown. But sorry Ramanan, every time Fuziah is in the running, Fuziah wins. The one who dares to fight because she boldly issues statements without any basic grounding for a secretary-general of a political party — namely, that a political party cannot sue people.
 
@@ -148,7 +148,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** The party's credibility is already very damaged. Okay, okay. We can't even say anymore — it doesn't really have much effect if Fuziah keeps going all out. Maybe that's why she just keeps at it. Since we're already at it.
 
-**Haziq:** Since we're already at it. Okay. Bismillahirrahmanirrahim.
+**Rafizi:** Since we're already at it. Okay. Bismillahirrahmanirrahim.
 
 **Rafizi:** Read this one properly, Bismillahirrahmanirrahim. Get ready to scan the QR code and download the document.
 
@@ -216,7 +216,7 @@ So he's already told people. That's why, among the group of people who know abou
 
 **Rafizi:** Right, because all of this happened in cash. No one crazy in this world issues an invoice for this. No one crazy in this world — he's a minister and all — is going to go collect the money himself, personally go pick up 10 million — that doesn't happen. He'll send his people, a pick-up point somewhere, all that. So I think, whatever the case, and before we get to that — that's why I didn't comment on anything, right? You remember, right, I really didn't comment on anything. I genuinely wanted to celebrate Raya. I only stop working once a year, during Raya. So during Raya, even if the world feels like it's ending or whatever — do whatever you all want, I'm with my family, with my cat. Does the MP really not do any work?
 
-**Haziq:** Really none, really.
+**Rafizi:** Really none, really.
 
 **Rafizi:** Ask them. As for me, during Raya, because it wouldn't be fair to my family otherwise, I never stop working [normally]. Never take leave or anything. So Raya is just 4, 5 days, I take a break then. So this report about Mr. R — did it come out on Tuesday or Monday?
 
@@ -366,10 +366,10 @@ Let me give an example that's not about oil but about climate change. I was skep
 
 **Rafizi:** If that's true, I'd be embarrassed. Okay, the first time I met Lokman Nor Adam, he claims he went to London supposedly to recruit me. You want to know what actually happened? I joined PKR, or the reformasi movement really, because I already knew Dato' Seri Anwar earlier, from when he was sacked — I followed my friends, right — so this was even before PKR existed. At that time Lokman Adam was still in UMNO. I already had all that sorted. Just to tell the story — what year was this, huh? 2000 I think. Ezam Mohd Nor, or whatever, had some meeting in London. So, he wanted to meet in London. Okay fine, no problem. But Ezam said he wanted to bring Lokman Nor Adam along too. At that time Lokman Nor Adam was the PKR youth secretary. But Ezam didn't want to pay for his hotel, only the ticket. So he had to find a place to stay, somewhere to crash. Yeah, he ended up sleeping on the floor of my room. Ha, that was the first time I — ended up caught up in something for no reason.
 
-**Farhan (Pa'an):** For no reason at all.
+**Rafizi:** For no reason at all.
 
 **Rafizi:** Are you crazy or what, Lokman? Don't go around telling stories that could be embarrassing. Ha, right? So he stayed in my room, slept on the floor. I felt sorry for him, seeing this supposed reformist fighter sleeping on the floor of my room because he really wanted to go to London but had no money and no one to pay for his accommodation. So I helped, let him sleep on my floor. That was the first time I met Lokman Nor Adam. So I want to correct the record — he didn't bring me into PKR, I brought him into my room. So what about that Eng Eng Long, or whoever it is? Em Long, what's his name? Eng. Nobody even remembers his name. He claims he's a founder of PKR, but nobody remembers him. Never mind, never mind, let's postpone that to next week. Hopefully it won't go stale by then. Never mind, people like gossip stories like that. That's probably it. Same with what KJ said, what was it — oh, "the most useless opposition." Ha, right? Serves them right, all those loyalists who've been propping up KJ all this while. Okay, so let's postpone that to next week.
 
 **Haziq:** Okay. Happy Hari Raya. Watch what you eat, don't overdo it. I've already gained 1 kilo.
 
-**Farhan (Pa'an):** It's fine, you can lose it again. Okay, bye.
+**Haziq:** It's fine, you can lose it again. Okay, bye.

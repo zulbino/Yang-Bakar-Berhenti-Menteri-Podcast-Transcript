@@ -62,7 +62,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Zaim Zulkifli:** Setakat ini responsnya memang, ada orang kata, "berani" untuk berdebat itu memang daripada UMNO sahajalah, Akmal Saleh. Cuma ada tangguh sedikit sebab isu yang menimpa ayahnya. Tapi sampai sekarang kita masih geram dan menunggu-nunggu Kamil daripada parti yang sepatutnya suka mendebat, tak pernah datang lagi. Dia yang ajak.
 
-**Rafizi:** Belum apa-apa kau orang dah tibai. Ini pembukaan.
+**Haziq:** Belum apa-apa kau orang dah tibai. Ini pembukaan.
 
 **Zaim Zulkifli:** Jadi itu masalahnya.
 
@@ -128,7 +128,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Kamu tanyalah Timbalan Presiden yang baru.
 
-**Haziq:** Boleh juga itu.
+**Zaim Zulkifli:** Boleh juga itu.
 
 **Zaim Zulkifli:** Tapi begitulah, perkara kedua adalah kita nampak satu isu tertentu yang, kita katakanlah, pertembungan antara kesucian reformasi dan sebagainya tentang isu pelantikan Azam Baki kali kedua yang mana kita tahulah, YB sendiri secara khusus menyebut, "lusa kita menang, lepas kita menang, esok harinya Azam Baki terus kita tarik." Dan kita nampak perkara ini berlaku — Azam Baki dilantik kali kedua semasa YB masih lagi dalam kabinet, menjadi orang kedua terbesar dalam parti kerajaan. Tapi kita tak nampak pun sebarang usaha ataupun sekurang-kurangnya ada suara daripada YB ataupun pasukan YB untuk menyuarakan isu ini. Jadi adakah ini bermakna YB pun bermain dengan kad yang mana kita perlu menyelamatkan diri ataupun menyelamatkan sesuatu perkara demi, ya, kekal dalam kuasa dan sebagainya?
 
@@ -162,7 +162,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Tak, saya pada zaman kamu tak cakap begini.
 
-**Haziq:** Mungkin belum ada platform lagilah masa itu.
+**Zaim Zulkifli:** Mungkin belum ada platform lagilah masa itu.
 
 **Rafizi:** Tak tak, masa tu aku lagi lantang daripada kau orang lah. Tapi kau tahu, apa yang aku maksudkan ialah bila kita berada di sesuatu jawatan yang penting, sebenarnya pertimbangan kita itu bukan perasaan kita semata-mata. Kau orang budak-budak mahasiswa sekarang okeylah kerana kau kata A, B, bakar semua kan. Kau bakar pun negara tak ranap. Entah apa akan jadi apa, kau orang syok sendiri masuk semua kan. Bayangkan kalau menteri, setiap satu yang dia tak puas hati dia bakar. Sama juga dengan peraturan. Kita nak tukar peraturan kan. Peraturan tu bukannya sembang kedai kopi, "Ah tukarlah yang itu." Bukan macam itu. Dia kena melalui Parlimen, kena undi, nak buat sesuatu tu dua tahun. Jadi sebab itu susunan pentadbiran semua tu ada benda yang memerlukan masa, ada benda yang boleh digoncang dan itulah sebenarnya intipati sama ada sesebuah pentadbiran itu berfikiran reformis atau tidak. Kalau contohnya, saya ambil contoh tadi pelantikan Azam Baki kan. Takkanlah oleh kerana kita tak puas hati dengan pelantikan Azam Baki, dalam kabinet tu kerja kita mengugut, aku kerja mengugut, "Kalau tidak saya letak jawatan, kalau tidak saya ini kecuali tukar itu tukar ini." Itu bukan cara kau mentadbir sebuah negara. Kau kena mentadbir sebuah negara supaya semuanya berjalan tenang, sejahtera, tapi pada masa yang sama penambahbaikan itu berlaku. Bukan semua malah hampir semua penambahbaikan yang sepatutnya berlaku tidak boleh berlaku dengan pukul gendang. Dia mesti berlaku dengan baik dan seiring kan. Sebab itu intipati reformasi oleh sesebuah pentadbiran bukan semestinya apa yang kau cakapkan. Bukan semestinya kami tukar itu, kami tukar ini, kami buat gini gini gini. Sebab itu beza tahu think tank dengan mentadbir kerajaan ni kan. Intipati sebenar adalah dinamik proses membuat keputusan. So kalau ambil contoh yang SPRM tadi kan, memang betullah kuasa mutlak itu adalah Perdana Menteri. Tetapi pentadbiran yang lebih berfikiran reformis yang saya ingat boleh menangani jangkaan daripada rakyat ini bermakna ia akan dibincangkan, bermakna pihak berkepentingan akan dirujuk, bermakna pandangan-pandangan orang nombor dua dalam parti, pimpinan daripada DAP, pimpinan daripada Amanah, akan diambil kira walaupun paksinya adalah kuasa Perdana Menteri. Jadi itulah bahagiannya. Dan saya ingat kalau, aku tahulah kau orang nak bakar sebab kau orang nak tunjukkan kau orang ni idealisme ni. Aku jaminlah, aku dah pernah jumpa beratus orang macam kau orang umur 20-an. Bila dia umur 40-an dia jadi Hilman. Sebab datang duitlah, datang itulah semua kan. So aku beri amaran kepada kau orang tahu. Harapnya taklah sebab ini semua ada rekod ni. Kan, 20 tahun lagi keluar klip engkau macam ni kan. Sebab kau tahu, kesukarannya ialah apa yang kita fikir ideal masa kita muda tidak semestinya ideal bila kita mentadbir. Aku beri contoh, masa umur kau orang kan, aku ada beberapa kawan yang senior lah, super senior yang bila Anwar Ibrahim dipecat, dia orang semua dalam jawatan-jawatan tinggi dekat Petronas ke, dekat GLC ataupun dekat agensi kerajaan kan. Aku kenal mereka secara peribadi, aku tahu lebih kurang jenis orang macam mana mereka ni. Jadi aku selalu pelik tahu, kenapalah kau tak letak jawatan? Apalah engkau ni pentingkan jawatan kau semua kan. Apalah, jadilah macam kita orang mahasiswa sanggup tak makan, tak balik rumah semua kan. Sebenarnya kau tak fikir, masa tu aku tak fikir, sebenarnya kalaulah dia orang meletak jawatan kan, mereka membuka pintu kepada orang yang lagi teruk untuk masuk dan ambil tempat dia orang dalam keadaan mereka bertanggungjawab kepada ratusan ribu orang. Jadi mereka sentiasa, kalau kau berada dalam kedudukan berkuasa dan juga peranan pengurusan, kau sentiasa perlu mengimbangi. Ya, aku ada pendapat peribadi aku dan aku berharap aku boleh buat ini. Tapi tanggungjawab aku kepada orang-orang yang tidak berdosa ini, ada ratus-ratus ribu ni, perkara-perkara tertentu aku perlu berhati-hati sebab ia bukan tentang aku. Ia tentang yang lain. Itulah selalunya dilema yang akan ada kepada sesiapa yang contohnya jadi menteri di dalam sistem Westminster. Sebab itu bagi aku, saat kau rasa pandangan kau tidak lagi dihormati ataupun tidak lagi penting, ataupun jika kau mewakili satu aliran pemikiran, jadi dalam keadaan kami contohnya macam saya dengan Nik mewakili aliran pemikiran yang lebih berfikiran reformis kan. Bila jelas sangat aliran pemikiran itu tidak lagi boleh diterima dan tidak akan jadi keutamaan pentadbiran, cara terbaik untuk kau ialah meletak jawatan dan berundur. Itulah akauntabiliti. Sebab jika kau dalam keadaan kau rasa kau mampu mempengaruhi, tapi sebaik kau melintasi garisan tertentu dan kau tahu kau tidak akan mampu mempengaruhi, kau masih tertakluk kepada tanggungjawab kolektif, tanggungjawab kepada kementerian, tanggungjawab kepada pihak berkepentingan yang berjuta-juta ni. Dan kau tak boleh buat apa yang kau nak semata-mata sebab kau rasa itu akan menaikkan nama engkau ataupun Zaim dengan geng-geng mahasiswa dia takkan hentam contohnya. So aku pasti satu hari Dr. Akmal jadi menteri, kau fikir dia akan jadi macam tu? Tak. Kan, dia akan berbeza. Sebab itu kau tengok setiap kali PAS kalau dia kat luar pumpang pumpang pumpang, dia jadi kerajaan, dia jadi diam. Kan? Cuma aku fikir kami cuba sebaik mungkin pada asasnya untuk membuat pendirian berprinsip. Dan bila kami letak jawatan tu, ia bukan sebahagian besarnya sebab kalah pemilihan dan sebagainya. Isyaratnya sangat jelas bahawa kami rasa kami tidak akan lagi mampu mempengaruhi keputusan-keputusan kerajaan supaya ia lebih selari dengan idea reformasi yang kami wakili lah. Dan saya fikir itulah asasnya bagaimana kerajaan sepatutnya berfungsi.
 
@@ -192,7 +192,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Ke kau nak tambah? Ke kau nak ini macam boxing. Kau nak bagi dia bernafas sekejap ke apa?
 
-**Zaim Zulkifli:** Take take. Saya ingat nak ni, nak continue. Tak adalah.
+**Haziq:** Take take. Saya ingat nak ni, nak continue. Tak adalah.
 
 **Haziq:** Cuma mungkin sikitlah saudara.
 
@@ -254,7 +254,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Ya tapi kalau kenapa zaman Tun Razak dulu, kerana perlembagaannya sama, undang-undangnya sama, kuasa lebih tertumpu lagi pada zaman Tun Razak dulu. Kenapa masa tu tak dipanggil sistemik?
 
-**Haziq:** Saya rasa sebab masa tu.
+**Zaim Zulkifli:** Saya rasa sebab masa tu.
 
 **Zaim Zulkifli:** Macam mana orang nak katalah. Untuk sistem tu jadi sistem, dia ambil masa juga nak berakar.
 
@@ -316,7 +316,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Tak, balik kepada soal contohnya kalau rasuah kerajaan kan. Dulu, aku fikir kira-kira 10-15 tahun yang lalu lah kan, masa aku mula-mulalah, kau tahu, mengambil peranan untuk mendedahkan skandal dan rasuah semua ni kan. Masa itu, malah bila aku mula-mula, niat aku masa itu sebenarnya bukan semata-mata untuk tunjukkan UMNO ni korup ke apa. Kebimbangan aku masa itu ialah kerana terutamanya orang Melayu, dia memandang rasuah ni sebagai sesuatu yang okey. Jawapan selalunya ialah tak apalah, paling kurang kita dapat. Apa masalahnya? Dan kemudian macam kalau kau lalui kaji selidik dan kajian demi kajian, dan ini adalah 2010, 2012 kan. Kaji selidik dan kajian akademik mengenai sikap budak muda universiti ataupun eksekutif muda yang mula kerja kan, sebenarnya kadar rasuah lebih tinggi berbanding generasi lebih tua. Maksudnya benda itu berakar umbi dalam budaya kita. Kan? Sebelum kita masuk ke eksekutif semua ni kan. Tapi aku pilih untuk fokus kepada rasuah yang melibatkan institusi-institusi Melayu. 1MDB adalah satu perkara.
 
-**Haziq:** MARA macam tu dah semua.
+**Zaim Zulkifli:** MARA macam tu dah semua.
 
 **Rafizi:** MARA, itulah sebab kalau kau perasan semua yang aku fokus semua yang Melayu. MARA, Tabung Haji, FELDA semua kerana kita perlu meyakinkan dan mencerahkan lebih ramai orang Melayu bahawa rasuah sangat berdosa dan adalah kanser dalam masyarakat. Rasuah ini sebenarnya menzalimi orang lain kan. Dan kalau kita fokus kepada pegawai-pegawai bawahan ni, orang tak ambil tahu. Contohnya Haziq pegawai kat FELDA, dia makan duit. Kalau aku duk kejar dia, siapa peduli Haziq? Bubuh dialah penjara, sajalah. Jadi kami fokus kepada ahli politik. Tapi bagi aku, sebenarnya masalah rasuah ni akar umbinya ialah sampai ke bawah dan dinamik kuasa itu sedemikian rupa bahawa daripada 2010 ke 2018 dan sekarang ni kan, bila ahli politik yang jadi menteri tu datang dan pergi, sebenarnya kuasa tu nanti masih lagi akan dipegang cuma bukan oleh ahli politik semata-mata tetapi dikongsi dengan pegawai kerajaan, dengan yang lain-lain kan. Jadi sebenar.
 
@@ -374,7 +374,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Siapa hakim malam ni?
 
-**Zaim Zulkifli:** Tak ada hakim, YB. Kena tulis kepada PM nanti lah.
+**Rafizi:** Tak ada hakim, YB. Kena tulis kepada PM nanti lah.
 
 **Rafizi:** Nanti jadi Hisham Jalil engkau. Kalah debat dengan aku sampai mati teringat.
 
@@ -434,11 +434,11 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Kau habis lah. Ikut suka engkau lah.
 
-**Haziq:** Ni baru sejam ni.
+**Rafizi:** Ni baru sejam ni.
 
 **Zaim Zulkifli:** Oh, baru sejam?
 
-**Rafizi:** Oh, baru sejam ah?
+**Zaim Zulkifli:** Oh, baru sejam ah?
 
 **Haziq:** Ha, baru sejam.
 
@@ -448,7 +448,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Boleh. Aku tengok banyak lagi ni ha.
 
-**Haziq:** Tu lah, banyak soalan ni. Cuma.
+**Zaim Zulkifli:** Tu lah, banyak soalan ni. Cuma.
 
 **Rafizi:** Ini berapa hari kau sediakan ni? Ha?
 
@@ -472,7 +472,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Well, itu bukan tanggungjawab saya.
 
-**Haziq:** Impian PKR lah kut, impian.
+**Zaim Zulkifli:** Impian PKR lah kut, impian.
 
 **Zaim Zulkifli:** Ha, impian, impian, orang kata kan.
 
@@ -564,7 +564,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Haziq:** Tadi pasal impaklah, sebab tadi kita kata impak tak perlu impak kan?
 
-**Zaim Zulkifli:** Bukan, perlu impak, tapi tak perlulah besar.
+**Rafizi:** Bukan, perlu impak, tapi tak perlulah besar.
 
 **Rafizi:** Okey, jadi dia tanya pasal blueprint. Aku katakan bahawa, kau tahu, ia sudah pun di luar kawalan dan lingkungan pengaruh aku. Jadi tidak kira berapa banyak blueprint pun kan. Jadi dia kata impak kalau kecil pun tak apa kan. Tapi bukan — sebenarnya kau.
 
@@ -588,7 +588,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Jadi umur kau berapa sekarang ni?
 
-**Zaim Zulkifli:** 21, tapi belum hari jadi lagilah.
+**Rafizi:** 21, tapi belum hari jadi lagilah.
 
 **Rafizi:** Allahuakbar, 21. Buat aku rasa sangat tua. Tak apalah, betullah boleh jadi anak akulah. Okey.
 
@@ -656,7 +656,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Sebab aku nak rekod.
 
-**Zaim Zulkifli:** Kena bezakan mahasiswa dengan.
+**Rafizi:** Kena bezakan mahasiswa dengan.
 
 **Rafizi:** Supaya boleh buat TikTok lepas ni.
 
@@ -718,9 +718,9 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Kau tak tanya aku, aku turun 26 hari bulan ke tidak?
 
-**Zaim Zulkifli:** Ha YB turun?
+**Haziq:** Ha YB turun?
 
-**Haziq:** Ha YB nak turun tak?
+**Zaim Zulkifli:** Ha YB nak turun tak?
 
 **Rafizi:** Sebab tadi dekat Parlimen, dekat Parlimenlah, kat Parlimen apa nama ni, Dato' Seri Hishammuddin dengan Datuk Seri Ismail Sabrilah kan berdua. Semalam kat Parlimen. So datang-datang dia nak dia duduk kat depan aku kat Parlimen tempat baru ni kan, so dia datang dia berhentilah, salam semua kata, "So I see you 26 ni?" Aku macam, "Kita ada apa 26 ni semua?" Aku blur blur. Baru dia orang kata, "kalau you turun nanti, nanti jadi berita dunia tahu, ramai orang tengok semua." Baru aku perasan, "Oh perhimpunan." Aku tak turunlah kut, aku tak turun. Aku baru pindah rumah, aku nak kena kemas rumah. Baik.
 

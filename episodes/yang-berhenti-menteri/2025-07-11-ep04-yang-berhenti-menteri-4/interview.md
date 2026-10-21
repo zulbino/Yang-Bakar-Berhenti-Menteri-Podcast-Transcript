@@ -66,7 +66,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Haziq:** Okey, baik. YB, last ice breaking. Bila ice breaking lagi? Aku dah berapa kali dah ni.
 
-**Rafizi:** Bukan tu YB lah.
+**Haziq:** Bukan tu YB lah.
 
 **Haziq:** Untuk kaitkan dengan kita punya guest speaker. YB, bila pertama kali jumpa?
 
@@ -74,7 +74,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Haziq:** Dan YB, since kita ada saudara Faiz pada malam ini, YB pun dalam 2 3 hari sebelum ni keluarkan kenyataan tentang Ayuh Malaysia untuk apa meng membuat. Oh, tu pasal kau pakai baju tu kan? Tulah baju. Baju buruknya, ya Allahuakbar.
 
-**Rafizi:** Jadi baju tidur So sekarang kena pakai balik.
+**Haziq:** Jadi baju tidur So sekarang kena pakai balik.
 
 **Haziq:** Okey, talking about Ayuh Malaysia, YB nak buat balik social enterprise dan I think discussion tentang third sector economy atau social enterprise ni agak kuranglah dekat Malaysia dan mungkin kita ada suara Faiz. YB, walaupun dia agak kurang dan-
 
@@ -152,7 +152,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Faiz Ahmad:** Dan memang ekonomi pun memang kena bekerja sebenarnya, kan?
 
-**Rafizi:** Rakyat di luar. Production.
+**Faiz Ahmad:** Rakyat di luar. Production.
 
 **Faiz Ahmad:** Rakyat di luar dia faham lain tau. Memang lai- Dia kena kena kerja. Kena kerja. Dia ingat duit tu free tu adalah baik. Bila tak diberi duit free, ekonomi tak baik. Sebenarnya tak boleh macam tu.
 
@@ -168,7 +168,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Faiz Ahmad:** Maksudnya 15% tu. Okey.
 
-**Rafizi:** 85% patut dapat penyiasaran.
+**Faiz Ahmad:** 85% patut dapat penyiasaran.
 
 **Faiz Ahmad:** Tetapi tak scrutinize yang.
 
@@ -306,7 +306,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Ekonomi dia lain, dia service based dia lain kan. Jadi kita sekarang ni, kita ideal apa nama ni inflasi kita ialah 2%. 2%. Between 1.5 to 2% dalam keadaan profile kita bagus. It is actually true kalau contohnya inflasi itu terlalu rendah ataupun negatif deflation. Saya ingat kalau Jepun pun melalui hampir 20 tahun kesukaran oleh kerana ini orang orang-orang yang kat luar yang kata, ya ya ya jom turun harga barang, turun harga barang kan. Negara lain pernah melalui tau. Jepun daripada tahun 1990 sampailah baru-baru ni kan. Tu tahun berapa tu? 30 tahun? 30 tahun kan. Deflasi kan. Dia dia dia melalui proses itu memanglah harga barang tak naik dan sebagainya. Tapi gaji pun tak naik. Tak ada pertumbuhan ekonomi.
 
-**Faiz Ahmad:** Tak ada pertumbuhan ekonomi.
+**Rafizi:** Tak ada pertumbuhan ekonomi.
 
 **Rafizi:** Produk banyak dah hilang. Jadi bila tak ada pertumbuhan ekonomi, maka orang tak melabur untuk menghasilkan kegiatan ekonomi yang baru. Jadi akhirnya lama-lama ekonomi tak tumbuh. Ekonomi is destroyed sebenarnya. Banyak sektor tu dah hilang dan sebagainya. So mereka ada masalah lah. Jadi zaman-zaman dulu kan, di Jepun lah, oleh kerana negative inflation tu lah, deflation, bank kena bayar supaya kalau maksudnya kalau engkau simpan duit dalam bank, kau kena bayar bank. Bukannya dapat interest. Sebab bank kata janganlah letak duit dalam bank ni. Sila pergi berbelanja kan. So, so dia ada kesan dia jugalah. Jadi. Urbanomic lah. Only now lah, I think yang tak tahun inilah buat pertama kali saya ingat Bank of Governor, Bank of Japan's Governor berani menaikkan interest rate kan.
 
@@ -326,7 +326,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Faiz Ahmad:** Ringgit selalu diserang kerana sekarang ni ringgit tu dikatakan rendah.
 
-**Rafizi:** Tapi bila saya tengok sejak 15 tahun yang lepas, ringgit memang dah merosot lama dah pun.
+**Faiz Ahmad:** Tapi bila saya tengok sejak 15 tahun yang lepas, ringgit memang dah merosot lama dah pun.
 
 **Faiz Ahmad:** Yalah. Tapi kenapa orang highlight kawasan sini? Kenapa tak highlight kejatuhan tu dah berlaku selama 15 tahun?
 
@@ -340,7 +340,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Satu sebab bukan pilihan raya. Pilihan raya bukan esok kan? Jadi katakanlah pilihan raya dua tahun daripada sekarang, most probably dua tahun daripada sekarang, kita akan melalui banyak headwinds. Ekonomi dunia yang memang mencabar kan. Kita juga akan melalui beberapa perkara yang kerajaan sedia ada dan juga pembangkang kena lalui, contohnya soal reform dan sebagainya kan. Kita juga kena tengok daripada midterm sampai habis penggal, parti-parti yang ada nilah semua kan, macam mana reaksi dia dan untuk kita berlaku adil, kita kena bandingkan satu penggal dengan satu penggal kan. Jadi it's an open field sebenarnya. It's an open field sekarang inilah kan. Jadi kalau di US contohnya, midterm tu dia adalah warning bell yang pertama, sama ada parti itu atau presiden itu akhirnya boleh kekal dan dipilih semula ataupun bertukar. Dia bergantung kepada the remainder of half term tu kan. Buat masa sekarang, saya tengok bimbanglah saya kalau pembangkang, baik PN ke, baik Bersatu ke mengambil alih. Kerana sayanglah dalam keadaan banyak perkara yang kita rasa ubat itu dah mula ada kesan dan kita perlu pastikan perkara-perkara yang dibuat ini berkekalan sampai hujung penggal, kan. Jadi, sudah tentu kebimbangan rakyat ialah kalau bertukar, sebab kelebihan PH lah selalunya ialah rakyat lebih yakin PH adalah pentadbir yang lebih competent. Tetapi, ada tetapi dia jugalah. Kerajaan PH ke, BN ke yang ada sekarang, jangan ambil mudah sentimen rakyat. Jadi kalau contohnya ada isu-isu yang tidak ditangani dengan baik, yang itu juga yang kadang-kadang pengpengeruh, pengpengeruh bukan you lah, pengpengeruh PKR lah selalunya kan.
 
-**Faiz Ahmad:** Sebut nama. Aku pun tak ingat nama dia orang ni.
+**Rafizi:** Sebut nama. Aku pun tak ingat nama dia orang ni.
 
 **Rafizi:** Dia orang duk panggil Ceplos. Aku pun tak faham Ceplos ni apa dia kan. Jangan rendahkan akal rakyat. Kalau pun kita sokong parti kita, kita tak boleh ambil holier than thou. Yang parti aku adalah yang paling baik. Kalau kau tak sokong, kau bodoh dan jahat. Doesn't work like that. Kita kena tunjukkan dan kalau ada yang kita rasa tak betul, kita kena tegur kan. Jadi keadaan dia sekarang ialah dalam tempoh berbaki dua tahun ini, dia bergantung juga macam mana kita menangani sentimen rakyat. Sebab kalaupun headline ekonomi bagus dan sebagainya, tapi kalau sentimen itu tidak ditangani dengan baik kerana rakyat rasa kerajaan itu terpisah ataupun dia holier-than-thou ataupun dia talking down kepada rakyat kan. Jadi akhirnya dia jadi undi proteslah. Dan undi protes itu pernah berlaku tahun 2018. Sebab itu walaun semua dia kata dia rindu zaman Najib sebab angka contoh bagus 2017. 2017 was a good year economically, contoh. Jadi sebab itu Najib sangat yakin akan menang. Merdeka Center ke, analyst ke semua kata with this number, confirm menang. Tak, dia tak menang kerana dia ada gap di antara headline numbers dengan perasaan rakyat di bawah.
 
@@ -430,7 +430,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Kan? Sebenarnya dia dah decide dah apa nak jadi kan. Proses untuk memilih calon ada syarat-syarat dia. Pam pam pam pam pam. You go through the process pum pam pum pam pum pam sampai sebenarnya dia dah decide dah. Tapi kita still boleh fight kan? That's the thing Kalaulah kita menghormati proses itu, dia bila ada fight, perbezaan pendapat itu, that's where basically the give and take happens lah. Okey. So you go through that process, tapi kalau lepas 10 kali, give and take itu, kau give 100%, take itu kosong, habis lah. Tak tak jadilah. By then you know lah kan. Jadi sama juga dekat kabinet ke dekat mana. Jadi dia tak ada hard and fast rule. Dia bukannya buku teks. Tapi the process and apa nama ni, the collective conviction in the reform itu sebenarnya akan di nilai berdasarkan pada finally what happened. Okey, fair enough.
 
-**Faiz Ahmad:** Baik, puas hati?
+**Haziq:** Baik, puas hati?
 
 **Haziq:** Puas hati. Okey, 1 jam 50 minit yang produktif.
 

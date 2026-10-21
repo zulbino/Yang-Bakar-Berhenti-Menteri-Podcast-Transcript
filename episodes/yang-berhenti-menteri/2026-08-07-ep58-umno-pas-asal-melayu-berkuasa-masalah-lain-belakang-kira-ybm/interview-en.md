@@ -107,7 +107,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Yeah, we can't read his intentions. I think a large part of this is his advisers, his media advisers, supposedly. Let's ask Pa'an — if someone tried to do this to me, I'd definitely reject it. Why? Why, Pa'an? It's not you.
 
-**Farhan (Pa'an):** Well, it's not me, right. But—
+**Rafizi:** Well, it's not me, right. But—
 
 **Rafizi:** why? Because it's cringe. Cringe? Okay, why is it cringe?
 
@@ -115,7 +115,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Well I don't know, I wouldn't be so quick to call it acting, but, I think it's — authenticity, isn't it? Yeah, it's actually about authenticity. So in normal strategy, marketing, branding and such, people usually want to see the essence of the product, it has to be authentic. So in cases like this, especially the mosque matter — and another thing about me — when Pa'an says "it's not me," that's true, there are things that to me are very private. My matters at the mosque, worshipping, all of that, my prayers, all of that is very private, because I'm shy before Allah. You don't know if your prayers are accepted by Allah or not, and then you want to show that you're good, right. So that's something I'm very aware of — all my weaknesses as a human being. That's why some people commented, "oh, why isn't there any mosque content or anything," that's because to me, praying is very private. Same with going to the mosque, having to sit in front, having a place — because we know, when we enter a mosque, we're the same as everyone else. If you come late, the front row is for those who are better, they sit in front, if you come late, you sit at the back. There's no concept of VIP before Allah. So things like this, I mean, when going to the mosque, when eating out, yeah, there's — it's premeditated, premeditated content. So when it's premeditated content, it invites people to say it's an act, all that. We don't know their intentions. So as a matter of media strategy, as best as possible, we need to ensure it's authentic. So anything that looks pre-planned, or set up, or choreographed, that's what causes people to start saying things.
 
-**Haziq:** Okay, but let me throw this out there, since you made me do IRL, you guys show this stuff, so what's the difference with IRL?
+**Rafizi:** Okay, but let me throw this out there, since you made me do IRL, you guys show this stuff, so what's the difference with IRL?
 
 **Rafizi:** Same thing too. Interesting question.
 
@@ -207,9 +207,9 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** No, not that. Not logically — factually, no.
 
-**Haziq:** Why factually no?
+**Rafizi:** Why factually no?
 
-**Rafizi:** After independence from the British, for 60 years, we've been ruled by a party with a pro-Malay agenda, with the Bumiputera agenda as a national agenda. But that hasn't translated into equity ownership — Malays remain low in that regard, and the model of how they do politics.
+**Haziq:** After independence from the British, for 60 years, we've been ruled by a party with a pro-Malay agenda, with the Bumiputera agenda as a national agenda. But that hasn't translated into equity ownership — Malays remain low in that regard, and the model of how they do politics.
 
 **Haziq:** I think YB has actually explained this in your posting — what was it, power is held by Malays, but there's reliance on multiracial tycoons, Chinese tycoons, Indian tycoons. The equity ownership numbers are Malay, likewise the model of how we run our country — there may be plenty of land titles and such, but we're not sure how the outcomes turn out, and ultimately that doesn't even address what Sanusi is worried about.
 
@@ -415,7 +415,7 @@ I think the people's decision will be made based on their understanding and expe
 
 Okay, now, to go back to that question — to solve the current problem, meaning to prevent BN and PN from winning — you know, with the time we have left, I'm not sure it's possible to undo and change the public's perception built up over the past 4 years. So once that perception has formed, it's not easy to change, and up until now, Dato' Seri Anwar's and PKR's decisions haven't just failed to resolve that disappointment — they've added to it.
 
-**Haziq:** Especially among PH supporters. Take for example the decision about parliamentary allocations for YB Rodziah and others. Even at this minute — that's what I mean by the political brain cells not being connected — even at this minute, right? So that's the first layer, addressing the lesser-evil argument, solving this problem. I'm not sure they can actually solve that problem. Then it moves to the next layer of lesser evil. If PH loses, and I think if you look at netizens, they're slowly coming to terms with the fact that it looks hard to win. Meaning PH loses, and Dato' Seri Anwar doesn't become PM anymore. Then you, especially the progressive supporters and voters who previously voted PH.
+**Rafizi:** Especially among PH supporters. Take for example the decision about parliamentary allocations for YB Rodziah and others. Even at this minute — that's what I mean by the political brain cells not being connected — even at this minute, right? So that's the first layer, addressing the lesser-evil argument, solving this problem. I'm not sure they can actually solve that problem. Then it moves to the next layer of lesser evil. If PH loses, and I think if you look at netizens, they're slowly coming to terms with the fact that it looks hard to win. Meaning PH loses, and Dato' Seri Anwar doesn't become PM anymore. Then you, especially the progressive supporters and voters who previously voted PH.
 
 **Rafizi:** So we need to look at the lesser evil at that point in time. The lesser evil at that point is that we need an opposition capable of standing up to BN and PN to carry the people's voice. The choices available then are PH and also Bersama — between the two progressive parties that exist. As for PH at that point, we're not even sure PH will still exist. Because if they lose and Dato' Seri Anwar is no longer Prime Minister, they'll be in chaos, you know. DAP might leave PH — there'll be no PH left, just DAP. Also, even now we're not sure. So PH might not even exist by then. Then PKR too will be jammed up. We have no guarantee that Dato' Seri Anwar will retire from politics. Oh, he might want to continue. Oh, PKR can easily just amend its constitution once the current term ends, or create a new position — like "chairman-general." They can even grant the deputy president leave. The election is coming up soon, Melaka is only a month away. Granting the deputy president leave. So back to the second lesser evil — after the election, if PH is no longer the government, we'll be dealing with a PH in disarray. Whereas at that point we need one opposition voice to confront BN, PN, and to keep speaking up and doing the work. And that comes back to. the decision that, in my view, if I were a progressive voter, what's the best decision I can make?
 

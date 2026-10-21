@@ -83,7 +83,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Terbangun tengah tidur sebab batuk. Tapi YB dah sembuh lah.
 
-**Haziq:** Dah sembuh lah. Jauh lebih baik.
+**Rafizi:** Dah sembuh lah. Jauh lebih baik.
 
 **Iqbal:** Okey, lepas saya, Haziq pula lepas ni.
 
@@ -107,7 +107,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Yeah. Esok baru keluar. Yeah. Oh, saya tak faham tadi. Ini daddy joke betul lah.
 
-**Haziq:** Hambar sangat lah. Hambar sikit lah.
+**Rafizi:** Hambar sangat lah. Hambar sikit lah.
 
 **Iqbal:** Masuk 11:58 keluar tahun baru. Saya tengok movie Avatar yang terbaru. Avatar sekarang dah Avatar 3? Dah yang ketiga.
 
@@ -119,7 +119,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Haziq:** Okey, YB, jom kita tengok apa yang ada pada minggu ini dalam episod yang 29. Segmen pertama, hambar mat. Kita ada beberapa lah, YB ya. Pertama kita ada. Jangan hambar eh. Ha okey.
 
-**Rafizi:** InsyaAllah saya cuba kan. Kalah pemilihan KRT, ambil semula sumbangan.
+**Haziq:** InsyaAllah saya cuba kan. Kalah pemilihan KRT, ambil semula sumbangan.
 
 **Haziq:** Ni kat mana ni? Ni kat Indonesia, Sulawesi. So apa tengah jadi ni?
 
@@ -145,7 +145,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Haziq:** Tak apa, B, kita ada lagi yang lain. Seterusnya. Siapa yang lupa diri?
 
-**Iqbal:** Azam yang dulu bukan yang sekarang. Ada 2 cerita berbeza, YB, kat sini. Satu Apandi Ali yang komen tentang 1MDB, dan satu lagi macam biasalah, Ketua Pesuruhjaya SPRM yang memberi komen juga tentang keputusan 1MDB.
+**Haziq:** Azam yang dulu bukan yang sekarang. Ada 2 cerita berbeza, YB, kat sini. Satu Apandi Ali yang komen tentang 1MDB, dan satu lagi macam biasalah, Ketua Pesuruhjaya SPRM yang memberi komen juga tentang keputusan 1MDB.
 
 **Rafizi:** Yang ini bolehlah kata hambar. Sebab dia juga yang bersungguh tahun 2015. Dia yang pergi sahkan pasal derma tu kan daripada Arab. Ni kau tengok pengarah bahagian siasatan SPRM, Datuk Azam Baki, ketika mengesahkan perkara itu berkata, pertemuan tersebut berlaku di sebuah negara Asia Barat baru-baru ini. Maksudnya dia kena tipu lah kan. Tapi pada masa yang sama, dia juga yang paling awal sekali mengucapkan tahniah kepada pasukan penyiasat pendakwaan penat lelah sejak 2015. Kalau ikutnya, sepatutnya penyiasat yang terlibat dalam siasatan 1MDB tu, mereka ni mesti senyap-senyap, diam-diam sebenarnya menyampah dekat Azam Baki. Sebab Azam Baki pada 2015 dengan kenyataan dia tu menutup kes tau. Oleh sebab itulah akhirnya sebenarnya memang derma dan tidak ada kes. Saya sudah katakan pendapat saya. Dan Apandi ada seorang lagi. Apandi tu sebenarnya, yalah nak komen tu susah. Sebab dia cakap kabur. Lupa diri tu tak tahu maksudnya siapa. Kalau spekulasi kau salah cakap nanti dia saman kau.
 
@@ -165,7 +165,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Sebahagiannya eh, sebab saya ingat saya dah sebut dalam beberapa podcast yang lepas atau bahkan yang terakhir kan. Kalau negara barat lah kan, mereka ambil masa 500 tahun tau untuk perlahan-lahan-
 
-**Iqbal:** Beralih daripada feudalism.
+**Rafizi:** Beralih daripada feudalism.
 
 **Rafizi:** Revolusi Perancis semuanya tentang feudalism kan. Dan Bolshevik pun tentang feudalism. Dan kalau ambil Jepun, Meiji Restoration tentang anti-feudalism. Jadi paling kurang lah negara lain 200 tahun, dan negara-negara berbeza secara berturutan meletakkan pembaharuan dan reformasi politik dan budaya lah. Jadi akhirnya, lebih banyak kuasa dan pengaruh itu diserahkan kepada lebih ramai kumpulan lah kan. Kita ni sebenarnya tak sampai 100 tahun lagi. Kerana bila kita merdeka kan, kita datang daripada sistem beraja dan sistem beraja ni ada golongan bangsawan kan. Kemudian bila kita merdeka daripada British kan, British memberikan kemerdekaan dengan mengekalkan sistem itu. Berbanding contohnya dengan Indonesia, yang mana mereka beralih sepenuhnya kepada presidential kan. Jadi dari segi itu memang kita lebih pekat lah. Jadi sebab itu lorong kuasa mengikut standard Malaysia ni memang betul-betul wujud lah. Jadi mereka yang berlegar, akan timbul keadaan-keadaan macam ni lah. Cuma kalau saya Tan Sri Azam Baki lah, mungkinlah saya tak cepat sangat keluarkan kenyataan mengucapkan tahniah penat lelah sejak 2015 ni. Dia mungkin kata, yalah saya mewakili SPRM kan. Tapi pada masa yang sama, dia menimbulkan keadaan yang begitu bersungguh-sungguh macam ini lah, sebab tahun 2015 dia juga yang mengesahkan ada pertemuan mengenai derma daripada Saudi tu kan. Dan dia tak pernah komen lah sampai sekarang.
 
@@ -239,7 +239,7 @@ Cuma itu sudah mula menular ke banyak negara, dan saya rasa kalau di Eropah, ant
 
 **Rafizi:** Sebahagiannya itu adalah kehendak undang-undang. Untuk bertanding menggunakan logo sesuatu parti, memang perlu mendapat kelulusan daripada presiden parti itu. Tetapi maksudnya di Malaysia ini, kerana kita bukan presidensial, kita masih lagi berparlimen — sistem parlimen Westminster. Tetapi kaedah yang mengatakan "oh, kita ada 8 juta anggota maka kita akan kuat" — itu tidak semestinya benar. Malah, DAP telah membuktikannya. DAP adalah parti akar umbi yang sangat lemah — anggota DAP hanya lebih 100,000, tetapi selama bertahun-tahun ini mereka masih menjadi parti terbesar. Sebabnya ialah naratif kepada rakyat. Jadi saya rasa bergerak ke hadapan, ia akan membuka horizon baharu — kerana pandangan generasi X, boomer yang tua-tua ini semua ingat, oh, untuk membina parti ini memerlukan 100 juta, sebab satu bahagian perlu bayar 1 juta setahun. Sebenarnya, itu tidak lagi benar. Dan ini beria — yang ini beria. Apa-apa yang melibatkan Bachok dan juga bosnya, Dato' Seri Hadi Awang adalah beria.
 
-**Haziq:** Lebih beria daripada Fuziah?
+**Farhan (Pa'an):** Lebih beria daripada Fuziah?
 
 **Rafizi:** Tidak boleh, tidak boleh. Boleh cuba lagi, tapi belum lagi. Itu tidak boleh lah. Anda perlu tunggu pengumuman Fuziah cukup jumlah itu — anda tidak boleh hilangkan daripada minda anda, kadar beria dia itu.
 
@@ -309,7 +309,7 @@ Cuma itu sudah mula menular ke banyak negara, dan saya rasa kalau di Eropah, ant
 
 **Rafizi:** Tidak apa, tidak tahu, suruh Iqbal lah. Berikan penghormatan kepada Iqbal. Antara mungkin pilih satu yang paling beria dalam banyak-banyak itu.
 
-**Haziq:** Juara minggu ini.
+**Rafizi:** Juara minggu ini.
 
 **Iqbal:** Yang paling beria pada pandangan peribadi saya rasa yang UMNO punya — UMNO Puchong punya. Azam Baki kalah.
 
@@ -375,7 +375,7 @@ Jadi dalam kes SRC dengan 1MDB, kerana soalan berterusan dan pengupasan butiran 
 
 **Rafizi:** Ya, yalah, saya rasa kita dicipta untuk masa dan cabaran zaman kita, dan saya rasa itu juga — tiada, dan kemudian, anda tahu, ia hanya kebetulan berlaku pada masa itu. Jadi contohnya kita —
 
-**Iqbal:** Ada orang seperti saya dan Tony dengan —
+**Rafizi:** Ada orang seperti saya dan Tony dengan —
 
 **Rafizi:** Kemahiran dan pengalaman itu lah. Tapi untuk adil jugalah, saya rasa kita perlu ada kepercayaan dalam masyarakat sebab orang seperti saya dan Tony Pua memainkan peranan kita dalam satu segmen masyarakat, iaitu membawa kepada khalayak umum. Tapi untuk adil, ada juga orang seperti DH, wartawan itu, yang sebenarnya secara senyap menggali. Jadi apa cara pun, contohnya, saya bayangkan lah kalaupun Tony dan saya tidak ada di situ, orang di sekeliling Malaysia yang duduk buat cerita pasal 1MDB ini kan, DH akan tersandung dan akan membangunkan cerita itu. Cuma paling mungkin kemudian ahli politik akan mengambil daripada DH. Jadi sama ada DH akan dapat mencapai khalayak umum — segmen yang berbeza itu, itu boleh dipertikaikan. Tapi saya pasti kalau ia sudah sampai ke peringkat saiz 1MDB ini, kalaupun bukan DH, Wall Street Journal akan buat. Anda tidak boleh lari. Ia bukan sangat tentang saya sendiri, tentang Tony Pua, tentang orang lain. Saiz yang begitu besar — memanglah kalau ikutnya, ikut rekod, ini skandal kewangan dan penyelewengan yang paling besar dalam dunia. Kemudian sekali anda sudah sampai ke situ, ia akan ada sahaja kerana kalau kita contohnya, kalau katakan kita jadi Reuters, Wall Street Journal, Bloomberg, kita sekarang ada Al-Jazirah apa kan — hanya tidak masuk akal kan. Jadi cerita itu akan berjalan, dan ahli politik akan mengambilnya.
 
@@ -383,7 +383,7 @@ Jadi dalam kes SRC dengan 1MDB, kerana soalan berterusan dan pengupasan butiran 
 
 **Rafizi:** Anda merujuk kepada Dato' Seri Zahid, Dato' Sri Azalina, dan kemudian Datuk Khairy Jamaluddin. Kemudian Datuk Tan Sri Azam Baki semualah kan. PAS yang pernah berkata.
 
-**Iqbal:** Oh, PAS berpuas hati.
+**Rafizi:** Oh, PAS berpuas hati.
 
 **Farhan (Pa'an):** Dan saya rasa juga ia melangkaui itu kerana ada beberapa orang dalam dunia profesional yang juga sama ada memejamkan mata ataupun mereka membiarkan — memejamkan mata ataupun membiarkanlah, lembaga pengarah syarikat itu.
 
@@ -437,17 +437,17 @@ Mungkin usaha seperti Akta Anti-Rent Seeking dulu — saya tidak fikir Akta Anti
 
 **Rafizi:** Pertama, awak perlu mentakrifkan pada peringkat mana rent seeking itu.
 
-**Iqbal:** Kalau JV? Kalau subkontraktor?
+**Rafizi:** Kalau JV? Kalau subkontraktor?
 
 **Rafizi:** Ha, jadi awak kena takrifkan sebenarnya. Awak kena takrifkan apa itu rent seeking dulu. Maksud saya, kefahaman umumnya lah, rent seeking ini maksudnya awak mengaut keuntungan tanpa menambah nilai.
 
-**Iqbal:** Jadi dalam satu JV korporat contohnya kan — saya dapat tender itu, tapi saya tak buat apa-apa, tapi semua saya bayar semua.
+**Rafizi:** Jadi dalam satu JV korporat contohnya kan — saya dapat tender itu, tapi saya tak buat apa-apa, tapi semua saya bayar semua.
 
 **Rafizi:** Kalau 95% syarikat itu buat — jelas sekali ia rent seeking lah, kan. Tapi kalau ia 70%, kalau ia 80%, kalau dia kata "saya membawa kepakaran kerana saya kenal Perdana Menteri, dan itu kepakaran saya" — jadi, menterjemahkan konsep yang kita faham, yang kita marah tentang rent seeking ini, untuk digubal menjadi undang-undang tidaklah semudah itu lah. Dan kita sudah semak di banyak negara lah, tak ada tahu Akta Anti-Rent Seeking khusus ini — ia ada bahagian-bahagian yang berlainan lah, dan begitulah kita nak menggabungkannya lah. Tapi saya boleh rasakan dari awal kebencian dan tentangan mengenai anti-rent seeking ini. Dan saya rasa ia agak universal kerana ia akan mengubah status quo 100%. Ia bukan sahaja dalam kerajaan, tetapi perniagaan-perniagaan pun — sebab cara lama buat perniagaan, ada broker, ada itu, ada Alibaba semua ini, tak bolehlah, kan.
 
 **Farhan (Pa'an):** Tapi saya ingat reaksi orang ramai itu — ini sudah lama menjadi satu isu.
 
-**Rafizi:** Ya, betul, betul. Bolehkah kita—
+**Farhan (Pa'an):** Ya, betul, betul. Bolehkah kita—
 
 **Farhan (Pa'an):** Mungkin, mungkin lah. Saya ingat reaksi orang ramai kepada Akta Anti-Alibaba itu agak positif lah.
 
@@ -535,7 +535,7 @@ Cuma, kalau pun akhirnya PAS dan Bersatu, dan PN, didamaikan dan mereka bersetuj
 
 **Rafizi:** Janganlah tanya lebih. Saya tak nak jawab. Kau bayar aku, kan. Data-data ini saya hanya cakap apa yang saya nak cakap je. Yang lain sila bayar, kan. Langgan.
 
-**Haziq:** Jadi, jadi, jadi sila langgan kan.
+**Rafizi:** Jadi, jadi, jadi sila langgan kan.
 
 **Rafizi:** Ke Onlyfin. Jadi, antara tokoh-tokoh yang ada di dalam PN ini kan, yang paling boleh dijual sebagai Perdana Menteri gabungan PN ialah Tan Sri Muhyiddin dengan orang Melayu lah. Dan itu yang paling penting untuk mereka, kerana teras undi mereka ialah Melayu. Jadi untuk calon Perdana Menteri mestilah calon yang paling popular dengan terasnya, iaitu Melayu kan? Dan itu sebenarnya Tan Sri Muhyiddin. Alternatif lain, Dato' Seri Hadi Awang, sebenarnya dengan jarak yang agak besar. Dato' Seri Hamzah Zainuddin lagi jauh. Jadi mereka tiada calon lain tahu. Jadi kalau PAS dan pimpinan PAS yang menonton, sekurang-kurangnya saya sudah cakap awal-awal lah — sekurang-kurangnya saya membantu anda kan. Jadi kalau mereka membuat keputusan yang egois dan emosional itu untuk gantikan Tan Sri Muhyiddin dengan orang lain, maka sebenarnya mereka akan menderita beberapa peratus mata dengan pengundi Melayu tahu. Itu satu. Lebih daripada itu, dalam semua pimpinan Perikatan Nasional, kalau pun ada sedikit kelebihan dengan pengundi bukan Melayu, Tan Sri Muhyiddin lagi. Jadi mereka agak terperangkap tahu. Itu yang saya kata, ini sebenarnya kelumpuhan. Jadi apa pun yang mereka putuskan, sebenarnya episod ini tidak akan memberi kekuatan berganda ataupun kekuatan baharu kepada PN, kerana alternatifnya contohnya — pertama, kalau letak Dato' Seri Hadi Awang, maka mereka terpaksa bayar harga itu lah. Itu belum campur lagi Bersatu akan mula bergaduh dan bertambah teruk, jadi itu tidak menyelesaikan masalah kan. Jadi alternatifnya, katakanlah mereka pun tiba-tiba mendapat detik pencerahan: sebenarnya ya, orang terbaik kita masih Tan Sri Muhyiddin kan — maka Muhyiddin akan mendapat kemenangan moral, pertaruhannya itu, berbaloi. Dan siapa yang akan kena ketawakan seluruh dunia? PAS lah. PAS pula marah kan. Jadi, maksud saya mereka menggali lubang dan terjatuh dalam lubang yang mereka gali sendiri sekarang lah.
 
@@ -559,11 +559,11 @@ Cuma, kalau pun akhirnya PAS dan Bersatu, dan PN, didamaikan dan mereka bersetuj
 
 **Rafizi:** Okey, maksud saya, itu cukup untuk dapat gred C lah. Untuk dapat A, awak perlu jelaskan lebih mendalam sedikit daripada itu lah. Apa dia? Ketiadaan skandal besar?
 
-**Haziq:** Tidak, tidak, tidak, tidak, tidak, tidak.
+**Rafizi:** Tidak, tidak, tidak, tidak, tidak, tidak.
 
 **Rafizi:** Melayu sederhana?
 
-**Haziq:** Tidak, tidak, tidak, tidak, tidak, tidak.
+**Rafizi:** Tidak, tidak, tidak, tidak, tidak, tidak.
 
 **Rafizi:** Perpaduan ummah. Okey, ha, yang paling emosional, emotif ini yang menyebabkan Melayu atas pagar menyokong PN ialah perpaduan ummah. Kita nak melihat Melayu bersatu kerana kita mesti dapatkan balik kuasa Melayu, kan. Jadi yang mereka suka ialah mereka lihat PN ini aman — PAS dan Bersatu sanggup masing-masing berkorban demi untuk perpaduan ummah. Berbeza dengan UMNO, mereka sanggup meninggalkan perpaduan ummah ini demi kuasa, demi nak lepas kes apa-apa jelah. Itu yang meletakkan bahawa PN ini nampak lebih menarik kepada pengundi atas pagar Melayu. Sekarang bila jadi macam ini — tidak lagi lah. Sebab itu sekurang-kurangnya mereka akan hilang undi Melayu. Cuma, apa yang terjadi kepada undi Melayu yang tawar hati bahawa perpaduan ummah PAS, Bersatu semua ini hanya cakap kosong lah, lepas itu sama juga mereka ini — "kita macam bodoh duduk sokong 3, 4 tahun perpaduan ummah, perpaduan ummah." Jadi macam ini kan.
 
@@ -619,7 +619,7 @@ Jadi, satu dunia sekarang ini, sebab Romania ini walaupun ia Romania, mereka ada
 
 **Rafizi:** Ya, perbezaan itu. Tapi sebenarnya sebahagiannya, kalau kita lihat kepada pengalaman Argentina lah — sekurang-kurangnya dari segi ekonomi kan, Javier Milei kan — sebenarnya dalam masa 6 bulan kita sudah boleh nampak impaknya. Okey, jadi tidak perlu pun menunggu.
 
-**Iqbal:** Dia tak sampai setahun.
+**Rafizi:** Dia tak sampai setahun.
 
 **Farhan (Pa'an):** Javier Milei mengambil pendekatan yang sangat—
 
@@ -627,7 +627,7 @@ Jadi, satu dunia sekarang ini, sebab Romania ini walaupun ia Romania, mereka ada
 
 **Farhan (Pa'an):** —ekstrem dengan chainsaw dia semua kan. Jadi mungkin ada orang—
 
-**Iqbal:** Bila dia menjadi presiden, pendirian dia itu tidak lah—
+**Rafizi:** Bila dia menjadi presiden, pendirian dia itu tidak lah—
 
 **Rafizi:** Cuma preskripsi dasar dia memang ekstrem lah. Tapi sebenarnya secara ekonomi, sekarang orang mempunyai lebih banyak keyakinan dengan Javier Milei. Aku pun sebenarnya macam, gila ke apa dia ni kan? Maksud saya sesetengah perkara yang dia cakap itu bukan lah sebenarnya idea "eureka" yang hebat, tetapi untuk melakukannya di Argentina, semoga berjaya kan? Tapi dia sebenarnya berjaya melakukannya, dan dalam kes dia sebenarnya dia menang pilihan raya susulan tau — parti dia menang lebih besar dalam pilihan raya tempatan semua kan. Jadi dalam kes Argentina lah, kita tidak mendengar Argentina kena bail out — kalau tidak orang ingat lepas ni pasti kena bail out, habis lah orang berbantah di jalanan semua, terbakar lah semua kan. Tapi jadi saya rasa dalam masa beberapa bulan, kalau perkara berjalan lancar, maka kita akan mendengar lebih banyak lagi tentang Romania lah.
 
@@ -655,7 +655,7 @@ Jadi, satu dunia sekarang ini, sebab Romania ini walaupun ia Romania, mereka ada
 
 **Rafizi:** Well, Malaysia ni banyak tunggu dan lihat kan. Kita mula-mula nampak impak ekonomi itu dari segi pasaran lah — maksudnya bursa mula meningkat, ringgit stabil, kemudian pertumbuhan nampak lebih terjamin. Kita hanya mula melihatnya pada 2024. Jadi, saya tidak fikir kita boleh buat perbandingan seimbang (apple to apple), sebab masa juga penting. Semasa Dato' Seri Anwar menjadi PM, November 2022, ketika itu masih ada keraguan tentang COVID secara global. Kemudian ada isu tentang kekuatan dollar — dollar sangat kuat, dan semua mata wang melemah di seluruh dunia. Ada juga kesan sampingan inflasi makanan global kepada inflasi semua kan. Sedangkan kalau seperti Ilie Bolojan ini, sekarang dia jadi PM dalam tempoh 1-2 bulan yang lepas, di mana terdapat lebih banyak kepastian ekonomi secara global lah — orang akan rasa macam yang paling buruk sudah berlalu, ia hanya soal sama ada kita boleh berkembang. Sedikit berbeza lah kan. Jadi saya tidak fikir kau boleh buat perbandingan seimbang sebab banyak faktor kan.
 
-**Haziq:** Okey Webby, itu je lah kot. Dia sudah, dia pun sudah takut kena marah aku kan.
+**Rafizi:** Okey Webby, itu je lah kot. Dia sudah, dia pun sudah takut kena marah aku kan.
 
 **Rafizi:** 2 jam 52 minit. 2 jam 52 minit juga?
 
@@ -665,10 +665,10 @@ Jadi, satu dunia sekarang ini, sebab Romania ini walaupun ia Romania, mereka ada
 
 **Haziq:** Memang target nak lebih pendek pula kan? Memang sepatutnya lebih pendek. Baik, selamat malam. Happy New Year.
 
-**Iqbal:** Mana ada orang ho ho.
+**Rafizi:** Mana ada orang ho ho.
 
 **Rafizi:** Santa Claus dah balik tidur lah kan?
 
 **Haziq:** New Year kan? Ya, New Year. Jom lah kita balik juga. Jumpa lagi minggu depan.
 
-**Rafizi:** Sama-sama semua.
+**Farhan (Pa'an):** Sama-sama semua.

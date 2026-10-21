@@ -174,7 +174,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Tak adalah. Maksudnya menjelang pertengahan 30-an lebih kut, kat kepala aku tak ada uban gitu. Aku mana ada uban? Tapi dia bermula dari sini, habis uban semua ni. Jadi aku akan ada misai putih dengan janggut putih. Sebab itu tidak ada janggut. Jadi ini maksud, ini masa aku umur berapa ni? 32, 33 kut. Pandai kau orang edit letak popcorn
 
-**Farhan (Pa'an):** Bukan kami, tapi netizen.
+**Rafizi:** Bukan kami, tapi netizen.
 
 **Rafizi:** Oh, aduan netizen.
 
@@ -302,7 +302,7 @@ Jadi dengan mengeluarkan dan memindahkan daripada Tabung Haji kepada UJSB — ok
 
 **Rafizi:** Kenapa — saya cuba lontarkan semua ni kepada orang ramai, jangan serabut lagi tau. Ini dia cerita macam tengok cerita Alfred Hitchcock ataupun Agatha Christie. Walau benda-benda yang awal-awal tu nampak kecil, kenapalah dia nak tunjuk semua ni, dia adalah petunjuk kepada akhirnya yang lagi besar. Jadi anda perlu tahu semua ini kerana ia ada kejutan di belakangnya nanti. Jadi tidak cukup dengan kerajaan bailout dengan menyuntik 20 bilion itu atas kertas supaya rizab jadi positif, dan bila rizab tu jadi positif dah boleh mula bayar hibah bermula 2019 ke atas lah. 2019 pun ada hibah kan, tapi sikit sangat kan? Ha, 1.25%, tapi ada hibahlah kan? Itu 2018 ke 2019? 2018 kut?
 
-**Haziq:** 2018. Yang pertama sekali.
+**Rafizi:** 2018. Yang pertama sekali.
 
 **Rafizi:** 2018 kan? Yang pertama sekali kan. Tapi itu masih lagi belum menyelesaikan masalah Tabung Haji yang satu lagi — itu aset dia, rizab negatif. Pendapatan dia macam mana? Bila anda ambil 10.9 bilion aset toksik dia keluarkan, dia dah tak dapat pendapatan daripada situlah. Jadi aset dia, katakanlah salah satu yang dipindahkan itu ialah Tabung Haji Plantations. Dia mungkinlah dapat 20 juta ke 30 juta, sekarang tak ada langsunglah. Jadi sebab itu ada satu elemen daripada sukuk UJSB tu yang dipanggil pembayaran tertunda untuk pulangan. Jadi yang itu tiap-tiap tahun dia — okey, saya tahu ini semakin teknikal. Sukuk tu sebenarnya kupon sifar dan pulangan sekitar 4%. Saya tak nak masuk dalam hal remeh kupon, pulangan, semua tu, nanti orang lari semua kan. Tapi pulangan tu maksudnya pulangan pelaburanlah. Jadi yang itu elemen dia, pembayaran tertunda, dibayar secara sedikit, sedikit, sedikit. Jadi setiap tahun bermula daripada 2019 — dan yang ini disebut semua ni di dalam RCI — setiap tahun ada elemen pendapatan daripada sukuk itu yang masuk dalam keuntungan Tabung Haji yang diumumkan tiap-tiap tahun. Jadi kalau 4% pulangan, anda tahu, atas dia ada dua siri sukuk, satu 10 bilion, satu lagi berapa? 9.6? Satu 10, ha kan. Jadi dia ada dua siri ni, satu yang matang tahun 2026, satu yang matang tahun 2029. Jadi setiap satu ni ada elemen pendapatan dia, tertunda kan. Jadi lebih kurang lah, lebih kurang 800 juta setahun, dan tiap-tiap tahun makin meningkat, makin meningkat. Jadi tiap-tiap tahun Tabung Haji menunjukkan yang dia ada keuntungan sebanyak 800 juta, 870 juta tiap-tiap tahun ni daripada sukuk UJSB. Sekarang biar saya tanya awak, duit tu ada ke tidak?
 
@@ -562,7 +562,7 @@ Okey sekarang. Jadi kita boleh pergi kepada penyata kewangan eh. Kesian orang ra
 
 **Rafizi:** Tak, kau masuk ke perincian pula. Okey okey okey. Dia macam ni. Bondlah, sukuk ni kan, dia ada dua komponen. Bond tu penebusannya tak berubah. Jadi kalau contohnya UJSB menerbitkan bon dan bon itu dipegang oleh Tabung Haji, kalau prinsipal dia ialah 10 bilion kan, kena tebus 10 bilion, maka masa tarikh penebusan tu, maksudnya tahun 2026, Mei 2026, kena bayarlah 10 bilion. Cuma bon tu ada kupon. Kupon tu tiap-tiap tahun kalau kupon dia 5%, kau kena bayarlah 500 juta, 500 juta, 500 juta. Dan bon biasa dia boleh didagangkan. Kan dia boleh didagangkan. Jadi tak apalah, orang ramai kan, dia jadi kelas baguslah juga, orang boleh faham sikitlah pasal bon-bon ni kan. Bon ni boleh didagangkan yang biasa, bukan Tabung Haji ni kan, bon biasa boleh didagangkan. Jadi ambil contoh kerajaan Malaysia. Dia terbitkan bon. Bon dia tu 10 bilion boleh ditebus 2030. Jadi 2030 tu dia kena bayarlah 10 bilion tu. Cuma bon ada kupon. Kupon tu kalau bon MGS kerajaan tu, dia bergantung pada masa dia diterbitkan kan. Dan kerajaan menerbitkan bon ni kadang-kadang tiap-tiap bulan tahu, kan ha. Jadi katakanlah masa dia diterbitkan itu bergantung kepada kadar faedah masa itu, kemudian penarafan, penarafan bon semua, kena bayar 3.5%. Jadi maksudnya tiap-tiap tahun memang kerajaan Malaysia kena bayar 350 juta, 350 juta dan 2030 kena bayar 10 bilion. Tapi bon ni kan boleh didagangkan. Jadi katakanlah aku adalah Tabung Haji, aku nak beli bon kerajaan kan, ia bon 10 bilion kemudian kupon 3.5% kan. Jadi contohnya kalau kadar faedah turun kan, dan bon aku tu kuponnya 3.5%. Jadi bon tu dicari orang. Kerana aku akan dapat 3.5% kalau aku beli bon tu berbanding kalau aku letak dalam simpanan tetap. Simpanan tetap mungkin 2.5% aje, ada spread 1% semua kan. Jadi orang sanggup bayar premium untuk beli bon tu. Jadi kau mungkin, daripada bayar 10 bilion untuk dapatkan bon tu, kau mungkin bayar 10.1 bilion. Tambahan 1 bilion. Tapi 2030 nanti aku tetap dapat 10 bilion aje lah. Jadi yang itu maksudnya bon didagangkan pada premium. Sebaliknya pun benar. Kalau contohnya kadar faedah naik, tapi kadar faedah dah jadi 4% tapi bon kau 3.5%, kupon kau 3.5%. Jadi orang taklah nak, orang juallah. Jadi orang akan sanggup — orang boleh beli pada diskaun lah. Untuk 10 bilion, aku bayar 9 bilion aje, nanti 2030 kan. Okey sekarang, itu bon secara keseluruhannya. Sekarang sukuk ni unik dan ini jugalah yang disebut di dalam RCI. Sukuk ni tak boleh didagangkan. Ia bukan dijamin kerajaan. Kemudian ia sifar kupon.
 
-**Farhan (Pa'an):** Ya, jadi tak payah bayar apa-apa.
+**Rafizi:** Ya, jadi tak payah bayar apa-apa.
 
 **Rafizi:** Ha, sebab itu ia jadi kertas. Yang ada hanya kira-kira hasil hingga matang sekitar 4% sesuatu, itu yang jadi ada elemen bayaran tertangguh dalam hasil tu. Jadi kerajaan tak bayar tiap-tiap tahun, tapi Tabung Haji akan mengiktiraf-lah 800 juta, itu yang jadi lebih 900 juta tu. Sebab itu bila tebus — ini balik kepada soalan Haziq lah — tebus prinsipal 10 bilion. Aku tak baca keseluruhan perjanjian, kita tak ada akses kepada keseluruhan perjanjian ni, tapi berdasarkan laporan RCI, pemahaman saya bila tebus Mei 2026, sukuk 10 bilion Siri 1 tu kena bayar 13.2. Tak jadilah. Jadi ini yang kau kena umumkan ni, kaulah kena umumkan.
 
@@ -602,11 +602,11 @@ Okey sekarang. Jadi kita boleh pergi kepada penyata kewangan eh. Kesian orang ra
 
 **Rafizi:** Ia akan dibentangkan di Parlimen nanti kan? Jadi aku bagi soalan bocor awal-awallah. RCI telah merakamkan persetujuan kerajaan untuk memperuntukkan tiap-tiap tahun sejumlah wang dikumpulkan supaya boleh ditebus tahun 2026. 1.7 bilion setahun, 1.5 bilion setahun. Okey, cuba cari Pa'an, muka surat mana tu?
 
-**Farhan (Pa'an):** 1.73 ni ke?
+**Haziq:** 1.73 ni ke?
 
 **Rafizi:** Ha, yalah, itu muka surat mana tu?
 
-**Farhan (Pa'an):** 3.13.49, kejap.
+**Haziq:** 3.13.49, kejap.
 
 **Rafizi:** Ha? 3.1?
 

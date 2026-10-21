@@ -60,7 +60,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Okey, tak apalah, I terang.
 
-**Wan Afiq:** Slang Besut dia kena pergi kelas, sebab aku pun orang Besut juga kan.
+**Rafizi:** Slang Besut dia kena pergi kelas, sebab aku pun orang Besut juga kan.
 
 **Rafizi:** Dia kena pergi kelas macam mana untuk membuang slang Besut. Okey, di dalam podcast. Nanti kita buat course.
 
@@ -88,7 +88,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Ha, okey.
 
-**Farhan (Pa'an):** Baik, kita ke beria.
+**Rafizi:** Baik, kita ke beria.
 
 **Wan Afiq:** Kita ke beria, YB. So beria pertama: Anwar Ibrahim dah jadi side throw. Kepada pendengar yang di luar sana mungkin tengah drive, tak tengok visual — dekat sini ada screenshot Dato' Seri Anwar Ibrahim. Saya, betul ke nombor dia?
 
@@ -142,7 +142,7 @@ Jadi good luck kepada Dato' On Hafiz untuk cuba dapatkan apa-apa tindakan. I don
 
 **Farhan (Pa'an):** Saya tak pasti, saya tak check.
 
-**Rafizi:** Tapi disebabkan Fahmi—
+**Farhan (Pa'an):** Tapi disebabkan Fahmi—
 
 **Farhan (Pa'an):** Saya dapat tahu yang Julia Roberts dilahirkan tahun 1967. Oh, ya ke?
 
@@ -154,7 +154,7 @@ Jadi kalau bayangkan setiap satu fitnah mengarut dia orang buat ni, saya saman �
 
 Jadi, the best yang kita boleh buat ialah kita akan transparent. Contoh macam yang ini, kita terangkanlah, dan kita akan kongsi sebenarnya penyata kewangan bersama — berapa duit masuk tiap-tiap bulan, berapa duit keluar tiap-tiap bulan — bila orang tengok kan. Yang lain tu, I think biarlah — saya ingat orang macam Fahmi semua ni, I wonder lah diorang ni tak faham ke yang kita ni ada Tuhan. Ha, kan? There are rules — rules yang manusia tetapkan, kalau kita langgar tu tak apa lagilah. Tapi rules yang Allah tetapkan — orang lain saya tak tahu, saya takut, because it's beyond you. Kalau you buat sesuatu dan benda tu clearly fitnah dan berniat jahat nak menganiaya orang, the best that we can do is kita doa. Kerana — I keep saying this kepada pendengar semualah — banyak orang politik ni dia tak faham that politics ni sebenarnya tak boleh tentukan macam mana orang nak berkelakuan. Kita boleh bercakap, kita boleh bentangkan, kita boleh cuba. Ha, ni masalah live ni — siapa pula call aku? Dia saja nak tie you down for phone call.
 
-**Farhan (Pa'an):** Hang on, hang on, hang on. Phone call pulalah.
+**Rafizi:** Hang on, hang on, hang on. Phone call pulalah.
 
 **Rafizi:** Let me put it on — aku letak airplane mode kan. Plane mode betul ni. Padan muka semua orang. Sabar semua mendengar. Sabar, sabar ya. Sabar, sabar, tenang.
 
@@ -196,9 +196,9 @@ Jadi maksudnya, saya daripada awal dah tahu sepak terajang orang yang bernama An
 
 **Rafizi:** Minta maaf pula dah.
 
-**Wan Afiq:** Tak payahlah minta maaf.
+**Rafizi:** Tak payahlah minta maaf.
 
-**Rafizi:** Okey, kita proceed.
+**Wan Afiq:** Okey, kita proceed.
 
 **Wan Afiq:** Fahmi lagi. Fahmi lagi ada dua — sebab tu saya minta komen dua, sebab dia ada dua, dua kali beria dia ada. So Fahmi ada buat satu inisiatif lah bila dia kata dia upgrade jalan. Cuma di media sosial tu orang tidaklah marah, tapi orang mempersoalkan kenapa upgrade jalan tengah je. Lepas itu orang pun bagilah sedikit pandangan atau komen di media sosial. So Fahmi agak kena teruk di media sosial.
 
@@ -218,7 +218,7 @@ Jadi maksudnya, saya daripada awal dah tahu sepak terajang orang yang bernama An
 
 **Rafizi:** Sila. Kalau boleh pegang. Saya dah kena maki.
 
-**Wan Afiq:** Pegang macam ni. Sila pegang macam ni.
+**Rafizi:** Pegang macam ni. Sila pegang macam ni.
 
 **Farhan (Pa'an):** Dia orang kata ada lipas kat soundboard.
 
@@ -262,7 +262,7 @@ Kalau YB buat macam itu, sedih lah Fuziah. Tak adalah, tengoklah dia nak bersila
 
 **Rafizi:** Kita guna phone lah.
 
-**Farhan (Pa'an):** Kita pakai stopwatch. Okey.
+**Rafizi:** Kita pakai stopwatch. Okey.
 
 **Rafizi:** Setiap satu saya cuba untuk kekal dalam 90 saat. Soalan pertama daripada siapa?
 
@@ -292,7 +292,7 @@ Kalau YB buat macam itu, sedih lah Fuziah. Tak adalah, tengoklah dia nak bersila
 
 **Rafizi:** UNHCR. Okey, sorry. Kalau tengok daripada 12 agenda bersama tu, memang salah satunya ialah untuk menurunkan jumlah pekerja asing di negara ini kepada hanya 5% daripada jumlah pekerja. Dasar itu sebenarnya memang dah ada di dalam RMK13. Itu memang saya dah berkeras dahulu dan tinggalkan. Malah semasa saya Menteri Ekonomi dahulu pun, kita dah buat dasar-dasar yang mula mengawal pekerja asing. Tapi memang akan ada push back kerana ada orang tak suka, ada orang bagi alasan, dan perkara itu mencabar status quo. Nanti takut orang marah kan. Jadi kalau bersamalah ditakdirkan satu hari nanti, tak kisahlah pilihan raya umum yang mana menjadi kerajaan, memang agenda untuk mengurangkan pekerja asing itu perlu berlaku kerana ia salah satu perkara struktur yang menyebabkan gaji tak naik, yang menyebabkan kita kekal dalam ekonomi bernilai rendah. Pasal UNHCR tu, itu jauh lebih rumit. Sebab Malaysia bukan penandatangan UNHCR. Jadi dalam negara kita tidak wujud pelarian mengikut tafsiran UNHCR. Tetapi pada masa yang sama, kita juga tidak boleh hantar mereka pulang kerana itu akan menimbulkan masalah utama dari segi imej kerajaan di peringkat antarabangsa dan PBB. Jadi kita sangkut.
 
-**Wan Afiq:** Okey, lebih 10 saat. Tak apa. So YB, soalan seterusnya. Yuan Kuan S tanya, just try my luck. RR wrote the perlembagaan for PKR and now for Bersama. What change in the letter will prevent the kind of corrupt or rot happening in PKR?
+**Farhan (Pa'an):** Okey, lebih 10 saat. Tak apa. So YB, soalan seterusnya. Yuan Kuan S tanya, just try my luck. RR wrote the perlembagaan for PKR and now for Bersama. What change in the letter will prevent the kind of corrupt or rot happening in PKR?
 
 **Rafizi:** Saya tidak tulis perlembagaan PKR yang ada sekarang. Perlembagaan yang ada sekarang ini, pengerusi jawatankuasa yang menulisnya ialah Datin Paduka Tan Yu Qiu dalam tahun 2014. Saya adalah Setiausaha Agung pada ketika itu dan saya mengendalikan prosesnya. Jadi kita dah faham bukan saja perlembagaan PKR, tapi kita faham budaya politik Malaysia yang ada. Sebab itu perlembagaan bersama yang kita akan kemukakan nanti kepada ROS yang baru, memang tidak mengambil model parti-parti politik yang ada di negara kita. Jadi strukturnya itu kena tukar. Sebab itu saya kata dia perlu jadi flat structure. Kerana bila flat structure itu, dia tidak ada cawangan, tak ada bahagian. Unit yang paling bawah pun hanyalah negeri. Kerana struktur-struktur inilah yang mewujudkan warlord-warlord. Dia akan kata, kalau tak ada saya di bawah ini ataupun saya dah berbelanja macam-macam, kalau tak bagi saya sekian-sekian projek, maka saya tak sokong you. Jadi flat structure itu sangat penting. Yang kedua, untuk bertanding menjadi pimpinan bersama, dia ada kriteria merit. Maksudnya kita tidak akan ada AJK kosong. AJK kosong bertanding untuk jadi ahli majlis tertinggi ini sebenarnya sangat berbahaya. Sebab kalau dia ada duit, walaupun dia tidak ada latar belakang apa-apa, dia boleh kempen dengan wang. Tiba-tiba dia jadi ahli majlis tertinggi. Tiba-tiba dia nak jadi menteri. Kita akan buat berdasarkan portfolio supaya ahli boleh nampak sendiri — engkau ni kaya macam mana pun, tapi nak bertanding untuk portfolio kesihatan, engkau ubat pun kau tak faham. Jadi dia tak menang.
 
@@ -308,7 +308,7 @@ Kalau YB buat macam itu, sedih lah Fuziah. Tak adalah, tengoklah dia nak bersila
 
 **Rafizi:** Saya sebenarnya — orang selalu tanya saya pasal Kira.
 
-**Wan Afiq:** Alamak, kena set, kena set. Orang selalu tanya saya pasal Kira.
+**Rafizi:** Alamak, kena set, kena set. Orang selalu tanya saya pasal Kira.
 
 **Rafizi:** Walaupun semua orang kata saya ni tak boleh kerja dengan orang dan semua itu, saya sebenarnya tak campur tangan pasal Kira. Tugas saya ialah untuk mewujudkan dan menubuhkan Kira. Selepas Kira ditubuhkan, ia dikendalikan oleh ahli lembaga koperasi Kira (ALK). Saya tak campur tangan langsung. Sebelum saya nak keluar parti, saya ada tanya pengerusi ALK Kira apa kedudukan dia. Mereka telah semak dengan Suruhanjaya Koperasi. Mengikut perlembagaan Kira, kalaupun orang keluar parti daripada PKR, itu tidak menggugurkan keahlian mereka di dalam Kira. Jadi terpulang kepada mereka yang telah membeli saham dalam Kira sama ada mereka nak kekal ataupun nak keluarkan duit. Tapi keahlian Kira itu tidak tertakluk kepada jadi ahli bersama ataupun PKR. Jadi saya akan keluarkan duit saya. Terpulanglah kepada orang lain.
 
@@ -356,7 +356,7 @@ Kalau YB buat macam itu, sedih lah Fuziah. Tak adalah, tengoklah dia nak bersila
 
 **Rafizi:** Dia tanya minta izin, lepas tu dia terima kasih. Very feudal. Okey, saya kena keluar — kita take turns lah, take turns.
 
-**Multiple speakers:** Kesian, kesian kat—
+**Farhan (Pa'an):** Kesian, kesian kat—
 
 **Rafizi:** So take the heat off daripada Afiq.
 
@@ -424,7 +424,7 @@ Kalau YB buat macam itu, sedih lah Fuziah. Tak adalah, tengoklah dia nak bersila
 
 **Wan Afiq:** Engkau selalu ambil yang Eric Fikri ni. Tak, dia banyak soalan.
 
-**Farhan (Pa'an):** Oh, dia banyak soalan. Memang orang marah dia.
+**Rafizi:** Oh, dia banyak soalan. Memang orang marah dia.
 
 **Wan Afiq:** Favoritism. So, soalan: Apa masalah yang menjadi penghalang PMX untuk buat reformasi seperti dicanang selama 3 tahun ini? Siapa dalang — UMNO? Farhash? GPS, JRS? PMX sendiri?
 
@@ -504,7 +504,7 @@ Soalan ketiga — dakwaan PKR guna dana kerajaan itu tidak betul. Malah sebenarn
 
 **Rafizi:** Banyaknya. Banyak doktor ke apa ini yang tanya ni?
 
-**Multiple speakers:** Banyak pasal healthcare.
+**Farhan (Pa'an):** Banyak pasal healthcare.
 
 **Rafizi:** I'm not a doctor and healthcare is not my forte.
 
@@ -526,9 +526,9 @@ Soalan ketiga — dakwaan PKR guna dana kerajaan itu tidak betul. Malah sebenarn
 
 **Farhan (Pa'an):** Saya tak tahu macam mana dia kira.
 
-**Rafizi:** Tak, saya dapat skor tepi tadi, saya okey.
+**Wan Afiq:** Tak, saya dapat skor tepi tadi, saya okey.
 
-**Wan Afiq:** Tak, aku tak tanya macam.
+**Rafizi:** Tak, aku tak tanya macam.
 
 **Rafizi:** Orang cakap takkanlah boleh ber tiga. Aku penat gila dah ni. Betul. Sorry, my bad.
 
@@ -586,11 +586,11 @@ Yang ketiga ialah kita kena pastikan penjenamaan, the vibe, the feel about Bersa
 
 **Multiple speakers:** Boleh, boleh.
 
-**Wan Afiq:** Ada lagi soalan kan?
+**Rafizi:** Ada lagi soalan kan?
 
-**Multiple speakers:** Tak, tak ada.
+**Wan Afiq:** Tak, tak ada.
 
-**Wan Afiq:** Ini dah habis lah ni? Ini dah habis dah. Oh, okey, okey, okey, okey.
+**Rafizi:** Ini dah habis lah ni? Ini dah habis dah. Oh, okey, okey, okey, okey.
 
 **Multiple speakers:** Ini so-
 

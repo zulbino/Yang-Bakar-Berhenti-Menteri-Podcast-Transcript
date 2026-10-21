@@ -75,7 +75,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Haziq:** Suami. Ya lah tu. Samdek Joe. Tapi tak apa, sorry lah. Apa khabar? Sihat? Terima kasih. Kalau tengok profil, yelah saudara Joe pun bukan first time muncul lah. Sebelum ni kita tengok banyak dekat launching, dekat jelajah-jelajah semua kan. Tapi kalau tengok background lah, saudara Joe memang apa — kena panggil saudara Joe?
 
-**Rafizi:** Oh Joe lah, Joe.
+**Haziq:** Oh Joe lah, Joe.
 
 **Haziq:** Joe. Tak lah formal. Okay, saudara—
 
@@ -101,7 +101,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Plus 3, maksud ASEAN— Cina, campur—
 
-**Multiple speakers:** Jepun. dengan. campur—
+**Sum Dek Joe:** Jepun. dengan. campur—
 
 **Haziq:** Korea— Come to that question — I mean, kenapa sanggup nak resign and full time untuk tolong YB Raf dalam bersama—
 
@@ -147,7 +147,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Haziq:** Okey. Haa, luruh jantung saya tau.
 
-**Rafizi:** Haa, okey, kita teruskan.
+**Haziq:** Haa, okey, kita teruskan.
 
 **Haziq:** Beria — haa, yang pertama kita mula dengan UMNO lah. Haa, kita Sesi Agung UMNO, siapa yang dapat LOD ni? Ni selampau ramai, cuma ini berlaku selepas disentuhnya isu RCI Tabung Haji lah. Jadi Ismail Salleh dapat LOD, Abied Abdullah dapat LOD, dan juga page-page pro-kerajaan yang kita tak tahu siapa lah pun diancam untuk disaman juga lah. My News Hub — something macam tu, My News Hub tu bukan Najib punya ke? Sekarang dah jadi. yakah, sekarang dah swing ke? Saya tak baca. Bukan, dia ada satu nama lain, tapi dia dekat-dekat My News Hub tu Najib punya, dia dekat juga. Tapi point dia adalah ancaman itu Najib punya, bukan LOD. 5 juta OAB, dan yelah, kalau kita tengok pun, biasanya personal politik ni, dia takkan menang sampai 5 juta pun lah. Dia macam Isyam Jalil kita pernah cakap juga, dia pun nak saman beberapa juta juga kan.
 
@@ -189,7 +189,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Sum Dek Joe:** Dia ada dua aspek lah. So satu aspek — aspek yang pertama, second term.
 
-**Rafizi:** Sangat confident lah, Nurul Izzah? Beria confident.
+**Sum Dek Joe:** Sangat confident lah, Nurul Izzah? Beria confident.
 
 **Sum Dek Joe:** Okay, beria confident. Sangat confident pasal second term, sebab saya rasa tak berapa kuat untuk — tak berapa confident. But personally, from my own aspect lah, pada pendapat saya, saya rasa it's actually quite a far-fetch untuk diorang menang di pilihan raya umum yang akan datang ini. So ini yang first point. Second point, mengenai reformasi gaji ini — kenapa tak buat sekarang? Kenapa perlu tunggu sampai second term baru buat? Yelah, memang dah ada beberapa policy dasar yang sedang dijalankan, implemented, tapi we don't have to wait for second term — you can start terus. So saya langsung tak faham apa konteks dia, kenapa nak tunggu sampai second term baru-baru start.
 
@@ -293,9 +293,9 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Kalau kena colik tu, tak boleh buat apa kan. Tapi dia orang semua dah sign bond. So contohnya kalau mereka menarik diri daripada jadi calon, dia kena bayar 2 juta — samalah macam bond-bond yang lain, yang biasa tu kita tahulah, kalau dia lompat parti ke, dia tak buat kerja, dia tak pergi sidang, semua itu kena. Tapi oleh kerana kita umumkan awal, bond itu juga terpakai kalau dia gagal sehingga tidak dinamakan jadi calon — sebab dia boleh saja tak hadir hari itu, alasan-alasan yang digunakan kenapa parti lain tak menamakan calon lebih awal. Tapi kita tengoklah, semua ini adalah perubahan dan penambahbaikan, improvement, yang kita cuba nak bawa dalam politik. Tapi saya bersetuju — minta maaflah orang ramai, memang kami beria. Beria, dah umum calon, beria, berkempen kan. Okey, baik. Selesai. Jadi, yo. Saya nak satu lagi poin. Ada ramai yang tanya, kenapa bersama guna term calon bayangan? Why bayangan? Shadow. So shadow candidate. Maksudnya dia belum confirm, dan dia boleh ditukar. Dia semuanya memang telah tanda tangan bond, semualah kan. Tapi mengambil apa yang Haziq cakap tadi kan, kalau tiba-tiba dia kena syuallat — kalau contohnya tiba-tiba dua minggu lagi terpapar besar-besaran dia sebenarnya skamer terbesar Malaysia, jadi kita kena tarik balik pencalonan itu. Kita memang buat seberapa yang mampu untuk tapis semua kan. Jadi selagi dia tak jadi calon, memang dia calon bayangan lah. Dia sama macam shadow cabinet lah, kabinet bayangan semua kan.
 
-**Haziq:** Baik, baik. Kita nak mengundi. Kita nak mengundi. Bagi Kak Joe, kena pilih yang mana yang paling beria.
+**Rafizi:** Baik, baik. Kita nak mengundi. Kita nak mengundi. Bagi Kak Joe, kena pilih yang mana yang paling beria.
 
-**Multiple Speakers:** Bagi saya, saya rasa mahal.
+**Sum Dek Joe:** Bagi saya, saya rasa mahal.
 
 **Rafizi:** Oh, bukan Fahani. Fahal—
 
@@ -487,7 +487,7 @@ Dan untuk suku tahunan kedua ini, walaupun kita tengok kadar pertumbuhan GDP 6%,
 
 **Sum Dek Joe:** Demand boom for AI ni mostly semiconductor. Semiconductor sebab dia ada data processor, data center semua, so dia memerlukan chip-chip yang cukup pantas ataupun cukup advance, dan juga memory chip untuk store data-data yang kita guna kat ChatGPT ke atau kat cloud ke. So memang ada permintaan yang sangat tinggi, dan Malaysia sebagai satu hub untuk OSAT — outsource semiconductor assembly and testing.
 
-**Rafizi:** Yang back-end tu?
+**Haziq:** Yang back-end tu?
 
 **Sum Dek Joe:** Back-end lah, memang back-end lah. Dan perlu katakan, yang perlu emphasise, back-end ini memang value added yang paling rendah. Di dalam satu rangkaian semiconductor, front-end itu seperti design, itu memang merangkumi nilai yang paling tinggi lah. Tapi apa yang kita buat, terutama kat Penang, biasanya ialah back-end punya kerja lah. Dan kita boleh nampak pada suku tahun kedua, eksport semiconductor berkembang sebanyak 40%. 40%! Itu adalah sebuah figur yang sangat tinggi — kami tidak pernah melihat figur yang begitu tinggi selama sekian lama.
 
@@ -507,7 +507,7 @@ Jadi secara asasnya, apa yang kita lihat di sini — sekali lagi ia adalah speku
 
 **Rafizi:** Keluar.
 
-**Haziq:** Dia macam ni.
+**Rafizi:** Dia macam ni.
 
 **Rafizi:** Haziq kan, katakanlah kilang — kilang Intel lah. Katakanlah sales dia 10 bilion setahun kan. Sales itu is recorded as GDP, 10 bilion kan, so dia jual kan. Tapi katakanlah daripada 10 bilion itu, dia dapat dividen 5 bilion. Dividen tu dia hantar balik dekat US lah, dividen 5 bilion. Dia tak agih kat orang kat sini pun. So ini satu. yalah, satu keadaan yang mana kita masih lagi ada ruang-ruang yang perlu diberi tumpuan dalam ekonomi kita.
 

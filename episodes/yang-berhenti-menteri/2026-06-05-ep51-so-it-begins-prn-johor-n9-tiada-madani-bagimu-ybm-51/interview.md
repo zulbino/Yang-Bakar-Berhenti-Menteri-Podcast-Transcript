@@ -144,7 +144,7 @@ Jadi bila saya jadi Menteri Ekonomi, tugas yang pertama ialah untuk membuat kemb
 
 **Rafizi:** Bukan, bukan. Ini lebih awal — ini yang pertama kita buat. Masa tu kita tak buat live pun, masa tu awal sangat lagi, tak ada live.
 
-**Haziq:** Ke ada live?
+**Rafizi:** Ke ada live?
 
 **Rafizi:** Ada. Ada, dah ada live kan? Masa tu saya ingat dalam bulan kedua, Januari 2023 macam tu — awal sangat lagi belanjawan kan? Jadi ditanyalah wartawan tanya pasal Johor semua ni. Saya kan jenis yang tak berlapis, I speak my mind. Jadi saya beritahulah sebenarnya Johor — sebab orang tanya masa tu, rakyat yang datang, media yang datang, yang tanya tu rakyat, saya ingat. Dia tanya sebenarnya apa perancangan Kementerian Ekonomi, Kerajaan Persekutuan untuk Johor ni. Jadi saya terlepas cakap apa yang dalam kepala saya, baru sebulan jadi menteri. Saya kata sebenarnya Johor ni ada potensi yang banyak kerana Johor ni sebelah dengan Singapura, jadi sebenarnya Johor ada sumber-sumber yang kalau dipadankan dengan keperluan Singapura, maka boleh menjadi satu simbiosis ekonomi yang cukup baik. Tapi saya beritahu, masalah sebelum ini ialah kita membangunkan wilayah Iskandar ini semata-mata untuk jual tanah dan bangunan. Sedangkan kalau orang buat business, dia tak fikir pasal tanah murah atau bangunan saja — dia perlukan pekerja, dan yang lebih penting, Malaysia dan Singapura ini dua buah negara yang berasingan. Jadi macam mana satu syarikat di Singapura nak buka kilang ataupun pusat penyelidikan yang canggih di Johor? Walaupun sebenarnya Johor ke Singapura tu dalam setengah jam je, tapi dua negara yang berbeza — tiap-tiap hari nak keluar kena cop pasport, kemudian kalau barang nak keluar masuk semua dengan custom declaration-nya. Sebab itulah tak jadi, saya kata macam itu. Jadi pandangan saya, kalau kita betul-betul nak majukan Johor ni, kita perlukan satu zon ekonomi yang istimewa supaya kalau saya di Singapura, sebenarnya kecekapan pentadbiran di Johor dan segala birokrasi itu kita selesaikan agar kalau saya syarikat di Singapura, saya boleh ada ibu pejabat di Singapura, tetapi operasi di Johor tu macam dalam satu wilayah pentadbiran yang sama — kita kena harmonizekan semua. Dan memang selepas itu, esoknya, laporan semua media tulis Rafizi mencadangkan satu zon ekonomi khas Johor-Singapura. Aku kena tegur berkarung-karung lepas itu — seperti biasa, kita ada kerajaan dan Perdana Menteri yang sebelum tu, menteri tak boleh bercakap pandai-pandai. Jadi saya pun, betul jugalah kan. Cuma beberapa bulan selepas itu, saya ingat pertengahan 2023, kita perlu adakan mesyuarat JMC tu, Joint Ministerial Committee. Dan yang saya sebut tu bukannya formula pandai-pandai — benda itu common sense, benda yang patut berlaku sebab orang lupa, sebenarnya berapa jauh Singapura dengan sebahagian daripada Johor Selatan tu, dia jauh dia lebih kurang sama macam Ampang dengan Shah Alam ataupun Ampang dengan Petaling Jaya je pun. Kalau duduk kat Tambak Johor tu satu km je — saya jalan kadang-kadang tiap-tiap hari lima km, tiap-tiap hari aku dah boleh pergi ulang alik antara Singapore dengan Johor. Jadi kita kalau kat sini, kita boleh ada pejabat di Ampang dan kilang di Shah Alam atau kilang di PJ contohnya. I mean, that's what sebenarnya Johor dengan Singapore is. So it's a big common sense. Tapi yalah, politik dan birokrasi ni kan. Jadi saya ambil masa, ada satu mesyuarat di rumah Datuk Onn Hafiz, Menteri Besar. Mesyuarat itu ialah mesyuarat perancangan untuk JMC yang akan berlaku di antara Malaysia dengan Singapura. Tapi by that time saya dah belajar birokrasi kerajaan ni — walaupun itu bidang kuasa kerajaan persekutuan, kena sebut kepada Menteri Besar. Jadi saya pun pergilah kat Johor, kat kediaman rasmi Menteri Besar Johor, pagi-pagi ada breakfast meeting pegawai-pegawai saya dengan dia. Jadi saya sebutlah: Kementerian Ekonomi akan mengubah pendekatan kita mengenai JMC, dan perancangan kita dengan Singapura ini. Rancangan kami ialah kita tak nak buang masa, habis duit ratus-ratus ribu satu mesyuarat, kemudian pegawai ni habiskan berbulan-bulan untuk selesaikan minit, untuk selesaikan agenda, tapi bincang pasal nak buat taman bersama. Masa itulah nak buat taman bersama — satu taman kecil bersama melibatkan dua negara. Aku macam Allahuakbar. Jadi saya beritahu dia, sebenarnya potensi tu mestilah JS satu entiti yang baru, dan entiti itu, kerajaan persekutuan dan kerajaan negeri perlu melihat jauh daripada soal hartanah semata-mata — dia soal people's movement, goods movement, harmonization of custom supaya ada seamless movement, tak payah double triple handling. Dia macam apa ni kalau dekat—
 
@@ -170,9 +170,9 @@ Jadi bila saya jadi Menteri Ekonomi, tugas yang pertama ialah untuk membuat kemb
 
 **Farhan (Pa'an):** 7 Januari 2025. Terlajak jugalah, 1 tahun.
 
-**Rafizi:** Almost 1 year.
+**Farhan (Pa'an):** Almost 1 year.
 
-**Farhan (Pa'an):** Almost 1 year lah kan.
+**Rafizi:** Almost 1 year lah kan.
 
 **Rafizi:** Jadi memang painful lah. The whole process was painful kerana benda ni tak pernah dibuat pada kelajuan itu. Selalunya rundingan antara 2 negara ni kan, 10 tahun tak selesai — uah, uah, uah kan. Jadi kita berjalan dalam tempoh masa yang sangat-sangat singkat. Sebab itu yang lepas ni akan ada 1 lagi kes SPRM — JSSIZ dibuat secara tergesa-gesa. Memanglah. Actually semua yang saya usahakan dulu memang dalam tempoh 4-5 bulan, 4-5 bulan, 4-5 bulan kan. Sebab kita nak bina naratif ekonomi. Bila kita nak bina naratif ekonomi tu, maka kita kena laju. Kita tak boleh 7, 8 tahun baru ada satu pengumuman kan. Jadi akhirnya bila dah lulus sign semua, guess what — sampai MITI bawa paper ke kabinet bahawa selepas ini merekalah yang bertanggungjawab GSSIZ.
 
@@ -186,7 +186,7 @@ Jadi bila saya jadi Menteri Ekonomi, tugas yang pertama ialah untuk membuat kemb
 
 **Farhan (Pa'an):** This is a question for you lah, because—
 
-**Rafizi:** I remember ada orang lontarkan—
+**Farhan (Pa'an):** I remember ada orang lontarkan—
 
 **Farhan (Pa'an):** —idea juga between Malaysia dan Thailand. Was it because of JSCZ atau sebelum tu dah memang dah ada?
 
@@ -202,7 +202,7 @@ Jadi bila saya jadi Menteri Ekonomi, tugas yang pertama ialah untuk membuat kemb
 
 **Haziq:** Okey, bercakap tentang MITI, kita ada bekas Menteri MITI.
 
-**Farhan (Pa'an):** Intern Pandan. Eh, intern Pandan. Tim bola pun boleh lalang tanda soal.
+**Haziq:** Intern Pandan. Eh, intern Pandan. Tim bola pun boleh lalang tanda soal.
 
 **Rafizi:** Tapi dia jawab kan, dia cuba jawab lah. Dia kata dia ada perjanjian dengan ketua AMK Ampang untuk bertukar baju.
 
@@ -222,7 +222,7 @@ Jadi bila saya jadi Menteri Ekonomi, tugas yang pertama ialah untuk membuat kemb
 
 **Rafizi:** Ha, tapi yang tu lah cerita yang terbaru — mula 8.5 juta kan, kemudian cerita pasal isteri arwah Tun Daim, Toh Puan Naimah, yang bagi duit nak bertanding masuk PRN Johor dan Melaka, eh, dengan Negeri Sembilan pun kata, "oh, ni sebab dia ada backer, funder dia semua ni kan." Tapi dalam banyak-banyak fitnah itu, fitnah yang paling lawak ialah Rafizi pakai data PADU untuk sign up ahli lah kan. Kalau saya pakai data PADU — hari ni saya ingat, hari ni saya ingat ahli bersama lebih kurang 23,000 lebih lah.
 
-**Haziq:** Oh, 23,000 lebih. Dia dah perlahan dah.
+**Rafizi:** Oh, 23,000 lebih. Dia dah perlahan dah.
 
 **Rafizi:** Dia dah perlahan, FOMO tu dah kurang dah kan, dia dah perlahan dah jadi 23,000 kan. Tapi maksudnya insyaAllah lah, saya ingat selepas 1 bulan, ahli bersama ni akan jadi 30,000 lah. Which is okey lah kan, kira memberangsangkanlah. Tapi kalau saya gunakan data PADU, ahli bersama ni 34 juta! Dia bukan 23 ribu. Dia mengarutlah — saya pun tak ada akses PADU kan, dan ini semua data kerajaan kan. Dan dia sangat menghina orang atas pagar yang beria-ia menjadi ahli bersama sampai aku jadi customer service kena marah tiap-tiap hari — "saya nombor pendaftaran tak dapat lagi, saya belum diluluskan lagi kan." Jadi, tak tahu ada orang percaya ke yang pakai data ke bubble diorang saja?
 
@@ -336,7 +336,7 @@ Jadi bila saya jadi Menteri Ekonomi, tugas yang pertama ialah untuk membuat kemb
 
 **Rafizi:** — unintended consequences tu dah mula nampak.
 
-**Haziq:** Contohnya data center.
+**Rafizi:** Contohnya data center.
 
 **Rafizi:** Data center yang orang bising. Yang orang bising kerana data center ada di mana-mana. Dan dalam keadaan yang mana Johor ada kekurangan sumber, terutamanya air. Sama ada orang dah mula nampak bahawa there is the other side of the coin of JSSZ dan juga of economic growth. Pelaburan-pelaburan semua ni, kami tak dapat apa lagi buat masa sekarang ni kan. Tapi pada masa yang sama dia mula ada kesan-kesan lain — sumber air semua tu satu hal lah. Harga jadi tinggi kerana growth comes with inflation. Kan, stronger growth maksudnya stronger buying power. Stronger buying power akan menyebabkan harga naik. Cuma Johor ni unik lah. Kalau stronger buying power itu ialah orang dari luar yang datang ke Johor — baik orang Singapore, baik orang daripada Lembah Klang ataupun orang daripada China, orang-orang asing yang datang kerja — itu menyebabkan sewa naik, itu menyebabkan harga rumah jadi naik tinggi, kan. Jadi semua perkara-perkara ini buat masa sekarang ini, saya tak rasa ada sesiapa pun yang mengukur and can conclusively say is white or black. Tapi, soal naratif ekonomi ni yang memang menjadi keputusan ataupun faktor paling utama untuk mempengaruhi pengundi, sebenarnya is a double-edged sword kepada semua. Sama seperti kalau di peringkat persekutuan kan.
 
@@ -428,7 +428,7 @@ Jadi saya rasa bila kita mula umumkan calon-calon, saya harap pengundi semua, Me
 
 **Rafizi:** Ha, itulah, it's not a good start lah, kan. Tapi the last one week has been so bad. Dalam tempoh 3 hari, everyday aku tidur on average 2–3 jam je. Allah, sakit sangat. Okey, baik. Jadi tu jelah. Marilah kita — jumpa kepada pengundi di Pandan dan sekitar Ampang. Kita akan memulakan Kaunter Bersama Rakyat di Pasar Pagi Taman Muda Ampang esok, pukul 8.30 pagi saya ingat, saya ada sampai tengah hari. Kemudian saya akan bergegas ke Johor. Jadi jumpa kami di Johor di Danga Bay bermula pukul 8 malam untuk jelajah state tour, jelajah kancil. Dan selain saya dengan Nik, ada penampilan istimewa. Sudah tentu presiden Bersama akan ada, kan? Ya, presiden Bersama.
 
-**Haziq:** Presiden Bersama akan ada.
+**Rafizi:** Presiden Bersama akan ada.
 
 **Rafizi:** Dan juga kita ada 2–3 orang muka baru yang kita akan mula perkenalkan dari satu jelajah ke satu jelajah. Kalau orang ingat ini hanyalah Rafizi dengan Nik — setiap satu jelajah akan ada muka baru, muka baru. Dan jumpa kami di Melaka hari Ahad, sama juga 8 malam di Hotel Seri Malaysia.
 

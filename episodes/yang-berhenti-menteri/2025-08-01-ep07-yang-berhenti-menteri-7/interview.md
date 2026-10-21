@@ -77,7 +77,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Tak terfikir kan? Tadi baru terfikir, eh, kenapa pula YouTube aku ni tak boleh monetize?
 
-**Daniel:** Yang menonton dekat luar, lepas ni nak selit sikit iklan lah kan.
+**Rafizi:** Yang menonton dekat luar, lepas ni nak selit sikit iklan lah kan.
 
 **Rafizi:** Lepas ni yang mengenai Ayuh Malaysia — selain podcast ni, selepas ni setiap minggu kita akan ada kandungan berbentuk dokumentari, berbentuk kandungan live TV yang kita akan siarkan di YouTube saya dan juga YouTube Ayuh Malaysia. Jadi kena minta subscribe di kedua-duanya, dan kena minta tolong tonton. Kerana bila kita monetize, duit itu tak datang kepada saya — dia akan digunakan sebagai sebahagian daripada dana untuk kita bantu orang kat bawah yang cuba mengusahakan perusahaan sosial. Tadi dia cerita monetize ni, sebab aku tak fikir macam mana nak bayar.
 
@@ -85,7 +85,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Facebook tak, pun tak.
 
-**Daniel:** Facebook pun ada juga? Ada.
+**Rafizi:** Facebook pun ada juga? Ada.
 
 **Rafizi:** Double. Okey, ni duit banyak ni. Duit banyak ni, wang besar, wang besar. Nanti aku kena tengok balik semua ni.
 
@@ -99,7 +99,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Jangan tanya aku je, tanya Daniel lah. Boleh, tapi dia kena start dulu. Sebab minggu lepas macam minggu lepas Zaim datang — Zaim budak, dia nak bakar betul-betul, jadi dia lagi banyak soalan, aku pun bosan dengan aku bercakap. So hari ni Daniel datang jauh-jauh daripada Sarawak, sepatutnya kita sama-sama tanya dia.
 
-**Haziq:** Takut ni, tak ada, saya tak bawa apa-apa.
+**Daniel:** Takut ni, tak ada, saya tak bawa apa-apa.
 
 **Daniel:** Okey, sila. Kek lapis tak bawa, mesin tak bawa, tekan terubuk tak bawa kan?
 
@@ -145,7 +145,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Jadi suara progresif ini, ada PKR ke tak ada PKR ke, suara itu tetap ada. Daripada zaman 1950-an lagi, kumpulan progresif ini tetap ada. Tetapi untuk tempoh 20 tahun yang lepas, PKR lah yang menjadi wakil kepada suara progresif itu.
 
-**Daniel:** Kalau PKR dari segi orang kata substance-nya, dari segi perwatakan dan penampilan dan seluruh jati dirinya, dah telah jauh daripada progresif.
+**Rafizi:** Kalau PKR dari segi orang kata substance-nya, dari segi perwatakan dan penampilan dan seluruh jati dirinya, dah telah jauh daripada progresif.
 
 **Rafizi:** Maka pengundi yang progresif yang mengundi PKR ni lepas ini dia cari yang baru. Itu yang saya ingat orang-orang macam saya, Daniel, yang tua-tua ni, selalu bersyarah — kerana sekarang ini bolehlah kita kata marilah kita rally around Dato' Seri Anwar Ibrahim semua untuk dua tiga tahun lagi. Lepas itu, bila yang itu dah tak ada, Dato' Seri Anwar dah tak ada—
 
@@ -155,7 +155,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Haziq:** Baik. YB cakap soal politik pragmatik tadi. Maksudnya— eh, tak, itu bukan pragmatik. Politik pragmatik ni tebuk atap — ni kena pergi kelas engkau ni.
 
-**Rafizi:** Bukan, bukan tu maksud saya.
+**Haziq:** Bukan, bukan tu maksud saya.
 
 **Haziq:** Maksudnya ada orang yang bagi alasan — penyokong-penyokong amalan ini bagi alasan. Termasuklah yang saya nak kaitkan dengan soalan pertama tadi. Sebagai contohnya macam isu Farhash Wafa — yalah, mereka kata kena ada Farhash, sebab kalau tak ada, apa peranan saudara Farhash ni? Siapa yang nak menggantikan kroni-kroni Tun Mahathir? Dengan bangganya itulah alasan-alasan yang diberikan. Dan kedua, soal pembentukan kerajaan — saudara Rafizi sendiri yang menentang khemah besar, akhirnya selepas tergantungnya parlimen pun endorse kerajaan perpaduan. Jadi bagaimana tu? Saya tanya saudara. Ada dua soalan.
 
@@ -189,7 +189,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Daniel:** Facebook juga.
 
-**Haziq:** Saya terus lanjut dengan satu soalan ni, YB.
+**Daniel:** Saya terus lanjut dengan satu soalan ni, YB.
 
 **Daniel:** Soalan tetapi macam tak soalan juga. Dia macam ni — apa yang berlaku dengan YB hari ini, apabila Nurul Izzah dah jadi timbalan dan Dato' Seri Anwar Ibrahim tu, yalah semua dah tahu bapaknya kan, kita punya presiden. Jadi dalam isu ini, saya nampak satu dua perkara. Yang pertama, kita pergi ke pilihan raya, kalau isu ini berjaya, pembangkang boleh kenal pasti kelemahan kita. Saya tak nak ada satu rekod dalam sejarah politik Malaysia — seorang Perdana Menteri yang apabila dia bubarkan parlimen, sepatutnya apabila dia bertanding, dia tak kalah. Tiba-tiba, saya paling risau, Dato' Seri Anwar Ibrahim kalah dalam pilihan raya. Ini isu yang mungkin di luar kotak pada mereka, dan mungkin rakyat Malaysia. Jadi jangan sampai orang kata calon Perdana Menteri tu kalah — ini boleh jadi. Jangan, jangan, jangan PKR gelak saya ataupun parti gelak saya. Dan Izzah pun sendiri kalah lagi. Macam mana?
 
@@ -213,9 +213,9 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Daniel:** Okey. Bagaimana dengan partner YB tu, Datuk Seri Shamsul Iskandar?
 
-**Rafizi:** Saya yang atur.
+**Daniel:** Saya yang atur.
 
-**Daniel:** Saya yang atur juga.
+**Rafizi:** Saya yang atur juga.
 
 **Rafizi:** Ya, ya. Itu yang dia marah sangat kat saya. Sebab pada ketika itu dia kalah di Hang Tuah Jaya. Dan ketua cabang serta kesemua cabangnya memang sangat anti dia ketika itu. Kemudian dia juga ada rekod yang hampir menenggelamkan parti dalam pilihan raya negeri Melaka — kerana saya dimaklumkan, tenaga besar yang mengatur sehingga masa itu Datuk Seri Idris Harun lompat parti dan negeri itu dibubarkan. Saya dimaklumkan dia bercita-cita, dia ingat dia ada peluang untuk jadi Ketua Menteri Melaka. Sebab itu dia bertanding di Paya Rumput, sedangkan dia tak ada kena-mengena dengan Tangga Batu — PKR bertanding di Tangga Batu pada 2018, menang Tangga Batu. Dalam Tangga Batu tu ada 3 DUN — masa itu PKR dengan Bersatu menang. Paya Rumput, Bersatu bertanding dan menang — Rafiq menang. Satu lagi Klebang, PKR menang. Satu lagi Sungai Udang, saya ingat UMNO menang. Jadi dia tengok Paya Rumput dan Rafiq ada masalah dalam Bersatu, jadi dia engineer — saya dimaklumkan dia antara tenaga besar yang menyebabkan itu berlaku. Bila dia bertanding di Paya Rumput, dia kalah. Melaka tu lebih tak sampai setahun daripada PRN itu ke PRU 2022. Jadi masa menetapkan calon, saya beritahu rekod dia di Melaka ni tak baik, tak bagus. Kalau dia bertanding lagi di Hang Tuah Jaya, dalam keadaan cabang memang menolak dia, kemudian luka daripada PRN yang dia ada tangan besar di situ sehingga kosong kerusi PKR — orang masih ingat dia. Jadi lebih baik untuk dia pergi bertanding dan jadi hero. Maksudnya kalau untuk membina balik kerjaya, you pergi lawan yang besar — Bagan Datuk lah. Kalau kalah pun ada alasan.
 
@@ -281,7 +281,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Daniel:** Ya, sampaikan YB — orang suruh YB buka parti kan? Nampak tak, itu sudah tahap yang nampak tak, orang nak—
 
-**Rafizi:** Okey, teruskan, teruskan.
+**Haziq:** Okey, teruskan, teruskan.
 
 **Daniel:** —nakkan satu perubahan itu kan. Itulah, itu sajalah. Jadi nak sambung lain lagi, saya dah tak mahu masuk parti ni lah, saya nak sambung pergi isu Sarawak.
 
@@ -311,7 +311,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Cobbold kan? Reid untuk Suruhanjaya apa dia?
 
-**Daniel:** Aku saja nak test yang muda-muda.
+**Rafizi:** Aku saja nak test yang muda-muda.
 
 **Haziq:** Tanah, waktu Tanah Melayu tu satu, yang Perlembagaan Malaysia tu satu.
 
@@ -329,7 +329,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Oh, saya pergi dalam tahun 2011. Jalan Balak?
 
-**Daniel:** Oh, tak, tak.
+**Rafizi:** Oh, tak, tak.
 
 **Rafizi:** Jalan dah slightly better lah sebelum masuk ke Jalan Balak tu kan.
 
@@ -383,7 +383,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Ada 2 3 yang dah submit, peserta-peserta FELDA, FELCRA.
 
-**Daniel:** Sebab itulah dia kata, "tanah saya dalam rancangan FELCRA."
+**Rafizi:** Sebab itulah dia kata, "tanah saya dalam rancangan FELCRA."
 
 **Rafizi:** "Saya dapat 2 3000 setahun je. Kalau betul Ayuh Malaysia boleh buat ni, boleh tak saya keluar daripada rancangan tu dan join?"
 
@@ -391,9 +391,9 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Ya, sebab setakat ini, ini pengalaman pertanian moden lah — pengalaman yang kita buat melalui IPR Intan, sebenarnya memang boleh buat duit. Kalau yang dekat Putrajaya tu, setiap 3 bulan ada pendapatan tertinggi sampai 23,000, maksudnya dalam 7,000 lebih sebulan, tanam cili je. Yang paling rendah dalam 5,000. Okeylah, memang ada elemen rakan kongsi yang kena bagi modal semua tu — kalau di Sarawak contohnya, kalau pun tak 5,000 sebulan, dapat 2,000 sebulan pun sebenarnya, 1,000 pun.
 
-**Daniel:** 1,000 pun dah tinggi ya.
+**Rafizi:** 1,000 pun dah tinggi ya.
 
-**Rafizi:** Orang mahu, sebab kalau YB betul-betul bagi tanah tu—
+**Daniel:** Orang mahu, sebab kalau YB betul-betul bagi tanah tu—
 
 **Daniel:** Orang sana kalau YB cakap mulut saja pun, umpamanya diorang percaya.
 
@@ -405,13 +405,13 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Daniel:** Tak, tak.
 
-**Rafizi:** YB urus dulu, tak apa 2 3 bulan ke, 6 bulan pun tak apa.
+**Daniel:** YB urus dulu, tak apa 2 3 bulan ke, 6 bulan pun tak apa.
 
 **Daniel:** Lepas tu saya harap benda ni jadilah. Kita pun dah sampai ke penghujung ni, YB, dah sejam 50 minit kan. So satu soalan yang betul-betul panas, ini yang terakhir lah boleh eh, tak payah pun tak apa — memang bersangkut paut dengan YB, dan YB sendiri pun memang tak akan suka soalan ini, tetapi saya memang bagi juga. Sebab komen daripada mereka yang tak suka YB ni, dia kata YB seorang yang egois, sombong — semua benda ni, karakter ni sebenarnya ada pada saya, yang diorang cakap ni. Dia cakap tidak dengar cakap orang lain, dia hanya dia saja yang betul dan dia sahajalah yang tahu segala-galanya.
 
 **Rafizi:** Tak, yang itu satu. Saya rasa saya pernah jawab juga ni kan? Yang pertama masuk YBM. Ya, ni tapi tak apa, sebab dia berulang-ulang. Saya rasa kita kena pisahkan di antara orang kata ego itu secara watak peribadi dengan contohnya dalam kerja. Saya memang berada dalam kedudukan yang daripada awal perlu pikul sebahagian daripada beban pimpinan dan juga kena buat kerja. Katakanlah kita dalam satu kumpulan ni kan. Kalau semua benda tu memang jatuh kat aku, aku kena buat. Akulah yang kena fikir. Akulah yang kena turun kat bawah semua ni kan? Jadi bila kita bincang, kalau you have a better idea, by all means kau pergi buatlah. Masalahnya masa bincang tu, engkau tak ada idea, tak ada cakap, tak ada apa. Kau duduk kat belakang diam-diam kan? Jadi bila kita dah ke depan, ambil risiko, buat kerja semua dan kalau ada hasil, memanglah kalau kau datang menempel, kau kata, kau siapa? Dia tak adil kepada orang lain yang buat kerja. Yang menuduh saya egois dalam parti ni, geng-geng macam ni — yang geng sebenarnya tak buat kerja, yang tak pernah wujud, yang suka kipas ni kan. Yang dia kata saya ego tu, Daniel, sebab aku tak boleh dikipas. Satu, saya memang tak suka kipas, sebab bagi saya membodek ni dia akan mematikan organisasi. Sebab bila kita bodek, orang yang sepatutnya tak layak akan dapat tempat. Dan bila tak layak dapat tempat, akhirnya organisasi tu — tak kisahlah parti ke, syarikat ke, persatuan ke — dia akan diisi oleh orang-orang yang tidak berkemahiran dan tidak berkemampuan. Dah begitu, tak kualiti lagi, tak kualiti lagi. Dan yang lebih berbahaya, dia akan menolak orang-orang yang bagus daripada kita. Ha, sebab orang-orang yang bagus ni dia tak suka bodek tau.
 
-**Daniel:** Yang jenis nak buat kerja semua ni dia, dia kira bagi—
+**Rafizi:** Yang jenis nak buat kerja semua ni dia, dia kira bagi—
 
 **Rafizi:** —peluang dia untuk buat kerja, buat kerja. Kalau dia betul, jangan kacau dia. Kalau tak betul, tegur dia. Itu organisasi yang berdisiplin. Jadi yang kata ego semua ni sebenarnya sebab dia tak boleh bodek.
 
@@ -447,7 +447,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** InsyaAllah. So kita jumpa di Mas Gading.
 
-**Daniel:** Okey. Terima kasih banyak, saudara Daniel.
+**Haziq:** Okey. Terima kasih banyak, saudara Daniel.
 
 **Haziq:** Terbang jauh dari Mas Gading. Kita jumpa lagi.
 

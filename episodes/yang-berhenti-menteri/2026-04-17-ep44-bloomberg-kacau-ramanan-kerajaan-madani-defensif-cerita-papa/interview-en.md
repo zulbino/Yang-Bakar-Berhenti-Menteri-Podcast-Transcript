@@ -78,7 +78,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Malaysia can do it. Okay, okay, this is even more interesting than the python story that scared me. Dangerous — later he'll catch me and put a python next to me. It's already leaked. Okay, disappear, eh. Okay, next: Azam Baki's advice to the public.
 
-**Haziq:** This one went viral too, right? And I think there are only two things that went viral.
+**Rafizi:** This one went viral too, right? And I think there are only two things that went viral.
 
 **Rafizi:** One came out about the news, and also advice from Tan Sri Azam Baki. Financial advice: willing to be corrupt in order to maintain a luxurious lifestyle. Look who's talking. Then it came out that the MACC deployed a tactical squad to protect Azam Baki.
 
@@ -184,7 +184,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** This Bloomberg thing, I was also surprised by Bloomberg — they're really focused on this now, right? One after another, they keep coming out. So this is the latest news that came out yesterday, Thursday. Although actually this news existed earlier, in early April.
 
-**Farhan (Pa'an):** Ha, did he say it himself?
+**Haziq:** Ha, did he say it himself?
 
 **Rafizi:** Yes, that's right. It's just that now Bloomberg is taking a bit of action, because when they publish, they blow up the whole story. I wonder if Bloomberg's subscriptions have gone up or not recently? Let's send Bloomberg an email, I just want to find out. Bloomberg has actually been on this for 2-3 months. I remember Ramanan himself once announced — the government is developing a new system that doesn't involve agents like that. Then the reaction from the foreign worker agents was a bit noisy. Then last month I remember MalaysiaKini exposed something about this system — the system that caused MalaysiaKini to be raided and investigated, and now there's a case against MalaysiaKini. So maybe Haziq can explain a bit what it is — because I need to drink some water.
 
@@ -198,7 +198,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Haziq:** Okay. Simply put, it's a new system, with the stated reason being to kill off agents. With this, if we listen, Aminul Islam himself said this is good — this will reduce, first, middlemen; second, cost. That cost will go down. But what has been raised, or people's concern, is whether by doing this we're actually creating a monopoly? Wanting to give the monopoly entirely to Aminul Islam.
 
-**Rafizi:** Ha, of course it would be Aminul Islam.
+**Haziq:** Ha, of course it would be Aminul Islam.
 
 **Haziq:** So I think that's the summary, and he just got a bit fired up at the end, YB — Aminul Islam wants to secure a Nobel Peace Prize for Dato' Seri Anwar Ibrahim.
 
@@ -256,7 +256,7 @@ And this is where the accusations come in — I still have a case where I'm bein
 
 **Haziq:** If we can move straight to politics, YB. I have a question.
 
-**Rafizi:** Go ahead, ask.
+**Haziq:** Go ahead, ask.
 
 **Farhan (Pa'an):** Is this problem specific to Bangladeshi workers or?
 
@@ -366,7 +366,7 @@ So Churchill had said it all along. Neville Chamberlain came back showing off, "
 
 So from a Britain that was almost certain to lose the war, whose troops were trapped at Dunkirk needing full evacuation, to the point of having to beg, plead with Roosevelt of the US to enter the war — throughout that year, they wouldn't have been a Great Britain today if not for Churchill. So, Churchill is one good example of performative and substantive leadership. Okay, alright, let's return to the world. Okay.
 
-**Haziq:** It's been 2 hours.
+**Rafizi:** It's been 2 hours.
 
 **Rafizi:** Let's return to the world, back to Malaysia. Our problem is that our society, especially now on social media, really loves the performative — making content. If you give a donation, if possible everyone has to take a photo, you know? Someone complained to me, saying, "YB, YB just does politics, why doesn't YB go help people, give lots of donations like other ministers, other politicians?" If I were the type who doesn't help people, I wouldn't have won with 48,000 votes in Pandan, right? Meaning, that kind of thing does happen, but my view is I don't like such things being turned into political material. I think if I visit someone who's struggling, and we go take photos of them, spread it everywhere — that's enough already for them. If you want to help, help — that's genuinely a Member of Parliament's responsibility. Whoever can help, help. Same when we build infrastructure facilities — no need to go take an official photo pretending "look how much I've done," because that's simply our responsibility. What should be a better yardstick is how we intend to fix conditions and major national problems through ideas. If it's just about seeking the performative, that's easy.
 
@@ -408,7 +408,7 @@ And to make sure TNB can do that, we also need a Battery Energy Storage System, 
 
 Because before NETA, it was a chicken-and-egg situation — no point building solar if we can't even use it, capacity doesn't match, there's no [storage for the] energy. Ask TNB, TNB says who's going to pay for all this, to build all this battery storage? That's why the Energy Commission said, we can't have too much [solar], only this much is allowed, because if there's too much it'll blow up our system. That's why there was a solar quota.
 
-**Haziq:** That's why there was a solar quota before this.
+**Rafizi:** That's why there was a solar quota before this.
 
 **Rafizi:** The solar quota was because if everyone did solar, and it all went into the grid, the grid would blow up. It needs battery storage so that any excess you store first, and then you dispatch. But who's going to pay for that battery storage? You know, in the years before NETA, everyone kept talking about solar, solar — they didn't understand, you need to invest in the grid. Then you can't expect TNB to just blindly pay when it has no money. And because of that, the tariff system also needed to be changed.
 

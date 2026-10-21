@@ -108,7 +108,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Chak Onn Lau:** Syaitan separuh masak.
 
-**Rafizi:** Belum masak penuh lagi.
+**Chak Onn Lau:** Belum masak penuh lagi.
 
 **Chak Onn Lau:** Okay, so kita ada tanya kita punya fanbase tentang apa yang nak tanya, you know, YB. Tapi sebelum tu, kita ada.
 
@@ -132,7 +132,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** I can.
 
-**Iqbal:** Boleh kami dapat komen daripada YB?
+**Rafizi:** Boleh kami dapat komen daripada YB?
 
 **Rafizi:** I can sue him in court for that, that's defamation. No, I think.
 
@@ -192,7 +192,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Tak, itu yang elitis tu. Dia pergi sekolah.
 
-**Chak Onn Lau:** Oh MCKK, oh okey okey.
+**Iqbal:** Oh MCKK, oh okey okey.
 
 **Rafizi:** Dia pergi sekolah-sekolah tertentu sahajalah kan.
 
@@ -214,7 +214,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Menara ah, kat situ kan?
 
-**Iqbal:** Masa ni KLCC tak ada lagi ke?
+**Chak Onn Lau:** Masa ni KLCC tak ada lagi ke?
 
 **Rafizi:** Tak ada! I am that old, you know. Zaman aku tak ada. Zaman kita orang tak ada KLCC tau. So, apa nama ni, so jumpalah dia punya head of geology ni kan. So saya tanyalah, sebenarnya geology ni belajar apa? Kan? You budak Form 5, budak kampung, bukan tahu apa-apa pun kan. Dia beritahulah, first year kena hafal 100 batu. Okey. Second year, hafal lagi 100 batu! And he sounds so fascinated with all these batu-batu semua kan.
 
@@ -222,7 +222,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** So balik tu, I said, "I'm not going to be geologist lah kan."
 
-**Chak Onn Lau:** "I'm going to be PM."
+**Rafizi:** "I'm going to be PM."
 
 **Rafizi:** That was not in the planning then. So the second scholarship yang selain Exxon lagi kiasulah, dia bagi sebelum you sit for SPM. Petronas kiasu nombor dua sikit. Dia bagi scholarship sebelum keluar result SPM. So right after I sat for my SPM, go to Petronas and then quite straightforward lah, saya dah dapat scholarship.
 
@@ -252,13 +252,13 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Tak tak, dia Clifford yang kat depan tu.
 
-**Iqbal:** Ada rivalry ke MCKK dengan Clifford?
+**Rafizi:** Ada rivalry ke MCKK dengan Clifford?
 
 **Chak Onn Lau:** Yang tak ada biasiswa dengan ada biasiswa.
 
 **Rafizi:** So, I don't know lah. Orang selalu tanya nama dialah. Saya tak tahu, but I was told that yalah family, I think lah the father was a Filipino. I was told, I was told lah kan. So kalau you nak tanya latar belakang kan, aku cerita semualah kan. So I think first appearance lah dalam parti yang kami notice sometime in 2005, 2006 masa tu dia mungkinlah baru habis belajar. I think dia graduated daripada Portsmouth University, balik sebab dia terlibat dalam Anwar Ibrahim Club ni. Bila Anwar Ibrahim dibebaskan penjara, 2004, he took hiatus sekejap, kemudian yalah ada.
 
-**Chak Onn Lau:** Were you in the same club also?
+**Rafizi:** Were you in the same club also?
 
 **Rafizi:** No no no no, I was off politics. No, because we come from different generation. Kan, saya masuk PKR 99, since 98 kan. So bila Anwar dibebaskan 2004, I said bye-bye because I wanted to move on with my life sebab kebanyakan juga kami yang masa 2000, masa 98, 99 tu, memang tak berminat dengan politik because a lot of people yang masuk PKR awal-awal dulu adalah profesional. So kita lead a double life ni tau. You nak juggle between your professional career, your life dengan activism kan?
 
@@ -388,7 +388,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Iqbal:** Dari segi teoritikalnya ya.
 
-**Chak Onn Lau:** Dari segi teoritikal yang yang tak masuk the ruang arena politik ni lah.
+**Iqbal:** Dari segi teoritikal yang yang tak masuk the ruang arena politik ni lah.
 
 **Rafizi:** Okay, but kalau tengok, we have tried our best to make sure that the arrangement itu is sealed by an agreement — there is an agreement, there is a clear, apa nama ni, charter of what you can do, what you cannot do, these are common principles and so on. Jadi given the circumstances lah, I think it is the lesser of the two evils that we have to live with. The issue I think is not so much about forming the government. The issue is that after you form the government, macam mana you act, because benda tu fluid tau. Bila dia fluid tu, jadi orang jadi reform — the pace of reform, benda tu subjektif. Sampai bila kita nak kata, "Oh kita kerajaan perpaduan and therefore tak boleh buat 1, 2, 3, 4," kan? At some point I think you must draw the line.
 
@@ -558,7 +558,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Yalah, dia yang ini unless satu masa nanti kita betul-betul berjaya pisahkan pendakwaan daripada.
 
-**Iqbal:** Itu juga satu poin yang kita nak tanya lagi pasal benda ni.
+**Rafizi:** Itu juga satu poin yang kita nak tanya lagi pasal benda ni.
 
 **Chak Onn Lau:** Reform lah.
 
@@ -566,7 +566,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Iqbal:** Okey, saya nak masuk soalan ni lagi lepas ni, tapi sebelum tu, next point kita nak tanya pasal soalan-soalan kau orang ada?
 
-**Chak Onn Lau:** Banyak, banyak, YB. Masa kita put out the call out for questions, memang banyak soalan. Paling banyak.
+**Iqbal:** Banyak, banyak, YB. Masa kita put out the call out for questions, memang banyak soalan. Paling banyak.
 
 **Iqbal:** So ni berkaitan dengan kes yang baru selesai dua hari lepas, Heidy Quah hari tu. Dia, kalau tak silap saya, cuba ambil isu dengan Akta 233, perkataan "offensive and annoy" dalam MCMC Act. Tak silap saya, YB pun pernah kena bawah Seksyen MCMC? Tak ke? Tak pernah?
 
@@ -580,7 +580,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Iqbal:** Do you want to ask.
 
-**Chak Onn Lau:** It's not black and white lah, it's not black and white.
+**Rafizi:** It's not black and white lah, it's not black and white.
 
 **Iqbal:** Tak, tanya Dr. Jason punya soalan.
 
@@ -654,7 +654,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** No no, I think it's good what is happening sekarang. Maksudnya kerajaan ni dia nak kena imbangkan tuntutan semua pihak. Dalam masyarakat ada macam-macam kumpulan kan. Kamu ni Bangsar, contohnya kan. Bangsar satu grup, Klang satu grup semua kan. Of course kerajaan boleh kata, "Oh kita nak kena imbangkan dan kita nak beri keutamaan kepada perkara-perkara lain. Jadi kita buat yang ini dulu sebelum yang itu," semua kan. Tapi.
 
-**Iqbal:** Jadi apa fokus kerajaan sekarang?
+**Rafizi:** Jadi apa fokus kerajaan sekarang?
 
 **Rafizi:** Di pihak rakyat, setiap kumpulan itu berhak untuk menuntut apa yang penting untuk dia. Dan yang mana yang hendak diutamakan, dicepatkan itu — kalau tinggalkan kepada orang politik semata-mata, maka akan ada yang tercecirlah. Jadi keadaan yang sekarang ini, saya rasa memanglah akan ada bising sana, bising sini, orang tak puas hati semua kan. Dan itu adalah ujian dan cabaran kepada kerajaan yang menang atas tiket reform. You kena imbangkan. Dan kalau saya jadi rakyat atau kumpulan pun, saya akan rasa macam ini — suruh bayar. Because bila dah menang, saya punya isu ni paling bawah sekali. I want isu I ini dinaikkan ke atas kan. So I think the pressure dan juga the discourse must continue.
 
@@ -664,7 +664,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Iqbal:** Next question.
 
-**Chak Onn Lau:** Oh next ah, sorry.
+**Iqbal:** Oh next ah, sorry.
 
 **Iqbal:** If we go into the policy questions, setakat ni bila kita bincang pasal polisi-polisi yang akan, ataupun sedang, ataupun telah dilaksanakan, adakah pace kerja kerajaan selama ni okey?
 
@@ -760,7 +760,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Iqbal:** Maybe then we wrap up to the last question, cybertroopers. Satu soalan pasal cybertroopers. So maybe the last last wrapping up.
 
-**Chak Onn Lau:** Next one, next one, next one. Quite far, quite far.
+**Iqbal:** Next one, next one, next one. Quite far, quite far.
 
 **Rafizi:** Lama mana kau orang buat kompaun soalan ni?
 

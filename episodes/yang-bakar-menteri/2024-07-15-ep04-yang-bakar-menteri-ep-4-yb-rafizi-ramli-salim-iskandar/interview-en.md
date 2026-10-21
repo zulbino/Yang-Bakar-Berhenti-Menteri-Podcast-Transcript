@@ -67,11 +67,11 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Salim Iskandar:** Yeah, okay. Later they're definitely going to say I've been bought off by Salim. Sorry, sorry, sorry. YB, actually I want to ask, YB, you're my boss. Don't be like that. Patience, patience. Some people are accusing me of being part of Rafizi's cartel. So I've prepared these invoices here that I want to claim.
 
-**Rafizi:** You can try, but I'm not paying. I have to make a claim myself. How is it that people call me a Rafizi cartel? I think some people have heard of that, right? Why is that?
+**Salim Iskandar:** You can try, but I'm not paying. I have to make a claim myself. How is it that people call me a Rafizi cartel? I think some people have heard of that, right? Why is that?
 
 **Salim Iskandar:** Why? I don't know. I know that I've already apologized, right? That's also one of the reasons they brought it up, right? Exactly, you know.
 
-**Haziq:** But I want to tell him.
+**Salim Iskandar:** But I want to tell him.
 
 **Salim Iskandar:** YB has blocked me on Twitter, on X. I have zero access to the YB. So how could I be a cartel member, how could I be the YB's cartel? How come?
 
@@ -121,7 +121,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** You are completely out of a job after this. Salim went straight for it. Sorry.
 
-**Haziq:** Go ahead, go ahead.
+**Rafizi:** Go ahead, go ahead.
 
 **Rafizi:** No, it's okay. You can ask, you can ask.
 
@@ -141,7 +141,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** It could be. It could be, unless you go and really collect more data and study it again.
 
-**Salim Iskandar:** The last state election had a 1,005 majority. Recently, it was 4,267. So even though the turnout, the voter turnout is like 62%, right? Because as you said, the Chinese and Indian—
+**Rafizi:** The last state election had a 1,005 majority. Recently, it was 4,267. So even though the turnout, the voter turnout is like 62%, right? Because as you said, the Chinese and Indian—
 
 **Rafizi:** It's about 65. 65.
 
@@ -163,7 +163,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Salim Iskandar:** But still, even though we talk about data and all that, the actual fact is—I'm so sorry to say this because this is also what roasts the minister, right?
 
-**Rafizi:** So I came here to get roasted too. But getting roasted has to be based on facts and evidence, Salim.
+**Salim Iskandar:** So I came here to get roasted too. But getting roasted has to be based on facts and evidence, Salim.
 
 **Salim Iskandar:** You can't just talk like a coffeeshop uncle spinning round and round and round, right? The problem is now, what we are facing today is the people's rejection. It's like, if we look at media sources and all that—not TikTok. TikTok is already controlled by Fahmi. Oops, Fahmi, don't be angry. Okay. So what happens is in other places we see the people's anxiety. The people's dissatisfaction with the government today. I'm sorry, sir. Because I cannot blame you because you are just a minister. Okay, the fact is a fact. You guys listen, you guys listen.
 
@@ -193,7 +193,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** I have no problem if people ask. But what I would point out is don't take it piecemeal. So for example, if PN before this had a record like this, right? Even cooking oil they couldn't resolve first. Eggs they couldn't resolve either. They were aware of all the problems. Is there still a cooking oil problem now, Salleh?
 
-**Salim Iskandar:** Yes. Still we got problem.
+**Rafizi:** Yes. Still we got problem.
 
 **Rafizi:** How does the price compare now to before?
 
@@ -235,15 +235,15 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Salim Iskandar:** People I don't know, I just greet them.
 
-**Rafizi:** Okay, that's me.
+**Salim Iskandar:** Okay, that's me.
 
 **Salim Iskandar:** So people see me as fierce, that one curses people.
 
-**Rafizi:** Not fierce, what kind of cute is that tonight?
+**Salim Iskandar:** Not fierce, what kind of cute is that tonight?
 
 **Salim Iskandar:** Cute yes. Right?
 
-**Rafizi:** Especially when he puts the glasses up.
+**Salim Iskandar:** Especially when he puts the glasses up.
 
 **Salim Iskandar:** These glasses are because I can't see. Okay, so basically that's the problem we're facing. The government needs to listen. I know you know you can talk about whatever data, but the government needs to hear that right now, we are really struggling. I know the government knows this too, but the people are struggling now. So when subsidies are withdrawn at this time, patience and retargeting. Retargeting, not withdrawal. An example I'll give, I have a friend. My friend, what's his name, drives a diesel truck. So now he usually fills up once a week, he fills up once a week so he can travel around. And a month he fills up four times. Each fill used to be around 150, 150, 160—that's the range for a Mitsubishi Triton. So four fill-ups is about 600. Now with the new oil price, when he fills up it becomes 200 and a half. Sometimes it goes to 26 like that. A month has become 1020, we take 1000 at average. With the retargeted subsidy we get 200 ringgit. That means he's out 800 ringgit. That was, he paid 600, now he pays 800. That means still an increase. Sorry YB, maybe I am not intelligent as you are sir. I am a very strict person. But then again, when you see at that, we already have some increment there. There's extra cost that we have to pay. These are the things that we are facing.
 
@@ -257,15 +257,15 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** So I think in that sense, I think we have to give the credit where it is due.
 
-**Salim Iskandar:** That's why, for example, when it comes to eradicating extreme poverty, right?
+**Rafizi:** That's why, for example, when it comes to eradicating extreme poverty, right?
 
 **Rafizi:** When the PM said that extreme poverty has been eradicated, because we go through each one in the records and those still in the records are said to be extremely poor, but when we check whether they have actually moved above the poverty line we have to use one standard.
 
-**Salim Iskandar:** Because everyone will say I'm struggling, you know, it's quite relative.
+**Rafizi:** Because everyone will say I'm struggling, you know, it's quite relative.
 
 **Rafizi:** So the standard is the standard used throughout the world and before this the government also used the same standard. Meaning that if household income is below 2000, you are extremely poor. So we have gone through each state. Those above we removed. Those really below we added money so they could benefit. So in that sense.
 
-**Salim Iskandar:** More money from which aspect of STR?
+**Rafizi:** More money from which aspect of STR?
 
 **Rafizi:** From STR, from ICU, if we were to raise it beyond RM2000 per month. So that does happen. That's why I say we need to look at group by group relatively. So we should focus on that first. Then the diesel situation is the same. I understand that some people use fuel less because their economic activity or their travel might be less. Some people use less. So when we make policy, we want to set how much we want to give, that's why we need to take average data for the country. And according to the data, diesel fuel usage of 200 is the average rate used by regular families. So it's true there will be some who use less, they're a bit higher. But there are also other people who for example don't use that much, they get 200.
 
@@ -301,7 +301,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** That's why, if we redirect the subsidies, one thing is it will allow those who are struggling to get additional money.
 
-**Salim Iskandar:** This additional money I've been hearing from earlier when YB was saying you would redirect the subsidy over there and all. Okay, so I represent 4, 5 people let's say. So we just take it as that. I represent just 4, 5 people. In my group there are 7000 people. I'm being frank about this.
+**Rafizi:** This additional money I've been hearing from earlier when YB was saying you would redirect the subsidy over there and all. Okay, so I represent 4, 5 people let's say. So we just take it as that. I represent just 4, 5 people. In my group there are 7000 people. I'm being frank about this.
 
 **Rafizi:** And— But that group has sampling bias, Salim. Sampling bias. Which means they all think alike like you.
 
@@ -321,7 +321,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** No, that is audited data. The same data provided by the same group of government officials from the time of Dato' Sri Najib until now. What is the rate of STR paid now?
 
-**Salim Iskandar:** Higher than before. How much?
+**Rafizi:** Higher than before. How much?
 
 **Rafizi:** It, if 1 year it has categories.
 
@@ -333,7 +333,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** How many times now? How many times now? 4. 4.
 
-**Haziq:** 4 times it was distributed.
+**Salim Iskandar:** 4 times it was distributed.
 
 **Rafizi:** How is that? Ha, please Google STR how much now. It's actually more now. Only I'm not saying all of this is okay, Salim, because we know that prices are indeed higher now compared to before. We also know that especially the last 3 4 years, during Covid times, the inflation increase we inherited was higher in years 21, 22 towards 23. So when prices go up, they stay there. So I'm not saying that actually everything is okay.
 
@@ -351,7 +351,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Salim Iskandar:** Okay. Unless there's a car. I want to ask.
 
-**Rafizi:** Haven't found Google STR yet. Never mind. That's the problem. If you can't find it even on Google, never mind.
+**Salim Iskandar:** Haven't found Google STR yet. Never mind. That's the problem. If you can't find it even on Google, never mind.
 
 **Salim Iskandar:** It's okay. Times.
 
@@ -369,7 +369,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** No, no, no. The pilot project is happening now.
 
-**Salim Iskandar:** Is happening. Okay. So the pilot project.
+**Rafizi:** Is happening. Okay. So the pilot project.
 
 **Rafizi:** How long will we see? The pilot project will be completed September 2024. And based on the findings from that pilot project, that gives enough evidence for us to design to scale up to more people. Starting 20-25 and above. Okay. But let me ask this question. With all that we've been talking about here right, has PN ever talked about wanting to raise people's salaries? If I ask, let's say I sit there, Muhyiddin Yassin sits here.
 
@@ -383,13 +383,13 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Salim Iskandar:** But we want to see the result, okay. We don't want to blame say everything what all of this. Just Anwar this, I'm sorry YBM. Dato' Seri Anwar don't be angry Ah, okay. You see how he is.
 
-**Rafizi:** He's cute doing like this.
+**Salim Iskandar:** He's cute doing like this.
 
 **Salim Iskandar:** Ha, you, you talk less, work more, boss. Nah, talk less work more because why? Sometimes when we talk like this, we talk, talk, I repeat, I repeat. YB is angry he says I'm silly. This silly is for you this right. So you know, I mean, I mean, I mean, you know, this this kind of thing will happen. So you know, we've seen a lot already and talking about investors and everything. So YB, I don't blame you, YB. Like I said just now.
 
 **Rafizi:** No, it's okay to blame me. I sign up for the job.
 
-**Haziq:** Of course. But then again, we want to see the leader.
+**Salim Iskandar:** Of course. But then again, we want to see the leader.
 
 **Salim Iskandar:** So that's why I'm saying, sorry yeah. As for me, if we want to go into all the details, YB already understands. YB is planning something. So we will see. If not, later we'll come and shut it down again, right YB? You bring, you bring the real chili. Really play with chili later. Neat. Can. Because right now, even if we talk a lot, it's because YB is in the plan doing that. There is a plan for when it will be pulled.
 
@@ -421,7 +421,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Salim Iskandar:** 20 months already. More than a year. More than a year. 20 months already. Now we pull it back to go—I'm eating *ulam*. Today I go up, tomorrow the corpse comes down. After that, our country is a rich country. Supposedly electricity, water, what's it called, all these shouldn't be that expensive.
 
-**Haziq:** We—I'm not saying this, YB.
+**Salim Iskandar:** We—I'm not saying this, YB.
 
 **Salim Iskandar:** I'm saying someone else is. I don't want to mention names or I'll get arrested. So when they say you over-promised, you said we would abolish PTPTN.
 
@@ -459,7 +459,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Ah, I want to answer what I'm repeating, right? Okay, let me repeat. Back then we said if oil is 50 dollars per ton, can we give a little now?
 
-**Salim Iskandar:** Surely they can't lower it a little because the subsidy itself in 2015 was roughly 1 billion.
+**Rafizi:** Surely they can't lower it a little because the subsidy itself in 2015 was roughly 1 billion.
 
 **Rafizi:** 2017 was roughly 5 billion. 2018 was roughly 5, 6 billion, right? Then by 2019, 2020 it was just 500 million, Salim. So back then we said surely you can't take 2, 3 billion to lower prices by 20, 30 cents. Because the price was low. But the problem is by 2022, it had gone up by end of 2022. It had reached 110 dollars per ton. When it became 110 dollars per ton, the subsidy which was from Muhyiddin's time, what should have been 500 million in oil price reductions became 55 billion.
 
@@ -505,7 +505,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Salim Iskandar:** I just turned 51 three days ago.
 
-**Rafizi:** 51. So that's young.
+**Salim Iskandar:** 51. So that's young.
 
 **Salim Iskandar:** So you're young? I'm old. You see, so even I who is 51, I wanted to see someone young.
 
@@ -515,7 +515,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** 76, I'm 77. 77 ah, okay. So what do you call it, what is needed now, and okay, you may disagree, but this is how I see it within PKR for example, right? Me and Dato' Seri Anwar, we work well together because I have my advantages in that I'm a technocrat. So, you know, usually with data like this, I understand the market better, right? But there are things I can't do when it comes to leading a country or society. Because I haven't accumulated enough experience yet. For example, to unite everyone—that is something an older person can do better because that is the best, that is the biggest challenge. So that's why this combination now I think is effective for the country.
 
-**Salim Iskandar:** No. You have people like Dato' Seri Anwar Ibrahim, no sir, that can bring everyone to the table. No sir.
+**Rafizi:** No. You have people like Dato' Seri Anwar Ibrahim, no sir, that can bring everyone to the table. No sir.
 
 **Rafizi:** And give space for us young technocrats to focus on technical-related work. Because not everyone can do what he is doing, bringing the whole fragmented society together.
 
@@ -537,7 +537,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Salim Iskandar:** Example, example, example, example, right. Then suddenly tomorrow Dato' Seri Anwar Ibrahim arrives in style, right. Who do you want to take this?
 
-**Rafizi:** Let the price drop by 3 cents, he says. I said, Oh Allah, my Lord, that is not your job, Mr.
+**Salim Iskandar:** Let the price drop by 3 cents, he says. I said, Oh Allah, my Lord, that is not your job, Mr.
 
 **Salim Iskandar:** Prime Minister. I'm so sorry, sir. I mean you're so big, I'm so small, even though my body is bigger, but then again, you know, sir, that's not the way to do it. Okay, because you want to show that if you want to do something, okay, don't just declare it like that. Just let Mat Sabu say it. Mat Sabu says tomorrow, eggs, eggs by 3 cents, guys. Ready?
 
@@ -571,7 +571,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** And not just UMNO, all parties, we need everyone around the table.
 
-**Salim Iskandar:** Let's fix the country for these 3, 4 years.
+**Rafizi:** Let's fix the country for these 3, 4 years.
 
 **Rafizi:** After this, whoever wants to take over can do whatever they like.
 
@@ -589,9 +589,9 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Salim Iskandar:** Which year was this?
 
-**Rafizi:** His name is Tian Chua. History. Okay, never mind. Now, right now we have to accept the reality. He didn't lie down, right? He sat down, right?
+**Salim Iskandar:** His name is Tian Chua. History. Okay, never mind. Now, right now we have to accept the reality. He didn't lie down, right? He sat down, right?
 
-**Salim Iskandar:** He lay down. He sat down, he sat down. He sat down. It would be too tiring to lie down for real. Back then they snapped a picture right when he lay down. Okay, that's history. But we also have to accept the reality that the Malays, today.
+**Rafizi:** He lay down. He sat down, he sat down. He sat down. It would be too tiring to lie down for real. Back then they snapped a picture right when he lay down. Okay, that's history. But we also have to accept the reality that the Malays, today.
 
 **Rafizi:** But look. Before that, right, he said that older people like Anwar should resign and all. Why didn't you say the same thing about Mahathir?
 
@@ -611,13 +611,13 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** You are a strong supporter of Mahathir. You have to apply the same thing to Tun Mahathir.
 
-**Salim Iskandar:** Correct. No, it's like this. Listen, We can ask Tun Mahathir to retire. Even if Tun Mahathir retires. I mean, he's not going for any PM.
+**Rafizi:** Correct. No, it's like this. Listen, We can ask Tun Mahathir to retire. Even if Tun Mahathir retires. I mean, he's not going for any PM.
 
 **Rafizi:** Yeah, but he contested, you know, in—
 
 **Salim Iskandar:** The last GE and lost his deposit. Let's say, let's say Tun M wants to contest, right. Let's say, for example, there is one seat or something. Or he can do like how he just came out of prison, got a pardon. Then he should stop. He also stops. The person goes and contests and becomes a Member of Parliament. This is history happening, Okay. So if we look at it, if we want to compare, Mahathir is not crazy like that. Mahathir, whom we call the Supreme Pharaoh, stepped down twice. Twice. 2003 and 2020. Yes, 2020 he stepped down. Twice, a dictator who was called the Supreme Pharaoh and all that, he stepped down twice. So, if we say he is power-crazy, look, at how someone wanting to defend—this it must be fair—wanting to defend his position as Prime Minister, he was forced to close parliament. Right? He closed parliament, he extended it, made an emergency and all that to defend his Prime Minister's seat. I mean, I must be fair to everyone, you see? Because we've seen this. Okay? So he did that. So, but when it comes to Mahathir, this is the beauty about him. No matter what we hate him, we love him, but when it comes to his position, he says when he no longer has support, I step down.
 
-**Rafizi:** I actually have a different view because I think what happened is much more complicated than what Salim says. But because he is Salim's idol, I can't be bothered to argue.
+**Salim Iskandar:** I actually have a different view because I think what happened is much more complicated than what Salim says. But because he is Salim's idol, I can't be bothered to argue.
 
 **Salim Iskandar:** Okay, fair. No, right now we are talking about Anwar, about how the Malay community, their stigma. Anwar Ibrahim was proven in court what the impact—
 
@@ -647,11 +647,11 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Meaning giving everything, right. But actually, those who will inherit these debts are the Malay children later on. Because 20 years from now, 30 years from now, the Malay population size will be higher—
 
-**Salim Iskandar:** Of course, compared to the Chinese and Indians, which are decreasing. We are very productive.
+**Rafizi:** Of course, compared to the Chinese and Indians, which are decreasing. We are very productive.
 
 **Rafizi:** That's right, kan. So in the end, we can solve—for example, people say people are given a placebo, just given Panadol. But then later on they get cancer afterwards, kan.
 
-**Salim Iskandar:** That's one.
+**Rafizi:** That's one.
 
 **Rafizi:** Secondly, we must take note that the only way forward is that we need every group in our country. And the Malays must cooperate with the Chinese, with the Indians, and vice versa.
 
@@ -659,7 +659,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** It's Vietnam, India, from the Indian subcontinent and all that. If the country continues to fail to bounce back economically, in the end, the Malays are the ones who will have to bear it. If anything, that is the difference between the current government and the path taken by the opposition. The opposition gives Panadol, sweets to the Malays under the excuse of "give us an all-Malay government." All of us Malays, we control everything, all problems are solved. You and I know that's not the case. Kan. So, you know, and I think because of that, yes, I take responsibility if people are angry, cursing about the economy.
 
-**Salim Iskandar:** Can I say something? I'll just add a little bit to the YB's point.
+**Rafizi:** Can I say something? I'll just add a little bit to the YB's point.
 
 **Rafizi:** You already said thank you just now.
 
@@ -669,7 +669,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Salim Iskandar:** They are angry, they say never mind. As KJ says, he says previously you guys also said the price of oil was going up and all that, fuel subsidies were going to be reduced and all that. Now when you get spat on in the face, just wipe it off. Done. Yeah. It's like this.
 
-**Rafizi:** If it's a matter that is not—meaning it's a view that does not distort the situation or the facts, I don't mind, you know.
+**Salim Iskandar:** If it's a matter that is not—meaning it's a view that does not distort the situation or the facts, I don't mind, you know.
 
 **Salim Iskandar:** Just accept it.
 
@@ -683,7 +683,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** So for example, kan, but if the matter does not reflect the actual facts. For example, if they say BRIM right now is less than before.
 
-**Salim Iskandar:** True. That's unfair.
+**Rafizi:** True. That's unfair.
 
 **Rafizi:** Previously, BRIM was once. BRIM was once [a year], now it's 4 times the amount. So this thing is not true. So the things that are not true, I answer. If I've given the facts 4, 5, 6 times, and they still play dumb, then if I call them a fool, don't get angry. The thing is already there, right. So I think it also depends on the comments. That's why I don't have any problem with whoever wants to come. But we must hold to the fact that facts are facts. The rest, for example, opinions. Do we need young, old? That's an opinion.
 
@@ -697,7 +697,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Salim Iskandar:** PADU became Budi.
 
-**Rafizi:** Yes. Just keep it simple.
+**Salim Iskandar:** Yes. Just keep it simple.
 
 **Salim Iskandar:** PADU changed to Budi. I even made a song, Budiku tabur paduku.
 
@@ -715,11 +715,11 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Yeah. Why? Okay, okay. Wow, look at this. If you don't know, you don't love.
 
-**Haziq:** Don't love, yes, that's right.
+**Salim Iskandar:** Don't love, yes, that's right.
 
-**Salim Iskandar:** I've unblocked. Unblock. Wow. And then I'll follow too.
+**Rafizi:** I've unblocked. Unblock. Wow. And then I'll follow too.
 
-**Haziq:** Follow. Steady.
+**Salim Iskandar:** Follow. Steady.
 
 **Salim Iskandar:** Look, Rafizi Ramli is following you.
 
@@ -753,15 +753,15 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Salim Iskandar:** Take care of our country.
 
-**Rafizi:** God willing. Don't change the government.
+**Haziq:** God willing. Don't change the government.
 
 **Salim Iskandar:** That's changing the government, need to ask Muhyiddin.
 
-**Haziq:** Muhyiddin. But as long as there's Muhyiddin, it won't change, right?
+**Salim Iskandar:** Muhyiddin. But as long as there's Muhyiddin, it won't change, right?
 
 **Salim Iskandar:** Don't worry. Because Muhyiddin and Anwar have taken hold. Oh, so damn son.
 
-**Haziq:** Okay, please. Okay. I've never, I've never watched Salim's podcast.
+**Rafizi:** Okay, please. Okay. I've never, I've never watched Salim's podcast.
 
 **Rafizi:** Watch real life. Done, done, I think so. I think.
 
@@ -807,13 +807,13 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Salim Iskandar:** Are you gonna sue?
 
-**Rafizi:** No, but if overdoing and slandering to, for example, and and this is also my advice to not just you, everyone. If for example, criticism is overdoing and slandering, even though supposedly against Anwar Ibrahim, but he's a prime minister representing an institution. So there's a law for that. It's called criminal defamation.
+**Salim Iskandar:** No, but if overdoing and slandering to, for example, and and this is also my advice to not just you, everyone. If for example, criticism is overdoing and slandering, even though supposedly against Anwar Ibrahim, but he's a prime minister representing an institution. So there's a law for that. It's called criminal defamation.
 
 **Salim Iskandar:** I understand that.
 
 **Rafizi:** Ha, so so we don't. But why use the Incitement Act 1948? But I, that's all decisions made by the police with the AG actually. You can go and check, none of us interfered.
 
-**Salim Iskandar:** The Incitement Act 1948 was in PH's manifesto in PRU 15 to be abolished. You should tear that thing up, throw it in the trash bin. Show us.
+**Rafizi:** The Incitement Act 1948 was in PH's manifesto in PRU 15 to be abolished. You should tear that thing up, throw it in the trash bin. Show us.
 
 **Rafizi:** Please. God willing. Show us, abolish that act. God willing at the appropriate time.
 

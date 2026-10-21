@@ -61,9 +61,9 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Haziq:** Over 2000.
 
-**Rafizi:** Oh really?
+**Farhan (Pa'an):** Oh really?
 
-**Haziq:** That's on TikTok.
+**Farhan (Pa'an):** That's on TikTok.
 
 **Farhan (Pa'an):** TikTok, TikTok. So hopefully tonight he'll give a lion gift on our TikTok live. Yeah, we're broadcasting on TikTok.
 
@@ -111,7 +111,7 @@ Beria wants comment on this. I'm usually not comfortable with this kind of appro
 
 **Rafizi:** This "beria" — if he keeps this up until he dies, Ya Allahu Akbar. Okay, alright YB. Next. A new way to fight people who "chop" parking spots.
 
-**Haziq:** "Chop" or "cop"?
+**Rafizi:** "Chop" or "cop"?
 
 **Rafizi:** Chop.
 
@@ -143,7 +143,7 @@ Beria wants comment on this. I'm usually not comfortable with this kind of appro
 
 **Rafizi:** This is a clip selection where I'm like, what "beria" are you trying to get me to comment on here.
 
-**Farhan (Pa'an):** No, if he doesn't chase after it, YB, he could just stay there.
+**Haziq:** No, if he doesn't chase after it, YB, he could just stay there.
 
 **Haziq:** Oh.
 
@@ -177,7 +177,7 @@ Beria wants comment on this. I'm usually not comfortable with this kind of appro
 
 **Rafizi:** Let's look at the next one, the last one. Consequences of moving warning signs for fun — a bit tragic. Who's "beria" for this one? Now for every single one I ask my friend which part is "beria." This is the one who's "beria" —
 
-**Haziq:** This is a tragedy.
+**Rafizi:** This is a tragedy.
 
 **Rafizi:** The one who moved it, ha, the one who moved it.
 
@@ -213,7 +213,7 @@ Beria wants comment on this. I'm usually not comfortable with this kind of appro
 
 **Rafizi:** The minister got this information from JKR, right? So it's confirmed there was one. What he said meant a closure.
 
-**Haziq:** There are two possibilities.
+**Rafizi:** There are two possibilities.
 
 **Rafizi:** This one's naughty. There are two possibilities — either there really was a signboard and some crazy person "beria"-ed it away, most likely to sell as scrap metal or something at home. Or, it never existed at all, but they couldn't just say there was no signboard, so the official report says there was one. But well, let's think well of him — maybe there really was some crazy person who took it. So, would you call this "beria" as something bad?
 
@@ -293,7 +293,7 @@ Beria wants comment on this. I'm usually not comfortable with this kind of appro
 
 **Rafizi:** No, no, right now, right now. Ah, you don't have time to Google. No need to Google. Actually the schools — you're Googling now, aren't you?
 
-**Haziq:** 60 to 63.
+**Farhan (Pa'an):** 60 to 63.
 
 **Rafizi:** Actually, roughly speaking, yes, the Chinese schools that offer UEC, meaning secondary schools—
 
@@ -301,15 +301,15 @@ Beria wants comment on this. I'm usually not comfortable with this kind of appro
 
 **Rafizi:** —private, independent. These independent secondary schools, there are actually only 61, plus 2 that I recall are somewhat hybrid, so officially there are around 63. The total number of Chinese students in these schools is roughly 90,000 out of more than 400,000 Chinese students in secondary schools overall. That means roughly 20%.
 
-**Haziq:** 20%. So, to say, if we want to—
+**Rafizi:** 20%. So, to say, if we want to—
 
 **Rafizi:** Take the view held by strong UEC supporters or those who politicize UEC, saying this is the lifeblood of Chinese education — the numbers don't reflect that, because those taking UEC in Chinese schools are only around 20%. But 20% is still considered significant — it's still a large stream. It's just that we also have a group of Malays who are anti-UEC. Their issue seems to be that all Chinese students,
 
-**Haziq:** don't go through the nation-building process related to unity.
+**Rafizi:** don't go through the nation-building process related to unity.
 
 **Rafizi:** That's why the impression is always given that the existence of Chinese schools is the reason we're not united. But if you look at the numbers, Chinese schools offering UEC number only around 63, and only 20% of Chinese students go through UEC. Actually, 80% of Chinese students in Malaysia go through the national system. So to say that the existence of UEC-offering Chinese schools will undermine the national education system — numerically, that's not even true. Furthermore, in the future, the Chinese population in our country will decrease. So looking at those numbers, we have those three perspectives. So to properly discuss and understand the direction for UEC so it doesn't keep being political dopamine, we need to look at those three things. And I think once we've digested that, we can draw a few conclusions. First, that for us to keep fighting about UEC down to our grandchildren's generation — it's actually no longer suited to the country's future development and needs. If anything, what we actually need is a way to become a trilingual society — a nation and society that can speak 3 languages, right? And the continuous teaching of Chinese language has come from schools that previously used UEC. I'm not saying we should all adopt UEC, no. But let's say the government announces a new education direction that takes into account the importance of the Chinese language — the teachers for that, for the most part, will very likely be needed from schools in this stream. So to sideline them due to narrow political considerations is actually denying our children and future generations the ability to master Mandarin. That's the first point. That fact, I think, setting aside political sentiment, needs to be taken seriously. Second point, we also cannot dismiss the need for Malay language and historical understanding. Maybe in the 60s, 70s, as I mentioned, because the country was only 15, 20 years independent.
 
-**Haziq:** Maybe for us—
+**Rafizi:** Maybe for us—
 
 **Rafizi:** —to change immediately, for some in the Chinese community in Malaysia at that time — they might have only been in Malaysia for 40 years, 30 years, right? Now it's nearly 100 years. I don't think there's any Malaysian of Chinese descent who would say, "oh, I have sentimentality toward mainland China or Taiwan." There isn't. This is the only country they know, right? So it's fitting and appropriate that every Malaysian child who goes through the school system must understand the historical context of our country, because that reflects our society, right. So Malay language, Chinese language, and language and history are things — if that's what needs to be refined by Dong Zong, by UEC, to ensure that element exists, then I think that also needs a solution so it can be improved within UEC. Especially since there are already private Chinese schools offering UEC that also ensure their students take SPM. So that's not something new. So if the requirement is that to be admitted to university or to become a Mandarin teacher, one must have SPM equivalent to SPM in Malay Language or History — that's also not something new. There are indeed schools where UEC students also take SPM. In fact some take both exams — both UEC,
 
@@ -335,7 +335,7 @@ Beria wants comment on this. I'm usually not comfortable with this kind of appro
 
 **Farhan (Pa'an):** That's Lina Ahmad. She made the post on Facebook. She's the source. She's a cyber trooper.
 
-**Haziq:** An AI cyber trooper, YB.
+**Rafizi:** An AI cyber trooper, YB.
 
 **Rafizi:** I bet behind "Lina Ahmad" the real name is "Leman Ahmad" or something.
 
@@ -411,7 +411,7 @@ So that's why I think, I tried my best, like when I was a minister before, not t
 
 **Haziq:** The last one, politics. Oh, this one's a bit more interesting — everyone. Why did you keep this one at the back? Save the best for last. And with the bank.
 
-**Farhan (Pa'an):** Ha, and with the bank.
+**Rafizi:** Ha, and with the bank.
 
 **Haziq:** And yes, this happened because BN's hegemony was broken since May 2018, YB. So everything's been in chaos since. But in YB's view, all this disarray, actually how far or to what extent will this chaos go?
 
@@ -425,7 +425,7 @@ Okay, so back to this. What do you want me to comment on? "Clarify, PAS ready fo
 
 **Farhan (Pa'an):** I think I want your comments on the whole idea of, yeah, Barisan Nasional being such an old coalition, already looking fragile. MCA, MIC already look like they want to leave. MIC itself said — MIC has already joined PN, MCA too.
 
-**Rafizi:** Ha, joined PN.
+**Farhan (Pa'an):** Ha, joined PN.
 
 **Farhan (Pa'an):** So, so I don't know, maybe in the context of them quarrelling among themselves, the coalition has become fragile.
 
@@ -483,6 +483,6 @@ Whether that will actually happen or not, I think it's not easy, because DAP wil
 
 **Farhan (Pa'an):** Ugh.
 
-**Rafizi:** So we need to make a trophy, put it up behind us.
+**Farhan (Pa'an):** So we need to make a trophy, put it up behind us.
 
 **Haziq:** Okay, alright. I think that's it, YB, for episode 26. See you again next week. Good night.

@@ -73,7 +73,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Haziq:** Suami. Ya lah tu. Samdek Joe. Tapi tak apa, maaf lah. Apa khabar? Sihat? Terima kasih. Kalau tengok profil, ya lah saudara Joe pun bukan kali pertama muncul kan. Sebelum ini kita lihat banyak di majlis pelancaran, di jelajah-jelajah semua kan. Tapi kalau tengok latar belakang, saudara Joe memang apa — perlu dipanggil saudara Joe?
 
-**Rafizi:** Oh Joe lah, Joe.
+**Haziq:** Oh Joe lah, Joe.
 
 **Haziq:** Joe. Tak lah formal. Okey, saudara—
 
@@ -145,7 +145,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Haziq:** Okey. Ha, luruh jantung saya tahu.
 
-**Rafizi:** Ha, okey, kita teruskan.
+**Haziq:** Ha, okey, kita teruskan.
 
 **Haziq:** Beria — ha, yang pertama kita mula dengan UMNO lah. Ha, Perhimpunan Agung UMNO, siapa yang dapat LOD ni? Ini terlampau ramai, cuma ini berlaku selepas isu RCI Tabung Haji disentuh. Jadi Ismail Salleh dapat LOD, Abied Abdullah dapat LOD, dan juga laman-laman pro-kerajaan yang kita tak tahu siapa pun diancam untuk disaman juga. My News Hub — sesuatu macam tu, My News Hub tu bukan milik Najib ke? Sekarang dah jadi. yakah, sekarang dah bertukar arah? Saya tak baca. Bukan, dia ada satu nama lain, tapi dia dekat-dekat My News Hub tu milik Najib, dia dekat juga. Tapi maksud dia adalah ancaman itu milik Najib, bukan LOD. 5 juta OAB, dan ya, kalau kita lihat pun, biasanya untuk politik peribadi ni, dia takkan menang sampai 5 juta pun. Sama macam Isyam Jalil kita pernah cakap juga, dia pun nak saman beberapa juta juga kan.
 
@@ -187,7 +187,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Sum Dek Joe:** Ada dua aspek lah. Jadi satu aspek — aspek pertama, penggal kedua.
 
-**Rafizi:** Sangat yakin, Nurul Izzah? Beria yakin.
+**Sum Dek Joe:** Sangat yakin, Nurul Izzah? Beria yakin.
 
 **Sum Dek Joe:** Okey, beria yakin. Sangat yakin pasal penggal kedua, sebab saya rasa tak berapa kuat untuk — tak berapa yakin. Tapi secara peribadi, dari sudut pandangan saya sendiri, pada pendapat saya, saya rasa ia sebenarnya agak jauh untuk mereka menang di pilihan raya umum yang akan datang ini. Jadi ini poin pertama. Poin kedua, mengenai reformasi gaji ini — kenapa tak buat sekarang? Kenapa perlu tunggu sampai penggal kedua baru buat? Ya, memang sudah ada beberapa dasar sedang dilaksanakan, tapi kita tak perlu tunggu penggal kedua — boleh terus mula. Jadi saya langsung tak faham apa konteksnya, kenapa perlu tunggu sampai penggal kedua baru bermula.
 
@@ -291,7 +291,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Kalau kena colik pun, tak boleh buat apa kan. Tapi mereka semua dah sign bond. Jadi contohnya kalau mereka menarik diri daripada jadi calon, dia kena bayar 2 juta — samalah macam bond-bond lain yang biasa kita tahu, kalau dia lompat parti ke, dia tak buat kerja, dia tak pergi sidang, semua itu kena. Tapi oleh kerana kita umumkan awal, bond itu juga terpakai kalau dia gagal sehingga tidak dinamakan sebagai calon — sebab dia boleh saja tak hadir hari itu, alasan-alasan yang digunakan kenapa parti lain tak menamakan calon lebih awal. Tapi kita tengoklah, semua ini adalah perubahan dan penambahbaikan yang kita cuba bawa dalam politik. Tapi saya bersetuju — minta maaflah orang ramai, memang kami beria. Beria, dah umum calon, beria, berkempen kan. Okey, baik. Selesai. Jadi, ya. Saya nak satu lagi poin. Ada ramai yang tanya, kenapa kita guna istilah calon bayangan? Kenapa bayangan? Shadow. Jadi shadow candidate. Maksudnya dia belum disahkan, dan dia boleh ditukar. Mereka semua memang telah tanda tangan bond, semuanya. Tapi mengambil apa yang Haziq cakap tadi, kalau tiba-tiba dia kena syuallat — kalau contohnya tiba-tiba dua minggu lagi terpapar besar-besaran bahawa dia sebenarnya skamer terbesar Malaysia, kita kena tarik balik pencalonan itu. Kita memang buat seberapa yang mampu untuk menapis semua. Jadi selagi dia tak jadi calon rasmi, dia memang calon bayangan lah. Sama macam shadow cabinet, kabinet bayangan.
 
-**Haziq:** Baik, baik. Kita nak mengundi. Kita nak mengundi. Bagi Kak Joe, kena pilih yang mana paling beria.
+**Rafizi:** Baik, baik. Kita nak mengundi. Kita nak mengundi. Bagi Kak Joe, kena pilih yang mana paling beria.
 
 **Beberapa Penceramah:** Bagi saya, saya rasa mahal.
 
@@ -501,7 +501,7 @@ Jadi secara asasnya, apa yang kita lihat di sini — sekali lagi ia adalah speku
 
 **Rafizi:** Keluar.
 
-**Haziq:** Ia macam itu.
+**Rafizi:** Ia macam itu.
 
 **Rafizi:** Haziq kan, katakanlah kilang — kilang Intel lah. Katakanlah jualan mereka 10 bilion setahun kan. Jualan itu direkodkan sebagai GDP, 10 bilion kan, jadi mereka jual kan. Tetapi katakanlah daripada 10 bilion itu, mereka dapat dividen 5 bilion. Dividen itu mereka hantar balik ke US lah, dividen 5 bilion. Mereka tidak agih kepada orang di sini pun. Jadi ini satu. yalah, satu keadaan di mana kita masih lagi ada ruang-ruang yang perlu diberi tumpuan dalam ekonomi kita.
 

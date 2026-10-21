@@ -51,7 +51,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Haziq:** Ha, he's combining two. Happy Chinese New Year.
 
-**Lee Chean Chung:** Eh, YB mixing it up, only for me.
+**Haziq:** Eh, YB mixing it up, only for me.
 
 **Rafizi:** Always calling you Chen Chong, right. YB, how are you, YB? No, but even the earlier bit wasn't right. Because you said we need to start the broadcast. The broadcast starts exactly at 10 o'clock. It's just recorded early. We're recording late today, about 7 minutes late because of Chinese New Year firecrackers.
 
@@ -73,11 +73,11 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** An outfit.
 
-**Lee Chean Chung:** Oh, this isn't a cheongsam.
+**Haziq:** Oh, this isn't a cheongsam.
 
 **Rafizi:** It's Chinese though. Not cheongsam.
 
-**Lee Chean Chung:** Cheongsam is the women's one.
+**Rafizi:** Cheongsam is the women's one.
 
 **Rafizi:** True. So it doesn't have a specific name?
 
@@ -95,7 +95,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Eh no. No, no, no, no. Even earlier. See, Chin Chong forgets. Back then Chin Chong was Dato' Seri Anwar Ibrahim's research officer.
 
-**Lee Chean Chung:** Ha, you were rese—
+**Rafizi:** Ha, you were rese—
 
 **Rafizi:** Before that. You were research officer. So we met Dato' Seri Anwar around 2008 to 2012, before you first contested in Semambu in 2013. So I used to write speeches for Dato' Seri Anwar, his parliamentary speeches. That's how we started liaising — who else was there? Wei Heng. With Wei Heng. It's just that Chin Chong only started contesting in 2013.
 
@@ -103,7 +103,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** That must have been for the branch elections, 2010, right? I think so — that was the first time I came back. Before that all my positions were at the central level, I never contested at branch level. So 2010, and unfortunately, Kemaman is right next to Indera Mahkota. So Chin Chong was in Indera Mahkota, I was in Kemaman.
 
-**Lee Chean Chung:** Oh, so close by, huh. We were next to each other, both on the East Coast.
+**Rafizi:** Oh, so close by, huh. We were next to each other, both on the East Coast.
 
 **Haziq:** Okay, alright YB. Let's move on to the segment.
 
@@ -117,7 +117,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Lee Chean Chung:** No, no, no — because there's an accusation, we'll look at it next. There's an accusation saying the studio is at Menara Ilham. I can be a witness, this place is truly a place of the people, right.
 
-**Rafizi:** A place of the people, huh. Even parking is hard — it's at a shophouse. Okay, anyway let's get into it. The first one, maybe we'll start mild: Bersatu infighting, but rejecting Muhyiddin on the basis of religious demands.
+**Haziq:** A place of the people, huh. Even parking is hard — it's at a shophouse. Okay, anyway let's get into it. The first one, maybe we'll start mild: Bersatu infighting, but rejecting Muhyiddin on the basis of religious demands.
 
 **Haziq:** Ha, this is what Wan Faisal said.
 
@@ -159,7 +159,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** 45 lines.
 
-**Lee Chean Chung:** That's really high, 75.
+**Haziq:** That's really high, 75.
 
 **Rafizi:** 45 lines. So can PKR Kedah recapture the seat in Kedah? Don't know, Chin Chong.
 
@@ -167,7 +167,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** So PKR is at its best stage now? Maybe.
 
-**Haziq:** Because it says more and more—
+**Lee Chean Chung:** Because it says more and more—
 
 **Lee Chean Chung:** —not really, so PKR is getting better. Oh, that's why. That's why.
 
@@ -209,7 +209,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Haziq:** We're at 40 minutes, let's move to that segment. We have one last thing.
 
-**Rafizi:** This might require me to ask the former communications dir— what is it? Communications. Communications director.
+**Haziq:** This might require me to ask the former communications dir— what is it? Communications. Communications director.
 
 **Haziq:** What's going on with these political party social media admins, YB?
 
@@ -235,7 +235,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Haziq:** So I think, yes, there are two.
 
-**Rafizi:** One is about something new, or something YB will share about FlexiMart and Kesum, and another one is for a new Ayuh Malaysia project — this one YB Chin Chong will share.
+**Haziq:** One is about something new, or something YB will share about FlexiMart and Kesum, and another one is for a new Ayuh Malaysia project — this one YB Chin Chong will share.
 
 **Haziq:** But maybe if YB could share a bit about what's different this Ramadan for FlexiMart and Kesum.
 
@@ -269,7 +269,7 @@ So, I ask the public, if possible, go to www.Kesum.my if you're interested in do
 
 **Rafizi:** Our first class will probably be about a week from now. It'll air on, what, 8 March or something? We're planning to broadcast it mid-March.
 
-**Lee Chean Chung:** Mid-March. Not the first week of March?
+**Rafizi:** Mid-March. Not the first week of March?
 
 **Rafizi:** Recording. It's a recording, why would you wait so long? Once it's recorded, just release it. Okay, never mind, never mind, we'll end up arguing.
 
@@ -281,7 +281,7 @@ So, I ask the public, if possible, go to www.Kesum.my if you're interested in do
 
 **Rafizi:** Maybe whoever's interested can also sign up. So we really hope that if we can get more people who love knowledge — and learning Mandarin is learning knowledge, right — so if more of us come to love knowledge, then I hope that will help reduce racial stupidity in Malaysia. Because Mandarin gets equated with race — but actually it's just a language, right. And I did try to learn Mandarin once, when I was in the UK.
 
-**Lee Chean Chung:** Then gave up.
+**Rafizi:** Then gave up.
 
 **Rafizi:** Because it's hard, right. So that's why, about 25 years later, I want to try again.
 
@@ -303,7 +303,7 @@ Okay, exactly one hour.
 
 **Haziq:** So let's move to the final segment.
 
-**Rafizi:** Because we have two hours — this is for answering questions. Since it's two hours, we've really run over, we've overrun. So to those watching, after you finish watching you can go straight to sleep for two minutes, then wake up for tahajud. Okay, our first issue, none other than, YB, the issue of the general agreement has come up again. But I'm not sure, maybe to avoid this turning into just political chit-chat, we should go over its significance again first, and then we'll look at maybe the process of governance.
+**Haziq:** Because we have two hours — this is for answering questions. Since it's two hours, we've really run over, we've overrun. So to those watching, after you finish watching you can go straight to sleep for two minutes, then wake up for tahajud. Okay, our first issue, none other than, YB, the issue of the general agreement has come up again. But I'm not sure, maybe to avoid this turning into just political chit-chat, we should go over its significance again first, and then we'll look at maybe the process of governance.
 
 **Haziq:** Right, when talking about this agreement, I think our country really does have an urgent need to revive the ecosystem at the front-end semiconductor level. So our story here is really more ambitious than people can imagine.
 
@@ -361,7 +361,7 @@ So the funny thing here is this photo — this is a media colleague. The media c
 
 **Rafizi:** Couldn't wait, right.
 
-**Farhan (Pa'an):** He wanted to make sure that—
+**Rafizi:** He wanted to make sure that—
 
 **Rafizi:** —he was the first to give a statement to the media. Really pushing it, YB Kinyun, really pushing it too, so that ARM would be known as the fruit of his own labour, his own doing. So while we were still busy up on stage, he was already down front giving a press conference. That's the stupidity that existed in the previous government — such credit-grabbing.
 
@@ -423,7 +423,7 @@ But Itramas isn't a software engineering or data science company. That's how the
 
 I don't know why they approached Invoke, but they saw us as a strategic fit — because we had software engineers, data scientists, could build an IoT platform, so rather than building their own team, it was better to work with Invoke. So the arrangement was — because I also said, you're bidding for this smart city project in Bahrain, and we go through all this trouble to build it, then if it doesn't happen, I'm the one who has to employ people, has to keep this team. That's why — meaning had they already gotten it or not there yet? What was it? Had they gotten it...
 
-**Haziq:** They were still bidding.
+**Rafizi:** They were still bidding.
 
 **Rafizi:** Oh, they were bidding. It's just that they had to bid together with the smart IoT platform and everything — they couldn't just tell the client "we are a very good LED PV manufacturer," they needed to come up with everything. So the arrangement is this. Okay — they put in a preference share. This is where Azam Baki got confused the other day. When Caprice said there were shares in Invoke, that itself could already be grounds for a lawsuit, because preference shares are not shares — preference shares are a loan. There are many types of preference shares — there are redeemable preference shares, meaning they give a loan, say 1 million, every year we have to pay interest, if it's 5% that means 50 thousand a year. Roughly like that. Then if it's redeemable, meaning after a certain period, maybe 5 years, 10 years, we have to pay back that 1 million. It's just shown as a preference share, not a loan, but it's actually a loan — why? Because it has no voting rights, no appointment rights, no rights to our profits, no rights to anything.
 
@@ -495,4 +495,4 @@ So all of this is being done solely to assassinate a political character. And th
 
 **Haziq:** Okay, see you next week. Good night.
 
-**Lee Chean Chung:** Good night. Happy fasting. Bye there. Good night. Salam, salam.
+**Rafizi:** Good night. Happy fasting. Bye there. Good night. Salam, salam.

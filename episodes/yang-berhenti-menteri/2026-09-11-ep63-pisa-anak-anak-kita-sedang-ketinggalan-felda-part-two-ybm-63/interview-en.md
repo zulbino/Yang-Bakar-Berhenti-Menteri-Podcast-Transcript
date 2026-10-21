@@ -51,7 +51,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Haziq:** Assalamualaikum and greetings.
 
-**Rafizi:** Waalaikumussalam. Podcast Yang Menteri-Menteri, episode 63.
+**Haziq:** Waalaikumussalam. Podcast Yang Menteri-Menteri, episode 63.
 
 **Haziq:** As usual with brother Rafizi, and unusually with brother Sum Dek Joe.
 
@@ -71,13 +71,13 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Haziq:** Okay, let's continue, YB, as usual with Beria with Joe.
 
-**Speaker ?:** Joe's getting familiar with it now, YB?
+**Haziq:** Joe's getting familiar with it now, YB?
 
 **Speaker ?:** There, okay.
 
 **Rafizi:** Okay, good, good, good. Just a reminder to myself — since we don't want to go over 3 hours, let's not go too crazy with the comments. Only 4, YB? Okay, there are 4. I already knew that if it's long — this one's long so we — okay, alright. First, let's do a bit of promo since you can now book a Beria slot.
 
-**Speaker ?:** This is your statement on Threads, YB, but it's about the funds being hyped up by PAS.
+**Haziq:** This is your statement on Threads, YB, but it's about the funds being hyped up by PAS.
 
 **Rafizi:** Actually, I remember this was just PAS kids stirring things up, so Lapiji got dragged into it for nothing. Lapiji stayed quiet about the "funds hyped up by PAS" matter. The origin of it is that during the PAS muktamar, Dato' Seri Hadi Awang made a surprise announcement. The surprise was that he claimed back in 2018, I think — during Najib's time — the US government supposedly offered assistance to PAS to bring Najib down. So I tried to actually understand what he meant — whether it was about how great PAS is, that even the US approached PAS to topple Najib, or whether he meant to say how good PAS is, that even when offered something like that, PAS wasn't greedy for power. So that's what PAS has been hyping up. The US embassy then issued a statement saying it wasn't true. So I think for the past week or two PAS kids have been trying to cover it up. One of the ways they tried to cover it up was by starting to claim that supposedly every other party in Malaysia, except PAS, has never received foreign funding. There was this one guy, apparently a PAS cyber trooper, Zack Ayubi. So I thought, fine, since we're going into the Beria segment — that's really the only place worth commenting on this. But I think it's worth explaining to the audience — actually, what is the function of another country's embassy in a given country? For example, our embassy in the US, what's its job and function there on behalf of the Malaysian government?
 
@@ -87,11 +87,11 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Sum Dek Joe:** Maybe, but wouldn't know.
 
-**Haziq:** There, you wouldn't know.
+**Sum Dek Joe:** There, you wouldn't know.
 
 **Rafizi:** That's the thing.
 
-**Haziq:** That's the whole point.
+**Sum Dek Joe:** That's the whole point.
 
 **Rafizi:** CIA, you'd never know who they are, because a CIA operative isn't a US government official. They don't come in and say, "Surprise, I'm actually from a coup operation." No. It's the CIA. That's why there are agents — like Mossad. Mossad is Israel's. What I mean is, this intelligence model — that's why it's called intelligence — they don't operate in an official capacity. They might be a businessman, they might be an artist, we don't know who they are. If they approach you, for all you know they're actually an Arab who's really American — you don't know. So if the US wants to interfere in anything, they don't use official channels, because diplomatic relations have set international standards; you can't just do things like that. So when Dato' Seri Hadi Awang gets all excited like this, PAS members might clap and cheer about how great PAS is, or how good PAS is. But to anyone who understands diplomatic protocol, it suggests that PAS doesn't understand international diplomatic protocol. If you become the government, that's trouble for us. That's one thing. Second, if PAS is now being talked about as possibly forming a government, then the briefing notes from each embassy back to their respective governments — we don't know what they'll write. My worry, if PAS rises to power, isn't so much about PAS being Islamic or whatever; I think the worry is, if they don't even understand simple diplomatic protocol, that actually creates huge uncertainty. If PAS were to lead the government, and that uncertainty affects investment, affects cooperation, we don't know. So that's why I say this whole excited episode started from something where Dato' Seri Hadi Awang wasn't properly briefed, and it turned into this, which is enough to qualify PAS and its cyber trooper for the first Beria slot.
 
@@ -111,13 +111,13 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** He's not really criticizing me. It's just that there's someone named Imroh 20 — if you read what's said: "Bro, before Najib fell in 2017, Tabung Haji's economy was solid, 9 years giving 6% dividends. Tabung Haji Hotel made a profit. The HSR will pass through Tabung Haji land in Sepang. Tabung Haji bought TTRX land for 188 million in 2015, now worth 550 million. You go on about TH making investment profits and losses too." Wow, so Threads' algorithm is quite accurate, it knows that if it's about Tabung Haji, he has a bone to pick with me, so it shows up on my timeline. So before going to work in the morning I checked it. And this is what I want to say — actually, it's not really about Malays specifically, because I think falling for scams, get-rich-quick schemes, everyone falls for them. Chinese fall for them too, Indians maybe a bit less, from what I hear. But both Malays and Chinese are definitely scam victims — MLMs, Ponzi schemes, get-rich-quick schemes like "Pak Mandelo." He looks like our brother here, looks like he's an educator, but he has followers once he's taken his political stance. That's why I think Malays in the old days had it right, they had a saying "menegakkan benang yang basah" (trying to straighten a wet thread, i.e. defending an indefensible position) — think about it. So when it's already clear something isn't right in the Tabung Haji case — all the examples he gave about Tabung Haji's economy being solid — that's just Pak Mandelo rolling over your money. Of course it looks solid, Pak Mandelo looks solid too — put in 1000 ringgit, get 300 ringgit every month, that's crazy, that's the best return in the world. That's what's called a Ponzi scheme, Madoff, all that. But he'll still defend it. And there's one trait among our people about these get-rich-quick schemes — as long as it doesn't hit them. If they get a 6% dividend, they're happy — of course they'd be happy getting 6%. Aziz Rahim's children, many of whom are now viral for keeping their savings in Tabung Haji, are happy getting 6%. But that money is other people's money, and there will come a time when many will become victims, when the pyramid scheme collapses. So that's why, when people ask me about corruption, about Tabung Haji — it's not merely about corruption and misappropriation. Ordinary people like us need to change too, meaning we shouldn't be selfish — as long as it doesn't hit me, it's fine. Because when someone else gets hit, they become a victim, and one day it will hit us too. If someone is victimized, loses their money or whatever, even if it doesn't affect us, that thing is something that's damaging to society. We should actually hate anything that damages society, even if it doesn't affect us — it's still a bad thing. Just because it doesn't hit us, it doesn't mean that it's okay, right? But yes, there will always be people like this who get carried away — "it's fine if others get hit, as long as I get my Tabung Haji dividend." Where the money comes from doesn't matter. That's also what makes our political culture corrupt — because we think it's great that someone gives money, gives assistance, gives something to us; we don't ask where they actually got that money from. Because if that money doesn't match their salary or whatever, it means they took it from someone else. Even if it's not our money that was stolen, someone else lost their money — it's still wrong. The problem is our society doesn't accept that part. So, Beria, Beria. Okay, alright.
 
-**Haziq:** Joe can't comment either because of Tabung Haji.
+**Rafizi:** Joe can't comment either because of Tabung Haji.
 
 **Rafizi:** Tabung Haji.
 
 **Haziq:** Okay, alright. Third one. There, go ahead and read it. "Vote first, we'll definitely settle any problems later." This is looking at the scenario that happened in Negeri Sembilan this week, which was quite chaotic. So it reminds us of what their key leader said, "it's fine, just let us win first."
 
-**Speaker ?:** "Once we've won, we'll know what to do."
+**Haziq:** "Once we've won, we'll know what to do."
 
 **Rafizi:** This is what Tok Mat announced in his speech before the Negeri Sembilan election, in July, third week of July, I remember reading this. And then there's Badrul Bakhtiar, who, when asked about the 2023 state election manifesto, said "it's a secret, vote first." Well, good thing they got married, that's true. This one Joe can comment on — go ahead, Joe.
 
@@ -131,11 +131,11 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** You calling Tok Mat a young punk? Oh no, not Tok Mat — UMNO leadership.
 
-**Sum Dek Joe:** The PAS one is a bit younger.
+**Rafizi:** The PAS one is a bit younger.
 
-**Rafizi:** That's why he... oh no, I'm commenting on the comment.
+**Sum Dek Joe:** That's why he... oh no, I'm commenting on the comment.
 
-**Sum Dek Joe:** Oh, commenting on that kid, commenting on this kid or something.
+**Rafizi:** Oh, commenting on that kid, commenting on this kid or something.
 
 **Rafizi:** But that's the fun part — "I do have my own manifesto, but that manifesto will only materialize once I win."
 
@@ -147,13 +147,13 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Depending on the comments, someone might get sued over this.
 
-**Speaker ?:** I'm ready.
+**Haziq:** I'm ready.
 
-**Speaker ?:** Let Joe comment on this one.
+**Rafizi:** Let Joe comment on this one.
 
 **Rafizi:** YB has a legal panel, right? No, no, it's not that I'm scared of being sued or anything. It's just, well, politicians — and this isn't limited to Datuk Seri Asyraf Wajdi alone — myself included, right. One demand from the public that I think is fair is consistency. We need to be consistent in everything. And politicians really struggle to maintain that. The same question the netizen asked — when it comes to kids, "you bully, you touch, you go," fair enough, right. I think parents whose children have been bullied would agree, because the effects of bullying can be long-term. So that's fair enough. But when there's inconsistency — for kids who bully, there's absolutely no second chance — but for adults, especially if they're politicians or leaders, all sorts of excuses are given that actually contradict how strongly they advocated "no second chance, you touch you go." This inconsistency problem is the same as the issue with Dato' Seri Anwar right now. Right now, prosecution after prosecution, full steam ahead — good, we support it. But at the same time, when there's clear inconsistency — cases involving people close to him, Tan Sri Azam Baki, Farhash, the "corporate mafia," Ramanan, Shamsul Iskandar and others — if something like that can happen and get exposed even within the Prime Minister's own office, we don't know what else is happening elsewhere. When it's inconsistent like this, the public becomes cynical. Those not aligned with UMNO attack Asyraf Wajdi; those not aligned with PH, whether from PAS or BN, when there's a prosecution, get attacked too. So the issue is the inconsistency practiced by these politicians. So in the end, it's true, "you touch you go" only applies to ordinary Marhaen folk, to regular people — not applicable to those at the top. Okay.
 
-**Haziq:** Joe, can you comment if you want to?
+**Rafizi:** Joe, can you comment if you want to?
 
 **Rafizi:** No thanks. I'm scared.
 
@@ -161,9 +161,9 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Yeah, I agree. I wanted to rate too earlier, but you had Joe rate — but yes, yes, yes, agreed, we're on the same page. Okay, good, good, good. Because he said the US offered assistance to bring him down.
 
-**Speaker ?:** Congratulations to Tan Sri Hadi Awang.
+**Haziq:** Congratulations to Tan Sri Hadi Awang.
 
-**Speaker ?:** Okay, good. Done.
+**Haziq:** Okay, good. Done.
 
 **Haziq:** Let's get into it, YB. We have 2 topics. We'll continue a bit more on the FELDA issue, and then we'll look at the PISAR report. Okay, first let's look at the FELDA issue, part 2. If before this we've gone through 44 of YB's writings related to FELDA, all the exposés. This time we probably want to check the way forward — what we can do with FELDA now. Maybe we'll touch on its model, since YB has also mentioned before the problems of FELDA — from 122,000 settlers up to 1990, now I've checked it's grown to 2 million families, fourth generation. At the same time we need to do replanting because the oil palm trees' age has declined, related to settlers' debt. So there are already many problems — is the old model still suitable now?
 
@@ -181,13 +181,13 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Any loan that FGV takes, the government assumes it all. So it becomes a contingent liability.
 
-**Sum Dek Joe:** Ah, so it becomes a contingent liability. So there's a cost to FGV.
+**Rafizi:** Ah, so it becomes a contingent liability. So there's a cost to FGV.
 
 **Rafizi:** So delisting FGV is temporarily beefing up FELDA's income statement and balance sheet — it doesn't necessarily resolve FELDA's problems permanently, because there are still many structural issues. Net cash flow also depends — if for example you get 800 million, 1 billion from FGV, but FGV isn't profitable, its actual profit might only be 100 million, then you have to compare that with the liability you assume, the interest you assume. 3, 4 years later we could actually say the delisting of FGV wasn't successful, it continues to be a financial burden to the government. Then what do you do? Relist it or what? So while I understand why the delisting happened, the mistake has already been made. Reversing it — all we can hope for is that once FGV is leased and becomes part of FELDA again, FGV performs better, and at the very least the net cash flow to FELDA is worth the cost that the public bears, and the debt that the public has to assume. And that at least reduces FELDA's dependence on government injections in the future. So it's like if it's a loss-making business but something you can't exit, the best you can do is make sure it's cash-neutral going forward. Even if you don't unlock the value, or it doesn't give high returns, at least you don't have to keep putting good money after bad money. That's FGV. But actually, since 2010, there have already been structural issues — this is what the Anwar government should focus on, especially since he took the FELDA portfolio, he's the one in charge of FELDA. He'll be angry with me if we bring all this up. But the reality is, if you trace back all the announcements from Dato' Seri Anwar Ibrahim about FELDA, is there anything about structural issues? No, there isn't. In fact, there was hardly any announcement about fixing the structural problem of FELDA since day one of him becoming Prime Minister. And no one else can touch FELDA — it's really under him, and if you touch it you get scolded. So what are the structural issues? One is FELDA's current model. FELDA was created in the 60s, 70s. Of the 115,000 FELDA participants, of course they've all become grandparents now, they're old, aged 70, 80. There's a second generation, third, up to fourth generation. The model — if before this, during the BN era, FELDA became like a child of the government. And so because of the vote bank — as I mentioned in the previous podcast — the first fault line is because FELDA was seen as a vote bank to win the government. So there was a lot of decision making that defined economic and financial sustainability. Once it moved from the first generation to the second generation, the early FELDA model was not designed to account for up to the fourth generation. So the question of housing for the second generation, third generation arises — while FELDA lands had already been divided into a quarter acre each for building their own house. But once there are children, grandchildren, and the FELDA settlement gets bigger, and they want houses — where do you take the land from? That was never addressed, in the early days there was no mention of a mandate for FELDA to take care of the second, third, fourth generation forever. No such thing. I think the model expects it to be self-sustaining, because it's a poverty eradication program. So the model expects the second, third generations, they will be out of FELDA, not dependent on the FELDA settlement. Then we also have the issue when it reaches the second, third, fourth generation, the issue of inheritance. You want to maintain 10 acres of land — if he has 5, 6 children, of course one has to be chosen to inherit it. But it's easier said than done, if he passes down the whole scheme to one child, since that name will become the owner of the title, the house, all of it. But the other children, because of that, the inheritance process becomes long. And then there's no guarantee the second generation, once it reaches the third generation to pass down to grandchildren or great-grandchildren — there's no guarantee they know anything about oil palm. For all you know, a third, fourth generation grandchild is totally detached, maybe not even born in the FELDA settlement, doesn't know about oil palm, but they have to run a small plot of oil palm. This is indeed a challenge to the model — to expect the people who started FELDA 40, 50 years ago to work all this out is really unfair, since they had to do the heavy lifting at that time to get FELDA off the ground and create this. It's really the responsibility of subsequent governments to come in and fine-tune this model. We don't even know if there's been any change or not — I don't think there has. And if you start looking at the whole model, then you have to ask another question. Since the oil palm life cycle is long — one cycle from planting until it becomes prime, matures, then becomes an old tree — how long is one cycle? 18 years, 15 years?
 
-**Speaker ?:** I think about that.
+**Sum Dek Joe:** I think about that.
 
-**Speaker ?:** 25 to 30 years.
+**Haziq:** 25 to 30 years.
 
 **Rafizi:** Yes.
 
@@ -199,7 +199,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Maybe a bit faster. So but at least 18, 20 years like that. Meaning one cycle is one generation. If it's 20 to 30 years, the world changes a lot within that period. Commodity prices change a lot, the value of oil palm also changes, land value has also changed. Back in the 60s, 70s, these lands had no value to the government, that's why the government just gave them away. But since it's been so long like this, and there's urbanization around FELDA now, all the land has value. Private plantations — they swap from planting oil palm to becoming housing estates. That's how the towns that Sime Darby built came about. In fact, the whole of KL is actually built on plantation or mining land. Was Subang USJ a mine or oil palm? Taman Tun, I think oil palm. So while commercial plantations can pivot and change, because it's their decision, their land — they're more responsive to current needs and economic value. FELDA can't do that. Then you go even further — you also need to ask the question going forward, food sustainability and food security becomes very important. Before, we chose oil palm, earlier rubber, then oil palm because it was a good revenue earner for the country and at the same time could give good income to settlers. But what if — and the trajectory, Joe you can tell better, I don't monitor all these numbers every day — chances are going forward, food prices will continue to rise, go up. In the future, things we take for granted, like food, like water — all of this will become expensive because of population and climate change. Our food dependency on imports is very high. What's it called — self-sustaining level, SSL right. Tahap sara diri in Malay — what is SSL for? Self-sustaining level or what? I forget sometimes too, I'm not an encyclopedia that can remember everything.
 
-**Speaker ?:** Tahap sara diri.
+**Haziq:** Tahap sara diri.
 
 **Rafizi:** Oh, it's called tahap sara diri. In English, SSL. Which is? Self-sufficiency.
 
@@ -207,15 +207,15 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Some people use SSL, some SSR. Both exist.
 
-**Haziq:** They use them interchangeably, right.
+**Rafizi:** They use them interchangeably, right.
 
 **Rafizi:** Self-sufficiency ratio — that's more commonly used. It calculates what percentage of demand is locally produced, how much is imported. Our SSR for example for chili is only 20-30%. For beef, we're at — beef if I'm not mistaken I think.
 
-**Sum Dek Joe:** What? Below 20%?
+**Rafizi:** What? Below 20%?
 
-**Rafizi:** Eh, is that right?
+**Sum Dek Joe:** Eh, is that right?
 
-**Sum Dek Joe:** No, no, it's the other way round.
+**Rafizi:** No, no, it's the other way round.
 
 **Rafizi:** Oh, okay, sorry, you're right. Meaning for chili, what should SSR be? If beef is 80%, we're currently at 20%. What are we now? Chili, let's check chili, what is it? SSR should be how much and what is our achievement now?
 
@@ -223,11 +223,11 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** 35%. If beef is around 20% — oh sorry, it's always reversed. That's the interchangeable part, Joe. That 35% — oh, right.
 
-**Sum Dek Joe:** Ah, it's reversed.
+**Rafizi:** Ah, it's reversed.
 
-**Rafizi:** Beef is about 16%.
+**Sum Dek Joe:** Beef is about 16%.
 
-**Sum Dek Joe:** Ah, beef 16%, it's reversed.
+**Rafizi:** Ah, beef 16%, it's reversed.
 
 **Rafizi:** It's reversed. So if chili is 35%, that means — that's why I think an SSR of 35% isn't correct, meaning... what should our SSR be? It's just that we're currently at 35%. What is the optimum ratio between locally produced and imported? So chili I think should be much higher than 35%. So beef currently imports 16% — oh sorry, imports 84%, locally produced 16%. So SSR should be a figure that becomes the national target. Because we also can't say we want to produce everything, that's not possible. Okay, coming back to FELDA — so you have this question about food security. If before, because of the national agenda to eradicate poverty, our forefathers went and did all this, built the largest land scheme in the world, spent billions of ringgit doing it. Then you have to go through that process to decide going forward on the structural problem, the question of economies of scale, and then value as well. Until when will we remain planting oil palm? For example, just to throw an idea — people always say I'm crazy — but just to throw an idea: if there's FELDA land more suitable to be converted into greenhouses, and if the government focuses on greenhouses to grow food, it gives better value. Even if it can't match parity with oil palm, but if it creates more jobs for locals, then it also achieves food security. Then those are the processes we have to go through. The question is, has the government gone through this?
 
@@ -257,25 +257,25 @@ So before we go into the high-level stuff, we need to look at a few things in te
 
 The picture is somewhat murky. So if you go by the official numbers, FELDA's replanting cost is actually quite competitive, even lower than commercial plantation replanting cost up until 2020. So you'll be surprised. Wow. But there's a caveat.
 
-**Speaker ?:** Yes, there's a caveat.
+**Rafizi:** Yes, there's a caveat.
 
 **Speaker ?:** Caveat.
 
-**Speaker ?:** Hold on a second.
+**Rafizi:** Hold on a second.
 
 **Rafizi:** So where did I put it?
 
-**Speaker ?:** Let me see, I've got a lot of numbers here.
+**Rafizi:** Let me see, I've got a lot of numbers here.
 
 **Speaker ?:** Me too.
 
 **Rafizi:** Ah, where was it? That was the yield figure. I'm looking for my data on direct development cost. Okay, if you look at this — this is from FELDA's own data. You need to go through their annual reports, parliamentary answers, statements, and so on. So going by this: in 2010, FELDA announced its direct replanting cost — meaning development cost per hectare. That includes, for example, land clearing, then seedlings, then planting, then fertilizer, then maintenance, weed control, all for a 36-month period. So according to this, in 2010 FELDA announced 6,500 per hectare. From 2015 to 2019, it was 10,000 per hectare. By 2022, it had risen to 18,000 per hectare. In 2025, last year, it was between 27,000 and 29,000 per hectare. So if you look at that figure alone without context, it really looks damning for the Madani government. If Lim Sian Si got hold of this, oh, he'd go to town with it. But he's sulking right now. He's sulking. Why is that? Why? He even wrote, "don't quote me anymore." Why is he sulking? Something within UMNO, I think. He said go ask the head of information and so on. Oh. We've succeeded. So how, since UMNO's "ulama Lim" is gone, they need to find a new ulama. Okay, okay, anyway, back to it. News. You should include that bit. Ah, I forgot, put in the "beria."
 
-**Haziq:** UMNO's ulama sulking. Ah, beria sulking.
+**Rafizi:** UMNO's ulama sulking. Ah, beria sulking.
 
 **Rafizi:** Okay, so based on this, UMNO or PAS would say the Madani government is useless. The cost has gone up 3 to 4 times over 15 years under Madani. From 6,500 per hectare, now it's become 27,000 to 29,000. But that's without context. So I myself was shocked, "shit, that's bad, surely it can't be that bad." So you have to double check. So let me give you two figures. One is the replanting cost during that period compared to commercial plantations. Let's see, there are a lot of figures, my head's spinning too. If you look at 2012, according to OSK's report, commercial plantation was 15,000 per hectare. What did I mention for FELDA earlier? Meaning, based on that, FELDA was actually cheaper at the time — 6,500, versus commercial's 15,000. Then FELDA's figure for 2015 to 2019 was also about the same, 10,000 per hectare. So for commercial plantations between 2015 and 2020, it was between 15,000 and 18,000 per hectare. Compared to FELDA in the same period, only around 10,000. It stayed at 10,000 until 2020. So how does that work? Corruption or no corruption? So for those bashing FELDA, saying FELDA is half-dead, saying "oh FELDA is corrupt, replanting debt is high, that's why the debt is so high" — the numbers don't seem to suggest that, no. Because if you look at what FELDA announced, its replanting cost per hectare was actually cheaper. When the industry was around 12,000, FELDA was half that, at 6,500. When the industry was 15 to 18,000, FELDA was also about half, at 10,000. It's only during the Madani era that it jumped to 27 to 29,000. So why? Because of subsidies. Ah, I was about to say that. He mentioned subsidies. What was announced was what was charged.
 
-**Sum Dek Joe:** So that's gross versus net — net subsidy. The subsidy itself isn't announced — actually, what the participant signs when appointing and handing over to FELDA is what they know as the cost, and that's what's counted as their debt. But there's a subsidy involved. When I looked at it, I thought, wait, this can't be right — the numbers don't jibe between FELDA and what some commercial plantations have to pay. So I traced it back — there used to be FELDA Technoplan, a subsidiary that did this work. After the change of government in 2020, FELDA Technoplan was absorbed and reformed, now called FELDA Plantation Management (FPM).
+**Rafizi:** So that's gross versus net — net subsidy. The subsidy itself isn't announced — actually, what the participant signs when appointing and handing over to FELDA is what they know as the cost, and that's what's counted as their debt. But there's a subsidy involved. When I looked at it, I thought, wait, this can't be right — the numbers don't jibe between FELDA and what some commercial plantations have to pay. So I traced it back — there used to be FELDA Technoplan, a subsidiary that did this work. After the change of government in 2020, FELDA Technoplan was absorbed and reformed, now called FELDA Plantation Management (FPM).
 
 When we look at it, the problem is that back in the Technoplan era, it consistently went above budget — cost overruns. Take an example from the Auditor General's Report, I think 2010, around the time Tan Sri Amrin was removed. Even then, it was already highlighted how messy things were — unclear agreements, uncertainty over who does what, who's supposed to cut the grass and so on. That's why some settlers were angry — they'd paid FELDA but the grass wasn't cut, possibly because the contract was unclear about responsibilities. All this is in the 2010 Auditor General's Report. It took 10 years to reform — only in 2020 was FELDA Technoplan closed and renamed FPM.
 
@@ -341,7 +341,7 @@ I hope after this, the white paper, yellow paper, green paper will all come out.
 
 **Rafizi:** People don't — the early FELDAs had everyone. FELDA Bilut had Chinese, had Indians. FELDA in Johor... I don't remember the very first FELDA, not the type you're thinking of, one even earlier than that. Actually there were Chinese, Indians. But because in the early days FELDA was an economic restructuring [scheme] to lift families out of poverty, so in the early days it really was like that. Okay, good.
 
-**Speaker ?:** Alright. Okay, YB.
+**Haziq:** Alright. Okay, YB.
 
 **Haziq:** 1 hour 40 minutes. So we have 1 hour 40 minutes left total — total for, eh, total total. Not FELDA. Meaning 1 hour 10 minutes for FELDA. So we have about 1 hour 20 minutes left for PISA. Okay, good. Let's go.
 
@@ -417,7 +417,7 @@ I hope after this, the white paper, yellow paper, green paper will all come out.
 
 **Sum Dek Joe:** Okay. Yes, just going back to the point — almost two-thirds of our 15-year-old students are unable to reach the basic Level 2 standard in mathematics. What does that mean? There's an example — everyone watching, if you have free time you can go read it. It gives an exact example of what Level 2 is. So Level 2 in mathematics is, for instance, can you convert currency? So let's say 1 Singapore dollar converts to how many ringgit? 3 ringgit. So if you have 40 Singapore dollars, how much money would you get? They can't answer that.
 
-**Rafizi:** Imagine that. 2 out of 3.
+**Sum Dek Joe:** Imagine that. 2 out of 3.
 
 **Sum Dek Joe:** 65% of our students. Very concerning, you know.
 
@@ -431,7 +431,7 @@ I hope after this, the white paper, yellow paper, green paper will all come out.
 
 **Speaker ?:** Believe me.
 
-**Speaker ?:** Do you believe me?
+**Rafizi:** Do you believe me?
 
 **Sum Dek Joe:** We actually recorded the fourth largest decline. And those that fell more, like Norway, Iceland, Slovenia — their nominal level is actually higher than ours. So their base is actually higher.
 
@@ -489,7 +489,7 @@ I hope after this, the white paper, yellow paper, green paper will all come out.
 
 **Rafizi:** Higher. Just how much for reading — because we need to look at the context. Reading that doesn't reach the standard, how much is it — about 50-plus percent? Hold on, let me check.
 
-**Sum Dek Joe:** It's here, I have it here too.
+**Rafizi:** It's here, I have it here too.
 
 **Rafizi:** Reading, eh — reading means 56% below reading proficiency. Meaning this — imagine, everyone watching this, this is a 15-year-old child, you know, this isn't a Year 1 or Year 2 child. A 15-year-old, Form 3 — 56% in terms of reading ability is below the set reading proficiency level. Is there an example, Joe?
 
@@ -505,11 +505,11 @@ I hope after this, the white paper, yellow paper, green paper will all come out.
 
 **Rafizi:** They spend — if you look at that bar, it's big, how much might they spend? Maybe around 60, 70 dollars, no? Maybe close to 100 dollars.
 
-**Sum Dek Joe:** They spend only about one-fifth, 20%, of what we spend on our students.
+**Rafizi:** They spend only about one-fifth, 20%, of what we spend on our students.
 
-**Rafizi:** But their trend is picking up?
+**Sum Dek Joe:** But their trend is picking up?
 
-**Sum Dek Joe:** Philippines, Vietnam, all of them.
+**Rafizi:** Philippines, Vietnam, all of them.
 
 **Rafizi:** And then we can say, oh, Singapore, Hong Kong, Korea, Japan, China are all better than us because their allocation is bigger. Then how do you answer for Thailand, the Philippines, Vietnam?
 
@@ -529,17 +529,17 @@ Another thing is actually preschool — age 5, and if we have the funds, even fr
 
 But to provide universal child care or preschool, it can't be done piecemeal like what we have now — announcing a slightly bigger allocation here, a slightly bigger one there. It has to be a national revolution. The whole country has to do it, and commit for 10 years, however much additional [investment] is needed. And to build that, we need a national plan. If we want to reduce the cost per classroom from the current 1 million plus, how do we bring it down to maybe just 200,000 — then necessity is the mother of all invention. Because of that need, we should gather as many of the smartest people in the country to work it out. But for that to happen, it needs a national push from the very top. Then my question again to Dato' Seri Anwar — do you do it? Have we heard from him? Is he very passionate about this? Don't say, "why ask me, why don't you attack Zahid, why don't you attack Hadi." Well, I mean, we really don't place our hopes on Zahid, or Hadi, or Hamzah. The people previously placed their hopes on you. So when we criticize, don't respond with all that grumbling. This is the expectation placed on a reform prime minister. Never mind if you only serve one term, but leave behind a legacy — after all, Tun Razak only served one term. Tun Razak didn't even serve two terms — from 1970 to 1976, and he passed away — he only won one general election, in 1974, never won more than that. But to be fair to him, I know there's a divided opinion among Malays and non-Malays about Tun Razak — to be fair to him, he left many legacies that became the foundation of the country. So is it wrong for us to expect the same from Anwar Ibrahim? It's been 4 years, he's getting close to serving about as long as Tun Razak did. But you don't see him pushing this. All these speeches — that's why people are getting increasingly angry, because all his speeches are just [rambling], rambling, rambling. People actually expect him to lay out the foundation one by one, okay? People who hate me, PH people and so on, when I say things like this, will say I've become a lover of Tun Mahathir. No, we need to be objective. Objective. Remember Wawasan 2020? You all weren't even born yet at that time, right?
 
-**Haziq:** Already born. No, no, I mean at the time of the launch. When was the launch? 1990, right? Joe was born in 1993 — so not yet, right?
+**Rafizi:** Already born. No, no, I mean at the time of the launch. When was the launch? 1990, right? Joe was born in 1993 — so not yet, right?
 
 **Rafizi:** Three years later. You weren't around yet either, right? '92, right? Do you remember how Wawasan 2020 was launched? Were there balloons? No, no, no. Wawasan 2020, I don't remember there being a launch [event]. It wasn't like what we have now, with big fanfare, everything grand, holograms, roadshows or whatever, like the Program Madani Rakyat and so on. Actually it was just a speech by Tun Mahathir — just one speech. He set out the vision for Wawasan 2020, this and that. Maybe because there was no internet back then, everyone just kept repeating it. But even without the internet, it eventually cascaded, and quite quickly too. Then it ended up failing — Wawasan 2020 failed. But the 90s were defined in terms of direction, in terms of Wawasan 2020. So we are waiting for that kind of direction from Dato' Seri Anwar. If you ask him, he'll say, we've launched Madani. Nobody understood Madani when he launched that book, because it's all high level. They always get angry at me because I don't want to use the Madani branding — there was no Madani branding in the programs the Ministry of Economy did previously. But in the end maybe they used it anyway, for example Madani Mendengar — well, that one was forced through too. Okay, fine, fine, I was right after all. But anyway, in the first 1-2 years there should have been clarity about FELDA reform, what kind of reform, what's going to happen. Because in Malaysia things are very top-driven — even ministers, if not careful, there's not much they can do because people wait for signals from the Prime Minister. That's why choosing a Prime Minister really matters — people wait for signals from the Prime Minister. So you set things out and make sure your team gives instructions, gives KPIs and so on, and then you need to hold him or her accountable every now and then.
 
 Then on the education issue — one by one by one, you must take ownership. Don't leave the PISA issue 100% to Fadlina alone. To be fair to Fadlina, there's a lot she needs to do that's beyond the capability or jurisdiction of the Ministry of Education. Issues of other ministries' budgets, issues of building schools are under JKR, preschool issues right now have overlapping jurisdiction. Very fragmented — some of it is under the Ministry of Unity, there's Kemas under Zahid Hamidi, and so on. So all of this, as prime minister, he needs to step in, break down the walls, put everyone [together] and move forward. That's what we're not seeing. And I hope, if by chance someone is listening to all this, Datuk Seri Anwar's heart will open up. Fadlina is now Datuk Seri, right?
 
-**Haziq:** Datuk Seri Fadlina Sidek, right?
+**Rafizi:** Datuk Seri Fadlina Sidek, right?
 
 **Rafizi:** Because it's worrying if up to two-thirds of our children can't convert one Singapore dollar into Malaysian ringgit — that's scary. There's a lot more to it, and this is something I think we really need to drill down on properly. People will say Rafizi's problem is that he thinks he's the only smart one, and then he thinks he's the only one who knows all these details. Actually, try asking an engineer — if you want to build an iPad, do you think Steve Jobs, when he wanted to build the iPad, just gave instructions, then put on his turtleneck and went hopping around?
 
-**Haziq:** Oh really?
+**Sum Dek Joe:** Oh really?
 
 **Rafizi:** Yeah, he's marketing [background], he's not like Mark Zuckerberg who has a computer software engineering background. But he would get into the details — if he said he wants something this sleek, that sleek, he would hold you accountable and chase you until he got a screen as sleek as that. Even if he had to fight with everyone, buying IP from everywhere, he would do it. Same with him — if he wanted something curved like this, he would go into the most minute detail of the design. So if you want to solve a problem, of course you don't need to do it yourself — after all, you're the Prime Minister, you're a minister. But you need to know all the details. So the leadership culture at the top has a problem too, because they really don't want to know the details — all these programs, reports and so on, they don't want [to read], it's too long, too troublesome.
 
@@ -555,7 +555,7 @@ Then teacher competency — every time we change the syllabus, every time we wan
 
 **Rafizi:** It has only become a document tabled in parliament. That's it. Whereas if it were me, you develop a master plan, a business plan for 5 years — actually your job, if you're the CEO at the top, is to make sure your division delivers, this is your deliverable, what have you done, and you need to transparently communicate and be accountable for it, not only to me, the stakeholder, but to all the other stakeholders. So you don't see that happening at all. Right now everything is just politicking — one faction here, another there, then this one gets angry at Anwar, that one wants to merge. So when this happens, mark my words, most likely by the 2029 election, if we're still like this on this podcast, we'll be on par with Cambodia — maybe Cambodia will have already overtaken us.
 
-**Sum Dek Joe:** Oh, that's it then, Cambodia will take over us, we're done.
+**Rafizi:** Oh, that's it then, Cambodia will take over us, we're done.
 
 **Rafizi:** Right. And then those who can't master mathematics, it won't just be two-thirds, it'll become 80%, we're finished. So these are the big issues we can't solve right now. But I wish the national discourse were about this. And I wish, honestly, there were more of it.
 
@@ -581,7 +581,7 @@ Then teacher competency — every time we change the syllabus, every time we wan
 
 **Rafizi:** We have so many other podcasts. We're already 3 and a half hours in. No wait, 2 hours 50 minutes. Oh, so he wants to drag it to hit 3 hours, so it gets monetized. No, in fact our education agenda, one part of it is all about PISA. We want to achieve the top 30%, top one-third, by 2030. That's really hard. I'm stressed too. I think maybe after this we need to change the agenda — our target should be to beat Cambodia by 2030, or to avoid being beaten by Cambodia. Because top one-third seems like it will take, what, 10 years. But.
 
-**Speaker ?:** So every cheer.
+**Sum Dek Joe:** So every cheer.
 
 **Rafizi:** Not necessarily, if you look — it's okay. But if you look at, what's it called, Cambodia? Their improvement from 2018 to 2025, 7 years, is almost 100 points improvement, you know.
 
@@ -589,7 +589,7 @@ Then teacher competency — every time we change the syllabus, every time we wan
 
 **Rafizi:** If you look at absolute quantum points, over that 7-year period — I don't have the full details there.
 
-**Speaker ?:** Oh, but it doesn't reach that far.
+**Rafizi:** Oh, but it doesn't reach that far.
 
 **Rafizi:** It's basically from around 330, taking the max, 330 to around 380. So 50 points over 7 years. Over 10 years, it's actually possible to achieve 80, 90 points. So if we achieve 80, 90 points from 397, we'd already be at the OECD average. But 5 years isn't possible, maybe 10 years. So maybe we need to change it, so we don't get beaten by Cambodia. Let's look at it this way. Okay, okay.
 
@@ -599,7 +599,7 @@ Then teacher competency — every time we change the syllabus, every time we wan
 
 **Sum Dek Joe:** Just until the end of this month? Until the end of September? Why does his term start so late?
 
-**Speaker ?:** Cambridge starts in October.
+**Rafizi:** Cambridge starts in October.
 
 **Sum Dek Joe:** Not sure, I think it starts in October. But it's not just him, there are other kids who are actually helping out too.
 
@@ -609,17 +609,17 @@ Then teacher competency — every time we change the syllabus, every time we wan
 
 **Rafizi:** So that will be for upcoming podcasts. Have we hit 3 hours yet? 2 hours 57 minutes.
 
-**Speaker ?:** 2 hours 57, ah.
+**Haziq:** 2 hours 57, ah.
 
 **Rafizi:** Just 3 more minutes then. Because last week it was already 4 hours. Thanks, alright then.
 
-**Speaker ?:** Okay, that's it.
+**Haziq:** Okay, that's it.
 
 **Haziq:** We'll meet again tonight.
 
-**Speaker ?:** Okay, that's how it ends.
+**Rafizi:** Okay, that's how it ends.
 
-**Speaker ?:** That's right.
+**Haziq:** That's right.
 
 **Haziq:** People like it, people praise it — people criticize a lot, but people praise Haziq for being good, he does the ending. The ending is okay, good, that's it.
 

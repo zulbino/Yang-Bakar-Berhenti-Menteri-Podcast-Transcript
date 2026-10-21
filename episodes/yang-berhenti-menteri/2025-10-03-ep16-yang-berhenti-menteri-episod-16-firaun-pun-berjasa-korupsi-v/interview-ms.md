@@ -70,7 +70,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Menarik. Yalah, ni sangat nyata lah. Ini memang kualiti beria yang kita patut tunjukkan dalam podcast ini.
 
-**Haziq:** Baik. Kan. Jadi seronok dia tunjuk isyarat peace lagi.
+**Rafizi:** Baik. Kan. Jadi seronok dia tunjuk isyarat peace lagi.
 
 **Rafizi:** Maksudnya apa? Selamanya ini dia memang tak ada lesen.
 
@@ -236,7 +236,7 @@ Sebab itu kita tengok kalau dari segi syarikat pesawat awam ni, sebab itu hanya 
 
 **Haziq:** Okey, baik YB. Jelas.
 
-**Rafizi:** Dan kita ada soalan lagi. Daripada Afiq Ikwan. Kalau Afiq Ikwan tanya apa?
+**Haziq:** Dan kita ada soalan lagi. Daripada Afiq Ikwan. Kalau Afiq Ikwan tanya apa?
 
 **Haziq:** Ramai ahli politik kini berperanan ganda sebagai influencer. Apa — ya ke? Ni sindir aku ke apa? Siapa Afiq ni? Apa prinsip YB untuk bezakan komunikasi dasar yang berisi daripada kandungan pemburu views? Bagaimana YB menilai ROI masa atau sumber turun padang, buat dasar, rakam kandungan, dan apa garis merah YB? Penajaan ke ketepatan fakta, etika guna pegawai atau privasi data?
 
@@ -270,7 +270,7 @@ Sebab itu kita tengok kalau dari segi syarikat pesawat awam ni, sebab itu hanya 
 
 **Rafizi:** Prestasi tak baik lah tadi. Hujung-hujung tu dia dah tergelincir banyak kan? Ya.
 
-**Multiple speakers:** Awal-awal tu bagus.
+**Rafizi:** Awal-awal tu bagus.
 
 **Rafizi:** Tapi tak apa, ada minggu depan ada ruang. Ya. Okey. Minggu depan kita akan kosongkan apa nama. Oh, itu satu kenyataan yang berani.
 
