@@ -7239,3 +7239,6 @@ DeepSeek's own API would test the model itself.
 - Adoption step 6d (`drop_orphan_backchannels.py` + re-merge) no longer runs. `rewrite_segments.py`
   prompt rule 7 now names the test: keep an agreement that answers a question or that the next
   speaker responds to, drop the rest. Turns removed by step 6d before this date are not restored.
+- **No non-speech tags** (owner, 2026-10-21): the `[laughter]` plan is withdrawn; the transcript
+  is spoken words only. A test with AST (AudioSet "Laughter") on ep68 had scored at most 0.10 in
+  any window, so it was not usable anyway; the script was removed.
