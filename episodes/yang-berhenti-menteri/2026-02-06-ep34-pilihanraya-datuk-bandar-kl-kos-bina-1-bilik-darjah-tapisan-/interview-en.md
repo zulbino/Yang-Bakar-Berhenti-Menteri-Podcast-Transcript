@@ -46,15 +46,15 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Haziq:** Assalamualaikum, and welcome back everyone.
 
-**Rafizi:** Podcast Yang Berhenti Menteri, episode 34. Why are you laughing?
+**Haziq:** Podcast Yang Berhenti Menteri, episode 34. Why are you laughing?
 
 **Haziq:** Because YB, you're being like this again. As usual. Here we go again. YB Rafizi Ramli, and today there's no guest.
 
 **Rafizi:** So let's mix it up. Yes, let's hear the Friday sermon from YB Rafizi.
 
-**Haziq:** And it's funny, since PAS people are now doing Friday sermons too.
+**Rafizi:** And it's funny, since PAS people are now doing Friday sermons too.
 
-**Rafizi:** Eh, Allah Allah. No no, that context isn't right. I withdraw that. It's a Thursday night lecture. Thursday night lecture with brother Rafizi Ramli.
+**Haziq:** Eh, Allah Allah. No no, that context isn't right. I withdraw that. It's a Thursday night lecture. Thursday night lecture with brother Rafizi Ramli.
 
 **Haziq:** And perhaps tonight, there might be a lot, and we'll try to speed everything up.
 
@@ -62,7 +62,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Haziq:** Alright, alright. So people need to wait until the end. Anyway, let's start with the first segment, YB.
 
-**Rafizi:** As usual, "beriamat" (getting all fired up). But I'm worried I won't fulfill expectations this time. Because this week even people are afraid to do inappropriate things when this segment comes up. "Ceplos" is still the same as usual, he's in his own bubble. Okay, never mind, let's try.
+**Haziq:** As usual, "beriamat" (getting all fired up). But I'm worried I won't fulfill expectations this time. Because this week even people are afraid to do inappropriate things when this segment comes up. "Ceplos" is still the same as usual, he's in his own bubble. Okay, never mind, let's try.
 
 **Haziq:** The first one.
 
@@ -84,7 +84,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** The forest.
 
-**Haziq:** Oh, that's his answer.
+**Rafizi:** Oh, that's his answer.
 
 **Rafizi:** Yes, so monkeys can watch. Being interrogated, right? Is this really, definitely a Selangor person? Or a Kelantan person living in Selangor?
 
@@ -92,13 +92,13 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Who knows, maybe someone's from Shah Alam. So he really is from Selangor.
 
-**Farhan (Pa'an):** He's an Ultras Selangor. Ultras. Ultras Sel. Ultrasel. Ultrasel.
+**Haziq:** He's an Ultras Selangor. Ultras. Ultras Sel. Ultrasel. Ultrasel.
 
 **Rafizi:** So who's actually "beria" here?
 
 **Haziq:** The most "beria" one is Ultrasel, YB.
 
-**Rafizi:** Because of lighting the flare.
+**Haziq:** Because of lighting the flare.
 
 **Haziq:** He lit a flare at that place, and when the police asked, he answered like that, with full confidence.
 
@@ -124,7 +124,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** "Klanek." Klanek, ah, klanek. Oh, that video. Okay okay okay, the producer didn't know, but even I know how Kelantanese people say "Kelantan." Do they think he lives in Bangsar?
 
-**Haziq:** Oh, they thought Kelantan—
+**Rafizi:** Oh, they thought Kelantan—
 
 **Rafizi:** — has a harder life, even more extreme than Bangsar, can't even pronounce it right? "Kelantan catches Kelantan" — do they think this promotion started from him to promote his own concert? No, it's not that. So who's "beria" here?
 
@@ -142,11 +142,11 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Farhan (Pa'an):** Maka Fest, no. I think he's held it in many places, we're getting confused. I think the "beria" ones are those who—
 
-**Rafizi:** The ones who went?
+**Haziq:** The ones who went?
 
 **Farhan (Pa'an):** Not the ones who arrested.
 
-**Rafizi:** Oh, the ones who arrested?
+**Haziq:** Oh, the ones who arrested?
 
 **Farhan (Pa'an):** Because you already gave the permit.
 
@@ -214,9 +214,9 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Haziq:** He has resigned, but is waiting to meet the TYT and CM to discuss first.
 
-**Rafizi:** But he's already cleared out the office.
-
 **Farhan (Pa'an):** But he's already cleared out the office.
+
+**Haziq:** But he's already cleared out the office.
 
 **Rafizi:** Cleared out the office already. So maybe UMNO's culture is a bit different, since their bureaucracy is a bit more. If I can talk about resigning — yeah, I resigned, I'm the most experienced at resigning, right, so it's easy to just write a resignation. I remember that letter, if I want to read it, I can, it's here — actually just write that I am resigning effective from this date, thank you, XOXO. There's no XOXO. So after that, there's no more question of discussing it. If you want to discuss, get opinions, that's before issuing the letter. If the letter's already out, it's out — because, well, in this case the Chief Minister of Melaka, Datuk Seri Rauf, he also has to think about it — Dr. Akmal has his dignity too. If he's made a decision and it's something important to him, and he's a politician — if for example he's sent a resignation letter, then we want to persuade him again, or want to ask him to change his decision, whoever bears the consequences later, it's him. So it's better if they're going to part ways, part ways cleanly, right, don't break up and get back together, break up and get back together later. But well, UMNO is like that I guess, with PAS too it's break up, get back together, break up, get back together — eventually it becomes troll material, like this, ending up in "beria" for no reason and winning straight away.
 
@@ -232,7 +232,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Maybe as an ADUN. As ex-Exco, if I'm not mistaken? I'm not sure. Never mind, never mind. Let's hope this resignation process goes smoothly, because otherwise he'll enter "beria" again. If in a week, two weeks there's a new story, he'll enter "beria" a bit more. Enter here.
 
-**Haziq:** Straight into here. Straight into here.
+**Rafizi:** Straight into here. Straight into here.
 
 **Rafizi:** Okay, alright. Okay, that's it. He's won, he's won, congratulations, he's won, take the winning trophy. Okay, let's go, let's move to Standing Orders, YB.
 
@@ -268,7 +268,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Not convincing. Just looks that way. That's like the questions — the government's answers are just administrative. I'm following what — okay, back to this. From the days when I had thick hair, the main issue has always been that we must be responsible and not pass debt on to the next generation, because their challenges are bigger than ours. We've already talked about the threat of an aging nation, the sandwich generation and all that. Alright, first we need to compare — the claim in the answer is that repayment performance is better now — we need to compare it against the data available before, actually how much tax we haven't returned to the people. How much? No, you didn't get to check, right? I actually checked the financial report, the Federal Government's financial position — the Federal Government Financial Report, LKKP — from 2010. I recall the first report that clearly stated tax payments not refunded to the people was around 2015, 2016; before that there wasn't one. So the best we have is from 2015 to now, 2024 being the latest figure, but at least we have 10 years of data. The practice of not refunding tax to the people appears to have started during Datuk Seri Najib's era. Let me try to get the figure, I can't recall it off the top of my head, so we don't go off track and have people say I'm just throwing around figures. In 2017, they called it refund arrears — meaning tax not refunded, people's tax overpayments not returned — in 2017, RM34.3 billion. In terms of percentage of tax recorded as national revenue, declared as national revenue but actually being overpaid tax, that was 19.3%. That means during Najib's time it was actually even worse, 19.3%. Meaning if he announced tax revenue for 2017 of RM177.7 billion, actually 19.3% of that should have been returned to the people, but it wasn't. Then in 2018 it peaked, because at that time there was overpaid income tax as well as GST that wasn't refunded — 2018, RM44.4 billion, peaking at 25.5%. And yes, if we say we're better than Najib — that's why Najib lost, right, that's why people were angry back then. And the PH 1.0 government, when Brother Lim Guan Eng was Finance Minister, struggled hard to resolve that problem. So if you recall, back in 2019 there was a PAC report, a review, and Petronas — the government had to take a special dividend from Petronas to settle the government's debt to the people in the form of tax that couldn't be paid. So by 2020, that figure had already come down — from the peak of RM44.4 billion in 2018, it dropped to RM14.6 billion in 2020. Then it went back up — 21.8, 25.7, 25.5, and in 2024, 38.3, 33.3 billion. And as of 2024, that percentage has crept back up bit by bit, now at 14% of tax collected. Okay. Now, Datuk Seri Amir Hamzah says this is a normal thing. Because, well, sometimes to the officers preparing the questions — I understand we want them preparing answers, right, we definitely want to cover for our minister so our minister doesn't look flustered answering or can resolve the questions. But be careful, don't give an answer that's actually inaccurate or misleading to the House, or that appears aimed at covering up the real facts. That's why when Datuk Seri Amir Hamzah gave the example that this seems like a normal thing and other developed countries like Singapore, Germany, Netherlands, Norway seem to do the same — that's actually factually wrong, inaccurate, and I think if I were an opposition member from Bersatu or PAS, I would have stood up assuming bad faith, because it doesn't give an accurate picture. First, the situation is that while generally every country chooses whether to do accrual accounting or cash accounting, how it's implemented differs. We can't say our cash accounting is the same as Germany's, because Germany uses a different hybrid. Second, tax practices also differ. So what Datuk Seri Amir Hamzah didn't mention, which I feel wasn't quite forthright — he didn't actually compare: if Singapore uses cash accounting like us, if Norway is like us, what's their actual backlog of unrefunded tax? 1% or so?
 
-**Haziq:** That's what I told you earlier.
+**Rafizi:** That's what I told you earlier.
 
 **Rafizi:** This is being mischievous, huh. No, that's why if it's a parliamentary answer, I think it would be best, if he wants to give examples of other countries, to benchmark them in the right context and perspective. It's true that Singapore, Norway, Germany and Netherlands, the examples given, do practice cash accounting, although the way cash accounting is implemented differs. In Germany it's hybrid — there's government, there are institutions, there are certain divisions that actually do accrual accounting. It's not a full-fledged or 100% cash accounting like ours. But more importantly, the question that needs answering is why the government hasn't repaid up to RM33 billion, holding onto the people's money, and this repeats what was done during Datuk Seri Najib's era. Okay, that's why if he wants to cite Singapore, Norway — we should actually compare how much unrefunded tax arrears they have. Do you think, in Singapore or the Netherlands, if the government failed to refund up to 20%, 15% of national revenue to their people, their businesses, for years on end, what do you think would happen? That government would collapse. So that's why the issue of tax arrears doesn't arise in those countries. Like Haziq cut in earlier, when we compare the benchmark, in our peak year it was 25.5% — meaning of the tax collected each year, 25.5% in 2018 wasn't returned to the people, even though that's actually the people's money from overpaid tax. Now it's dropped to 13.8, 14%. If we don't make noise, quietly that figure will keep rising again, for example. In the other countries given as examples, Singapore, Norway and so on, the practice is that unrefunded tax doesn't exceed 1% in arrears. So if they collect, say, 500 billion dollars, they'd only fail to refund 5 billion. And we can understand that within around 1%, overpaid tax not refunded is due to administrative process, it needs processing. So it becomes purely administrative and also a timing difference, it's not an issue, it's not linked to the deficit at all. So why does it happen this way? Why is the risk of the government holding onto over-collected tax without refunding it present in Malaysia, but not, for example, in Singapore, the Netherlands, or Germany?
 
@@ -322,7 +322,7 @@ I might be a romantic — maybe people say "ah, if we follow your head, the gove
 
 **Rafizi:** Okay right. That's because it's really a process we as humans have to go through hardship. In going through that hardship, that's when we learn to fix things that we previously didn't want to accept, or that we found difficult. So, take the example of us as humans, as a family — if we don't have enough money, what do we do? Work.
 
-**Haziq:** We work to increase income more, if that's still not enough.
+**Rafizi:** We work to increase income more, if that's still not enough.
 
 **Rafizi:** Cut spending. How do we cut spending? Whatever's unnecessary, wasteful, we throw out. Whatever we can live on and is sufficient — it's not our wants, it's our needs — that's normal. You don't need to go to Harvard or Cambridge to study economics to know that. Have you noticed? I think for the past 10 years, Malaysia as a country has known we have a revenue problem. It's a long story — about structural weaknesses, our economy not having enough value-add, all that. But when we were the opposition before, we talked a lot about spending. We wanted to make sure government spending truly brought good value. We wanted to make sure there was no corruption. That's why, if we keep telling ourselves that everything is fine, that we have plenty of money — sometimes to the point where we even hide the fact that public money hasn't been recovered — then we'll keep being complacent, thinking we're rich. If we're in dire straits, because we already know this money needs to be paid back, my deficit needs to come down, there's only so much money, but I want to win the election and I want to have impact, I need to do a thousand and one things — how would you have done it? Then you cut the fat. And things that we previously thought were fine, or that we were comfortable with, where there were vested interests — now you have no choice but to deal with it. The corruption, the spending, the waste. Take political funding for example — ensuring that political culture remains expensive and is financed, actually it all comes back around, there's a contract here, a contract there, someone profits, politicians get paid because they've marked things up. All of that has to be confronted. But as long as we don't reach the point where we think we need to go through this creative destruction phase, then we'll remain business as usual like this.
 
@@ -330,21 +330,21 @@ I might be a romantic — maybe people say "ah, if we follow your head, the gove
 
 **Rafizi:** That's why it comes back to the question of our intention to be a government that I mentioned earlier. I think we have different standards and I understand people disagree with my standard, but don't blame me for wanting something much better. If our standard of expectation is that the government's job is only to manage things and just be okay enough — we're not even talking about our rating being upgraded, right — our rating just holds steady, ticks up slightly. Is that good? Is it better than before? If we compare to before, sure, we're all better off. But will that rating allow us to overtake our peers, Vietnam, Singapore, become a developed nation, put us on a good trajectory for the next 20 years? We haven't reached that yet, right. So that's why, we have to ask the question — are we satisfied with what we have now? This is the problem when politics becomes very polarized. To PH supporters, this can't be touched at all because they're afraid of losing. That's why I've become the main target, getting cursed by PKR and PH supporters, even professors and non-professors alike cursing me — going forward.
 
-**Haziq:** Going forward, it's because they're afraid of Rafizi's criticisms, that PH will lose later.
+**Rafizi:** Going forward, it's because they're afraid of Rafizi's criticisms, that PH will lose later.
 
 **Rafizi:** Because I've basically become the de facto opposition. I'm practically the de facto opposition. Things the opposition can't even think of raising, I'm the one pointing out. And I think they know too — this is just mischievous chatter. They know that before, when we focused our criticism on the Najib-era government, Najib fell. So when it becomes polarized and overly partisan, they no longer think about the long-term impact. Our intention is that we want this government not just to be good but far better than what exists, so that the result of 20, 30 years of shouting for reform has a long-lasting impact on the future generation. That's what I want. So if, for example, Datuk Seri Anwar's government, the Ministry of Finance, the ministries that exist, listen to my criticism and improve — okay, they'll win and the country's condition will improve. But my worry is, I don't see them heading in that direction. That's why, while it's good that there are achievements being cited, but even in the previous government we also mentioned that some things look cosmetic, some things are actually early signals from the market, and some things must involve structural change. What we haven't seen yet is structural change. So when there's no drastic structural change with long-term impact, then the pretty numbers or ratings or stronger stock exchange performance — that's not guaranteed to last long. And if the government changes, then we're giving capital and reason to the new government to say there's no need to do all these difficult things. Look at the Madani government before — kept doing, doing, doing, lost the election and things got worse. So we'll become 100% populist as long as we're in government. That's what we want to avoid now, in this 1-2 year period leading up to the upcoming election. You know, whoever the government is, whether PH, BN, or PN, as long as I have the mandate to speak, I will. I will say exactly the same thing. Let's say the next Finance Minister after this — say Razifuddin — the next Finance Minister does the same thing, I'll say the same thing too. I'll say the same thing in parliament, outside parliament. Because our responsibility isn't solely to our party, our group. Once you sign up for this job, if you're in my shoes, my responsibility is to the public and I will be judged by what I do in order to protect and safeguard the public's interest in the long run, not right now. Okay, alright YB, an hour and 10 minutes. That's long. We've discussed for a long time.
 
 **Haziq:** Speaking about voter polarization earlier —
 
-**Rafizi:** Let's move to the issue Haziq brought up. Life is tough too, huh.
+**Haziq:** Let's move to the issue Haziq brought up. Life is tough too, huh.
 
 **Haziq:** The first one, the issue of accountability at DBKL, or the politics of fear.
 
-**Rafizi:** This is about the study on the KL Mayor election.
+**Haziq:** This is about the study on the KL Mayor election.
 
 **Haziq:** And I think the issue of UEC, the issue of the Mayor election is quite 50-50. It's just maybe there's—
 
-**Rafizi:** 50-50 meaning?
+**Haziq:** 50-50 meaning?
 
 **Haziq:** If we look at PH's Malay voters, how would you score it?
 
@@ -482,7 +482,7 @@ I might be a romantic — maybe people say "ah, if we follow your head, the gove
 
 **Rafizi:** Go ahead, look at that.
 
-**Haziq:** Go back. Look at my question. My question was detailed, right, requesting a detailed breakdown of the cost metrics for a classroom by cost component, school type, urban or rural, and by state breakdown for each year from 2015 to 2025.
+**Rafizi:** Go back. Look at my question. My question was detailed, right, requesting a detailed breakdown of the cost metrics for a classroom by cost component, school type, urban or rural, and by state breakdown for each year from 2015 to 2025.
 
 **Rafizi:** Yes. And the average time taken for a school to be completed from the year it was approved to the year it was occupied, and the number of schools where completion time exceeded 5 years. That was the question. Look at the Education Minister's answer — it definitely failed KBAT [Higher Order Thinking Skills]. Look at her answer. Want to read it, YB? Never mind, but I asked for detailed data — cost breakdown, school type, urban, rural, by state, by year — not a single one was given. That's why our kids fall behind when they sit for PISA tests. No wonder — even when a minister is asked a question, she answers something completely different. Comprehension is just wrong. And we saw when it hit the media headlines: "Classroom construction costs rise sharply since 2021, reaching RM520,000 each."
 

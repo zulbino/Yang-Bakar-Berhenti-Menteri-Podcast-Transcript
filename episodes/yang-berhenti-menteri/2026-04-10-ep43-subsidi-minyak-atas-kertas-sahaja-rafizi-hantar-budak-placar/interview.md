@@ -164,7 +164,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Ha, maksudnya tahun 1990, pengeluaran kita ialah 615,000 tong sehari ya. Kemudian dia meningkat tau, terus meningkat 30, 31,000, 32,000 — ini KTOE lah kan, maksudnya daripada 615,000 tong sehari tu dia makin meningkat dalam tahun 90-an. Kemudian dia naik, naik, naik, 35,000 tahun 1998. Kemudian dia mula turun sikit — 99, 2000, 2001, 2002, dia menurun kepada sekitar 30 ke 32,000 KTOE lah, tak apa eh. Dia memuncak pada tahun 2004 — kira eh, 38,041 KTOE kali 7333, bahagi kan?
 
-**Haziq:** Dia tak bolehkah calculator engkau tak sama dengan calculator mahal.
+**Rafizi:** Dia tak bolehkah calculator engkau tak sama dengan calculator mahal.
 
 **Rafizi:** Itu baru bagi 365 — 764 ribu. So dia memuncak kepada 764 ribu tong sehari dalam tahun 2004. Dan dia kekal sekitar angka itu hingga tahun 2008 eh — lebih kurang 2008 pun dalam 700,000 tong sehari juga. Dan dia mula menurun — eh, itu ada konotasi dia tau, sebab itu sebenarnya masa zaman-zaman 2005, 2006, 2007, 2008 tu kan, yang orang duk ulang video klip Dato' Seri Anwar — saya ulang kan, "menang hari ini, esok turun harga minyak", yang orang tunjukkan perbahasan ataupun debat di antara Dato' Seri Anwar dengan Dato' Sri Ismail Sabri — eh, bukan, Shabery Cheek. Kena ingat tahun 2008 itu pengeluaran kita, kira eh, 34,195 kali 7333, bagi 365 — 686. Dan masa itu memang pengeluaran kita melebihi daripada penggunaan petrol dan diesel. Saya ingat masa itu penggunaan petrol dan diesel tak sampai 400,000 tong sehari — ada buffer banyak tu tau, ha, betul, 400 ribu tong sehari, in fact lower, 300 ribu tong lebih je masa tu kan. So it's almost double — pengeluaran kita tahun 2008 almost double dengan penggunaan masa itu. Tapi bermula tahun 2010 tu, dia mula menurun eh. Ambil 2011 — 28,325 KTOE kali 7333 bahagi 365 — 569. 2011 dia dah turun kepada 569,000 tong sehari. 2021, sedekat selepas itu, dia tinggal 25,389 —
 
@@ -300,7 +300,7 @@ Jadi semua ini saya pun tak faham sebab cara Hisham Jalil cakap tu macam dia lag
 
 **Rafizi:** Dia bukan episod 3, yang itu episod 2. Bukan episod 3 lah.
 
-**Haziq:** Empire Strikes Back.
+**Rafizi:** Empire Strikes Back.
 
 **Rafizi:** Okey, balik kepada.
 
@@ -348,9 +348,9 @@ Jadi akhirnya saya pasti makin ramai yang bila dia connect the dot, connect the 
 
 **Haziq:** Kalau kita boleh pergi kepada tuduhan yang spesifik kepada YB, yang berkaitan dengan invoice yang ditunjukkan oleh Datuk Seri.
 
-**Rafizi:** Syeikh Muhyiddin Yassin. Inilah.
+**Haziq:** Syeikh Muhyiddin Yassin. Inilah.
 
-**Haziq:** Itulah yang dia tunjukkan tu.
+**Rafizi:** Itulah yang dia tunjukkan tu.
 
 **Rafizi:** Itu yang saya tanya — satu, takkanlah orang bagi rasuah ni dia bagi invoice. Keduanya, apa kena mengena invoice ni dengan aku? Invoice ni kepada seorang yang bernama lain, kepada syarikat lain, jadi apa kena-mengena? Oh, tapi dia dikatakan baik dengan you? Demi Allah, saya nak kata malam ini, orang tengok semua ni kan — demi Allah, saya tak pernah jumpa dan tahu kewujudan yang dinamakan itu. Saya tak pernah jumpa siapa-siapa.
 
@@ -462,9 +462,9 @@ I think my family, my wife, dia dah melalui semua ini. Jadi kami tak bincang —
 
 **Farhan (Pa'an):** Tak, ini promo Yang Berhenti Menteri. Beauty is in the eyes of the beholder.
 
-**Rafizi:** Okey. Okey, baik YB.
+**Haziq:** Okey. Okey, baik YB.
 
-**Haziq:** 2 jam 45 minit yang produktif.
+**Rafizi:** 2 jam 45 minit yang produktif.
 
 **Rafizi:** Tak sampai. Aku takut sangat 3 jam ni nanti kena maki. Okey, itu je takut YB. Jadi kita jumpa minggu depan. Minggu depan nanti ingatkan cerita Papa Gomo. Papa Gomo.
 

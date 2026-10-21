@@ -56,21 +56,21 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Wong Chen:** Oh, that is a good question. Actually, to our 1 million viewers out there — I remember I called you on the phone. At that time I think you still picked up calls. Then I remember I was talking to Dato' Seri Anwar regarding GST. Then he said, "Eh, you know I've got this advisor who tells me he's pro GST."
 
-**Haziq:** You were pro GST?
+**Wong Chen:** You were pro GST?
 
-**Rafizi:** Was it? Because I told him this is regressive.
+**Wong Chen:** Was it? Because I told him this is regressive.
 
 **Wong Chen:** I'm the socialist one, brother. So he said, but you know—
 
 **Rafizi:** I will contest that. This is like in court, when people allege something, we will contest.
 
-**Haziq:** No, no, no, I understand why.
+**Wong Chen:** No, no, no, I understand why.
 
 **Wong Chen:** Yeah, yeah, yeah, because it's efficient. It was a very efficient system, but if you do GST cheap, okay. So my very first time I talked to him was on the phone. Then I think a month later we met for the first time, I think so.
 
-**Haziq:** Could be.
+**Rafizi:** Could be.
 
-**Rafizi:** Eh, when was this? 2009? That must be 2009.
+**Wong Chen:** Eh, when was this? 2009? That must be 2009.
 
 **Haziq:** 2009.
 
@@ -80,11 +80,11 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Because I remember at that time, that was the first time I got scammed by Anwar Ibrahim. Because the promise he made when he asked me to resign from my corporate job was that I wouldn't need to appear anywhere, no politics, I'd just do backroom work, focus on policy and so on. So suddenly the government at that time was really starting to think about implementing GST. At that time maybe not many people in PKR — and Wong Chen wasn't really in PKR yet.
 
-**Haziq:** Not yet, right.
+**Rafizi:** Not yet, right.
 
 **Rafizi:** Not many people understood and could speak about GST. So he needed a PKR representative at councils, at forums and so on. That's how I found myself suddenly on a stage together with Tony Pua, that first time.
 
-**Haziq:** Ah, right, right. Tony Pua, DAP's hero at the time.
+**Wong Chen:** Ah, right, right. Tony Pua, DAP's hero at the time.
 
 **Rafizi:** So after that — I picked up the call.
 
@@ -94,11 +94,11 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Wong Chen:** That's how I got — I got scammed too. We all got scammed.
 
-**Rafizi:** Scammed together. Okay.
+**Haziq:** Scammed together. Okay.
 
 **Haziq:** Alright, before we move to the heavier segment, we'll go to a segment that might be a bit lighter first, but let's move quickly through it.
 
-**Rafizi:** Before we get to the scandal, we'll go to a segment that might be a bit lighter, but let's move quickly.
+**Haziq:** Before we get to the scandal, we'll go to a segment that might be a bit lighter, but let's move quickly.
 
 **Haziq:** And YB might need to rate too whether something is sufficiently "Beria."
 
@@ -114,11 +114,11 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Shamsul Iskandar. I don't think Wong Chen — Wong Chen is probably unclear on what this is about. I have no idea, we need to give YB Wong Chen some context.
 
-**Haziq:** Is it the minister or Shamsul?
+**Wong Chen:** Is it the minister or Shamsul?
 
 **Rafizi:** Both. There's Minister Fadlina and also Shamsul. So we need to give context.
 
-**Wong Chen:** This is a women's retreat and—
+**Haziq:** This is a women's retreat and—
 
 **Haziq:** —the invitation of course was from brother Shamsul Iskandar. Okay.
 
@@ -134,7 +134,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Wong Chen:** What I want to know is, is this a live recording that they put on the internet?
 
-**Haziq:** It's a private recording.
+**Wong Chen:** It's a private recording.
 
 **Rafizi:** They could make it into promo — this is a promo clip.
 
@@ -150,15 +150,15 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Whatever, okay.
 
-**Wong Chen:** So, okay, is this beria or not?
+**Rafizi:** So, okay, is this beria or not?
 
 **Rafizi:** Beria, beria.
 
-**Wong Chen:** Oh, Tun Def is beria here. So how does he rate? Let's look at 3, 4 more and then pick the most beria one.
+**Rafizi:** Oh, Tun Def is beria here. So how does he rate? Let's look at 3, 4 more and then pick the most beria one.
 
 **Rafizi:** Okay, okay, so that's one.
 
-**Haziq:** He definitely fits the criteria for beria.
+**Rafizi:** He definitely fits the criteria for beria.
 
 **Rafizi:** But let's see the others, 2, 3 more. Okay, let's look at the next one — Izzah, Kamil Intim. We need to give Wong Chen context on this. Did YB notice the promo about the Siti Nurhaliza concert from our Deputy President?
 
@@ -166,9 +166,9 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Farhan (Pa'an):** Wait, we should ask Wong Chen, does he know who Intim is?
 
-**Rafizi:** Okay, next question.
+**Wong Chen:** Okay, next question.
 
-**Farhan (Pa'an):** Intim, he definitely doesn't know.
+**Wong Chen:** Intim, he definitely doesn't know.
 
 **Wong Chen:** English name but wears a kopiah.
 
@@ -176,7 +176,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Wong Chen:** If he could enter a karaoke competition, he might score 50.
 
-**Rafizi:** Don't be like that — but I think—
+**Haziq:** Don't be like that — but I think—
 
 **Wong Chen:** No, it's not bad, the voice is—
 
@@ -202,15 +202,15 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** I don't — I don't understand. So definitely this doesn't appeal to Wong Chen.
 
-**Haziq:** Is he saying he's handsome, or not?
+**Wong Chen:** Is he saying he's handsome, or not?
 
-**Wong Chen:** No, it's just a side joke.
+**Haziq:** No, it's just a side joke.
 
-**Haziq:** Oh, side joke, okay, okay, never mind. Sorry, bro.
+**Wong Chen:** Oh, side joke, okay, okay, never mind. Sorry, bro.
 
 **Rafizi:** So he's beria, because PKR's problem right now is a substance problem. People want to hear what additional views the Deputy President has, now from the Youth Chief, on major national issues. After all, we are in government. But maybe his way is to avoid it, not wanting to give a reaction, so he chooses this path hoping it comes across as "cool politics." Maybe he thinks this is the Zohran Mamdani style.
 
-**Haziq:** Retro, retro politics. But too retro. Beria or not?
+**Rafizi:** Retro, retro politics. But too retro. Beria or not?
 
 **Rafizi:** Okay, we'll see, need to rank it.
 
@@ -218,15 +218,15 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Okay, next.
 
-**Haziq:** Oh, there's a kick.
+**Wong Chen:** Oh, there's a kick.
 
-**Wong Chen:** Who works hard?
+**Haziq:** Who works hard?
 
 **Haziq:** This one's a champion — he's got gear. Okay, although—
 
 **Rafizi:** —I've read the whole thing. Ha, because this one might actually be a case where the netizens are the ones being beria.
 
-**Haziq:** Okay, ha, the beria ones.
+**Rafizi:** Okay, ha, the beria ones.
 
 **Rafizi:** Because I read the entire written answer from the Minister of Religious Affairs — he never said who "works hard becomes gay." Nothing like that.
 
@@ -234,11 +234,11 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Ha, the question asked whether there's research showing what factors cause the gay lifestyle and so on. So in the second paragraph, the Minister of Religious Affairs cited one study — maybe that's the only study with a sample in Malaysia, by Sulaiman et al.
 
-**Haziq:** 2007, I don't know. So it's just a commentary.
+**Rafizi:** 2007, I don't know. So it's just a commentary.
 
 **Rafizi:** Lifestyle, and lifestyle by extension work stress. But his actual correct answer is in the last paragraph, which is the official department answer — basically JAKIM's. JAKIM's official answer was environment, family, values and so on — which actually people wouldn't kick up a fuss about. But somehow our netizens are also mischievous, they focused on that one point only. Just because — and that wasn't even said by the Minister of Religious Affairs himself, it was a finding from a study. Because the question was, is there any research? He said there's one — ha, here's the list.
 
-**Haziq:** But the study he chose doesn't quite make sense either.
+**Wong Chen:** But the study he chose doesn't quite make sense either.
 
 **Wong Chen:** So he chose the wrong one. But maybe that's the only one available.
 
@@ -276,13 +276,13 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Malaysia would be embarrassed. I don't know, maybe it's already out. Has South China Morning Post picked it up? But that's the thing, when it gets out, that's the mischievous part, I think if any international media picked it up, they picked it up because of the clickbait that was created. Right. What's it called again? "Stress contributes to being gay." That's really mischievous, whoever did that. Whoever tried to get viral content, but ended up inviting ridicule from around the world.
 
-**Haziq:** We've talked about this for a while. Who's next?
+**Rafizi:** We've talked about this for a while. Who's next?
 
 **Rafizi:** Because it's dangerous, you know. We work hard, you know. Together with me. We work hard every day, non-stop. I'm scared too.
 
 **Haziq:** This one? Announced first, then a U-turn. I think this is about diagnostics, diagnostic tests. Does this one count as beria?
 
-**Rafizi:** Who's this now?
+**Wong Chen:** Who's this now?
 
 **Farhan (Pa'an):** Because we discussed the education topic at length in the last podcast. I think this one counts as beria this time.
 
@@ -308,11 +308,11 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** For example, from Datuk Seri Anwar's perspective — if you follow the long-term plan, MOE might say 2 more years, 3 more years.
 
-**Haziq:** 3 years.
+**Rafizi:** 3 years.
 
 **Rafizi:** But if it's 3 years from now, that's 2029.
 
-**Haziq:** The election would be over.
+**Wong Chen:** The election would be over.
 
 **Rafizi:** The election would be over, he'd go into the election with nothing to show. Otherwise he could show — this I've done, this I've done, this I've done.
 
@@ -336,7 +336,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** But before that, if we want to focus on this — I think right now the diagnostic test story is water under the bridge. It's gone. So my sense is the diagnostic test announcement came out a few days after the PM's announcement. My sense is after the PM announced 2027, one year to go, MOE said, "Boss, how do we control this, how do we phase it" — so they had to put in something, diagnostic testing. Then when the backlash was bad, a week later the PM cancelled it. But the issue of capacity and so on is still unresolved. The timeline issue...
 
-**Wong Chen:** In Parliament the PM is still saying 2027.
+**Rafizi:** In Parliament the PM is still saying 2027.
 
 **Rafizi:** Right, so wow, how do you do it? It'll just end up 55 kids per class. This one — good luck to Fadlina. Maybe she can call Shamsul Iskandar to help. But my sense is I don't think the senior officers, the planners at the Ministry of Education, planned from the start to rush this in within one year. I don't think so. Impossible. Even if we argue, MOE might say we need five years — which is a no, no, no — maybe 3 years max, for teacher training. But I don't think when they were planning all this, they planned for 2027 because it's not realistic. That's why from the start the plan was clear — you focus on preschool first, focus on the next 1, 2, 3 years on preschool. Then schools that have preschool, naturally kids at five would move into six. But now that we say it'll start in 2027, because the PM said so, MOE is scrambling a bit. So who's at fault here? Who pushed for this?
 
@@ -418,15 +418,15 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** It really is PKR. Spreading its wings. So now everyone's fighting openly. Bersatu is fighting openly too. UMNO is fighting openly too. Now PAS is fighting openly too. If Shahir, the Bachok MP, if he'd been this firm during the debate against me instead of giving a pantun, I think he'd have won again. I mean, the latest one — Wong Chen — I think it's gone from drama to utterly ridiculous. Meaning Bersatu — this started from Perikatan Nasional. Started from Perlis. Then from there it spread into fighting with Bersatu. And in response, Tan Sri Muhyiddin resigned. And PAS said they would appoint a new PN chairman. Then there was a meeting at Tan Sri Muhyiddin's house. First there was supposed to be a different meeting, but it was cancelled at the last minute. Then the meeting was held at Tan Sri Muhyiddin's house instead. Then I just read the media asked Dato' Seri Hamzah Zainuddin, and he said, how am I supposed to go, I wasn't even invited. So there you go — messy. Then after that meeting, Tan Sri Muhyiddin issued a statement, in a letter, stating that going forward there would no longer be a PN chairman post, but instead two bodies. One is the Presidents' Council, responsible for setting direction and policies, which would be chaired by Bersatu. The other is the Executive Council — like what's called the Dewan Harian in PAS — meaning this is the implementer that handles daily matters, which would be led by PAS. So one day we look at it, it seems like the turmoil in PN has been resolved. Then out comes something about the PAS Youth Chief — "we're one football team." Then he says the goalkeeper resigned. The coach called the team together to discuss appointing a new keeper. Suddenly the keeper who resigned asked for the goalposts to be brought in. There you go. Then it spread into PAS itself, you know. Great football analogy, but they don't even play football in Parliament.
 
-**Wong Chen:** PAS has a ball, they just won't give it up.
+**Rafizi:** PAS has a ball, they just won't give it up.
 
-**Rafizi:** I'm the captain in Parliament. Playing ball.
+**Wong Chen:** I'm the captain in Parliament. Playing ball.
 
 **Wong Chen:** Not one of them actually plays football.
 
 **Rafizi:** Then there's Dr. Zudi's point too, which is actually related. He's funny too. What was proposed earlier about the Perikatan Nasional structure — the Presidents' Council for setting policy and the Executive Council — that's the same as what already exists in PAS. PAS has the Majlis Syura Ulama. Then it has its Supreme Council. Between the two, which has more power? According to the constitution, it's PAS — the highest is the Syura. Because PAS's structure follows the Islamic Republic of Iran post-1979. That's why there's an Ayatollah Khamenei, now Ali Khamenei. There's a Supreme Leader. The Supreme Leader sets policy, but they don't run things day-to-day. What runs things is the daily council or committee. But this is what Zudi pointed out. Zudi pointed out there was an amendment to the PAS constitution in 2024, quite recently as I recall. Although I don't think Dr. Zudi said this openly, that amendment actually diluted the power of the Majlis Syura Ulama. Because the dismissal decisions made by PAS's Supreme Council — the Central PAS Committee, led by the PAS President — are now final and can no longer be referred to the Majlis Syura. So what's the point of having a Majlis Syura? And actually, what's happening now is that Dato' Seri Hadi Awang has to fight two battles. Within PAS, he's dealing with friction with the Mursyidul Am, Ustaz Hashim Jasin. Because if we compare the standing of the current Mursyidul Am to the previous one — Tok Guru Nik Aziz versus Ustaz Hashim Jasin — there's quite a gap. Tok Guru Nik Aziz was very revered, his standing was clearly above Dato' Seri Hadi Awang's. But once Tok Guru Nik Aziz passed and was replaced by the current one, Ustaz Hashim Jasin from Perlis, that structure no longer works, because all the power has concentrated around the PAS President. But he's not the Mursyidul Am — because he doesn't want to be. It's very likely that either he himself, or the people around him, don't want him to give up the PAS President post. Because if he gives it up, there'll be a fight over who replaces him. So that's happening within PAS. And now they're trying to implement the same thing within Perikatan Nasional, with the Presidents' Council, which is essentially the Mursyidul Am role. So if that goes ahead, Tan Sri Muhyiddin would become the Mursyidul Am of Perikatan Nasional — without power.
 
-**Wong Chen:** Well, now there's a fight. We don't know yet. We don't know yet.
+**Rafizi:** Well, now there's a fight. We don't know yet. We don't know yet.
 
 **Rafizi:** So that's why I think it's become ridiculous. Might as well just disband it. Because at first it was exciting, I quite enjoyed following it after 1-1, thinking oh, there's more material for the podcast. By now, I think it's getting a bit childish. Even those of us in PKR feel a bit embarrassed, because at least we've managed to land somewhere. This one just doesn't end. It's not over yet. The latest episode, who knows what's next. Wong Chen, who isn't even interested, feels like...
 
@@ -464,7 +464,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Farhan (Pa'an):** Alright, I want to post one question to both YB Raf and YB Wong Chen.
 
-**Haziq:** With the turmoil happening in PN, is this an advantage for PH and BN? I don't know, let's ask Wong Chen.
+**Farhan (Pa'an):** With the turmoil happening in PN, is this an advantage for PH and BN? I don't know, let's ask Wong Chen.
 
 **Wong Chen:** I don't think so. The Bersatu camp, they are looking at many options. There are two camps — Camp Hamzah is looking at another option, and in terms of Malay politics, anything can happen. Maybe return back to their motherland, then a different thing. Then how will PAS react? Very hard to read. All I know is in Malay politics, anything is possible. Everything is possible. So I think we have to be cautious about whatever is happening here. To me, I have a soft spot — like earlier — a soft spot for Muhyiddin. Not because of anything, I served under the COVID council with Tan Sri Muhyiddin. So I always felt he was — he spoke a lot of logic, to be fair. I thought he was quite a good elder statesman. So I don't...
 
@@ -520,17 +520,17 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Wong Chen:** Eh, more.
 
-**Rafizi:** 19 billion or not?
+**Wong Chen:** 19 billion or not?
 
-**Wong Chen:** More. More than that, about 13.
+**Rafizi:** More. More than that, about 13.
 
-**Rafizi:** So that was for the same purpose?
+**Haziq:** So that was for the same purpose?
 
 **Wong Chen:** No. It was a different tax but the same concept. They didn't want to refund it — to bring down the deficit. At that time too, it was to bring down the deficit.
 
 **Rafizi:** So we went through the same thing in 2018. Datuk Seri Najib's government collected GST. They were supposed to collect GST on sales, companies pay them. But companies claim back GST on their purchases — that's what they didn't want to pay. So it accumulated to, I think, 30-plus billion, until I think Petronas had to give a special dividend.
 
-**Wong Chen:** Petronas had to give a special dividend.
+**Rafizi:** Petronas had to give a special dividend.
 
 **Rafizi:** Over 20 billion, right? Over 20 billion to clear that. Same thing back then — back then we all criticized it.
 
@@ -578,13 +578,13 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Haziq:** In a few days.
 
-**Rafizi:** Before we move to a bigger issue.
+**Haziq:** Before we move to a bigger issue.
 
 **Haziq:** This was reported by Bloomberg. But probably not many people got to read it. We know both journalists,
 
 **Rafizi:** The investigators who looked into this — I know one of them, we both know them actually.
 
-**Haziq:** Both of them. Let me give a bit of background. Just a little.
+**Rafizi:** Both of them. Let me give a bit of background. Just a little.
 
 **Rafizi:** Not many people know, because after this issue came out and was reported worldwide, in Malaysia it's like there's a blackout.
 
@@ -628,7 +628,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Haziq:** He casually didn't fill me in. Ah, this — when it got to 2023, this matter was also brought to the cabinet. This is what Bloomberg said. I hope I don't get sued for this. What Bloomberg said was that it was brought to cabinet, and the cabinet felt we needed to cut ties with BestiNet. No more dealings allowed. But there was a 180-degree turn, reversed in 2024. Suddenly the government continued using BestiNet's services. That's what happened. That you'll be watching first.
 
-**Rafizi:** While I reflect.
+**Haziq:** While I reflect.
 
 **Wong Chen:** Right, you're in cabinet, you need to reflect. This matter concerns Datuk Seri Amin. You know, everybody knows.
 
@@ -680,7 +680,7 @@ So the way it works is they have to go into debt in Bangladesh. They borrow mone
 
 So there's a huge opening that creates a syndicate. And if you think about it, the number of Bangladeshi workers in Malaysia is 785,000. Try to calculate — this permit isn't given just once, it needs to be renewed, renewed again, renewed again. So try calculating 785,000 times 5,000.
 
-**Speaker ?:** I'm too lazy to even calculate that.
+**Rafizi:** I'm too lazy to even calculate that.
 
 **Rafizi:** 3.9 billion. 4 billion. This total payment could amount to 4 billion, you know. The original plan of 1.5 million workers, that's 7 billion, right? Okay. That's on one side, in the process for them to come here.
 
@@ -710,7 +710,7 @@ Not only that — I remember, like Wong Chen, like me, and I think all the PH MP
 
 If you think about it, if the government really needs a digital system for all this, why not go through the normal process? Let the system belong to the government. The government can build the system as usual — we have our user requirements, we specify we want one or two processes done this way, this way, this way. We open a tender, whichever company can build it. How complicated is this software really?
 
-**Wong Chen:** And how complicated.
+**Rafizi:** And how complicated.
 
 **Rafizi:** It's actually.
 
@@ -726,7 +726,7 @@ So this dragged on. I remember COVID came and we entered 2020. And if you look, 
 
 So by the time we got to 2022, I can say this as a person — I think among many checklists, one checklist I had was that this really had to stop. And to be fair to Saifuddin, I think he did his best to stop it. And it seems this report is accurate. This report states — this is referring to the report, eh. Let me read a bit of the Bloomberg report because so few Malaysians read this Bloomberg report. Pity them, going through all that trouble to investigate, only for it to sink like that. Which paragraph is this that mentions the government's decision? And now this is our problem — before this we could blame previous governments. Now the one continuing this is—
 
-**Wong Chen:** Our government. Our government.
+**Rafizi:** Our government. Our government.
 
 **Rafizi:** Okay. And round and round it goes, there's also an accusation against Tan Sri Azam Baki. And this was not reported at all. I'm trying to find where this is — hang on, hang on, be patient, this report is long. Okay.
 
@@ -738,7 +738,7 @@ So by the time we got to 2022, I can say this as a person — I think among many
 
 **Wong Chen:** Anyway, while you're looking, let me tell a bit — let Wong Chen tell a bit. So, for me, when this report came out, I read it, and I was puzzled why nobody said anything, the opposition. So after 2, 3 days when the matter had calmed down a bit, I put it on my Facebook.
 
-**Rafizi:** Yes, yes. I saw it.
+**Haziq:** Yes, yes. I saw it.
 
 **Wong Chen:** But my position is very clear. First we need to look, we need to meet with the High Commission of Bangladesh — because this High Commissioner is new, I've never met him, so a courtesy call. So having a meeting is important — what's the position? And when I went to Dhaka last year, in November, December, I met Professor Yunus — from Grameen Bank, he's chief advisor. So he was asking me, what is really going on? Because they are concerned. And I remember, at that time — I think a year and a half ago — there was an extradition request for this person to be sent back to Bangladesh. So Professor Yunus asked me, you know, what's the status on that? I said I'll find out for you. And then, are things better or not? But I got a distinct feeling in that meeting — Professor Yunus, like everyone in the Bangladeshi government, is more concerned that their country is very desperate. What matters more to him is that he doesn't want too much disruption. They want the flow of workers to continue, because this is huge revenue for Bangladesh, this repatriation of money, right? So I understand, his intention is to get more Bangladeshis to work, but don't bully them until our people die. Give us some justice — I think that was the main point. Yes, Raf, you—
 
@@ -762,7 +762,7 @@ So by the time we got to 2022, I can say this as a person — I think among many
 
 **Wong Chen:** Right, right.
 
-**Rafizi:** Sorry, I have a bit of an additional question.
+**Farhan (Pa'an):** Sorry, I have a bit of an additional question.
 
 **Farhan (Pa'an):** As an element — because financial scandal is easy to see, monetary loss, crime, right. But in terms of a human trafficking scandal, what implications does it have for the country in the national and global context?
 
@@ -780,7 +780,7 @@ So by the time we got to 2022, I can say this as a person — I think among many
 
 **Rafizi:** So, the effect is huge, right.
 
-**Wong Chen:** Yes. But the companies that got sanctioned are in Malaysia.
+**Haziq:** Yes. But the companies that got sanctioned are in Malaysia.
 
 **Rafizi:** Indeed.
 
@@ -806,7 +806,7 @@ So by the time we got to 2022, I can say this as a person — I think among many
 
 **Wong Chen:** No political impact.
 
-**Rafizi:** Right, no impact.
+**Wong Chen:** Right, no impact.
 
 **Wong Chen:** No gain for me.
 
@@ -884,7 +884,7 @@ So by the time we got to 2022, I can say this as a person — I think among many
 
 **Rafizi:** So in that case, that means Amanah Melaka can only contest one seat, Amanah Johor can only contest one seat. They feel they should be contesting up to 15, 20 seats. So the worry is, if Pakatan Harapan goes in together with Barisan Nasional and uses that formula, that means Amanah would be wiped out in Johor and also in Melaka. So actually it was Amanah that first raised the issue of needing to be given seats — needing to be given seats, some sort of electoral pact. Not that, I mean the formula where the incumbent must contest.
 
-**Haziq:** Can't be used.
+**Rafizi:** Can't be used.
 
 **Rafizi:** Can't be used. Ironically, this is also the argument MIC, MMCA used about DAP before — DAP had to give up seats. DAP said no, we've already won, why should we give it up. But now UMNO is saying the same thing to Amanah — that's our formula, if we've already won, why should I let you contest here, the seat is ours. That's why this situation will keep complicating things for Dato' Seri Anwar. We've already seen what happened in Sabah — even though Nurul Izzah negotiated seats and so on, even though I think Dato' Seri Anwar had hoped that BN, GRS, PH would listen to his view and successfully bring everyone together, in the end everything fell apart, it became free for all. The same episode has now started for the Johor and Melaka state elections. And whatever happens in the Johor and Melaka state elections will be replicated in the general election later. So we want to see how Dato' Seri Anwar will handle this. It will be a free for all.
 
@@ -918,7 +918,7 @@ So by the time we got to 2022, I can say this as a person — I think among many
 
 **Rafizi:** And I don't think there are differing views within PKR leadership right now. Dato' Seri Anwar says we'll all wear orange shirts, they all wear orange shirts.
 
-**Haziq:** Different meaning. So that issue.
+**Rafizi:** Different meaning. So that issue.
 
 **Rafizi:** Ha, there's a different meaning, right? What I mean by wearing an orange shirt is Amanah's shirt — not Shamsul Iskandar's shirt or whatever. What I mean is the only party Dato' Seri Anwar can command right now is PKR. We don't know what DAP's strategy is. I think DAP will keep watching — if they feel it's better to preserve their seats, they'll contest alone, DAP only, not even with PH. They'll do that.
 
@@ -934,7 +934,7 @@ So by the time we got to 2022, I can say this as a person — I think among many
 
 **Farhan (Pa'an):** They showed up wishing Akmal a safe hearing.
 
-**Haziq:** Oh, yeah, yeah.
+**Rafizi:** Oh, yeah, yeah.
 
 **Rafizi:** So, you know, "safe hearing." Then there's an intimate concert, kicking about. So, you know. But basically the long and short of it, if we read this, this thing will keep playing out every week for the next 2, 3 months. So eventually the message ordinary people will observe is that Dato' Seri Anwar can only command PKR — and that's only because we've all been thrown together. So it's a uniform view. But Amanah, which he considers the smallest party, can't be disciplined because Amanah too now knows they have to look after themselves. DAP obviously will look at what's the best combination for them. Let alone UMNO — UMNO will decide later whether to contest alone or with PAS. That's why the coming election will be an open field. Anything can happen.
 
@@ -946,7 +946,7 @@ So by the time we got to 2022, I can say this as a person — I think among many
 
 **Haziq:** Okay, let's wait and see. And maybe one last issue.
 
-**Wong Chen:** Ha, and this — this is the next scandal.
+**Rafizi:** Ha, and this — this is the next scandal.
 
 **Rafizi:** Same thing, this is a big matter, but I think Malaysians are just too tired. They only get worked up if there's a story about pork.
 
@@ -972,11 +972,11 @@ So by the time we got to 2022, I can say this as a person — I think among many
 
 **Wong Chen:** No, no. It wasn't gazetted as a forest reserve — it was removed from forest reserve status.
 
-**Rafizi:** Oh, I see. 100 years ago.
+**Wong Chen:** Oh, I see. 100 years ago.
 
 **Wong Chen:** 100 years ago it was removed. During British times.
 
-**Rafizi:** Ha, during British times.
+**Wong Chen:** Ha, during British times.
 
 **Wong Chen:** But in all the maps, if you check 1950 — because we did research — the 1950 map shows the area was still under forest reserve. But now we found out, because Jamaliah told us it was degazetted long ago, but on the map it still looks like part of it.
 
@@ -1010,7 +1010,7 @@ So by the time we got to 2022, I can say this as a person — I think among many
 
 **Rafizi:** Let me put it this way. What choice do you have? Because financially, if, say, the Selangor state government agreed to buy it back, say it costs 300 million, and they don't have that kind of surplus — Selangor's revenue actually isn't that large, only about 2 billion plus. So say they have to spend 300 million to buy it, but residents elsewhere — residents in Pandan, residents in Selayang — would then say, "Hey, why spend 300 million to buy land in Subang? That 300 million would be better given to us across the whole state, give us baskets, give us free computers." So if you were MB, what would you do? Because if you don't buy it, since the land was already sold by previous PKR MBs. If you don't buy it, they'll submit a development order to build. When they submit the development order, if the local council — MBSJ, right?
 
-**Wong Chen:** Yes, correct. Majlis Bandaraya Subang Jaya.
+**Rafizi:** Yes, correct. Majlis Bandaraya Subang Jaya.
 
 **Rafizi:** If MBSJ doesn't approve it, they'll take it to court — if they've already fully met all the requirements, then basically the state government will lose.
 
@@ -1086,11 +1086,11 @@ So by the time we got to 2022, I can say this as a person — I think among many
 
 **Rafizi:** The problem is there's simply no governance at all. Questions like how land transactions — government land is the people's land, right. So if not, we'll become an older generation squandering the assets of the next generation. All government land, sold, sold, sold, sold, sold. Then 30 years from now, whether it's the Selangor government, Negeri Sembilan, Melaka, there won't be a single piece of land left. And then what? Then what do you do? So never mind, let's see. But when it comes to this land issue, we Members of Parliament don't make much noise about it because it's under state government jurisdiction. Right, state government. It should be the State Assemblymen banging the table saying we need to set a framework going forward for more responsible land management for future generations. This is what happens — land sold in 2009, 2019, now it's 2026, 2030, and we're left with headaches. People are already angry.
 
-**Haziq:** Okay, alright. Let's wrap up, Onchan. Anything else?
+**Rafizi:** Okay, alright. Let's wrap up, Onchan. Anything else?
 
 **Wong Chen:** I don't even know how many hours we've done.
 
-**Haziq:** It's almost 2 now. That's enough.
+**Rafizi:** It's almost 2 now. That's enough.
 
 **Wong Chen:** That's probably it. Almost 3 hours.
 
@@ -1108,13 +1108,13 @@ So by the time we got to 2022, I can say this as a person — I think among many
 
 **Rafizi:** This is normal — around 2 hours 40 minutes is a typical weekly episode.
 
-**Wong Chen:** But by 2 hours 40 minutes I'm actually already worn out. I want to go home. Same here.
+**Rafizi:** But by 2 hours 40 minutes I'm actually already worn out. I want to go home. Same here.
 
 **Haziq:** Okay, so thank you so much YB. Thank you so much for inviting us.
 
 **Rafizi:** Do we have anything to say?
 
-**Farhan (Pa'an):** Happy Thaipusam first.
+**Wong Chen:** Happy Thaipusam first.
 
 **Rafizi:** Right, to those celebrating — right, those observing it — Happy Thaipusam. I have about 2, 3 days to try to memorize a speech in Tamil. We'll see if I can pull it off. But if my speech ends up in Malay instead, that means I've failed. Okay, let's wait and see.
 
@@ -1136,7 +1136,7 @@ So by the time we got to 2022, I can say this as a person — I think among many
 
 **Wong Chen:** Hopefully there'll be sales, so it can pick up a bit. I'm worried about the economy, you know. I see, right, I hear all this about interest rates, exchange rates being good — okay. I'm a bit worried. Yeah, you know, I'm very worried.
 
-**Rafizi:** It's fine, we'll see. I wanted to end with Happy Chinese New Year, but—
+**Farhan (Pa'an):** It's fine, we'll see. I wanted to end with Happy Chinese New Year, but—
 
 **Farhan (Pa'an):** Too early.
 
@@ -1146,7 +1146,7 @@ So by the time we got to 2022, I can say this as a person — I think among many
 
 **Rafizi:** Happy Raya. Alright, alright, and Happy Raya, Christmas too.
 
-**Wong Chen:** Ho ho ho. Okay, bye.
+**Haziq:** Ho ho ho. Okay, bye.
 
 **Rafizi:** Okay, alright, thank you. Let's go home. Thank you. Thank you. Thank you.
 

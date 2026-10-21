@@ -175,7 +175,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** No, not really. I mean, by the time I was mid-30s plus, my head didn't have any grey hair. I don't have grey hair on my head. But it started from here, all grey. So I'll have a white mustache and a white beard. So that's why there's no beard. So this means, how old was I here? 32, 33 maybe. Clever of you all to edit in the popcorn,
 
-**Farhan (Pa'an):** Not us, but netizens.
+**Rafizi:** Not us, but netizens.
 
 **Rafizi:** Oh, netizens' doing.
 
@@ -299,7 +299,7 @@ So by taking out and transferring from Tabung Haji to UJSB — okay, when we tra
 
 **Rafizi:** Why—I'm trying to lay all this out for the public, so they don't get confused further. This is like watching an Alfred Hitchcock or Agatha Christie story. Even though the things at the start seem small, why show all this—it's a clue to something bigger at the end. So you need to know all this because there's a twist behind it. So it wasn't enough for the government to bail out by injecting 20 billion on paper so the reserve becomes positive, and once the reserve became positive, hibah payments could start from 2019 onward. There was hibah in 2019 too, but very little, right? Right, 1.25%, but there was hibah, right? Was that 2018 to 2019? 2018 maybe?
 
-**Haziq:** 2018. The very first one.
+**Rafizi:** 2018. The very first one.
 
 **Rafizi:** 2018, right? The very first one. But that still hadn't resolved Tabung Haji's other problem—its assets, negative reserve. What about its income? When you take out the 10.9 billion toxic asset, it no longer gets income from that. So its assets—let's say one that was transferred was Tabung Haji Plantations. It might have gotten 20 to 30 million, now it gets nothing at all. So that's why there's an element in the UJSB sukuk called deferred payment for yield. So every year—okay, I know this is getting very technical. The sukuk is actually zero coupon and yields about 4%. I don't want to go into the nitty-gritty of coupon, yield, and all that, or people will run away. But yield means investment return. So that element, the deferred payment, is paid out little by little. So every year starting from 2019—and all of this is mentioned in the RCI—every year there's an income element from that sukuk that goes into Tabung Haji's profit announced each year. So if the yield is 4%, and there are two series of sukuk, one 10 billion, the other how much? 9.6? One is 10, right? So there are these two series, one maturing in 2026, the other maturing in 2029. So each one has a deferred income element. So more or less, roughly 800 million a year, and every year it keeps increasing, increasing. So every year Tabung Haji shows that it has a profit of about 800 million, 870 million each year from the UJSB sukuk. Now let me ask you, does that money actually exist or not?
 
@@ -559,7 +559,7 @@ Okay now. So we can go to the financial statement. Poor everyone else without th
 
 **Rafizi:** No, don't go into the nitty-gritty yet. Okay okay okay. It's like this. Bonds, sukuk, these have two components. A bond's redemption doesn't change. So for example, if UJSB issues a bond and that bond is held by Tabung Haji, if the principal is 10 billion, then 10 billion has to be redeemed, so on the redemption date — meaning in 2026, May 2026 — you have to pay 10 billion. But the bond has a coupon. That coupon, every year, if the coupon is 5%, you have to pay 500 million, 500 million, 500 million. And a normal bond is tradeable. It's tradeable, right? So that's fine, the general public — it becomes a good asset class too, people can understand bonds a bit better. This is a normal tradeable bond, unlike Tabung Haji's — normal bonds are tradeable. Take the example of the Malaysian government. It issues a bond. Say that bond is 10 billion, redeemable in 2030. So in 2030 it has to pay that 10 billion. But the bond has a coupon. For a government's MGS, that depends on when it was issued. And the government issues bonds sometimes every month, you know. So say when it was issued, depending on the interest rate at that time, then the rating, bond rating and so on, it has to pay 3.5%. That means every year the Malaysian government does have to pay 350 million, 350 million, and in 2030 it pays 10 billion. But this bond is tradeable. So say I'm Tabung Haji, I want to buy a government bond, it's a 10 billion bond with a 3.5% coupon. So for example if interest rates fall, and my bond is a 3.5% coupon bond. So that bond becomes sought after. Because I'll get 3.5% if I buy that bond compared to putting it in a fixed deposit. A fixed deposit might only give 2.5%, there's a 1% spread and so on. So then people are willing to pay a premium to buy that bond. So instead of paying 10 billion to get that bond, you may pay 10.1 billion. An extra 1 billion. But in 2030 I'll still just get 10 billion. So that means the bond is being traded at a premium. The opposite is also true. For example if interest rates rise, say it becomes 4% but your bond's coupon is still 3.5%. So people don't want it, people sell it. So then people will be willing — people can buy it at a discount. Instead of paying 10 billion, I just pay 9 billion, and get 10 billion back in 2030. Okay, that's bonds in general. Now this sukuk is unique, and this is also what's mentioned in the RCI. This sukuk is non-tradeable. It's not government-guaranteed. And it's zero coupon.
 
-**Farhan (Pa'an):** Yes, so nothing needs to be paid.
+**Rafizi:** Yes, so nothing needs to be paid.
 
 **Rafizi:** Right, that's why it becomes paper. All there is is a yield to maturity of about 4% something, that's the deferred payment element of the yield. So the government doesn't pay every year, but Tabung Haji recognises about 800 million, which becomes the 900-plus million figure. That's why when it's redeemed — this goes back to Haziq's question — you redeem the 10 billion principal. I haven't read the whole agreement, we don't have access to the full agreement, but based on the RCI report, my understanding is that when it's redeemed in May 2026, the 10 billion Series 1 sukuk has to be paid at 13.2. That didn't happen. So this is the part you need to announce.
 
@@ -599,11 +599,11 @@ Okay now. So we can go to the financial statement. Poor everyone else without th
 
 **Rafizi:** It'll be tabled in Parliament later, right? So let me leak the question early. The RCI recorded the government's agreement to allocate a certain amount of money every year so that it could be redeemed in 2026. 1.7 billion a year, 1.5 billion a year. Okay, try to find it, Pa'an, which page is that?
 
-**Farhan (Pa'an):** Is it this 1.73?
+**Haziq:** Is it this 1.73?
 
 **Rafizi:** Yeah, that's right, which page is that?
 
-**Farhan (Pa'an):** 3.13.49, hold on.
+**Haziq:** 3.13.49, hold on.
 
 **Rafizi:** 3.1?
 

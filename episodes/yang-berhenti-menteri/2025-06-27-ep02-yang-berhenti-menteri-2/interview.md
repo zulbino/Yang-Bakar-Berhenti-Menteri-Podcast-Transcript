@@ -56,7 +56,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Iswardy Morni:** Asal kalau ikut pendidikan, saya belajar undang-undang daripada Southampton University, UK. Tahun sama je dengan YB. Kenapa kau nampak lagi tua ah? Sebab aku ada ni. Tahun sama je. Umur pun sama. Kami ni sama umur.
 
-**Rafizi:** Ini siapa lahir tahun 77 ni semua tak boleh pakai.
+**Haziq:** Ini siapa lahir tahun 77 ni semua tak boleh pakai.
 
 **Iswardy Morni:** Lepas tu, sebab as time goes by ni, saya suka explore banyak benda. Di samping secara part time, minatnya, saya juga compose muzik. Dalam masa yang sama saya juga scriptwriter.
 
@@ -96,7 +96,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Haziq:** Takut saya.
 
-**Rafizi:** Baik. Jadi kita mungkin boleh teruskan dengan
+**Haziq:** Baik. Jadi kita mungkin boleh teruskan dengan
 
 **Haziq:** Perbincangan pada hari ini, YB. Cuma production ada maklumkan kepada kita jugalah bahawa perbincangan ataupun podcast yang berhenti menteri selepas ini. Dia podcast ke podcast? Podcast. Saya mohon maaf. Podcast. Pronunciation. Podcast yang berhenti menteri akan bersegmen. Maksudnya kita akan ada satu segmen yang kita fokus dan mungkin segi sedikit teknikal. Dan selebihnya kita akan menyentuh.
 
@@ -106,7 +106,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Iswardy Morni:** Ni Suardi tu Rafizi.
 
-**Rafizi:** Saya tak apa.
+**Haziq:** Saya tak apa.
 
 **Haziq:** Chill, chill. Baik bang.
 
@@ -120,19 +120,19 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Yalah, sebab ni lah kadang-kadang orang kita
 
-**Haziq:** dia terlajak perahu kan.
+**Rafizi:** dia terlajak perahu kan.
 
 **Rafizi:** Orang tak keluar habis lagi. Kita pun tak faham macam mana tarif tu, struktur dia macam mana. Jadi masa akhir tahun lepas, ya, masa telah diumumkan dipanggil apa nama ni IBR. Orang kita yang pembangkang ke apa ni dia, dia tak faham pun IBR apa kan? Apa nama ni, incentive based regulation kan. Jadi masa itu TNB mengumumkan kerajaan telah bersetuju untuk menaikkan tarif asas ataupun base tarif, daripada 39 perpuluhan 6 sen something kepada 45 perpuluhan 5 sen something lah. Jadi dikira-kira tarif asas naik 14%. Ini akhir tahun lepas lah. Jadi kecoh satu Malaysia ni. 1 Julai nanti harga elektrik akan naik 14%. 14%. Masa tu saya dah nak buat TikTok ke, aku dah nak komen ke, tapi aku kata tak apalah kita tunggu sebab lebih baik bila tarif akhir kepada pengguna itu diumumkan, which is baru diumumkan saya ingat minggu lepas kan. Kerana itu akan bagi peluang yang baik untuk kita terangkan struktur tarif tu kan. Sebenarnya kadang-kadang kita tengok benda sampai elektrik kat kita, bill kat kita kan. Saya ingat baik untuk rakyat Malaysia kita, kita kena mula faham industri tu macam mana. Jadi elektrik ini perlu dijana kan. Dan yang menjananya bukan TNB saja. Kita ada syarikat swasta dipanggil IPP, Independent Power Producer lah yang menjana elektrik. Kemudian TNB beli semua ni. Kemudian TNB akan agihkan dan jual lah kepada rumah lah, kepada kedai, kepada kilang. Jadi sebenarnya dia sama macam kita beli barang lah. Bila kita beli barang daripada kedai tu, bukan kedai tu buat. Dia beli daripada kilang lain. Dia ada harga dia. Harga itu kemudian dia ambil barang tu, dia jual balik. Jadi harga akhir itu ialah harga yang kita bayarlah. Elektrik pun macam itu juga. Yang diumumkan pada akhir tahun lepas ialah apa yang dipanggil sebagai tarif asas ataupun base tarif okey. Iaitu satu harga yang TNB beli daripada semua penjana elektrik di Malaysia ini. Sebenarnya memang harganya telah naik sebanyak 14% daripada 39 sen lebih kepada 45 sen lebih. Jadi aku nak tanya balik, aku nak tanya saji goreng dia kan.
 
-**Iswardy Morni:** Semua orang suruh aku bakar dia. Konon dia nak bakar aku. Aku nak bakar dia malam ni.
+**Rafizi:** Semua orang suruh aku bakar dia. Konon dia nak bakar aku. Aku nak bakar dia malam ni.
 
 **Rafizi:** So macam mana pula daripada bila TNB beli daripada penjana itu, dia dah naik 14 sen, tapi tiba-tiba sekarang ini bila jadual tarif yang baru pergi, tiba-tiba TNB kata semua orang jimat. Macam mana tu? Macam mana?
 
 **Haziq:** Macam mana, Faiz?
 
-**Iswardy Morni:** Macam mana? Tanya saya, bukan saya Menteri Ekonomi. Cuba tanya yang duk komen kat luar tu. Cuba tanya yang duk pukul gendang tarif naik 14% semua ni. Macam mana boleh jadi macam ni?
+**Rafizi:** Macam mana? Tanya saya, bukan saya Menteri Ekonomi. Cuba tanya yang duk komen kat luar tu. Cuba tanya yang duk pukul gendang tarif naik 14% semua ni. Macam mana boleh jadi macam ni?
 
-**Haziq:** Macam mana lah jimat? Okey. Aku tunggu 6 bulan supaya benda ni jadi bising. Semua tu baru jawab.
+**Rafizi:** Macam mana lah jimat? Okey. Aku tunggu 6 bulan supaya benda ni jadi bising. Semua tu baru jawab.
 
 **Rafizi:** Saya boleh komen?
 
@@ -198,7 +198,7 @@ Jadi kalau tengok unjuran keperluan tenaga itu memang melangit. So dia tidak lar
 
 **Rafizi:** Itu adalah the vision di dalam nature lah. Maksudnya solar potential dekat Malaysia ni kita takkan dapat penuhi kalau kita bergantung kepada large scale solar farm yang ada macam sekarang. Yang pakai 100 ekar, 200 ekar. Kita kena secara cepat beralih kepada rooftop solar kerana satu, dia membantu dari segi kelangsungan bekalan elektrik negara. Keduanya, dia sebenarnya membantu orang kerana tiba-tiba rumah dia boleh jana pendapatanlah. So unless we push it dan untuk itu berlaku, ada banyak step dialah. Kita perlukan satu pasaran. Pasaran itu dan the question, do people sell to TNB ataupun do people sell to an exchange market kan? Yang itu yang insyaAllah lepas ini kita kena tanya berkali-kali lagilah. And I hope to see lah dalam tempoh 3-4 tahun ini, benda ni dah mula boleh berlaku lah because once kita dah boleh unlock rooftop solar, then paling kurang kita boleh cepatkan peningkatan komposisi penjanaan daripada solar. Kepada siapa kita nak tanya ni? Petra.
 
-**Iswardy Morni:** Kepada Petra, kepada Kementerian Ekonomi.
+**Rafizi:** Kepada Petra, kepada Kementerian Ekonomi.
 
 **Rafizi:** Kementerian Ekonomi, whoever he is. Siapa jadi menteri. Siapa-siapa kan. So itu satu komponen dalam neta yang sebenarnya melibatkan rakyat dan dia bukan soal tarif semata-mata, dia juga soal kelangsungan electricity negara. Tapi masih lagi belum menjawab. Ya. Kenapa base tarif 45 sen naik 14% tetapi tiba-tiba jadual tarif murah, jimat 4 ringgit. Belum jawab lagi.
 
@@ -216,7 +216,7 @@ Jadi kalau tengok unjuran keperluan tenaga itu memang melangit. So dia tidak lar
 
 **Rafizi:** The lesser subsidy. Jadi rumah 85% sebenarnya memang pakai 600 lah. Kalau 600 tu saya ingat, 600 tu masih lagi dia dapat 9 sen rebate. So maksudnya dia bayar lebih kurang 36 sen berbanding dengan kos 45 sen. Jadi sebab itu bila dah dicampur ambil semua ni, bila kita banding, berdasarkan jadual tarif baru sebenarnya boleh jimat RM4 kan. Tapi of course lah yang macam mana pun poket kiri masuk poket kanan. Kerana yang menanggung itu masih lagi kerajaan. Kerajaan kena bayar bil akhir dan bil akhir ni masalah. Sebab bil akhir yang sampai kepada kerajaan, 45 sen satu unit tu ialah berdasarkan unjuran harga gas dan arang batu masa kita kira tahun lepas. Katakanlah perang berlaku. Macam sekarang kan? Tiba-tiba harga naik 75. Katakanlah dia naik 100 kan. Kalau anggaran masa itu ialah harganya, katakanlah hypothetically 65 dolar per barrel. So, bila naik ke 100, kerajaan kena tambah. Tapi harga tu tak berubah.
 
-**Iswardy Morni:** Sebab harga jadual tu tak berubah.
+**Rafizi:** Sebab harga jadual tu tak berubah.
 
 **Rafizi:** Harga yang kita bayar tu tak berubah, tetapi harga yang perlu dibayar kepada TNB tu akan turun naik.
 
@@ -234,9 +234,9 @@ Jadi kalau tengok unjuran keperluan tenaga itu memang melangit. So dia tidak lar
 
 **Haziq:** Baik, jadi saya rasa dah jawab soalan yang pertama tu berkaitan dengan.
 
-**Iswardy Morni:** Tak, dia belum jawab.
+**Rafizi:** Tak, dia belum jawab.
 
-**Haziq:** Sebab soalannya akan ada orang kena bakar ke tidak lepas ni? Kita lihat.
+**Rafizi:** Sebab soalannya akan ada orang kena bakar ke tidak lepas ni? Kita lihat.
 
 **Iswardy Morni:** But I don't think so lah sebab 85% tak affected. So macam sebelum ni juga kenaikan sebelum ni pun 85% tak affected. Orang duk bising yang the so-called T20.
 
@@ -258,7 +258,7 @@ Jadi kalau tengok unjuran keperluan tenaga itu memang melangit. So dia tidak lar
 
 **Iswardy Morni:** Kita, kita kena faham latar belakang dulu kan. Ni, ni ni. Dia buat law.
 
-**Rafizi:** Tanyalah dia. Kita kena faham satu, satu bendalah.
+**Iswardy Morni:** Tanyalah dia. Kita kena faham satu, satu bendalah.
 
 **Iswardy Morni:** Bila AGC bagi alasan macam tu, saya tak boleh terima sebenarnya. I mean, do you need to produce original document pada kes tersebut di hadapan hakim tu? You kena produce original document kan? That was my question. Dalam live saya, saya tanya. Kita kena faham macam ni Kes ini didakwa I think 2019. SRC kita kena ingat, SRC ni dia ada dua. Satu 42 juta tu, itu dah dia betul bersalah masuk jail lah pun. The other one is 27 million pengubahan wang haram. Dia pengubahan wang haram. So yang ni 2019 dia didakwa. Sepatutnya masuk mahkamah dah panggillah first witness, saksi pertama. So saksi pertama tak dipanggil. Bukan setakat tak dipanggil, dia berdelay. Bila hakim tanya bila kita delay lagi, delay, delay, delay sampailah 2025, kita kata. So hakim kata, sebagai hakim, dia kata, naya lah Pak Karim. Dia kata, naya lah kepada Najib. Takkan nak menunggu sebegitu lama. Are you ready or not? Biasanya hakim ni dia akan tanya macam tu. Dah sedia belum? Kita minta tunda lagi, ya Arif, dia kata. Kalau macam tu tak apa. Saya bagi dulu DNAA. DNAA ni maksudnya discharge not amounting to acquittal. Maksudnya dilepas tanpa dibebas. Erti kata boleh dakwa lagi? Boleh. Bila? Bila-bila masa lah. Kan sampai mana DPP bersedia, maka dakwalah nanti. So, DNAA ni bukanlah bermakna dia tidak bersalah atau bersalah. Belum lagi. Not yet. Sebab perbicaraan belum start. Ini kadang-kadang ada juga orang melonjak, ya betul Najib sudah tidak bersalah. Tengok Rafizi ni. Inilah ada pemfitnah. Najib tak bersalah, dia kata. Tak, kes tu belum start. Belum, belum perbicaraan lagi dan kes 42 juta tu dah dapati bersalah dah. Jadi kita kena faham yang tu. Cuma timbul persoalan kenapa sampai 5 tahun? Sampai 6, bukan 4 tahun kes ini berlarutan sebegitu lama, drag untuk nak didakwa, nak dimulakan perbicaraan. Dan alasan yang diberikan oleh AGC, oleh DPP tu bagi saya tak, tak profesional lah kan. You know, macam saya kata tadi, kalau dia kata dokumen digunakan di kes-kes yang lain. Yalah, saya tahu kita ada kes kriminal, 1MDB, kita ada civil dan sebagainya. Sepatutnya you dah ready, you dah ada dokumen. Kalau digunakan, you fotostate lah. You are within one department. Takkan you tak boleh guna benda tu kan? Dan I think, I believe yang Arif tu dia tak akan menolak kalau benda tu you fotostate dan sebagainya. Kalau itu alasannya lah. Kenapa alasan sebenar tu, it beats me lah. Saya pun tak tahu apa alasan sebenar kenapa. Tapi kadang-kadang dia mungkin, ini ini anggapan saya, I could be wrong on this ya. Ketidakbersediaan pendakwa raya tu sendiri ke atas bukti-bukti dan apa orang kata, pendakwaan tu sendiri. Mungkin, ini mungkin. Dan alasan dokumen tak dibawa mungkin itu dijadikan alasan saja. Sebab nak dakwa ni kadang-kadang kita kena ada kes yang solid dan mungkin masa mungkin again tergesa-gesa ke apa ke, I don't know. Contoh dulu kes Tok Sri Zahid Hamidi, kes akal budi kita kata, dan juga kes visa luar negara. 40 kes tu pun didapati tidak bersalah. At a time bila saya baca judgement, saya kata ini memang pendakwa raya ataupun pegawai penyiasat sendiri sebenarnya tak tak ready dengan apa.
 
@@ -270,7 +270,7 @@ Jadi kalau tengok unjuran keperluan tenaga itu memang melangit. So dia tidak lar
 
 **Rafizi:** Yalah, dia yalah satu dari segi secara undang-undang kan. Tapi satu lagi tu dari segi persepsi dan pandangan rakyat kan. Secara undang-undang itu yang perlu dijawab sebenarnya sebelum perbicaraan tu bermula — pendakwa dengan peguam bela dia kena tukar exchange. Selalunya dia kena bagi bundle lah. Kalau civil dia exchange, tapi kalau pendakwa raya yang kes krim ini dia kena bagi bundle kan. Bundle dokumen tu selalunya for to stay. Asalkan kalaupun kita submit kepada mahkamah, walaupun aku bukan peguam, tapi sebab aku selalu turun naik mahkamah kan. Asalkan contohnya you can call the maker of the document dan dia mengesahkan dokumen photo state itu memang asal. Dia boleh diterima sebagai bahan bukti. Jadi soalan itu memang saya ingat yalah — orang garu kepala sikit lah kalau kita kata, oh kita nak tunggu habis semua kes 1MDB yang lain, SRC yang lain baru nak mula, yang itu baru nak bagi dokumen. Itu yang menimbulkan satu lagi kebimbangan, iaitu persepsi. Kerana ada beberapa siri kes yang melibatkan 1MDB ni dilihat terlepas kan. Contohnya yang melibatkan anak tiri. Dato' Sri Najib. Jadi kes ini bila dapat DNAA, walau apa pun alasan yang diberikan oleh AGC. Sebahagian daripada rakyat akan kata, adakah ini harga yang dibayar oleh kerana UMNO berada di dalam kerajaan perpaduan? Jadi itu akan mendatangkan masalah kan. Jadi sebab itu saya sebagai backbencher, saya kena ingatkan kepada kerajaan, benda ini dicey. Saya tak tahu apa yang berlaku betul ke tidak. Ini sebab semata-mata soal dokumen ataupun ada permintaan ke apa. Kita tak tahu. Dan sebagai rakyat biasa, kita berfikir macam rakyat biasa lah. Rakyat biasa akan kata, ni kalau kita tengok ni track record ni lepas satu satu ni, adakah ini bermakna kes ini pun nanti akan gugur dan hilang begitu saja? DNAA lepas tu hilang sebab ini sebahagian daripada package kan ha? Bila dia jadi sebahagian daripada package, kalau macam pengundi tegar kepada Pakatan Harapan, dia marah lah. Dia kata, I didn't vote for you untuk ini. You have to be apa yang berlaku ni kan. So itu kebimbangan saya. Sebab itu saya minta supaya okey, tak apa you kata sekarang you are not ready, dokumen tengah tunggu daripada kes yang lain. Tak apa. But mesti ada komitmen kena charge balik. Jangan DNAA lepas tu hilang. DNAA lepas tu tak charge balik kan. DNAA okey.
 
-**Iswardy Morni:** Bagi time frame lah. Sebulan. Then kalau yes, itu yang hakim duk tanya lah bila, bila, bila kan.
+**Rafizi:** Bagi time frame lah. Sebulan. Then kalau yes, itu yang hakim duk tanya lah bila, bila, bila kan.
 
 **Rafizi:** Jadi sepatutnya saya harap lah kerana akan ada harga politik yang perlu dibayar. Kalau ini nampak berterusan, maka itu akan menguatkan lagi dan orang macam Iz, macam saya sekarang, kita nak berdepan dengan pembangkang. Payah lah kita kan. Kita kata kata-kata prinsip begini-gini, dia kata DNAA. Letih kita. Letih kita nak jawab kan. Jadi dan yang lebih penting sebenarnya itu mandat yang diperolehi oleh Pakatan Harapan dahulu, iaitu untuk kita pastikan we see through the process yang berlaku adil kepada rakyat. Kerana 1MDB ini telah memangsakan rakyat. Kalau ada orang biasa yang dituduh mencuri duit kerajaan 27 juta, dunyai kau kan? Satu lagi perspektif yang mungkin dia langsung tak terlibat dengan politiklah, Najib ke kerajaan ke apa kan. Saya dulu selalu pergi mahkamah, dia letak kandang sama tau dengan orang-orang lain yang tertuduh ni. Banyak yang tertuduh ni kes dadah lah. Jadi cerita DNAA tak bersiap sedia 6 tahun ini, bayangkan kalau you kes itu ialah kes dadah. Ataupun kes pecah rumah lah, budak pecah rumah kan. Jadi dia kena tangkap. Dia kena reman nak menunggu perbicaraan. Tapi perbicaraan 6 tahun tak berlaku lagi. 6 tahun dia kena duduk dalam penjara sebab keluarga dia miskin, tak boleh nak.
 
@@ -278,7 +278,7 @@ Jadi kalau tengok unjuran keperluan tenaga itu memang melangit. So dia tidak lar
 
 **Rafizi:** Ataupun bil tu tinggi sangat ke apa kan. Dan memang betul ada yang dulu gegari sekali dengan aku. Aku tanya kes apa kan. Dia beritahu, oh dia lama mana. Jadi dia duduk kat situ sampai 7, 8 bulan, 2 tahun untuk menunggu perbicaraan bermula. Dia pergi dengan saya dekat mahkamah tu sebutan je. Sebutan tunda, sebutan tunda kan. Jadi yang itu juga ialah kita nak kena berlaku adil lah.
 
-**Iswardy Morni:** Jadi soal DNAA bila alasan ini ialah kerana.
+**Rafizi:** Jadi soal DNAA bila alasan ini ialah kerana.
 
 **Rafizi:** Belum bersedia dan 6 tahun. Dia juga membuka satu lagi lipatan baru lah yang soal ini kalau yang Najib kena tak bersedia 6 tahun ni, kalau kena rakyat biasa.
 
@@ -312,15 +312,15 @@ Jadi kalau tengok unjuran keperluan tenaga itu memang melangit. So dia tidak lar
 
 **Haziq:** Jadi kita pergi yang seterusnya. Jadi isu yang seterusnya ada lagi? Jadi seterusnya YB adalah berkaitan dengan Telegram court order. Di mana MCMC baru-baru ini telah memohon dan High Court telah grant injunction supaya Agensi siasat tu, Agensi siasat ini di Hilang lah. Jadi ya lah, YB pun pernah jadi menteri sebagainya. Janganlah duk ulang-ulang. YB sekarang sebagai rakyat biasa, melihat. Jadi menteri bukan rakyat biasa?
 
-**Rafizi:** Ada yang tak rasa rakyat biasa. Sebenarnya rakyat biasa, tapi.
+**Haziq:** Ada yang tak rasa rakyat biasa. Sebenarnya rakyat biasa, tapi.
 
-**Haziq:** Connotation tu salah tau. Jadi menteri je dia dah tak jadi rakyat biasa.
+**Rafizi:** Connotation tu salah tau. Jadi menteri je dia dah tak jadi rakyat biasa.
 
 **Rafizi:** Anyway, okey.
 
 **Haziq:** Jadi yalah, orang ni dia nak buat, dia nak seimbangkan lah antara yalah kerajaan mungkin fikir dia kena ada some apa digital sovereignty, kena ada kawalan untuk keselamatan apa semua, apa yang dia cakap dalam tu. Dan satu lagi bahagian adalah untuk kita imbangkan dengan kebebasan media, termasuklah untuk whistleblowing dan sebagainya. Jadi macam mana kita nak put, nak nak strike the balance sebenarnya, antara dua-dua ini. Tapi untuk isu ini dia lebih extreme lah sebab alasan yang diberi tu just simply ini akan menggugat institusi kerajaan. Yang saya rasa tak tahu lah Abang Is boleh terima atau tidak. Tapi Kara ini? Okey, alasan yang diberi tu lah. Okey. Saya dulu, Gabi. Boleh dulu?
 
-**Rafizi:** Kau lah. Okey lah, okey.
+**Iswardy Morni:** Kau lah. Okey lah, okey.
 
 **Iswardy Morni:** Dia macam ni lah
 
@@ -334,7 +334,7 @@ Jadi kalau tengok unjuran keperluan tenaga itu memang melangit. So dia tidak lar
 
 **Haziq:** Ada betulnya juga. Cuma yalah YB, harga nak jadi whistleblower ni kuat mahal lah. Ada orang akan hilang segala-galanya. Jadi not easy lah untuk mendedahkan diri sendiri semua. YB pengalaman dia lagi tau banyak kes a civil.
 
-**Iswardy Morni:** Yalah dia pasal Telegram semua ni dicey issue lah kan.
+**Rafizi:** Yalah dia pasal Telegram semua ni dicey issue lah kan.
 
 **Rafizi:** Tapi saya ingat dia nak kena find balance begini kan. Alasan ataupun hujah yang kuat untuk kerajaan melesenkan dan dengan lesen itu ataupun ambil tindakan undang-undang boleh mengarahkan platform untuk buang dan sebagainya untuk tutup kan. Alasannya ialah untuk jenayah—scammer, seks, pelacuran dan segalanya kan. Jadi setiap undang-undang dan setiap tindakan itu, walaupun kalau dia bermula dengan niat yang baik, tetapi kalau tidak berhati-hati dia akan disalah erti. Jadi kalau anything saya ingat yang pasal edisi siasat ini, kalaulah sebenarnya ada 10, 20 tindakan yang sama mengenai benda-benda yang lain yang scammer dan sebagainya, dia mungkin boleh balance. Striking the balance. Jadi bila tiba-tiba yang pertama yang diambil untuk arah untuk tutup tu edisi siasat, maka ada orang rasa bahawa kerajaan ini tidak ada tolerance kepada dissenting space lah kan. So yang Is cakap tadi saya setuju kan. Saya sebagai public figure kan. Kalau perasan, saya tak pernah saman orang. Aku nak saman Wan Faisal gitu. Ha, sebab memang terang-terang dia mengarut dan memfitnah kan. Tak, because I think I don't want to start. Sebab pandangan saya secara peribadi ialah sebagai public figure, you have all the space to answer. Jadi kalau you ambil tindakan saman orang, tak setuju jadi saman, kita boleh jawab. Dan memanglah tak ada orang semua yang 100% akan percaya. Kalau masuk saman menang di mahkamah pun, bukan semua orang akan percaya pun. Maksudnya orang kalau dia dah fikir macam tu, dia fikir macam tu lah. Jadi as a public figure, my rule of thumb is that sebaiknyalah jangan saman atau ambil tindakan undang-undang dan kita jawab. Cuma masalah kalau macam edisi siasat ini, kalau ada yang dalam jabatan kerajaan, penjawat awam biasa, orang biasa, yang berhati-hati kalau yang nak didedahkan itu ialah sebenarnya bukan berkepentingan awam, tetapi ialah untuk menjatuhkan orang. Ya. Sebab tu masa saya dulu jadi whistleblower ni, kita pasal whistleblower kan. Ada orang marah lah macam-macam kenapa tak ambil kes ni dan sebagainya. Surat layang daripada jabatan kerajaan ni banyak lah datang semua kan. My rule of thumb ialah kecuali is a national interest, public interest punya yang melibatkan wang rakyat, penganiayaan, dan saya memang sahkan ini bukan soal personal vendetta. Ada bos tak suka kat bos lagi besar dan sebagainya gitu. Baru saya ambil. Kalau yang kes-kes macam itu tu kerana yang terutamanya kalau yang jadi sasaran itu bukan public figure. Yeah, exactly. Because kalau dia bukan public figure, dia tak boleh menjawab. Dia jadi tak berlaku adil. Dia ada anak dan sebagainya kan. So I think saya berharaplah ni kalau orang-orang edisi siasat mendengar kan. Jadi akhirnya channel itu, saya berbeda pendapat dengan Iz Okey. Bagi saya, tak sepatutnyalah kita tutup. Bagi saya, yang saya nak tengok ni ialah yang tutup yang benda-benda yang scam, memangsakan orang, go after all this dulu. Kerana itulah sebenarnya alasan dulu untuk melesenkan. Jadi untuk edisi siasat ni actually is a market. Ramai orang dalam tu tu memang dia minat, dia ikut kan. Tanggungjawab kepada mereka yang berada di belakang edisi siasat ni, you know, for you to have the respect dan juga untuk orang ambil serius. Dan kena tapis dan kena bertanggungjawab. Ya. Supaya dia betul-betul yang melibatkan kepentingan awam yang you rasa tak boleh pergi tempat lain. Kalau contohnya dia memfitnah peribadi orang, macam yang Iz kata ada orang tak suka kat dia, menanggung dosa yang itu kan. So.
 
@@ -348,7 +348,7 @@ Jadi kalau tengok unjuran keperluan tenaga itu memang melangit. So dia tidak lar
 
 **Iswardy Morni:** Cuma satu tambahan sayalah. Saya ada maklumat dalaman jugalah. Kalau macam page Telegram umpamanya kan, kalau more than 30,000 subscriber dia, orang tak boleh request untuk tutup. Maksudnya kita boleh request sebenarnya. Less than that kita boleh request, contoh kita tak puas hati. Contoh macam scammer dia boleh request jugalah. Ada some, kita kena bagitahu jugalah ada yang memang dah ditutup. Tapi bila dia dah reach more than 30,000 tu, itu yang dia terpaksa guna sivil. But I agree. Sebenarnya avenues tu kena lebih luas daripada tu lah sebab sekarang ni kerajaan menggunakan sivil. Sivil. Dia menggunakan sivil, menggunakan apa orang kata? Yalah, avenues menggunakan sivil untuk minta tutup tu. Tapi yalah, you know, balance itulah macam YB kata lah balancing tu kena ada. Which I agree jugalah. Cuma yalah, kita kena tengok mudarat dan manfaat jadi kat situ. Jadi abang setuju ke tak? Tak, saya sebenarnya to be honest, setuju tutup. Saya setuju. Aku tak setuju tutup.
 
-**Rafizi:** Saya setuju tutup. YB tak setuju.
+**Iswardy Morni:** Saya setuju tutup. YB tak setuju.
 
 **Iswardy Morni:** Sebab aku di belakang. Tak apa, berbeza pendapat tu semua.
 
@@ -410,7 +410,7 @@ Jadi kalau tengok unjuran keperluan tenaga itu memang melangit. So dia tidak lar
 
 **Rafizi:** Dan dia parti pun tidak ada program yang khusus untuk menang pilihan raya kerana dah menang pilihan raya. Jadi sebenarnya khidmat saya tidaklah diperlukan masa itu.
 
-**Iswardy Morni:** If you are in my shoes, buat apa aku duduk terhegeh-hegeh kat situ?
+**Rafizi:** If you are in my shoes, buat apa aku duduk terhegeh-hegeh kat situ?
 
 **Rafizi:** I have my life to run. Tapi tak ada demand ke YB untuk rasa kelemahan tu, YB. Aku tak tahu lah. Aku jogging masa tu. I mean, I'm a human being. Sebenarnya kadang-kadang orang lupa jugalah, kan. I have a family. Lepas 2018 tu aku tak ada gaji. I have to live, kan. Sebab dah tak ada tanggungjawab dan sebagainya, it's only right lah I move on. Aku tak kacau orang pun dan aku buat hal aku lah, kan. Of course, sekarang ni berbeza kerana saya masih lagi ahli parlimen. Dan apa nama ni, 2 tahun akan datang ni keadaan selepas itu fluid. Kita tak tahu apa yang berlaku. Jadi sama juga, berbeza dengan 2019, kedudukan kewangan saya jauh lebih baik sekarang berbanding lepas. Maksudnya apa yang saya pernah usahakan adalah hasil. So saya ada ruang dan masa yang lebih untuk terus bergiat dalam masyarakat. Tambah lagi 2 tahun setengah sebagai Menteri Ekonomi, ada perkara-perkara yang saya rasa penting untuk negara yang kerajaan pun akan ambil masa untuk buat. Jadi itu ruang yang saya rasa saya boleh usahakan dulu lebih awal dengan masyarakat. Itu yang saya sebut sektor ketiga dan sebagainya, kan. I think it's an exciting learning curve for me. Ambil contoh pasal sektor ketiga ni, kan. Masalah utama dalam negara ni harga barang naik. Harga makanan, you know. Inflasi turun paling rendah pun last month 1.2, quite confirm lah harga nasi campur semua takkan turun, contohnya, kan. Elektrik tak naik pun quite confirm lah takkan turun, kan. Jadi kalau ikut angka di atas, pelaporan di atas, statistik semua cantik. Tapi harga turun tak bawa, kan. Jadi aku sebenarnya nak belajar. I actually want to run kedai dan buka dan bagi peluang kepada budak-budak bekerja. Paling bukan sangat nak buat duit ke apalah. Pak Lee bukan sangat buat business, because only by going through it, then I can appreciate and understand sebenarnya ini dia punya supply chain daripada atas sampai ke bawah, kos semua. Kenapa harga barang ni tak turun, kan? Sama juga ada 2, 3 benda yang saya usahakan, yang saya nak usahakan. Jadi ada agenda yang saya ingat cucuk—satu untuk my learning curve sendiri, pembelajaran saya sendiri. Satu, dia membantu masyarakat, orang ada keluarga tertentu, orang tertentu yang akan dapat manfaat. Ketiganya, dia juga baik untuk masyarakat dan negara kalau kita boleh percepatkan lebih banyak social enterprise dan sektor ketiga. So, when I have this lineup, sebab itu masa orang tu tanya, you tak terasa ke tiba-tiba you nak lepas jadi menteri semua ni, hilang jawatan semua? Saya actually excited for what is to come.
 
@@ -422,7 +422,7 @@ Jadi kalau tengok unjuran keperluan tenaga itu memang melangit. So dia tidak lar
 
 **Rafizi:** Saya tak rasa saya ada mandat untuk boleh bercakap bagi pihak parti atau PH. No, no—you, personally as a person? Ya lah, no, as a person I don't have the mandate. Ah, okay.
 
-**Iswardy Morni:** 2016 dulu lain kerana 2016 tu oleh kerana ada kartel semua.
+**Rafizi:** 2016 dulu lain kerana 2016 tu oleh kerana ada kartel semua.
 
 **Rafizi:** Ya, ya. Jadi benda tak jalan. I understand. Ada orang sebutlah, you know, pengarah pilihan raya bersama Izzah semua. Yalah, sebenarnya yang dalam parti tu tak jalan langsung. Sebab itu kita tak ada pilihan. Kita kena keluar dan kempen demi parti di luar. Jadi, siapa nak bincang pasal pilihan raya masa tu? So I rasa sekarang ni jalan lah. Yang itu tanggungjawab merekalah. Tapi keadaan dia bezalah. Sekarang ni ada Perdana Menteri, ada Menteri-Menteri berbanding dengan 2016. 2016 Pakatan Rakyat pun tak ada. Kita nak buat yang baru. Dato' Seri Anwar dalam penjara. Sebahagian besar pimpinan parti sebenarnya tak nak bergerak dan ada perselisihan pandangan kerana mereka nak bersama dengan UMNO. JPRP tak berjalan sangat pun masa itu kan. Jadi saya masa itu sebagai Naib Presiden dan Setiausaha Agung. Saya berada di tengah-tengah ni, tahu apa yang berlaku. Demi parti kerana pada ketika itu kita tahu Dato' Seri Anwar hanya boleh dibebaskan kalau Pakatan Harapan menang dan membentuk kerajaan. Only melalui jalan pengampunan diraja saja dia boleh jadi. Jadi what choice do I have? Tunggu, tunggu, tunggu—jadi aku keluarlah. I don't know about other people lah. I mean, orang macam kita ni selalunya orang yang terpaksa. Campaigner of the last resort. Yeah. Dah tak ada orang lain, so terpaksa lah kau kan. Tapi sekarang ni ramai orang. Betul. Jadi influencer pun ramai dan sebagainya. Jadi ada banyak lagi kumpulan-kumpulan lain yang saya rasa boleh dapat manfaat daripada our energy, our focus. Dan mungkin kumpulan-kumpulan itu bukannya dari melalui politik kepartian pun kan. Dan finally I think if you are a politician, you want to have an impact to society.
 
@@ -434,7 +434,7 @@ Jadi kalau tengok unjuran keperluan tenaga itu memang melangit. So dia tidak lar
 
 **Rafizi:** Hah, saya mula jadi pollster—data sains semua ni—ialah kerana saya tak berpuas hati dengan medical center kan. Sebab data yang sampai tu dia tak pernah tanya pasal apa nama ni: Who's gonna vote? Esok pilihan raya kau nak undi siapa? Sebab survey ni sangat bergantung kepada soalan. Tambah pula orang Melayu. Dia cakap berlapik-lapik, kuana-kuana tau kan. Tu satu. Yang kedua, survey ni oleh kerana sampling size nya ialah 1200, 1500 saja untuk kita dapat dia panggil margin of error—dalam bahasa Melayu apa? Julat perbezaan. Julat perbezaan lah kan. Just to get that margin of error of 2 to 3%, you only need lebih kurang 1500. Betul. Ini kepada orang yang selalu tanya: 1500 saja banding dengan ayam Malaysia? Survey memang macam itu. Survey memang statistically you only need 1500 respondents saja to give a 2% margin of error. Challenge dia bukannya the number of respondents. Challenge dia ialah untuk memastikan respondent itu betul-betul representative. So aku bagi contoh kan. Kenapa aku tak pernah percaya dengan survey yang face to face ketuk pintu ni? Why? So bagi contoh IDER kan, Institut Darul Ehsan kan, yang dia bagi semua. Sebab tu kalau ikut IDER ni, PKR ni akan menang 100 kerusi tiap kali pilihan raya. Betul. Sebab dia pergi buat survey, dia pakai budak universiti bawa soalan. Dia buat macam banci tau. Dia pun hantar budak universiti tu masuk kampung. Kemudian terpulang kat budak tu lah. Budak tu ketuk pintu kan. Sekarang bawa tab lah, bukan bawa kertas kan, masuk kampung. Katakanlah budak tu masuk kampung, dia jumpa satu kedai kopi, ramai orang. Dia pun interview semua orang di kedai kopi tu. Dia tak tahu kedai kopi tu adalah kedai kopi PAS. Habis semua jawab PAS. So sebab itu, it has to be computerized. Maksudnya kena ada sistem komputer yang dial randomly supaya dia betul-betul random. Kalau contohnya budak universiti itu dia malas. Dia pun sampai kat satu kawasan, dia tengok flat ni. Flat ni—daripada aku pergi ramai aku naik semualah. Kebetulan flat tu semua PKR. Memang PKR lah dapat kan. So you have to make sure sistem itu betul-betul random dan dia dial supaya you dah stratify awal-awal. Katakanlah, the survey that I run contohnya kan—I think dia punya strata, stratum tu kan, ada lebih kurang 60 lebih. Contohnya, budak Melayu umur 20 ke 25 tahun di kawasan ini, di kampung, pendidikan SPM, tak kerja. Berbeza dengan budak Melayu umur 20, 25, keluar universiti, duduk kampung yang sama. Pandangan dia lain tau. Very different. So you kena ada 60 stratum ni kan. So for each stratum tu, the phone has to dial until you get the required number. Once you get that required number, barulah 1500 tu betul-betul representative. Then you weight it kepada keseluruhan rakyat. Itu challenge dia sekarang: rakyat Malaysia tak nak angkat phone sebab dia ingat scammer. Hah, jadi kalau dulu we can complete one nationwide survey in two weeks, sekarang kadang-kadang tiga minggu tak habis lagilah. Jadi saya masih lagi menunggu. Tapi you are right. Yeah. Kerana soalan—kalau tanya adakah negara berada di landasan yang betul? Dia jawab betul. Well, bergantung kat orang. Dia kata, "Saya baru tengok Kluang Man, aku tak sukalah. Jadi dia bukan di landasan yang betul." Contohnya kan. So dia ikut benda tu is very subjective tau. Sebab itu cara kita membina soalan tu sangat penting. Tapi dia mesti berakhir dengan soalan: kalau esok pilihan raya, you undi parti mana? From there sebenarnya, kalau cukup data, you boleh buat correlation. Ada orang yang dia kata landasan betul, semua okey lah, undi parti lain. Ada orang yang tak puas hati, tak puas hati, tapi undi parti lain kan. So unless you tanya soalan—masalahnya, kenapa kebanyakan pollster tak tanya soalan itu? Sebab dia susah payah ni dah tanya 10 soalan, sampai kat situ tanya esok undi apa dia letak? Jadi untuk dapatkan 1 orang yang menjawab penuh dan sanggup beritahu dia nak undi siapa, mungkin you kena bercakap dengan 50 orang. Jadi panjang, susah, mahal. Dan kena cari pula yang
 
-**Iswardy Morni:** Kena cari pula specific stratum masing-masing tu.
+**Rafizi:** Kena cari pula specific stratum masing-masing tu.
 
 **Rafizi:** Stratum ya. Jadi lebih mudahlah tanya, adakah negara berada di landasan yang betul.
 
@@ -460,7 +460,7 @@ Jadi kalau tengok unjuran keperluan tenaga itu memang melangit. So dia tidak lar
 
 **Haziq:** Okey, saya rasa itu saja sesi episod kedua podcast Yang Berhenti Menteri.
 
-**Rafizi:** Podcast. Podcast Yang Berhenti Menteri kali ini.
+**Haziq:** Podcast. Podcast Yang Berhenti Menteri kali ini.
 
 **Haziq:** Sehingga kita berjumpa lagi pada akan datang. Tak semestinya saya moderator. Itu saja.
 

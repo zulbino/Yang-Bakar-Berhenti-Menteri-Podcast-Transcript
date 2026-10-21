@@ -64,9 +64,9 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Oh, ya ke?
 
-**Haziq:** Ha, suruh masukkan. Saya tak tahu pula apa nama ni, Kamil ni lagi pendek daripada Akmal ni.
+**Rafizi:** Ha, suruh masukkan. Saya tak tahu pula apa nama ni, Kamil ni lagi pendek daripada Akmal ni.
 
-**Farhan (Pa'an):** Akmal, Akmal, Akmal tinggi.
+**Haziq:** Akmal, Akmal, Akmal tinggi.
 
 **Rafizi:**
 
@@ -112,7 +112,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Dia apa kena mengena dengan Sanusi pula tu? "Penjajah duduki."
 
-**Haziq:** Itu typo rasa kan?
+**Rafizi:** Itu typo rasa kan?
 
 **Farhan (Pa'an):** Bukan typo, sebab Pulau Pinang kan dikatakan negeri—
 
@@ -126,7 +126,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Bagus, beria-ia mereka bergaduh. Dan lagi beria sebenarnya lagi bagus untuk rakyat Malaysia.
 
-**Haziq:** Dan mereka ni mewakili Melayu secara keseluruhan, YB?
+**Rafizi:** Dan mereka ni mewakili Melayu secara keseluruhan, YB?
 
 **Rafizi:** Tak, yang itu kena tanya pengundi lah kan. Dan kalau tengok daripada pilihan raya 2018, malah 2013 pun, sebenarnya undi Melayu ni tidak pernah kekal kepada satu parti saja. Kali terakhir undi Melayu ini solid kepada UMNO Barisan Nasional ataupun satu gabungan semata-mata ialah 2004. Contohnya 2008, walaupun UMNO Barisan Nasional masih lagi menang dan dia hampir satu lawan satu, undi popular Melayu kepada Pakatan Rakyat masa itu ialah sekitar 43 ke 45%. Ada 5% deficit saja. Masuk kepada PRU 2013, dia turun sedikit kepada 43%. Kemudian masuk kepada 2018, dia dah berpecah dah — undi Melayu tu dah terpecah kepada 3 gabungan: Barisan Nasional, UMNO, PAS, dan kemudian masa itu Pakatan Harapan. Dan itu berterusan sampai sekaranglah. Jadi kalau ada sesiapa yang mengaku mereka mewakili Melayu secara plural sekarang ini, berdasarkan keputusan pilihan raya yang terkini, yang besar, iaitu pilihan raya negeri lah kan, itu sebenarnya PN lah. Tapi kita juga tahu berdasarkan maklumat, data, kaji selidik terbaru, 42 hingga 52% pengundi Melayu merasakan bahawa parti ni semua sama je. Jadi kalau ada yang nak bergaduh kerana masing-masing nak mengaku mereka mewakili Melayu, memang bodoh ahli politik lah. Tapi the fact that contohnya isu ni pasal Melayu yang berpecah, naratif Melayu berpecah ni terus dimainkan — yang bagusnya, maksudnya sama ada daripada PAS ataupun Bersatu ataupun UMNO, mereka memang nampaknya secara tidak langsung sedar bahawa mereka tak ada satu pun yang betul-betul boleh mengaku mewakili Melayu.
 
@@ -178,13 +178,13 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Haziq:** Yang mana satu paling ni?
 
-**Farhan (Pa'an):** Sebab dia pakai tudung. I can't help it lah.
+**Rafizi:** Sebab dia pakai tudung. I can't help it lah.
 
 **Rafizi:** So yang ni memang beria lah. Kita bagi pemenang segmen beria untuk minggu ini ialah — dan dan dan dan dan — lelaki pakai tudung! Lelaki pakai tudung. Tapi aku nak juga kata yang bos dia tu pun beria. Kenapa?
 
 **Farhan (Pa'an):** Saya rasa benda ni patut di-private Instagram story, tapi dia terpost dekat Instagram story public kot.
 
-**Haziq:** Siapa bos dia?
+**Rafizi:** Siapa bos dia?
 
 **Rafizi:** Bos dia tak kena tangkap ke?
 
@@ -208,7 +208,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Dia buat masa sekaranglah. Saya sebenarnya satu-satunya strategi yang saya nampak daripada UMNO buat masa sekarang ialah membina kembali imej yang rosak teruk daripada 1MDB, daripada 2022, daripada rentetan segala skandal dan kontroversi.
 
-**Haziq:** Okey. Kalau nak kiranya, memanglah itu strategi yang masuk akal lah.
+**Rafizi:** Okey. Kalau nak kiranya, memanglah itu strategi yang masuk akal lah.
 
 **Rafizi:** Dan untuk membina imej itu, mereka merasakan lebih baik berada di dalam kerajaan. Kerana bila ada dalam kerajaan, ada kuasa. Dan UMNO adalah sebuah parti yang telah dibina berasaskan kepada keperluan sumber. Jadi kalau tidak ada dalam kerajaan, tidak ada sumber, payahlah kan. Jadi itu strategi mereka kan. Strategi itu dalam suasana sekarang, bukanlah strategi di luar kotak pada pandangan saya yang boleh melonjakkan sokongan Melayu UMNO secara drastik. Tapi itu tidak bermakna UMNO tidak ada peluang untuk menambah baik kedudukan mereka dalam pilihan raya akan datang. Masalahnya peluang itu banyak akan dipengaruhi oleh faktor-faktor di luar kawalan UMNO. Contohnya, kalau bertanding satu lawan satu — maksudnya BN-PH lawan PN, kalau perkara itu kekal berlaku kan, mereka akan bergantung kepada undi bandar dan juga bukan Melayu dan juga Melayu berpendidikan yang sebelum ini adalah penyokong PH. Tapi itu bergantung kepada vote transfer. Dan itu juga bergantung sama ada ia satu lawan satu ke tidak. Kalau ada parti baru, kalau tiba-tiba Syed Saddiq berjaya meyakinkan Muda naik secara mendadak contohnya, maka undi itu akan beralih kepada parti lain. Jadi kemungkinan bahawa mereka akan mendapat laba daripada berada di dalam kerajaan Madani kerana dia boleh menggunakan undi PH itu — ada kemungkinan itu, tapi bukan sangat di luar, bukan sangat di dalam kawalan mereka. Itu yang pertama.
 
@@ -224,7 +224,7 @@ Dan yang lebih berbahaya kepada UMNO, kerana itu berdasarkan satu hipotesis baha
 
 **Haziq:** Tidak menentu.
 
-**Rafizi:** Sorry, saya nak *recap* apa yang you cakap tu. Jadi, vote transfer pengundi PH—
+**Farhan (Pa'an):** Sorry, saya nak *recap* apa yang you cakap tu. Jadi, vote transfer pengundi PH—
 
 **Farhan (Pa'an):** Ke UMNO tiada masalah, ke Barisan Nasional tiada masalah. Cuma pengundi Barisan Nasional tak mengundi PH.
 
@@ -242,7 +242,7 @@ Cuma bezanya, untuk PKR dalam tahun 2022 itu, oleh kerana pemilihan parti dibuat
 
 **Rafizi:** Saya rasalah.
 
-**Haziq:** Oh. Mana boleh rasa-rasa?
+**Rafizi:** Oh. Mana boleh rasa-rasa?
 
 **Rafizi:** Takde lah.
 
@@ -316,7 +316,7 @@ Tambah lagi kalau dilihat bahawa Dato' Seri Anwar, walaupun hadnya had tempoh 10
 
 **Haziq:** Baik, baik. 1 jam 10 minit. Mungkin kita boleh tengok — tapi kira tu quite fast lah.
 
-**Farhan (Pa'an):** Quite fast eh?
+**Haziq:** Quite fast eh?
 
 **Haziq:** Kenapa boleh tanya soalan lagi? Tak apa.
 
@@ -336,11 +336,11 @@ Tambah lagi kalau dilihat bahawa Dato' Seri Anwar, walaupun hadnya had tempoh 10
 
 **Rafizi:** Bukan bekas Panglima Angkatan Tentera, kan?
 
-**Farhan (Pa'an):** Bekas Panglima Tentera Darat.
+**Rafizi:** Bekas Panglima Tentera Darat.
 
 **Rafizi:** Bekas Panglima Tentera Darat. Ah, Panglima Tentera Darat, PTD.
 
-**Farhan (Pa'an):** PTD yang sepatutnya dilantik menjadi Panglima Angkatan Tentera yang seterusnya. Tapi sekarang telah di—
+**Rafizi:** PTD yang sepatutnya dilantik menjadi Panglima Angkatan Tentera yang seterusnya. Tapi sekarang telah di—
 
 **Rafizi:** —
 
@@ -350,7 +350,7 @@ Tambah lagi kalau dilihat bahawa Dato' Seri Anwar, walaupun hadnya had tempoh 10
 
 **Farhan (Pa'an):** Ha, Caprice. Sebab Caprice — kawan, jiran—
 
-**Rafizi:** Bukan, bukan, bukan kena benda. Follow lah.
+**Farhan (Pa'an):** Bukan, bukan, bukan kena benda. Follow lah.
 
 **Farhan (Pa'an):** Tak, sebab saya nampak the term "ye ye."
 
@@ -366,11 +366,11 @@ Tambah lagi kalau dilihat bahawa Dato' Seri Anwar, walaupun hadnya had tempoh 10
 
 **Farhan (Pa'an):** My grandfather is actually a retired lieutenant colonel. Dia ada cerita pasal tenteranya, tapi dia tak pernah cerita pasal benda ni lah. Takkan dia nak cerita dia yeh-yeh.
 
-**Rafizi:** No, actually dia bawa — dia ada van penuh dengan prostitute. Dia bawa masuk.
+**Haziq:** No, actually dia bawa — dia ada van penuh dengan prostitute. Dia bawa masuk.
 
-**Haziq:** Are you sure it's prostitute?
+**Rafizi:** Are you sure it's prostitute?
 
-**Rafizi:** Kalau yeh-yeh tu—
+**Farhan (Pa'an):** Kalau yeh-yeh tu—
 
 **Haziq:** Dikatakanlah, cerita-cerita yang tak boleh disahkan.
 
@@ -414,7 +414,7 @@ Tambah lagi kalau dilihat bahawa Dato' Seri Anwar, walaupun hadnya had tempoh 10
 
 **Rafizi:** Yalah, contohnya yang berlaku ni ialah angkatan tentera, tapi yang menyiasatnya pun angkatan tentera jugalah. Sendiri siasat sendiri. Dia tak sama contohnya sistem yang ada kalau di US. Malah di Indonesia pun. Kerana parlimen mereka, kalau US Kongres lah kan dan juga Senate kan, kalau di Indonesia MPR, Majlis Perwakilan Rakyat kan, mereka ada kuasa yang besar dan mereka memulakan siasatan sendiri. Dia akan panggil-panggil. Saya tahu PSSC akan panggil jugalah, jawatankuasa terpilih kan, tapi jawatankuasa terpilih tu kadang-kadang, apa yang mereka boleh tanya, apa yang mereka boleh dapatkan maklumat terhad. Tambah kalau melibatkan tentera, dia susahlah kerana itu keselamatan negara semua kan. Tapi paling kurang saya berharaplah siasatan mengenai budaya yeye ni dapat dibuat secara telus dan terbuka sebaik-baiknya. Dan saya harap pimpinan Angkatan Tentera yang ada, pimpinan MINDEF yang ada, gunakan kesempatan ini untuk memperbaiki keadaan itu. Saya tak tahu secara menyeluruh, saya pun tak ada maklumat sejauh mana perkara ini berleluasa kan. Sebab ini memang budaya daripada tentera British dulu. Memang ada pegawai kan, pegawai ni ada mess dia sendiri, jadi memanglah dia kena bersosial. Bila dia bersosial tu, kalau dulu-dulu biasalah ada wanita semua kan, tapi kita dah 70 tahun merdeka. Dan bersosial itu kalau karaoke, sebaiknya berkaraoke sesama lelaki je lah kot. Tak payahlah berkaraoke dengan wanita.
 
-**Haziq:** Tersedar MB kena. Oh ya ke? Oh, dia karaoke dengan, ya?
+**Rafizi:** Tersedar MB kena. Oh ya ke? Oh, dia karaoke dengan, ya?
 
 **Rafizi:** Ya. Saya cadangkan karaoke dengan lelaki je lah kan. Dah nak menyanyi sangat, kau menyanyilah melalak kan. Akan ada yang kata bahawa ini adalah satu budaya yang diwarisi dan ada keperluannya. Yalah, you want to let the hair down kan, askar kalau tidak mungkin terlalu uptight kan, mereka juga perlu bersosial semua kan. Tapi saya ingat dia mestilah dalam batas-batas yang kena. Dan kita tak tahulah bila diberitahu ada wanita luar yang dibawa masuk tu kan, memang tak bolehlah kerana itu kem tentera. Dan satu dari segi morality kan, tambah kalau bukan Muslim semua tu kan, sama ada kalaupun dia hostess pun tak boleh kan. Tapi di satu sudut pandangan yang lebih berbahaya, yang lebih serius ialah is a national security. Dia tak boleh masuk. Menteri pun saya ingat tak sepatutnya masuk kem tentera ikut suka dia buat apa je, dia mesti is a national security kan. Jadi banyak perkara-perkara yang didedahkan yang memerlukan perhatian daripada budaya yeye ini kan. Dan saya berharap bila siasatan itu berlaku nanti, kita nak kena tahu contohnya sejauh mana berakarnya budaya ini. Adakah ini perkara-perkara yang jarang berlaku, rare occasion kan, jadi itu lebih mudah. Tapi kalau dia dah menjadi budaya, maka kepimpinan angkatan tentera kena cari jalan macam mana untuk menukar perkara itu kepada sesuatu yang dalam batasan budaya kita dan mengambil kira keperluan-keperluan keselamatan dan national security tadi. Dia sebenarnya tak banyak beza sangat dengan contohnya ragging di universiti. Contohnya kalau di sekolah asrama penuh kan, 20 tahun dulu ragging ni biasa kerana dia dikira sebagai budaya untuk buat budak-budak tough. Termasuk di MCKK? Sabar dulu, aku tak sampai kat sekolah lagi. Kau kan takkan tak ada ragging.
 
@@ -546,13 +546,13 @@ Cuma pasal Tan Sri Muhyiddin ni — secara teknikalnya, memang betul apa yang Sa
 
 **Rafizi:** Dia tak boleh cuba cari planning dah — dah jam dah landing. Okey, selamat malam.
 
-**Haziq:** Lepas ni full time eh.
+**Rafizi:** Lepas ni full time eh.
 
 **Rafizi:** Aku kena hantar kau pergi kursus lah aku rasa. Dah cakap kan tu?
 
 **Haziq:** Bye bye.
 
-**Farhan (Pa'an):** Okey, bye bye.
+**Haziq:** Okey, bye bye.
 
 **Rafizi:** Perbincangan macam mana nak hantar dia kursus tu, nanti kita buat offline. Selamat malam. Terima kasih.
 

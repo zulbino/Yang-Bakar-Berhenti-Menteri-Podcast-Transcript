@@ -186,7 +186,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Saya selalu pergi kempen dekat Kuala Ketil. Dia dekat sempadan Baling dengan Sungai Petani, Kulim, kat situ lah, on the way dari situ. Tengoklah video dia ni — orang Sabah tu kempen, dia bagi roti Gardenia gajinya aja. Hinanya lah orang Sabah. Tapi dah minta maaf. Saya nasihatkan orang-orang Sabah selepas menonton TikTok ini, jangan lah undi PAS dalam pilihan raya negeri yang akan datang, sebab pandangan dia pada orang Sabah ni sangat lah rendah. Dia rasa orang Sabah ni sangat lah selekeh, bagi roti Gardenia pun cukup. Dia tak patut keluar daripada mulut seorang wakil rakyat — Exco.
 
-**Haziq:** Dia Exco? Allahuakbar.
+**Rafizi:** Dia Exco? Allahuakbar.
 
 **Rafizi:** Tak. Patutlah Sanusi nampak cerdik sangat.
 
@@ -206,9 +206,9 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Ada orang Sabah cerita macam tu? Tak, dia time ceramah kan?
 
-**Farhan (Pa'an):** Ceramah lah, dia kata macam tu.
+**Haziq:** Ceramah lah, dia kata macam tu.
 
-**Haziq:** Nasib lah kan.
+**Rafizi:** Nasib lah kan.
 
 **Rafizi:** Jadi takpalah, saya lebih teruja bila dapat tahu dia sebenarnya seorang Exco. Takpalah kita hantar dia roti Gardenia.
 
@@ -270,7 +270,7 @@ Fleximat lebih aman, memang betullah, sebab dia jual kopi, mi kari dan barang ru
 
 **Rafizi:** Itulah, ada yang kata dia ni memang jahat, dia nak bunuh semua perniagaan Melayu. Pulak ada. Ini social experiment. Kita ambil contoh nasi lemak ayam goreng — kita jual berapa ringgit setengah? Kos dia lebih kurang RM3 lebihlah, bergantung kepada harga ayam, pembaziran — kalau terlebih, dalam RM3 ke RM3.50. Itu kos raw material. So ada lebih kurang seringgit untuk kos indirect — maksudnya kos gaji, kos sewa, kos elektrik. Tapi perlu untuk orang faham bahawa sebenarnya kos material itu macam itulah. Sebab kalau apa-apa, masyarakat kita — macam saya sebut dalam podcast yang lepas — kita suka menormalisasikan harga tinggi. Dan bila kita menormalisasikan harga tinggi, kita memberi peluang, kalau apa-apa jadi, dalihnya ialah sebab kosnya mahal, harga bahan mentah mahal. Jadi dari segi faktanya, saya ingat orang ramai boleh menilai bahawa kos untuk sepinggan nasi lemak dengan bilis yang digoreng dengan ayam goreng berempah — satu ekor, kalau 1.5 kilo ke bawah potong 12, kalau 2 kilo potong 14 — saya cakap terus, kos dia lebih kurang RM3. Kalau orang jual sampai RM12, maksudnya margin kasar dia sebelum kos-kos lain, margin kasar dia lebih kurang 3 kali ganda, 300%. Sudah tentu kita tak boleh nak bandingkan apple to apple, sebab struktur Kesum itu berbeza. Contohnya, dia tidak ada tekanan untuk mendapatkan untung yang lebih tinggi untuk membayar kereta Alphard saya.
 
-**Haziq:** Why we ada Alphard?
+**Rafizi:** Why we ada Alphard?
 
 **Rafizi:** Tak ada lah, contohnya saya tak ada Alphard. Tapi maksudnya begitulah, sebagai pelabur atau rakan kongsi modal untuk Kesum dan Fleximat, mereka bayar saya dalam 500 ringgit sebulan je, itulah untung saya, tak kisah jadi macam mana, dapat 500 ringgit sebulan je, saya pun berpuas hati sebab saya kata ini bukan untuk kaya. Kalau saya nak kaya, saya pergi buat benda lain, tak payahlah buat benda ni. Tapi untuk orang lain, model itu berbeza kerana perniagaan itu betul-betul perniagaan kapitalis — tak kisahlah yang kecil ke yang besar, modelnya itu bukan model musyarakah, bukan model perusahaan sosial, dia model untuk mendapat untung. Jadi bila dia model mendapat untung, contohnya kalau dia estimate setiap bulan, kos hidup dia — dia nak bayar kereta dia, dia nak kena bayar rumah dia, dia perlukan 6,000 sebulan. Jadi 6,000 sebulan itu mestilah ada over and above the raw material and indirect cost. Katakanlah raw material ialah RM3.50, indirect cost kalau dia ada pekerja semua campur jadi RM6. Tapi kalau dia jual RM6, tidak ada 1 sen pun untuk dia. Maka kalau dia kira kos dia begini-begini, saya perlukan 6,000 sebulan, itu yang jadi RM12 satu pinggan.
 
@@ -326,7 +326,7 @@ Cuma apa pun keputusannya, saya rasa ia mematahkan — kalau PKR Sabah itu ada 5
 
 **Rafizi:** Katakanlah PKR Sabah tu rumah. Ada 5 tiang. 3 tiang tu dah patah. Sebab bayangkan PKR di Sabah yang setia kepada PKR, kepada Anwar Ibrahim daripada tahun 1999 — dan PKR Sabah ini dari segi keanggotaan ialah nombor 2 paling tinggi di Malaysia selepas Selangor. Cabang-cabang di Sabah pun antara paling banyak, ada 26 cabang. Tapi daripada 26 cabang itu, ketua cabang yang jadi calon ni berapa orang je? 2 orang je rasanya. Romansa dengan... Rufina, eh, bukan — dia ketua wanita. Ada seorang lagi. Siapa yang dulu bekas ahli parlimen Putatan? Awang Usaini Salleh.
 
-**Haziq:** Awang Usaini. Dia dua orang je.
+**Rafizi:** Awang Usaini. Dia dua orang je.
 
 **Rafizi:** Yang lain saya rasa Tony Chee saya rasa bukan. Jadi bayangkan semua pimpinan cabang PKR selepas berpuluh tahun, hanya 2-3 orang saja mereka layak untuk bertanding. Itu kesan besar sebenarnya. Jadi kalau saya jadi orang Sabah, susahlah — PKR Sabah dah kena berdepan dengan tanggapan bahawa PKR ini parti Malaya. It's already an uphill battle. Kemudian mereka akan diperlekehkan lagi — bukti bahawa kamu parti Malaya, calon-calon kamu sendiri pun tak dipilih. Ini yang saya rasa dalaman parti — ini saya boleh bercakap kerana saya ramai lagi kawan-kawan di Sabah dalam PKR, ketua cabang, pimpinan semua. Saya ada orang hantar mesej kat saya — ketua-ketua cabang PKR Sabah kata, "Raf, kalau you ada, tak jadi begini. Sebab tu lah aku tak nak ada kat situ." Sebab kalau saya ada nanti bergaduh besar pasal Fazal nak bawa calon-calon ni. Sebab prinsip saya ialah sebaik yang mungkin kita kena ketengahkan orang-orang kita, terutamanya yang telah lama berjuang, kerana kalah menang, parti mesti terus kuat. Orang yang masuk secara payung terjun ini, dia masuk masa kita menang, masa kita senang — kalau susah lepas ni, dia angkat kaki. Akhirnya yang tinggal ni geng-geng ni juga. Tapi kalau dia dah rasa saya dah habiskan 10, 15 tahun masa muda, habiskan wang masa susah, bila dah jadi kerajaan nak masuk pilihan raya, orang lain jadi calon — lepas ni masing-masing membawa diri. Jadi menang kalah, apa pun keputusannya daripada PRN Sabah, secara dalamannya ia akan melemahkan parti. Macam saya sebut tadi — daripada 5 tiang rumah PKR Sabah tu, 3 dah patah.
 
@@ -348,15 +348,15 @@ Cuma apa pun keputusannya, saya rasa ia mematahkan — kalau PKR Sabah itu ada 5
 
 **Haziq:** Macam hidung mancung dan tak mancung. Contohnya YB hidung mancung, tapi—
 
-**Rafizi:** YB hidung tak mancung.
+**Haziq:** YB hidung tak mancung.
 
 **Haziq:** Kemudian saya keluarkan kenyataan media sebab saya artis. Saya cakap, saya tidak akan mempertikaikan akta fitnah, tapi saya akan merayu keputusan hakim.
 
 **Rafizi:** Aku dah confuse dah. Contoh dia ni memang sukar difahami. Maksudnya apa dia?
 
-**Haziq:** Maksudnya, actually — what are you trying to get at?
+**Rafizi:** Maksudnya, actually — what are you trying to get at?
 
-**Rafizi:** Artikel itu sendiri tak dia cabar.
+**Haziq:** Artikel itu sendiri tak dia cabar.
 
 **Haziq:** Memang semua orang tahu, dan itu memang benda yang basic. Jadi apa yang dia cabar adalah bagaimana judgement High Court ni — contohnya dia nullified balik bayaran yang pernah dibuat oleh kerajaan dulu, sebab dia kena kira balik dari 1974 sebagai contohnya. Jadi at the end, orang akan kata, eh, ini adalah rayuan juga.
 
@@ -396,7 +396,7 @@ Tapi yang sangat saya bimbangi, kalaupun kita nak buat macam yang PSM kata, waji
 
 **Rafizi:** Yalah, trend dia okeylah. Saya ingat, memang kalau nak dibandingkan dengan generasi dulu yang lebih tua, kita fahamlah generasi yang muda ini tidak mahu kekal di dalam satu-satu pekerjaan sampai mati. Tetapi janganlah setiap 6 bulan. Kalau daripada perspektif syarikat, contohnya kalau dia dah habiskan 3, 4 bulan untuk melatih pekerja graduan yang baru keluar universiti, dia dah latih budak tu dah boleh buat kerja kan. Kalau dah lebih sampai 2 tahun, kita pun faham dia mungkin nak cari kerjaya yang lain, dan 2 tahun itu operasi dan juga urusan syarikat itu stabil, kerana dia telah dilatih, dia dah mampu menyumbang sampai 2 tahun. Tapi kalau tiap-tiap 6 bulan, 4 bulan kena cari orang baru semua — jadi sebab itu juga perniagaan yang kecil dan sederhana kata tak guna bayar mahal. So it's actually a problem.
 
-**Haziq:** It's a problem sebenarnya.
+**Rafizi:** It's a problem sebenarnya.
 
 **Rafizi:** Dan benda ini bukan saya cakap mudah-mudah. Kita dah buat kajian sebelum peringkat untuk buat progressive wage ni. Pain points utama salah satu perniagaan kecil dan sederhana yang menghalang mereka untuk ada produktiviti yang lebih tinggi dan mencipta nilai yang lebih tinggi, atau berkembang dengan lebih besar, ialah sebenarnya soal mutu pekerja juga. Kerana masyarakat kita semua berebut nak kerja yang besar. Kalau keluar universiti, nak salahkan dia pun tak boleh — mak ayah pun kata, "You janganlah kerja syarikat kat Hulu Sungai Besi tu. Pergilah kerja dekat Twin Tower, ataupun sekarang ini Menara 118." Semua berebut kat situlah. Jadi contohnya bila dia mula masuk syarikat pertengahan, dia kerja 1 tahun pun dia akan cuba untuk lari, dapatkan kerja lebih tinggi, lebih tinggi. Akhirnya, mereka yang dilatih, mereka yang ada pengalaman baik, yang bermutu ini, tidak kekal dalam perusahaan kecil dan sederhana. Macam mana syarikat tu nak berkembang? Dia duk sibuk fighting fire every 6 months, every year kan. Jadi tujuannya ialah untuk menjadikan PKS ini lebih stabil dan juga berjaya menarik minat graduan dan tenaga kerja yang lebih bermutu. Dan itu tidak boleh lari daripada soal gaji.
 
@@ -446,19 +446,19 @@ Jadi sudah tentulah Tong Kui Hong tanya, kenapa 41% saja kita peruntukkan daripa
 
 **Farhan (Pa'an):** Kalau YB sendiri cakap pasal benda ni, mungkin lebih ramai dengar podcast kita kot. Kalau YB sendiri bincang pasal topik ni, mungkin lebih ramai boleh dengar podcast. Pasal apa? Pasal orang Rom belajar — kita bedah Julius Caesar belajar buat.
 
-**Haziq:** Tapi itu bukan bidang aku.
+**Rafizi:** Tapi itu bukan bidang aku.
 
 **Rafizi:** I have no — I mean, you know, whatever I know is from what I read about European history lah kan. Kalau nak cerita ni maksudnya aku kena habiskan 20 tahun hidup aku untuk research. For all I know, dah habis 20 tahun aku research, sebenarnya tak betul. Tak boleh buang masa kan.
 
 **Haziq:** Okey, YB. Dalam keadaan tak ada isu, kita dah 2 jam 17 minit. Kami seek your — apa kita panggil ayat penjawat awam — panduan? Oh, guidance.
 
-**Rafizi:** Guidance. Kita teruskan.
+**Haziq:** Guidance. Kita teruskan.
 
-**Haziq:** Ada lagi keras-keras lagi ke? Tak ada lah. Dunia punya ni cepat-cepatlah.
+**Rafizi:** Ada lagi keras-keras lagi ke? Tak ada lah. Dunia punya ni cepat-cepatlah.
 
-**Rafizi:** Cepat-cepat. Okey, masalah yang pertama.
+**Haziq:** Cepat-cepat. Okey, masalah yang pertama.
 
-**Haziq:** Itulah cerita Profesor Solehah Rom ni dia panjang lagi kan.
+**Rafizi:** Itulah cerita Profesor Solehah Rom ni dia panjang lagi kan.
 
 **Rafizi:** Nasib baik aku tak cakap pasal apa nama ni, "crossing the Rubicon" — aku orang tak faham lah. Orang yang kat luar tu faham lah bila cakap Crossing the Rubicon. Tapi tak apa. Okey, YB?
 
@@ -482,7 +482,7 @@ Jadi sudah tentulah Tong Kui Hong tanya, kenapa 41% saja kita peruntukkan daripa
 
 **Rafizi:** Long Island. Orang kata macam-macam lah semua. Saya ada baca buku pasal Zohran Mamdani ni. I did some research on him — saya memang ikuti dari segi terutamanya politik Parti Demokrat dekat lah, sebab saya ada beberapa kawan dalam Demokrat yang memang rapat dengan saya. Mereka ini bukan frontline politician, tetapi parti Demokrat di Amerika Syarikat ni tak sama macam kita — dia tak ada jawatan-jawatan rasmi semua ni. Jadi mereka ada banyak orang penting ataupun orang yang berpengalaman tapi duduk di belakang, dan sebahagiannya ini kawan rapat saya. Orang akan bagi macam-macam pandangan lah — dia ni pandai sosial media lah, dia pandai ni semua kan. Tapi sebenarnya semua orang nak guna sosial media, semua orang pandai guna sosial media. Orang yang lebih berduit boleh gaji pasukan sosial media yang banyak. Ada yang berjaya, banyak yang tak berjaya, dan ada yang berjaya walaupun dia salah langsung. Jadi ini bukan soal sosial media semata-mata — saya rasa soal substance juga. Kita belajar tingkatan berapa eh, satu teori fizik nama resonance ni?
 
-**Haziq:** Lawyer ke fizik ni?
+**Rafizi:** Lawyer ke fizik ni?
 
 **Rafizi:** Fizik. Dia ada satu konsep resonance. Ahli politik, hatta orang jual nasi lemak atau produk pun, dia akan dapat sambutan yang baik kalau ada resonance. Mat Salleh kata *strike a chord*. Pandangan saya, Zohran Mamdani ni diterima kerana core issue dia, core campaign yang dibawa itu ada resonance dengan pengundi. Apa core issue yang dia bawa?
 
@@ -494,7 +494,7 @@ Jadi sudah tentulah Tong Kui Hong tanya, kenapa 41% saja kita peruntukkan daripa
 
 **Rafizi:** Yalah, apa isu dia pasal cost of living? PAS pun duk cerita cost of living, cost of living.
 
-**Farhan (Pa'an):** Rent dah tinggi. No, no, itu semua ialah perincian-perincian dia.
+**Rafizi:** Rent dah tinggi. No, no, itu semua ialah perincian-perincian dia.
 
 **Rafizi:** Apa message substance yang emotionally appealing yang dia bawa kepada pengundi?
 
@@ -508,7 +508,7 @@ Sama juga dengan Malaysia. Saya tak tahu lah ahli politik lain kat Malaysia ni �
 
 Itulah kalau tengok normal curve, bell distribution — yang fringe ni, yang wala apa pun dia buat, dia tak peduli. Tapi yang atas pagar tu dia boleh swing. Jadi the race is on — kalau kita belajar daripada Zohran Mamdani ni, untuk tempoh 7, 8 tahun lagi, sebenarnya apa titik resonance pengundi silent majority kita. Dan ini yang saya kadang-kadang selalu ingatkan lah, baik Perdana Menteri, baik diri saya sendiri sebagai ahli politik, termasuklah pimpinan-pimpinan PAS, pembangkang — jangan hidup dalam bubble kita, tau. Kerana orang sebenarnya tak berfikiran macam kita. Rakyat biasa ni, politik tak sampai 10% pun daripada masa dia. Jadi dia hanya relate dengan politik kalau ada resonance dengan perkara yang penting dengan dia. And the race is on. Saya rasa apa yang berlaku dengan Zohran Mamdani ini membuktikan sekali lagi bahawa you need science and you need data, and also you need to cleverly package all this together if you want to create something nearly impossible like this. Okey, kita next.
 
-**Haziq:** Boleh. Fuyo. Okey, Fuyo — kita dah sampai Fuyo. Yang ini saya sangat excited.
+**Rafizi:** Boleh. Fuyo. Okey, Fuyo — kita dah sampai Fuyo. Yang ini saya sangat excited.
 
 **Rafizi:** YB, saya teruslah. Dengar eh orang luar yang menonton — ini satu perkara yang saya ingat dalam tempoh 2-3 tahun yang lepas, semua orang duk cerita pasal AI, pasal robot. Actually, China senyap-senyap buat, yang tak dilaporkan secara meluas di Barat — yalah, itu bias Barat lah. Ada cerita kenapa, sebab benda ni bermula daripada Amerika. Tapi mungkin Haziq nak terangkan sedikit pasal molten salt reactor ni. Ini antara salah satu perkara yang akan ada kesan yang sangat besar kepada dunia dan juga tamadun manusia.
 
@@ -536,7 +536,7 @@ Itulah kalau tengok normal curve, bell distribution — yang fringe ni, yang wal
 
 **Rafizi:** Saya akan cuba terangkan dalam bahasa yang lebih mudah difahami, sebab dia menghafal je untuk exam.
 
-**Haziq:** Ha, dia menghafal.
+**Rafizi:** Ha, dia menghafal.
 
 **Rafizi:** Fahamlah, dia budak law, dia tak ada minat benda-benda macam ni. Okey. Dunia akan berhadapan dengan masalah tenaga. Sekarang penyelesaian buat masa ini ialah tenaga hijau — pakai solar semua. Tapi masalah tenaga hijau ialah dia ada had dia. Takkan kita nak pasang solar satu dunia, orang nak duduk kat mana? Kerana selalunya 1 megawatt memerlukan 4 ekar — mungkin sekarang lebih efficient sikit, 3 ekar. Jadi kalau plant tu 1 gigawatt, maksudnya 1000 megawatt, dia perlukan 4000 ekar. Jadi solar ni baik, tetapi ada had dia. Tenaga yang paling cekap penjanaannya dalam dunia ialah tenaga nuklear, kerana dengan sedikit sahaja uranium — walaupun dia bukan renewable, well, people don't argue whether it's renewable ke tidak sebab masalah sumber itu setakat ini kita ada abundant, especially thorium dengan uranium. Jadi tak akan timbul soal kita akan ketandusan atom yang kita nak pakai.
 
@@ -562,9 +562,9 @@ Jadi kalau mereka berjaya buat, kesannya, contohnya, Petronas memang sakit lah. 
 
 **Rafizi:** And cerita dia lah, latar belakang benda ni — US tak nak layan, dia tak kembangkan sebab dia dah buat, dia abandon molten salt reactor. China ambil, lepas 30 tahun, dapat kat China, China buat. Okey, YB.
 
-**Haziq:** Eh, cepatlah kita nak balik ni.
+**Rafizi:** Eh, cepatlah kita nak balik ni.
 
-**Rafizi:** Cepat, cepat, cepat, cepat, cepat.
+**Haziq:** Cepat, cepat, cepat, cepat, cepat.
 
 **Haziq:** Banyak tanya. Okey. Ni cepat-cepat lah eh. Makin hari makin banyak insiden rempit accident di lebuhraya. Baru-baru ini tular lagi kes jatuh beramai-ramai. Kenapa gejala ini makin berleluasa? Apa kombinasi faktor sebenar di sebalik viral — penguasaan longgar ke, ekonomi anak muda ke, budaya tontonan, atau reka bentuk jalan yang menggalakkan kelajuan? Dari sudut dasar, apa pelan realistik 12 ke 18 bulan untuk turunkan insiden, bukan sekadar operasi bermusim? Macam tanya ChatGPT kan.
 
@@ -588,15 +588,15 @@ Yalah, ada perkara-perkara jangka masa pendek yang mungkin boleh dibuat. Contohn
 
 **Rafizi:** Ha, saya tengok tu kan, I think kita stop kot kan.
 
-**Farhan (Pa'an):** Mana yang kita stop, kita stop.
+**Rafizi:** Mana yang kita stop, kita stop.
 
 **Rafizi:** Sebab tu, kalau tengok Kementerian Ekonomi, ada orang tanyalah, "oh buatlah macam menteri tu, buatlah macam menteri ni." Orang tak tahu, kalau ikut cara tertentu, memanglah dia nampak hebat, tapi dia bayar ratus ribu. Kenapa tak keluar sana? Kenapa tak keluar sini? Orang selalu tanya kan, kenapa tak keluar dalam TV? Eh, kau ingat free ke? Kena bayar, kena bayar, kan. Jadi kita yang fikir, masalah ni duit rakyat, "daripada aku bayar 200 ribu, tak apalah aku buatlah TikTok aku," contohnya kan. Masalah influencer ni satu, cost kepada kerajaan sebab dia mahal tau, 80 ribu satu video diorang ni. Yang keduanya, hari ni kau berkuasa kan, kau bayar dia. Esok kau tak berkuasa, orang lain bayar, dia maki kau. Dia jadi macam — macam baru berlaku.
 
-**Farhan (Pa'an):** Baru berlaku, baru berlaku.
+**Haziq:** Baru berlaku, baru berlaku.
 
 **Rafizi:** Apa dia? Salim, Salim Iskandar.
 
-**Farhan (Pa'an):** Oh ya kak.
+**Rafizi:** Oh ya kak.
 
 **Rafizi:** Kita tak bayarlah dia.
 
@@ -610,7 +610,7 @@ Yalah, ada perkara-perkara jangka masa pendek yang mungkin boleh dibuat. Contohn
 
 **Haziq:** Sempat. Okey, saya rasa itu saja. Ha, tu je. Alhamdulillah.
 
-**Rafizi:** Rekod malam ni eh, kan?
+**Farhan (Pa'an):** Rekod malam ni eh, kan?
 
 **Farhan (Pa'an):** Ni berapa jam? 2 jam 50 minit.
 

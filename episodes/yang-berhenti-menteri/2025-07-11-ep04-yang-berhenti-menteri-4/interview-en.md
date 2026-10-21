@@ -66,7 +66,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Haziq:** All right, very well. YB, time for the last ice-breaking session. How many ice-breakers are we going to do? I've lost count.
 
-**Rafizi:** That's not the YB's line.
+**Haziq:** That's not the YB's line.
 
 **Haziq:** To tie it back to our guest speaker. YB, when did you first meet?
 
@@ -74,7 +74,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Haziq:** And YB, since we have brother Faiz with us tonight, you also made a statement two or three days ago about *Ayuh Malaysia* to—what was it—create— Oh, is that why you're wearing that shirt? That's the shirt. Such an ugly shirt, oh Allah Almighty.
 
-**Rafizi:** It's become sleepwear. So now I have to wear it again.
+**Haziq:** It's become sleepwear. So now I have to wear it again.
 
 **Haziq:** Okay, talking about *Ayuh Malaysia*, YB wants to revive social enterprises, and I think discussions about the third sector economy or social enterprises are rather lacking in Malaysia, and perhaps we have Faiz's voice here. YB, even though it's rather lacking and—
 
@@ -148,7 +148,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Faiz Ahmad:** And indeed the economy really requires you to work actually, right?
 
-**Rafizi:** The people out there. Production.
+**Faiz Ahmad:** The people out there. Production.
 
 **Faiz Ahmad:** The people out there understand it differently, you know. Indeed the diff- They have to work. Have to work. They think that getting free money is good. When free money is not given, the economy is not good. Actually, it can't be like that.
 
@@ -164,7 +164,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Faiz Ahmad:** Meaning the 15%. Okay.
 
-**Rafizi:** 85% should get the targeting.
+**Faiz Ahmad:** 85% should get the targeting.
 
 **Faiz Ahmad:** But it hasn't been scrutinized that-
 
@@ -302,7 +302,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Their economy is different; it's service-based and different, right? So for us now, our ideal—what's its name—inflation rate is 2%. 2%. Between 1.5% to 2% under good profile conditions. It is actually true that if, for example, inflation is too low or negative, that's deflation. I think even Japan went through nearly 20 years of hardship because of this—people out there saying, "Yeah, yeah, yeah, let's lower goods prices, lower goods prices," right? Other countries have been through it, you know. Japan from 1990 until recently, right? What year was that? 30 years? 30 years, right? Deflation, right? It—it went through that process where goods prices didn't rise and so on. But wages didn't rise either. There was no economic growth. A lot of products disappeared. So when there's no economic growth, people don't invest to generate new economic activity. So eventually, over time, the economy stops growing. The economy is actually destroyed. Many sectors disappear and so on. So they had problems. So back in the old days, right, in Japan, because of negative inflation—deflation—banks had to charge people; meaning if you kept money in the bank, you had to pay the bank. You didn't get interest. Because the bank said, "Don't put your money in the bank. Please go out and spend," right? So, so it has its effects as well. So, *urbanomics*. Only now, I think this year for the first time, I believe the Bank of Japan Governor dared to raise interest rates, right?
 
-**Faiz Ahmad:** Because inflation managed to rise to 3%.
+**Rafizi:** Because inflation managed to rise to 3%.
 
 **Haziq:** So inflation has this, what's it, gap between what—
 
@@ -318,7 +318,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Faiz Ahmad:** Boring or not, I still want to ask. The ringgit is constantly attacked because right now the ringgit is said to be low.
 
-**Rafizi:** But when I look at the past 15 years, the ringgit has actually been declining for a long time.
+**Faiz Ahmad:** But when I look at the past 15 years, the ringgit has actually been declining for a long time.
 
 **Faiz Ahmad:** True. But why do people highlight this current period? Why not highlight that the decline has been happening for 15 years?
 
@@ -332,7 +332,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** For one thing, it is not an election. The election is not tomorrow, right? So let's say the election is two years from now, most probably two years from now, we will go through many headwinds. The global economy is indeed challenging, right? We will also go through several matters that the current government and the opposition have to face, for example, the issue of reform and so on, right? We also have to look from the midterm until the end of the term, at all these existing parties, how they react, and to be fair, we have to compare term by term, right? So it's actually an open field. It's an open field right now, right? So if in the US for example, the midterm is the first warning bell, whether that party or that president can ultimately remain and be re-elected or be replaced. It depends on the remainder of the half term, right? For the time being, I would be worried if the opposition, whether PN or Bersatu, were to take over. Because it would be a pity when, in a situation where many things feel like the medicine has started to take effect and we need to ensure these actions last until the end of the term, right? So, naturally, the rakyat's concern is if things change, because PH's advantage is usually that the rakyat are more confident that PH are more competent administrators. But, there is a catch to it as well. The PH government or BN government that exists now, do not take the rakyat's sentiment for granted. So if, for example, there are issues that are not handled well, that is also what sometimes the influencers—influencers, not you, PKR influencers usually, right?
 
-**Faiz Ahmad:** Name names. Even I don't remember their names.
+**Rafizi:** Name names. Even I don't remember their names.
 
 **Rafizi:** They keep calling him Ceplos. I don't even understand what Ceplos is, right? Do not underestimate the intelligence of the rakyat. Even if we support our party, we cannot take a holier-than-thou attitude. That my party is the best. If you don't support it, you are stupid and evil. It doesn't work like that. We must show and if there is something we feel is wrong, we must reprimand it, right? So the current situation is that within the remaining two years, it also depends on how we handle the rakyat's sentiment. Because even if the economic headlines are good and so on, but if that sentiment is not handled well because the rakyat feel the government is detached, or holier-than-thou, or talking down to the rakyat, right? Then in the end, it becomes a protest vote. And that protest vote happened in 2018. That is why all the walaun say they miss the Najib era because the figures for 2017 were good, for example. 2017 was a good year economically, for instance. So that is why Najib was very confident of winning. Merdeka Center, analysts, everyone said with these numbers, it's a confirmed win. No, he didn't win because there was a gap between the headline numbers and the feelings of the rakyat on the ground.
 
@@ -430,7 +430,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Right? Actually, it's already been decided what's going to happen. The process for choosing candidates has its conditions. *Pam pam pam pam*. You go through the process *pum pam pum pam* until actually, it's already been decided. But we can still fight, right? That's the thing. If we respect the process, when there is a fight, a difference of opinion, that's where basically the give and take happens. Okay. So you go through that process, but if after 10 times of give and take, you give 100%, and the take is zero, then it's over. It won't work out. By then you know, right? So it's the same in the cabinet or anywhere else. So there's no hard and fast rule. It's not a textbook. But the process and the collective conviction in reform is actually assessed based on what finally happens. Okay, fair enough.
 
-**Faiz Ahmad:** Alright, satisfied?
+**Haziq:** Alright, satisfied?
 
 **Haziq:** Satisfied. Okay, 1 hour and 50 minutes well-spent.
 

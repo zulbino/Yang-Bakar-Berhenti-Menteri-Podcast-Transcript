@@ -61,9 +61,9 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Haziq:** 2000 lebih.
 
-**Rafizi:** Oh ya ke?
+**Farhan (Pa'an):** Oh ya ke?
 
-**Haziq:** Itu TikTok lah.
+**Farhan (Pa'an):** Itu TikTok lah.
 
 **Farhan (Pa'an):** TikTok, TikTok. So harap malam ni dia bagi gift lion kepada TikTok live. Yeah, kita bersiaran di TikTok.
 
@@ -111,7 +111,7 @@ Beria nak komen ni. Saya selalunya kurang selesalah kalau cara macam ini kan. Sa
 
 **Rafizi:** Ni beria — kalaulah dia teruskan begini sampai mati, ya Allahu akbar kan. Okey, baik YB. Next. Cara baru nak lawan orang chop parking.
 
-**Haziq:** Chop ke cop?
+**Rafizi:** Chop ke cop?
 
 **Rafizi:** Chop.
 
@@ -143,7 +143,7 @@ Beria nak komen ni. Saya selalunya kurang selesalah kalau cara macam ini kan. Sa
 
 **Rafizi:** Ini pemilihan klip yang aku macam, apa yang beria nak suruh komen ni kan.
 
-**Farhan (Pa'an):** Tak, kalau dia tak kejar, YB, dia boleh stay kat situ.
+**Haziq:** Tak, kalau dia tak kejar, YB, dia boleh stay kat situ.
 
 **Haziq:** Oh.
 
@@ -177,7 +177,7 @@ Beria nak komen ni. Saya selalunya kurang selesalah kalau cara macam ini kan. Sa
 
 **Rafizi:** Kita tengok yang seterusnya, last. Padah main suka alih papan amaran — tragis sikit lah. Yang ni beria siapa ni? Sekarang setiap satu aku tanya kawan balik yang mana bahagian beria. Ini yang beria yang —
 
-**Haziq:** Ini tragedi ni.
+**Rafizi:** Ini tragedi ni.
 
 **Rafizi:** Yang alihkan, ha, yang alihkan.
 
@@ -213,7 +213,7 @@ Beria nak komen ni. Saya selalunya kurang selesalah kalau cara macam ini kan. Sa
 
 **Rafizi:** Menteri dapat maklumat ni daripada JKR kan? Memang confirm ada. Yang dia bagitahu maksudnya penutupan.
 
-**Haziq:** Dia ada dua kemungkinan.
+**Rafizi:** Dia ada dua kemungkinan.
 
 **Rafizi:** Yang ini nakal lah ni. Dia ada dua kemungkinan — memang ada signboard tu dan ada orang gila yang beria, besar kemungkinan dia buat besi buruk atau apa kat rumah dia. Satu lagi, benda tu memang tak ada, tapi takkan nak kata tak ada signboard, jadi laporan rasmi kata ada signboard. Tapi yalah, kita husnuzan — memang ada orang gila yang ambik tu. So, nak kata beria ni jahat ke apa?
 
@@ -293,7 +293,7 @@ Beria nak komen ni. Saya selalunya kurang selesalah kalau cara macam ini kan. Sa
 
 **Rafizi:** Tak tak, sekarang, sekarang. Ah, tak sempat dah kau nak Google. Tak payah nak Google lah. Sebenarnya sekolah — faham tengah Google kan?
 
-**Haziq:** 60 to 63.
+**Farhan (Pa'an):** 60 to 63.
 
 **Rafizi:** Sebenarnya secara ras, yalah, sekolah-sekolah Cina yang menawarkan UEC ni maksudnya sekolah menengah—
 
@@ -301,15 +301,15 @@ Beria nak komen ni. Saya selalunya kurang selesalah kalau cara macam ini kan. Sa
 
 **Rafizi:** —swastah lah, persendirian lah. Sekolah menengah persendirian ni, sebenarnya ada 61 je, campur 2 yang saya ingat dia macam hybrid sikit tu, jadi secara rasmi ada dalam 63. Jumlah keseluruhan pelajar Cina di sekolah-sekolah ini ialah lebih kurang 90,000 daripada sekitar 400,000 lebih pelajar-pelajar Cina di sekolah menengah. Maksudnya lebih kurang 20%.
 
-**Haziq:** 20%. Jadi, nak kata, kalau nak—
+**Rafizi:** 20%. Jadi, nak kata, kalau nak—
 
 **Rafizi:** Ambil pandangan DAP yang kata, kalau adalah penyokong kuat UEC atau orang yang mempolitikkan UEC yang mengatakan ini adalah nyawa pendidikan Cina — angka itu tak membayangkan itu, kerana yang mengambil UEC yang berada di sekolah Cina ini hanyalah lebih kurang 20% lah. Tetapi 20% tu dikira besarlah — dia masih satu aliran yang besar. Cuma kita juga ada kumpulan Melayu yang anti-UEC ni. Isu dia seolah-olah bahawa pelajar Cina semua ni,
 
-**Haziq:** mereka tidak melalui proses bina negara yang ada kaitan dengan perpaduan.
+**Rafizi:** mereka tidak melalui proses bina negara yang ada kaitan dengan perpaduan.
 
 **Rafizi:** Sebab itu selalu diberi gambaran wujudnya sekolah Cina ini menyebabkan kita tidak bersatu padu. Kalau tengok pada angka-angka tadi kan, sekolah Cina ada dalam 63 sahaja yang mengajar UEC ni kan, jumlah pelajar Cina 20% yang melalui UEC. Sebenarnya 80% daripada pelajar-pelajar Cina di Malaysia ini melalui sistem kebangsaan kan. Jadi nak kata kehadiran UEC sekolah Cina ini akan menjejaskan sistem pendidikan nasional semua — secara angkanya perkara itu pun tak betul. Tambah lagi, di masa akan datang jumlah populasi penduduk Cina akan berkurangan di negara kita. Jadi kalau tengok kepada angka-angka tu, kita ada 3 perspektif tu kan. Jadi untuk mengulas dan memahami hala tuju soal UEC ni supaya dia tidak terus jadi dopamin politik, kita kena tengok 3 perkara tu. Dan saya rasa kalau kita dah dapat hadam yang itu, kita bolehlah buat beberapa kesimpulan. Pertama, bahawa untuk kita secara berterusan sampai cucu cicit kita nanti nak bergaduh pasal UEC ni — ia sebenarnya sudah tidak lagi sesuai dengan perkembangan dan keperluan negara pada masa akan datang. If anything, kita sebenarnya perlukan jalan macam mana kita menjadi a trilingual society — negara dan masyarakat yang boleh 3 bahasa kan? Dan pengajaran bahasa Cina yang secara berterusan ini datangnya daripada sekolah-sekolah yang sebelum ini menggunakan UEC. Bukan saya nak kata kita semua kena pakai UEC, tidak. Tapi katakanlah, kerajaan akan mengumumkan satu hala tuju pendidikan baru yang mengambil kira kepentingan bahasa Cina, kan — guru-guru ni sebahagian besarnya, besar kemungkinannya memang diperlukan daripada sekolah-sekolah aliran ini. Jadi untuk mengenepikan mereka atas kesempitan politik, itu sebenarnya menidakkan anak-anak dan generasi masa depan kita daripada keperluan menguasai bahasa Mandarin. Itu yang pertama. Hakikat itu, saya rasa kalau kita tolak sentimen politik semua ni, itu yang saya rasa kena diambil kira secara serius. Perkara kedua, kita juga tak boleh nak tolak keperluan bahasa Melayu dan juga pemahaman sejarah. Mungkin dalam tahun 60-an, 70-an, macam saya sebut, oleh kerana negara baru 15, 20 tahun merdeka kan.
 
-**Haziq:** Mungkin untuk kita—
+**Rafizi:** Mungkin untuk kita—
 
 **Rafizi:** —menukar terus, itu bagi sebahagian daripada masyarakat Cina di Malaysia pada ketika itu — mereka masih mungkin baru 40 tahun, 30 tahun di Malaysia kan? Sekarang ini dah dekat 100 tahun dah pun. Memang saya tak rasa ada sebarang rakyat Malaysia berketurunan Cina yang akan beritahu, "oh, dia ada sentimentality kepada Tanah Besar China ataupun Taiwan." Dia tak ada. Ini je negara dia, kan? Jadi bertepatanlah dan bersesuaianlah bahawa setiap anak Malaysia yang melalui sistem persekolahan mesti memahami konteks sejarah negara kita, kerana itu memberi gambaran mengenai masyarakat kita, kan. Jadi bahasa Melayu, bahasa Cina, bahasa dan sejarah itu adalah sesuatu — kalau itu yang perlu diperhalusi oleh Dong Zong, oleh UEC, untuk memastikan ada elemen itu, maka saya rasa perkara itu juga perlu dicari jalan penyelesaian supaya ia boleh ditambah baik ke dalam UEC. Lebih-lebih lagi sebenarnya ada saja sekolah-sekolah persendirian Cina yang menawarkan UEC ni, yang mana mereka juga memastikan pelajar-pelajar mereka ambil SPM. Jadi itu bukan perkara baru pun. Jadi kalau syaratnya ialah untuk diterima masuk ke universiti ataupun diterima masuk untuk menjadi guru Mandarin, mesti ada SPM setaraf dengan SPM Bahasa Melayu ataupun sejarah — itu pun bukan perkara yang baharu. Memang ada sekolah-sekolah yang mana pelajar yang mengambil UEC turut mengambil SPM. Malah ada yang ambil 2 set peperiksaan — UEC pun dia ambil,
 
@@ -335,7 +335,7 @@ Beria nak komen ni. Saya selalunya kurang selesalah kalau cara macam ini kan. Sa
 
 **Farhan (Pa'an):** Itu adalah Lina Ahmad. Yang buat posting di Facebook. Dialah punca. Dia cyber trooper.
 
-**Haziq:** Cyber trooper AI, YB.
+**Rafizi:** Cyber trooper AI, YB.
 
 **Rafizi:** Entah-entah di belakang Lina Ahmad tu nama dia Leman Ahmad kot.
 
@@ -411,7 +411,7 @@ So sebab itu I think lah, saya cuba sedaya upaya lah, macam masa saya jadi mente
 
 **Haziq:** Yang terakhir, politik. Oh, ni baru best sikit — semua. Kenapa kau simpan yang ini kat belakang? Save best for the last. And with the bank.
 
-**Farhan (Pa'an):** Ha, and with the bank.
+**Rafizi:** Ha, and with the bank.
 
 **Haziq:** Dan yalah, benda ni berlaku disebabkan hegemoni BN terbatal, YB, sejak Mei 2018. Jadi semua tu terkacau-kacau semua. Tapi pada pandangan YB lah, semua kekucar-kaciran ini, actually how far atau to what extent huru-hara ni akan berlaku?
 
@@ -425,7 +425,7 @@ Baik, so kembali kepada ni. What do you want me to comment? "Jernih, PAS sedia d
 
 **Farhan (Pa'an):** I think nak your comments on the whole idea of, yalah, Barisan Nasional ni such an old coalition, dah nampak fragile. MCA, MIC dah nampak nak keluar. MIC sendiri dia kata — MIC dah masuk PN, MCA pula.
 
-**Rafizi:** Haa, masuk PN.
+**Farhan (Pa'an):** Haa, masuk PN.
 
 **Farhan (Pa'an):** So, so I don't know lah, maybe context of diorang ni bergaduh antara sama-sama sendiri, coalition dah rapuh.
 
@@ -483,6 +483,6 @@ Sama ada itu akan berlaku ke tidak, saya rasa tak mudahlah kan, sebab DAP akan b
 
 **Farhan (Pa'an):** Adui.
 
-**Rafizi:** Supaya kita kena buat satu trofi, letak kat belakang.
+**Farhan (Pa'an):** Supaya kita kena buat satu trofi, letak kat belakang.
 
 **Haziq:** Okey, baik-baik. Itu jelah kot, YB, untuk episod yang ke-26. Kita jumpa lagi minggu depan. Selamat malam.

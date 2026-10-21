@@ -200,7 +200,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Oh, bila kita bincang mengenai mafia korporat.
 
-**Haziq:** Kerana beritanya ialah—
+**Rafizi:** Kerana beritanya ialah—
 
 **Rafizi:** —mereka yang disiasat ini ada ugutan dan ada tekanan sehingga mereka terpaksalah menyerahkan syarikatnya.
 
@@ -310,7 +310,7 @@ Bila kami tengok sebenarnya ke mana sebenarnya hala tuju teknologi dunia, masa t
 
 **Rafizi:** On its own kan. Jadi adalah yang lebih murah sikit semua kan. Ambil contoh Samsung ataupun SK Hynix di Korea — ada 2 pembuat semiconductor chip yang paling besarlah. Samsung sebab dia gunakan dalam dia punya phone dia semua, satu lagi ialah SK Hynix lah yang memang dia buat untuk orang lain juga kan. Jadi bila Samsung buat chip dia tu, chip dia tu sebenarnya direka, IP dia dan architecture nya direka oleh ARM — dia beli daripada ARM kan, dia pun hasilkan chip itu. 80% lebih kurang yang direka itu ialah oleh ARM, dia tambah sikit-sikit untuk memenuhi kehendak design dia, iaitu 20% kan. So jadilah chip. Bila chip itu digunakan di dalam telefon Samsung dan dijual di seluruh dunia, ARM sebenarnya dia kena bayar kat ARM. Dia ada macam franchise — franchisor. ARM ni franchisor lah, dia bagi kat engkau, kau guna, bila kau jual, kau kena bayar balik 20%.
 
-**Farhan (Pa'an):** Dia macam apa, royalty?
+**Rafizi:** Dia macam apa, royalty?
 
 **Rafizi:** You can — it's royalty lah. It's royalty. So you kena bayar for every chip yang you jual itu, dia ada royalty balik kepada ARM. Kenapa aku sebut semua ni? Panjang cerita ni ha, kenapa aku sebut semua ni?
 
@@ -544,7 +544,7 @@ So dalam tempoh 6 bulan itu saya rasa kita tumpu kepada perkara-perkara itulah, 
 
 **Rafizi:** Saya tak boleh kontak dia langsung, kerana—
 
-**Haziq:** —kita tak nak—
+**Rafizi:** —kita tak nak—
 
 **Rafizi:** —bagi ruang kepada SPRM ataupun pihak berkuasa menggunakan alasan saya ganggu saksi ke apa. Jadi memang saya tak tahu hujung pangkal sejak dia balik tu, kan. Tapi tak apalah, kita tunggu dakwa. Selepas kena dakwa tu, bolehlah saya catch up and tengok keadaan macam mana, kan. Tapi macam saya bagi tips awal lah — baik saya atau baik James, memang tak ada apa-apa. Tak ada apa-apa. Dan soal siasat saya tu sebenarnya merangkumkan tuduhan-tuduhan yang akan dibuat. Dan bila dah habis semua soal siasat tu, nampak yakinlah bahawa memang tak disebut langsung soal suapan duit semua, tak ditanya langsung. Jadi kalau tak ditanya kepada saya, maksudnya keseluruhan kes tu tidak bersabit suapan ataupun wang songlap ke apa. Jadi kalau itu halnya, James ni hanyalah pegawai khas — dia bukan saja tak boleh buat keputusan, dia nak buat keputusan jadual pun tak boleh, bukan saja nak tandatangan pun, kan. Jadi bila masuk mahkamah, nak tuduh James ni pecah amanah, menyalahguna kuasa macam mana, kan? Kuasa pun tak ada, kan. Jadi aku pun masih lagi berteka-tekilah. Tapi I don't think James should worry too much lah, insyaAllah, kan. Then saya haraplah saya nak kena pujuk dia — ni secara terbuka ni, kan — saya nak kena pujuk dia. Bila dah kena aniaya macam ini, saya harap dia pertimbangkan untuk bertanding pilihan raya lah. Sebab masalah budak-budak cerdik ni — yang Melayu ke, Cina ke, India ke — yang umur 20-an, 30-an ni, bila dah pendidikan baik, kemudian ada kerjaya yang baik, dia tak nak terlibat dengan politik. Jim pun macam tu lah. Masa dia sertai saya di pejabat dulu, itu cara dia untuk menyumbang dan berbakti kepada negara dengan cara menyumbangkan kepakaran dan akal dia. Dia tak minat politik. Jadi saya harap selepas dia kena lanyak, masuk dalam kandang, kena garing aku ke apa semua, kan — itu menukar pandangan dia lah bahawa politik ni bagi sesetengah daripada kami bukanlah sebab nak jawatan ataupun nak kuasa. Kerana kalau orang macam kita mengambil pendirian untuk tidak mahu campur, tidak mahu bertanding risiko, atas sebab kita memang hidup okey, ataupun kita ni sebenarnya tak perlukan politik — ramai yang jadi mangsa sebenarnya, cuma belum kena. Jadi bila kita dah kena, kan, saya harap saya boleh meyakinkan James dan keluarga dia untuk mempertimbangkan benda tu lah. Dan saya buat secara terbuka melalui podcast supaya kawan-kawan, keluarga James cakap kat James macam tu lah.
 

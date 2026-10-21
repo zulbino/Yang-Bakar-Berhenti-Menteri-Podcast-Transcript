@@ -64,7 +64,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Prank masa dekat sekolah dulu, contohnya masa April Fool, bangun pagi, orang ambil gayung untuk pergi mandi kat asrama, jadi dia letak ubat gigi kat gayung ataupun kasut sukan tu dia ikat. Sebab drill kan, ada masa dalam 4-5 minit je untuk bersiap sebelum bergerak ke aktiviti seterusnya. Jadi orang marahlah, tapi selalunya melibatkan ubat gigi dan itu bolehlah dikira prank. Ataupun orang tunggu depan pintu, buka pintu keluar hantu. Ini bukan prank ni — ini mencederakan, ini buli. Dia yalah nak kata buli kalau suka sama suka, dia tak mengaku buli. Tapi kalau macam bergurau macam ini dah melampaui batas. Kalau dia mencederakan, tambah kalau budak tu kecederaan masa panjang lepas ni tak dapat anak kan? Jadi tak tahu siapa yang beria ni — yang kena tu beria ataupun yang sama-sama buat tu beria. Tapi kena gantung dah.
 
-**Haziq:** Yang semua kena?
+**Rafizi:** Yang semua kena?
 
 **Rafizi:** 7.
 
@@ -84,7 +84,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Yalah, UMNO tak setuju kan? Ini Hafiz Sabri yang hari tu dah masuk beria juga — dia masuk lagi.
 
-**Haziq:** 2 kali dia masuk beria.
+**Rafizi:** 2 kali dia masuk beria.
 
 **Rafizi:** YB — ni ADUN Manjoi. 2 kali masuk beria ni rekod.
 
@@ -224,7 +224,7 @@ Jadi saya ingat cara yang terbaik ialah bertenang, tengok secara keseluruhan. Da
 
 **Rafizi:** Bahasa Inggeris mungkin. Oh, Bahasa Inggeris. So dia memang tak ada bahasa Melayu lah, memang. Ada, tapi mostly itu lah.
 
-**Haziq:** Okey, pandai kau bagi.
+**Rafizi:** Okey, pandai kau bagi.
 
 **Rafizi:** Kumpul surat penyata (SD).
 
@@ -298,7 +298,7 @@ Jadi dengan adanya perkara seperti ini, saya rasa kesannya bukan sahaja di Sabah
 
 **Rafizi:** Sodium ion bateri ini sudah ada.
 
-**Multiple speakers:** Sudah ada. Ini scaling up commercial operation.
+**Rafizi:** Sudah ada. Ini scaling up commercial operation.
 
 **Haziq:** Ya, ya. Dan kalau bateri sekarang ini biasa kita lithium ion — jadi sebenarnya dua-dua ini pun ada pros and cons. Tapi macam mana dengan ada sodium ion yang pertama yang sudah di-commercialize ini, YB? Ia akan menjadi game changer sedikitlah, terutamanya untuk renewable energy ke.
 
@@ -394,7 +394,7 @@ Sebelum kita tanya soal merit, KPI, telus, tadbir urus ni — sebenarnya apa yan
 
 **Rafizi:** Thriller dulu apa ni, yang skuad polis dulu apa? Ha ni — apa ni, bukan yang Yusof Haslam tu apa? Gerak Khas.
 
-**Haziq:** Gerak Khas. Tapi itu bukan thriller lah.
+**Rafizi:** Gerak Khas. Tapi itu bukan thriller lah.
 
 **Rafizi:** Ha, bukan thriller kan. Tapi kena — kalau tengok macam saya sebut tadi, bermula dengan Korea, banyak kandungan dia bermula dengan cerita-cerita thriller dulu, sebab memang naluri manusia dia suka cerita-cerita yang misteri — siapa yang bunuh ni, kenapa jadi macam ni, misteri. Kita tak ada cerita misteri kan, susah kan. Jadi kalau kita tengok kepada agensi-agensi yang ada dan susun atur dari segi dasar dan sebagainya, kebanyakannya dah sampai lapisan kedua ketiga — pelakon dan sebagainya. Itu pun yang kita ada tu jauh ke belakang berbanding dengan contohnya untuk menjadi pelakon di Korea, punyalah payah — diorang kena pergi universiti daripada kecil lagi dilatih. Samalah macam kalau di Bollywood, di Hollywood, kalau Poland semua, kalau orang putih ni kan. Eh, tengok yang berlakon-lakon orang putih tu, ingat lahir-lahir pandai berlakon macam tu ke? Dia payah tau, dia kena pergi sekolah drama dan kebanyakan diorang ni memang pelakon daripada sekolah — setiap sekolah ada persembahan pentas je. Saya pergi buat A-level dekat UK dulu, memang acara paling besar sekolah itu setiap tahun ialah persembahan pentas. Dan mamat yang kapten ragbi ni, dia jugalah yang main ragbi, dia jugalah yang boleh menyanyi opera, dia jugalah yang boleh berlakon, kerana daripada awal lagi dia memang begitu. Kita tak sampai ke peringkat tu sekolah kita semua. Jadi jangan cerita pasal pelakon semua ni, yang itu memang kita dah ke belakang. Tapi yang kelompongan yang saya rasa besar ialah yang berkaitan dengan penulisan skrip, penulisan cerita — idea itu belum cukup, dan idea kreatif di Malaysia ini belum sampai ke peringkat itu lah. Jadi soal KPI semua ni memang tak ada, merit semua ni memang tak ada. Dan malah susunan agensi itu pun saya rasa belum sampai ke peringkat yang kita berkemampuan menghasilkan skrip-skrip yang hebat, yang menjadi penceritaan, yang kemudian baru boleh dapatkan penerbit yang baik, pengarah yang baik, sutradara yang baik, pelakon yang baik, penataan yang baik, sinematografi yang baik. Awak nak shoot apa, ceritanya tak ada, kan?
 

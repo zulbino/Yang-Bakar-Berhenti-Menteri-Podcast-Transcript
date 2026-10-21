@@ -67,7 +67,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** No, no, we'll answer that later. Later.
 
-**Haziq:** Just me. YB, before we start, I want to ask.
+**Farhan (Pa'an):** Just me. YB, before we start, I want to ask.
 
 **Farhan (Pa'an):** Were the MACC officers surprised YB came back to MACC earlier?
 
@@ -143,7 +143,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Facebook, news that — this is Berita Awani.
 
-**Haziq:** Awani, huh. Awani is something else too.
+**Rafizi:** Awani, huh. Awani is something else too.
 
 **Rafizi:** Ha, this is what Awani wants to say. Actually, if we plot this out, the media channels that publish the most news supporting Farhash from people we don't know is Awani. So Awani, over time, people, eh — what's this, it's no longer Awani, it's become "what's this." Ha, right. So if any Awani editor is watching, they'll understand. Don't be so obvious. Okay. Alright, alright, alright, we're — enthusiastic.
 
@@ -165,11 +165,11 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Haziq:** Enthusiastic. Enthusiastic.
 
-**Rafizi:** Okay. Alright, alright, alright.
+**Haziq:** Okay. Alright, alright, alright.
 
 **Haziq:** So let's move on. Our Vice President rested earlier, now he's back again. There's more — paired up with the PKR Secretary-General. Where else?
 
-**Rafizi:** More PKR leaders fighting over seats.
+**Haziq:** More PKR leaders fighting over seats.
 
 **Haziq:** Vice President Fuziah wants to contest the Batu parliamentary seat from Bakaran, question mark. What's Fuziah holding? A saw or something? Ha, a saw and. This is a photo from old campaign times, Linas movement. Oh, really? There is. That's really a genuine photo, eh, a genuine photo.
 
@@ -183,7 +183,7 @@ And one reason I didn't leave Pandan — which Ceplos and others kept complainin
 
 So now it's reversed — it's become like MIC almost, fighting over seats. It's fighting over seats while being laughed at by the public. Just like in Western culture, people say "Nero fiddling on the roof" — playing his violin while Rome was on fire. Tone deaf — Rome was on fire and Emperor Nero was playing violin on the roof. Maybe that's what Fuziah is holding.
 
-**Farhan (Pa'an):** What is it? Oh, that's a vi—
+**Rafizi:** What is it? Oh, that's a vi—
 
 **Rafizi:** A violin. That's not a violin, that's a saw. You'd get hurt playing that thing — sawing it, your hand would get cut off.
 
@@ -195,7 +195,7 @@ So now it's reversed — it's become like MIC almost, fighting over seats. It's 
 
 **Rafizi:** Maybe so. He might return as the Prime Minister's integrity advisor. It's all true. There are rumors, right? Rumors that he'll become an advisor.
 
-**Haziq:** Is he going to advi—
+**Rafizi:** Is he going to advi—
 
 **Farhan (Pa'an):** He said he wants to go into politics instead.
 
@@ -207,9 +207,9 @@ So now it's reversed — it's become like MIC almost, fighting over seats. It's 
 
 **Haziq:** True, it's nice. I've seen the video.
 
-**Farhan (Pa'an):** His skin looks good too.
+**Haziq:** His skin looks good too.
 
-**Haziq:** Skin's fine now, wearing glasses.
+**Rafizi:** Skin's fine now, wearing glasses.
 
 **Rafizi:** But his eyes are a bit red. So, this one is really — oh my, this week is challenging, because this one is also very fired up, the Chief Secretary to the Government (KSN).
 
@@ -225,9 +225,9 @@ So now it's reversed — it's become like MIC almost, fighting over seats. It's 
 
 **Rafizi:** He said a lot, but let's keep that here, because of that. Then after Selangor he was transferred to — what's it called — to Putrajaya, to the federal level. So it's funny that he's so fired up about "reform is a necessity," when back in the early days when Pakatan/PKR took over Selangor — reformasi back then, I don't think he liked reformasi much at that time. That's how it is now, people change the closer they get to the peak of power, right? We don't even shout "reform is a necessity" ourselves.
 
-**Haziq:** Okay, fine. Really fired up.
+**Rafizi:** Okay, fine. Really fired up.
 
-**Rafizi:** Very fired up. There are 5 YBs, need to pick 1.
+**Haziq:** Very fired up. There are 5 YBs, need to pick 1.
 
 **Haziq:** Oh, that's tough. Maybe we could give it to a few.
 
@@ -347,7 +347,7 @@ What's the difference between the "decent standard of living" concept that the M
 
 **Rafizi:** Okay, okay. And location.
 
-**Haziq:** No, no, no, no, no, no, no, no, no.
+**Rafizi:** No, no, no, no, no, no, no, no, no.
 
 **Rafizi:** It's about needs.
 
@@ -399,7 +399,7 @@ Now it's become a joke. I just smile from a distance. Meaning now they have to a
 
 **Farhan (Pa'an):** So, this looks like a moment where we could say, in a way, "I told you so."
 
-**Rafizi:** Secondly also with GE16—
+**Farhan (Pa'an):** Secondly also with GE16—
 
 **Farhan (Pa'an):** —coming very soon.
 
@@ -457,7 +457,7 @@ But because DAP was so haunted by this at the time — if we do this cash transf
 
 **Rafizi:** That was 2012.
 
-**Haziq:** Right, correct. How old were you then?
+**Rafizi:** Right, correct. How old were you then?
 
 **Farhan (Pa'an):** In school?
 
@@ -465,9 +465,9 @@ But because DAP was so haunted by this at the time — if we do this cash transf
 
 **Rafizi:** Do you know what that poster was? The Farhash poster.
 
-**Haziq:** I was just about to mention it.
+**Farhan (Pa'an):** I was just about to mention it.
 
-**Farhan (Pa'an):** Was that really Farhash, YB?
+**Haziq:** Was that really Farhash, YB?
 
 **Haziq:** Was that really Farhash and YB? Yeah, I mean—
 
@@ -485,7 +485,7 @@ But because DAP was so haunted by this at the time — if we do this cash transf
 
 **Rafizi:** No, the photos were separate, separate. It's Photoshopped, Photoshop. Okay. Right.
 
-**Haziq:** So the question about collecting this "debt" — I tried to sideline it earlier.
+**Rafizi:** So the question about collecting this "debt" — I tried to sideline it earlier.
 
 **Rafizi:** I remember too.
 
@@ -503,7 +503,7 @@ So before we talk about EV prices and all this — since you asked why car price
 
 **Rafizi:** Import duty, for example — for a car.
 
-**Haziq:** For an imported car.
+**Rafizi:** For an imported car.
 
 **Rafizi:** Okay, before we get to import duty, that's a long story. We have 2 — 2 types of cars. In fact, we have 3. Okay. Actually if you count it, one that's purely made here, that's the local car — Proton, Perodua and so on. Meaning all the components are made here, assembled here, becoming a Proton car. That's one category. Another category?
 
@@ -679,11 +679,11 @@ So right now I'm not sure what MITI's plans or announcements are, their plan and
 
 **Rafizi:** That's a given, going by history. You guys didn't live through the 90s.
 
-**Haziq:** I did.
+**Rafizi:** I did.
 
 **Rafizi:** Yeah, but by "live through" I mean—
 
-**Farhan (Pa'an):** Wasn't driving yet in the 90s, in the 80s.
+**Rafizi:** Wasn't driving yet in the 90s, in the 80s.
 
 **Rafizi:** Especially the 90s, when it peaked — wanting to buy a Proton meant waiting 6 months.
 
@@ -757,7 +757,7 @@ There's yet another category who actually doesn't care much about the party poli
 
 So these are the 3 main categories busy with the sulking and cursing, right. Set aside the "at peace" group — we understand their goal is really the spoils and their current position, they don't really care about right or wrong, set that aside. For the next two groups, the question I asked myself — in fact if Pa'an asks, I actually asked this question not when I resigned. I asked this question back in March.
 
-**Haziq:** Oh, when you caught wind of.
+**Farhan (Pa'an):** Oh, when you caught wind of.
 
 **Rafizi:** I could read what was happening, early March. When Dato' Seri Anwar announced giving Rafizi an easy path, I already knew what was in his head. That's why go back and watch the video when he announced it, I did not give any reaction. I didn't smile or look happy because I already knew then where it was going. When I got reports of how much money was being distributed, down to RM200 membership fees to become new members, and there were police reports about bribery like that, and then the ones driving this hardest were the PM's own political secretaries, from Shamsul to Azman Bidin to Chang Mingkai — I already knew where it was going, right?
 
@@ -771,7 +771,7 @@ Okay, that's why if Pa'an remembers, actually I called my officers, told them, b
 
 **Rafizi:** Much earlier. So within 2 weeks of Datuk Seri Anwar's announcement, that's why I already knew where it was going. April, I think.
 
-**Haziq:** April. I see.
+**Rafizi:** April. I see.
 
 **Rafizi:** Actually the voting, if you remember, April was when it was just starting, right?
 
@@ -785,7 +785,7 @@ So that's why from early April I'd already made that decision, because I asked m
 
 So when all this became clear, I asked myself that question: actually, why am I in politics? Certainly not to become a minister. Certainly not to sit there holding a position, but then be complicit in or turned into a rubber stamp for everything that happens, right. That's why I made that decision much earlier, before voting had even begun. And you can check with my staff, at the Ministry of Economy. That's why when we resigned, everything went smoothly — everyone resigned because I gave them notice about 2 months in advance.
 
-**Haziq:** Early on. Right, huh.
+**Rafizi:** Early on. Right, huh.
 
 **Rafizi:** Now, that answers why reconciliation isn't possible anymore. Because it's actually not about PKR, not about position, not about that, right. In my view, this is why I made the decision. We can have different opinions, right — you have your opinion, I have my opinion, right. Different styles are normal, you know. If someone is effective, you don't have to like his or her style or personality, as long as they — to me, that's my style, my work. I don't have to like you, but I will acknowledge if you're indeed good — meaning if you do good work, you don't take money, you know, I have no problem, even though you're not the type I'd sit down and chat with. That's okay, right?
 
@@ -797,7 +797,7 @@ So that's why if people ask, hey, why not go back to PKR? This is Anwar Ibrahim'
 
 **Rafizi:** He'll continue on, right? Then you think how you supposedly do the work or become popular and so on — you think once you've seen for yourself the election system being rigged like that, you think it can't be done again? So there's no point, there's no competition left in PKR. The moment there's no sense of fairness to the point that cheating like that becomes possible, actually there's no contest left — there's no room at all, unless I go kiss hands and become like everyone else. But I'm not like that, and that's not why I'm in politics. So that's why it's clear, there's no point going back to reconcile.
 
-**Haziq:** So as it's a matter of principle, that's why you cannot reconcile.
+**Farhan (Pa'an):** So as it's a matter of principle, that's why you cannot reconcile.
 
 **Rafizi:** I think we throw around the word "principle" too much, right, too easily we say, oh that's a principle, this is a principle, right. I don't even know if it's a principle or what, I don't know. But I live by certain rules — very simple rules, and these aren't political rules, these are rules we live by normally, like watching a football match, standing on the sidelines, walking down the street. One is there must be a sense of fairness. Because if a person personally has no sense of fairness, that means stealing is okay, abuse of power is okay, cheating is okay, because everything is fine when you don't have to consider whether it's fair or not. That's one thing, right. So I live by that very simple rule, because what has happened in PKR over the past year shows that any sense and decency about fairness, about right and wrong, about not victimising people — that has been lost, you know, in PKR. And because of that, call it whatever you want — principle or whatever, sulking, "nyek-nyek-nyek," call it whatever you like. But to me, that line has been badly crossed.
 
@@ -871,7 +871,7 @@ Ha, that's the saying. But usually, that kind of thinking is always — I think 
 
 **Rafizi:** Yes, yes, yes. But our expectation is that the hall will be full. But for those who can't attend in person, don't forget to follow the livestream on my YouTube, because we know a lot of people watch live now. Our livestream will start perhaps as early as 1:30 — 1:45. We'll officially start at 2 pm, people will start arriving at 1, our live starts at 1:45. And I also invite as many livestreamers as possible to come, so it's not just on my channel but on other YouTube channels too.
 
-**Haziq:** As many as possible.
+**Rafizi:** As many as possible.
 
 **Farhan (Pa'an):** To restream the stream.
 

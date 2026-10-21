@@ -86,11 +86,11 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** What's the pronunciation — Hat Yai or Hat Nyai? They say Hat Yai, but our people say Hat Nyai. Oh, Hat Yai. I just wanted to test who goes there often. But Pa'an goes more often — who can pronounce it properly.
 
-**Haziq:** Doesn't AMK have a getaway in Hat Yai?
+**Farhan (Pa'an):** Doesn't AMK have a getaway in Hat Yai?
 
-**Rafizi:** Oh, AMK. They didn't invite me. How could they.
+**Haziq:** Oh, AMK. They didn't invite me. How could they.
 
-**Farhan (Pa'an):** So what's the story here?
+**Rafizi:** So what's the story here?
 
 **Haziq:** Over-the-top, lying to his wife, man. He could've just said — what should he have said? I don't even know. Just say you're going to Hat Yai, not used to lying.
 
@@ -214,7 +214,7 @@ What's this story about?
 
 **Rafizi:** Yes. It was continued, renamed.
 
-**Haziq:** Renamed to J-KOM. What department was it?
+**Rafizi:** Renamed to J-KOM. What department was it?
 
 **Rafizi:** Community Communications Department (Jabatan Komunikasi Komuniti). Right, J-KOM. Then the Sheraton Move happened and PH 2.0 — do we think J-KOM no longer existed after that? But it still existed. So from that, well, for an ordinary voter, it's confusing — we said before we'd abolish Jasa, but actually we just changed the name, the thing still exists. Then the problem got worse when J-KOM became a den for building internal party machinery. So among the earliest things I disagreed with was when J-KOM was used to recruit and pay party people — this is Fahmi's person, this is Izzah's person. Within J-KOM everyone knows this is Fahmi's person, this is Izzah's person, only Rafizi's people aren't in there. So you can already see that J-KOM was used from the start to build party strength for the purposes of party elections. I understand that during the party election period they were all paid, and these are the people used to attack opponents and so on — that's also wrong, misuse of public facilities, because since they were appointed and paid, once paid they're forced to follow orders. During the party election that day, many times I got — well, staff — I didn't even know who these J-KOM people were because all appointments were made by the Prime Minister's Office. J-KOM started under the Prime Minister's Office. Then when it got messy, the Agus story — I heard there were many stories about that too, among themselves because everyone was fighting to become Director-General. It's a Game of Thrones among them. So I remember when that became a hot potato, it was transferred to Fahmi. But the problem there is, when we use a public position to double-dip — for something other than supposedly delivering government information, but at the same time it's used as a personal machine for certain figures because some are paid — there's never a good ending. Furthermore, because J-KOM has the facility to appoint and pay, it will attract the attention of people who never even had a reformist spirit. That's what suddenly produced these slip-ups, like Datuk Taufik. A producer friend — I don't know him, that Datuk Taufik Iskandar, the one making noise.
 

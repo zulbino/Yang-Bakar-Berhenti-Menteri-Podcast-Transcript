@@ -76,9 +76,9 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Haziq:** Maaf, dia tak poyo.
 
-**Rafizi:** Tak poyo lah kot. Okey, kita tengok yang seterusnya. Ini pun saya takut tak poyo.
+**Haziq:** Tak poyo lah kot. Okey, kita tengok yang seterusnya. Ini pun saya takut tak poyo.
 
-**Haziq:** Dia kan dah takut dah.
+**Rafizi:** Dia kan dah takut dah.
 
 **Rafizi:** Okey, seterusnya.
 
@@ -86,11 +86,11 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Kabel TM tak mati kena terkejut elektrik kot.
 
-**Haziq:** Itulah. Dia sebenarnya kalau apa-apa pun yang beria, dia bukan sangat soal curi kabel ni kot.
+**Rafizi:** Itulah. Dia sebenarnya kalau apa-apa pun yang beria, dia bukan sangat soal curi kabel ni kot.
 
 **Rafizi:** Curi kabel ni benda biasalah di mana-mana. Betul. Tapi buletin TV3 tu dia nak juga tekankan graduan undang-undang. Umpan klik.
 
-**Haziq:** Ha, umpan klik ni umpan klik lah.
+**Rafizi:** Ha, umpan klik ni umpan klik lah.
 
 **Rafizi:** Keng Yaik.
 
@@ -142,7 +142,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Ya, di Kemaman kan?
 
-**Haziq:** Cuma sebenarnya, saya tak tahu ada undang-undang ke tidak.
+**Rafizi:** Cuma sebenarnya, saya tak tahu ada undang-undang ke tidak.
 
 **Rafizi:** Saya tak pasti boleh ke tidak buat tu.
 
@@ -158,7 +158,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Mesti ada permintaan dia kan. "Oh bagusnya lah tengok dia tu ha."
 
-**Haziq:** Sampai bagusnya wakil rakyat kita sampai dia sendiri yang pergi padamkan kebakaran.
+**Rafizi:** Sampai bagusnya wakil rakyat kita sampai dia sendiri yang pergi padamkan kebakaran.
 
 **Rafizi:** Tapi sebenarnya selain daripada soal undang-undang, sepatutnyalah etika dia termasuklah rakyat biasa — kalau dah ada pihak yang profesional, yang ada amanah itu dan dilatih, maka kita tak boleh kacau kan. Kalau di negara lain, memang dah ada diambil tindakan ni — sesekali memang ada pendakwaan kerana ini boleh didakwa mengganggu tugas penjawat awam.
 
@@ -178,9 +178,9 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Hari lama lagi. Yalah. Tapi kita tak tahu kan menantu Tan Sri Muhyiddin duduk di mana? Orang katalah duduk di Dubai.
 
-**Haziq:** Haziq tak tahu.
+**Farhan (Pa'an):** Haziq tak tahu.
 
-**Farhan (Pa'an):** Haziq tak tahu, ya Allah.
+**Rafizi:** Haziq tak tahu, ya Allah.
 
 **Rafizi:** Saya bukan pengintip. Patutnya ini disiasat awal ni. Orang kata, tapi tidak ada bukti.
 
@@ -234,7 +234,7 @@ Jadi pada awal saya jadi menteri, kena buat keputusan lah — sama ada kita nak 
 
 **Rafizi:** Tak nampaklah kan. Dia tak tahu. Potong tepi.
 
-**Haziq:** Dia tak ada, tak dijemput semua.
+**Rafizi:** Dia tak ada, tak dijemput semua.
 
 **Rafizi:** Saya tak nampaklah kan. Begitulah keadaan di Malaysia. Betullah.
 
@@ -250,7 +250,7 @@ Baik, dia bila nak buat chip kan, chip tu ada blueprint dia, ada architecture di
 
 Tapi ada sebuah syarikat yang ditubuhkan oleh pakar-pakar daripada Universiti Cambridge. Nama dia ARM. Sebenarnya syarikat tu dah lama daripada tahun 70-an, tapi dia tidak meletup sehingga — saya ingat akhir tahun 90-an lah kan — oleh kerana model pertama itu dominan. Kerana syarikat macam Intel, AMD buat research sendiri, membangunkan sendiri chip, kemudian mengilang sendiri, memasang sendiri ataupun menjual kepada laptop, pembuat PC semua kan. Dalam tahun 90-an kita mula ada fenomena baru, iaitu gadget bermula dengan smartphone. Masa itulah mula ada model kedua untuk membuat chip semiconductor ni, iaitu syarikat yang mencipta chip itu — dia buat blueprint semua, tapi sebenarnya tidak mengilang. Dia jual architecture dia, kemudian orang lain akan kilang, orang lain jual. Dia tak terlibat langsung.
 
-**Haziq:** Dia tumpu kepada R&D dan buat IP saja.
+**Rafizi:** Dia tumpu kepada R&D dan buat IP saja.
 
 **Rafizi:** Dia jual IP tu kepada syarikat lain, kemudian dia ambil royalty atas setiap chip yang dijual. Sekarang ini model itu yang dominan. Sebab model yang pertama tu mereka terlalu selesa kerana dia rasa dia dah ada captive market dia. Jadi R&D mereka itu lebih perlahan berbanding dengan yang dibuat oleh ARM. Dan ARM memang daripada awal kelebihan mereka ialah mereka menumpukan kepada teknologi chip yang cekap tenaga supaya tak panas. Jadi lebih banyak boleh letak, dia tak panas, tidak menggunakan tenaga yang banyak. Maka sebab itu, chip yang direka oleh ARM sangat sesuai untuk gadget macam smartphone. Jadi fast forward sekarang 20 tahun daripada lewat 90-an, sekarang 2020-an, ARM chip yang dalam phone, dalam kereta, dalam semua IoT gadget ni — kalau dalam phone, 95% semua chip ARM.
 
@@ -338,7 +338,7 @@ Okey, nak tutup cerita ini. Sudah gembira, sudah bermula semua ini, sudah jadi b
 
 **Rafizi:** Oleh paymaster mereka, dan paymaster itu ada akses kepada maklumat kerajaan. Sebab itu saya nak mengingatkan Dato' Seri Anwar — ini zaman lain, bukan zaman seperti dahulu. Dan kerana paymaster mereka ini pun otaknya tidak begitu bijak, mereka pun tidak langsung terlibat dalam urusan seperti ini, tidak mengambil kira, tidak membuat due diligence dan cost benefit analysis, yang sebenarnya perkara ini boleh memalukan negara sekali lagi. Seperti yang saya sebutkan, ia akan menjadikan Malaysia bahan tawa dunia. Lebih kurang 6, 7 bulan lepas, Malaysia dipuji kerana menjadi negara pertama yang mempunyai cita-cita Silicon Vision untuk menghasilkan cip sendiri, GPU sendiri, dan itu bertepatan dengan keadaan di Malaysia yang mana kita mempunyai infrastruktur data center AI.
 
-**Farhan (Pa'an):** Nampak baik.
+**Rafizi:** Nampak baik.
 
 **Rafizi:** Semua orang berkata Malaysia mempunyai pelan. 6 bulan selepas itu, Malaysia menjadi bahan ketawa kerana cyber trooper mensabotaj pelan negara sendiri kerana ia menjadi kes mahkamah besar.
 
@@ -426,7 +426,7 @@ Jadi keadaan itu akan jadi agak kontroversi lah. Kerana contohnya, dari segi kek
 
 **Rafizi:** Dalam seminggu.
 
-**Farhan (Pa'an):** Dalam tempoh dah bubar lah.
+**Rafizi:** Dalam tempoh dah bubar lah.
 
 **Haziq:** Oh, dalam tempoh dah bubar.
 
@@ -480,7 +480,7 @@ Jadi keadaan itu akan jadi agak kontroversi lah. Kerana contohnya, dari segi kek
 
 **Rafizi:** Yang ni kesianlah juga kan sebenarnya. Yalah, maksudnya bawah umur ni bawah 17 tahun, bawah 16 kan? Syarat kita — pekerja yang dibenarkan bekerja 16 tahun ke atas. Bersekolah tapi mungkin mereka masih lagi tingkatan 5 lah, sebab mengikut undang-undang persekolahan wajib sampai — tapi mungkin belum dikuatkuasakan lah. Jadi maksudnya sama ada dia bawah 16 tahun ke apalah. Mesti ada sesuatu yang tidak kena dengan sistem kita yang mungkin YB nampak, kami tak nampak lah.
 
-**Haziq:** Untuk individu-individu lain.
+**Rafizi:** Untuk individu-individu lain.
 
 **Rafizi:** Okey, dan masalahnya secara undang-undang satu masalah dia ialah kalau dia pakai identiti orang lain tu secara undang-undang dia mungkin boleh dikenakan tindakanlah. Tapi itulah, ada terutamanya kalau yang dah drop out sekolah pun, ada yang part time semua kan. Ini sebenarnya satu perkara yang kami cuba cari penyelesaian dan memang dah ada projek rintis pun. Ada orang tidak bersetuju bila saya kata kita — dan benda tu dah jadi dasar pun dalam RMK13 — iaitu persekolahan berakhir pada umur 16 tahun. Itu satu kan. Kerana sistem pendidikan kita ini pun sepatutnya telah mula diubah secara beransur-ansur untuk mengambil kira bukan sahaja keperluan ekonomi negara dan masyarakat, tetapi juga kecenderungan golongan muda. Golongan muda ni lebih cenderung untuk bekerja lebih awal. Tapi sistem pendidikan kita masih lagi kena sekolah sampai tingkatan 5. Tapi akan ada yang kata, kan kita dah ada TVET. Perasan tak TVET tu macam mana? Belajar juga. Jadi cara kita, sekolah kita ambil SPM — oh, yang cerdik dapat biasiswa masuk universiti begini, begini, begini. Yang tak cerdik, ah, kamu pergi institut latihan ambil TVET semualah, konon tak cerdik kan. Sebenarnya kalau keputusan dia tidak begitu cemerlang semasa SPM, mungkin bukan sebab dia bodoh ke apa. Mungkin dia memang dah tak minat berada dalam bilik darjah. Yang kita hantar dia tiga tahun lagi dalam bilik darjah tu buat apa? Lepas tu dia keluar dengan sijil ke diploma TVET, dia nak cari kerja pun payah. Susah payah tiga tahun dia kena buat semua tu, tapi tiba-tiba keluar mungkin tak dapat kerja. Tengok kawan-kawan dia yang dah bekerja tu dah ada wang. Jadi benda tu kita tak boleh ubah tahu, itu adalah fenomena dalam masyarakat. Kalau ada pembuat dasar yang rasa dia boleh ubah semua kerana "oh kita nak kena pastikan anak-anak kita semua sampai masuk universiti" — tak ada. Ingat minggu lepas saya kata bell curve? Ada orang di tempat bell curve yang berlainan kan.
 

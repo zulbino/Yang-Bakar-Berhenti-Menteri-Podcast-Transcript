@@ -48,7 +48,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Waalaikumussalam. Bagus hari ni. Bagi salam dengan tertib, tak ada tarik, bagi salam dulu. Tertib eh?
 
-**Haziq:** Ha, ini tertib. Assalamualaikum dan salam sejahtera. Dan salam sejahtera.
+**Rafizi:** Ha, ini tertib. Assalamualaikum dan salam sejahtera. Dan salam sejahtera.
 
 **Rafizi:** Salam...
 
@@ -90,11 +90,11 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Untuk seminggu?
 
-**Farhan (Pa'an):** Sebulan. Beratus ringgit sebulan.
+**Rafizi:** Sebulan. Beratus ringgit sebulan.
 
-**Rafizi:** Macam sewa kereta lah kan?
+**Haziq:** Macam sewa kereta lah kan?
 
-**Farhan (Pa'an):** Macam sewa kereta.
+**Rafizi:** Macam sewa kereta.
 
 **Rafizi:** Tapi yalah beria. Saya kira ni budak-budak lah kot.
 
@@ -160,7 +160,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Haziq:** Okey, baik. Mungkin kita ada satu lagi, weh — kejut sahur ganggu ketenteraman awam.
 
-**Rafizi:** Nasib baik kau tak lalu depan rumah aku kan.
+**Haziq:** Nasib baik kau tak lalu depan rumah aku kan.
 
 **Haziq:** Apa baik-baik kamu kan?
 
@@ -182,11 +182,11 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Tak ada. Aku tak — engkau sorang je sekolah agama dulu.
 
-**Haziq:** Tak ada. Tak ada.
+**Rafizi:** Tak ada. Tak ada.
 
 **Rafizi:** Walaupun datang daripada engkau, kita kurang percayai. Kena apa cerita? Semak balik lah kan. Bukankah waktu malam dalam bulan Ramadan ini yang afdalnya ialah kita qiamullail. Qiamullail tu kalau secara jemaah, kita buat di rumah kita ataupun di surau, dan qiamullail tu qiam, tenang, aman, sebab dia tak mengganggu orang lain kan. Lama pun qiam, bangun masa tidur, selepas masa orang lain tidur kan, dan waktu malam ni lah waktu beribadah kan, orang sembahyang semua kan. Ini ni bukan soal ibadah. Ini soal bergembira. Ini soal yang patutnya kamu tidur, yang patutnya kamu produktif pagi esok untuk kerja, yang patutnya kamu beribadah — engkau pergi beria-ria dan mengacau orang lain. Sepatutnya jiran-jiran ni buat laporan polis, supaya polis boleh pergi tangkap siapa-siapa yang pandai-pandai buat ni kan. So, hilang undi pun hilang undi lah. Tapi ini bukan budaya kita dan saya memang selalunya trigger sikitlah, kalau contohnya orang suka menunggang agama untuk benda-benda yang sebenarnya kepentingan peribadi dia. Sebenarnya mereka ni hanyalah untuk beria-ria bergembira, tapi dia menunggang agama dan mengatakan, ah ini satu perkara kebaikan kerana kita nak kejut orang sahur. Mana ada macam tu lah. Kamu nak berkeliaran malam-malam buat bising, jalan itu macam kamu punya jalan mengganggu orang, itu kamu punya hal lah. Kalau kena tangkap, kena tangkaplah. Tak payahlah nak tambah-tambah kononnya di dalam Islam perkara ini memang ada. Sebab setahu akulah, aku hidup dah lama lah, dah masuk 50 tahun ni kan, tak pernahlah ada benda ni. Ni budaya mana ni? Terkejut engkau. Kau ingat aku tak boleh jadi ustaz ke? Insaf saya.
 
-**Haziq:** Baik. Ha, tengok memang betul kan?
+**Rafizi:** Baik. Ha, tengok memang betul kan?
 
 **Rafizi:** Disturbing neighbors is haram. Aku tak adalah sampai cakap haram kerana aku tak adalah sampai boleh mengeluarkan hukum kan. Tapi kita yang waras semua tahu, ini semua untuk diorang main malam-malam, tu saja. Jadi kalau polis pergi kacau, dia akan kata, oh tak, kami sebenarnya buat perkara yang baik. Itu sajalah. Jadi saya nasihatkan polis-polis, abang polis semua, kalau jumpa, tolong suraikan mereka, suruh diorang balik qiamullail kat rumah.
 
@@ -196,7 +196,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Haziq:** Tahniah Dr. Sam. 2 kali berturut-turut selepas dilantik.
 
-**Rafizi:** Oh ya ke?
+**Haziq:** Oh ya ke?
 
 **Haziq:** Ya, seminggu lepas.
 
@@ -210,7 +210,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Ini untuk kita ingatkan lah kan. Saya akan buat penerangan sedikit lagilah, mungkin esok ke apa. Tapi hari Ahad ini, Ahad ini, jam 9 kan, kita mula dalam jam 9.
 
-**Farhan (Pa'an):** 10. 10 eh, jam 10.
+**Rafizi:** 10. 10 eh, jam 10.
 
 **Rafizi:** Kita akan lancarkan satu lagi inisiatif baru oleh Ayuh Malaysia — yang jarang adalah yang kita cuba nak membantu dari segi pemilikan laptop atau gadget, terutamanya kepada keluarga yang miskin. Laptop sekarang ni keperluan, terutamanya kalau yang dah masuk universiti ke atau melepasi sekolah. Malah budak-budak sekolah pun kena ada laptop sekarang ni kan. Dan laptop harga kalau yang spek paling rendah pun paling kurang 3000. Kebelakangan ni sebab harga RAM, storage pun dah naik tinggi kan, naik sekali ganda. Jadi paling kurang 3000, kalau pakai MacBook Air paling murah pun 5000 lebih. Jadi mahal. Bagi orang biasa mungkin benda tu bukan hal, tapi masih banyak lagi keluarga di Malaysia yang ada halangan kewangan untuk ada akses kepada laptop dan peranti elektronik yang diperlukan untuk pembelajaran. Jadi kita tak ada duit — sebab itu melalui Ayuh Malaysia kita bangunkan program-program dengan kerjasama kumpulan yang nak membantu. Kita bernasib baik kerana ada dua kumpulan yang nak membantu. Satu memang mereka business dan juga kepakaran mereka ialah membaiki laptop-laptop. Tapi kita tak nak semata-mata gunakan duit, minta duit daripada orang ramai, kemudian bagi untuk diorang untuk baiki laptop, kerana benda tu nampak macam tak sustainable dan kesannya tidak meluas.
 
@@ -290,7 +290,7 @@ Saya ucap terima kasih kepada YB Lee Ching Chong dan kawan-kawan dia, kerana ini
 
 **Rafizi:** Undi-undi itu selalunya jenis yang akan menjatuhkan kerajaan. Contohnya, dalam keadaan untuk mengundi bajet—
 
-**Haziq:** Bajet, setiap tahun.
+**Rafizi:** Bajet, setiap tahun.
 
 **Rafizi:** Yang itu kalau tak undi memang kena buanglah. Karena dengan tidak mengundi belanjawan, maksudnya samalah dengan kita mahu menjatuhkan kerajaan. Yang itu memang kalau saya pun tak mengundi belanjawan, memang sepatutnya saya kena buanglah, kan. So yang itu tidak ada pilihan. Kemudian ada undi-undi yang, party ada pendirian masing-masing. Dan sebaiknya parti nak orang ikut pendirian itu, kan. Tapi itu pun tidak mengikat 100% ahli-ahli parlimen untuk 100% ikut. Kalau dia tak ikut, ketua Whip. Saya dulu ketua Whip, tau. Saya ketua Whip PKR, kan. Kalau dia tak ikut, kita boleh summon dia dan minta dia bagi penjelasan. Dan dia ada kategori ketiga iaitu free vote. Maksudnya based on conscience. Dan ada isu-isu yang mana ahli parlimen dibenarkan mengundi mengikut conscience masing-masing atas beberapa sebab. Selalunya sebab utama ialah ahli parlimen itu mungkin daripada parti tertentu yang ada pendirian tertentu dalam isu tertentu, tetapi dia mewakili kawasan yang memang sangat menentang pendirian parti dia dalam isu tertentu. Contoh yang baik, kalau saya di UK dahulu, contohnya Scotland. Kita ada Conservative, kita ada Labour, dan sejak tahun 90-an kita ada SNP, Scottish National Party, Parti Kebangsaan Scotland, kan. Jadi dalam beberapa isu yang bersabit dengan identity kebangsaan Scotland, ataupun yang bersabit dengan devolved power, kuasa yang diperturunkan kepada Dewan Undangan Scotland, walaupun itu bertentangan dengan pendirian di Westminster, selalunya ahli-ahli parlimen daripada Labour ataupun daripada Tory ada pandangan yang berbeza dan akan mengundi bertentangan di Westminster kerana kena ikut pendirian parti di Scotland, dan juga mood rakyat Scotland. Jadi dia ada 3 kategori inilah. Kalau contohnya dalam kes RUU baru-baru ini, bila 10 daripada ahli parlimen PKR termasuk saya sendiri buat pendirian bahawa kami tidak akan menyokong kecuali perkara-perkara yang kami bangkitkan itu ditambah baik, terutamanya yang bersabit dengan pertanggungjawaban, itu dia masuk kategori kedua. Jadi Chief Whip PKR sekarang ialah Dato' Seri Aminuddin Harun. Chief Whip ni selalunya ahli parlimen yang jawatan paling kanan di parlimen. Masa saya Timbalan Presiden dulu, sayalah. Sekarang Timbalan Presiden bukan seorang ahli parlimen, jadi yang paling kanan ialah sama ada Menteri Besar Selangor atau Menteri Besar Negeri Sembilan. Jadi Chief Whip itu sekarang Menteri Besar Negeri Sembilan. Kalau contohnya Chief Whip PKR berkehendakkan supaya saya dan 10 yang lain memberi penjelasan kenapa kami mengambil pendirian itu, kami akan bagi penjelasan. Tapi tidak betul kalau kata seseorang ahli parlimen mesti mengikut 100% apa yang ditetapkan oleh kerajaan.
 
@@ -344,9 +344,9 @@ Saya ucap terima kasih kepada YB Lee Ching Chong dan kawan-kawan dia, kerana ini
 
 **Haziq:** Kita tunggulah weh. Okey, Webby, kita tunggulah bulan 6 nanti apa akan jadi kalau ada lagi parlimen — kita akan ulas juga nanti. Tapi kita mempersilakanlah tetamu tetap kita yang dah lama menunggu. Okey, kali ni Tan Sri Azam Baki bersama Dato' Seri Anwar Ibrahim. Kenapa mata dia tak merah kali ni?
 
-**Rafizi:** Ini gambar lama.
+**Haziq:** Ini gambar lama.
 
-**Haziq:** Oh, gambar lama.
+**Rafizi:** Oh, gambar lama.
 
 **Rafizi:** Bagus Pa'an, dia menjaga sensitiviti. Sebelum cerita saham keluar. Selepas cerita saham keluar ni, dia kurang tidur sikit.
 
@@ -368,7 +368,7 @@ Saya ucap terima kasih kepada YB Lee Ching Chong dan kawan-kawan dia, kerana ini
 
 **Farhan (Pa'an):** Jumaat lepas.
 
-**Haziq:** Jumaat lepas. Yang dikatakan apa? Bloomberg rate.
+**Farhan (Pa'an):** Jumaat lepas. Yang dikatakan apa? Bloomberg rate.
 
 **Rafizi:** No, no, no, no. Apa significant Jumaat pagi. Kalau tengok kepada tuduhan yang dibuat kepada Toh Puan Naimah, garis masa dia — benda tu dah lama, benda tu tahun 2025, jumpa Julai 2025, ingat kan, lebih kurang setahun yang lepas. Kenapa tiba-tiba ada laporan polis, tiba-tiba siasatan, tiba-tiba ada PC oleh Ketua Polis Negara, hari Jumaat lepas, pagi-pagi? Kenapa?
 
@@ -448,7 +448,7 @@ Saya ucap terima kasih kepada YB Lee Ching Chong dan kawan-kawan dia, kerana ini
 
 **Haziq:** Dan ramai marah jugalah. Sibuk-sibuk. Siapa yang marah? Ceplos.
 
-**Rafizi:** Ceplos macam biasalah.
+**Haziq:** Ceplos macam biasalah.
 
 **Haziq:** Sibuk-sibuk sangat ni, menyerang apa semua ni. Sebenarnya yang SPRM kena cari adalah Anwar. Sebab yalah dia ni chief negotiator, dia juga yang dua kali berjumpa dulu, dan YB baru follow up. Kalau YB mungkin nak ulas sikit.
 
@@ -486,11 +486,11 @@ Saya ucap terima kasih kepada YB Lee Ching Chong dan kawan-kawan dia, kerana ini
 
 **Rafizi:** 10 billion kan? Itu berapa tahun? Dilancarkan tahun 2023 sampai 2030. So tolak 2023, maksudnya 4, 5, 6, 7, 8, 9, 10 — 7 tahun 10 billion. 1 billion setahun. 1.1 bilion setahun, kau orang tak buat bising. Yang kerajaan kena sediakan kepada Tengku Zafrul masa itu untuk buat apa pun, kita pun tak pasti sangatlah. Jadi sebab itu bila kita sebut kepada Dato' Seri Anwar Ibrahim untuk membina industri semikonduktor aras tinggi ini, kita perlukan 100 juta setahun, dia tak ada masalah.
 
-**Haziq:** Go ahead. Please, please, please.
+**Rafizi:** Go ahead. Please, please, please.
 
 **Rafizi:** Jadi sebab itu kalau ada yang kata ini semua penyelewengan sebab tergesa-gesa, sepatutnya Tan Sri Azam Baki panggil Dato' Seri Anwar dulu, melebihi semua orang. Sebab kalau you berada di kedudukan saya, buat apa saya susah payah berunding, buat benda yang rumit separuh mati ni semua, buat perjanjian dengan masa yang singkat kalau saya tahu PM tak setuju untuk 1 bilion? Sebab akan pergi kat kabinet, maka akhirnya kalau PM tak setuju, letih. Masalah kami yang kami kecewa masa itu, seperti biasa Anwar Ibrahim di belakang dia setuju pada kami, dia suruh kami buat. Yang ini okey, jumlah ini okey, semua. Bila sampai ke kabinet, walaupun dia setuju, bila sampai di kabinet, Zafrul tak setuju sebab dia kata kami nak buat.
 
-**Haziq:** Ini kerja kami.
+**Rafizi:** Ini kerja kami.
 
 **Rafizi:** Kenapa nak ambil benda ni daripada kami? Ini bukan tugas Kementerian Ekonomi. Padahal Anwar Ibrahim yang suruh. And I was half expecting Anwar to say, no Zafrul, this one tugas ini saya dah — sebab benda ini semua bermula daripada Kementerian Ekonomi, daripada idea mereka, mereka yang buat masuk am, yang kamu sibuk-sibuk nak masuk ni kenapa? You know, a good leader would have said that lah — after all, aku yang bagi instruction kat budak ni nak buat, kan? But that never happened. Bila that never happened, itulah yang menyebabkan ada bangkangan daripada MITI dan MOF ni. Kita kena ingat, Datuk Seri Amir Hamzah dan pegawai-pegawai kanan MOF ni — sebelum Anwar Ibrahim dan Amir Hamzah, siapa Menteri Kewangan? Zafrul lah. Jadi politik mereka ialah apa yang MITI setuju, biasanya MOF sokong, sebab Zafrul tu dulu bekas Menteri Kewangan. Jadi you dah boleh nampak semua pattern tu kan. Jadi bila Zafrul tidak bersetuju, MOF pun oeh oeh oeh. Itu pun kita telah melalui semua prosesnya sehinggalah dia diluluskan. Kalau tak diluluskan oleh kabinet semua, kau ingat Anwar Ibrahim boleh pergi lancarkan ke? Kau ingat MIDA boleh tandatangan perjanjian ya? Kalau tidak, buat apa Tengku Zafrul susah payah pergi berlari-lari nak bagi sidang media ni? Jadi sebab itu, kalaulah soalnya ialah benda ini sangat besar dan sehingga perlu mencari seorang Cina keding nama James Chai ni untuk menyelesaikan siasatan ini dan tentukan serta-merta — kerana kita tahu, by now kita tahu dia tak ada elemen gratifikasi, dia tak ada elemen wang pun, kan? Dia hanya ada soal kononnya benda ini tergesa-gesa. Dan konotasi yang cuba diberikan ialah oleh kerana ini adalah tergesa-gesa, maka ini merugikan negara. Now, sepatutnyalah kalaulah Anwar Ibrahim dan kabinet baru masa sekarang tersedar, alamak perjanjian ini merugikan negara — sepatutnya apa yang dia buat?
 
@@ -542,7 +542,7 @@ Saya ucap terima kasih kepada YB Lee Ching Chong dan kawan-kawan dia, kerana ini
 
 **Rafizi:** Keadaan ini meletakkan AM dalam keadaan yang susah. Dia dah ada perjanjian dengan kerajaan Malaysia dan komitmen selama 10 tahun untuk membangunkan industri front end semiconductor sepenuhnya di Malaysia. Kemudian dia dah mula mobilize dan bawa pelaburan dekat sini — dia dah mula buka pejabat, bawa engineer-engineer dia ke sini, dan ada kerjasama dengan universiti, banyak different facets of the development yang dia buat. Oleh itu dia ada komitmen dengan negara Malaysia yang perlu dikendalikan dengan kerajaan. Kerajaan itu ialah Anwar Ibrahim. Sekarang kalau dekat Kementerian Ekonomi, Akmal lah, kalau dekat MIT, Johari Ghani. Jadi mereka sedia maklum bahawa isu AM ini telah diseret menjadi senjata politik untuk membunuh seorang yang bernama Rafizi Ramli. Jadi mereka tak boleh nak masuk campur, tak boleh nak kata "sebenarnya bukan macam tu." Sebab itu juga sepatutnya, kalau SPRM, Azam Baki ni betul-betul jujur nak siasat AM ni, saya boleh ajar mereka cara yang mudah tanpa buat drama dan tanpa kejar anak Cina keding ni. Contohnya, kumpulan pertama yang dia perlu ambil kenyataan dan siasat ialah AM. Dan mereka boleh bekerjasama dengan Bank Negara untuk siasat aliran wang — ada ke tidak wang daripada AM masuk kepada orang yang tertuduh, baik aku ataupun James. Check bank akaun aku, check bank akaun James. Kemudian tengok pemilikan harta — ada ke tidak pemilikan harta yang tiba-tiba naik mendadak. James kereta Persona tu, aku rumah sewa lah sampai sekarang, tak ada tambah harta dalam tempoh 1 tahun yang lepas. Jadi dengan mudah AM akan bagi kerjasama, semaklah semua, dan daripada situ kalau dah memang tak ada bukti aliran wang, sepatutnya habis kat situ. Tapi dalam keadaan sekarang dia tak boleh campur. Tetapi kalau perkara ini sampai ke mahkamah, mereka buat keputusan sebab sebenarnya ego — orang yang ada kuasa ni macam Azam Baki ke Anwar ke, pandangan dia ialah "aku akan ajar dia." Kau tak tahu, di corridor of power, this sentence — "teach him a lesson" — ni benda biasa yang disebut. Sebab dia kira budak ni rasa dia berani sangat, kita ajar dia. Jadi itu memang mentaliti orang yang berkuasa, baik pihak berkuasa, enforcement agency, agensi-agensi macam SPRM, polis — "kita ajar dia" ni benda yang sangat biasa dalam mentaliti mereka, di kalangan orang politik besar, Perdana Menteri semua. Jadi dia sebenarnya hanya nak settle score itu.
 
-**Haziq:** Nak ajar kan.
+**Rafizi:** Nak ajar kan.
 
 **Rafizi:** Jadi kalau dia dakwa juga, walaupun tak ada bukti, kalau benda tu nampak bodoh sangat, dia nak dakwa juga. Dan itu terpulang kepada saya untuk saya sapina AM. Maka AM akan kena sapina. Sama ada AM nak teruskan ke tidak perjanjian itu semua, kesannya kepada kerajaan dan negara bila dia dah jadi kes mahkamah. Kerana bila dia dah jadi kes mahkamah, bila saya sapina AM untuk jadi saksi dan grill AM semua, dan benda ini jadi rekod mahkamah, apa kesannya kepada AM di peringkat antarabangsa? Yang itu semua kita tak boleh nak kata.
 
@@ -558,7 +558,7 @@ Saya ucap terima kasih kepada YB Lee Ching Chong dan kawan-kawan dia, kerana ini
 
 **Farhan (Pa'an):** Okey, so saya nak tambah sikit. Lagi satu reaksi yang kawan-kawan bagi personally kepada saya — saya ada kawan-kawan ramai yang overseas, ramai yang masih kat sini tapi planning to go overseas. So consensus dalam group tu diorang kata, "jangan balik Malaysia." Yang dekat luar Malaysia tu, "aku dah cakap dah, siapa suruh duduk kat sini, benda macam ni pun boleh berlaku lagi. You think reformasi is real apa apa. Emigrate." Yang dekat Malaysia pula jenis yang macam actually betul, "kita orang dah tak ada hope dah, so might as well kita keluar."
 
-**Rafizi:** So bila diorang tengok—
+**Farhan (Pa'an):** So bila diorang tengok—
 
 **Farhan (Pa'an):** Satu talent yang ada kat Malaysia, yang sacrifice dan berusaha untuk negara dengan semangat patriotism semua ni, kena juga macam ni. I think ramai daripada — kan kita sembang pasal Gen Z dan millennial last week — ramai daripada golongan millennial dan Gen Z sekarang pun dah start mula, maybe I don't know whether this is the right word, tapi disenfranchise dengan this whole patriotism punya feeling. More and more people, especially my generation, yang merasakan buat apa aku stay on—
 
@@ -572,7 +572,7 @@ Saya ucap terima kasih kepada YB Lee Ching Chong dan kawan-kawan dia, kerana ini
 
 **Rafizi:** Kita tak boleh nak tentukan terus sekarang tahap sokongan semuanya. Dan kalaupun ada correlation — contohnya ada drop sokongan dalam tempoh sebulan kepada kerajaan — correlation is not necessarily causation, dan tak tentu disebabkan isu ini. Jadi data yang terbaik yang kita ada setakat ini ialah melihat kepada reaksi di media sosial. Dan reaksi itu teruk. Maksudnya isu ini sangat emotif, terutamanya kepada Gen Z dan kumpulan-kumpulan pengundi yang secara tradisinya mengundi PH — bukan Melayu, kumpulan bandar, kumpulan terpelajar. Kerana mereka boleh relate dengan perkara itu. Kumpulan yang banyak menyokong reformasi dulu-dulu, kalau yang Melayunya, inilah kumpulan terpelajar, kumpulan profesional. Kumpulan yang 20, 30 tahun lepas berada di tempat yang sama seperti James — dia membuat pilihan untuk to stand up and be counted. Mereka ada pilihan yang tak payah ambil peduli pasal semua ni, kerja dah cantik, pakai lanyap bagus-bagus, gaji besar, why bother? But they were the few ones yang rasa it's my moral duty to do something. Jadi bila jadi macam ini, yang tua-tua tu boleh relate because they could have felt the same way, melihatkan kekecewaan yang berlaku sekarang dengan reformasi. Yang muda-muda pula boleh relate kerana umur, kerana aspiration, semua. So I wouldn't be so bold to say lah, sebab perkara ini orang nak migrate atau undi jatuh — I think that one kita kena tengok. Tetapi dalam setiap perubahan politik yang besar, dia perlukan satu cerita yang emotif, dan cerita yang emotif itu selalunya melibatkan orang yang paling kecil. Kalau tengok Arab Spring tahun 2010 dulu, dia bermula di mana?
 
-**Haziq:** Apa nama tu?
+**Rafizi:** Apa nama tu?
 
 **Rafizi:** Feels like so long ago. Dia bermula di mana?
 
@@ -612,4 +612,4 @@ Saya ucap terima kasih kepada YB Lee Ching Chong dan kawan-kawan dia, kerana ini
 
 **Rafizi:** Okey, selamat malam.
 
-**Haziq:** Selamat berpuasa. Assalamualaikum.
+**Rafizi:** Selamat berpuasa. Assalamualaikum.

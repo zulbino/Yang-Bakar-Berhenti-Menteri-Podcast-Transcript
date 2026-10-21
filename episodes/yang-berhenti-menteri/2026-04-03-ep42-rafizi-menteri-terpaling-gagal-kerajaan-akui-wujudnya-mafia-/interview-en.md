@@ -10,7 +10,6 @@ view_count: 181895
 hosts:
 - Rafizi
 - Haziq
-- Farhan (Pa'an)
 guests:
 - Zikri Kamarulzaman
 topics:
@@ -71,11 +70,11 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Haziq:** —special segment.
 
-**Rafizi:** For Zikri.
+**Haziq:** For Zikri.
 
 **Haziq:** Special, just for Zikri, we've never had this before. But wait, let's go to "Beria" first, let's see who — since it's just after Raya, people are active again.
 
-**Zikri Kamarulzaman:** Let's hope we're "beria" — let's look at the first one.
+**Haziq:** Let's hope we're "beria" — let's look at the first one.
 
 **Rafizi:** Beria, Albert Teh, everywhere. Right, good, I remember, this is the "gathering of the people who freely speak up" thing, supposedly for media freedom.
 
@@ -87,7 +86,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** And earlier he did a press conference, he showed up—
 
-**Farhan (Pa'an):** —with Ibrahim Ali and Waital Mufti.
+**Rafizi:** —with Ibrahim Ali and Waital Mufti.
 
 **Rafizi:** About petrol. Petrol protest. My advice, honestly — it's good that we have views, right, but you should specialize a bit more. Wherever it is — I mention Albert Teh because he has a case, right, and no matter how you spin it, we can't escape the fact that, in the eyes of a large portion of Malaysians, he's also been implicated in offering bribes, right. We just need everyone to understand — the system needs to be fixed. So if, for example, this "Free Speech People's Gathering" — actually the issue itself is legitimate. We do face some pressure, some people get MCMC notices and so on, everyone's scared of getting glued down. But when Albert Teh is there, it might have the opposite effect. People who are genuinely sincere and perhaps have more credibility than him won't show up. So my advice to Albert Teh is maybe focus on 2 or 3 things. Otherwise my worry is that he trivializes issues that are actually big issues. Although in terms of "beria" scoring, he's very "beria."
 
@@ -111,7 +110,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** This means Malaysians, right, we get scammed every day. But this one's so "beria" it reached the international level. He scammed the governor of an entire province to the point Petronas had to issue a denial.
 
-**Multiple speakers:** How much is 44 million actually?
+**Haziq:** How much is 44 million actually?
 
 **Haziq:** He said 44 million liters of crude oil. Yes, crude oil.
 
@@ -127,7 +126,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Zikri Kamarulzaman:** But speaking of touching on other countries' affairs — this energy crisis has revived sentiment from certain Philippine politicians about reclaiming Sabah.
 
-**Haziq:** Sabah, but that's off on a tangent.
+**Zikri Kamarulzaman:** Sabah, but that's off on a tangent.
 
 **Rafizi:** But if it's true, okay, that might be because crude oil production in Malaysia previously was mostly on the east coast, right, in the basin there. But it has greatly declined. So now Sarawak doesn't have much oil.
 
@@ -139,7 +138,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Poor Johor state assemblyman, he must be exhausted.
 
-**Haziq:** After this everyone in Johor's going to be drilling for oil in their backyards. Okay, we have another one — Yayasan Madani wants to open Madani Mart.
+**Rafizi:** After this everyone in Johor's going to be drilling for oil in their backyards. Okay, we have another one — Yayasan Madani wants to open Madani Mart.
 
 **Rafizi:** Beria. Well, I understand — after we opened Flexi Mart within PKR and pushed for it. In fact, I've told PKR since 2023, at the convention, that the model for political parties in Malaysia needs to change. It can't remain the model that people call paternalistic and aristocratic. Back in the days of independence, people would go see the branch chief to ask for things. So it needs to shift to a service-based model. So we've mentioned from the start that we wanted to build this service base — Mart is one example — but it's not easy. The problem is I haven't had time to check yet — I'll go check how Yayasan Madani's income is, what its capital is, where it comes from. Because opening a grocery mart isn't easy, you know. At Flexi Mart, we still bite our nails every month — meaning it's just enough to pay salaries. And at the same time, some months I have to top up my own money to pay salaries, because we're competing with the likes of Speedmart. It's not easy because when we buy in boxes, they buy in crates. So the price difference is huge, and people don't care whether it's Madani Mart or whatever — they go to the cheapest place. So it's about economies of scale. What's dangerous — even though they're doing this with good intentions — the danger is if, for example, Yayasan Madani opens Madani Mart, it becomes a channel for political contributions. It becomes even more sensitive because Hajah Fuziah Salleh is the Deputy Minister of KPDNHEP responsible for managing Madani sales, Jualan Rahmah sales. Jualan Rahmah involves tens of millions in government allocations involving many suppliers. So we need to be careful. Later stories will emerge — a supplier saying "oh I'll supply at a cheap price, but in exchange I must get the contract to supply Jualan Rahmah." All sorts of stories will come out — one day someone will say "I gave 500,000 in contributions to Yayasan Madani," and so on. So it's good to emulate this model, but whether it's Fuziah or Farhan, Datuk Seri Anwar's political secretary — neither of them has ever run a business like a grocery store before, so the intention behind it has to be right. But never mind, let's see.
 
@@ -179,7 +178,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** No, no video-making. Oh yes, yes, yes, giving a message that those celebrating shouldn't celebrate too long if they get good SPM results, because you know the next cycle will continue. Those crying shouldn't let their eyes get too swollen, because there's the next cycle. Even this, I don't know, maybe it's for Young Sefura — I think she knows her strength, and her strength is her look, right. But I feel this is already inviting trolling, because if the message is meant for SPM candidates, the focus should be on the SPM candidates and also parents and teachers. This one is more like an election poster — "YB, how many? How many A's?" How can I tell my story — I failed, failed, failed. I didn't get what I wanted, and I thought the world had collapsed. Okay then.
 
-**Zikri Kamarulzaman:** Yeah, this is a story for young people. A story for young people.
+**Haziq:** Yeah, this is a story for young people. A story for young people.
 
 **Rafizi:** Story for young people — during my trial exams I got 10 A1s.
 
@@ -201,17 +200,17 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Haziq:** The most enthusiastic one out of all of them.
 
-**Rafizi:** Ha, we need to rate which one is the most eager. There are 4.
+**Haziq:** Ha, we need to rate which one is the most eager. There are 4.
 
 **Haziq:** Rafeti, then Johor — Robert Teh, Johor, 44 million liters, 44 million liters Yasa Madani, then Yasa Madani.
 
-**Rafizi:** And Congratulations SPM.
+**Haziq:** And Congratulations SPM.
 
 **Zikri Kamarulzaman:** Then Congratulations SPM. I think Johor.
 
 **Rafizi:** Johor, actually I agree.
 
-**Zikri Kamarulzaman:** It's quite epic.
+**Rafizi:** It's quite epic.
 
 **Rafizi:** Quite epic, he could scam the governor with this. If he said he represented Kerteh, I understand people might believe it, might Google a little — there are many places in Johor. Agreed. If you asked me too, I would have rated Johor.
 
@@ -227,7 +226,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Someone filing a story from Coffee Bean.
 
-**Zikri Kamarulzaman:** I once worked from the toilet. Don't say too much.
+**Rafizi:** I once worked from the toilet. Don't say too much.
 
 **Rafizi:** Okay, let's move to a special segment and talk about — you're going to AI my face, huh.
 
@@ -235,7 +234,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Are you all going to AI my hair too? It looks so thick, eh, this old photo.
 
-**Farhan (Pa'an):** We can't just do the face without doing the hair too. Okay.
+**Zikri Kamarulzaman:** We can't just do the face without doing the hair too. Okay.
 
 **Rafizi:** No, but on this issue — let's grill Zikri first, okay, before I get grilled later. Media freedom, lots of questions. On the one hand, yes, Malaysia has risen in the Press Freedom Index ranking and all that. But at the same time, I don't know, maybe psychologically I'm wrong, but there's still a feeling like there are plenty of actions — every now and then there's a journalist being questioned, detained. So much so that I feel, as an ordinary person, not a journalist, that's why I want to ask a journalist about this — it seems like there's not much difference from before.
 
@@ -253,11 +252,11 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Zikri Kamarulzaman:** It's difficult. The answer isn't easy. So first of all, I want to clarify — media buys aren't all bad, not every media buy is an agency saying "you have to answer to us." Sometimes it's just innocent — for example, back in Najib's time, if I recall correctly, Permata, the program under Rosmah Mansor's patronage, advertised with Malaysiakini, but we still criticized Rosmah Mansor as usual. And they didn't mind, because it's separate — it's just promoting a program and not promoting a politician, those are two separate things. For me personally, as long as there's a clear division — not promoting a minister saying "okay you have to do this," sorry, "okay YB is busy, give us 50 million to promote IPR, we have to interview Rafizi, come on come on butt-kissing" — okay that's not it, that one is totally different. Promoting a program and promoting a minister are so different, for me personally. But again, I'm not involved in advertising, so I don't know anything. But I think one solution to the media buy problem exists because of social media. Social media came along, online advertising rates all plunged, and then young people now and old people now all go to TikTok. TikTok in Malaysia has no revenue model — in the US there's a creator fund, in Malaysia it hasn't reached that yet. So we want to reach young people but there's no dividend, no return on investment, because being popular on TikTok doesn't mean that person will go to your website, look at your ads, subscribe or whatever. So that's the problem there. One solution I recall, other countries have done this — Australia and Indonesia if I remember correctly, they negotiated with social media giants, had to make sales agreements — "you want our content, we'll sell it, but you have to pay" and subsidize. So maybe like in the US, some outlets made agreements with OpenAI to sell content to them so that when OpenAI does a search function, it auto-generates with their content. So there needs to be that kind of agreement. Can it be done by law? But in Australia it's by law, right?
 
-**Rafizi:** But mandated. But I think in Indonesia they just negotiated like that.
+**Zikri Kamarulzaman:** But mandated. But I think in Indonesia they just negotiated like that.
 
 **Zikri Kamarulzaman:** I see. I think, not that the government should mandate, but I think maybe the government should facilitate. Okay, even though Malaysiakini criticizes the government, that doesn't mean we view the government as all bad. But we need — because media in Malaysia, our value is small. To Meta, OpenAI, what is Malaysiakini? There's no value in Malaysiakini, you know. Even for local Malaysian audiences, I don't think OpenAI will see FMT, Malaysiakini, The Star, TV3 and all — in the big picture, just tiny dots. So to compel them to come to the bargaining table,
 
-**Rafizi:** I feel that maybe the government needs to facilitate.
+**Zikri Kamarulzaman:** I feel that maybe the government needs to facilitate.
 
 **Zikri Kamarulzaman:** Facilitate, yes. Whether by law or not, maybe not, but just to start the conversation going. Because then, you know.
 
@@ -339,11 +338,11 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** How many weeks have you been complaining about diesel?
 
-**Farhan (Pa'an):** It just went up a bit more yesterday.
+**Zikri Kamarulzaman:** It just went up a bit more yesterday.
 
-**Zikri Kamarulzaman:** Patience, young man.
+**Haziq:** Patience, young man.
 
-**Farhan (Pa'an):** 6 ringgit. Patience, young man.
+**Rafizi:** 6 ringgit. Patience, young man.
 
 **Zikri Kamarulzaman:** 6 ringgit. So this diesel subsidy system is something that was introduced while you were minister, YB. Why didn't YB take care of YB's own follower? Take care of your follower.
 
@@ -377,7 +376,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Well, first, you'd have to ask James Tsai himself. I cannot speak on his behalf. You'd have to ask his lawyer. But my last communication with him — this must have been 3 weeks ago, when they were chasing after him and so on — before James appointed a lawyer. At that time he referred to me. He had two or three issues. One, he's working there, right? So he can't just casually go back. He would lose his job. Unless MACC can guarantee that after a week he can return immediately. Then what if a week becomes two weeks, three weeks, and under restriction, he would lose his job. So I think if you were him, you'd think about that too.
 
-**Zikri Kamarulzaman:** Why can't it be done via remote work?
+**Rafizi:** Why can't it be done via remote work?
 
 **Rafizi:** Well, you'd have to ask him why not. Just because you can do it from an island doesn't mean everyone can, you know. Secondly, actually James shared with me — he had communicated this when he appointed a lawyer — that there are many ways to do it. Either they can do it online, and after all he's supposedly a "winner," so it could just be done online. Or they could fly there and interview him, either at the embassy or at the local police station, whatever. So if possible he doesn't want to come back because he has to sort out things regarding his job. So, MACC insisted on refusing, even though before this MACC would just fly all over the world to interview people. Including Saudi Arabia — to interview, check, and confirm donations. Then, the son-in-law of Dato' Sri Ismail Sabri — they went to take his statement in Jakarta. But with James's case, it's not allowed, he has to come back regardless. So, you see, I think we also need to remember, it's easy for us to say this when it's not happening to us. Everyone should be equal under the law. So if this is the normal standard, why in this case are they insisting and trying to paint James as if he has something to hide, as if he's running away? And I think if I were James, I would have done the same thing, you know. Reform-minded people mean that my right is my right. I will not allow myself to be intimidated by this. If I'm a witness, you've done it before — you fly there, you fly here, you interview people like that. Why in this special case must he be present there and come back, and so on?
 
@@ -413,7 +412,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Multiple speakers:** Wait.
 
-**Multiple speakers:** I think there was a Malay-language news report.
+**Rafizi:** I think there was a Malay-language news report.
 
 **Haziq:** The organized attack, there was.
 
@@ -437,7 +436,7 @@ You have no regret? I have no regret. Will you still have tried to make Anwar Ib
 
 **Haziq:** The corporate mafia has existed for a long time, since before 2018.
 
-**Rafizi:** Maybe if I can start, Zikri, just to, let's start.
+**Haziq:** Maybe if I can start, Zikri, just to, let's start.
 
 **Haziq:** The latest statement from the Minister of Communications, YB Fahmi Fadzil, that this corporate mafia actually existed long before 2018 — just to check with you, do you take this statement seriously? Because if yes, is this actually true that it's been going on for a long time? If it really has been going on for a long time, for ages, why didn't we notice before?
 
@@ -447,7 +446,7 @@ You have no regret? I have no regret. Will you still have tried to make Anwar Ib
 
 **Rafizi:** No. I think the reason is because I never actually met third parties. Never. I think, yes, people in the market might be upset, because usually ministers always have people wanting to come present things — that's what Capri was busy trying to come and present. We don't deserve to be hung out to dry for that. So usually there's always someone wanting to present this, present that, but we never entertained it. So we really didn't have third parties.
 
-**Farhan (Pa'an):** [They'd have to] get a meeting with you.
+**Rafizi:** [They'd have to] get a meeting with you.
 
 **Rafizi:** Getting one is really very difficult. Good luck trying to get my time for a meeting or whatever. So in that sense, no one dared approach. The only third party, if any, would be ones where the decision had already been made by the government. Usually that's like, for example, big government programmes, and most of them are GLCs — Maybank or whatever — because they became a strategic partner in some of the things we do. But I'm sure early on plenty tried. And I wouldn't put it past them that Data Sonic or NextG tried to meet early on too. But okay, I'm sure. But I think it was my decision from the start that I would not entertain it. Besides, the Ministry of Economy's focus is on policy — there's a lot of work. We don't administer contracts or anything like that. It's all policy, and the Ministry of Economy really doesn't have tenders because it's a policymaking body. So if you're a policymaker, why would you want to meet a company, a company wanting to make a proposal?
 
@@ -547,9 +546,9 @@ You have no regret? I have no regret. Will you still have tried to make Anwar Ib
 
 **Rafizi:** It could be. But even before we get the full results in 3, 4 months, if you look at what we have now, you can tell straight away that the number of students achieving excellent grades — A+, A and A- — has actually decreased. It's decreased in absolute numbers, and decreased even more as a percentage, because the total number of candidates this year is higher — about 11,000 more students. So how is it that the number of A+, A, and A- achievers is decreasing, but the GPK is going up?
 
-**Zikri Kamarulzaman:** The GPK increased, the GPK improved. What does that mean?
+**Rafizi:** The GPK increased, the GPK improved. What does that mean?
 
-**Haziq:** The average went down.
+**Rafizi:** The average went down.
 
 **Rafizi:** Which average went down? The bell curve — no, no, this isn't about the bell curve. Fewer people failed. One possibility: fewer people failed. So instead of 3,000 people getting an E, maybe 2,500 got an E and 500 got a D. So from this, even without waiting for the full analysis, you can tell that what's actually improved is at the bottom end of the spectrum.
 

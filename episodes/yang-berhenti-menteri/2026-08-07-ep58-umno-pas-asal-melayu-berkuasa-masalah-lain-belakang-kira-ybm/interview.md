@@ -104,7 +104,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Ya, kita tak boleh baca niat dia lah. Saya ingat sebahagian besar ini ialah penasihat, penasihat media dia lah, kononnya kan. Ehm, cuba tanya Pa'an — kalau orang nak buat benda ni dekat aku, memang kena pangkang aku. Kenapa? Kenapa Pa'an? It's not you.
 
-**Farhan (Pa'an):** Well, it's not me lah kan. Tapi—
+**Rafizi:** Well, it's not me lah kan. Tapi—
 
 **Rafizi:** kenapa? Sebab dia cringe. Cringe? Okay, why is dia cringe?
 
@@ -112,7 +112,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Well I don't know, saya tak adalah cepat sangat mudah nak kata ni berlakon, tapi haa, saya ingat yang — canoniti ke? Yelah, dia sebenarnya authenticity. So kalau strategi biasa, pemasaran lah, branding semua kan, orang selalunya nak tengok the essence of the product, dia kena authentic kan. Jadi kalau macam ini, terutamanya perkara masjid — and then another thing about me — yang kalau Pa'an kata "it's not me," memang betul, ada perkara-perkara yang bagi saya ialah sangat private. Perkara saya di masjid beribadah, semua tu saya semayang, semua tu sangat private, sebab aku malu kat Allah. Kau semayang tak mana, tak tahu Allah terima ke tidak, lepas tu kau nak tunjukkan kau baik kan. So that one, aku cukup sedar segala kelemahan aku sebagai manusia kan. Jadi sebab itu orang ada komen, "oh, apa nama ni, macam tak ada konten masjid ke apa semua kan." That's because to me, semayang itu is sangat private kan. Sama juga kalau macam pergi masjid, kena duduk kat depan, ada tempat — sebab kita tahu, kita masuk masjid ni, kita sama macam manusia lain. Dah kau datang lambat, saf depan tu untuk orang yang lagi bagus, dia duduk kat depan lah, kau dah datang lambat, kau duduk kat belakang lah. Dalam tak ada konsep VIP tau dekat Allah. Jadi, so benda-benda macam ni, maksudnya, bila pergi masjid lah, bila pergi makan ke apa, ya lah, ada — it's, it's premeditated, premeditated content, kan. Jadi bila premeditated content tu, dia akan mengundang orang yang kata berlakon, semua. Kita tak tahu niat mereka. Jadi as a matter of media strategy, as best as possible, kita kena pastikan perkara itu authentic. Jadi apa-apa perkara yang dilihat pre-planned, ataupun set up, ataupun choreographed, yang itu akan menyebabkan orang mula cakap macam-macam lah.
 
-**Haziq:** Ok, tapi aku nak lontarkan benda ni ke pendepan, sebab dia yang paksa aku buat IRL, korang duk tunjukkan benda ni, so apa beza dengan IRL?
+**Rafizi:** Ok, tapi aku nak lontarkan benda ni ke pendepan, sebab dia yang paksa aku buat IRL, korang duk tunjukkan benda ni, so apa beza dengan IRL?
 
 **Rafizi:** Sama juga. Menarik soalan tu.
 
@@ -200,9 +200,9 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Tak tu. Bukan logically, factually — tak.
 
-**Haziq:** Kenapa factually tak?
+**Rafizi:** Kenapa factually tak?
 
-**Rafizi:** Selepas merdeka dari British, 60 tahun, kita diperintah oleh parti yang pro-Melayu dengan agenda Bumiputera sebagai agenda nasional. Tetapi itu tidak ditranslate dalam pemilikan ekuiti — orang Melayu yang masih rendah, dan model cara mereka berpolitik itu.
+**Haziq:** Selepas merdeka dari British, 60 tahun, kita diperintah oleh parti yang pro-Melayu dengan agenda Bumiputera sebagai agenda nasional. Tetapi itu tidak ditranslate dalam pemilikan ekuiti — orang Melayu yang masih rendah, dan model cara mereka berpolitik itu.
 
 **Haziq:** Saya rasa YB sebenarnya dah explain lah dalam posting YB — apa ni, kuasa dipegang oleh orang Melayu, tetapi reliance tu kepada tauke-tauke berbilang bangsa lah, tauke Cina lah, tauke India lah. Number pemilikan ekuiti tu Melayu, macam tu juga model how we run our negara — geran mungkin banyak, itu semua, tapi hasilnya kita tak sure bagaimana, dan akhirnya benda tu tak membantu pun apa kebimbangan Sanusi tu.
 
@@ -410,7 +410,7 @@ Saya rasa keputusan rakyat itu akan dibuat berdasarkan kepada pemahaman dan juga
 
 Okay, now, to go back to that question — untuk menyelesaikan masalah sekarang ini, iaitu untuk jangan bagi BN dan PN menang — you know, masa yang ada ni, saya tak pasti boleh menutup dan mengubah persepsi rakyat hasil daripada 4 tahun yang lepas. Jadi kalau persepsi itu telah dibina, dia tak mudahlah untuk menukar, dan sehingga sekarang pun keputusan-keputusan Dato' Seri Anwar dan PKR masih bukan sahaja merungkai kekecewaan itu — dia menambah kekecewaan itu.
 
-**Haziq:** Terutamanya yang menyokong PH. Ambil contoh tentang keputusan dia mengenai peruntukan parlimen kepada YB Rodziah semualah. Even at this minute — itu yang saya kata sel-sel otak politik ni tak bersambung tu — even at this minute, kan? So tu lapisan pertama, menjawab mudarat yang lebih kecil, selesaikan masalah ini. You — saya tak pastilah dia boleh selesaikan masalah itu kan. Then dia pergi kepada mudarat yang selepas itu. Kalau PH kalah, dan saya rasa macam kalau tengok netizen tu semua dah macam slowly coming to terms, gayanya payah nak menang ni. Maksudnya PH kalah, dan juga Dato' Seri Anwar tak jadi PM dah kan. Then you, dan terutamanya penyokong dan pengundi progresif lah yang sebelum ini mengundi PH kan. Yes.
+**Rafizi:** Terutamanya yang menyokong PH. Ambil contoh tentang keputusan dia mengenai peruntukan parlimen kepada YB Rodziah semualah. Even at this minute — itu yang saya kata sel-sel otak politik ni tak bersambung tu — even at this minute, kan? So tu lapisan pertama, menjawab mudarat yang lebih kecil, selesaikan masalah ini. You — saya tak pastilah dia boleh selesaikan masalah itu kan. Then dia pergi kepada mudarat yang selepas itu. Kalau PH kalah, dan saya rasa macam kalau tengok netizen tu semua dah macam slowly coming to terms, gayanya payah nak menang ni. Maksudnya PH kalah, dan juga Dato' Seri Anwar tak jadi PM dah kan. Then you, dan terutamanya penyokong dan pengundi progresif lah yang sebelum ini mengundi PH kan. Yes.
 
 **Rafizi:** Jadi kena tengok mudarat pada masa itu. Mudarat pada masa itu ialah kita perlukan pembangkang yang boleh berdepan dengan BN dan PN untuk membawa suara rakyat. Pilihan yang ada masa itu ialah PH dan juga Bersama — di antara dua parti progresif yang ada lah. PH masa itu, kita pun tak pasti ada PH ke tidak. Sebab kalau dah kalah dan Dato' Seri Anwar bukan lagi Perdana Menteri, berserabut mereka tau. DAP mungkin keluar daripada PH — tak ada PH dah, tinggal DAP je. Also, even now pun kita tak pastilah kan. Jadi PH pun dah tak ada lah masa tu. Kemudian PKR pula, dia akan jam juga. Dato' Seri Anwar, kita tak ada garanti dia akan bersara daripada politik. Oh, dia mungkin nak teruskan. Oh, PKR senang — kalau perlembagaan dia tu, dia ubah je perlembagaan yang dah habis penggal tu, ataupun dia buat satu jawatan baru lah — ketua umum. Timbalan presiden bercuti pun dia boleh bagi. Pilihan raya dah dekat ni, Melaka tinggal sebulan lagi. Pilihan timbalan presiden bercuti. Jadi mudarat yang kedua tadi kan — selepas pilihan raya, kalau PH bukan lagi kerajaan kan, dan kita akan berdepan dengan PH yang berkecamuk. Sedangkan pada masa itu kita perlukan satu suara pembangkang untuk berdepan dengan BN, PN dan terus bersuara dan buat kerja. Dan itu kembali kepada. keputusan yang, pada saya, kalau saya menjadi pengundi-pengundi progresif, apa keputusan yang terbaik yang saya boleh buat?
 

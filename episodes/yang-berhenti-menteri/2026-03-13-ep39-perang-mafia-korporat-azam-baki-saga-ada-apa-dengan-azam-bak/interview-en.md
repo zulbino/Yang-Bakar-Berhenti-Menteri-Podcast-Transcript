@@ -67,17 +67,17 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** I have a fever and a sore throat. And it's been really hot lately. Malaysia's dry spell lasts until June, right?
 
-**Iqbal:** And but YB—
+**Haziq:** And but YB—
 
 **Haziq:** will spill some pretty hot stories.
 
-**Iqbal:** Ha, yeah, that's why I have a fever today.
+**Rafizi:** Ha, yeah, that's why I have a fever today.
 
 **Rafizi:** So the production team said never mind, let's skip a week. I know they're just trying to work their way out of it.
 
-**Iqbal:** Next week, next week.
+**Farhan (Pa'an):** Next week, next week.
 
-**Farhan (Pa'an):** Oh, next week huh.
+**Rafizi:** Oh, next week huh.
 
 **Iqbal:** It's Raya, right?
 
@@ -103,11 +103,11 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Outed as not Malay enough and not Muslim enough — with a comic. What are these netizen comments on Twitter — "pure acting, only the less clever will easily be fooled." So let's pray that Nga Kor Ming's heart is softened so he embraces Islam and understands Islam. Alhamdulillah, solid religious guidance. Oh, this one is supportive — Malay Muslims should support and praise this, but instead they're upset. Great. So, what's your view? I... nobody wants to comment anymore. Ask Farhan for his comment first.
 
-**Haziq:** My comment, huh.
+**Farhan (Pa'an):** My comment, huh.
 
 **Farhan (Pa'an):** We included this because usually the strong — I hate the word "sucking up" — but strong sucking-up behavior — so there's a segment of the public that sees him doing this and says, oh he's really something, he'll suck up to anything.
 
-**Rafizi:** So it's with that context.
+**Haziq:** So it's with that context.
 
 **Haziq:** It doesn't mean that a non-Muslim listening to a religious talk is wrong.
 
@@ -125,7 +125,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Haziq:** Don't worry, our regular guest is already waiting.
 
-**Rafizi:** Oh right. Okay, let's look — expensive because he's sitting cross-legged. Okay. Ah, lively general news, good news. Written for nothing, lively. Not confirmed yet, but let's be lively about it anyway, right? Lively. There are 2 announcements here, YB.
+**Haziq:** Oh right. Okay, let's look — expensive because he's sitting cross-legged. Okay. Ah, lively general news, good news. Written for nothing, lively. Not confirmed yet, but let's be lively about it anyway, right? Lively. There are 2 announcements here, YB.
 
 **Haziq:** An announcement from the Ministry of Education about additional holidays for Raya, which was already in the calendar. And then an announcement from the Prime Minister that the public has been waiting for.
 
@@ -133,7 +133,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Iqbal:** Not really, maybe a little.
 
-**Rafizi:** This one is an announcement—
+**Haziq:** This one is an announcement—
 
 **Haziq:** that was made, he issued a media statement about the additional Raya holiday.
 
@@ -159,7 +159,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** During parliament?
 
-**Iqbal:** Yes, yes, yes.
+**Rafizi:** Yes, yes, yes.
 
 **Haziq:** Parliament sitting. Yes, this should have been in last week's episode.
 
@@ -173,7 +173,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** What does Klinik 1Malaysia have to do with 1MDB? Kedai Rakyat 1Malaysia with 1MDB?
 
-**Iqbal:** Need to ask the man himself.
+**Haziq:** Need to ask the man himself.
 
 **Rafizi:** I'm worried about the critical thinking skills of our members of parliament. Because Klinik 1Malaysia, Kedai 1Malaysia and all that, those all fall under Datuk Seri Najib's "1Malaysia" campaign concept, which used public funds from the government budget. They have nothing to do with it — it's not like 1MDB funded all that. If someone in a village in Ulu Tenggara doesn't understand, that's understandable. But if a member of parliament is the one spreading this story, that's a bit too much, isn't it. Didn't Iqbal know?
 
@@ -189,7 +189,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Actually, no. I mean, yes, there will always be diehard supporters of a certain party who will support it no matter what, right? But my understanding and observation of voters is that, actually, they look at much deeper issues. Doesn't matter if Malay, Chinese, or Indian. Take the Malay example. Their problem with, say, PH or Dato' Seri Anwar or DAP. It's true there are diehards, whether racially motivated or, if it's PAS, they'll support 100% no matter what. But the fence-sitting Malays who don't support PH — they have an issue that needs resolving. We may agree or disagree with their view, but their view is valid, you know. Their view is about the trust deficit regarding Dato' Seri Anwar. Because Dato' Seri Anwar wants to become Prime Minister so badly, will he make decisions for the long term? Because of concerns about this trust deficit, if he's desperate to become Prime Minister, will he agree to anything and everything that, in their view, could harm Malay interests? But their issue is the trust deficit. And to be fair to them, however angry we want to be with them, right now this trust deficit issue really is happening, you know. So I'm tired of hearing them say "I told you so," you know. So meaning, even though their comment seems racial, seems like this, but if you distill it much further, actually there's a trust deficit issue. Actually, it's the same thing with non-Malays. Why do non-Malays have issues with PAS, with UMNO, or now with PH and DAP itself? It's not simply looking at, oh I like Komeng, oh I like Chinese, oh I like Anwar. Not at all, you know. If you look at my comments now, I spend a lot of time reading netizen comments on Chinese media too. Because now there's Google Translate.
 
-**Iqbal:** Couldn't do that before, right?
+**Rafizi:** Couldn't do that before, right?
 
 **Rafizi:** They comment a lot in Mandarin and then you just click, you read, go through it, right. I was very surprised because between comments about politics by Chinese voters compared to Malay voters, Chinese voters are much deeper, you know.
 
@@ -207,7 +207,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Farhan (Pa'an):** Double parking, some say he blocked the road. Something like that. Maybe it was on the road.
 
-**Haziq:** A car like that.
+**Farhan (Pa'an):** A car like that.
 
 **Rafizi:** So actually it's good because whoever did it — the car really did look like it was parked right in the middle of the road, whichever one you like.
 
@@ -217,7 +217,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Haziq:** Ah, knock on it, "sorry, you made a mistake."
 
-**Rafizi:** Don't repeat it.
+**Haziq:** Don't repeat it.
 
 **Farhan (Pa'an):** In Russia there's a group — I looked into this because I researched how people deal with road rage issues. In Russia there's a group, when someone parks wrongly or double-parks or blocks, they stick on a sticker that absolutely cannot be peeled off. Maybe we could start something like that.
 
@@ -227,7 +227,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Just like that, right. So you arrive, oh my God — so the guard feels guilty because he's tried his best. But our people just have that shameless face. So if anything, this fixation isn't really about the thing itself, but the fixation reflects our people's character. Look at this one — he just casually, shamelessly parks the car in the middle of the road. And so many people are like this, you know, inconsiderate. Then when someone gets upset and does something like that, it also becomes a fixation, right. So I don't know, one of my pet hates is how do you inculcate better civic spirit. Because civic consciousness in Malaysia is the same as when we want to cross the road. There's already a zebra crossing — a zebra crossing is supposed to mean you don't need to wait for people to stop, you just walk, it's our right of way. Try walking here, and I'll get hit. I don't dare wait and look left and right for everything. So a zebra crossing where we have to wait and look both ways completely defeats the purpose. But that's our culture, because what this tells us is that civic consciousness is very low.
 
-**Haziq:** Fixated? Everyone's fixated. Everyone's fixated.
+**Rafizi:** Fixated? Everyone's fixated. Everyone's fixated.
 
 **Rafizi:** Let's not blame the uncle alone, since we don't know his background. But once you go and kick and damage someone's car like that, then — I don't know, maybe. But if it hits a car, well, I'm fine since God willing it won't hit my car. But if there's a movement like that sticker thing—
 
@@ -277,7 +277,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Haziq:** Wow. Let's bring "wow" forward a bit. Okay, one thing — Anthropic versus Trump. This issue isn't that new, it started back in January, when the Pentagon — the Pentagon is like the US defense department. Like our Wisma Putra is the Ministry of Foreign Affairs; the Pentagon is defense, the Secretary of Defense's place.
 
-**Farhan (Pa'an):** Right. Pentagon is MINDEF.
+**Rafizi:** Right. Pentagon is MINDEF.
 
 **Haziq:** Ah, right, MINDEF.
 
@@ -309,13 +309,13 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** That's one, okay, that's one part. But guardrails here means there are certain ethical lines that cannot be crossed, okay. So one guardrail, like what Farhan mentioned earlier, Anthropic insisted that their AI model, Claude, cannot be used for domestic surveillance — that's something the Pentagon insisted on too, they wanted it. But the bigger issue regarding the Iran war that will affect all of us is the question of do you leave it all the way to AI, or must the final decision to strike and to kill remain with a human being? So Anthropic's stance — it's a big ethical issue, because you look at, what's it called, Star Wars, right, Droid Wars, for example all that, Terminator — in the future, Terminator or whatever. Anthropic's insistence, and I think that is actually a global ethical guardrail in AI too. In matters involving life. And it's not just war, you know — it's also medical. For example anything involving life, medical, even autonomous driving in the future. Anything involving life, the final decision must rest with a human being. You cannot leave a robot or AI to decide on its own regarding human life. So in the matter of the current war, what the Pentagon wants is, if Claude has already identified where to strike and all that, right, actually they can decide on their own to strike and kill.
 
-**Haziq:** So that means—
+**Farhan (Pa'an):** So that means—
 
 **Farhan (Pa'an):** Using AI, you take out the human element of even the decision making on strikes, on planning.
 
 **Rafizi:** Yeah.
 
-**Haziq:** So fully autonomous.
+**Farhan (Pa'an):** So fully autonomous.
 
 **Rafizi:** Fully autonomous. That's what Anthropic insisted, they will not do that. And it's dangerous because the moment you remove the human, then who do you blame? War crimes tribunal for the Claude machine.
 
@@ -347,7 +347,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** But it's the same thing, it's the same thing. The concept of input cost pass-through stays the same, meaning the public is protected from sharp fuel price increases. That's borne by the subsidy given by the government. The issue is whether you adjust every 6 months or every month, that's all. Because AFA was actually announced together with the tariff after IBR, after RP3 — AFA is indeed part of it. So that means ICPT, the concept where the government has to pay subsidy, will still remain. So, to not drag this out too long — meaning, there are many impacts. Besides economic impact, there might also be political impact. One, as I mentioned earlier, if the international uncertainty continues, it will affect the value of the ringgit, the value of the Bursa. We also need to watch inflation because, for example, the global supply of urea is now getting scarcer, because urea is produced from raw gas — I used to be in charge of petrochemicals, urea and all that. So I think 20% of the global urea market is supplied or passes through the Strait of Hormuz. That's what's being affected. So when there's a war like this, there will be a shortage, a disruption to urea supply.
 
-**Iqbal:** Urea is fertilizer.
+**Rafizi:** Urea is fertilizer.
 
 **Rafizi:** So when fertilizer prices soar, raw food materials will also soar. So we need to watch whether that will start affecting commodity prices too. But the long and short of it — meaning if this war drags on, it will reduce the shine, the sparkle of economic performance that the Madani government has been touting until now. And that's practically the only plus point the Madani government has. So when that shine, that sparkle, diminishes because of all this — whether it's oil prices having to rise, or the deficit ballooning, or inflation rising — even though it's not within the government's control, people will say, well, during good times you claimed it was all your doing, so during bad times you have to face it too. Same as during Covid before — everything was bad then, but Tan Sri Muhyiddin gave the excuse, oh, it's because of the Covid era. So for a government, when it comes to economic performance, you can't pick and choose the ups and downs. So say if there's an oil price increase, however long it lasts, it will also affect whether or not a general election gets called. Because if you raise fuel prices in June, calling an election in June, July would be quite difficult.
 
@@ -369,7 +369,7 @@ But now it's quite obvious Budi 95 — the public might say it's good, but it do
 
 **Rafizi:** Well, actually everything helps. It's just that I'm not sure whether work from home has a drastic effect on RON 95 consumption. Because work from home only applies to a portion — only government officers. They can't force work from home on the private sector unless there's a declared emergency, like the MCO — don't give them ideas, I don't want an MCO, I'd have to live with my 20 cats every day. Unless there's an emergency ijtihad, any work from home for private companies can only be encouraged, they can't enforce it. Because private companies, as long as they comply with the Employment Act, the Labour Act and so on, you can't force them to do something outside the law. And work from home hasn't yet been codified into law. So it's actually goodwill. So that means the main impact is only on civil servants. And civil servants are mostly concentrated in the Klang Valley. In other places there aren't that many civil servants. The bulk are in Putrajaya, in KL. So there's an impact on RON 95 consumption, but whether it will really save the country, maybe, maybe not. But I think in the absence of anything else, then they have to respond to it.
 
-**Haziq:** And then plus, close to Raya, so.
+**Farhan (Pa'an):** And then plus, close to Raya, so.
 
 **Farhan (Pa'an):** How do you celebrate Raya from home?
 
@@ -407,7 +407,7 @@ In Abu Hanifah's statement: "I have been informed that threats were made to cert
 
 So let me put this in context — Abu Hanifah is in a group with Datuk Isa. They are fighting against Farhash. Farhash wants to take over NextG. Datuk Abu Hanifah is making an open allegation that coercive tactics, threats, were used to force board members and senior leadership of the company who did not align — according to this allegation — with Farhash, were threatened with investigation or account freezing, investigation by the police, if they did not resign or step down from the company.
 
-**Haziq:** This is the same as what Bloomberg said.
+**Farhan (Pa'an):** This is the same as what Bloomberg said.
 
 **Rafizi:** Yes, that's what culminated in the "corporate mafia" and everything exposed by Bloomberg, it really does revolve around NextG too. Because the biggest contract among all the companies exposed in the Bloomberg report, ultimately the company that got the richest contract worth over 2 billion is NextG. In the end it comes back to NextG, right.
 
@@ -449,7 +449,7 @@ NextG Origin and Farhash Entry — the background of NextG and how Farhash first
 
 **Rafizi:** This is a revelation, information I've received. For example, how the pressure was applied. And this involves government agencies, you know. We already know about MACC. These are allegations that also involve the police. For example, at the end of October 2025, a special purpose vehicle company, an SPV called Rembulan Lestari Sendirian Berhad, owned by Datuk Abu Hanifah Nordin, which held a lot of shares — 150.34 million shares of NextG Berhad — under a sub-account CDS at Velocity Capital Sdn Berhad. When this scramble occurred at the end of October 2025, that CDS account was frozen. Okay, what CDS means is Central Depository System. Let's see — this is for holding shares, Central Depository System, right? CDS. Meaning when we hold shares, we don't keep share certificates in a safe like in the old days, right? It's all like a bank account now. If a bank account holds money, CDS holds shares. So at an investment bank or financial institution, you have a CDS account, basically where you park your shares. So when the dispute happened, Datuk Abu Hanifah's 150 million shares in this account were frozen. Who can freeze this?
 
-**Haziq:** The shares, the shares were frozen.
+**Farhan (Pa'an):** The shares, the shares were frozen.
 
 **Rafizi:** No, the CDS account. When... Bursa? Okay, let's just explain it. I mean the concept of a CDS account — if our bank account is frozen, they freeze the account, right? So when that account is frozen, we can't withdraw money, can't transact, our money is stuck. Same concept with shares. So you have a CDS account, and in that company's CDS account, you're holding hundreds of millions worth of shares in other companies, you park it there. It's like a bank account. So when that account is frozen, it's stuck there. You can't transact, can't do anything. Can't even withdraw, can't sell either. So, this instruction — allegedly this instruction came from the AMLA Unit, meaning from Bukit Aman.
 
@@ -483,7 +483,7 @@ NextG Origin and Farhash Entry — the background of NextG and how Farhash first
 
 **Iqbal:** What I might want YB's opinion on — if YB were in PMX's position now, he's already delayed this issue for 3 years running. And if he takes action now, people are already dissatisfied with the current situation. Whether he takes action or not, people will be even angrier. So either way, people are already angry. Why would he bother doing anything about this at all?
 
-**Rafizi:** Water under the bridge.
+**Haziq:** Water under the bridge.
 
 **Iqbal:** Why would he do anything differently at this point?
 

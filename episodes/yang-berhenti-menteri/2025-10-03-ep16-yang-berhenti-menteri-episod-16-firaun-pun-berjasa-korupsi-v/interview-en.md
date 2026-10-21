@@ -70,7 +70,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Interesting. Yeah, this is very real. This is exactly the kind of genuine quality content we should be showing on this podcast.
 
-**Haziq:** Right. And look at him — he's even throwing up a peace sign, he's so happy.
+**Rafizi:** Right. And look at him — he's even throwing up a peace sign, he's so happy.
 
 **Rafizi:** Which means what? He's never going to get a licence, ever.
 
@@ -236,7 +236,7 @@ That's why we see, in terms of civil airplane companies, that's why there's only
 
 **Haziq:** Okay, good YB. Clear.
 
-**Rafizi:** And we have another question. From Afiq Ikwan. What is Afiq Ikwan asking?
+**Haziq:** And we have another question. From Afiq Ikwan. What is Afiq Ikwan asking?
 
 **Haziq:** Many politicians now double hat as influencers. What — is that true? Is this a jab at me or what? Who is this Afiq? What is YB's principle to differentiate substantive policy communication from view-hunting content? How does YB evaluate the ROI of time or resources going to the ground, making policy, recording content, and what is YB's red line? Sponsorship versus factual accuracy, ethics of using officers or data privacy?
 
@@ -270,7 +270,7 @@ That's why we see, in terms of civil airplane companies, that's why there's only
 
 **Rafizi:** Performance wasn't good just now. Towards the end it slipped a lot, right? Yes.
 
-**Multiple speakers:** The early part was good.
+**Rafizi:** The early part was good.
 
 **Rafizi:** But it's fine, there is next week, there is room. Yes. Okay. Next week we will zero what name. Oh, that is a brave statement.
 

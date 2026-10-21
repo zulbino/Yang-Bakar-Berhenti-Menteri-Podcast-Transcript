@@ -7242,3 +7242,15 @@ DeepSeek's own API would test the model itself.
 - **No non-speech tags** (owner, 2026-10-21): the `[laughter]` plan is withdrawn; the transcript
   is spoken words only. A test with AST (AudioSet "Laughter") on ep68 had scored at most 0.10 in
   any window, so it was not usable anyway; the script was removed.
+
+### 2.37: Interview files take raw.md's new labels without a rewrite (owner, 2026-10-21)
+
+- A full rewrite of the 71 relabelled episodes would cost about 5,000 Haiku checks. `transfer_labels.py`
+  instead matches each interview.md turn to raw.md's words and gives it the label holding at least 70%
+  of its matched words; interview-en.md and interview-ms.md follow by aligning their label sequences.
+- Written: 1,066 of 16,260 turns relabelled in all three files (3,153 lines; the text is identical once
+  the labels are removed). Left alone: 1,109 turns whose words split between two speakers, 1,043 with
+  fewer than 3 matched words, and 43 placements a translation's extra or merged turn prevents.
+- Quality, measured by `gate_rewrite.attribution_agreement` (an independent matcher): mean 83.6% ->
+  84.9% over 75 episodes; 4 episodes dropped by under 1.1 points (about one turn each). The owner's
+  ep33 rulings ("Kena scam ramai-ramai", "Sebelum kita ke scandal") now hold in the interview files.

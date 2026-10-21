@@ -122,9 +122,9 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Farhan (Pa'an):** Siapa Shahrir Islam? Ya lah dia lah.
 
-**Rafizi:** Orang yang meroyan lah.
+**Haziq:** Orang yang meroyan lah.
 
-**Haziq:** Dia famous ke?
+**Farhan (Pa'an):** Dia famous ke?
 
 **Rafizi:** Tak tahu. Kenapa? Nampak views tinggi — itulah, 22,000. Kita juga yang bodoh buat podcast. Sepatutnya kita meroyan dekat lapangan terbang, dalam kereta balik Terengganu — kita meroyan macam tu kan, baru dapat. Dia sebenarnya, ya lah, ini aku jadi serba salah lah. Tambah kalau contohnya dia nak pergi ke luar negara, tambah kalau dia ada penerbangan bersambung semua kan, ataupun dia memang dah nak ambil Airbnb, kalau terlambat delay dia bayar saja satu hari kan. Jadi faham lah kemarahan tu, sebab saya rasa kita semua pernah melalui zaman ni kan. Kalau Air Asia ke Sabah ni kan — kalau penerbangan malam, pukul 8 malam tu, bersedialah engkau naik pukul 8 pagi esok. Dan memang kena tidur dekat lapangan terbang semua kan. Berapa kali dah — YB ada pengalaman lah, aku sahaja tu 3 4 kali tau kan. Dan Air Asia ni memang tebal muka dengan selambanya kan.
 
@@ -266,11 +266,11 @@ Jadi saya ingat untuk kita memahami soal tersirat ini — kerana tersirat ini ak
 
 **Rafizi:** Itu lama mana? Jadi sekarang dah berapa?
 
-**Farhan (Pa'an):** 5 ringgit lah.
+**Haziq:** 5 ringgit lah.
 
 **Rafizi:** 45 ringgit kot?
 
-**Farhan (Pa'an):** 5 ringgit, 5 ringgit.
+**Haziq:** 5 ringgit, 5 ringgit.
 
 **Rafizi:** 5 ringgit satu kotak. Rokok biasa tu 18 kot?
 
@@ -278,7 +278,7 @@ Jadi saya ingat untuk kita memahami soal tersirat ini — kerana tersirat ini ak
 
 **Rafizi:** 18, 19 kan — 3, 4 kali ganda lebih mahal. Kenapa? Sebab John ini ialah rokok yang diseludup. Dia tak bayar apa-apa, semua diseludup. Jadi dari situlah aku faham, aku mula tahu kenapa rokok kau orang ni murah semua — diorang gelak-gelak, "ini rokok seludup."
 
-**Farhan (Pa'an):** Rokok seludup. Okey.
+**Rafizi:** Rokok seludup. Okey.
 
 **Rafizi:** Yang peliknya, sepatutnya rokok seludup ni, barang seludup ni payah nak dapat kan?
 
@@ -302,7 +302,7 @@ Jadi saya ingat untuk kita memahami soal tersirat ini — kerana tersirat ini ak
 
 **Rafizi:** Kalau kita tengok Godfather ke, kalau tengok kat US semua — cara cuci duit haram macam mana?
 
-**Farhan (Pa'an):** Buka laundromat. Kat kedai.
+**Rafizi:** Buka laundromat. Kat kedai.
 
 **Rafizi:** Ha, ya lah, buka kedai, tapi ada jenis-jenis kedai — selalunya kedai makan.
 
@@ -360,7 +360,7 @@ Ha, dan kongsi gelap ni mungkin dilihat lebih mudah. Sebab apa? Kalau cara dulu 
 
 Okey, ini kerana saya dah tengok bukti tu, dan ia menakutkan. Jadi saham yang dipegang di dalam satu syarikat itu, ia bermula dengan arahan daripada PDRM, bahagian AMLA, supaya akaun CDS — CDS ni macam kita dah terangkan minggu lepas, maksudnya akaun bank, akaun saham kan — akaun itu dibekukan di bawah siasatan AMLA. Jadi alamak, dan tak boleh buat apa-apa, saya tuan punyanya — sama ada Tan Sri Khairul Adib ataupun Tan Sri Abu Hanifah ni — dia tak boleh nak... Abu Hanifah atau Abu Hanafiah? Hanifah eh? Hanifah. Eh, saya pun kadang-kadang makin tua, saya dah lupa, banyak sangat nak kena ingat. Abu Hanifah ke Abu Hanafiah? Saya rasa Abu Hanifah, Datuk Abu Hanifah.
 
-**Haziq:** Datuk Abu Hanifah kan?
+**Rafizi:** Datuk Abu Hanifah kan?
 
 **Rafizi:** Datuk Abu Hanifah. Datuk Abu Hanifah. Jadi dua-dua kena beku. Kemudian ada arahan daripada pihak berkuasa, daripada PDRM, tanpa pengetahuan tuan punya saham ni, kepada broker, stock broker yang memegangnya, suruh transfer saham daripada satu syarikat ke satu syarikat yang lain. Tanpa pengetahuan dan persetujuan. Okey, tapi sebelum itu, mari kita fahami dulu persetujuan itu — jadi anda bayangkan anda ada akaun bank, duit anda ada 10 ribu, anda tak tahu apa-apa, pihak berkuasa sebenarnya mengarahkan bank itu untuk memindahkan duit tu ke akaun lain. Menakutkan kan? Ia menakutkan, tahu. Dan jumlah yang terlibat itu 60 juta dipindahkan. Kemudian barulah, yang ini didakwa — tuan punya tu didakwa dipaksa untuk menandatangani mengatakan bahawa saya bersetuju untuk memindahkan saham saya. Dan saya dah tengok bukti-bukti yang itu.
 
@@ -428,7 +428,7 @@ Sebab itu saya tertanya-tanya, kalaulah perkara ini diambil tindakan lebih awal 
 
 **Rafizi:** Kalau nak tanya saya, kalau nak kata kerajaan perlu menentukan naratif masyarakat itu pun saya tidak selesa sangat. Sebenarnya, masyarakat itu — kalau boleh, kerajaan jangan campur tangan sangat dalam soal keharmonian masyarakat. Jadi tugas kerajaan sama seperti ibu bapa — itulah cara saya melihat kerajaan. Sebagai ibu bapa, mengapa kita jadi ibu bapa? Saya tidak mahu mendikte dan mengawal apa yang anak saya fikirkan, apa yang anak saya nak buat. Tugas saya ialah mendidik dia supaya dia ada nilai yang baik, supaya dia tahu batasnya, supaya dia tahu kekuatannya, kekurangannya, dia tahu dosa pahala semua, dan dia dapat pendidikan potensi yang baik. Kemudian setiap keputusan itu dia kena buat sendiri. Dan oleh kerana kita sudah buat yang terbaik untuk mendidik dia semua dan kita yakin bahawa apa pun keputusan dia itu adalah satu proses pembelajaran untuknya — ada keputusan yang dia buat kita tidak setuju, tetapi kita yakin bahawa hasil daripada pengalaman dan mungkin kegagalannya, dia jadi insan yang lebih baik. Ada yang kita setuju. Jadi itu bagi saya petua saya menjadi ibu bapa. Sebenarnya menjadi kerajaan pun tidak banyak beza daripada itu. Saya tidak setuju kalau kerajaan nak mengawal naratif dan nak mengawal pemikiran rakyat. Saya tidak setuju. Tetapi tanggungjawab kerajaan ialah mendidik. Dan perkara itu bermula daripada pendidikan, dan perkara itu juga bermula daripada teladan kepimpinan kita sebagai orang politik dan orang kerajaan — berlaku adil kepada semua, tidak pilih kasih. Tanggungjawab kerajaan ialah menyediakan garis-garis undang-undang — kalau langgar itu, begini, untuk melindungi semua orang. Tanggungjawab kerajaan ialah kalau ada perbalahan, campur tangan dan padamkan terus. Dan apabila semua ini sudah ada dalam masyarakat kita, maka ia seperti pengalaman anak. Ada keputusan sebahagian daripada masyarakat itu yang kita tidak setuju, tetapi itu hak mereka untuk berasa sedemikian. Kita tidak boleh kata majoriti kata saya tidak suka maka saya pukul kamu semua — tidak boleh. Tetapi bila ada garis yang baik, bila ada proses undang-undang yang sekata dan berfungsi, bila kepimpinan politik itu memberi teladan yang baik, maka keseimbangan dalam masyarakat itu akan berjalan dengan baik. Itu yang kita tidak ada sekarang. Jadi kita tidak ada langsung keseimbangan itu. Sebab itu orang nak suruh, oh kerajaan kena campur tangan, oh kerajaan kena tetapkan naratif. Mulalah semua influencer — apa beza influencer itu dengan yang ada sekarang? Influencer ini semua bila dia dapat rasa pengaruhnya, dia mula nak menunjuk-nunjuk. Tetapi keadaannya sekarang ialah — kalau kita tengok semuanya, maksudnya yang belum dibuat lagi ialah konsensus politik parti-parti dan juga pimpinan kanan. Belum ada lagi Anwar Ibrahim dengan Samsuri yang kata "okey, kita berbeza pandangan begini-begini, tetapi dalam isu ini tidak boleh." Dan bila itu berlaku, panggillah sekali Saravanan atau Ramanan, panggil semua. Sama juga panggillah semua ulama atau apa. Mereka bergaduh berhabis-habisan, selagi mereka tidak mencapai persetujuan bahawa kita boleh ada perbezaan pandangan tentang semua ini, tetapi jangan bermain dengan api perkauman. Mengapa mereka tidak buat begitu? Adakah mereka yang mendapat keuntungan daripada—
 
-**Haziq:** Saya tidak rasa begitu.
+**Rafizi:** Saya tidak rasa begitu.
 
 **Rafizi:** Saya tidak rasa begitu — maksud saya orang politik yang betul-betul merasakan mereka mendapat keuntungan, adalah yang jahat-jahat begitu, itu terlalu simplistik. Tetapi sebenarnya perkara ini rumit. Soal kuil ini rumit, tidak selesai-selesai sejak dahulu. Jadi malas. Dan kadang-kadang bila orang datang — kalau pimpinan kuil atau aktivis kuil datang, senarai mereka 70. Dan bila kerajaan tengok senarai 70, 80 itu, mereka akan rasa ini terlampau banyak, kalau kita buat semua ini orang lain akan marah. Tetapi itu tidak bermakna bahawa oleh kerana yang diminta ada pandangan yang rasa ini mungkin sukar untuk dilaksanakan, itu tidak bermakna langsung tidak dibuat. Itu tidak bermakna langsung tidak melibatkan diri. Proses itu mesti bermula. Tetapi saya rasa oleh kerana proses itu rumit, mereka rasa alamak susah. Akhirnya perkara itu berlarutan, berlarutan, berlarutan, ia jadi seperti sekarang — kalah-kalah. Kita semua rugi, kalah-kalah. Tidak ada orang yang untung daripada ini. Yang mungkin untung, yang jadi selebriti ialah mereka yang ditangkap ini. Itu saja.
 

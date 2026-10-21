@@ -65,7 +65,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Dia kena pastikan pre-booking.
 
-**Farhan (Pa'an):** Ya kan so. Tak boleh walk-in.
+**Haziq:** Ya kan so. Tak boleh walk-in.
 
 **Rafizi:** I think there's a, jangan walk-in. Yalah, bila you operate restaurant yang ada seating capacity berapa? 240 kan? Maksudnya, semua benda-benda yang berisiko biasa kepada restoran yang jauh lagi kecil, risiko tu dia akan amplify sampai 10, 20 kalilah. Jadi risiko, satu risiko parking. Satu risiko wastage. Sebab kalau you tersalah kalau bagi walk-in kan, kalau hari tu orang sikit, esok orang banyak kan. Jadi nak manage inventory and nak manage raw materials tu agak mencabar. Jadi I think so far nampak Khairul Amin dah take a lot of things into account lah. Cuma dia bila orang beria macam ni kan, dia ada a lot of good sides, tapi dia ada juga risiko lah kerana sama ada minat itu kekal masa peringkat awal masa viral, whether you can sustain it. Jadi at the end of the day, it's all about the product. It's actually the total value offering — product, dengan kena pada pricing ke tidaklah kan. Tapi I think awal-awal ni untuk beberapa bulan pertama, orang jalan kaki daripada KLCC pun dia pergi sebab memang dah jadi budaya kita kan. Dia nak pergi merasa macam mana and ambil gambar.
 
@@ -93,11 +93,11 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Beria dia mempertahankan. Tapi saya tak tahu siapa sebenarnya yang menasihati, ataupun sebagai penasihat strategi komunikasi kepada Kamil Munim ni. Satunya ialah bila Utusan Malaysia buat interview — interview 2 muka surat kan, 2 lembaran.
 
-**Farhan (Pa'an):** Lebaran hari raya. Saya test.
+**Rafizi:** Lebaran hari raya. Saya test.
 
 **Rafizi:** So kalau dah 2 lembaran muka surat surat khabar tu, besar kemungkinan bukan Utusan pandai-pandai lah. Maksudnya itu adalah satu strategi komunikasi daripada Kamil untuk terangkan. Tapi sebenarnya ini isu yang tak boleh menang dengan rakyat. Isu surat sokongan ini, terang lah kot macam mana pun, beritahu dia ikut proses kan. Walaupun beria-ia menerangkan, ia sesuatu yang rakyat memang dah buat keputusan, kan.
 
-**Farhan (Pa'an):** Maksudnya rakyat biasa.
+**Rafizi:** Maksudnya rakyat biasa.
 
 **Rafizi:** Kita kena ingat rakyat biasa tau.
 
@@ -105,11 +105,11 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Saya nak masuk tender. Itu pun masalah orang politik tau sebab dia tak pernah melalui proses tender tu. Dia dekat atas, dia bagi arahan, kau dicampur tangan kan, nak masuk tender kan. This very idea that no matter how good I am, tapi ada orang lain boleh ada express lane. Express lane ni orang tak suka. Kalau dekat supermarket pun kita beratur susah payah, dia orang pergi potong — memang orang marah. Jadi surat sokongan ini sebenarnya adalah perkara yang sama dalam proses tender lah. Orang lain ikut proses semua, kamu pergi potong kan. Jadi terang macam mana pun surat sokongan, dia memang tidak akan berjaya mengubah persepsi rakyat lah. Jadi cuba lagi di masa akan datang.
 
-**Farhan (Pa'an):** Baik, YB. Good luck. Kita tengok.
+**Haziq:** Baik, YB. Good luck. Kita tengok.
 
 **Rafizi:** Kalau dia nak datang podcast ni terangkan pun, alu-alukanlah.
 
-**Farhan (Pa'an):** Boleh? Berapa charge YB?
+**Haziq:** Boleh? Berapa charge YB?
 
 **Rafizi:** Ha, tapi kita charge lah. Dua muka surat Utusan Malaysia charge dia berapa?
 
@@ -147,7 +147,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Itu semua yang terlibat ke? Kenapa Timbalan Menteri Agama tak ada kat situ korang?
 
-**Haziq:** Gambar dia satu je, which is a dekat depan.
+**Farhan (Pa'an):** Gambar dia satu je, which is a dekat depan.
 
 **Farhan (Pa'an):** I think dekat parlimen masa dia swear in as senator.
 
@@ -341,7 +341,7 @@ Jadi apa cabaran yang perlu ditangani terutamanya oleh PKR lah? Soalan ini belum
 
 **Rafizi:** Good luck to you lah, not my problem. Well kalau dah kalah kan, maksudnya kenapa pula kau rasa generasi engkau — you cannot speak on behalf of your generation. Engkau je yang fikir macam tu. Orang lain yang muda-muda semua, I guess we will have to go through satu lagi cycle.
 
-**Farhan (Pa'an):** Ya, nak menunggu cycle.
+**Haziq:** Ya, nak menunggu cycle.
 
 **Rafizi:** Wah, definitely, I think it will take a lot more than one or two cycles lah. Ha kan. Jadi sebab itu, awal-awal kita selalu bincang, yang dalam dunia ini kan, sejarahnya ialah parti-parti yang naik atas dasar reformasi dan berjaya menjadi kerajaan — tak banyak yang berjaya tau. Lepas satu penggal kalah dan tak pernah kembali dah lepas tu. Jadi itulah kebimbangan utama kita lah. Sebab itu I'm concerned about the future. Kalau orang kata, "ah kamu ni ideal sangatlah, kamu ni semua kan" — well, is idealism the only weapon that we have to secure the future untuk progressive multiracial politik di dalam negara ini? Kerana Malaysia akan terus menjadi negara yang populasi majoritinya beralih kepada bumiputera Melayu daripada satu dekad ke satu dekad. Jadi kalau contohnya pengalaman yang ada dengan PH ni, pengundi biasa, your generation rasa pahit — it was such a letdown. Mereka kata gitu, gitu, gini, tapi eh sama je. Then what's the point? Bila "what's the point" itu, maka yang akan jadi dominan ialah parti-parti sayap kanan mungkin, parti-parti yang perkauman di masa akan datang kan. Jadi sebab itu soal bila kita kritik, bila kita menegur, dia tak ada kena-mengena dengan jawatan ke, menteri ke apa semua ni. I've said so many times sebenarnya, kalau kita tak korup, sebenarnya tak berbaloi jadi menteri ni — gaji sikit, lepas tu kena baik. Kita jadi CEO syarikat besar, CEO GLC pun dapat 200, 300 ribu sebulan. Buat apa jadi menteri gaji 35 ribu, lepas tu kena bagi segala jenis benda lah — kucing sangkut kat pokok pun orang call kau, kan? Jadi tak berbaloi. The only reason there's a meaning to that job ialah kalau we can contribute to make sure that political contestation di Malaysia ini kekal kompetitif demi masa akan datang. And that is what is at stake now bila orang kata idealism versus pragmatism ni, kerana pragmatism — seperti yang ramai orang rasa kerajaan yang ada sekarang inilah, walaupun kerajaan PH kan — kerana terlalu nak jadi pragmatik, the only conclusion yang pengundi akan buat ialah "actually kau orang ni sama saja." Idealism itu yang sangat penting untuk membezakan parti-parti yang ada, dalam keadaan pengundi rasa kau orang ni semua sama saja.
 
@@ -371,7 +371,7 @@ Jadi apa cabaran yang perlu ditangani terutamanya oleh PKR lah? Soalan ini belum
 
 **Rafizi:** I have a personal interest in it. Absorbable maksudnya, bukan ke bahaya nanti stent tu hilang? So over time dia akan hilang?
 
-**Farhan (Pa'an):** Dia akan hilang.
+**Haziq:** Dia akan hilang.
 
 **Rafizi:** So bukankah lagi bahaya untuk jantung aku? The whole idea of having a stent —
 
@@ -401,7 +401,7 @@ Jadi apa cabaran yang perlu ditangani terutamanya oleh PKR lah? Soalan ini belum
 
 **Rafizi:** Kenapa dia panggil Junior Nobel?
 
-**Haziq:** Sebab hanya untuk undergraduate student only.
+**Farhan (Pa'an):** Sebab hanya untuk undergraduate student only.
 
 **Rafizi:** Yalah, but is it given by Alfred Nobel Foundation?
 
@@ -435,7 +435,7 @@ Jadi apa cabaran yang perlu ditangani terutamanya oleh PKR lah? Soalan ini belum
 
 **Haziq:** Kita ke segmen seterusnya, segmen terakhir, YB. Banyak tanya, walaupun banyak, tapi mungkin — kita ada berapa minit lagi ni?
 
-**Rafizi:** Kita dah 2 jam 22 minit.
+**Haziq:** Kita dah 2 jam 22 minit.
 
 **Haziq:** Okey, dalam 8 minit. Okey, alright, baik. Soalan pertama, Chong Wejin: YB, statistik tunjuk ramai kerja sendiri dah mencarum Perkeso, tapi sektor seni cuma sikit sangat. Sebagai orang yang banyak kerja dengan kreatif dan media, apa model perlindungan sosial yang realistik untuk musician, pelakon, kru produksi yang income turun naik macam yoyo ni?
 

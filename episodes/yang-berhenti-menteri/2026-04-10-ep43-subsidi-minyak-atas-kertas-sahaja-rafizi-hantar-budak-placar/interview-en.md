@@ -164,7 +164,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Right, meaning in 1990, our production was 615,000 barrels a day. Then it increased, kept increasing — 30, 31,000, 32,000 — this is in KTOE — meaning from that 615,000 barrels a day it kept rising through the 90s. Then it kept climbing, 35,000 in 1998. Then it started to dip slightly — 99, 2000, 2001, 2002, it dropped to around 30 to 32,000 KTOE, that's fine. It peaked in 2004 — let's calculate, 38,041 KTOE times 7,333, divide, right?
 
-**Haziq:** Can't your calculator work? Not as good as an expensive one.
+**Rafizi:** Can't your calculator work? Not as good as an expensive one.
 
 **Rafizi:** That's just dividing by 365 — 764,000. So it peaked at 764,000 barrels a day in 2004. And it stayed around that level until 2008 — around 2008 it was also about 700,000 barrels a day. And then it started declining — eh, that has a certain connotation, you know, because that was actually the era of 2005, 2006, 2007, 2008, which is why people keep replaying that video clip of Dato' Seri Anwar — I'll repeat it — "win today, oil prices will drop tomorrow," the one people show from a debate or discussion between Dato' Seri Anwar and Dato' Sri Ismail Sabri — no wait, Shabery Cheek. Remember, in 2008 our production was, let's calculate, 34,195 times 7,333, divide by 365 — 686. And at that time our production actually exceeded our petrol and diesel consumption. I recall at that time petrol and diesel consumption was under 400,000 barrels a day — there was a large buffer, right, 400,000 barrels a day, in fact lower, just over 300,000 barrels a day at that time. So it's almost double — our 2008 production was almost double the consumption at that time. But starting from 2010, it began to decline. Take 2011 — 28,325 KTOE times 7,333, divide by 365 — 569. In 2011 it had already dropped to 569,000 barrels a day. By 2021, not long after, it was down to 25,389 —
 
@@ -300,7 +300,7 @@ So I don't understand why Hisham Jalil talks as if he's smarter than the Prime M
 
 **Rafizi:** That's not episode 3, that's episode 2. Not episode 3.
 
-**Haziq:** Empire Strikes Back.
+**Rafizi:** Empire Strikes Back.
 
 **Rafizi:** Okay, back to it.
 
@@ -348,9 +348,9 @@ So eventually I'm sure more and more people, when they connect the dot, connect 
 
 **Haziq:** If we could move on to the specific accusation against YB, related to the invoice shown by Datuk Seri.
 
-**Rafizi:** Sheikh Muhyiddin Yassin. This is it.
+**Haziq:** Sheikh Muhyiddin Yassin. This is it.
 
-**Haziq:** That's what he showed.
+**Rafizi:** That's what he showed.
 
 **Rafizi:** That's what I asked — one, surely when someone gives a bribe, they don't give an invoice. Second, what does this invoice have to do with me? This invoice is addressed to someone else, to a different company, so what's the connection? Oh, but he's supposedly close with you? I swear before Allah, I want to say tonight, everyone watching this — I swear before Allah, I have never met and don't even know the existence of the person named. I have never met anyone.
 
@@ -462,9 +462,9 @@ I think my family, my wife, has been through all this already. So we don't discu
 
 **Farhan (Pa'an):** No, this is a promo for Yang Berhenti Menteri [Honourable Ex-Minister]. Beauty is in the eyes of the beholder.
 
-**Rafizi:** Okay. Okay, good, YB.
+**Haziq:** Okay. Okay, good, YB.
 
-**Haziq:** 2 hours 45 minutes of productivity.
+**Rafizi:** 2 hours 45 minutes of productivity.
 
 **Rafizi:** Not quite. I'm really scared that hitting 3 hours will get us scolded. Okay, that's what I'm afraid of, YB. So let's meet next week. Next week, remember, the Papa Gomo story. Papa Gomo.
 

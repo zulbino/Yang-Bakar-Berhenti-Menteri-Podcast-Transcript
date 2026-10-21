@@ -107,9 +107,9 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Fair, fair to all. So far UMNO's had a turn, PKR's had a turn, now PAS.
 
-**Haziq:** You all say.
+**Rafizi:** You all say.
 
-**Rafizi:** Hadi, Jasin MP, and Harakah have repented.
+**Haziq:** Hadi, Jasin MP, and Harakah have repented.
 
 **Haziq:** Have repented. This is because he was sued, but midway through he settled amicably, apologized and only paid costs of RM15,000. Never mind, he's a rich minister.
 
@@ -189,9 +189,9 @@ I also hope PAS won't start calculating "after this we'll be rich, we've got 40 
 
 **Rafizi:** Billboards like this, near election campaign time, maybe could be considered, because that's a campaign period. But if it's like this every single day going to work, honestly it stresses me out.
 
-**Haziq:** This is their early strategy, YB. And then I just noticed it has the Jata Negara logo along with Malaysia Madani.
+**Farhan (Pa'an):** This is their early strategy, YB. And then I just noticed it has the Jata Negara logo along with Malaysia Madani.
 
-**Farhan (Pa'an):** Yeah, this agency is under it.
+**Haziq:** Yeah, this agency is under it.
 
 **Rafizi:** Meaning it's paid for by an agency. Ha, an agency under Cosuma. Oh my God, poor exhausted Cosuma. The other day it was hampers — distributing food boxes. Now billboards. Anwar, please, call them, don't waste the country's people's money like this. This is real, look, up there — black.
 
@@ -221,7 +221,7 @@ So that's why for me, whether it fizzles out or not isn't important. What matter
 
 **Rafizi:** No, I mean I subscribe to some of the views, that big capitalist companies victimize by buying cheap from poor countries, selling expensive, then corporate greed and all that. And another thing, because I was addicted to demos, you know. Never mind, there's always tomorrow. Even in London back then, the biggest demos were usually related to Palestine and also anti-war. Demos in London were great, you know — you'd walk through all of London, they'd close the roads. Usually starting from Trafalgar Square, right at the center. Trafalgar Square is only about one kilometer from Number 10 Downing Street, you know. So from Trafalgar Square with speeches, then you'd march around all the way to Hyde Park. It was really great. Without a protest, how could you — it's like a festival, you know. So, but even then, to answer what Pa'an said about us not having that culture — protest culture really does exist in Western countries. The British, from the 60s, anti-nuclear, France, it's always there. They have strike culture, protest culture. Even then, the biggest protests are 5,000, 10,000. So, even more so now with the social media era and everything, I don't think we need to take seriously the sniping attacks like "oh this fizzled out," "this and that." But I think, as I said, focus on one message. Second, focus on the impact. And today, yesterday actually, the Yang Dipertuan Agong issued a statement. So that means within 2-3 months from the first arrest-Azam-Baki demo — when was that? Third week of February, Chinese New Year, close to Chinese New Year, we took the Chinese New Year weekend, Chinese people went back home so weren't around. So if you think within a 2-month period, the impact is that the Azam Baki issue refused to go away. Imagine, if these kids hadn't pushed hard on arresting Azam Baki, there would have been no first demo, and with all the political parties — PH, BN, PN — staying silent as if nothing happened, the issue would have died down quietly and Azam Baki would have been reappointed for a fourth term. But even though people want to say it "fizzled out," it means the contribution of these young activists has already had an impact because this Azam Baki issue refused to go away until it became a major national issue, until Dato' Seri Anwar became defensive. And if we read and digest the Yang Dipertuan Agong's statement yesterday — yes, yes, yes — based on the reports, it means Tan Sri Azam Baki will not be reappointed. So doesn't that mean a big impact has already been achieved? Even if not 100,000 people show up tomorrow, part of that goal has already been accomplished. And I think that's kudos to the organizers. And it became a major, prolonged issue not because of the demo before Chinese New Year, not because of this demo — but because of the public's continued interest in following the issue on social media, and it kept going. So let's see tomorrow. Tomorrow let's pray as many people as possible show up. Like I said, treat it as an open house, Raya-style. Come, bring almond mafia and all that — what was that other kuih you mentioned? Almond mafia, no kuih karpet. The other day plenty of people gave suggestions for names related to corporate mafia. But never mind, so come tomorrow.
 
-**Haziq:** Do we have to wear Baju Melayu?
+**Farhan (Pa'an):** Do we have to wear Baju Melayu?
 
 **Rafizi:** No, I'm just joking. Some people asked what to wear, wear whatever you like as long as you wear something. Because this isn't like Bersih before — this Bersih-style event isn't officially organized by Bersih, this one is organized by the Sekretariat Tangkap Azam Baki (Arrest Azam Baki Secretariat). I used to wear black to answer that nonsense from Shahir — actually, if you look, as much as possible I always wear dark clothes, black clothes. At home I have dozens, all black. Because black clothes don't show the potbelly as much, that's really it. Black clothes, dark things, they don't show that we're too fat. But anyway, just wear whatever.
 
@@ -275,7 +275,7 @@ Now the government says this violates the constitution, because the constitution
 
 **Rafizi:** So this ageing topic — I should always be talking about it because I can feel myself getting old. Even my eyes don't see well anymore, I need glasses. But it's just short-sightedness up close, right?
 
-**Haziq:** Presbyopia.
+**Rafizi:** Presbyopia.
 
 **Rafizi:** But people say when you hit your late 40s, early 50s, you really do get presbyopia.
 
@@ -331,7 +331,7 @@ Okay, so that's our population profile, and it's not far off — it peaks in 203
 
 **Rafizi:** Okay, before we get to that. So, hopefully by now, since we've talked at length, I hope the public can appreciate why I keep making noise and perhaps I'm the only one who keeps talking about an aging nation, an aging nation, an aging nation. Because this problem is a generational problem and a huge national problem, but we pay no attention to it at all. But we also can't tell the public this — it's not their job — it's not the public's daily responsibility to think about what will happen in 20, 30 years. That's the responsibility of leaders and the responsibility of the government and the opposition. But the opposition isn't being responsible either.
 
-**Haziq:** That's the problem.
+**Rafizi:** That's the problem.
 
 **Rafizi:** Just tell people to withdraw their EPF. This is what we're trying to share and provide clarity to the public about. If you look at why I'm consistent on several matters — for example, not agreeing to short-term Panadol-style measures, withdrawing EPF to make life easier now, or not wanting to be popular by promising low fuel prices forever — it's because we have this asteroid coming. Now the bigger issue is this. Say everyone accepts it, everyone agrees — the government, all politicians agree — this is a generational problem we need to address now. It's like, have you ever watched 2012?
 

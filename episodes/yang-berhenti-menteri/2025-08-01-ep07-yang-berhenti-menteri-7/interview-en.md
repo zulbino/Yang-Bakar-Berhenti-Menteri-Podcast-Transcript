@@ -77,7 +77,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Never thought about it, right? Just now it occurred to me — hey, why can't my YouTube monetize?
 
-**Daniel:** People watching from outside — after this we should slip in some ads, right?
+**Rafizi:** People watching from outside — after this we should slip in some ads, right?
 
 **Rafizi:** After this, regarding Ayuh Malaysia — besides this podcast, going forward every week we'll have documentary-style content, live TV-style content that we'll broadcast on my YouTube channel and also on Ayuh Malaysia's YouTube channel. So please subscribe to both, and please help watch. Because when we monetize, the money doesn't come to me — it will be used as part of a fund to help people at the grassroots trying to build social enterprises. He mentioned monetization earlier, because I hadn't thought about how to pay for it.
 
@@ -85,7 +85,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Not on Facebook either, not that either.
 
-**Daniel:** Facebook also has it? It does.
+**Rafizi:** Facebook also has it? It does.
 
 **Rafizi:** Double. Okay, this is a lot of money. This is a lot of money, big money, big money. I need to check all this again later.
 
@@ -99,7 +99,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Don't just ask me, ask Daniel. You can, but he needs to start first. Because last week, like last week when Zaim came — Zaim's a kid, he really wanted to stir things up, so he had a lot more questions, and I got bored talking so much myself. So today Daniel came all the way from Sarawak, we should really both be asking him questions.
 
-**Haziq:** I'm scared, I don't have anything prepared.
+**Daniel:** I'm scared, I don't have anything prepared.
 
 **Daniel:** Okay, go ahead. You didn't bring layer cake, didn't bring a machine, didn't bring pressed terubuk fish, right?
 
@@ -145,7 +145,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** So that progressive voice — whether PKR exists or not — that voice will always be there. Since the 1950s, that progressive group has always existed. But for the past 20 years, PKR has been the representative of that progressive voice.
 
-**Daniel:** If, as people say, PKR's substance — its character, its image, its whole identity — has drifted far from progressive.
+**Rafizi:** If, as people say, PKR's substance — its character, its image, its whole identity — has drifted far from progressive.
 
 **Rafizi:** Then the progressive voters who used to vote PKR will go looking for something new. That's what I remember people like me, Daniel, us older folks, always preach — because right now we can say let's rally around Dato' Seri Anwar Ibrahim for another two or three years. But after that, when he's no longer around, when Dato' Seri Anwar is gone—
 
@@ -155,7 +155,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Haziq:** Alright. YB mentioned pragmatic politics earlier. What I mean is — no wait, that's not pragmatic. Pragmatic politics is drilling through the roof — you need to go back to class on this one.
 
-**Rafizi:** No, no, that's not what I meant.
+**Haziq:** No, no, that's not what I meant.
 
 **Haziq:** What I mean is, there are people who give excuses — proponents of these practices give justifications. Including something I want to link to the first question earlier. For example, the Farhash Wafa issue — yes, they say there has to be a Farhash, because if not, what's his role? Who's going to replace Tun Mahathir's cronies? With pride, that's the excuse given. And secondly, on government formation — Rafizi himself opposed the "big tent" concept, but after the hung parliament, he ended up endorsing the unity government. So how does that work? I'm asking you. There are two questions.
 
@@ -189,7 +189,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Daniel:** Facebook too.
 
-**Haziq:** Let me follow up with one more question, YB.
+**Daniel:** Let me follow up with one more question, YB.
 
 **Daniel:** A question, though it might not sound like one. It's like this — what's happening with YB today, when Nurul Izzah became deputy president and Dato' Seri Anwar Ibrahim — well, everyone knows he's her father, our president. So on this issue, I see one or two things. First, when we go into the election, if this issue is exploited well, the opposition can identify our weakness. I don't want there to be a record in Malaysian political history — a Prime Minister who, when he dissolves parliament, and stands for election, should not lose. Suddenly — and this worries me most — Dato' Seri Anwar Ibrahim loses in the election. This might be an issue outside the box for them, and maybe for the Malaysian public. So don't let people say the Prime Minister candidate lost — this could happen. Don't, don't, don't let PKR laugh at me or the party laugh at me. And Izzah herself might lose too. What then?
 
@@ -213,9 +213,9 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Daniel:** Okay. What about YB's partner there, Datuk Seri Shamsul Iskandar?
 
-**Rafizi:** I arranged that too.
-
 **Daniel:** I arranged that too.
+
+**Rafizi:** I arranged that too.
 
 **Rafizi:** Yes, yes. That's what made him really angry at me. Because at that time he lost in Hang Tuah Jaya. And the branch chief along with all its branches were really against him at that time. Then he also has a record that nearly sank the party in the Melaka state election — because I was informed, the major force that engineered it, until the point Datuk Seri Idris Harun jumped parties and the state was dissolved. I was informed he had ambitions, he thought he had a chance to become Melaka's Chief Minister. That's why he contested in Paya Rumput, even though he had nothing to do with Tangga Batu — PKR contested in Tangga Batu in 2018 and won Tangga Batu. Within Tangga Batu there were 3 state seats — at that time PKR and Bersatu won. In Paya Rumput, Bersatu contested and won — Rafiq won. Another one, Klebang, PKR won. Another one, Sungai Udang, I recall UMNO won. So he looked at Paya Rumput and Rafiq's problems within Bersatu, so he engineered it — I was informed he was among the major forces that caused that to happen. When he contested in Paya Rumput, he lost. Melaka's [state election] was less than a year before GE2022. So when fixing candidates, I said his record in Melaka wasn't good, wasn't good at all. If he contested again in Hang Tuah Jaya, given that the branch was rejecting him, plus the wound from the state election where he had a big hand in it to the point of PKR's seat being left vacant — people still remembered him. So it was better for him to go contest elsewhere and become a hero. Meaning, if you want to rebuild your career, you go fight the big one — Bagan Datuk. Even if you lose, at least there's an excuse.
 
@@ -281,7 +281,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Daniel:** Yes, to the point, YB — people are telling YB to start your own party, right? See, that's already reached the level where people want—
 
-**Rafizi:** Okay, continue, continue.
+**Haziq:** Okay, continue, continue.
 
 **Daniel:** —they want a change, right. That's it, that's all. So to move on to something else, I don't want to touch on the party issue anymore, I want to move on to the Sarawak issue.
 
@@ -311,7 +311,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Cobbold, right? Reid was for which Commission?
 
-**Daniel:** I was just testing the young ones.
+**Rafizi:** I was just testing the young ones.
 
 **Haziq:** Land, when it was Malaya was one, the Malaysia Constitution was another.
 
@@ -329,7 +329,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Oh, I went in 2011. The logging road [Jalan Balak]?
 
-**Daniel:** Oh, no, no.
+**Rafizi:** Oh, no, no.
 
 **Rafizi:** The road was slightly better before entering the logging road.
 
@@ -383,7 +383,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** There are 2, 3 who have already submitted, participants from FELDA, FELCRA.
 
-**Daniel:** That's why they say, "my land is under the FELCRA scheme."
+**Rafizi:** That's why they say, "my land is under the FELCRA scheme."
 
 **Rafizi:** "I only get 2, 3 thousand a year. If Ayuh Malaysia can really do this, can I leave the scheme and join?"
 
@@ -391,9 +391,9 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Yes, because so far, this is modern agriculture experience — the experience we've built through IPR Intan, it can genuinely make money. For the one near Putrajaya, every 3 months the highest earners make up to 23,000, meaning over 7,000 a month, just from growing chili. The lowest is around 5,000. Okay, there is an element where the partner has to provide capital and so on — in Sarawak for example, even if it's not 5,000 a month, getting 2,000 a month, even 1,000, would actually be something.
 
-**Daniel:** Even 1,000 is already high there.
+**Rafizi:** Even 1,000 is already high there.
 
-**Rafizi:** People would want it, because if YB really gives the land—
+**Daniel:** People would want it, because if YB really gives the land—
 
 **Daniel:** People there, even if YB just says it verbally, for instance, they'd believe it.
 
@@ -405,13 +405,13 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Daniel:** No, no.
 
-**Rafizi:** YB, sort things out first, 2-3 months is fine, even 6 months is fine.
+**Daniel:** YB, sort things out first, 2-3 months is fine, even 6 months is fine.
 
 **Daniel:** After that I hope this comes to fruition. We've also reached the end here, YB, it's been an hour and 50 minutes. So one really hot question, this is the last one, okay — it doesn't have to be answered, that's fine — it really concerns YB, and YB yourself definitely won't like this question, but I'll ask it anyway. Because comments from those who dislike YB say YB is an egotistical person, arrogant — all these traits actually, they say, are in me — that he doesn't listen to others, that he thinks only he is right and only he knows everything.
 
 **Rafizi:** No, that's one thing. I think I've answered this before, right? Since first joining PKR. Yes, but it's fine, since it keeps coming up repeatedly. I think we need to separate between people calling it "ego" as a personal trait versus, for example, in work. I've been in a position from early on where I had to bear a portion of the leadership burden and also had to do the work. Let's say we're in a group. If everything falls on me, I have to do it. I'm the one who has to think it through. I'm the one who has to go down to the ground level. So when we discuss things, if you have a better idea, by all means go and do it. The problem is, during the discussion, you had no ideas, said nothing, contributed nothing. You sat quietly at the back, right? So when we've already stepped forward, taken the risk, done the work, and there are results, of course if you come along and try to attach yourself, and I say, who are you? It wouldn't be fair to others who actually did the work. Those who accuse me of being egotistical within the party, these cliques — the clique that actually doesn't work, that has never really existed, that likes to flatter, right. The ones who call me egotistical, Daniel, it's because I can't be flattered. First, I really don't like flattery, because to me, sycophancy will kill an organization. Because when we indulge in flattery, people who don't deserve positions will get them. And when unqualified people get positions, eventually the organization — whether it's a party, a company, an association — will be filled with people who are unskilled and incapable. Once that happens, quality drops, and drops further. And what's more dangerous, it will push away good people from among us. Because good people don't like flattery, you know.
 
-**Daniel:** The type who want to actually do all the work, they consider it—
+**Rafizi:** The type who want to actually do all the work, they consider it—
 
 **Rafizi:** —an opportunity for them to do the work, to do the work. If he's right, don't disturb him. If he's wrong, correct him. That's a disciplined organization. So those calling it "ego" — it's actually because they can't flatter their way through.
 
@@ -447,7 +447,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** InsyaAllah. So we'll meet in Mas Gading.
 
-**Daniel:** Okay. Thank you very much, brother Daniel.
+**Haziq:** Okay. Thank you very much, brother Daniel.
 
 **Haziq:** Flying far from Mas Gading. See you again.
 

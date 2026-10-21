@@ -63,7 +63,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Zaim Zulkifli:** So far, the response — some people say, "the one with the balls" to actually debate has really only come from UMNO, Akmal Saleh. There was a slight postponement though because of the issue affecting his father. But until now we're still frustrated and still waiting for Kamil from the party that's supposed to love debating — he still hasn't shown up. He was the one who invited.
 
-**Rafizi:** You haven't even started and you're already coming for them. This is just the opening.
+**Haziq:** You haven't even started and you're already coming for them. This is just the opening.
 
 **Zaim Zulkifli:** So that's the problem.
 
@@ -159,7 +159,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** No — back in your time, I didn't talk like this.
 
-**Haziq:** Maybe there wasn't a platform for it yet back then.
+**Zaim Zulkifli:** Maybe there wasn't a platform for it yet back then.
 
 **Rafizi:** No, no, back then I was more outspoken than you guys. But you know, what I'm saying is that when we hold a position that is important, actually our consideration is not merely our own feelings. You young students right now, it's fine because you say A, B, burn everything down. Even if you burn it, the country doesn't collapse. Whatever happens, happens, you guys just get carried away with all of it. Imagine if a minister burned everything down every time he was dissatisfied with something. Same goes for regulations. We want to change regulations. Regulations aren't coffee shop talk, "Ah, let's change that one." It's not like that. It has to go through Parliament, needs a vote, doing something takes two years. So that's why in administrative arrangements, some things need time, some things can be shaken up, and that's actually the essence of whether an administration is reform-minded or not. For example, take the appointment of Azam Baki. It's not as if, because we were dissatisfied with Azam Baki's appointment, our job in the cabinet becomes to threaten — my job becomes to threaten, "If not, I resign, if not, change this, change that." That's not how you govern a country. You have to govern a country so that everything runs calmly, peacefully, but at the same time improvements take place. Not all, in fact almost all improvements that should happen cannot happen by banging the drum. They must happen properly and in tandem. That's why the essence of reform by an administration is not necessarily what you talk about. It's not necessarily "we changed this, we changed that, we did this and that." That's the difference between a think tank and actually running a government. The real essence is the dynamic of decision-making. So if we take the SPRM example earlier, it's true that absolute power lies with the Prime Minister. But a more reform-minded administration — as I recall — that could manage the expectations of the people would have meant it would have been discussed, would have meant stakeholders would have been consulted, would have meant the views of the number twos in the party, leaders from DAP, leaders from Amanah, would have been taken into account, even though the axis is the power of the Prime Minister. So that's the point. And I think — if I know you guys want to burn things down because you want to show your idealism — I guarantee you, I've met hundreds of people like you in their 20s. When they turn 40, they become like Hilman. Because money comes, other things come. So I caution you guys, you know. Hopefully not, because all this is on record now. Right, in 20 years a clip like this will come out about you. Because, you see, the difficulty is that what we think is ideal when we're young isn't necessarily ideal when we govern. Let me give an example — at your age, I have some friends, seniors, super senior, who when Anwar Ibrahim was sacked, they were all in high positions at Petronas or GLCs or government agencies. I know them personally, I know more or less the kind of person they are. So I always found it strange, why didn't you resign? Why are you all so obsessed with your positions? Why can't you be like us university students, willing to skip meals, not go home, all that. Actually, you didn't think — I didn't think at the time — that actually, if they had resigned, they would open the door for someone even worse to come in and take their place, in a situation where they are responsible to hundreds of thousands of people. So they always — if you are in a position of power and also a management role, you always have to balance. Yes, I have my personal opinion and I wish I could do this. But my responsibility to these innocent people — there are hundreds of thousands of them — certain things I have to tread carefully because it's not about me. It is about the rest. That's usually the dilemma faced by anyone who becomes, say, a minister in a Westminster system. That's why to me, the moment you think that your view is no longer respected or no longer matters, or if you represent one school of thought — say, in a situation where I, together with Nik, represent a more reform-minded school of thought — when it becomes very clear that school of thought is no longer acceptable and won't be a priority of the administration, the best thing to do is to resign and withdraw. That is accountability. Because if you are in a situation where you think you're able to influence things, but once you cross a certain line and you know you won't be able to influence them anymore, you are still subject to collective responsibility — responsibility to the ministry, responsibility to millions of stakeholders. And you cannot just do as you wish simply because you feel it will raise your profile, or Zaim's, with your student friends who won't criticize you for it. So I'm sure one day when Dr. Akmal becomes a minister, you think he'll still be like that? No. He'll be different. That's why every time you see PAS outside government, they're loud, loud, loud — once they become the government, suddenly they go quiet. Right? I just think we tried our best, basically, to make a principled stand. And when we resigned, it wasn't so much because we lost the internal election. The signal is very clear that we felt we would no longer be able to influence government decisions to make them more aligned with the reform ideas we represent. And I think that's basically how government should function.
 
@@ -189,7 +189,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Or do you want to add something? Or is this like boxing — you want to let him catch his breath for a bit or what?
 
-**Zaim Zulkifli:** Go on, go on. I was thinking of continuing this. Never mind.
+**Haziq:** Go on, go on. I was thinking of continuing this. Never mind.
 
 **Haziq:** Maybe just a little bit, saudara.
 
@@ -249,7 +249,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Yes, but then why, in Tun Razak's era, since the constitution was the same, the laws were the same, power was even more concentrated back then — why wasn't it called systemic at that time?
 
-**Haziq:** I think because at that time.
+**Zaim Zulkifli:** I think because at that time.
 
 **Zaim Zulkifli:** However you want to put it — for a system to become "the system," it also takes time to take root.
 
@@ -311,7 +311,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** No, going back to the question of, say, government corruption. Back then, about 10-15 years ago, when I first started taking up the role of exposing scandals and corruption and so on — at the time, in fact, when I started, my intention wasn't merely to show that UMNO was corrupt. My concern at the time was that, especially among Malays, corruption was seen as something okay. The usual answer was, "never mind, at least we got something out of it." What's the harm? And then, if you go through survey after survey and study after study — this was 2010, 2012 — research and academic studies on the attitudes of young university students or young executives just starting work showed that the incidence of corruption is actually higher than among the older generation. Meaning that thing has taken root in our culture. Right? Before we even get into the executive branch and all that. But I chose to focus on corruption involving Malay institutions. 1MDB is one thing.
 
-**Haziq:** MARA, and things like that.
+**Zaim Zulkifli:** MARA, and things like that.
 
 **Rafizi:** MARA — that's why, if you notice, everything I focused on was Malay-related. MARA, Tabung Haji, FELDA — all of it — because we needed to convince and enlighten more Malays that corruption is very sinful and is a cancer in society. Corruption actually wrongs others. And if we focus on the lower-level officers, no one cares. For example, Haziq is an officer at FELDA, he takes money. If I go after him, who cares about Haziq? Just throw him in jail, that's it. So we focus on the politicians. But to me, actually, the root of the corruption problem goes all the way down, and the dynamics of power are such that from 2010 to 2018 and now, when politicians who become ministers come and go, the power actually remains — but not held solely by politicians, it's shared with government officials, with others. So actually.
 
@@ -369,7 +369,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Who's the judge tonight?
 
-**Zaim Zulkifli:** There's no judge, YB. Guess we'll have to write to the PM later.
+**Rafizi:** There's no judge, YB. Guess we'll have to write to the PM later.
 
 **Rafizi:** You'll end up like your Hisham Jalil. Lose a debate to me and you'll remember it for the rest of your life.
 
@@ -437,11 +437,11 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** You're free to. Up to you.
 
-**Haziq:** It's only been an hour.
+**Rafizi:** It's only been an hour.
 
 **Zaim Zulkifli:** Oh, only an hour?
 
-**Rafizi:** Oh, only an hour, huh?
+**Zaim Zulkifli:** Oh, only an hour, huh?
 
 **Haziq:** Yeah, only an hour.
 
@@ -451,7 +451,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Sure. I see there are still a lot left here.
 
-**Haziq:** Right, there are a lot of questions. It's just.
+**Zaim Zulkifli:** Right, there are a lot of questions. It's just.
 
 **Rafizi:** How many days did you spend preparing this?
 
@@ -475,7 +475,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Well, it's not my responsibility.
 
-**Haziq:** "PKR Dream," maybe, a dream.
+**Zaim Zulkifli:** "PKR Dream," maybe, a dream.
 
 **Zaim Zulkifli:** Right, a dream, as they say.
 
@@ -567,7 +567,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Haziq:** It was about impact earlier, because we said impact doesn't need to be impact, right?
 
-**Zaim Zulkifli:** No, it needs to have impact, but it doesn't need to be big.
+**Rafizi:** No, it needs to have impact, but it doesn't need to be big.
 
 **Rafizi:** Okay, so he asked about blueprint. I'm saying that, you know, it's already out of my control and sphere of influence. So no amount of blueprint helps. So he said even a small impact is fine. But it's not — it's actually you.
 
@@ -591,7 +591,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** So how old are you now?
 
-**Zaim Zulkifli:** 21, but haven't had my birthday yet.
+**Rafizi:** 21, but haven't had my birthday yet.
 
 **Rafizi:** Allahuakbar, 21. Makes me feel so old. Never mind, you really could be my child. Okay.
 
@@ -659,7 +659,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Because I want it on record.
 
-**Zaim Zulkifli:** Need to distinguish students from.
+**Rafizi:** Need to distinguish students from.
 
 **Rafizi:** So it can be made into a TikTok later.
 
@@ -721,9 +721,9 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** You didn't even ask me whether I'm going down on the 26th or not.
 
-**Zaim Zulkifli:** Oh, are you going, YB?
+**Haziq:** Oh, are you going, YB?
 
-**Haziq:** Are you planning to go, YB?
+**Zaim Zulkifli:** Are you planning to go, YB?
 
 **Rafizi:** Because earlier at Parliament, at Parliament, Dato' Seri Hishammuddin and Dato' Sri Ismail Sabri were both there. Yesterday at Parliament. So he came and wanted to sit in front of me at Parliament, at the new seating arrangement, so he came over, greeted me and said, "So I see you on the 26th?" I was like, "What's happening on the 26th?" I was totally clueless. Then he said, "if you go down, it'll become world news, you know, a lot of people will be watching." Then I realized, "Oh, the rally." I don't think I'll go, actually, I won't go. I just moved house, I need to tidy it up. Fine.
 

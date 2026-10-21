@@ -145,7 +145,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** — financial resources are limited. So would it be better if those resources were channeled to sports that have already established a strong foundation in Malaysia — that already have programs going back decades starting from school level. That includes major sports like football, hockey, rugby, basketball, volleyball — these already have competitions at the District Schools Sports Council level. Then what perhaps needs to be considered is, if it's introduced and becomes a program, the allocation will be used, but if the children who want to play have to be paid for by their families to the tune of hundreds of ringgit, it could become a burden to the family. So this is actually a trait of our people too — we always chase new trends. If we follow the Westerners — I recall Einstein once said, it's not that I am smarter, I stay on the problem longer. So sometimes as a society, we don't have the endurance to stick with something, improve it, solve its problems before we move on to a new hype. Even in sports, if we're not careful, this is what happens with something like pickleball — what we're carrying we can't hold, what we're chasing we can't catch, and what we're carrying scatters everywhere. So I don't understand why they're so insistent. Never mind, maybe I need to go play pickleball. The kids in my office play pickleball, every 2 weeks they go, it looks fun. It's just that I know I'm old, because the office kids are all in their early 20s, if I want to squeeze in there, it would feel awkward, being close to 50 already. Maybe I'll play once and then maybe I'll become very insistent in supporting the Selangor government.
 
-**Haziq:** Alright. Selangor here means the Selangor government.
+**Rafizi:** Alright. Selangor here means the Selangor government.
 
 **Rafizi:** Yes, the state also plans.
 
@@ -199,7 +199,7 @@ So I think those who are politicizing PADU mostly don't understand data-sharing 
 
 **Rafizi:** It's not far off — in English, this means appealing to the right wing. Meaning messages or campaigns that are anti-establishment, anti-government. So much so that they're claiming there's an attempt to create another Memali against PAS. I find it strange too. I could understand if it were the older generation of PAS who are angry about Memali. I was in Standard 2 in 1985, and I caught the live coverage of Memali on TV. Maybe I didn't fully understand it then — I remember the story being made about Guru Yahya's deviant teachings. When I grew a bit older, I understood it was actually propaganda about Memali.
 
-**Haziq:** You weren't even born yet then.
+**Rafizi:** You weren't even born yet then.
 
 **Rafizi:** Long before. So I'd understand if PAS were very sensitive about matters related to Memali. What's strange, though, is that the Home Minister at the time of Memali was Tun Mahathir — their advisor now. So Tun, who was once blamed by them for Memali, said those who died at Memali "died as they wished" (mati kata). So reviving the Memali story now and linking it to Masjid Rusila, as if there's some grand conspiracy to "Memali-ize" Masjid Rusila — I think that's crossed the line. And as I said earlier, it's unfortunate that parliament and our country have so many problems and issues we need to focus on. A senior PAS leader who was once Minister of Law and once Minister of Energy should have experience and broad views on these many issues, especially those related to energy security. In the end he used his speech to stir up emotion in parliament — maybe because that gets more TikTok traction, and more internal support from PAS.
 
@@ -245,7 +245,7 @@ Another side of this is about the 40% — this 40% is federal government revenue
 
 **Rafizi:** Right, it would highlight that the majority of taxpayers are concentrated in just a few states — the Federal Territory, Selangor, Penang, Johor.
 
-**Haziq:** Yeah, the states with more advanced economies.
+**Rafizi:** Yeah, the states with more advanced economies.
 
 **Rafizi:** So in this situation, our Constitution sets out a federal list, a concurrent list, and a state list. What I'm not too clear on is — when Malaysia was formed, including the agreements enshrined within the Federal Constitution's provisions — when it's said that 40% of revenue from Sabah [must be returned], does that mean a cash transfer that the federal government must pay over and above existing allocations? Over and above the allocations the federal government pays to cover services, infrastructure, and salaries under the federal list and concurrent list? I'm not sure about that, and I think there are different views on it too.
 
@@ -325,7 +325,7 @@ In Sarawak, electricity regulation is under Sarawak. In Sabah, it's under Sabah.
 
 **Rafizi:** That's called preaching. Ha, preaching, right?
 
-**Haziq:** Okay, this one's the same too, this is Yang Berhormat Marzuk.
+**Rafizi:** Okay, this one's the same too, this is Yang Berhormat Marzuk.
 
 **Rafizi:** Yes, I have a story about this too. Around 2012 also, same as Nurul Islam earlier. Story. Nurul Islam still owes me a folder. What debt is this, YB? He doesn't owe anything, but there's a story about him. Bachok, as I recall, was a seat that used to change hands frequently in PAS. And there was a time when Bachok was UMNO. So among all the seats in Kelantan, the seat considered a bit "swingable" was Bachok. That's why Bachok always brought in a lot of new faces. So in 2012, at that time Ustaz Marzuk was a youth-wing ustaz, not yet as prominent as he is now. So his people were always busy pestering and persuading me to go give a big ceramah there. That was during the NFC scandal era. So I recall I did go down there, and money wasn't really a big thing back then. When I went to give ceramah for PAS, I never took money. Others took money, because PAS would pay if you went. That's why whoever was really active on the PAS ceramah circuit back then was really active with the Milo tin — because of the Milo tin collections. Ha, that's how it went.
 
@@ -373,7 +373,7 @@ In Sarawak, electricity regulation is under Sarawak. In Sabah, it's under Sabah.
 
 **Rafizi:** 84 billion, all the way down to the end of Tumpat. That's not even counting the new projects connecting to Sungai Golok, then the bridges, Tok Bali Port — if we want to list them all, but let's not bother with the rest. Just take the 84 billion for ECRL. Say we divide it equally among 3 states, 84 divided by 3 is how much?
 
-**Haziq:** 28. 28 billion.
+**Rafizi:** 28. 28 billion.
 
 **Rafizi:** That, he's never once mentioned. So that's why — if this is the style that PAS leadership has, I fear for the future. I'm fine, I'm nearly 50 years old, it's enough to feed one child, maybe a few more cats, 20 of them. But if this continues, it means either he doesn't understand the numbers, or he doesn't want to be fair, or his political capital is built on stoking Malay resentment against the Chinese — because Penang is Chinese, Kelantan is Malay. How much more of this do we have to bear already, to Kelantan, to Terengganu, all of it. And back then he made no fuss about it. In fact I was the one who questioned back then whether there was a need to spend up to 84 billion — I was the one who questioned whether we needed to build this ECRL at all, because back then the estimate was 70 billion in 2014, 2015. When that money could have been used for many other things. So I think we'll wait and see how PAS responds to that. ECRL. Okay, alright YB. That's it for our hard-hitting segment this week.
 
@@ -409,7 +409,7 @@ In Sarawak, electricity regulation is under Sarawak. In Sabah, it's under Sabah.
 
 **Rafizi:** What's valuable at the National Museum? I don't think there's much, I reckon.
 
-**Haziq:** Yeah, right. There is something.
+**Rafizi:** Yeah, right. There is something.
 
 **Rafizi:** What kind of question is this?
 
@@ -441,9 +441,9 @@ In Sarawak, electricity regulation is under Sarawak. In Sabah, it's under Sabah.
 
 **Rafizi:** Well, the concept is — anything that is smaller and faster will make it better. When I did my degree in electronic engineering, it was always about trying to get into shorter and shorter wavelengths, because shorter wavelength means more power, and you can pack more data into it. So as the world becomes more digital — I'm not entirely sure about this particular discovery, but the logic is that as we move toward AI, robots and so on, the number of bits, zeros and ones, is a function of two things: one, how much data — zeros and ones — you can pack, and then how fast it can move. So certainly if you pack zeros and ones into a wavelength — if you have a high-power wavelength, meaning much shorter, higher frequency — that will enable a new generation of chips that can process far higher data capacity, and also far higher speed, higher wavelength frequency. That's it.
 
-**Haziq:** Alright YB. It's written here — Rainbow Chip generates finely spaced light bands.
+**Rafizi:** Alright YB. It's written here — Rainbow Chip generates finely spaced light bands.
 
-**Rafizi:** Finely and precisely spaced for accurate detection and fast communication.
+**Haziq:** Finely and precisely spaced for accurate detection and fast communication.
 
 **Haziq:** Exactly. That's it for listeners who can't see our faces. So with this, does it mean there's a strong chance we'll—
 
@@ -455,7 +455,7 @@ In Sarawak, electricity regulation is under Sarawak. In Sabah, it's under Sabah.
 
 **Haziq:** Okay, YB, clear. Let's move to the final segment. We need to hurry, this is the final segment.
 
-**Rafizi:** Yes, we have a few more questions. First question from Muhammad Aslan: "Good evening YB Raf. Why has Liverpool's performance been getting worse lately?"
+**Haziq:** Yes, we have a few more questions. First question from Muhammad Aslan: "Good evening YB Raf. Why has Liverpool's performance been getting worse lately?"
 
 **Haziq:** "Are the Liverpool players still riding on last season's success?"
 

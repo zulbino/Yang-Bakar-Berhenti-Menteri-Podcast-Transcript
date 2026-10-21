@@ -10,7 +10,6 @@ view_count: 181895
 hosts:
 - Rafizi
 - Haziq
-- Farhan (Pa'an)
 guests:
 - Zikri Kamarulzaman
 topics:
@@ -71,11 +70,11 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Haziq:** segmen yang khas.
 
-**Rafizi:** Untuk Zikri.
+**Haziq:** Untuk Zikri.
 
 **Haziq:** Khas, untuk Zikri sahaja, tak pernah ada. Tapi tunggulah nanti, kita pergi ke beria dahulu, kita tengok siapa yang, disebabkan dah raya ni, dia orang dah aktif balik.
 
-**Zikri Kamarulzaman:** Harap kita beria, kita tengok yang pertama.
+**Haziq:** Harap kita beria, kita tengok yang pertama.
 
 **Rafizi:** Beria Albert Teh di mana-mana. Yalah, baguslah saya ingat, ni yang himpunan rakyat yang bebas bersuara ni, konon untuk media freedom.
 
@@ -87,7 +86,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Dan tadi dia buat sidang akhbar, dia bermunculan
 
-**Farhan (Pa'an):** dengan Ibrahim Ali dan Wan Ji Mufti.
+**Rafizi:** dengan Ibrahim Ali dan Wan Ji Mufti.
 
 **Rafizi:** Pasal minyak. Bantahan minyak. Nasihat sayalah betul, bagus kita ada pandangan kan, tapi kena lebih khusus sikitlah. Kalau di mana-mana ni — yalah saya ingat Albert Teh sebab dia ada kes kan, dan you pusing macam mana pun, kita tak boleh lari bahawa pada sebahagian besar rakyat Malaysia, dia juga terbabit dengan tawaran rasuah kan. Cuma kita nak semua kena betul, sistem tu kena betul. Jadi dia ada sedikit bagasi. Jadi kalau contohnya Himpunan Rakyat Bebas Bersuara ni kan, sebenarnya baguslah isu tu betul. Kita memang ada tekanan sikit-sikit, ada orang dapat notis MCMC, macam-macam, semua orang takutlah kena tangkap. Tapi bila Albert Teh ada di situ, mungkin dia ada kesan bertentangan. Orang yang betul-betul ikhlas dan mungkin ada lebih banyak kredibiliti daripada dia, dia tak pergilah. Jadi nasihat saya kepada Albert Teh, mungkin tumpu 2, 3 lah. Kalau tidak nanti kebimbangan saya ialah dia meremehkan isu-isu yang sebenarnya isu-isu besar seperti itu. Walaupun dari segi markah beria, dia sangat beria.
 
@@ -111,7 +110,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Maksudnya rakyat Malaysia ni kan, kita tiap-tiap hari kena scam kan. Tapi ni dah beria sampai ke peringkat antarabangsa. Dia scam gabenor daripada satu wilayah sampai Petronas terpaksa keluarkan penafian.
 
-**Multiple speakers:** Berapa banyak 44 juta tu sebenarnya?
+**Haziq:** Berapa banyak 44 juta tu sebenarnya?
 
 **Haziq:** Dia kata 44 juta minyak mentah, liter. Ya, minyak mentah.
 
@@ -127,7 +126,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Zikri Kamarulzaman:** Tapi bila cakap pasal sentuh-sentuh negara ni, krisis tenaga ini ada menghidupkan semula sentimen daripada sesetengah ahli politik Filipina untuk mengambil balik Sabah.
 
-**Haziq:** Sabah, tapi terpencillah.
+**Zikri Kamarulzaman:** Sabah, tapi terpencillah.
 
 **Rafizi:** Tapi kalau betullah, okey, itu mungkin sebab pengeluaran minyak mentah di Malaysia ni sebelum ini memang banyaknya di pesisir pantai timur, kan, bagi lembangan di situlah kan. Tapi dia dah sangat berkurangan. Jadi sekarang ini Sarawak tak banyak sangat minyak.
 
@@ -139,7 +138,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Kesian ADUN Johor, dia mesti terlepas.
 
-**Haziq:** Lepas ni orang Johor semua korek minyak di luar rumah. Okey, kita ada lagi, Yayasan Madani nak buka Madani Mart.
+**Rafizi:** Lepas ni orang Johor semua korek minyak di luar rumah. Okey, kita ada lagi, Yayasan Madani nak buka Madani Mart.
 
 **Rafizi:** Beria. Cuma, yalah saya faham dalam PKR, lepas kami buka Flexi Mart semua tu dan dia ada dorongan. Malah saya memang daripada 2023 saya dah beritahu kepada PKR masa itu, dalam konvensyen, bahawa model parti politik di Malaysia ni kena berubah. Dia tak boleh jadi model yang sangat, orang kata, paternalistik dan juga bangsawan kan. Dulu zaman merdeka orang memang pergi jumpa ketua cawangan minta itu semua. Jadi dia kena bertukar kepada berasaskan perkhidmatan. Jadi memang kita dah sebut dari awal sebenarnya nak buat berasaskan perkhidmatan ini, Mart adalah satu contoh, tapi tak mudah kan. Cuma masalah saya tak sempat pergi semak lagi, nanti saya pergi semak Yayasan Madani ni pendapatannya macam mana, modalnya macam mana, dari mana kan. Sebab nak membuka kedai runcit mart ni tak mudah tau. Kita di Flexi Mart pun masih lagi tiap-tiap bulan gigit jari, maksudnya cukup-cukup sahaja untuk bayar gaji. Dan pada masa yang sama, kadang-kadang ada bulan-bulan tertentu yang saya kena tambah duit saya untuk bayar gaji, sebab nak bersaing dengan seperti Speedmart. Dia tak mudah sebab kita beli barang-barang ni dalam kotak, mereka beli dalam kreta (crates). Jadi beza harga tu sangat besar dan orang tak kisah sama ada engkau Madani Mart ke apa ke semua, dia pergi ke tempat yang paling murah. Jadi ia ekonomi bidangan (economies of scale) kan. Yang berbahaya, walaupun mereka beria buat, yang berbahaya ialah kalau contohnya Yayasan Madani ni jadi tempat untuk membuka Madani Mart, dia jadi tempat untuk sumbangan politik. Jadi tambah sensitivitinya ialah kerana Hajah Fuziah Salleh ni Timbalan Menteri KPDNKK, yang bertanggungjawab menguruskan jualan Madani, jualan Rahmah kan. Jualan Rahmah ni melibatkan puluh-puluh juta peruntukan kerajaan yang mana melibatkan banyak pembekal. Jadi kena berhati-hati. Nanti timbul cerita, pembekal kata, "Oh saya akan bekalkan pada harga yang murah, but in exchange saya mesti dapat kontrak untuk bekal kepada Jualan Rahmah." Macam-macam cerita akan keluar, satu hari nanti ada orang akan kata, "Saya dah bagi 500,000 bantuan kepada Yayasan Madani," macam-macam kan. Jadi baguslah beria untuk meniru kan. Tapi sama ada Fuziah ke, Farhan ke, setiausaha politik Dato' Seri Anwar ni, dua-dua ni tak pernah mengusahakan perniagaan seperti kedai runcit semua ni kan, jadi niat itu kena betul. Tapi tak apalah kita tengok.
 
@@ -179,7 +178,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Tak ada lah, tak buat video. Oh ya ya ya, beri pesanan supaya yang beraya tu janganlah raya lama sangat kalau dapat keputusan SPM yang baik sebab kamu tahu kitaran seterusnya akan berterusan. Yang menangis jangan sampai mata lebam kerana kitaran seterusnya. Ini pun saya tak tahulah, mungkin bagi Young Sefura lah, saya rasa dia tahu kekuatannya, dan kekuatannya itu penampilannya kan. Tapi saya rasa ini sudah menjemput untuk ditroll lah, sebab sepatutnya kalau mesejnya itu kepada calon-calon SPM, sebaiknya fokusnya kepada calon SPM dan juga ibu bapa serta guru-guru kan. Yang ini lebih kepada poster pilihan raya — "YB dapat berapa keputusan SPM? Berapa A?" Macam mana aku boleh cerita — aku SPM gagal, gagal, gagal. Saya tak dapat apa yang saya mahu lah, dan saya sangka dunia runtuh. Ha, okeylah.
 
-**Zikri Kamarulzaman:** Ha, ni cerita untuk anak muda. Cerita untuk anak muda.
+**Haziq:** Ha, ni cerita untuk anak muda. Cerita untuk anak muda.
 
 **Rafizi:** Cerita anak muda — saya masa trial dapat 10 A1.
 
@@ -201,17 +200,17 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Haziq:** Yang paling bersungguh-sungguh sekali dalam semua.
 
-**Rafizi:** Ha, kena nilai lah mana yang paling bersungguh-sungguh. Ada 4.
+**Haziq:** Ha, kena nilai lah mana yang paling bersungguh-sungguh. Ada 4.
 
 **Haziq:** Rafeti, kemudian Johor — Robert Teh, Johor, 44 juta liter, 44 juta liter Yasa Madani, kemudian Yasa Madani.
 
-**Rafizi:** Dan Tahniah SPM.
+**Haziq:** Dan Tahniah SPM.
 
 **Zikri Kamarulzaman:** Kemudian Tahniah SPM. Saya rasa Johor lah.
 
 **Rafizi:** Johor, sebenarnya aku setuju.
 
-**Zikri Kamarulzaman:** Agak epik lah.
+**Rafizi:** Agak epik lah.
 
 **Rafizi:** Agak epik lah, boleh dia tipu gabenor ni kan. Kalau dia kata dia mewakili daripada Kerteh, aku faham lah orang mungkin boleh percaya, boleh Google sikit — banyak-banyak tempat Johor. Setuju. Ini memang kalau kau tanya aku pun aku akan nilai Johor.
 
@@ -227,7 +226,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Seorang fail cerita daripada Coffee Bee.
 
-**Zikri Kamarulzaman:** Saya pernah kerja dari Pulau. Jangan sebut banyak-banyak.
+**Rafizi:** Saya pernah kerja dari Pulau. Jangan sebut banyak-banyak.
 
 **Rafizi:** Okey, kita ke satu segmen khas dan bercakap tentang — kau AI kan muka aku eh.
 
@@ -235,7 +234,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Kau orang AI kan rambut aku sekali ke apa tu? Nampak macam lebat je, eh, gambar zaman lama ni.
 
-**Farhan (Pa'an):** Takkan nak buat muka tapi rambut pun keluar sekali. Okey.
+**Zikri Kamarulzaman:** Takkan nak buat muka tapi rambut pun keluar sekali. Okey.
 
 **Rafizi:** Tak, tapi isu ini lah kan — biar kita yang grill Zikri, okey, sebelum aku pula kena grill. Kebebasan media, banyak soalan. Di satu pihak, ya, Malaysia naik ranking Indeks Kebebasan Akhbar semua tu kan. Tapi pada masa yang sama juga, saya tak tahu, mungkinlah secara psikologi saya silap, tapi memang ada rasa macam banyak je tindakan — setiap kali ada saja wartawan yang disoal, ditahan. Sehingga saya rasa lah sebagai orang biasa, bukan wartawan, itu sebabnya nak tanya wartawan ni kan — dia macam tak ada beza dengan sebelum ini kan.
 
@@ -253,11 +252,11 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Zikri Kamarulzaman:** Ia sukar. Jawapannya tak mudah tau. Jadi pertama sekali, saya nak jelaskan — pembelian media bukan semua jahat eh, bukan semua pembelian media adalah agensi beli ni "okey kau kena jawab khabar." Kadang-kadang ia hanya tidak berniat jahat — contoh lah zaman Najib dulu, kalau tak silap saya, Permata itu program yang dinaungi oleh Rosmah Mansor, ada mengiklan dengan Malaysiakini, tapi kami hentam Rosmah Mansor seperti biasa. Dan mereka tak kisah, kerana ia berasingan — ia hanya mempromosikan program dan bukan mempromosikan ahli politik, itu dua perkara berbeza. Bagi saya secara peribadi, macam selagi ada pembahagian jelas — bukan nak promosi menteri kata okey kena buat, maaf, "okey YB sibuk, bagi kita 50 juta promosi IPR, kita kena temu ramah Rafizi, jom jom" — okey tak ada, itu satu perkara yang berbeza sama sekali. Mempromosi program dan mempromosi menteri sangat berbeza, bagi saya lah, secara peribadi. Tapi sekali lagi, saya tak terlibat dalam pengiklanan, jadi saya tak tahu apa-apa. Tapi saya rasa satu penyelesaian masalah pembelian media ni wujud kerana media sosial. Media sosial datang, kadar pengiklanan dalam talian semua menjunam, dan kemudian anak muda semua sekarang dan orang tua sekarang pergi TikTok. TikTok di Malaysia tak ada model pendapatan — di AS ada dana pencipta, di Malaysia belum sampai lagi. Jadi kita nak capai anak muda tapi tak ada dividennya, tak ada pulangan pelaburan, kerana popular di TikTok tidak bermakna orang akan pergi ke laman web kamu, tengok iklan kamu, langgan ke apa. Jadi itulah masalahnya. Satu penyelesaian yang saya ingat lah, ada negeri-negeri negara-negara lain buat — Australia dan Indonesia setahu saya, mereka merundingkan dengan gergasi media sosial ni, kena buat perjanjian jualan lah — "kamu nak kandungan kami, kami jual, tapi kamu kena bayar lah" dan subsidi. Jadi mungkin contoh macam di AS, ada yang buat perjanjian dengan OpenAI dulu untuk jual kandungan kepada mereka supaya bila OpenAI buat fungsi carian ia auto jana ada kandungan. Jadi kena ada jenis perjanjian itu. Bolehkah dilakukan mengikut undang-undang? Tapi Australia tu ikut undang-undang kan?
 
-**Rafizi:** Tapi diwajibkan lah. Tapi saya rasa di Indonesia mereka hanya merundingkan macam itu je.
+**Zikri Kamarulzaman:** Tapi diwajibkan lah. Tapi saya rasa di Indonesia mereka hanya merundingkan macam itu je.
 
 **Zikri Kamarulzaman:** Saya faham. Saya rasa, bukan nak kata kerajaan kena mewajibkan, tapi saya rasa mungkin kerajaan kena memudahkan. Okey, walaupun Malaysiakini menghentam kerajaan, tak bermakna kami memandang kerajaan ni semua jahat eh. Tapi kena — kerana media di Malaysia, nilai kami kecil. Kepada Meta, OpenAI, Malaysiakini ni apa? Tak ada nilai pada Malaysiakini tau. Malah untuk khalayak Malaysia tempatan, saya tak rasa OpenAI akan pandang FMT, Malaysiakini, The Star, TV3 semua — dalam gambaran besar kan, hanya titik-titik kecil tau. Jadi untuk memaksa mereka datang ke meja rundingan,
 
-**Rafizi:** Saya rasa mungkin kerajaan kena memudahkan.
+**Zikri Kamarulzaman:** Saya rasa mungkin kerajaan kena memudahkan.
 
 **Zikri Kamarulzaman:** Memudahkan, ya. Sama ada mengikut undang-undang ke tidak, mungkin tidak, tapi kau hanya perlu mulakan perbualan itu. Kerana kemudian, kau tahu.
 
@@ -339,11 +338,11 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Berapa minggu kau duduk mengadu pasal diesel ni?
 
-**Farhan (Pa'an):** Semalam baru naik lagi sikit.
+**Zikri Kamarulzaman:** Semalam baru naik lagi sikit.
 
-**Zikri Kamarulzaman:** Sabar anak muda.
+**Haziq:** Sabar anak muda.
 
-**Farhan (Pa'an):** 6 ringgit. Sabar anak muda.
+**Rafizi:** 6 ringgit. Sabar anak muda.
 
 **Zikri Kamarulzaman:** 6 ringgit. Jadi sistem subsidi diesel ni adalah sesuatu yang diperkenalkan semasa YB menjadi menteri. Kenapa YB tak jaga macai YB? Jaga macai.
 
@@ -377,7 +376,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Well, satu, anda kena tanya James Tsai. Saya tak boleh bercakap bagi pihak dia. Anda kena tanya peguam dia. Tapi komunikasi terakhir saya dengan dia, ini mesti 3 minggu lepas semasa mereka sedang kejar-kejar dia orang semua ini — sebelum James lantik peguam. Jadi masa itu dia rujuk kepada saya. Isu dia ada dua tiga. Satu, dia bekerja di sana kan? Jadi dia bukan boleh suka-suka balik. Dia akan hilang kerjanya. Dan kecuali SPRM boleh beri guarantee seminggu balik dia boleh balik semula. Kemudian bagaimana jika seminggu jadi dua minggu, tiga minggu dan di bawah sekatan, dia akan hilang kerjanya. Jadi saya rasa itu pun kalau anda jadi dia pun anda akan fikir.
 
-**Zikri Kamarulzaman:** Kenapa tak boleh kerja jarak jauh?
+**Rafizi:** Kenapa tak boleh kerja jarak jauh?
 
 **Rafizi:** Well, itu anda kena tanya dia kenapa tak boleh. Hanya kerana anda boleh buat di pulau, tidak semua orang boleh buat begitu. Kemudian kedua, sebenarnya James kongsikan dengan saya, dia dah komunikasi semasa dia lantik peguam itu supaya ada banyak cara untuk buatnya. Sama ada mereka boleh buat secara dalam talian, ataupun — selepas semua dia konon pemenang kan — jadi boleh buat dalam talian sahaja. Ataupun mereka boleh terbang ke sana dan temuduga dia, di kedutaan ataupun di polis tempatan, apa saja lah. Jadi kalau boleh dia tak nak balik kerana dia perlu selesaikan dari segi, anda tahu, kerjanya. Jadi, SPRM berkeras tak nak, sedangkan sememangnya sebelum ini SPRM terbang saja ke seluruh dunia untuk temuduga. Termasuk Saudi — untuk temuduga, semak dan mengesahkan ada sumbangan. Kemudian menantu kepada Dato' Sri Ismail Sabri, dia pergi ambil kenyataan di Jakarta. Tapi dengan cerita James ini tak boleh, kena balik juga. Jadi, anda lihat, saya rasa kita pun kena ingat, mudah bagi kita untuk berkata sedemikian bila tak kena batang hidung kita. Setiap orang sepatutnya sama rata di sisi undang-undang. Jadi kalau perkara itu adalah standard yang biasa, kenapa dalam kes ini mereka berkeras dan cuba melukiskan James seolah-olah ada sesuatu untuk disorok, nak lari? Dan saya rasa kalau saya jadi James, saya akan buat perkara yang sama, anda tahu. Orang yang berfikiran reformis bermakna hak saya adalah hak saya. Saya tidak akan benarkan diri digertak begini. Jika saya seorang saksi, anda telah lakukannya sebelum ini — anda terbang sana, anda terbang sini, anda temuduga orang begitu. Kenapa dalam kes khusus ini mesti hadir di situ dan balik, dan seterusnya.
 
@@ -437,7 +436,7 @@ Anda tidak menyesal? Saya tidak menyesal. Adakah anda masih akan cuba menjadikan
 
 **Haziq:** Mafia korporat sudah lama sejak sebelum 2018.
 
-**Rafizi:** Mungkin kalau saya boleh mulakan, Zikri, cuma untuk, mulakan.
+**Haziq:** Mungkin kalau saya boleh mulakan, Zikri, cuma untuk, mulakan.
 
 **Haziq:** Kenyataan terbaru Menteri Komunikasi, YB Fahmi Fadzil, bahawa mafia korporat ini sebenarnya sudah wujud lama, sebelum 2018. Cuma untuk semak dengan YB, adakah YB mengambil kenyataan ini serius? Sebab jika ya, sebenarnya adakah perkara ini betul-betul sudah lama? Kalau betul sudah lama, sudah berkurun-kurun, kenapa kita tidak perasan dari dahulu?
 
@@ -447,7 +446,7 @@ Anda tidak menyesal? Saya tidak menyesal. Adakah anda masih akan cuba menjadikan
 
 **Rafizi:** Tidak ada. Saya rasa sebabnya ialah kerana memang saya tidak pernah berjumpa pihak ketiga. Tidak pernah. Saya rasa yalah, dalam pasaran orang marahlah, kerana kebiasaannya menteri ini ada saja orang hendak datang membuat pembentangan — itu yang Capris sibuk hendak datang membentangkan semua itu. Kita orang tak layak dikira begitu. Jadi kebiasaannya ada saja hendak membentangkan ini, hendak membentangkan itu, tapi kita orang tak pernah melayan sebenarnya. Jadi kita orang memang tidak ada pihak ketiga.
 
-**Farhan (Pa'an):** Hendak mendapatkan mesyuarat dengan YB.
+**Rafizi:** Hendak mendapatkan mesyuarat dengan YB.
 
 **Rafizi:** Untuk mendapatkannya memang sangat sukar. Semoga berjaya cuba mendapatkan masa saya untuk mesyuarat atau apa. Jadi dari segi itu tidak ada sesiapa yang berani menghampiri. Satu-satunya pihak ketiga kalau ada pun ialah yang memang telah dibuat keputusan oleh kerajaan. Selalunya itu seperti contohnya program-program besar kerajaan, dan kebanyakannya GLC — Maybank atau apa, ataupun kerana mereka menjadi rakan strategik dalam sebahagian perkara yang kami buat. Tapi saya pasti pada awal-awal itu ramai juga yang hendak mencuba. Dan saya tidak menolak kemungkinan bahawa sebenarnya Data Sonic ataupun NextG pun awal-awal hendak berjumpa. Tapi okey, saya pasti. Tapi saya rasa memang itu keputusan saya daripada awal bahawa saya tidak akan melayan. Lagipun Kementerian Ekonomi ini fokus kita ialah kepada dasar — ada banyak kerja. Kita tidak mentadbir kontrak atau apa semua ini. Semuanya dasar, dan Kementerian Ekonomi memang tidak ada tender sebab ia pembuat dasar. Jadi kalau anda pembuat dasar, kenapa pula hendak berjumpa syarikat, syarikat hendak membuat cadangan.
 
@@ -547,9 +546,9 @@ Anda tidak menyesal? Saya tidak menyesal. Adakah anda masih akan cuba menjadikan
 
 **Rafizi:** Boleh jadi. Tapi sebelum kita dapat keputusan penuh nanti 3, 4 bulan lagi kan, cuba tengok berdasarkan yang ini, anda boleh nampak terus bahawa sebenarnya jumlah yang dapat cemerlang A+, A dengan A- ini sebenarnya menurun — menurun daripada jumlah pelajar, lebih menurun daripada peratus kan, sebab jumlah yang ambil 20-25 itu lebih ramai orang kan, lebih kurang 11,000 lebih ramai orang kan. Jadi macam mana pula bila cemerlang ini — A plus, A, A minus — ini menurun tapi GPK naik?
 
-**Zikri Kamarulzaman:** GPK meningkat, GPK bertambah baik. Maksudnya apa?
+**Rafizi:** GPK meningkat, GPK bertambah baik. Maksudnya apa?
 
-**Haziq:** Purata turun.
+**Rafizi:** Purata turun.
 
 **Rafizi:** Purata mana yang turun? Bell curve — tak, tak, ini bukan pasal bell curve. Kurang orang yang gagal. Satu kemungkinan, kurang orang yang gagal. Jadi daripada ada 3,000 orang dapat E, ada 2,500 yang dapat E, 500 dapat D. Jadi daripada sini, walaupun tanpa menunggu keputusan analisis penuh ini, anda boleh nampak sebenarnya yang bertambah baik ialah di hujung spektrum itu.
 

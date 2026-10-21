@@ -51,7 +51,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Haziq:** Ha, dia ada 2 combine. Selamat Tahun Baru Cina.
 
-**Lee Chean Chung:** Eh, YB cincong, sekali aku je.
+**Haziq:** Eh, YB cincong, sekali aku je.
 
 **Rafizi:** Selamanya panggil Chen Chong kan. YB, how are you, YB? Tak, tapi tadi tu yang awal-awal tu pun tak betul. Sebab kau kata kita kena memulakan siaran. Siaran mula tepat jam pukul 10. Cuma dia dirakam awal. Kita rakam lambat hari ni, lambat lebih kurang 7 minit kerana ada mercun tahun baru Cina.
 
@@ -73,11 +73,11 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Baju.
 
-**Lee Chean Chung:** Oh, ni bukan cheongsam.
+**Haziq:** Oh, ni bukan cheongsam.
 
 **Rafizi:** Cina lah. Bukan cheongsam.
 
-**Lee Chean Chung:** Cheongsam yang perempuan tu.
+**Rafizi:** Cheongsam yang perempuan tu.
 
 **Rafizi:** Betul. So dia tak ada nama specific name untuk baju dia?
 
@@ -95,7 +95,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Eh tak. No, no, no, no. Even earlier. Tengok, Chin Chong lupa. Masa tu Chin Chong adalah pegawai penyelidik Dato' Seri Anwar Ibrahim.
 
-**Lee Chean Chung:** Ha, you were rese—
+**Rafizi:** Ha, you were rese—
 
 **Rafizi:** Sebelum. You were research officer. So we met Dato' Seri Anwar tahun 2008 ke 2012, sebelum you bertanding first time di Semambu 2013. So saya selalunya menulis ucapan untuk Dato' Seri Anwar, ucapan parlimen dia. That's how kita mula liais lah — dengan siapa seorang lagi tu? Wei Heng. Dengan Wei Heng. Cuma Chin Chong 2013 mula bertanding lah.
 
@@ -103,7 +103,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Itu must be untuk pemilihan cabang, 2010 kan? I think so — that was the first time saya kembali. Sebelum tu saya jawatan semua dekat pusat, saya tak pernah bertanding dekat cabang lah. Jadi 2010, dan kesian, Kemaman adalah bersebelahan dengan Indera Mahkota. So Chin Chong di Indera Mahkota, saya dekat Kemaman.
 
-**Lee Chean Chung:** Oh, dekat-dekat eh. Kita orang sebelah-sebelah, Pantai Timur dua-dua.
+**Rafizi:** Oh, dekat-dekat eh. Kita orang sebelah-sebelah, Pantai Timur dua-dua.
 
 **Haziq:** Okey, baik YB. Kita terus ke segmen.
 
@@ -117,7 +117,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Lee Chean Chung:** Tak, tak, tak — sebab ada tuduhan, nanti kita akan tengok next. Ada tuduhan kata studio kat Menara Ilham. Saya boleh jadi saksi lah, tempat ni tempat memang rakyat lah kan.
 
-**Rafizi:** Tempat rakyat eh. Nak parking pun susah — dia di rumah kedai. Okey, apa pun kita tengok beria. Yang pertama ni mungkin kita start mild sikit lah eh: isu Bersatu bergaduh, tetapi menolak Muhyiddin berpaksikan tuntutan agama.
+**Haziq:** Tempat rakyat eh. Nak parking pun susah — dia di rumah kedai. Okey, apa pun kita tengok beria. Yang pertama ni mungkin kita start mild sikit lah eh: isu Bersatu bergaduh, tetapi menolak Muhyiddin berpaksikan tuntutan agama.
 
 **Haziq:** Ha, ini Wan Faisal yang cakap.
 
@@ -159,7 +159,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** 45 line.
 
-**Lee Chean Chung:** Tinggi sangat tau, 75.
+**Haziq:** Tinggi sangat tau, 75.
 
 **Rafizi:** 45 line. Ni PKR Kedah tu boleh rampas semula kerusi di Kedah ke? Tu tak tahu, Cincong.
 
@@ -167,7 +167,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Ni PKR berada pada tahap terbaik ni? Maybe.
 
-**Haziq:** Sebab kata makin ramai—
+**Lee Chean Chung:** Sebab kata makin ramai—
 
 **Lee Chean Chung:** —tak ada lah, jadi PKR makin baik lah. Oh, sebab itulah. Sebab itulah.
 
@@ -209,7 +209,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Haziq:** Kita dah 40 minit, kita nak ke sana. Kita ada last lah.
 
-**Rafizi:** Ini mungkin saya kena tanya mantan pengarah kom— apa? Komunikasi. Pengarah komunikasi.
+**Haziq:** Ini mungkin saya kena tanya mantan pengarah kom— apa? Komunikasi. Pengarah komunikasi.
 
 **Haziq:** Macam mana apa ni, admin-admin social media parti politik ni sebenarnya, YB?
 
@@ -235,7 +235,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Haziq:** Jadi saya rasa yalah, ada dua lah.
 
-**Rafizi:** Satu tentang perkara baru atau dalam FlexiMart dan Kesum ni YB akan ceritakan, dan satu lagi untuk projek baru Ayuh Malaysia juga—ini YB Chin Chong akan ceritakanlah.
+**Haziq:** Satu tentang perkara baru atau dalam FlexiMart dan Kesum ni YB akan ceritakan, dan satu lagi untuk projek baru Ayuh Malaysia juga—ini YB Chin Chong akan ceritakanlah.
 
 **Haziq:** Tapi mungkin kalau YB boleh kongsi apa kelainan sikit bulan puasa ni untuk FlexiMart dan Kesum.
 
@@ -269,7 +269,7 @@ Jadi, saya minta orang ramai kalau boleh pergi ke www.Kesum.my kalau berminat un
 
 **Rafizi:** Kita kelas pertama mungkin dalam seminggu daripada sekarang. Dia akan siarkan berapa, 8 Mac berapa punya tu? Kita akan plan bersiar pertengahan Mac.
 
-**Lee Chean Chung:** Pertengahan. Bukan first week March ke?
+**Rafizi:** Pertengahan. Bukan first week March ke?
 
 **Rafizi:** Recording. Recording yalah, buat apa kau nak tunggu lama-lama? Dah record tu teruslah. Okey, tak apa, tak apa, nanti kita orang bergaduh.
 
@@ -281,7 +281,7 @@ Jadi, saya minta orang ramai kalau boleh pergi ke www.Kesum.my kalau berminat un
 
 **Rafizi:** Mungkin siapa yang berminat boleh juga daftarlah kan. Jadi kita harap sebenarnya, kalau kita boleh dapatkan lebih ramai orang yang mencintai ilmu — dan belajar bahasa Mandarin ini adalah belajar ilmu, kan — jadi kalau lebih ramai daripada kalangan kita yang mencintai ilmu, maka saya harap itu akan dapat mengurangkan bebal perkauman di Malaysia. Sebab bahasa Mandarin ni disamakan dengan perkauman — sebenarnya bahasa, bahasalah kan. Dan cuma saya pernah nak belajar bahasa Mandarin masa kat UK.
 
-**Lee Chean Chung:** Give up baru.
+**Rafizi:** Give up baru.
 
 **Rafizi:** Sebab payah kan. Jadi sebab itu selepas lebih kurang 25 tahun kemudian, saya nak mencuba sekali lagi.
 
@@ -303,7 +303,7 @@ Okey, satu jam tepat.
 
 **Haziq:** Jadi kita ke segmen yang terakhir lah.
 
-**Rafizi:** Sebab kita ada dua jam — ini untuk menjawab. Sebab dua jam, memang terlajak ni, terlajaklah. Jadi kepada yang menonton, selepas habis menonton boleh terus tidur dua minit, bangun untuk tahajud. Okey, kita ada isu yang pertama, tak lain tak bukanlah YB, isu perjanjian am ni sekali lagi berbangkit. Tapi saya tak pasti, mungkin untuk elakkan daripada ini menjadi sembang-sembang politik saja, kita kena pergi sekali lagi the significance of it, satu, dan kemudian baru kita tengok mungkin the process of governance tu maybe.
+**Haziq:** Sebab kita ada dua jam — ini untuk menjawab. Sebab dua jam, memang terlajak ni, terlajaklah. Jadi kepada yang menonton, selepas habis menonton boleh terus tidur dua minit, bangun untuk tahajud. Okey, kita ada isu yang pertama, tak lain tak bukanlah YB, isu perjanjian am ni sekali lagi berbangkit. Tapi saya tak pasti, mungkin untuk elakkan daripada ini menjadi sembang-sembang politik saja, kita kena pergi sekali lagi the significance of it, satu, dan kemudian baru kita tengok mungkin the process of governance tu maybe.
 
 **Haziq:** Yalah, bila bercakap tentang perjanjian ni pun, saya rasa memang negara kita ada keterdesakan untuk menghidupkan ekosistem di peringkat front end semiconductor ni. So cerita kita ni memang lebih ambitious dan orang tak dapat imagine.
 
@@ -361,7 +361,7 @@ Jadi sebab itu yang lawaknya ini — gambar apa ni, rakan media lah. Rakan media
 
 **Rafizi:** Tak sabar-sabar, bukan.
 
-**Farhan (Pa'an):** Dia nak pastikan supaya—
+**Rafizi:** Dia nak pastikan supaya—
 
 **Rafizi:** —dia the first yang bagi maklum balas kepada media lah. Beria YB Kinyun, beria jugalah, supaya ARM ini dikenali sebagai hasil tangan kerja dialah, air tangan dialah kan. So kita orang duk aku duk kat atas pentas sibuk lagi, dia dah ada kat depan dah bagi PC kan. Itu kebodohan yang ada dalam kerajaan sebelum ini lah — punyalah berebut kredit.
 
@@ -423,7 +423,7 @@ Tapi Itramas ni bukan syarikat software engineering ataupun data science. That's
 
 Saya tak tahu kenapa dia approach Invoke, tapi mereka nampak kita sebagai strategic fit — sebab kami ada software engineer, data scientist, boleh buat IoT platform, jadi daripada buat team sendiri, better work with Invoke. Jadi arrangementnya — sebab aku pun kata, kau bidding untuk projek smart city di Bahrain ni, dan kita susah payah buat, kemudian tak jadi, aku je yang kena employ orang, kena keep team ni. Sebab itu — maksudnya dia dah dapat ke belum kat sana? Apa dia? Dia dah dapat...
 
-**Haziq:** They were still bidding.
+**Rafizi:** They were still bidding.
 
 **Rafizi:** Oh, dia bidding. Cuma dia nak kena bid together dengan smart IoT platform semua tu kan — dia tak boleh beritahu kami "we are a very good LED PV manufacturer", they need to come up with everything kan. So the arrangement is this. Okey — mereka put a preference share. Ini yang Azam Baki hari itu terkelirulah kan. Bila Caprice kata ada saham dalam Invoke, itu pun sebenarnya dah boleh kena saman, sebab preference shares bukan saham — preference shares adalah loan. Ada banyak jenis preference shares — ada redeemable preference shares, maksudnya dia bagi loan katakanlah 1 juta, tiap-tiap tahun kita kena bayar interest, kalau 5% maksudnya 50 ribu setahun. Lebih kurang macam tu. Kemudian kalau redeemable, maksudnya selepas waktu tertentu, mungkin 5 tahun, 10 tahun, kita kena bayar balik 1 juta itu. Cuma dia tunjuk sebagai preference share, bukan loan, tapi it's actually a loan — kenapa? Sebab dia tak ada hak mengundi, tak ada hak melantik, tak ada hak kepada profit kita, tak ada hak apa-apa.
 
@@ -495,4 +495,4 @@ Jadi semua ini hanyalah dibuat semata-mata untuk membunuh karakter politik. Dan 
 
 **Haziq:** Okey, kita jumpa minggu depan. Selamat malam.
 
-**Lee Chean Chung:** Selamat malam. Selamat berpuasa. Bye there. Selamat malam. Salam, salam.
+**Rafizi:** Selamat malam. Selamat berpuasa. Bye there. Selamat malam. Salam, salam.

@@ -63,7 +63,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** And — it really is over the top. Well, it's not necessarily the staff's fault or anything. But I mean, sometimes it's also our own people's behavior, our consumer behavior. We really want things that are considered more than more. And this food, wanting to compete, becomes difficult. So our people are willing to pay a premium for food. Once that becomes consumer behavior, then people start making all sorts of criticism. But this is quite over the top — a food reveal selling satay, three skewers. What's that, paper or something?
 
-**Haziq:** Like cooking paper.
+**Farhan (Pa'an):** Like cooking paper.
 
 **Rafizi:** Cooking paper. Maybe I'll try doing that at Kesom sometime.
 
@@ -75,7 +75,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** This one, actually, we're joking and laughing at the restaurant that made such a big fuss doing a food reveal for 3 skewers of satay. But actually it reflects society, because it's consumer demand that enables this. I don't know about other people, but for me, eating is physiology — eating delicious food all the time is something that doesn't make sense. If we have 7 days a week, we just need enough carbs, enough protein, and no food poisoning. In my case, not enough vitamins because I don't eat vegetables. So as long as it's enough, it's physiology to keep you healthy and going. Eating delicious food once in a while is fine. But we've become consumers who expect that every time we eat, it has to be fine dining. And that gives rise to all sorts of other issues — food prices, consumer expectations — and that's what allows restaurants and traders to just try to tap into that consumer behavior and create premium added value. So it ends up that people pay a premium but get 3 skewers of satay. So it's a reflection of society too, as a kind of reward, I guess — life is tiring.
 
-**Haziq:** There are plenty of other things that can be rewards.
+**Rafizi:** There are plenty of other things that can be rewards.
 
 **Rafizi:** Rewards are indeed needed, but if the reward is stuffing yourself with delicious food every day, that's not good, you know. Okay, let's look at the next one.
 
@@ -145,7 +145,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Haziq:** PKR, Parti Keadilan Rakyat. So I don't have a specific question, but there have been a lot of developments in PKR that we're not sure are connected or not. First, certainly, many members of the public have been searching everywhere for the whereabouts of the Deputy President of Parti Keadilan Rakyat. Met Mesut Özil.
 
-**Farhan (Pa'an):** Oh, he met Mesut Özil.
+**Rafizi:** Oh, he met Mesut Özil.
 
 **Haziq:** That's one. And then another one — suddenly showed up while promoting Siti Nurhaliza's concert. Then there's also the story about whether it's true the PM didn't shake Saifuddin's hand. And the strangest thing, which everyone seems unsure what it's about, is that a statement suddenly came out from the PKR Disciplinary Board, which is usually said to be intending to sack him, or to sack other people. So what's YB's insight on this?
 
@@ -321,7 +321,7 @@ Then when we entered government, one of the objections to PADU that the public m
 
 **Rafizi:** In this. I'm scared they'll come arrest me.
 
-**Farhan (Pa'an):** Suddenly MACC shows up.
+**Rafizi:** Suddenly MACC shows up.
 
 **Rafizi:** Suddenly, that useless Haziq has arranged for MACC to come rate this podcast. No way. Okay, enough about this young man.
 

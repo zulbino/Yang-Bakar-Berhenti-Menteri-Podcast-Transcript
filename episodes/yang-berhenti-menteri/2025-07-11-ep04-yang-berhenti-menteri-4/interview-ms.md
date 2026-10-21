@@ -66,7 +66,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Haziq:** Baiklah, YB, pencairan suasana terakhir. Bilakah pencairan suasana lagi? Saya dah berapa kali dah ini.
 
-**Rafizi:** Bukan itu YB lah.
+**Haziq:** Bukan itu YB lah.
 
 **Haziq:** Untuk kaitan dengan pembicara tetamu kami. YB, bilakah pertama kali bertemu?
 
@@ -74,7 +74,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Haziq:** Dan YB, memandangkan kami ada saudara Faiz malam ini, YB pun dalam 2 3 hari sebelum ini keluarkan kenyataan tentang Ayuh Malaysia untuk apa membuat. Oh, itu sebab kau pakai baju itu kan? Itulah baju. Baju jelek dia, ya Allahuakbar.
 
-**Rafizi:** Jadi baju tidur Jadi sekarang perlu pakai balik.
+**Haziq:** Jadi baju tidur Jadi sekarang perlu pakai balik.
 
 **Haziq:** Baiklah, bercakap tentang Ayuh Malaysia, YB hendak buat balik perusahaan sosial dan saya rasa perbincangan tentang ekonomi sektor ketiga atau perusahaan sosial ini agak kurang dekat Malaysia dan mungkin kami ada suara Faiz. YB, walaupun dia agak kurang dan-
 
@@ -152,7 +152,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Faiz Ahmad:** Dan memang ekonomi pun memang kena bekerja sebenarnya, kan?
 
-**Rafizi:** Rakyat di luar. Pengeluaran.
+**Faiz Ahmad:** Rakyat di luar. Pengeluaran.
 
 **Faiz Ahmad:** Rakyat di luar dia faham lain tau. Memang lai- Dia kena kena kerja. Kena kerja. Dia ingat duit tu bebas tu adalah baik. Bila tak diberi duit bebas, ekonomi tak baik. Sebenarnya tak boleh macam tu.
 
@@ -168,7 +168,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Faiz Ahmad:** Maksudnya 15% tu. Okey.
 
-**Rafizi:** 85% patut dapat penyiasatan.
+**Faiz Ahmad:** 85% patut dapat penyiasatan.
 
 **Faiz Ahmad:** Tetapi tak disemak yang.
 
@@ -306,7 +306,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Ekonomi dia lain, dia berasaskan perkhidmatan (*service-based*), dia lain kan. Jadi kita sekarang ni, inflasi ideal kita ialah 2%. 2%. Antara 1.5 hingga 2% dalam keadaan profil kita bagus. Memang betul kalau contohnya inflasi itu terlalu rendah ataupun negatif, deflasi. Saya ingat kalau Jepun pun melalui hampir 20 tahun kesukaran oleh kerana ini, orang-orang kat luar yang kata, "Ya, ya, ya, jom turun harga barang, turun harga barang" kan. Negara lain pernah melalui tau. Jepun daripada tahun 1990 sampailah baru-baru ni kan. Tu tahun berapa tu? 30 tahun? 30 tahun kan. Deflasi kan. Dia melalui proses itu, memanglah harga barang tak naik dan sebagainya. Tapi gaji pun tak naik. Tak ada pertumbuhan ekonomi.
 
-**Faiz Ahmad:** Tak ada pertumbuhan ekonomi.
+**Rafizi:** Tak ada pertumbuhan ekonomi.
 
 **Rafizi:** Produk banyak dah hilang. Jadi bila tak ada pertumbuhan ekonomi, maka orang tak melabur untuk menghasilkan kegiatan ekonomi yang baru. Jadi akhirnya lama-lama ekonomi tak tumbuh. Ekonomi sebenarnya musnah (*destroyed*). Banyak sektor itu telah hilang dan sebagainya. Jadi mereka ada masalahlah. Jadi zaman-zaman dulu kan, di Jepun lah, oleh kerana inflasi negatif itulah, deflasi, bank kena bayar supaya kalau maksudnya kalau engkau simpan duit dalam bank, kau kena bayar bank. Bukannya dapat faedah (*interest*). Sebab bank kata janganlah letak duit dalam bank ni, sila pergi berbelanja kan. Jadi, dia ada kesan jugalah. Jadi, ubanomiklah. Baru sekaranglah, saya rasa untuk tahun inilah buat pertama kali saya ingat Gabenor Bank Negara Jepun berani menaikkan kadar faedah (*interest rate*) kan.
 
@@ -326,7 +326,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Faiz Ahmad:** Ringgit selalu diserang kerana sekarang ni ringgit itu dikatakan rendah.
 
-**Rafizi:** Tapi bila saya tengok sejak 15 tahun yang lepas, ringgit memang dah merosot lama dah pun.
+**Faiz Ahmad:** Tapi bila saya tengok sejak 15 tahun yang lepas, ringgit memang dah merosot lama dah pun.
 
 **Faiz Ahmad:** Yalah. Tapi kenapa orang *highlight* kawasan sini? Kenapa tak *highlight* kejatuhan tu dah berlaku selama 15 tahun?
 
@@ -340,7 +340,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Satu sebab bukan pilihan raya. Pilihan raya bukan esok kan? Jadi katakanlah pilihan raya dua tahun daripada sekarang, most probably dua tahun daripada sekarang, kita akan melalui banyak *headwinds*. Ekonomi dunia yang memang mencabar kan. Kita juga akan melalui beberapa perkara yang kerajaan sedia ada dan juga pembangkang kena lalui, contohnya soal reformasi dan sebagainya kan. Kita juga kena tengok daripada separuh penggal sampai habis penggal, parti-parti yang ada nilah semua kan, macam mana reaksi dia dan untuk kita berlaku adil, kita kena bandingkan satu penggal dengan satu penggal kan. Jadi ia adalah padang yang terbuka sebenarnya. Ia adalah padang yang terbuka sekarang inilah kan. Jadi kalau di AS contohnya, separuh penggal itu adalah loceng amaran yang pertama, sama ada parti itu atau presiden itu akhirnya boleh kekal dan dipilih semula ataupun bertukar. Ia bergantung kepada baki separuh penggal itu kan. Buat masa sekarang, saya bimbanglah kalau pembangkang, baik PN ke, baik Bersatu ke mengambil alih. Kerana sayangnya dalam keadaan banyak perkara yang kita rasa ubat itu dah mula ada kesan dan kita perlu pastikan perkara-perkara yang dibuat ini berkekalan sampai hujung penggal, kan. Jadi, sudah tentu kebimbangan rakyat ialah kalau bertukar, sebab kelebihan PH lah selalunya ialah rakyat lebih yakin PH adalah pentadbir yang lebih kompeten. Tetapi, ada tawar-menawarnya jugalah. Kerajaan PH ke, BN ke yang ada sekarang, jangan ambil mudah sentimen rakyat. Jadi kalau contohnya ada isu-isu yang tidak ditangani dengan baik, yang itu juga yang kadang-kadang pempengaruh, pempengaruh bukan awaklah, pempengaruh PKR lah selalunya kan.
 
-**Faiz Ahmad:** Sebut nama. Aku pun tak ingat nama mereka ni.
+**Rafizi:** Sebut nama. Aku pun tak ingat nama mereka ni.
 
 **Rafizi:** Mereka duk panggil Ceplos. Aku pun tak faham Ceplos ni apa dia kan. Jangan rendahkan akal rakyat. Kalaupun kita sokong parti kita, kita tidak boleh bersikap *holier than thou*. Bahawa parti aku adalah yang paling baik. Kalau kau tak sokong, kau bodoh dan jahat. Ia tidak berfungsi begitu. Kita kena tunjukkan dan kalau ada yang kita rasa tak betul, kita kena tegur kan. Jadi keadaannya sekarang ialah dalam tempoh berbaki dua tahun ini, ia bergantung juga macam mana kita menangani sentimen rakyat. Sebab kalaupun tajuk utama ekonomi bagus dan sebagainya, tapi kalau sentimen itu tidak ditangani dengan baik kerana rakyat rasa kerajaan itu terpisah ataupun bersikap *holier-than-thou* ataupun ia merendah-rendahkan rakyat kan. Jadi akhirnya ia jadi undi proteslah. Dan undi protes itu pernah berlaku tahun 2018. Sebab itu walaun semua dia kata dia rindu zaman Najib sebab angka contohnya bagus 2017. 2017 adalah tahun yang baik dari segi ekonomi, contoh. Jadi sebab itu Najib sangat yakin akan menang. Merdeka Center ke, penganalisis ke semua kata dengan angka ini, sah menang. Tidak, dia tidak menang kerana dia ada jurang di antara angka utama dengan perasaan rakyat di bawah.
 
@@ -434,7 +434,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Kan? Sebenarnya mereka sudah pun memutuskan apa yang akan berlaku kan. Proses untuk memilih calon ada syarat-syaratnya. Pam pam pam pam. Kamu melalui proses itu pum pam pum pam sampailah sebenarnya mereka sudah pun membuat keputusan. Tapi kita masih boleh melawan kan? Itulah bezanya. Kalaulah kita menghormati proses itu, apabila ada perbalahan dan perbezaan pendapat, di situlah proses timbal balik (give and take) berlaku. Okey. Jadi kamu lalui proses itu, tetapi kalau selepas 10 kali timbal balik itu berlaku, kamu beri 100%, tapi kamu dapat kosong, habislah. Tak jadi apa-apa. Menjelang waktu itu kamu sudah tahulah kan. Jadi begitulah juga di kabinet atau di mana-mana sahaja. Jadi ia tidak ada peraturan yang mutlak. Ia bukanlah sebuah buku teks. Tetapi proses dan apa namanya, keyakinan kolektif terhadap reformasi itu sebenarnya akan dinilai berdasarkan apa yang akhirnya berlaku. Okey, cukup adillah.
 
-**Faiz Ahmad:** Baik, puas hati?
+**Haziq:** Baik, puas hati?
 
 **Haziq:** Puas hati. Okey, 1 jam 50 minit yang produktif.
 

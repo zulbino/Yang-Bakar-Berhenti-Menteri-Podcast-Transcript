@@ -55,7 +55,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Haziq:** Datuk Dr. Rais Hussin.
 
-**Dr. Rais Hussin:** How are you, Datuk?
+**Haziq:** How are you, Datuk?
 
 **Speaker ?:** Alhamdulillah.
 
@@ -67,7 +67,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Haziq:** Right. If I may start, Doctor. You left Bersatu in October, on 7 October 2022. You stated that among the reasons for the resignation were health issues and other duties. But just a few days after that, you joined PKR. So what was the actual reason, Doctor? Maybe it was about your principles or something?
 
-**Dr. Rais Hussin:** Ask what — he's giving a leading question.
+**Rafizi:** Ask what — he's giving a leading question.
 
 **Haziq:** Leading answer.
 
@@ -77,7 +77,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Dr. Rais Hussin:** Yes, that's a story from PH 1.0. I discussed a lot with Raf at that time too. And I remember, at Pantai Hospital, while my wife was still in the hospital about to deliver — the YB. We were at a particular coffee shop down there near Pantai, the Zionist Starbucks. So there we spent about 2 hours, close to 2 hours, discussing the way forward and making Tun Mahathir PM again. Why? Because I said that's the only way to bring back Dato' Seri Anwar, pardon, that process at the time. Because at that time DAP didn't want to accept Tan Sri Muhyiddin as the PM candidate, if you remember correctly, Raf. But at that point in time, this was the only solution we had. And the next day or the day after, Nurul, Izzah went to London to discuss that. So the transition agreement was July 14, 2017. Can't forget it because the next day my twins were born, and that night, until midnight, there was arguing at the PKR office by everyone. And then Tun Mahathir said, look, if that's the case, we will leave. Salahuddin, Allahyarham, if you remember correctly, he stood up. He said this can't happen. We need to do this. Then I asked at the time, if you remember, can you give us 15, 30 minutes' break? We'll come up with an agreement. So at that time Raf drafted an agreement, I drafted an agreement. And in that agreement, much of the focus on our side was more on Dato' Seri Anwar, if you remember correctly, if you don't mind — truthfully. In my agreement, everything Raf mentioned, pardon, about the transition, all that was mentioned — it's in there — but we also focused somewhat on the rights of Malaysia. Why? My view was that this agreement would be leaked. In Malaysia, everything gets leaked. So I knew it would be leaked. That's why we suggested that. So Raf insisted on putting in 24 months. I said don't put in 24 months.
 
-**Haziq:** 24 months as in?
+**Rafizi:** 24 months as in?
 
 **Dr. Rais Hussin:** 2 years.
 
@@ -85,9 +85,9 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Dr. Rais Hussin:** I insisted.
 
-**Rafizi:** Yes, you insisted on putting it there. I said —
+**Dr. Rais Hussin:** Yes, you insisted on putting it there. I said —
 
-**Dr. Rais Hussin:** Please. I've forgotten all of this.
+**Rafizi:** Please. I've forgotten all of this.
 
 **Rafizi:** But I said no, if you do that — that's why it became open-ended, you know.
 
@@ -97,7 +97,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Dr. Rais Hussin:** But that's the fact. And I still don't understand why I'm distrusted that way. Okay, fine, Doctor.
 
-**Rafizi:** But I was appointed at Maranti by Dato' Seri Anwar. Fine. Okay.
+**Dr. Rais Hussin:** But I was appointed at Maranti by Dato' Seri Anwar. Fine. Okay.
 
 **Haziq:** Alright, let's move on to the segment — so YB Raf himself asked that the guest we invited go through the segments we usually do as well.
 
@@ -119,7 +119,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** This "War Zone" thing — what event is it actually? A Muay Thai championship competition. Mixed martial arts. But for what? For kids. There's a category.
 
-**Haziq:** There's a kids' category.
+**Rafizi:** There's a kids' category.
 
 **Rafizi:** Right, it's — I mean society has to accept, we as parents need to know for ourselves. Whatever we do, it's best not to involve the children.
 
@@ -135,11 +135,11 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Dr. Rais Hussin:** And if you remember, during his premiership there was an issue I couldn't support, and I was very much against it — the 5G single wholesale network, which I believed was a scam. I went to see him a few times. He said, "Rais, are you aware that this is what we're doing?" I said, "Yes, but it's a scam, Tan Sri. Give me 15 minutes, I'll explain it to you." And I explained to him why it was a scam. The single wholesale network for 5G had failed in every country, in every territory and jurisdiction.
 
-**Rafizi:** Except Brunei, of course.
+**Dr. Rais Hussin:** Except Brunei, of course.
 
 **Dr. Rais Hussin:** But Brunei has its own peculiar reason — small, 500,000 people. So I always advocated for a multiple wholesale network. And when Dato' Seri Anwar became PM, that was the only time I had a one-on-one session with him — after that it was completely ring-fenced. But that was the only time. I met him in Parliament for about 30, 45, maybe 40 minutes. And I explained to him again why we couldn't do the single wholesale network. Of course the problem was inherited, and Alhamdulillah he agreed, and he did go for a dual wholesale network. But when it came to execution, I wasn't happy because it was given to a company that shouldn't have gotten it — it should have gone to either Celcom or Maxis.
 
-**Rafizi:** So that's a different story.
+**Dr. Rais Hussin:** So that's a different story.
 
 **Dr. Rais Hussin:** A Cambodian minister who came to Malaysia wanted to meet me because of the things I'd done right — Alhamdulillah my op-eds reached Cambodia. So I started by saying that if people had brains, they wouldn't go for a single wholesale network. So the minister was shocked — at the time Cambodia wanted to go for a single wholesale network. And then I explained to them why it had failed everywhere — Kenya, wherever, everywhere. Rwanda, for God's sake — they did it, went to a single wholesale network, then reverted to multiple wholesale network. But we in Malaysia are still persistent — thanks to a certain guy known as Zafrul. So, but Tan Sri Muhyiddin was willing to listen and he's a very calm and composed person. He doesn't easily get carried away. So those are the things. Of course, I did not agree with the takeover of the government. That's why, in fact, if you remember, 3 or 4 days before that happened, I was on BFM pleading that it shouldn't happen. But it happened anyway. But he's a good man. He's a good man.
 
@@ -163,7 +163,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Haziq:** Alright, alright. So that's the explanation. Next. We have — don't go around sticking stickers. This is Ultras Negeri Sembilan, but they stuck a sticker on a plane. Stuck a sticker of what, Negeri Sembilan? A sticker.
 
-**Rafizi:** They're going to get caught.
+**Haziq:** They're going to get caught.
 
 **Haziq:** Yes, caught.
 
@@ -207,7 +207,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Okay, my top 2 for this week are the Zoo and also the Forgiveness incident. Alright, let's give the forgiveness one — meaning it's a bit of a joke. Because the 180-degree swing was quite something, from scolding to immediately apologizing. It's fine though, I think it's right to apologize, but apologizing with drinks, holding a dinner event paid for by the government — that's a bit different.
 
-**Haziq:** That's what I tweeted—
+**Dr. Rais Hussin:** That's what I tweeted—
 
 **Dr. Rais Hussin:** I tweeted saying it's fine to host a meal, but under his own [funds], not under the—
 
@@ -243,7 +243,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Silicon Vision? Ecosystem infrastructure and innovation such as AI chip R&D through VC Silicon and cooperation with global players like ARM. Previously MITI was the one most opposed to Silicon Vision. Never mind. But yeah, good that Suhaizan asked this question, because questions like this should actually spark more discourse in society, so that we don't just accept whatever's communicated through official channels at face value. Alright, okay YB.
 
-**Haziq:** We have one more question, from Pagoh, from Tan Sri.
+**Rafizi:** We have one more question, from Pagoh, from Tan Sri.
 
 **Rafizi:** Ah, let Dr. Rais answer this one. Let me read it first, Datuk.
 
@@ -265,7 +265,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Dr. Rais Hussin:** The UN study on the urban poor talked about this, saying stunted growth — not only in height, but also the brain. Of course, it will start to have an effect on the brain.
 
-**Rafizi:** That's a big issue. And then what they—
+**Dr. Rais Hussin:** That's a big issue. And then what they—
 
 **Dr. Rais Hussin:** Found out in urban poor, in KL especially, is that they eat instant noodles. Yeah, instant noodles, very easy to get. You cannot have more harmful food than instant noodles in your tummy. Don't let me sell instant noodles to people.
 
@@ -287,7 +287,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Shah Alam.
 
-**Dr. Rais Hussin:** Shah Alam, near Seksyen 7.
+**Rafizi:** Shah Alam, near Seksyen 7.
 
 **Rafizi:** Okay. But there's one thing we never thought of at all. I mean, it's good. This past week has revealed many things I never imagined at all. The biggest group of visitors. We thought since we opened in Seksyen 7 near UiTM, the biggest visitor group would be students. Not so. The biggest group of visitors are elderly Malay couples. So I've been studying why elderly Malay couples, retired uncles and their spouses, like going to the flat, husband and wife, buy coffee, eat there. Well, good.
 
@@ -327,9 +327,9 @@ That's why, if you look at what Dr. Rais mentioned earlier — Zafrul said don't
 
 Knowing the ministry, it's the same too — even when I was a minister, if we knew something was really wanted by the PM, no matter what, it would pass in cabinet. You know what we would do? Our comments would be very long and detailed, but basically, we've done our job. I know I'll lose in cabinet because no matter what, the PM will get his way, or Zafrul will get his way. But it is my duty for my portfolio and my ministry to basically express disagreement. I know it won't make a difference, but I put it on record. If this agreement went word by word through that process, chances are there would be a lot of comments like that. What I'm worried about is that there wasn't a word-by-word review. So going back, that means it reached Zafrul as, "this is the agreement, we can't agree, or we need" — in civil servant language, "we need your direction." That's the point I'm making. If this matter is tied or connected to Trump's arrival, well, the buck stops with Zafrul and also the PM. Because why bundle it? Because for the life of me, I don't think the civil servants agreed with this.
 
-**Dr. Rais Hussin:** I agree. Knowing them, they would be sweating.
+**Rafizi:** I agree. Knowing them, they would be sweating.
 
-**Rafizi:** My experience, my limited experience — not as a minister, but as a CEO of a GLC — I know the process.
+**Dr. Rais Hussin:** My experience, my limited experience — not as a minister, but as a CEO of a GLC — I know the process.
 
 **Dr. Rais Hussin:** None. I can also share another example. We signed some agreements before with some US entities before I became CEO there. When I went there, I looked at that agreement again — MashaAllah, how could we have committed ourselves to something we cannot deliver? So I asked for renegotiation. It was very difficult, because we didn't have a clause 7.3 in that agreement. But it made sense to them, because they were expecting us to deliver the water, the electricity, and so on, within a very short span of time — for the data centers. Until we had to go to the PMO a bit. Actually we just needed to call them frequently. And then we prepare a report — this, this, this, this. So I agree with Raf. I strongly feel this agreement was rushed, and I do not think it went through the full rigorous diligence process by the civil service, because I have such high regard for our civil service — they are very, very detailed.
 
@@ -345,7 +345,7 @@ Knowing the ministry, it's the same too — even when I was a minister, if we kn
 
 **Dr. Rais Hussin:** You didn't, you, you, boss — who understands this?
 
-**Rafizi:** No, I didn't say anything, I didn't say anything.
+**Dr. Rais Hussin:** No, I didn't say anything, I didn't say anything.
 
 **Dr. Rais Hussin:** So party discipline — I never got a letter either. So I told them, it's fine, because I think as a Malaysian — again, boss — when Tun Mahathir didn't want to honor the transition agreement with Anwar, I went public. And at that time I was called a self-proclaimed strategist and all sorts of things, and they wanted to take disciplinary action against me. And only two — actually three — individuals came out defending me. One is obviously Tan Sri Muhyiddin, but he didn't say much, he was more on the phone. Then Zahid Hamidi. And Dato' Seri Anwar. And Dato' Seri Anwar said this, in public: "In PKR we celebrate differing views, different opinions." You can Google that back from that time. So, so I repeat, I sent that, this is what I feel. And if they want to take action, well, what can I do? But as a Malaysian, a responsible Malaysian, a citizen who has benefited greatly from Malaysia, I cannot accept this agreement. And this agreement, if there were just a small blemish here and there, fine — but this has many, 18, 19 clauses, boss. So then I told them, nothing is lost — we can invoke 7.3. Then I will send you the — once the lawyers come back, the 3 lawyers, boss, come back, I will send it. And then at least, just take that, enter the ego-free zone, no need to defend, defend everything. At least look at it. If it can be corrected, correct it, what's wrong with that? Because we have that clause. Yes, the response was, "negotiation with the US is not easy." I say yes, but doing nothing is even worse. That's it. 2 hours and 5 minutes.
 
@@ -385,19 +385,19 @@ And then there's somebody called Dr. Marzuki. I think he's a very intelligent ac
 
 **Dr. Rais Hussin:** Yeah, okay. So last time it was a different person — around Najmuddin, he's very strict. That's the appeals board that was appointed, that was recently. So I do not know how impartial, whatever. But there is a discipline process. But to go out and attack the president like that — I mean, differences of opinion exist, boss. Which party has never had turmoil? Every party has turmoil. They would say the same thing about me attacking Anwar Ibrahim.
 
-**Rafizi:** But you did not.
+**Dr. Rais Hussin:** But you did not.
 
-**Dr. Rais Hussin:** Did I? Didn't I?
+**Rafizi:** Did I? Didn't I?
 
-**Rafizi:** No, see, you have a differing view.
+**Dr. Rais Hussin:** No, see, you have a differing view.
 
 **Dr. Rais Hussin:** Yeah, okay, alright. And boss, I followed your journey during the election campaign, and I tried my best to see what could be done. I even articulated the view that there should be a deputy president too — or one more deputy president — because both of you, Rafizi has his incredible strength, Isa has a strength, so it will fortify the party. So although I said I potentially cannot be trusted in PKR, I was thinking from that perspective. That's why I texted you, not on WhatsApp, on regular SMS, and I was clear saying party comes first. So in this case, I think Wan Saiful and Wan Faizal overstepped their bounds, and want to fast-track these things. And then they went on Zahid Ibrahim's podcast, and I saw all that — I got a shock of my life the way he was speaking, right? I mean, come on, there must be some decorum. You didn't speak about Dato' Seri Anwar like that.
 
-**Rafizi:** You did not.
+**Dr. Rais Hussin:** You did not.
 
-**Dr. Rais Hussin:** Depends who you ask, of course. Some people—
+**Rafizi:** Depends who you ask, of course. Some people—
 
-**Rafizi:** No, at least officially, when I see your podcast and this and that, I follow.
+**Dr. Rais Hussin:** No, at least officially, when I see your podcast and this and that, I follow.
 
 **Dr. Rais Hussin:** Yeah, yeah. But I didn't see it that way, right? But this one is very disrespectful. So I think probably they deserve what they— So what is going to happen?
 
@@ -405,7 +405,7 @@ And then there's somebody called Dr. Marzuki. I think he's a very intelligent ac
 
 **Dr. Rais Hussin:** I think there are two individuals you're talking about now — Wan Saiful and Wan Faizal. I'm not in Bersatu, but if I were there, this is what I would try to do. Okay, Wan Saiful has burned his bridge quite extensively. Wan Faizal is still young and has potential — maybe reduce the suspension from one year to a certain period. How long is he suspended for?
 
-**Rafizi:** One term? A year.
+**Dr. Rais Hussin:** One term? A year.
 
 **Dr. Rais Hussin:** A year, a year. So maybe, maybe. And then there will be a re-discussion on the transition plan. If I were Bersatu again, I would say that to face the forthcoming elections, either next year or the year after, you need someone who can lead the group. And who do you see in PAS? Somebody was talking about Dr. Ahmad Samsuri. Who do you see in Gerakan? Nobody. Who do you see in other parties? Who do you see in MCA? Nobody. Who do you see in MIC? Nobody. Thinking these guys will join them. And who do you see in Bersatu? Hamzah is good, but an operator — he is known for being an operator, behind-the-scenes and all that, he is indeed very suave. But the one who can provide leadership... So I think, hopefully — I don't know whether this ceasefire is the Gaza type of ceasefire or one with some permanence — they can come to the table and discuss among themselves — okay, we've done it, now we know who's who, who's who, who's who. For Saifuddin Abdullah to — I was shocked. I know him for a long time, since my university days. He was assistant registrar at Universiti Islam when I was a student in UIA back then, right? So I've known him for a very long time. But for him to come out so aggressively like that — "there's no money in the party" — sometimes it's the truth. But you cannot operate a party based on just money. During my time in Parti Bersatu, we had to fork out our own money. I still remember the many things we did using our own money, my own money. We never took political profit from it. I was appointed AMDEC chairman for 8,000 ringgit per month. Do you know what my salary was in 1997, '98? Almost a quarter million ringgit a month, working for a Canadian company. So there is no profit. Even at Meranti, I was probably the cheapest in Malaysia, because of the salary level. And secondly, when they wanted to give increments and bonuses, I said no. That's all.
 
@@ -425,7 +425,7 @@ And then there's somebody called Dr. Marzuki. I think he's a very intelligent ac
 
 **Dr. Rais Hussin:** And that issue, especially the first one, was prevalent during Pakatan Harapan 1.0. Nobody said anything back then. Wan Saiful didn't say anything either. Right. So why suddenly now? So we can start thinking about the sincerity of it, need to reflect on that. That's it — politicians sometimes are like diapers, you know — need to be changed. It would be good if none of this existed, but then how would we find material for the podcast?
 
-**Rafizi:** Love to Wan Saiful and friends. Alright.
+**Haziq:** Love to Wan Saiful and friends. Alright.
 
 **Haziq:** That's it for tonight, life is hard. Do we have a segment to continue with? It's been two and a half hours. Maybe a bit more on Zohran Mamdani, if you want.
 

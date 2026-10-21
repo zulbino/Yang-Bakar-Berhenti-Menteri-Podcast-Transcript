@@ -68,7 +68,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Haziq:** Okey. Okaylah kita terus ke Brae, tapi sebelum tu a setting yang ini mungkin sementara saja, YB. Kita sebab Farhan ada kerja, dia kata.
 
-**Rafizi:** Ha, macam lah aku kena saya yang menurut perintah. Tapi a dia podcast YBM bukan dah jadi podcast bersama Kenapa dia tak boleh buat di bersama?
+**Haziq:** Ha, macam lah aku kena saya yang menurut perintah. Tapi a dia podcast YBM bukan dah jadi podcast bersama Kenapa dia tak boleh buat di bersama?
 
 **Haziq:** Branding lain? Ya, itu satu lagi.
 
@@ -116,9 +116,9 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Haziq:** Strategi yang baik. Okey baik. Selanjutnya YB. Kita ada. ha isu takhta Negeri Sembilan sedikit. Penyelesaian depan cakap lain, belakang cakap lain, buat lain, umum lain. Kan dah ada U-turn pula kan?
 
-**Rafizi:** Yang peliknya ialah be-
+**Haziq:** Yang peliknya ialah be-
 
-**Haziq:** Pengumuman terbaru ialah Exco
+**Rafizi:** Pengumuman terbaru ialah Exco
 
 **Rafizi:** Ya, mengatakan bahawa pada asasnya (*basically*) mengumumkan menurunkan takhta Tuanku Mukhriz.
 
@@ -150,9 +150,9 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Jadi bukan beritalah. Ingatkan kecuali kalau dia memang ulama besar UMNO ni memang menarik diri kan. Tawakuf kepada Lim Sian Si. Kalau apa ni menarik diri tu dalam selalu orang kata apa? Tawakuf lah kan?
 
-**Haziq:** Tawakuf. Cuba Google. Tawakuf. Ha, budak ni ha.
+**Rafizi:** Tawakuf. Cuba Google. Tawakuf. Ha, budak ni ha.
 
-**Farhan:** Menahan penghakiman, berhenti seketika atau menahan diri daripada memberikan pendapat yang muktamad. Ha, betullah tawakuf lah.
+**Haziq:** Menahan penghakiman, berhenti seketika atau menahan diri daripada memberikan pendapat yang muktamad. Ha, betullah tawakuf lah.
 
 **Rafizi:** Ha, dia ulama besar UMNO. Ya. Jadi dia kena gunakan bahasa-bahasa seperti itu. Aku ingat dia dah beria merajuk dan terus tawakuf lagi tu.
 
@@ -370,7 +370,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Haziq:** Dia sebab dia tidak stabil.
 
-**Farhan:** Tidak, tidak, tidak, tidak. Kenapa perlu ada dua tier satu, tier dua? Yalah, aku tak salahkan koranglah. Ini hanya beberapa orang dalam rakyat Malaysia yang tahu.
+**Rafizi:** Tidak, tidak, tidak, tidak. Kenapa perlu ada dua tier satu, tier dua? Yalah, aku tak salahkan koranglah. Ini hanya beberapa orang dalam rakyat Malaysia yang tahu.
 
 **Rafizi:** Yang tahu. Ini pun tak pernah dibentangkan. Itu pun satu Ceplos ni. Kamu tak terangkan macam mana dikira semua kan. Jadi orang kalau naik harga dia marahlah. Dia bukan tahu daripada mana gas tu datang semua. Kenapa ada satu tier harga dia 30, harga maksimum dia 35 per MMBTU. MMBTU tu ialah Unit Terma British. Satu lagi ialah 46 ringgit. Sebab punca asal gas ni berlainan. Tier 1 itu ialah gas daripada Semenanjung Malaysia. Dulu-dulu, 30, 40 tahun yang lepas, kita banyak gas. Dan perindustrian kita ni tak cukup tinggi lagilah. Jadi masa itu gas ini digunakan untuk menjana elektrik. Saya ingat masa saya muda-mudalah, ini dalam 30 tahun, baiklah hampir 26, 27 tahun yang lepas kan. Harga gas untuk menjana elektrik di Malaysia, di Semenanjung di Semenanjung, ialah RM6.40 per MMBTU. Kan. Gas banyak masa tu. Banyak. Tak apa. Bakar, bakar, bakar buat jana elektrik kan. Masa itulah ramai semua nak buat IPP. Ha, kerana gas murah kan. Lama-lama permintaan untuk gas itu makin tinggi. Kan. Jadi contohnya kalau di Semenanjung Malaysia, saya ingat penggunaan setiap hari lebih kurang 2100 ke 2200 mscaf setiap hari. Dan oleh kerana permintaan yang tinggi, maka ini dalam tahun 2007, 2008 lah, dia mula jadi isu lah. Daripada kita bakar gas tu untuk menjana elektrik semata-mata, gas itu boleh menghasilkan lebih banyak hasil kepada negara, baik dari segi penciptaan nilai, baik dari segi cukai, kalau kita jual kepada industri. Contoh-contoh industri kita jual kepada petrokimia lah, kita jual kepada kilang-kilang, semualah.
 
@@ -378,11 +378,11 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Yalah, sudah tentu lah kerana kamu jual pada harga pasaran. Dan dia boleh ambil molekul gas. Gas asli itu apa? Kimia - kau buat kimia tak dulu? Buat. Jadi gas asli adalah C. Gas asli adalah
 
-**Haziq:** Gas asli adalah C1 metana.
+**Rafizi:** Gas asli adalah C1 metana.
 
 **Rafizi:** C1 tu dia satu karbon ada 4 H kan? Ah, C1. Jadi dia boleh ambil C1 ni dan dia boleh buat ambil contohnya dia buat urea. Dan dia boleh mengeksport dan urea ni ada banyak kesan. Dia boleh buat ammonia. Ammonia menjadi bahan kimia asas untuk banyak perkara lain. Daripada bahan kimia asas ni dia boleh buat pelekat lah, macam-macam. Boleh buat cat lah, macam-macam. Betul. Kan? Jadi penciptaan nilai adalah banyak lebih daripada sekadar bakar untuk
 
-**Haziq:** Elektrisiti. Untuk buat elektrisiti. Jadi perkara seterusnya yang orang kata mengenai penambahbaikan kepada rejim, rejim gas ni, pada suatu masa dia dah naik daripada RM6.40 per MMBTU kepada RM11.32, saya rasa, per MMBTU.
+**Rafizi:** Elektrisiti. Untuk buat elektrisiti. Jadi perkara seterusnya yang orang kata mengenai penambahbaikan kepada rejim, rejim gas ni, pada suatu masa dia dah naik daripada RM6.40 per MMBTU kepada RM11.32, saya rasa, per MMBTU.
 
 **Rafizi:** Jadi perkara-perkara ni berkembang, berkembang. Saya fikir sehingga tahap tertentu mesti 10, 15 tahun yang lalu. Pada masa itu pun aku dah tinggalkan daripada minyak dan gas semualah kan. Negara hadkan berapa banyak yang pergi kepada tenaga. Jadi itu yang menjadi tier 1. Tier 1 itu ialah jumlah maksimum daripada gas di Semenanjung yang boleh dibekalkan untuk menjana elektrik. Dan jumlah itu sekarang ialah 800 mscaf setiap hari. Kan. Apa-apa yang melebihi 800 mscaf setiap hari tu memang tak ada gas dah. Jadi akhirnya kalau gas yang daripada Semenanjung ni tak cukup, dia kena buat apa untuk memenuhi permintaan daripada penjana elektrik ni?
 
@@ -390,25 +390,25 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Daripada bawa daripada dunia lah. Dia jadi LNG. Jadi LNG kamu kena bayar harga yang apa nama ni, harga pasaran. Itu yang reference price untuk tier 2. Tier 2 ialah hasil ataupun sumber gas daripada antarabangsa. Bukan daripada Semenanjung, kan. Jadi bila tengok tu, apa makna tu?
 
-**Haziq:** Maknanya. Tengok graf tu, 2 tu.
+**Rafizi:** Maknanya. Tengok graf tu, 2 tu.
 
 **Rafizi:** Apa makna dengan graf tu? Perasan tak? Mei, Jun, Julai. Ya. Harga tu, kemudian perasan tak sepanjang itu adalah hampir seperti tier 1 gas tu tak pernah sampai ke 35 MMBTU pun. Tak pernah capai harga reference price dia pun. Kemudian April, Mei, Jun, Julai tu dia ke bawah. Ke bawah. Sesungguhnya, kamu tahu, dia tak masuk akal macam mana tier 2 tu naik ke atas. Tetapi maksudnya tier 2 naik sampai 1 kali ganda, tetapi tier 1 sebenarnya semakin berkurang. Berkurang sikit.
 
-**Haziq:** Jadi, apa yang boleh dibaca?
+**Rafizi:** Jadi, apa yang boleh dibaca?
 
 **Rafizi:** Dia nak sembur Ridsect, tetapi tengah datang ke sini aku sembur sat.
 
-**Farhan:** Dia terpaksa digunakan untuk sektor lain.
+**Haziq:** Dia terpaksa digunakan untuk sektor lain.
 
 **Haziq:** Apa itu? Bila.
 
 **Rafizi:** Mana ada? Jangan minum air itu, aku Ridsectkan semua. Dengan air-air aku Ridsectkan. Mati kau semua nyamuk. Jadi, memang kena pergi ke, kena ke pergi kelas membaca. Apa sebenarnya yang boleh di, korang tengah tunjuk graf ni kan? Ya.
 
-**Farhan:** Kita orang ada muka kecil kat situ. Ya.
+**Rafizi:** Kita orang ada muka kecil kat situ. Ya.
 
 **Rafizi:** Apa yang boleh dibaca daripada graf tu? Tengok yang tersirat, jangan tengok yang nyata.
 
-**Farhan:** Saya nampak yang daripada Mei sampai Julai itu, T1 gas diturunkan harga lagi.
+**Farhan (Pa'an):** Saya nampak yang daripada Mei sampai Julai itu, T1 gas diturunkan harga lagi.
 
 **Rafizi:** Mana boleh tier 1 gas? Memang harga dia menurun, tetapi mana boleh diturunkan harga? Harga itu ditetapkan oleh reference price. Mungkin untuk mengkompensasi peningkatan besar dalam harga tier 2. Tidak mungkin. Kemungkinan yang lebih realistik ialah sebenarnya antara mungkin April, Mei, Jun, Julai, tak cukup gas daripada Semenanjung. Jadi mereka kena dapatkannya daripada LNG. Jadi keseimbangan gas ni dah bermasalah lah. Maksudnya untuk memenuhi bekalan 800 mscaf setiap hari itu pun gas di Semenanjung dah tak cukup dah. Jadi dia kena mengimport. Kan? Itu lebih mungkin daripada menurunkan, ia tak berfungsi macam itu. Daripada menurunkan apa nama ni gas harga gas. Ya Allah, semut pula.
 
@@ -548,7 +548,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Farhan (Pa'an):** Orang yang berikrar (*pledge*) untuk buka apa jua industri.
 
-**Farhan:** Apa, apakah prosesnya?
+**Rafizi:** Apa, apakah prosesnya?
 
 **Rafizi:** Dia tak boleh pakai ikrar, ikrar, ikrar je. Apakah prosesnya? Permohonan? Ya, dia kena dapatkan lesen pembuatan. Ya. Kan? Apa-apa nak dapatkan lesen pembuatan ataupun dia nak dapatkan insentif, dia nak semua itu perlu diluluskan oleh MITI. Jadi kalau MITI lulus, barulah dia boleh pergi berurusan dengan dia macam kita jugalah. Dia buat permohonan dengan TNB lah. Untuk apa nama ni memohon bekalan elektrik. Cuma bekalan elektrik kita ni ialah voltan standard anda, semua penggunaan biasa lah. Kilang ni bergantung kepada kilang yang berlainan. Kilang yang ini penggunaan dia lain, permintaan puncaknya (*peak demand*) lain, permintaan maksimumnya (*maximum demand*) lain kalau pusat data semua ni kan. Jadi puncanya unjuran permintaan itu datang daripada projek-projek industri yang diluluskan oleh MITI. Jadi apa kena mengena pula dengan pusat data ni?
 
@@ -556,7 +556,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Nak kata tanpa menyemak tu pun, saya tak tahulah kan. Tapi, ia jadi situasi itulah. Maksudnya kalau dasar negara, sebab itu saya kata, Ekonomi ni kan, semua orang kata, oh bagus Tengku Zafrul, dia memang hebat buat kerja. Umum pelaburan demi pelaburan demi pelaburan. Maksud saya, itu adalah sebelah pihak daripada mata syiling sebenarnya kan. Itu juga masalah apabila KPI ataupun rakyat ni dia bagi pengiktirafan politik ni, itu berlaku secara silo. Sebab kerja MITI hanya untuk meluluskan pelaburan. Yang masalahnya ialah orang lain yang nak menyelesaikan ni. Jadi kalau dia selesaikan, kalau dia lulus, lulus, lulus apa nama ni, pusat data contohnya, ataupun lulus, lulus, lulus kilang besi, siapa yang akan pening kepala? Kementerian mana yang pening kepala? Paling kurang ada 3 kementerian yang pening kepala, iaitu PETRA 1 untuk membekalkan elektrik. Lagi? Ekonomi. Sebab gas di bawah Kementerian Ekonomi. Gas tak ada.
 
-**Farhan:** Ya, ya, ya. Bahagian tenaga.
+**Farhan (Pa'an):** Ya, ya, ya. Bahagian tenaga.
 
 **Rafizi:** Gas tak ada. Kalau import gas, merana lah kita. Ketiga, MOF lah. Sebab kalau jadi apa-apa, nak kena bayar subsidi semua kan. Jadi, okey. Sekarang orang mula bersuara lah pasal pusat data semua ni. Tapi macam mana pula pusat data ni? Apa kena mengena pusat data dengan caj kapasiti (*capacity charge*), dengan permintaan, dengan caj rangkaian (*network charge*)?
 
@@ -596,7 +596,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Tidak, tidak, tidak, tidak, tidak. Di situlah elektrik ni berbeza. Awak tak patut guna perkataan 'jana'.
 
-**Farhan:** Okey. Itu kapasiti kita.
+**Rafizi:** Okey. Itu kapasiti kita.
 
 **Rafizi:** Maksudnya kalau semuanya, semua loji kuasa dijalankan pada kapasiti maksimum yang dia ada, ia boleh cipta 28. Ia boleh hasilkan 28 gigawatt. Tapi ia bergantung pada permintaan. Jadi awak mungkin ada kapasiti 1 gigawatt, tapi awak mungkin beroperasi pada 500 megawatt. Lagipun kalau tak ada orang nak beli elektrik kau, buat apa kau nak beroperasi pada 1 gigawatt? Awak beroperasi pada 500 megawatt sahaja lah. Dan ia tak sama macam solar. Solar, sebab awak tak jana kan, awak pada asasnya kan, jadi awak boleh simpan dalam bateri. Jadi itu soalan saya. Tapi loji arang batu, loji gas, mana ada elektris- mana ada bateri. Dan saya rasa tak masuk akal dari segi ekonomi untuk jalankan loji turbin gas ni, jalankan jalankan jalankan untuk simpan. Bukan begitu cara elektrik dijana ataupun grid diselenggara. Sebab itulah di negara lain, perancangan permintaan dan penghantaran menjadi sangat penting. Sebab tu diorang pakai AI. Sebab itu dia panggil *smart grid*. Supaya awak cuma jana secukupnya dan kemudian hantar secukupnya untuk mengoptimumkan segalanya. Jadi itu kembali kepada persoalan yang lebih besar daripada soal AFA semua ni. Ia juga persoalan mengenai caj kapasiti dan caj rangkaian. Jadi di peringkat tertinggi negara, timbul persoalan tentang sebenarnya apakah lebihan kapasiti yang kita selesa dengannya? Awak tanya orang dalam industri, dia akan kata 25% adalah okey kerana bagaimana kalau berlaku gangguan bekalan elektrik? Kalau berlaku gangguan bekalan elektrik tu YB, lagi teruk. Kita rugi lebih teruk. Ada orang yang berkata mungkin kita patut beroperasi pada 20% sahaja kerana penjimatan 5% dalam lebihan kapasiti tu, itu patut diterjemahkan kepada elektrik yang lebih murah untuk negara kita. Sebab sudah tentu ia akan diterjemahkan kepada caj kapasiti yang lebih murah, caj rangkaian dan macam-macam lagi kan. Jadi itu di peringkat makro negara lah. Tapi bila sampai ke pusat data ni, sebab apa saya cakap ada benarnya juga, kerana awak kena lihat pada angkanya. Kalau tidak, saya tak ulaslah.
 
@@ -604,15 +604,15 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Setiap bulan yang ini adalah angka-angka yang satu hal nak kena pergi cari semuanya. Daripada pengumuman TNB lah, daripada pengumuman MITI lah, daripada macam-macam kan. Jadi saya telah jadualkan contohnya, kapasiti pusat data yang telah pun memasuki perjanjian jual beli elektrik iaitu ESA kan. Tiap-tiap bulan saya nak tengok Saya nak tengok berapa yang diluluskan, berapa yang sebenarnya bersambung dengan TNB, dan berapa beban pusat data tu yang betul-betul guna tenaga kan? Angkanya tidak bagus tau. Saya bagi contoh Jun 2024. Kapasiti pusat data yang diumumkan. Yang ini yang masuk pengumuman pelaburan, pelaburan semua kan. Jun 2024, kapasiti yang dijamin ialah 4 gigawatt. Yang bersambung dan ditenagakan, maksudnya dah siap sambung elektrik kan.
 
-**Farhan:** 1.7 gigawatt je.
+**Rafizi:** 1.7 gigawatt je.
 
 **Rafizi:** Yang dipakai bila beroperasi tu setakat ini 190 megawatt.
 
-**Farhan:** Hanya 11% penggunaan.
+**Rafizi:** Hanya 11% penggunaan.
 
 **Rafizi:** Kalau berdasarkan angka tu. Saya mungkin salah. Masalahnya benda ni semua tidak dilaporkan atau tidak ada badan pemantau yang menyemak semua ni. Jadi orang macam saya terpaksa pergi semak satu-satu dan jadualkannya. Jadi saya terpaksa ambil daripada sumber maklumat yang berbeza lah. Kemudian, ambil September 2025 pula Kapasiti yang dijamin 7.1 gigawatt.
 
-**Farhan:** Yang disambung 3.8.
+**Rafizi:** Yang disambung 3.8.
 
 **Rafizi:** Yang dipakai 710 megawatt.
 
@@ -668,7 +668,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Memanglah nuklear telah diluluskan. Tetapi ia akan mengambil masa, saya fikir, paling cepat 10 tahun. Kerana Filipina. Jadi kalaulah Petra (*PETRA*) dijalankan dan MOSTI (*MOSTI*) menjalankan tugas sepantas yang mungkin, kemungkinan besar ia akan mengambil masa 10 tahun. Itu belum campur lagi dengan rakyat yang akan jadi isu besarlah kan pasal nuklear semua. Maksud saya, yalah dasar tenaga kalau tengok dalam kerangka pun memang nuklear, awak tahu, dan nuklear tu memang telah diluluskan di peringkat kerajaan. Soalannya adalah betapa cepat mereka boleh menjadikannya kenyataan dan melakukannya dengan betul, melakukannya secara profesional. Dan juga terdapat juga soalan lain tentang nuklear. Saya belum lihat pengiraan kosnya. Mana tahu, ia sama mahal. Cuma ha. Sebab kena beli.
 
-**Farhan:** Well, satu teknologinya mahal.
+**Rafizi:** Well, satu teknologinya mahal.
 
 **Rafizi:** Kemudian kita tak ada bahan api (*fuel*). Awak masih memerlukan bahan api nuklear semua kan. Jadi itu sebenarnya cabaran utama sesiapa sahaja yang jadi kerajaan selepas ini. Isu sebenar ialah segala-gala tentang tenaga yang kita tahu di negara ini sedang berubah dengan pantas. Dan elektrik kita, profil tenaga kita dibina berasaskan kepada minyak di Malaysia ni akan ada sampai bila-bila. Dan bila kita ada kerajaan yang semua mesti gosok-gosok, takut-takut kan, dia sama subsidi minyak, pasal elektrik semua ni. Jadi ia berjongkang-jongkitlah sekejap. Itu yang jadi sekali lagi saya ulang compang-camping tu. Tampal sini. Tapi ia tidak akan menyelesaikan masalah. Dan mungkin secara reka bentuk (*by design*), setiap kali benda ni berlaku memang mungkin ahli politik nak TNB kena bantai. Sedangkan ia bukan TNB. Ia sebenarnya ahli politik. Ia adalah kerajaan yang buat semua dasar ni kan. YB dah terangkan ni habislah.
 
@@ -736,7 +736,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Sebenarnya itulah caranya lah. Sebenarnya satu perkara yang, yang kalau saya berada dalam GPS lah, ancaman strategik kepada GPS dan GRS Borneo ni ialah apabila UMNO dan PAS bergabung. Kerana kalau di Semenanjung ni 165, diorang boleh menang sampai 120, dia tak perlukan langsung Borneo. Kan? Jadi, GPS dan GRS ni pada pandangan mereka, siapa pun jadi kerajaan, mereka akan masuk kerajaan itulah kan. Tapi berapa banyak yang mereka boleh tarik daripada kerajaan persekutuan itu bergantung kepada leverage yang dia ada. Kalau contohnya, PAS dengan UMNO langsung takkan tergugat apa pun diorang minta ataupun apa diorang ugut. Jadi sebenarnya dia hanya menjadi ahli belakang jelah dalam kerajaan itu. Kan. Jadi, antara banyak-banyak gabungan saya ingat yang paling ya rasa terkesan dengan UMNO dengan PAS ni ialah GPS, kemudian GRS. Kenapa ada beza GPS, GRS, Hobi?
 
-**Haziq:** Sebab GRS ni dulu-dulu banyaknya ex UMNO.
+**Rafizi:** Sebab GRS ni dulu-dulu banyaknya ex UMNO.
 
 **Rafizi:** Ha, GPS tak pernah. Dan mereka merasa lamanya di dalam BN dahulu, yang mana mereka terpaksa tunduk kepada UMNO daripada Semenanjung. Jadi sekarang ni Anwar meletakkan GPS ni sebagai orang yang paling berkuasa, yang leverage paling kuat, yang Anwar paling takut. Jadi, awak tahu, mereka sudah terbiasa dengan kuasa dan pengaruh itu. Jadi dia takkan nak hilang benda tu sebab dia pernah hidup dulu, dengan zaman BN yang UMNO sangat mendominasi. Dan apa nama ni, sebab itu saya ingat, secara logiknya lah GPS terutamanya dan GRS, mereka hanya ada masa satu tahun lebih sebelum pilihan raya ni untuk dapatkan seberapa banyak daripada Anwar Ibrahim. Termasuklah contohnya, untuk beri pertambahan kerusi parlimen. Satu pertiga. Satu pertiga. Okey Jadi, selain daripada itulah soal Petronas kan, semua ni kan. Jadi, GPS punya peluang terbaik untuk mendapatkannya adalah sebenarnya daripada Anwar. Itu kembali kepada soalan awak. Soalan awak adakah dengan cara ini, itu akan menyebabkan Anwar boleh menang dan kembali jadi Perdana Menteri kan? Saya rasa ini akan merugikan dirinya dengan teruk.
 

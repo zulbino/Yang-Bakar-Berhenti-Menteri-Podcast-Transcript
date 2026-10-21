@@ -176,7 +176,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Tak adalah. Maksudnya by the time I was mid-30s plus kut, kat kepala aku tak ada uban gitu. Aku mana ada uban? Tapi dia bermula dari sini, habis uban semua ni. So aku akan ada misai putih dengan janggut putih. So sebab itu tidak ada janggut. So ini maksud, ini masa aku umur berapa ni? 32, 33 kut. Pandai kau orang edit letak popcorn
 
-**Farhan (Pa'an):** Bukan kami, tapi netizen.
+**Rafizi:** Bukan kami, tapi netizen.
 
 **Rafizi:** Oh, aduan netizen.
 
@@ -304,7 +304,7 @@ Jadi dengan mengeluarkan dan memindahkan daripada Tabung Haji kepada UJSB — ok
 
 **Rafizi:** Why — saya cuba lontarkan semua ni kepada orang ramai, jangan serabut lagi tau. Ini dia cerita macam tengok cerita Alfred Hitchcock ataupun Agatha Christie. Walau benda-benda yang awal-awal tu nampak kecil, kenapalah dia nak tunjuk semua ni, dia adalah clue kepada akhirnya yang lagi besar. So you need to know all this kerana dia ada twist dia di belakang dialah kan. Jadi tidak cukup dengan kerajaan bailout dengan menyuntik 20 bilion itu atas kertas supaya rizab jadi positif, dan bila rizab tu jadi positif dah boleh mula bayar hibah bermula 2019 ke atas lah. 2019 pun ada hibah kan, tapi sikit sangat kan? Ha, 1.25%, tapi ada hibahlah kan? Itu 2018 ke 2019? 2018 kut?
 
-**Haziq:** 2018. Yang first sekali.
+**Rafizi:** 2018. Yang first sekali.
 
 **Rafizi:** 2018 kan? Yang first sekali kan. Tapi itu masih lagi belum menyelesaikan masalah Tabung Haji yang satu lagi — itu aset dia, rizab negatif. Income dia macam mana? Bila you ambil 10.9 bilion toxic asset dia keluarkan, dia dah tak dapat income daripada tulah. So aset dia, katakanlah salah satu yang dipindahkan itu ialah Tabung Haji Plantations. Dia mungkinlah dapat 20 juta ke 30 juta, sekarang tak ada langsunglah. Jadi sebab itu ada satu elemen daripada sukuk UJSB tu yang dipanggil deferred payment for yield. So yang itu tiap-tiap tahun dia — okey, I know is getting very technical. Sukuk tu sebenarnya zero coupon and yield about 4%. I don't want to go into the nitty-gritty of coupon, yield, semua, nanti orang lari semua kan. Tapi yield tu maksudnya pulangan pelaburanlah. So yang itu elemen dia, deferred payment, dibayar secara sedikit, sedikit, sedikit. Jadi setiap tahun bermula daripada 2019 — dan yang ini disebut semua ni di dalam RCI — setiap tahun ada elemen pendapatan daripada sukuk itu yang masuk dalam keuntungan Tabung Haji yang diumumkan tiap-tiap tahun. So kalau 4% yield, you know, atas dia ada dua siri sukuk, satu 10 bilion, satu lagi berapa? 9.6? Satu 10, ha kan. So dia ada dua siri ni, satu yang matang tahun 2026, satu yang matang tahun 2029. So setiap satu ni ada elemen income dia, deferred kan. Jadi more or less lah, lebih kurang 800 juta setahun, dan tiap-tiap tahun makin meningkat, makin meningkat. Jadi tiap-tiap tahun Tabung Haji menunjukkan yang dia ada keuntungan sebanyak 800 juta, 870 juta tiap-tiap tahun ni daripada sukuk UJSB. Now let me ask you, duit tu ada ke tidak?
 
@@ -564,7 +564,7 @@ Okey now. So kita boleh pergi kepada financial statement eh. Kesian orang ramai,
 
 **Rafizi:** No, you go into the nitty-gritty ah. Okey okey okey. Dia begini. Bondlah, sukuk ni kan, dia ada dua komponen. Bond tu redemption dia tak bertukar. So kalau contohnya UJSB issue bond dan bond itu dipegang oleh Tabung Haji, kalau prinsipal dia ialah 10 bilion kan, kena redeem 10 bilion, maka masa redemption date tu, maksudnya tahun 2026, Mei 2026, kena bayarlah 10 bilion. Cuma bond tu ada kupon. Kupon tu tiap-tiap tahun kalau kupon dia 5%, you kena bayarlah 500 juta, 500 juta, 500 juta. Dan bond biasa dia tradeable. Kan dia tradeable. Jadi tak apalah, orang ramai kan, dia jadi kelas baguslah juga, orang boleh faham sikitlah bond bond semua ni kan. Bond ni tradeable yang biasa, bukan Tabung Haji ni kan, bond biasa kan tradeable. Jadi ambil contoh kerajaan Malaysia. Dia issue bond. Bond dia tu 10 bilion redeemable 2030. So 2030 tu dia kena bayarlah 10 bilion tu. Cuma bond ada kupon. Kupon tu kalau kalau government punya MGS tu, dia bergantung pada masa dia diterbitkan kan. Dan kerajaan issue bond ni kadang-kadang tiap-tiap bulan tahu, kan ha. So katakanlah masa dia terbitkan itu bergantung kepada interest rate masa itu, kemudian rating, bond rating semua, kena bayar 3.5%. So maksudnya tiap-tiap tahun memang kerajaan Malaysia kena bayar 350 juta, 350 juta dan 2030 kena bayar 10 bilion. Tapi bond ni kan tradeable. Jadi katakanlah aku adalah Tabung Haji, aku nak beli bond kerajaan kan, is a 10 billion bond kemudian 3.5% kupon kan. So contohnya kalau interest rate turun kan, dan bond aku tu is 3.5% punya kupon kan. So that bond is sought after. Kerana aku akan dapat 3.5% kalau aku beli bond tu berbanding kalau aku letak dalam fixed deposit. Fixed deposit mungkin 2.5% aje, ada 1% spread semua kan. So then orang sanggup bayar premium untuk beli that bond. So you may, instead of buying 10 billion untuk dapatkan bond tu, you may pay 10.1B. Extra 1B. Tapi 2030 nanti I will still just get 10B lah. So yang itu maksudnya bond is being traded at a premium. The opposite is true. Kalau contohnya interest rate naik, tapi interest rate dah jadi 4% tapi your bond is 3.5%, your coupon is 3.5%. Jadi orang tak naklah, orang juallah. So then people will be willing — then people can buy at a discount lah. Untuk 10 billion, I just pay 9 billion, nanti 2030 kan. Okey now, itu bond secara keseluruhan. Now sukuk ni is unique dan ini jugalah yang disebut di dalam RCI. Sukuk ni is non-tradeable. It's not government-guaranteed. Kemudian dia zero coupon.
 
-**Farhan (Pa'an):** Ya, so tak payah bayar apa-apa.
+**Rafizi:** Ya, so tak payah bayar apa-apa.
 
 **Rafizi:** Ha, sebab itu dia jadi paper. Yang ada hanya about yield to maturity of about 4% something, itu yang dia jadi ada deferred payment element of the yield. So kerajaan tak bayar tiap-tiap tahun, tapi Tabung Haji dia akan recognise-lah 800 juta, itu yang jadi 900 juta lebih tu. Sebab itu bila redeem — ini balik kepada soalan Haziq lah — redeem 10 billion principal. Aku tak baca the whole agreement, kita tak ada access to this whole agreement, tapi berdasarkan kepada laporan RCI, my understanding is bila redeem May 2026, sukuk yang 10 billion Series 1 tu kena bayar 13.2. Tak jadilah. So yang ini yang kau nak kena umum ni, kau kenalah umum.
 
@@ -604,11 +604,11 @@ Okey now. So kita boleh pergi kepada financial statement eh. Kesian orang ramai,
 
 **Rafizi:** Dia dibentangkan di Parlimen nanti kan? So aku bagi soalan bocor awal-awallah. RCI telah merakamkan persetujuan kerajaan untuk memperuntukkan tiap-tiap tahun sejumlah wang dikumpulkan supaya boleh redeem tahun 2026. 1.7 bilion setahun, 1.5 bilion setahun. Okey, cuba cari Pa'an, page mana tu?
 
-**Farhan (Pa'an):** 1.73 ni ke?
+**Haziq:** 1.73 ni ke?
 
 **Rafizi:** Ha, yalah, itu page mana tu?
 
-**Farhan (Pa'an):** 3.13.49, kejap.
+**Haziq:** 3.13.49, kejap.
 
 **Rafizi:** Ha? 3.1?
 

@@ -137,7 +137,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** —be able to solve. But I remember one where DeepSeek said there's no solution to this question. Ha, that's why I wanted to check for myself and see how accurate ChatGPT and DeepSeek really are. So in my view, and in my daily tasks, I really do check things myself, right. If AI is to have a good effect on the government, for example, make sure everything is checked one by one, and also make sure it doesn't create a culture of laziness among workers, among society. Otherwise, what happened in Australia might also happen in Malaysia. But maybe in Malaysia, even if it happens, there's no one who wants to check, who wants to say that it's wrong.
 
-**Haziq:** So maybe it slips through.
+**Rafizi:** So maybe it slips through.
 
 **Rafizi:** Slips through.
 
@@ -159,11 +159,11 @@ So the same discipline every time there's a budget, I usually focus on the macro
 
 From there, in the time I had to quickly look through it earlier, there's one thing I noticed has never been raised. I brought this up 10 years ago. Our culture has short-termism, we have a short attention span. When a budget is tabled, we only focus on that year. If this year is 2026, we focus on the 2026 figures. We actually no longer look at what happened in 2025, even though the 2025 figures are important for us to assess whether this government is efficient or not, whether it can deliver or not — what has actually changed since the 2025 budget was tabled a year ago. That's why, if you look through the hundreds of pages, the column for 2025 is no longer the budget figures tabled earlier — it will say "revised," the revised estimate. The problem is, if we really want to look at it, like me, I had to quickly tabulate the figures tabled in this budget regarding the latest 2025 numbers — they call it the revised 2025 projection — compared with the budget figures tabled last year for 2025, before we talk about 2026. And that is usually never debated, nobody pays attention to it.
 
-**Haziq:** Looking at this, yes, I think I want to start there. If you look at, for example, government revenue — if tabled in 2025, government revenue for 2025 was supposed to be 339.7 billion. But in what was tabled just now, it has been revised downward.
+**Rafizi:** Looking at this, yes, I think I want to start there. If you look at, for example, government revenue — if tabled in 2025, government revenue for 2025 was supposed to be 339.7 billion. But in what was tabled just now, it has been revised downward.
 
 **Rafizi:** The revised projection for 2025 is 334.1 billion. That means it's 5.6 billion less, you know. Government revenue from tax collection and everything else will all be reduced by 5.6 billion. Of course, you have to drill down in detail and there's a lot of work for us to tally one by one. And 5.6 billion is a huge difference. And to give a perspective, as announced by the Second Finance Minister, the whole difficulty we went through for Budi95, the annual savings is only between 2.5 to 4 billion.
 
-**Haziq:** So why did revenue drop?
+**Rafizi:** So why did revenue drop?
 
 **Rafizi:** Ha, Haziq, if it weren't because you'd read it, I'd really be tired having to be questioned like this tonight.
 
@@ -175,11 +175,11 @@ From there, in the time I had to quickly look through it earlier, there's one th
 
 **Rafizi:** At face value when you look at it like this — same as when we make a budget or business plan for a company. We have a plan for how much we should get each month. If sales are so much, then our profit is so much. When tax collection for 2025 is revised downward by roughly 2%, 1.7% eh — it shows that tax collection, even though it's been supplemented with SST and other things, is actually not as good as was projected a year ago. That means our economic growth right now is indeed genuinely moderating.
 
-**Haziq:** So that moderating economic growth trajectory — when we look at the 2026 budget, revenue tabled is 343.1 billion, an increase of 9 billion from what was projected for 2025.
+**Rafizi:** So that moderating economic growth trajectory — when we look at the 2026 budget, revenue tabled is 343.1 billion, an increase of 9 billion from what was projected for 2025.
 
 **Rafizi:** But that too means — if we already know, and if we're not careful in checking — last year too, what was tabled in the budget was 339.7 billion, and by year-end it's down 5.6 billion. So even though revenue is projected to rise by 9 billion, it's not certain it will actually rise by 9 billion. Especially since we ourselves, I believe, are well aware that the economy will moderate. When the economy moderates, that means companies that pay taxes pay less tax — many that make losses don't pay at all. So in that situation, that's why we also need to look at how we spend. Expenditure also keeps rising. The good news is, for 2025, expenditure is projected to be lower than what was originally tabled, reduced by — eh, sorry, 2.8 billion, roughly 0.85%. But if you look at it, actually the reduction in revenue is more drastic than the reduction in expenditure.
 
-**Haziq:** So that is also an issue. But for next year, it—
+**Rafizi:** So that is also an issue. But for next year, it—
 
 **Rafizi:** —will increase by another 6 billion. And we're also well aware that the risk of revenue reduction is actually greater than the potential to reduce operating expenditure, because we can already see this from one year to the next. Then from a micro perspective, I usually look at development expenditure. For the audience watching, there are two forms of spending. For a normal organization we run in the private sector, we have Opex and Capex. Opex is operating expenditure, operational — paying salaries, paying electricity, things that aren't capital in nature. When we say capital, it means investment that can add value and create new income — in simple terms, that's Capex, capital expenditure, in a normal organization. For the public sector, it's called OE and DE. OE is operating expenditure, with 4-5 major categories.
 
@@ -187,7 +187,7 @@ From there, in the time I had to quickly look through it earlier, there's one th
 
 **Rafizi:** This is salaries, definitely unavoidable. Second is what's called fixed charges and payments — I believe this includes things like pensions. Then there are transfers, meaning transfers that must be paid to the states mostly, and partly to public agencies. Then another big one is supplies — this covers everything: holding events, paying for fuel, paying for building electricity, all of this falls under supplies. Two more big ones that usually draw public attention: one is called the debt service charge — this means the interest we pay on our debt. The other is called social and subsidy and social assistance — this includes SARA, STR, fuel subsidies, electricity subsidies, assistance under JKM, all of that. So going back, that's OE, then we have DE — DE is capex, building schools, building roads, building buildings, giving grants, business assistance, all of this is DE. My concern when looking at what was tabled just now is, it seems there are signs that to reduce our deficit,
 
-**Haziq:** DE takes a toll.
+**Rafizi:** DE takes a toll.
 
 **Rafizi:** DE is reduced. If you look at it, it's not just reduced, but when we look at 2025, we have a problem in terms of performance in implementing projects as planned through development spending. So if we take a couple of years — do you understand this or not?
 
@@ -207,11 +207,11 @@ So going back to the matter of the deficit and DE and all this — before we com
 
 **Haziq:** Usually compare with other countries lah, I mean.
 
-**Multiple speakers:** That's one way.
+**Rafizi:** That's one way.
 
-**Multiple speakers:** What's another way?
+**Rafizi:** What's another way?
 
-**Multiple speakers:** What if we look at our own country?
+**Rafizi:** What if we look at our own country?
 
 **Haziq:** We compare with... what else? I usually just compare with other countries.
 
@@ -239,11 +239,11 @@ Looking at this matter, the reality is this — the number 1 problem with the na
 
 **Rafizi:** I don't know — maybe we need to call someone more knowledgeable. It's common practice now, especially among young people, they go bankrupt because of credit cards. Because with credit cards, over time the balance gets bigger and bigger. Interest is even 17% if their credit rating is low. So eventually their life becomes a debt cycle. For the government, this isn't as simple as equating it to someone spending on a credit card. Just one thing — maybe people in government or Dato' Seri Anwar himself aren't very comfortable with me, because I always ask: how are we doing things differently? So what we see a lot of focus on is increasing revenue.
 
-**Haziq:** There's the new SST, then.
+**Rafizi:** There's the new SST, then.
 
 **Rafizi:** Stamp duty, for example, collected on all instruments. So for small companies, sometimes it swells up a bit because stamp duty on employment contracts also has to be paid now — previously it didn't need to be paid, that never used to happen.
 
-**Haziq:** So the focus is on collecting taxes.
+**Rafizi:** So the focus is on collecting taxes.
 
 **Rafizi:** But maybe we're not focusing, or we don't hear much, on how we're going to manage our spending very differently from past practice. We don't spend enough time talking about how we are going to do it differently. If Dato' Seri Anwar were here — earlier too, in parliament just now, his speech began on a high note about governance. Yeah, I think nobody is disputing that. That's what people have been asking for from the start. We want to see how the government will manage spending better so there's no leakage, no corruption, government tenders get the best price. So that's something I feel we didn't hear much of in this budget, apart from a big slogan of governance. And the people, especially taxpayers, surely feel that now I have to pay higher taxes compared to before. So I want to see more of it being done, for me to get the confidence that you are going to manage this better. Because otherwise — one more thing I'm concerned about regarding this spending — it seems that with SST, with everything that's been done, the debt ratio still hasn't slowed down. If you look at our debt ratio, for 2026 we've already passed 64%, I think about 64.2, 64.3.
 
@@ -251,31 +251,31 @@ Looking at this matter, the reality is this — the number 1 problem with the na
 
 **Rafizi:** 65%. And even that is a ceiling that has already been raised — the ceiling was raised in 2021, I think during the PN era. Before that, 10 years ago, when I first became a Member of Parliament, the ceiling was 55%. When we measure Malaysia — considered an upper middle income country compared to countries similar to us — our debt level is actually high.
 
-**Haziq:** 65% is high.
+**Rafizi:** 65% is high.
 
 **Rafizi:** High. Even Indonesia is 40%.
 
-**Haziq:** Countries that have succeeded—
+**Rafizi:** Countries that have succeeded—
 
 **Rafizi:** In moving from upper middle income to high income, for example Chile — I think Chile — over the past 10 years, one or two countries that succeeded, that are always cited as an international reference.
 
-**Haziq:** Chile. Chile, I think its debt level—
+**Rafizi:** Chile. Chile, I think its debt level—
 
 **Rafizi:** Chile is only about 30% plus of GDP, of the size of its economy. So for next year, ours has already exceeded 64%, with a ceiling of 65%. And the budget that was tabled is based on certain assumptions — for example, the assumption that the economy will grow around 4.5 to 5%. I'm not sure we can achieve that. Do you think it's ambitious?
 
-**Haziq:** I think it's ambitious.
+**Rafizi:** I think it's ambitious.
 
 **Rafizi:** 4.5 to 5% — because in 2024 we were at 5.1. So far this year it's low 4. And the projection for 2025, if you follow the market, is low 4, 4.2. So if there's a shock — and in that document there are several scenarios, you know, scenarios of what happens if economic growth changes, if the global economy changes, if interest rates change — it means the margin we have for not breaching the debt ceiling is very narrow. If the economy grows below 4% and tax collection is lower than budgeted, then the government only has a few options.
 
-**Haziq:** Either it raises the debt ceiling, going to parliament to raise it.
+**Rafizi:** Either it raises the debt ceiling, going to parliament to raise it.
 
 **Rafizi:** Or it spends less — it cuts infrastructure spending and development spending. If that happens, there's a further effect on economic growth. It becomes a vicious cycle, it's a spiral.
 
-**Haziq:** That's why if we look, we need to—
+**Rafizi:** That's why if we look, we need to—
 
 **Rafizi:** Also look at the trend of revenue versus the trend of spending.
 
-**Haziq:** I've already talked a lot about the spending trend earlier. But if we look at the revenue trend, it has its good and bad sides. Okay, revenue.
+**Rafizi:** I've already talked a lot about the spending trend earlier. But if we look at the revenue trend, it has its good and bad sides. Okay, revenue.
 
 **Rafizi:** The good thing is that unlike 10, 15 years ago, we're no longer very dependent on petroleum revenue.
 
@@ -287,15 +287,15 @@ Looking at this matter, the reality is this — the number 1 problem with the na
 
 **Rafizi:** Almost 20 years. At that time, revenue from petroleum was easily about 40%. Now it's below 20%. So the biggest contributor to national revenue now is direct taxes — income tax, and other direct taxes that aren't income-based. Then there are indirect taxes like SST and excise. We also have non-tax revenue, whether dividends from Petronas, or dividends from other government companies. So in that sense, on the one hand, after 20 years, government revenue looks safer, because if we depended solely on oil revenue, it would be dangerous for the country — we'd become like the Arab countries. If oil prices fall below a certain price, they can't finance their spending, so that becomes a problem. We, I think, have graduated from that. But at the same time, if you look at revenue, it's still low compared to GDP — our tax collection compared to the size of our economy is still below 15%, 12% I think. So while there are initiatives, there are incentives — whether, if you ask some people, they say it's because some things slip through.
 
-**Haziq:** Not paying tax.
+**Rafizi:** Not paying tax.
 
 **Rafizi:** That's what LHDN goes chasing everyone for. Or whether the economic sectors in our country aren't performing well enough, so profits aren't as large as expected to contribute higher tax revenue to the country.
 
-**Haziq:** And finally, on that point — that's why, for me, what I don't quite see from this budget—
+**Rafizi:** And finally, on that point — that's why, for me, what I don't quite see from this budget—
 
 **Rafizi:** What I don't see is how we manage the budget and government spending differently, radically, to transform the socioeconomics of this country so that we don't keep repeating these problems. My concern is if we manage it business as usual.
 
-**Haziq:** One, one, one.
+**Rafizi:** One, one, one.
 
 **Rafizi:** Because the fundamental issues I mentioned earlier still show no way out. We don't see how we're going to get away from that 65% debt ceiling. We don't see how we're going to save 10, 15 billion from paying debt interest every year. That's what I think needs to be the next focus. God willing, I think that's my role — to keep speaking up — so that, like several things such as subsidy retargeting that I repeated many times before, even though it was implemented differently, at least that has started moving. But the results haven't yet shown for the goal of why subsidy retargeting needed to be done — results in reducing national debt, results in reducing interest payments, haven't shown yet.
 
@@ -317,7 +317,7 @@ For the social sector, we understand, it looks fine, I don't have much comment o
 
 **Rafizi:** Yeah, we need to wait for the details.
 
-**Haziq:** Okay. Especially about free education.
+**Rafizi:** Okay. Especially about free education.
 
 **Rafizi:** Yes, PTPTN. I wish we heard both sides. What I mean is this — while we have good intentions to start offering free education through PTPTN to low-income families, we also need to hear how the PTPTN problem itself will be resolved. Because PTPTN's government-guaranteed debt has reached 41 billion. So if we implement this through PTPTN without changing the method and also fixing or resolving that problem, we risk that problem festering further. I would also like to know, for example, what other methods could be used. Because I think when they say PTPTN is offering this, it means the government will take taxpayers' money and give it to PTPTN. For poor families, PTPTN pays for them. So the problem of PTPTN's 41 billion debt still isn't resolved. The government's financial problem on this also isn't resolved because actually we're just moving money from the left pocket to the right pocket, for example. At the same time, the higher education financing model also isn't resolved. Because the reality is this — the government already subsidizes at least 90% for courses at existing higher education institutions. That means the fees paid are already 90% subsidized by the government. What's borrowed from PTPTN is usually for daily expenses, accommodation expenses, and a small portion of fees — just 10% of fees. So there are 2 components — one is helping students to pay, but the other is that what needs to be paid also needs to be resolved. That's something we haven't heard about, for example. I know the Ministry of Higher Education is starting to look at this. Some lecturers and universities are sometimes uncomfortable when we talk about this, because they'll say, "don't bother us, as academics we want to focus on teaching only." But at the government level, and especially university leadership too, there's an issue because if the government's financial position doesn't improve — and so far we still don't see a way out — then the allocation each year isn't much. So we haven't heard yet what will be done at the higher education level. For example, we haven't heard whether we're going to review courses or how we're going to make sure that 90% subsidy is retargeted. We haven't heard that. So that's why I think we need to wait for details. But if we're not careful, the existing PTPTN problem will balloon. Because it's already 41 billion and we've gone through this in the past 5 to 10 years. Taxpayers' money, from one year to the next, there's always some allocation that needs to be made to bail out certain statutory bodies or institutions. We've gone through this with 1MDB, for example. Then we've gone through this with Tabung Haji — Tabung Haji's amount wasn't small, close to 20 billion. Then we've gone through this with FELDA — FELDA was injected with, I think, 10 billion over the past 2, 3 years. And if you look at FELDA, the amount guaranteed due to debt wasn't as much as 41 billion. So with PTPTN, even if not all 41 billion, when its debt starts maturing, even 10 billion would have the government scratching its head to pay. 10 billion, right? So that's not — that's why I prefer if this whole issue is addressed comprehensively. Because otherwise, we're doing it cosmetically. And if we do it cosmetically for the sake of making populist announcements — "oh now we have free education too, oh we have this too" — but actually we're not fixing the real problem. It's like taking Panadol while someone has cancer. It feels good for a moment, but tomorrow the fever comes back. That's what I'm worried about.
 
@@ -403,6 +403,6 @@ At the same time, there are other social enterprises — borrowed gadgets, we've
 
 **Haziq:** Thank you for the update. I think that's it, YB. Alhamdulillah, 2 hours and 10 minutes well spent. Thank you very much YB Rafizi and everyone. Tomorrow's the weekend.
 
-**Rafizi:** True, tomorrow's the weekend.
+**Haziq:** True, tomorrow's the weekend.
 
 **Haziq:** Okay, that's it, the interview's done. I'm feeling a bit shy now, actually. Okay, so let's stop here. We'll meet again next week. Thank you. Please help share this to other accounts. See you again next week. Thank you.

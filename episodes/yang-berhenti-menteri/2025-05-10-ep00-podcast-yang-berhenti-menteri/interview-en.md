@@ -45,15 +45,15 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Haziq:** It's the Facebook people coming. Yep, everything's okay, YB.
 
-**Rafizi:** Should be okay, we've tested it and it's okay. Yes.
+**Haziq:** Should be okay, we've tested it and it's okay. Yes.
 
 **Haziq:** Alright, assalamualaikum and greetings to everyone. I ask for your cooperation before we begin today's session — please fill up the front first so that we can leave room for those arriving a little later, for the smooth running of our podcast session tonight. It's so noisy up there.
 
-**Rafizi:** The PA system is okay, right?
+**Haziq:** The PA system is okay, right?
 
 **Haziq:** We checked earlier. Even upstairs, it's quiet. Alright. Let's begin. Okay. Oh, 5 minutes.
 
-**Rafizi:** Okay. I'll wait a bit. I ask for the cooperation of those standing at the sides to fill up the seats in front, so that those arriving a little later can fill up the back, and to make our podcast session tonight run smoothly.
+**Haziq:** Okay. I'll wait a bit. I ask for the cooperation of those standing at the sides to fill up the seats in front, so that those arriving a little later can fill up the back, and to make our podcast session tonight run smoothly.
 
 **Haziq:** So. Yes. Okay, okay, okay. Please turn off the fans up there. Okay. Yes. Alright. Understood. Welcome to those who have just arrived. Okay, I ask for your cooperation to keep taking your seats and fill the empty spaces at the front. Fill the front rows. We'll leave room for those arriving late to fill up the back. So, yep.
 
@@ -65,7 +65,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Haziq:** The MP's voice is invited to come forward. Oh. YB Akmal. Never mind, he's already here. It's fine.
 
-**Rafizi:** Sami doesn't want to sit, he doesn't want to sit. Sami has no chair left. There are no more chairs. That's why he doesn't want to sit. For your information, everyone, we will be running this special edition podcast session — "The Minister Who Burned and Then Stopped Being a Minister" — with several questions, and we will open the floor for those of you attending physically here in this beautiful hall to ask some questions directly, unfiltered, to YB Rafizi Ramli today.
+**Haziq:** Sami doesn't want to sit, he doesn't want to sit. Sami has no chair left. There are no more chairs. That's why he doesn't want to sit. For your information, everyone, we will be running this special edition podcast session — "The Minister Who Burned and Then Stopped Being a Minister" — with several questions, and we will open the floor for those of you attending physically here in this beautiful hall to ask some questions directly, unfiltered, to YB Rafizi Ramli today.
 
 **Haziq:** So you can start thinking of the burning questions you want to ask, although we can't open up too many because of time constraints. But there will also be room to ask later. We will choose from among those in the hall today. You can start. Alright. Okay, bismillahirrahmanirrahim. Assalamualaikum warahmatullahi wabarakatuh and greetings to all. Good evening. Especially to YB Rafizi Ramli. How are you, YB? Are your cats healthy?
 

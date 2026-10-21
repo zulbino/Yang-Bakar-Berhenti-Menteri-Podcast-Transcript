@@ -45,7 +45,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Victor Tan:** Selamat sejahtera dan selamat sepupu.
 
-**Rodziah Ismail:** Welcome to episode 9 of Yang Berhenti Menteri.
+**Victor Tan:** Welcome to episode 9 of Yang Berhenti Menteri.
 
 **Victor Tan:** I am here with YB Pandan, Rafizi Ramli, and also YB Rodziah Ismail, Ahli Parlimen Ampang.
 
@@ -75,7 +75,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Victor Tan:** Lepas tu search kan hashtag justice for Zara. Pernah tak? Berbuat begitu? Sebab masa saya ternampak isu ini untuk kali pertama kan, so memang dia ada hashtag justice for Zara. Maka saya telah buat search dan lepas tu saya nampak memang ada banyak orang yang sangat beremosi. Dan lepas tu diorang dok buat expose muka-muka orang yang kononnya pembuli sebagainya. Dikatakan juga macam oh ni adalah tomboy. Ini adalah dedeng, ini adalah Macam-macam lah. Tapi yang saya rasa ini macam there could have been a lot more done, I guess, from the ministry To address this issue. But now actually I want to tie in this issue and actually it's related to your case as well, and I apologize if this is personal. Tapi, I saw actually an Instagram post that your son, had made, like, quite a while ago, and I think that it ties in. I hope that you don't mind if I, like, raise this idea. And this post actually is about, ala Yarham Abang Zulfarhan. Yeah, yeah. So your son, in his, how old is he actually?
 
-**Rafizi:** Yeah, my son is 12. Your son is 12, and he, okay, have you seen this post, YB? I'm not sure if you saw it. Okay, let me read it for you.
+**Victor Tan:** Yeah, my son is 12. Your son is 12, and he, okay, have you seen this post, YB? I'm not sure if you saw it. Okay, let me read it for you.
 
 **Victor Tan:** Let me ask you, does it sound like something that a 12-year-old under normal circumstances would write? Okay. Okay. So it reads, Dear Abang Zul Farhan, mommy and I will fight against any form of bullies. No one should die because of bullies. I was bullied in school before because daddy is my father. Yeah. It took mommy months to get me out of the trauma. How I wish help was on your way when you needed the most. And that's what I'll read, from this one now, but maybe you remember this. Yeah, I do. I do remember.
 
@@ -85,7 +85,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Itu agak biasa je. Macam anak saya pun. Ini bully fizikal. Yang saya ingat masa awal-awal lah masa dia darjah 1, darjah 2, kami mula perasan tu sebab barang dia selalu hilang.
 
-**Rodziah Ismail:** Ha, itu lagi. Jadi dia pressure because you know dia, dia mungkin tak boleh nak, kalau dia bising pun you anak wakil rakyat kan.
+**Rafizi:** Ha, itu lagi. Jadi dia pressure because you know dia, dia mungkin tak boleh nak, kalau dia bising pun you anak wakil rakyat kan.
 
 **Rafizi:** Jadi bila dia balik tu dia nak beritahu yang barang dia hilang tu. Dan dia selalu berlaku sama juga macam duit. Dia selalu. Sebab tu saya kata dia sangat tricky sebab kadang-kadang peer dia, classmate dia minta pinjam tapi tak bagi balik sampai bila. Lama-lama kalau selalu pinjam, maksudnya itu samalah juga dengan meminta duit dia. And he's not in a position to say no kan.
 
@@ -109,7 +109,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Victor Tan:** Like, but you were widely viewed, right, as like one of the pemacu reformasi yang utama. I mean, like, was there not a point when, like, you know, you had a friendship, you know, like, you have conversations about casual things, you know, like, oh, Datuk Seri, like, how are you today? Or like, for example, maybe you go up to him and say, Anwar dah makan belum? Or something like that. Like, was there never a point when that actually happened?
 
-**Rafizi:** Takde. Saya rasa takkan na. Takkan na even kita.
+**Rodziah Ismail:** Takde. Saya rasa takkan na. Takkan na even kita.
 
 **Rodziah Ismail:** Saya ingat saya dengan Rafizi sendiri pun, kita orang yang di belakang buat kerja, tetapi kita seldom bercakap kan? Takde. We are not sembang semua sebab kita buat kerja je rasanya kan?
 
@@ -123,11 +123,11 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Victor Tan:** Taklah kan? Like sekarang, lepas saya dengar penjelasan tu, saya rasa macam make sense sikit. Tapi I guess I asked the question because it's out of concern for you, YP. Because I guess the normal thing that you would expect, right, is that you have a support system, especially in a difficult time. And I hope also, by the way, that your son is in good hands as well and has a good support system. And also right, I wanna say at the moment, so again, YP Roji, like when you saw that post I showed you earlier, right, does it seem like something that a 12-year-old would write? 12-year-old?
 
-**Rodziah Ismail:** Yang tadi, right, the post I showed you, like-
+**Victor Tan:** Yang tadi, right, the post I showed you, like-
 
 **Victor Tan:** Ah, oh, okay. Did it seem like something that a 12-year-old would write?
 
-**Rodziah Ismail:** No. It doesn't seem like something that a 12-year-old would write, right?
+**Victor Tan:** No. It doesn't seem like something that a 12-year-old would write, right?
 
 **Victor Tan:** Yeah. Like, your son, YB has a very strong presence of mind. Yeah. And I think that you should rightly be proud. And I know that right now you are-
 
@@ -143,11 +143,11 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Victor Tan:** Understand. Now I want to move the focus back to the idea of like bullying, right? And also in like more kononnya lah institusi kayangan. So like in Malaysia, it doesn't get much more kayangan than MCKK, you know. Like, for those of you who tak tau, so, like, there was a school that the colonial elite, right, created at the time to train essentially the civil servants, and you have a whole range of different people who were a part of that. So, of course, you have, well, yourself, YB Raf. I wasn't elite, so I be like kampung miskin.
 
-**Rafizi:** It's true, but it doesn't matter where you start, what matters
+**Victor Tan:** It's true, but it doesn't matter where you start, what matters
 
 **Victor Tan:** Is what you do with the gift of life. You too, for those of you who like Pokemon. Anyway, but also then you have Dato' Seri Anwar and you have also Nik Nazmi, whom I interviewed like a couple of weeks ago. So now, going back to the bullying thing, YB Raf, so you were talking earlier about how, like, maybe there's a culture, you know, that, like, stops people from, like, recognizing maybe, like, oh, bullying is something that they are conscious of. You say also that maybe, like, kids, they can be very wary, right, of, like, people yang bukan team player lah. So I know of course that like, you know, in 2023 right, for example, like there was a bullying case at MCKK. Dan masa tu PTA dok kata kepada seorang ibu bapa yang dok viralkan issue case bully dekat MCKK tu dan cakap, "Oh, you are selfish."
 
-**Rafizi:** Oh, you shouldn't have done that.
+**Victor Tan:** Oh, you shouldn't have done that.
 
 **Victor Tan:** Oh, you destroyed the reputation of the school. So I'm interested to know YB, when you at MCKK right, like even back then, isu bully tu like was it a real thing, something that you really experienced?
 
@@ -175,7 +175,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rodziah Ismail:** Jadi macam tu.
 
-**Rafizi:** Tapi sekarang isu dia accessibility-
+**Rodziah Ismail:** Tapi sekarang isu dia accessibility-
 
 **Rodziah Ismail:** tu dah tak ada isu. Ha, masalahnya kualiti pendidikan perlu kita lihat supaya sama di tempat mana pun. Dan saya setuju sekarang ni lagi online. Lagi information itu lebih mudah kita perolehi. Mungkin kita kena tengok aspek lain pula kan. Internet, supaya kita at par dengan tempat-tempat lain, kan? Macam-macamlah kita kena buat. Tapi yang orang kata yang itu pun kita tak terkejar nak buat. Yang ini yang tambah lagi. Lama-lama lantaklah apa jadi pun. Saya nak selit sikit.
 
@@ -187,13 +187,13 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Victor Tan:** Yang kami sedia maklum kan, pendidikan ni juga merupakan sesuatu yang membentuk spirit, nafsu, roh kita sebagai sebuah masyarakat. Maka sebahagian daripada nafsu tersebut adalah apa? Perasaan patriotik dalam kalangan murid-murid dalam sebuah masyarakat ni. Jadi pada pandangan YB-YB sekalian, adakah menghabiskan duit untuk membeli batch bendera tu, adakah itu pelaburan yang baik? Dan setakat mana apa pelan untuk menjana nafsu ini adalah pelan yang baik. Dan ini juga saya rasa merangkumi usaha kemungkinannya untuk membina civic awareness yang mungkin telah dikecam oleh YB Rafizi pada semalam ke dua hari yang lalu. Pasal budak-budak yang menjerit. Benci PM.
 
-**Rafizi:** Ya, cinta PM. So, ya. Apakah pandangan YB-YB sekarang?
+**Victor Tan:** Ya, cinta PM. So, ya. Apakah pandangan YB-YB sekarang?
 
-**Victor Tan:** Kak Ogi dululah.
+**Rafizi:** Kak Ogi dululah.
 
 **Rodziah Ismail:** Ha, okey. Zaman kita dulu, macam saya dulu, tak ada pun bendera pakai kat badge. Tetapi sebenarnya cara, cara patriotism itu ditanamkan dalam diri kita adalah dengan cara dia come up with a motivation kenapa kita nak buat benda tu, kan?
 
-**Rafizi:** Ha, maksudnya kita diajar tentang sayang kepada negara, kan?
+**Rodziah Ismail:** Ha, maksudnya kita diajar tentang sayang kepada negara, kan?
 
 **Rodziah Ismail:** Ataupun hormat dengan kedaulatan undang-undang. Practice as a good citizen, kan? Jadi yang memotivasikan kita nak buat semua ni, bukan sebab kita ada nak pasang bendera ke ataupun bendera dan sebagainya, tetapi kita rasa ni tanggungjawab kita dan kita rasa sayang sebab kita nak jadi satu citizen yang baik, kan? Jadi pada saya, dia tak retoriklah. Ha kata orang kata cara kita meluahkan ya hasrat kita tu bukan retorik. Jadi bendera tu penting untuk semangat, tetapi tidaklah itu satu-satunya untuk kita ni. Untuk kita kibarkan bendera, kita rasa seronok Macam parti-parti pun ada bendera kan. Ha, tetapi pada saya kita, kita yang lebih penting adalah how we motivate diri kita, anak-anak kita, anak bangsa kita supaya sayangkan negara ni. Ha, itu lebih penting.
 
@@ -201,7 +201,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rodziah Ismail:** Saya nak betulkanlah.
 
-**Rafizi:** Saya tak pernah kalah.
+**Rodziah Ismail:** Saya tak pernah kalah.
 
 **Rodziah Ismail:** ChatGPT.
 
@@ -211,7 +211,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** So ChatGPT tu dia quote yang last tu jelah kan? Tak, ChatGPT dia hanya quote yang rasmi terakhir. Rasmi sahaja. Dia tak letakkan konteks dan rentetan ke arah. Tapi apa kaitan tu dengan soalan sebelum tu pula?
 
-**Rodziah Ismail:** Sebab okey, A, saya nak minta kalau
+**Victor Tan:** Sebab okey, A, saya nak minta kalau
 
 **Victor Tan:** Sebab dulu YB Rafizi pun pernah berkata bahawa you have to get to the root cause of everything. So dalam RMK 13 tu pun kita kena tengok adakah keupayaan dalam masyarakat kami ni bersedia untuk menerima cabaran untuk menjana sebuah ekonomi yang lebih kompleks dan kami sedia sedar juga bahawa AI itu adalah sesuatu yang amat penting dalam masyarakat kami ini. Dan saya nak minta lah YB-YB sekalian, if you were the education minister and you had full reign, complete privilege, like no constraint whatsoever, you know, like what what would you do in this situation given this particular challenge, you know, rather than glossing over the question of like, you know, flags, you know, like badge for every single student, that kind of thing right there. I mean, is it useful for inculcating patriotism? Like, you make an investment, you want a return on investment. So like, does that like help? Does it maybe, I don't know, like stop people from getting the flag wrong? Tak, yang yang pasal bendera tadi lah pakai badge kan.
 
@@ -275,7 +275,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rodziah Ismail:** Okey, kalau kalau kalau kita tengok soalan yang, yang ada tu, dia banyak, banyak kementerian lah kan yang terlibat kan. Okey, kalau boleh saya sentuh satulah tentang diskriminasi dan sebagainya ini. Benda ni kita nak kata tak ada akta, dah ada akta. Okey. Dia, dia masalah keganasan, masalah diskriminasi semua tu, dia macam kita cakap patriotik tadilah. Dia perlu dalam pembentukan, ya, pembentukan nilai, pendidikan dan sebagainya untuk kita tanamkan benda yang baik, yang betul itu. Kan? Kalau kita biasa tengok violence, bias- rasa-rasa tak bersalah buat violence, benda tu akan bina lah dalam diri kita kan. Tapi kalau kita nak bercakap tentang dasar, ya, tentang dasar, saya teringat satu perjumpaan dengan satu ahli parlimen dari England, ya. Dia balik-balik kepada pendidikan. Dia kata dia manage to tahun bila ya? Tahun 2010, something like that, kan? Dia kata masa dia jadi Menteri Pendidikan, ya, dia minta supaya satu bajet khas yang luar biasa untuk memperbetulkan masalah keganasan rumah tangga pada ketika itu. Ya, di England, dia agak tinggi masa tu kan. Jadi apa yang dia buat adalah masa dia minta tu dia kata kewangan itu adalah untuk jadikan satu subjek khusus di sekolah tentang kanak-kanak ini. Dia bermula daripada pendidikan sekolah tau. Untuk mereka memahami apa tu violence yang sebenar, bagai kalau macam kata kes buli ke apa ataupun domestic violence semua tu di situ. Apa yang saya nak sebutkan, dia kata kita tak boleh ukur lagi bila kita invest kepada pendidikan dengan kita cakap berapa ROI kita nak dapat balik. Something like that. Makna sometimes duit yang kita spend itu adalah untuk investment jauh lebih baik. Dan dia kata after 10 years, dia nampak pengurangan agak drastik. Sebab apa, Rafizi, budak-budak ni, dia bila tengok benda tu berlaku di dalam, dalam kehidupan dia, it's repeated again. Bila dia dah tua nanti, dia naturally dia akan jadi orang yang, yang apa kata, yang violence lah. Yang violence. Dia desensitize.
 
-**Rafizi:** So dia, dia un- un- unconscious mind dia, dia rasa act tu betul.
+**Rodziah Ismail:** So dia, dia un- un- unconscious mind dia, dia rasa act tu betul.
 
 **Rodziah Ismail:** So apa yang dia buat, selain daripada hukuman yang lebih tinggi, yang lebih, lebih, lebih teruk, tapi pemahaman dia kata prevention itu lebih baik dengan memberikan pendidikan yang asas kepada mana yang betul, mana tak. Tapi ko- bo- bottom line maknanya memberi manusia itu satu nilai ukuran yang baik itu akan menjadikan kita lebih baik. Okey, tentang corruption yang berlaku, saya tunggu sangat ombudsman ni berlaku. Ya, akta ombudsman ini kita kena ada political will lah kan. Dah lama sangat pegawai-pegawai kerajaan ini kadang-kadang dia ada unit integriti kan? Unit integriti. Kalau kita nak dalaman punya isu, orang tu nampak nak nak sesiapa yang nampak perkara ini nak laporkan unit integriti saja yang yang secara dalaman. Tapi kalau kita ada ombudsman, ya, kita boleh me- menyuarakan ataupun kita boleh melaporkan secara legal perlakuan-perlakuan rasuah yang ada di kalangan kakitangan. Ah, jadi kalau kita nak cerita tentang penguatkuasaan lah, the law yang mana yang baik, saya rasa kita tak boleh tangguh dah ombudsman tu. Tetapi saya tak pasti kalau saya jadi menteri, saya nak benda tu jalan dah sebab dah kaji lama. Benda yang yang yang cepat yang patut kita buat perubahan ni kita kena buat. Kadang tapi saya tak, saya tak pasti kenapa delay tu berlaku lah. Ha, tapi nak cakap dengan Victor lah. Kalau saya jadi menteri, sebenarnya saya tak minat pun jadi menteri.
 
@@ -311,11 +311,11 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Tapi actually, Kan? Sebenarnya that one I contest.
 
-**Victor Tan:** That is a misconception.
+**Rafizi:** That is a misconception.
 
 **Rafizi:** Misconception sebenarnya. Sebenarnya MCKK was elite dulu in the 50s, 60s because it's a federal school. That's it. Dia dapat segala peruntukan, the best teachers. Have you been to MCKK sekarang? Actually, bajet dia lagi kurang daripada sekolah kat KL ni tau. Ya. Because it's just another school. Cikgu-cikgu daripada situ je. Yeah. So, so, you know, what elite of it? Dia tak ada apa bangunan dia je yang cantik semua kan. Jadi this focus that, you know, is a special, it's not right. It's actually wrong because Betul. the school is underfunded. I mean, running a school yang 120 tahun, maintenance dia mahal semua. You cannot buat sama. Tapi because of budget yang tak cukup, sama macam semua sekolah lain. So the deterioration semua tu, physical deterioration is a lot worse. It is what it is now kerana alumni chip in, parents chip in, and the parent and alumni chip in because of that 100 years worth of ethos. That, you know, we have a tradition and culture of excellence that we must produce and we must defend kan. If anything, bagi sayalah, you want to replicate the same ethos di sebanyak mana sekolah yang ada. That's what it should happen. Ah, sebab tapi sekarang dalam sistem sekolah kerajaan tak ada special status school tau.
 
-**Victor Tan:** There's no. Tak ada.
+**Rafizi:** There's no. Tak ada.
 
 **Rafizi:** That is, that's why I say it's a misconception.
 

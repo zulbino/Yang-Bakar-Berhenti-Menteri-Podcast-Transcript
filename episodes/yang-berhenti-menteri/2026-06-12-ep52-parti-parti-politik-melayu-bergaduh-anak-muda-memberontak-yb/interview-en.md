@@ -71,7 +71,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Not exactly young anymore, 27 already.
 
-**Multiple speakers:** Old. Old enough to be someone's father.
+**Rafizi:** Old. Old enough to be someone's father.
 
 **Rafizi:** Actually wrong invitation. Wrong invitation, inviting the old ones. You? 22. Ah, this one still qualifies.
 
@@ -89,13 +89,13 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Syuk:** But that's fashion — people used to wear it like that before, right?
 
-**Multiple speakers:** Yeah, but we don't know where people got it from now.
+**Zaim Zulkifli:** Yeah, but we don't know where people got it from now.
 
 **Rafizi:** Before it was a bit different. Were there flared pants? Yeah, but back then flared pants had to be tight at the thigh, only flared at the bottom. Tight at the thigh like crazy. I'm smiling because when I was in school, like that GQ thing, the cycle kept repeating. So in my time in secondary school, people wore the loose kind like that. But I had an English teacher — if he saw this he'd definitely laugh. That was in the early 90s, but he wore his clothes — I remember he never changed his wardrobe from the 70s. His collar was huge, then bell bottom pants and everything. So we called him "master collar," because back then people's collars were all small, his collar was like elephant-ear collars. It repeats and repeats and repeats. I think in the 80s people wore super tight skinny jeans. And then in the last 5, 6 years there were skinny jeans again. So now I don't know what to do with my skinny jeans — not only are they out of fashion, they don't even fit me anymore.
 
 **Haziq:** You'll have to wait since fashion repeats itself.
 
-**Multiple speakers:** Wait for the phase to come back so you can wear them again.
+**Syuk:** Wait for the phase to come back so you can wear them again.
 
 **Rafizi:** Yeah, but by the time I'm 55 wearing skinny jeans, there'll be a problem.
 
@@ -107,7 +107,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Traumatized even after it's over?
 
-**Haziq:** Still, still traumatized.
+**Rafizi:** Still, still traumatized.
 
 **Zaim Zulkifli:** Even before this I asked Haziq whether it's okay, worried I'd get roasted or something. Traumatized, Zaim at once.
 
@@ -217,7 +217,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Syuk:** Honestly, in my circle, people don't know him. Maybe those who know—
 
-**Rafizi:** But you're biased, you're into politics.
+**Syuk:** But you're biased, you're into politics.
 
 **Syuk:** No, honestly. It's like people who don't follow politics really don't know him. Those who read about politics know him. And lawyers, right?
 
@@ -225,7 +225,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Syuk:** Not me though.
 
-**Rafizi:** Lawyers based in Bukit Bintang? My office is in Bukit Bintang. But they're associating me with Farhash, no connection.
+**Syuk:** Lawyers based in Bukit Bintang? My office is in Bukit Bintang. But they're associating me with Farhash, no connection.
 
 **Syuk:** So I declare no connection. My office is just in Bukit Bintang.
 
@@ -305,7 +305,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Haziq:** It used to be "Minister of Rafizi Affairs," but I've downgraded it to just "Rafizi Affairs Bureau."
 
-**Syuk:** What else? Oh, makes sense if it was "minister."
+**Rafizi:** What else? Oh, makes sense if it was "minister."
 
 **Rafizi:** Oh, this one where it says "applications to become a joint party candidate are now open."
 
@@ -431,7 +431,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Haziq:** Who knows.
 
-**Rafizi:** Alright, my mom approves this stamp.
+**Syuk:** Alright, my mom approves this stamp.
 
 **Haziq:** Alright, that's behind us. Ladies and gentlemen, the decision has been made. Congratulations to our young entrepreneur. Okay, so that's it I guess — icon of youth.
 
@@ -443,11 +443,11 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** So when Zaim came the first time, he had to be roasted, there was no segment yet. That time he got roasted.
 
-**Multiple speakers:** He kept getting roasted.
+**Rafizi:** He kept getting roasted.
 
 **Haziq:** The first one...
 
-**Multiple speakers:** Why is there a Hanayo there?
+**Rafizi:** Why is there a Hanayo there?
 
 **Rafizi:** Did your AI prompt it to have Hanayo or something? No.
 
@@ -457,7 +457,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Haziq:** Where are young people headed? During your speech, YB, I think early on when you launched that 17-month thing — but YB, ask generally, first of all, what do you want?
 
-**Rafizi:** So, what do you want?
+**Haziq:** So, what do you want?
 
 **Haziq:** But for today maybe we should check what young people actually want. But before that maybe we should introduce Gen Z a bit — who is Gen Z actually? If ordinary people say Gen Z is spoiled, not as tough as previous generations, then their elders always say, "back in my day I was like this, but now you're like this." So who are you guys actually? Straight to Zaim, so...
 
@@ -471,7 +471,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Haziq:** The oldest Gen Z is 29.
 
-**Rafizi:** 29. That's old already.
+**Haziq:** 29. That's old already.
 
 **Haziq:** Oh, really? 29. Okay, old. But 35, still — isn't that not Gen Z? I'm 28. Oh, that's right.
 
@@ -503,7 +503,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Facebook was — in Malaysia around 2006, 2007. MySpace was around 2002, by 2004 there was Friendster, 2003 Friendster. So I think in Malaysia Friendster took over. Then Facebook came around 2006, 2007 in Malaysia. And then Twitter around 2008 or so. So it's true what Zaim means, by the time he got to know a phone, everyone already had all of that.
 
-**Zaim Zulkifli:** What year did YB first get Facebook, if YB remembers?
+**Haziq:** What year did YB first get Facebook, if YB remembers?
 
 **Rafizi:** I recall the year 2007. I used to hate social media. The only reason I initially had social media, and I started with Friendster and MySpace — was because I was coaching kids in hockey, debating and so on. At that time, 2003, 2004 to 5, 6, they all communicated with each other through Facebook and such.
 
@@ -539,15 +539,15 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Zaim Zulkifli:** Ha, right, right. Even to the point where the game — aren't you Gen Z?
 
-**Rafizi:** I'm not really.
+**Haziq:** I'm not really.
 
 **Haziq:** When were you born? Old Gen Z.
 
 **Zaim Zulkifli:** Old Gen Z. Doesn't play games.
 
-**Rafizi:** I don't play Discord or anything.
+**Zaim Zulkifli:** I don't play Discord or anything.
 
-**Haziq:** Even the genre of game you play—
+**Zaim Zulkifli:** Even the genre of game you play—
 
 **Zaim Zulkifli:** —would define your social hierarchy. For example if you play a game like this, what are you like? What kind of kid are you? What kind of kid is this? So if I play Ninja Saga, that's a bit tough.
 
@@ -559,7 +559,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Syuk:** Response about being spoiled. No, I want to respond — because if we say they're spoiled, I think it's because Gen Z dares to be loud on social media. Meaning, people before probably had a lot of problems too, okay, but they weren't like — YB had problems but didn't send it on Facebook, didn't send it on TikTok. But they had problems, not a way to confront.
 
-**Haziq:** Right, not to confront.
+**Syuk:** Right, not to confront.
 
 **Syuk:** But Gen Z, young people, I think they're braver and they don't feel the need to hide that shame, you understand?
 
@@ -669,7 +669,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Farhan (Pa'an):** Okay, maybe actually yeah, you're right because these guys are somewhat politically inclined. But to be fair, they're actually only slightly politically aware.
 
-**Multiple speakers:** They are not aware.
+**Rafizi:** They are not aware.
 
 **Rafizi:** Right, but surely he has friends, doesn't he?
 
@@ -709,7 +709,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** It's like when I was young, they don't have it anymore now — there was a mini parliament. Remember mini parliament? You all don't have it, ever seen it on TV? Mini Parliament on TV. There was an uncle, his name was Pakcik Jamal I think, he was like — this is on TV.
 
-**Syuk:** Yeah, on TV every year.
+**Rafizi:** Yeah, on TV every year.
 
 **Rafizi:** Everyone watched that as kids, you know. There was this Pakcik Jamal, he was quite low-key, so it was like when kids stood up, they'd become the Speaker, then everyone speaking were kids around 7, 8 years old.
 
@@ -747,13 +747,13 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Zaim Zulkifli:** Wow factor, I think in the sense of branding. How you position yourself to be very energetic, very— but you already have Syed Saddiq. But that's the problem — I think the problem with Syed Saddiq is also something else.
 
-**Rafizi:** Syed Saddiq ticks all the boxes for wow factor. But one box I think he doesn't tick is that people tend to disagree with him politically, in the sense that he's very popular if, for example, he makes content with Abela or "Get Ready With Me" or marathon content and so on. But I don't think all of his political opinions or whatever he proposes—
+**Zaim Zulkifli:** Syed Saddiq ticks all the boxes for wow factor. But one box I think he doesn't tick is that people tend to disagree with him politically, in the sense that he's very popular if, for example, he makes content with Abela or "Get Ready With Me" or marathon content and so on. But I don't think all of his political opinions or whatever he proposes—
 
 **Zaim Zulkifli:** Why? People can agree.
 
 **Rafizi:** What is he, is he millennial? Millennial. Is he Gen Z? Baya Vahan. No, he's not. He's millennial. He's not — he's over 30. He's millennial. They're millennials. Oh, Bos Vahan, right? Hit him after the camera's off.
 
-**Farhan (Pa'an):** Turn off the lights after this.
+**Rafizi:** Turn off the lights after this.
 
 **Rafizi:** What is it — I mean, so when you say people disagree with his political opinions, that's what people would ask. What do young people actually want? You already have a young leader, who's very popular, who ticks all the boxes. Then you disagree with his views. Isn't that, at that age, exactly what he's talking about, what young people want?
 
@@ -761,7 +761,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Zaim Zulkifli:** Yeah, yeah. Right, right.
 
-**Farhan (Pa'an):** So what is that wavelength?
+**Rafizi:** So what is that wavelength?
 
 **Zaim Zulkifli:** I think they'd say it like this. He talks a lot about all of us who are young. But in the end, he and his party, a lot of it is more rhetorical than practical in a way that would resonate with young people. What's the basis when you say "practical," what does that mean? Practical in the sense of, how do I put it? He's like, wanting to be relatable but not overly sycophantic. But for example, what Bersama brings, a lot of it is something that when Gen Z hears it, they think, oh, this is something I want to know about and I want to hear, and I know this will benefit me. Okay, for example—
 

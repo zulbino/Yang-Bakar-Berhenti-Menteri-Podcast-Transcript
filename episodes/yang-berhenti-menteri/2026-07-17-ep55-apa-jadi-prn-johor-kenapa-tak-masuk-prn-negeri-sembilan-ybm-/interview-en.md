@@ -13,9 +13,9 @@ hosts:
 - Farhan (Pa'an)
 guests:
 - Tang Hong Yau (Ubat)
-- Dato' Dr. Samsu Adabi Mamat
 - Dr. Harith Fakhrudin
 - Dato' Dr. Syed Azuan Al-Idrus (DSA)
+- Dato' Dr. Samsu Adabi Mamat
 topics:
 - 'Segmen Beria: insiden tuduhan curi barang wanita mengandung di Lotus Selayang'
 - 'Segmen Beria: reaksi pasca PRN Johor termasuk kenyataan AMK dan pantun KM Melaka'
@@ -59,9 +59,9 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** If it's a podcast, Haziq is scared of me, you know. It's a ceramah, be a bit braver.
 
-**Multiple speakers:** Why isn't YB in front?
+**Haziq:** Why isn't YB in front?
 
-**Rafizi:** If I'm here, he gets scared.
+**Haziq:** If I'm here, he gets scared.
 
 **Haziq:** Relax, relax, relax, relax. Okay, alright. We have 4 YBs. And the first is definitely Hong Yao, or Ubat. Right.
 
@@ -79,19 +79,19 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Haziq:** Yes, Dr. Shamsu Adabi Mamat, former senior lecturer of political science at Universiti Kebangsaan Malaysia. How are you, Datuk Doktor.
 
-**Dato' Dr. Samsu Adabi Mamat:** Datuk Doktor. But I prefer to just be called "doktor". When was the first time you met the Bureau Chief? We're both political people too, right? Back in PH 1.0 already.
+**Tang Hong Yau:** Datuk Doktor. But I prefer to just be called "doktor". When was the first time you met the Bureau Chief? We're both political people too, right? Back in PH 1.0 already.
 
 **Haziq:** Oh, must have been quite close, doktor. But he wasn't actually that close back then. It's been a while since you met, during PH 1.0. That's when I contested Putrajaya. Okay, alright, alright, alright. 2018 — that was the first time doktor contested. Okay, alright. Thank you, Dr. Sam. Let's move on to Dr—
 
-**Dato' Dr. Samsu Adabi Mamat:** Haris. Our candidate for the Tiram state seat recently.
+**Haziq:** Haris. Our candidate for the Tiram state seat recently.
 
 **Haziq:** Doktor, when was the first time you met?
 
-**Dato' Dr. Samsu Adabi Mamat:** During the interview lah.
+**Dr. Harith Fakhrudin:** During the interview lah.
 
 **Dr. Harith Fakhrudin:** Oh, the interview. That was the first time. That was online, right?
 
-**Rafizi:** If we're talking about the actual first time, it was in Perling, at the house, 2 days before nomination day. We met that night.
+**Dr. Harith Fakhrudin:** If we're talking about the actual first time, it was in Perling, at the house, 2 days before nomination day. We met that night.
 
 **Haziq:** Alright, alright, alright. And finally, Datuk DSA, who isn't appearing here for the first time — second time. I think I've asked this question before, so I won't—
 
@@ -109,17 +109,17 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Postmortem is for dead people.
 
-**Multiple speakers:** Oh, that's actually true.
+**Haziq:** Oh, that's actually true.
 
 **Rafizi:** Postmortem is dissecting a dead body, right?
 
-**Haziq:** A political autopsy. It's dead, right?
+**Rafizi:** A political autopsy. It's dead, right?
 
-**Multiple speakers:** Dead. Because my postmortem.
+**Rafizi:** Dead. Because my postmortem.
 
 **Rafizi:** Not a postmortem. We'll reflect, and then we'll look at the Negeri Sembilan and Melaka state elections, and the way forward. Okay, but before that we'll have a little "who's the most eager" segment first. So we'll ask our panelists to be ready to rate who's the most "beria" [overeager/desperate]. Let's try it, let's see how it goes this week. Okay, alright. First, as usual, not politics. Who posted this picture?
 
-**Rafizi:** Later I'll get roasted too if I go out.
+**Haziq:** Later I'll get roasted too if I go out.
 
 **Haziq:** Did you see the CCTV, looking at the stomach? This is a case at Lotus Selayang. A pregnant woman was accused of stealing items, so she was told to show her stomach.
 
@@ -137,7 +137,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Haziq:** This is beria, YB, I think.
 
-**Multiple speakers:** Beria. Asking her to open it right there.
+**Dr. Harith Fakhrudin:** Beria. Asking her to open it right there.
 
 **Rafizi:** Netizens are wild actually. But it's also true — couldn't he have just checked the CCTV? Actually that's fair — well, if I were the guard, I'd say, "but I'm just doing my job." If I let it slip, I'd be in serious trouble. So to be fair, how is he supposed to check the CCTV?
 
@@ -163,7 +163,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Dato' Dr. Syed Azuan Al-Idrus (DSA):** This one is great.
 
-**Multiple speakers:** Beria, beria. Alright, we have the next one. The third goes to UMNO. Beria with a pantun [poem]. There's actually a full one, YB, if I may read it: "Married without a kadi, divorced without a talak, sanding [wedding dais ceremony] without a pelamin [dais]." Then he laughed.
+**Haziq:** Beria, beria. Alright, we have the next one. The third goes to UMNO. Beria with a pantun [poem]. There's actually a full one, YB, if I may read it: "Married without a kadi, divorced without a talak, sanding [wedding dais ceremony] without a pelamin [dais]." Then he laughed.
 
 **Haziq:** Then he laughed out loud. Yes, yes, yes, yes.
 
@@ -191,7 +191,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Haziq:** He landed the punchline on me.
 
-**Rafizi:** He's so eager, prepping his pantun like that.
+**Haziq:** He's so eager, prepping his pantun like that.
 
 **Haziq:** Nice, nice. But DSA, they say UMNO and PAS once stood together at PWTC crying together too. But we know what the result was — 2.0.
 
@@ -199,7 +199,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** One day we'll keep this in mind, you know, one day.
 
-**Multiple speakers:** Keep it clean.
+**Rafizi:** Keep it clean.
 
 **Rafizi:** We'll parade them on the dais.
 
@@ -221,7 +221,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Haziq:** But it's true, Ceplos has really gone all-out against them too. Really heartbroken, huh?
 
-**Multiple speakers:** But yeah, I think we—
+**Rafizi:** But yeah, I think we—
 
 **Rafizi:** Like us, right — a party that's only 2 months old — after a certain decision, we sit down and see what's okay and what's not. So I don't even know what's going on with PN right now — it's as if they have zero command and control, you know. This has clearly become a laughing stock, it should be stopped immediately since it's having no effect. But when they shift from attacking us — because previously it was usually our digital campaign that always got high views — so now that it's shifted to attacking BN, it actually confirms what we've been saying all along. Congrats to BN, meaning there's a lot of money. Maybe they've signed a contract through to the general election, so whether they like it or not, since the contract's signed, the work has to be done, no matter who's involved. It's fine, we'll send in the chopper.
 
@@ -239,11 +239,11 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Dato' Dr. Syed Azuan Al-Idrus (DSA):** I'll pick that one, YB — what's his name, the Melaka CM — beria with his pantun. Laughing his head off like that. His pantun that day was really excellent. I never thought he'd bring up the kadi story, bring up the pelamin and all that. The best part was when he said "we don't have a pig-marriage certificate" — meaning we can't do faraid [Islamic inheritance distribution].
 
-**Multiple speakers:** Can't even do faraid.
+**Haziq:** Can't even do faraid.
 
-**Haziq:** So it'll all come out in faraid then.
+**Rafizi:** So it'll all come out in faraid then.
 
-**Multiple speakers:** It'll all come out in the faraid distribution, right.
+**Dato' Dr. Syed Azuan Al-Idrus (DSA):** It'll all come out in the faraid distribution, right.
 
 **Haziq:** Doktor Haris, what do you think?
 
@@ -299,7 +299,7 @@ There are many things I observed in what's called the notable vote shift. In Kel
 
 **Haziq:** Perhaps I could turn to DSA. DSA might have fairly long campaign experience, and previously in the old party, DSA's approach was more structured, in every aspect.
 
-**Rafizi:** The old party was YB's too.
+**Haziq:** The old party was YB's too.
 
 **Haziq:** Now it's really back to basics, simple, but still achieving its objectives. What's the notable difference DSA sees compared to past experience? YB Rafizi said this is the sweetest campaign experience he's ever handled, because even though the team is small, everyone functioned well. How about for DSA?
 
@@ -333,7 +333,7 @@ So we really walked into a perfect storm — Johor voters, and of course there's
 
 **Tang Hong Yau:** I think the polling swing is also related to PH's strategy. Because in the first week they raised the issue of releasing Najib, pardoning Najib, and also the green wave — so I think this was a signal sent to Malay voters too, for there to be unity, ummah solidarity. What about the split vote among Chinese? I think in the first week, Chinese voters were really disappointed and bored. But in the second week, did you notice they brought back Superman?
 
-**Rafizi:** Ah, yes yes yes, they did. Kit Siang, Superman.
+**Haziq:** Ah, yes yes yes, they did. Kit Siang, Superman.
 
 **Haziq:** And Kit Siang had to come out of retirement.
 
@@ -391,7 +391,7 @@ But if you look at it this way, actually you don't need to wait for the Form 14 
 
 **Tang Hong Yau:** Shared tissue. Wipe your tears, vote for them — Team China. Because there was an advertisement for the PH side — they put it out, do you know, there's a Chinese-language movie, "A Love Letter" [Amar de Qing su], a love letter from a grandmother — it went really viral among the Chinese community. So they put out: grandma calls you to come home and vote. The Chinese media for Bersama also made a poster: grandma tells you to come home, but don't vote with tears — if we offer this tissue, you can vote with a smile.
 
-**Multiple speakers:** In the tank.
+**Dr. Harith Fakhrudin:** In the tank.
 
 **Multiple speakers:** Got it, got it.
 
@@ -447,7 +447,7 @@ But if you look at it this way, actually you don't need to wait for the Form 14 
 
 **Haziq:** We've been at Johor for a long time — 1 hour 47 minutes. Ours is 3 hours, isn't it? Yeah, but let's not.
 
-**Rafizi:** I needed to pee just now.
+**Haziq:** I needed to pee just now.
 
 **Haziq:** Okay, YB has already talked about what Bersama gained, from losing all deposits in 15 seats — we built a machinery within a week, we had 1 million people watching and 315,000 new ones, we proved our candidates, we showed the volunteer spirit and how we managed our financial model. And perhaps YB would like to share — actually, if we compare a new party like Bersama entering an election for the first time, versus other political parties that also entered for the first time, how does the performance compare?
 
@@ -455,11 +455,11 @@ But if you look at it this way, actually you don't need to wait for the Form 14 
 
 **Tang Hong Yau:** Yeah, IRLs. That's good because I have friends who watched and changed their perception — they said "I was arrogant before, wasn't I?" Yeah, that's right.
 
-**Rafizi:** But the media is really nasty.
+**Tang Hong Yau:** But the media is really nasty.
 
 **Tang Hong Yau:** Because the Chinese media really played up the PADU thing. But their perception changed — they felt he was very down to earth, very humble.
 
-**Multiple speakers:** "I really am down to earth, I'm just fierce-looking." I think the IRLs helped a lot.
+**Rafizi:** "I really am down to earth, I'm just fierce-looking." I think the IRLs helped a lot.
 
 **Rafizi:** Yes, so that's also a kind of political innovation — we had to do IRLs because we simply didn't have the money for big campaigns. And actually one reason we introduced IRLs was because the public perception of politicians is that they're nasty, arrogant, all that — and we wanted to show that we can offer politics with more sincerity, that's more genuine. My only problem now is people keep chasing me for when the next IRL is — let me rest a bit.
 
@@ -487,7 +487,7 @@ But if you look at it this way, actually you don't need to wait for the Form 14 
 
 **Dato' Dr. Samsu Adabi Mamat:** Okay, I might speak on two things as a closing note. First, about the wave — since I studied political science, without a wave, it's hard to bring change. So when YB mentioned in a speech "a yellow wave from the south," I highlighted that too. Since the Panglima already mentioned a yellow wave from the south, I hope that wave happens. Then I wrote down three scenarios: if we don't lose our deposits; second, if we win three or four seats; or if we get 10 seats or more. In all three scenarios, the yellow wave will happen from the south. Because a wave like this is emotional by nature. Add to that the voting habit of Malays, which is also routine behavior — once a party becomes popular, people flock in droves. Then that wave will happen in Negeri Sembilan. But I hadn't thought through what happens if we don't lose deposits. If we do lose deposits, actually the wave will still happen, just delayed a bit. I believe, with the expectations we have of our leadership, that wave will still happen — it's just a matter of how we cultivate it again. That's why, with a bit of grounding in political studies, I want to highlight political participation. Because it's through political participation that we can develop young people, ordinary people, and professionals to get involved. This is proof of how our party, Bersama, has succeeded in providing a platform for that participation. If you look at the "Dinaso" party [dinosaur party], they don't promote political participation at all — if they could, they'd want to block it, shut it down.
 
-**Rafizi:** So we're aimed right at them.
+**Dato' Dr. Samsu Adabi Mamat:** So we're aimed right at them.
 
 **Dato' Dr. Samsu Adabi Mamat:** Ha, political participation. So when even Ubat joined, and with our 15 candidates — if we've succeeded in nurturing their courage to become candidates, then they've reached a level of participation. At the most basic level — we cultivate love for the country, and from that love for the country they start to pay attention to politics. That level alone is already enough. Second level, once they turn 18, they go out to vote. Third level, they join a party — which party do they join? Well, we'd hope they'd delay and join Bersama, because this is the party that nurtures that participation. And this third level has already become candidacy. At this level, I hope those who've already become candidates — we have 15 of them — can grow through the empowerment of our leadership. Then we can create that wave, even if it's a bit delayed. So I think that's what makes Bersama different.
 
@@ -501,9 +501,9 @@ But if you look at it this way, actually you don't need to wait for the Form 14 
 
 **Tang Hong Yau:** I have two thoughts. First, a personal reflection. Actually, during this period I used Malay a lot. In Chinese society, people usually only befriend other Chinese people. So I feel this campaign made me feel more like a Malaysian, because I now have Malay friends, Indian friends. You can see at the ceramahs — I spoke Chinese and the crowd was still patient with it. I feel grateful that, in an increasingly polarized political landscape, a party like Bersama is really important. In the content I put out for Chinese voters, I really emphasized this — PH, PN, BN, they all end up making Malays and non-Malays polarized and resentful of each other. So I think this is very important, a very good aspiration for me. And with this I'm convinced that Bersama has a future, and it's important for stopping the resentment between the two majority races. Second reflection — since I'm also new to politics — BN and MCA actually didn't bother us at all. It was DAP that came after us, saying we were splitting the vote. So in the Chinese media, we attacked DAP more. So some voters felt like we were essentially MCA. So I think we need to — our stance needs to be firmer. We're not friends with PH or BN. We need to be clear about that.
 
-**Dato' Dr. Syed Azuan Al-Idrus (DSA):** Good, good, good, good.
+**Haziq:** Good, good, good, good.
 
-**Haziq:** WASIA already said it. I want to hold onto that WAP statement.
+**Dato' Dr. Syed Azuan Al-Idrus (DSA):** WASIA already said it. I want to hold onto that WAP statement.
 
 **Dato' Dr. Syed Azuan Al-Idrus (DSA):** A truly multiracial party. That's the best part.
 
@@ -511,7 +511,7 @@ But if you look at it this way, actually you don't need to wait for the Form 14 
 
 **Haziq:** YB, so to realize what YB just said — my final question. We also have a poll covering 107 constituencies. So maybe YB can share, what's next for Bersama in terms of the latest survey
 
-**Multiple speakers:** across the whole country, and whether the result
+**Haziq:** across the whole country, and whether the result
 
 **Haziq:** in the Johor state election will haunt us all the way to the general election.
 
@@ -573,7 +573,7 @@ But that's our calculation. Because, you know, people call it "general," right �
 
 **Dato' Dr. Samsu Adabi Mamat:** I look at it like earlier — I was with Saidi, met with Saidi because he had no partner, he invited me, so I went along. He also sent me a message, "Hey, why so quiet about this Negeri Sembilan election?" Because after that I told him, I said I had actually already prepared too. How can we not do it — we'd just lose momentum, lose momentum. Because when people are excited, right, sometimes that doesn't actually represent the majority opinion. Because I recall reading before, in a motivational book.
 
-**Haziq:** Call it a paradox. Paradox meaning sometimes to get more done, you slow down — meaning to gain a new momentum of speed, we need to slow down for a moment, gather that momentum. So when the power is enough, like a battery, we need to charge first. So when we get that power, maybe our leap will be even faster. So when we got the message from YB's Facebook, saying "no, skip Negeri Sembilan, join Melaka" and focus on officiating the office — I received it too, and then rationality came from what was actually an emotional drive to move forward, because this momentum was more emotional. So when that message came, "skip Negeri Sembilan, join Melaka, and focus on the launch of the new HQ, the office" — then rationality came back in. I believe our members will re-rationalize things, and that's where we'll create new momentum. Alright, alright, understood, doctor. Doctor Harith or Ubat maybe?
+**Dato' Dr. Samsu Adabi Mamat:** Call it a paradox. Paradox meaning sometimes to get more done, you slow down — meaning to gain a new momentum of speed, we need to slow down for a moment, gather that momentum. So when the power is enough, like a battery, we need to charge first. So when we get that power, maybe our leap will be even faster. So when we got the message from YB's Facebook, saying "no, skip Negeri Sembilan, join Melaka" and focus on officiating the office — I received it too, and then rationality came from what was actually an emotional drive to move forward, because this momentum was more emotional. So when that message came, "skip Negeri Sembilan, join Melaka, and focus on the launch of the new HQ, the office" — then rationality came back in. I believe our members will re-rationalize things, and that's where we'll create new momentum. Alright, alright, understood, doctor. Doctor Harith or Ubat maybe?
 
 **Tang Hong Yau:** Let me go first. I agree too, because we entered Johor on the assumption that there was a lot of disappointment from all races, and that they would choose Bersama as their new home, a new party. But the hypothesis didn't hold. So I think we need more time to figure out a new narrative to gain votes. This takes time — we can't enter for just one week, repeat the same thing, and expect the same result. So I don't think it's worthwhile; better to look at the workout at JSQ.
 
@@ -609,9 +609,9 @@ But that's our calculation. Because, you know, people call it "general," right �
 
 **Dato' Dr. Samsu Adabi Mamat:** Yes.
 
-**Multiple speakers:** Our visibility, right.
+**Dato' Dr. Samsu Adabi Mamat:** Our visibility, right.
 
-**Multiple speakers:** So, to those watching this podcast, you all better be ready — this podcast is going to make noise, Kuching too.
+**Rafizi:** So, to those watching this podcast, you all better be ready — this podcast is going to make noise, Kuching too.
 
 **Rafizi:** It's fine, it's fine, do your best. Because I think we really can't rest for long. I just need a week or two for planning. Next week I'll start sitting down with the Ubat team, the team here, the team there. Joe is coming to see me tomorrow. We need to organize things one by one. My responsibility is also heavy because some people have resigned from their jobs to focus on this for the coming year, and they used to earn tens of thousands, you know. So we need to make sure everything is properly organized. Within the coming week we'll plan properly, and insyaAllah by the end of July, I think we'll have already started in Melaka. Them — I'm not just talking about them — they only have two days to rest next week if they want to. The Kancil roadshow, the state roadshow, will be reactivated. Like Selangor, which we've delayed, and Selangor needs to continue with new dates. Meaning, if before this all firepower was in Johor, now it moves to Melaka, and there'll also be Selangor — so the 3-4 things I mentioned earlier need to happen simultaneously. Meaning rebuilding party membership momentum. Policy matters need to be redeveloped too — we do have a team that's already ready to start detailing policies. So there's a lot of work. It's okay, we'll meet on Sunday. InsyaAllah, please don't break anything at the HQ, alright. People are saying, "how can this be, YB, YB is doing this openly, the special branch will come in, they'll plant devices to spy on everything." We're well aware — if possible, we actually want to keep it open so people can look around, take photos and everything, and then afterward I'll call a company to sweep the place clean. If there are any listening devices or whatever, we'll find a sweeper for that. To anyone who's worried — because among us there are indeed people who worry, sending messages saying "oh no, after this the special branch will tap everything," tapping this and that — it's fine, afterward we'll sweep it all clean. Alright, YB.
 
@@ -621,10 +621,10 @@ But that's our calculation. Because, you know, people call it "general," right �
 
 **Haziq:** 2 hours 55 minutes actually. Okay, I guess we can stop here. Thank you very much to everyone. Thank you very much to the panelists who joined tonight. Hope you can join again in the future. Okay, alright. Let's take a rest now since we have work to continue tomorrow. Good night, see you again.
 
-**Rafizi:** Assalamualaikum. Chopper says he wants to say hi.
+**Haziq:** Assalamualaikum. Chopper says he wants to say hi.
 
 **Multiple speakers:** Oh, Chopper.
 
-**Rafizi:** It's okay. Assalamualaikum. See you again on Sunday.
+**Haziq:** It's okay. Assalamualaikum. See you again on Sunday.
 
 **Multiple speakers:** Yes, Sunday. Sunday.

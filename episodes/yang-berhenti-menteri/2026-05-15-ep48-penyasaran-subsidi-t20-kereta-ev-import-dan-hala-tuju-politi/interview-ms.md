@@ -67,7 +67,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Tak apa, nanti kita jawab kemudian. Nanti.
 
-**Haziq:** Saya saja. YB, sebelum kita mula kan, saya nak tanya.
+**Farhan (Pa'an):** Saya saja. YB, sebelum kita mula kan, saya nak tanya.
 
 **Farhan (Pa'an):** Pegawai SPRM terkejut tak YB datang balik SPRM tadi?
 
@@ -143,7 +143,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Facebook, berita yang — Berita Awani ni.
 
-**Haziq:** Awani lah. Awani ni pun satu.
+**Rafizi:** Awani lah. Awani ni pun satu.
 
 **Rafizi:** Ha, ini Awani nak sebut lah kan. Sebenarnya, kalau kita plot lah kan, saluran-saluran media yang paling banyak menyiarkan berita-berita yang menyokong Farhash daripada orang-orang yang kita tak kenali adalah Awani. Jadi Awani lama-lama, orang eh — kenapa ni, dia tak jadi Awani dah, dia jadi "awat ni." Ha kan. Jadi kalau ada editor Awani tengok, faham-faham lah kan. Janganlah obvious sangat. Okey. Baik, kita — bersemangat.
 
@@ -165,11 +165,11 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Haziq:** Bersemangat. Bersemangat.
 
-**Rafizi:** Okey. Baik, baik, baik.
+**Haziq:** Okey. Baik, baik, baik.
 
 **Haziq:** Jadi kita berpindah. Naib Presiden kita tadi berehat, dia sekarang kembali semula. Ada lagi — digandingkan dengan Setia Agung PKR. Di mana pula?
 
-**Rafizi:** Lagi pemimpin PKR berebut kerusi.
+**Haziq:** Lagi pemimpin PKR berebut kerusi.
 
 **Haziq:** Ramanan Fuziah mahu rebut kerusi Parlimen Batu daripada Bakaran, tanda soal. Itu Fuziah pegang apa? Gergaji ke apa tu? Ha, gergaji dan. Ini gambar waktu kempen-kempen lama mutasi Lynas. Oh, ya ke? Ada. Itu memang gambar betul eh, gambar betul.
 
@@ -183,7 +183,7 @@ Dan satu sebab kenapa saya tak keluar daripada Pandan — yang Ceplos duk bising
 
 Jadi sekarang ini dia dah terbalik lah, dah jadi macam ala-ala MIC kot, berebut kerusi. Ia berebut kerusi sementara ditertawakan oleh rakyat. Sama macam dalam budaya barat, orang cakap Nero bermain gegaji di atas bumbung lah — main violin dia sementara Rom sedang terbakar. Tak sensitif langsung, Rom sedang terbakar semua tu, Maharaja Nero tengah main violin atas bumbung. Mungkin itu yang Fuziah pegang kot.
 
-**Farhan (Pa'an):** Apa dia? Oh, tu vi—
+**Rafizi:** Apa dia? Oh, tu vi—
 
 **Rafizi:** Violin punya. Itu bukan violin, itu gegaji. Luka engkau kalau main benda tu, gesek benda tu — putus tangan kau.
 
@@ -195,7 +195,7 @@ Jadi sekarang ini dia dah terbalik lah, dah jadi macam ala-ala MIC kot, berebut 
 
 **Rafizi:** Ha, mungkin juga kan. Dia mungkin kembali sebagai penasihat integriti Perdana Menteri. Semuanya betul-betul. Ada ura-ura kan? Ura-ura dia akan menjadi penasihat.
 
-**Haziq:** Dia nak menasih—
+**Rafizi:** Dia nak menasih—
 
 **Farhan (Pa'an):** Dia kata dia nak masuk politik pula.
 
@@ -207,9 +207,9 @@ Jadi sekarang ini dia dah terbalik lah, dah jadi macam ala-ala MIC kot, berebut 
 
 **Haziq:** Betul, sedap. Dah nampak video.
 
-**Farhan (Pa'an):** Kulit pun dah ni cantik.
+**Haziq:** Kulit pun dah ni cantik.
 
-**Haziq:** Kulit dah okey, pakai spek mata.
+**Rafizi:** Kulit dah okey, pakai spek mata.
 
 **Rafizi:** Tapi mata merah sikit. So, yang ini memang — oh my, minggu ni mencabar lah, sebab yang ini pun beria juga, KSN.
 
@@ -225,9 +225,9 @@ Jadi sekarang ini dia dah terbalik lah, dah jadi macam ala-ala MIC kot, berebut 
 
 **Rafizi:** Banyaklah yang dia kata, tapi kita simpan di sini lah, sebab tu kan. Kemudian lepas Selangor tu baru ditukarkan ke — apa nama ni — ke Putrajaya kan, ke persekutuan. Jadi lawalah bila dia beria-ia "reformasi satu kemestian," sedangkan masa awal-awal dulu, Pakatan PKR mengambil alih Selangor — reformasi ni memang, aku tak rasalah dia suka kat reformasi masa tu kan. Sekarang itulah, manusia berubah-ubah bila makin dekat dengan puncak kuasa lah kan. Kita pun tak jerit "reformasi satu kemestian."
 
-**Haziq:** Okey, baik. Beria.
+**Rafizi:** Okey, baik. Beria.
 
-**Rafizi:** Sangat beria. Ada 5 YB, kena pilih 1.
+**Haziq:** Sangat beria. Ada 5 YB, kena pilih 1.
 
 **Haziq:** Oh, susahlah. Bolehlah bagi banyak-banyak kot.
 
@@ -347,7 +347,7 @@ Apa beza antara konsep kehidupan wajar yang Kementerian Ekonomi dan DOSM perkena
 
 **Rafizi:** Okey lah, okey lah. Dan lokasi.
 
-**Haziq:** Tak, tak, tak, tak, tak, tak, tak, tak, tak.
+**Rafizi:** Tak, tak, tak, tak, tak, tak, tak, tak, tak.
 
 **Rafizi:** Dia keperluan.
 
@@ -399,7 +399,7 @@ Sekarang ni dia jadi lawak lah. Aku senyum daripada jauh je lah. Maksudnya sekar
 
 **Farhan (Pa'an):** So, nampak macam satu momen kita boleh katakan dalam erti kata "dah cakap dulu" lah.
 
-**Rafizi:** Keduanya juga dengan GE16—
+**Farhan (Pa'an):** Keduanya juga dengan GE16—
 
 **Farhan (Pa'an):** yang akan datang tidak lama lagi.
 
@@ -457,7 +457,7 @@ Tapi sebab DAP sangat berhantu masa itu — kalau kita buat pindahan tunai ini, 
 
 **Rafizi:** Tahun itu tahun 2012.
 
-**Haziq:** Ha, betul. Umur kau berapa masa itu?
+**Rafizi:** Ha, betul. Umur kau berapa masa itu?
 
 **Farhan (Pa'an):** Sekolah ke?
 
@@ -465,9 +465,9 @@ Tapi sebab DAP sangat berhantu masa itu — kalau kita buat pindahan tunai ini, 
 
 **Rafizi:** Kau tahu poster itu apa dia? Poster Farhash.
 
-**Haziq:** Saya baru nak sebut.
+**Farhan (Pa'an):** Saya baru nak sebut.
 
-**Farhan (Pa'an):** Ha, itu betul Farhash ke, YB?
+**Haziq:** Ha, itu betul Farhash ke, YB?
 
 **Haziq:** Memang betul Farhash dengan YB? Ya lah, saya tak—
 
@@ -485,7 +485,7 @@ Tapi sebab DAP sangat berhantu masa itu — kalau kita buat pindahan tunai ini, 
 
 **Rafizi:** Tak, gambar dia asing-asing kan, asing-asing. Itu memang photoshop. Okey. Ah.
 
-**Haziq:** Jadi soalan menuntut hutang ini — saya cuba selitkan tadi.
+**Rafizi:** Jadi soalan menuntut hutang ini — saya cuba selitkan tadi.
 
 **Rafizi:** Ingat juga.
 
@@ -503,7 +503,7 @@ Jadi sebab itu, sebelum kita cakap pasal harga EV semua ini kan — sebab kau su
 
 **Rafizi:** Duti import, kalau — kereta.
 
-**Haziq:** Kalau kereta import.
+**Rafizi:** Kalau kereta import.
 
 **Rafizi:** Okey ah, sebelum sampai ke duti import itu nak panjang cerita. Kita ada 2 — 2 jenis kereta. Sebenarnya kita ada 3. Okey. Sebenarnya kalau nak kira, satu yang memang purely kita buat di sini, itu kereta tempatan — Proton, Perodua semua kan. Maksudnya komponen semua itu kita buat di sini, kita pasang di sini, jadilah kereta Proton. Itu satu kategori. Satu lagi kategori?
 
@@ -679,11 +679,11 @@ Jadi sekarang saya tak pasti lah apa perancangan atau pengumuman daripada MITI, 
 
 **Rafizi:** Memang itu given lah kalau ikut. Korang tak hidup zaman 90-an.
 
-**Haziq:** Saya hidup lah.
+**Rafizi:** Saya hidup lah.
 
 **Rafizi:** Haah, tapi maksud "hidup" tu maksudnya—
 
-**Farhan (Pa'an):** Tak bawa kereta lagi lah zaman 90-an kan, zaman 80-an kan.
+**Rafizi:** Tak bawa kereta lagi lah zaman 90-an kan, zaman 80-an kan.
 
 **Rafizi:** Especially 90-an lah yang memuncak sangat tu — nak beli Proton kena tunggu 6 bulan.
 
@@ -757,7 +757,7 @@ Ada satu lagi kategori yang sebenarnya tidak terlalu peduli pasal parti ini dala
 
 Jadi ini 3 kategori utama lah yang sibuk nyek-nyek-nyek, merajuk-rajuk semua ini kan. Tolak yang damai lah — damai itu kita faham memang tujuannya ialah untuk ghanimah dan kedudukannya sekarang, dia bukan peduli sangat pasal betul salah atau apa, tolak yang itu kan. Yang dua kumpulan seterusnya ini, soalan yang saya tanya kepada diri saya sendiri — malah kalau Pa'an tanya kan, saya tanya soalan ini sebenarnya bukan semasa saya meletak jawatan. Saya tanya soalan ini pada bulan 3.
 
-**Haziq:** Oh, semasa YB mula perasan.
+**Farhan (Pa'an):** Oh, semasa YB mula perasan.
 
 **Rafizi:** Saya boleh baca apa yang berlaku, awal bulan 3. Bila Datuk Seri, Dato' Seri Anwar kan, mengumumkan beri laluan mudah kepada Rafizi, saya sudah tahu sebenarnya, saya sudah tahu apa dalam kepalanya. Sebab itu pergi tengok semula video bila dia mengumumkan kan, saya tidak ada sebarang reaksi. Saya tidak ada senyum atau nampak gembira kerana saya sudah tahu ke mana ia menuju. Bila saya mendapat laporan berapa banyak duit ditabur ini di bawah sini sampai keahlian RM200 untuk menjadi ahli baru dan ada laporan polis mengenai rasuah seperti itu, kemudian yang paling kuat menggerakkan ini ialah setiausaha-setiausaha politik PM sendiri, daripada Shamsul-nya, kepada Azman Bidin-nya, kepada Chang Mingkai-nya — saya sudah tahu ke mana ia menuju kan?
 
@@ -771,7 +771,7 @@ Okey, sebab itu kalau Pa'an ingat, sebenarnya saya panggil pegawai-pegawai saya,
 
 **Rafizi:** Jauh lebih awal. Jadi dalam tempoh 2 minggu pengumuman Dato' Seri Anwar, sebab itu saya sudah tahu ke mana ia menuju. Bulan April, saya rasa.
 
-**Haziq:** Bulan April. Ya kan.
+**Rafizi:** Bulan April. Ya kan.
 
 **Rafizi:** Sebenarnya mengundi itu, kalau ingat bulan April itu baru nak bermula mengundi pun kan?
 
@@ -785,7 +785,7 @@ Jadi itulah sebabnya daripada awal bulan April itu saya sudah buat keputusan itu
 
 Jadi bila semua ini nampak jelas, saya tanya soalan itu kepada diri saya: sebenarnya, kenapa saya berada dalam politik? Pastinya bukan untuk menjadi menteri. Pastinya bukan untuk duduk di situ ada jawatan, tetapi kemudian bersubahat ataupun dijadikan rubber stamp untuk segala yang berlaku, kan. Sebab itu saya sudah buat keputusan itu jauh lebih awal sebelum bermula mengundi pun lagi. Dan anda boleh semak dengan staf saya, memang di Kementerian Ekonomi. Itulah sebabnya bila kita meletak jawatan itu, semuanya berjalan dengan baik — semua meletak jawatan kerana saya sudah beri notis kepada mereka lebih kurang 2 bulan lebih awal.
 
-**Haziq:** Bulan awal. Kan eh.
+**Rafizi:** Bulan awal. Kan eh.
 
 **Rafizi:** Sekarang, itu menjawab kenapa tidak boleh berdamai sudah. Sebab sebenarnya bukan soal PKR, bukan soal jawatan, soal itu kan. Pada pandangan saya lah, inilah sebabnya saya buat keputusan itu. Kita boleh berbeza pandangan kan — anda ada pendapat anda, saya ada pendapat saya kan. Beza gaya itu memang biasa kan, anda tahu. Kalau seseorang itu efektif, anda tidak perlu suka gaya atau perangainya, asalkan dia — bagi saya lah, itu gaya saya tahu, kerja saya. Saya tidak perlu suka anda, tetapi saya akan mengakui kalau anda memang bagus — maksudnya kalau anda buat kerja bagus, anda tidak makan duit, anda tahu, saya tidak ada masalah, walaupun anda bukan jenis yang saya akan duduk berbual. Itu okey kan?
 
@@ -797,7 +797,7 @@ Jadi sebab itu kalau orang tanya, eh, kenapa tidak balik ke PKR? Anwar Ibrahim i
 
 **Rafizi:** Dia akan terus, kan? Kemudian anda fikir macam mana anda buat konon-kononnya buat kerja semua ataupun popular semua ini — anda fikir bila anda sudah nampak sendiri sistem pemilihan itu ditipu sedemikian rupa, anda fikir dia tidak boleh buat lagi? Jadi tidak ada gunanya, tidak ada persaingan sudah yang ada dalam PKR ini. Sebaik sahaja ia sudah tidak ada rasa keadilan sehingga ia boleh menjadi penipuan begitu, sebenarnya sudah tidak ada persaingan sudah — tidak ada ruang langsung sudah, kecuali saya pergi cium tangan dan jadi seperti orang lain lah. Tetapi saya bukan begitu, dan itu bukan sebab saya berada dalam politik lah. Jadi sebab itu memang jelas, tidak ada gunanya untuk kembali dan berdamai.
 
-**Haziq:** Jadi memandangkan ia soal prinsip, itulah sebabnya YB tidak boleh berdamai.
+**Farhan (Pa'an):** Jadi memandangkan ia soal prinsip, itulah sebabnya YB tidak boleh berdamai.
 
 **Rafizi:** Saya rasa kita menggunakan perkataan prinsip ini terlalu banyak kan, dengan mudah kita, oh itu prinsip, ini prinsip kan. Saya pun tidak tahu ia prinsip atau apa, saya tidak tahu. Tetapi saya hidup dengan peraturan tertentu — peraturan yang sangat mudah, dan ini bukan peraturan politik, ini peraturan yang kita hidup seperti biasa, main bola ke, kita duduk tepi padang, kita berjalan. Satu ialah mesti ada rasa keadilan. Sebab kalau peribadi kita tidak ada rasa keadilan, maksudnya mencuri pun boleh, salah guna kuasa pun boleh, menipu pun boleh, kerana segalanya okey apabila anda tidak perlu mempertimbangkan sama ada ia adil atau tidak. Itu satu kan. Jadi saya hidup dengan peraturan mudah itu, sebab bila apa yang berlaku dalam PKR sejak setahun lalu menunjukkan bahawa sebarang rasa dan kesopanan tentang keadilan ke, tentang betul dan salah ke, tentang jangan memangsakan orang — perkara itu sudah hilang tahu, dalam PKR. Dan kerana itu, panggil apa sahaja yang anda panggil lah — prinsip ke apa, merajuk ke, nyek-nyek-nyek, panggil apa sahaja yang anda suka. Tetapi bagi saya, garis itu telah dilanggar dengan teruk sekali.
 
@@ -871,7 +871,7 @@ Ha, itulah dia ayatnya. Tetapi biasanya, adakah jenis pemikiran itu selalu — s
 
 **Rafizi:** Boleh, boleh, boleh. Tetapi jangkaan kita, nampaknya dewan itu akan penuh. Tetapi bagi mereka yang tidak dapat hadir sendiri, jangan lupa untuk mengikuti secara langsung di YouTube saya, sebab kita tahu ramai orang sekarang menonton secara langsung. Siaran langsung kita akan bermula mungkin seawal 1.30 — 1.45. Pukul 2 kita bermula secara rasmi, pukul 1 orang sudah datang, 1.45 siaran langsung kita bermula. Dan saya juga menjemput seberapa ramai penyiar langsung untuk datang, supaya bukan sahaja di saluran saya tetapi di saluran-saluran YouTube lain.
 
-**Haziq:** Seberapa ramai datanglah.
+**Rafizi:** Seberapa ramai datanglah.
 
 **Farhan (Pa'an):** Nak siarkan semula siaran.
 

@@ -53,13 +53,13 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Haziq:** Istimewanya sebab ada dua orang lagi. Jadi YB ni lah, tak penat sangat kot, ha, yalah saya duduk diam je lah.
 
-**Rafizi:** Jangan dah diam lagi.
+**Haziq:** Jangan dah diam lagi.
 
 **Haziq:** Jadi kali ini kita ada saudara Faizal sekali lagi. Apa khabar saudara? Sihat, Alhamdulillah. Mike bersih. Okey.
 
 **Rafizi:** Baik.
 
-**Faizal Rahman:** Kita dah test mic dia.
+**Rafizi:** Kita dah test mic dia.
 
 **Rafizi:** Jadi insyaAllah dia tak akan bermasalah macam kali pertama dia muncul.
 
@@ -95,7 +95,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Okey, reflex tu beria, beria lah reflex. Tapi yalah, aku nak kata dia beria poyo pun susah lah sebab reflex — benda dia banyak jenis.
 
-**Haziq:** Beria jahat, beria poyo. Susah betul linggo budak-budak sekarang ni kan.
+**Rafizi:** Beria jahat, beria poyo. Susah betul linggo budak-budak sekarang ni kan.
 
 **Rafizi:** So okey lah, beria kacip — saya terima je lah dia beria.
 
@@ -117,19 +117,19 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Razeef Rakimin:** Ha, Didi. Dia ni, ini bila dia cakap dengan saya lah sebab — kenal. Gambar ada sini. Dia asal Semporna, dan dia bagi tahu lah dia ni OKU, cuma dia tidak bagi tahu dia OKU apa. Dan dia memang kalau bercakap berpantun ni memang laju lah. Jadi bila sudah viral tu, parti-parti politik ni selalu panggil dia tolong promote.
 
-**Multiple speakers:** Dengan pantun dia.
+**Razeef Rakimin:** Dengan pantun dia.
 
 **Haziq:** Jadi Masidi pun tahu lah yang dia tu tukar-tukar baju.
 
-**Razeef Rakimin:** Tapi PH punya tak ada?
+**Rafizi:** Tapi PH punya tak ada?
 
 **Haziq:** Ada.
 
-**Rafizi:** Ada, ada, ada, tapi tak masuk dalam PKR punya.
+**Razeef Rakimin:** Ada, ada, ada, tapi tak masuk dalam PKR punya.
 
 **Razeef Rakimin:** Dan dia panggil saya Rafizi.
 
-**Faizal Rahman:** Nasib baik dia tak buat video.
+**Haziq:** Nasib baik dia tak buat video.
 
 **Razeef Rakimin:** Ada, ada satu gambar terbaru. Waktu tu saya perjalanan ke terminal Inanam, terminal bas Inanam, saya mau ambil barang yang dikirim dari Semporna. Jadi waktu tu tidak tahu kenapa, mungkin selepas hujan saya buka tingkap, sejuk — kalau pasang aircond sejuk kan kereta. Jadi tiba-tiba dia jerit, "Rafizi!" Saya tengok dia lari depan kereta begitu. Berhenti lah. Saya bagi tahu, "Kopi mana? Mau pergi terminal dulu." Saya tumpangkan lah dia. Kita orang sembang.
 
@@ -139,7 +139,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Nasib baik ada program ni, kalau tak, tak pasal-pasal orang marah dia kena kecam. Okey, salam kat dia daripada Rafizi yang sebenar.
 
-**Razeef Rakimin:** InsyaAllah. Tapi 10 ribu ni — 10 ribu lebih dia punya.
+**Faizal Rahman:** InsyaAllah. Tapi 10 ribu ni — 10 ribu lebih dia punya.
 
 **Rafizi:** Kalau macam tu, yang berianya bukan dia — yang berianya parti politik yang menunggang dia, menunggang OKU pula tu untuk buat content.
 
@@ -185,7 +185,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Bukan pada kali ini saja lah.
 
-**Haziq:** Sepanjang musim, saya rasa setakat ini.
+**Rafizi:** Sepanjang musim, saya rasa setakat ini.
 
 **Rafizi:** Kecuali lah ada episode yang akan datang ada beria yang lebih baik daripada ini.
 
@@ -193,7 +193,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Jarang. Jarang.
 
-**Haziq:** Dia sebenarnya, setakat pengetahuan saya...
+**Rafizi:** Dia sebenarnya, setakat pengetahuan saya...
 
 **Rafizi:** Dia bergantung kepada bahan bukti yang ada. Selalunya yang memberi rasuah itu, dia diperlukan sebagai saksi kepada pendakwa — saksi penting, sebab dia yang nak mengesahkan trail duit dan sebagainya kan. Jadi sebab itu dalam banyak kes biasa, yang jadi saksi itu sama ada diberikan kompaun yang lebih kecil ataupun tidak didakwa langsung. Tapi kalau ini, aku dah lompat Faizal terus lah kan, sebab kau kata janggal kan — tapi jarang. Bagi saya lah, kalau saya jadi pendakwa — ha, ni bekas pendakwa raya ni — kalau bukti itu telah cukup, memang saya nak dakwa dua-dua. Dan dalam kes ini, sebab Albert Teh pergi cakap kat semua orang, dia bagi dekat WhatsApp bila gini gini gini — yang itu sudah jadi pengetahuan umum, kan? Itu pandangan saya lah, Faizal. I don't know, sebagai pendakwa raya.
 
@@ -281,13 +281,13 @@ Jadi sebab itu orang luar tidak faham kenapa contohnya bila keluar cerita pasal 
 
 **Rafizi:** Eh, tak ada — ni meeting, aku pergilah.
 
-**Faizal Rahman:** Saya sebelum ni pernah jadi Timbalan Ketua Penerangan.
+**Razeef Rakimin:** Saya sebelum ni pernah jadi Timbalan Ketua Penerangan.
 
 **Razeef Rakimin:** Mesyuarat khas — memang itu berlaku. Kita duduk dalam mesyuarat, presiden akan briefing, briefing, briefing, briefing. Habis. Lepas tu dia akan tanya kalau perlu tanya. Selepas itu kalau tiada apa-apa, okey, habislah. Memang itu yang berlaku.
 
 **Rafizi:** Bahaya ni.
 
-**Razeef Rakimin:** Dua kali, dua kali.
+**Rafizi:** Dua kali, dua kali.
 
 **Rafizi:** Akhirnya kalau ada perkara-perkara yang perlu dibincang, nak telefon pun susah kerana dia sentiasa sibuklah. Dan kita nak tunggu masa kan. Nak tunggu masa tu pun yang keliling dia tu setiausaha politik dia, yang akan bagi masa tu, semua anti aku. Jadi memang tak dapat masa. Kadang-kadang 3 bulan sekali pun nak jumpa Dato' Seri Anwar untuk 30 minit tak dapat. Dan bukan saya seorang. Saya tahu orang lain pun begitu kan. Jadi kalau orang tanya, memang ada kesukaranlah. Jadi sebab itu keputusan-keputusan ini bukanlah dibincangkan. Sebab itu saya beritahu dalam kenyataan saya minggu ini bahawa soal Tan Sri Azam Baki ni dia dah jadi beban kepada PH. Sabah pun dia jadi beban. Jadi pimpinan DAP dan pimpinan Amanah contohnya, janganlah datang jumpa saya suruh saya pergi cakap dengan Anwar Ibrahim. You cakap terus lah. Tapi Amanah tak berbunyi apa. Amanah akan cakap macam itu jugalah. Dia akan mengadu kat sayalah, payah lah nak jumpa PM ni, tak dapat masa mesyuarat Majlis Presiden. So maybe PMO block lah sebenarnya. Wallahu alam. Saya tak tahu.
 
@@ -329,7 +329,7 @@ Jadi sebab itu orang luar tidak faham kenapa contohnya bila keluar cerita pasal 
 
 **Razeef Rakimin:** Kau mahu saya pilih kau, kau bawa isu kami. Kalau kau tidak mampu, kami pilih lain. Kami boleh move dalam satu blok, tidak ada masalah. Sebab itulah kita terkejut dengan keputusan yang DAP dapat. Kita tahu yang ini akan berlaku dan kita sudah warning pimpinan sejak awal. Tapi kita tengok macam tidak ada perubahan, tidak ada tindakan. Diorang bagi tahu diorang akan buat, tapi tidak ada apa-apa. Kita tengok tidak ada apa-apa pun isu kaum Cina yang mereka suarakan. Akhirnya diorang tengok tidak ada harapan lain selain daripada pilih Warisan. So bukan tiba-tiba lah, benda ni sudah lama, lebih kurang setahun lebih. Malah waktu kempen Hiruk pun saya rasa YB sudah bentang tu. Kita tengok peratusan sokongan tu menurun, kita tahulah sebabnya apa.
 
-**Rafizi:** Itu dikongsikan balik YB.
+**Faizal Rahman:** Itu dikongsikan balik YB.
 
 **Razeef Rakimin:** Dikongsikan balik. Ya, sebab bila kita tengok menurun ni, kita bukan tengok daripada sokongan je, kita mahu tahu apa isu dia. Isu ni sebenarnya kita boleh selesaikan, tetapi pimpinan kita ni ada yang fokus isu lain, ada juga yang ego dia. Confident bagi diorang ialah bila kita cakap pasal pengundi Chinese ni, "mereka setia dengan Pakatan Harapan." Okey, tapi Chinese community ni dia orang bukan jenis begitu — kau boleh bawa, saya bagi kau undi, kau tidak boleh bawa, selesailah kau, bye bye lah. Itu yang berlaku.
 
@@ -363,7 +363,7 @@ Jadi sebab itu orang luar tidak faham kenapa contohnya bila keluar cerita pasal 
 
 **Razeef Rakimin:** Rasanya lagi teruk. Kalau keluar ramai lagi teruklah. Saya ambil contoh Luyang lah — dulu kita menang terlalu besar, selesa. Sampaikan pada waktu tu kita cakap kita letak siapa pun bertanding di Luyang tu tetap akan menang. Tapi sama juga kena sapu juga — 51% swing Luyang.
 
-**Haziq:** Saya, saya ni nak—
+**Rafizi:** Saya, saya ni nak—
 
 **Rafizi:** Berbalik kepada soal naratif yang paling dominan sekarang ini, iaitu gelombang Sabah for Sabah. Sebenarnya kita takkan boleh sahkan secara data yang betul-betul bull's eye, kerana data tu takkan ada. Maksudnya kalau saya nak berkongsi, sebenarnya kita baca banyak analisa segala ni kan. Analisa ni bagi saya, sebelum kita buat keputusan, kita mesti berasaskan kepada teori, hypothesis. Dan kemudian perkara itu mesti disahkan dengan data. Itu scientific way of managing politics kan. Jadi ada beberapa hypothesis. Satu hypothesisnya ialah Sabah for Sabah, dan satu lagi ialah ketidakpuasan hati pengundi-pengundi hardcore ataupun pengundi tegar Pakatan terhadap prestasi Pakatan. Memang macam Razif sebut, berdasarkan data dalam Januari 2025, dia 50-50 sebenarnya — dua-dua hipotesis ini. Jadi kalau nak kata, saya kurang bersetuju kalau ada yang cuba whitewash the whole thing, kata ini semua gelombang Sabah for Sabahan. Sebenarnya tidak. Dia agak rumit sedikit, bercampur-campur mengikut kumpulan pengundi yang berbeza-beza, kerana data yang terakhir kita ada Januari 2025 membayangkan perkara itu. Memang betul ada sebahagian pengundi Sabah yang mahukan pimpinan ataupun kerajaan parti lokal saja. Nasihat saya kepada PH dan Dato' Seri Anwar ialah worst case scenario ialah kalau JRS bergabung dengan Warisan lawan PH dan BN, kosong semua. Kerana itu akan amplify Sabah for Sabah ni.
 
@@ -429,7 +429,7 @@ Sebab itu saya ingat mereka ada dua kemungkinan. Saya rasa mereka meyakinkan Dat
 
 **Razeef Rakimin:** Saya selalu tekankan bab autonomi. Sebab kita mahu untuk rundingan kerusi, kita lebih tahu di mana kita boleh menang. Lepas tu siapa calon yang sesuai. Sebab kita tahu, kita belajar dari pengalaman yang cukup panjang. Bila pusat take over saja, habis semua ke laut. Sebab apa? Sebab ada parachute. Campur tangan. Jadi bila kita pada mulanya kita tengok okey sudah, bila kita sudah berkali-kali bersuara bab autonomi, yalah saya di media pun berperang dengan Fuziah berapa kali. Dan alhamdulillah waktu lawatan ke parlimen tu, dapatlah 6 minit juga saya bercakap panjang tentang autonomi, pentingnya autonomi, kenapa kita perlu buat keputusan sendiri. Sebab tu jadi mantan. Sebab dia kena faham sentimen Sabah ni. Bukan mau ikut kepala dia saja. Jadi bila kita tengok benda tu kita tidak dapat, dan selepas pemilihan tu, terus saya tengok, yalah saya dulu dalam jawatankuasa rundingan kerusi. Kerusi yang kita dapat pun terlepas, yang sudah seal tiba-tiba terlepas. Ada yang kerusi yang kita mahu betul, sebab kalau ikut senarai kita, data yang kita ada, kita ada top 3 seat yang kita boleh menang. Kekuatan tu adalah kekuatan Keadilan, bukan kekuatan yang lain.
 
-**Rafizi:** Pertama, Moyok. Kedua, Tanjung Aru. Dan ketiga, Kiolo.
+**Razeef Rakimin:** Pertama, Moyok. Kedua, Tanjung Aru. Dan ketiga, Kiolo.
 
 **Razeef Rakimin:** Tapi dalam tempoh beberapa minggu saja, kita sudah kehilangan kerusi.
 
@@ -437,7 +437,7 @@ Sebab itu saya ingat mereka ada dua kemungkinan. Saya rasa mereka meyakinkan Dat
 
 **Razeef Rakimin:** Kita sudah kehilangan semua kerusi tu, dan beberapa kerusi termasuklah kerusi yang sudah sign and seal.
 
-**Rafizi:** So magic berlaku?
+**Razeef Rakimin:** So magic berlaku?
 
 **Razeef Rakimin:** Iya, magic berlaku. Jadi di sana saya tengok-
 
@@ -461,9 +461,9 @@ Sebab itu saya ingat mereka ada dua kemungkinan. Saya rasa mereka meyakinkan Dat
 
 **Rafizi:** Tapi poster ada, cuma sebahagian calon tak dapat poster. Ada calon yang dapat poster lah, ataupun poster memang tidak ada. Setakat ni saya tengok pakai banting je.
 
-**Razeef Rakimin:** Parti ni parti derita.
+**Faizal Rahman:** Parti ni parti derita.
 
-**Multiple speakers:** Derita pakai poster.
+**Razeef Rakimin:** Derita pakai poster.
 
 **Rafizi:** Masa derita zaman aku ada poster, tau. Jadi kita tengok di sana pun-
 
@@ -487,7 +487,7 @@ Sebab itu saya ingat mereka ada dua kemungkinan. Saya rasa mereka meyakinkan Dat
 
 **Razeef Rakimin:** Kemudian kalau YB ingat pun waktu mesyuarat MPP dulu, waktu kita mahu sambut 25 tahun Keadilan pun, kita batalkan bab konsert, bab bunga api kita batalkan.
 
-**Rafizi:** Sebab kita bukan-
+**Razeef Rakimin:** Sebab kita bukan-
 
 **Razeef Rakimin:** Kita ni parti cerita.
 
@@ -507,7 +507,7 @@ Sebab itu saya ingat mereka ada dua kemungkinan. Saya rasa mereka meyakinkan Dat
 
 **Rafizi:** Yalah, Senator Maizul, dulu fikir ah. Saya selalu pergi kempen dekat Kota Marudu lah. Kerana 2013, Kota Marudu ni kita kalah dalam 3, 400 undi je lah. Kalah tipis. Dan masa tu Ustaz apa, Ustaz Kahar eh?
 
-**Razeef Rakimin:** Ustaz Kahar. Ustaz Kahar kan ketua cabang kan.
+**Rafizi:** Ustaz Kahar. Ustaz Kahar kan ketua cabang kan.
 
 **Rafizi:** Saya pernah sampai kat Kota Marudu beberapa kali kat Sabah, sebab lepas 2013 aku fokus Penampang, Kota Marudu semua kan. Jadi kalau dulu-dulu sepatutnya kerusi-kerusi macam itu, PKR ada potensi menang tau — kerusi-kerusi di Kota Marudu turun ke bawah macam Sepanggar, Sulaman, Tuaran, itu semua kerusi yang kita boleh menang tau. Tapi malanglah kan. Inanam ni pun kubu kuat kita, tak pernah kalah Inanam. Tapi daripada awal aku rasa kalah lah. Cuma yang terkejut tu macam mana PAS boleh menang di Karambunai, sebab Karambunai tu dalam Sepanggar.
 
@@ -605,7 +605,7 @@ Yang itu, macam mana Dato' Seri Anwar nak perbaiki? Kerana pada masa yang sama d
 
 Dan akhir sekali dengan soal kemarahan, terutamanya pengundi bukan Melayu — I think the damage is done. Dan damage yang paling besar sebenarnya bermula 2 tahun lepas dengan Dr. Akmal Saleh. Bila Dr. Akmal Saleh, kau tahu, dibiarkan meliar.
 
-**Haziq:** Meliar lah kan.
+**Rafizi:** Meliar lah kan.
 
 **Rafizi:** Mengamuk ni kan, pasal satu isu ke satu isu — daripada soal stokin, kemudian soal bendera, soal tu kan. Bayangkan kalau kita pengundi Cina — kita akan rasa, "yalah kami undi kamu paling kurang untuk kamu bela kami lah." Tolak tepi soal cukai, soal ni semua — soal itu bela. Korang tak bela dia langsung, dan dia akan fikir macam mana Perdana Menteri tidak boleh mendisiplinkan seorang budak itu.
 

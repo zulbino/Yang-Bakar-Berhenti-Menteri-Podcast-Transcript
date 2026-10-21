@@ -52,7 +52,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Haziq:** Alah, YB is already revealing our guest for tonight. Okay, but before that, YB.
 
-**Rafizi:** There's shocking news.
+**Haziq:** There's shocking news.
 
 **Haziq:** Look, tada.
 
@@ -68,7 +68,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Haziq:** A complaint from people.
 
-**Rafizi:** Certain parties.
+**Farhan (Pa'an):** Certain parties.
 
 **Haziq:** Certain parties, from among fairly senior political figures too. So I thought, well, that's it.
 
@@ -122,7 +122,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** What's the difference between perbekalan and pembekalan?
 
-**Haziq:** Didn't have time to Google it.
+**Rafizi:** Didn't have time to Google it.
 
 **Rafizi:** I think perbekalan is "supply bill" — related to the expenditure bill. In the context of rice, this means pembekalan (supply). So the entire rice supply regime in our country, one major component of it is Bernas. Bernas was established back in UMNO's era. So some say Bernas's monopoly on rice supply and import contributes to the current situation; some say we need competition; some say the existing price-control regime is no longer suitable. All of that is UMNO's legacy. So if you want to stir up sentimentality about UMNO, don't say "when UMNO lost power, local rice disappeared too." Because it's been nearly 10 years since UMNO lost power, and I still haven't gotten thin — meaning rice is still there, still plenty. No wait, I can't eat it, I've gotten thin already.
 
@@ -140,13 +140,13 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Farhan (Pa'an):** He was invited to attend UMNO's General Assembly the other day. There's speculation he'll make a comeback, some say it's still not possible for him to come back. He's in a dilemma too.
 
-**Rafizi:** Yes, he's in a dilemma too.
+**Farhan (Pa'an):** Yes, he's in a dilemma too.
 
 **Farhan (Pa'an):** In a dilemma too.
 
 **Rafizi:** But this one isn't about KJ, this is about Kian Meng. Even if KJ becomes Prime Minister one day, if UMNO accepts him and he becomes PM one day, I think the road is still winding for appointing someone with no political standing at all to become a minister. It's not that simple. So Kian Ming can keep hoping, but there are many steps. First, KJ has to join UMNO. Then he has to become UMNO president. Then UMNO has to win the general election. And then even after UMNO wins the election, and if by fate KJ becomes PM, he still has to cross the final hurdle — appointing someone who has no political base, or a former politician who no longer has a political base, to become a minister. But I salute him for lobbying so enthusiastically — people call it "hedging." This is hedging, investing in the future amid all the existing uncertainty. Early investor.
 
-**Haziq:** Early investor. This is really an early investor.
+**Rafizi:** Early investor. This is really an early investor.
 
 **Rafizi:** In startup terms, this is truly an angel investor. No proposal paper yet, no pitching deck yet, and he's already signed the check. Good.
 
@@ -194,9 +194,9 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** None.
 
-**Haziq:** So it just happened suddenly.
+**Farhan (Pa'an):** So it just happened suddenly.
 
-**Farhan (Pa'an):** Just suddenly. Should have asked for MPs' views.
+**Rafizi:** Just suddenly. Should have asked for MPs' views.
 
 **Rafizi:** If not that, then maybe it should have been discussed first in committee — the select committee with MPs, right? It's true the Speaker is accountable to parliament, but the Speaker's authority also comes from the MPs' choice. And parliament has certain committees, house committees, committees that set the rules and so on. Even if it ultimately becomes the Speaker's decision, at the very least, MPs' views should be sought, right? Because we from PKR backbenchers, we don't agree — I'll say it plainly.
 
@@ -254,7 +254,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Okay, Trump started by saying he wanted to take it over. Then he wanted to annex it. Then he wanted to buy it. So what happened after that? NATO.
 
-**Haziq:** Tiring, huh, come back another time. NATO disagreed.
+**Rafizi:** Tiring, huh, come back another time. NATO disagreed.
 
 **Farhan (Pa'an):** I did ask. NATO disagreed. The European Union offloaded a lot of US treasuries, if I'm not mistaken.
 
@@ -284,7 +284,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Right, people will say it's post-Covid — "that was Covid" essentially. Because of the children, right. So let's look since this education blueprint was created, over the 15-year period, if you look at our results, they haven't moved. First, when Malaysia joined in 2009, heading into 2010 — reading 414. Then in 2012 it got worse, 398. In 2015 that figure was disputed because of sampling — ha, that's why it suddenly appears to jump from 398 to 431, but the OECD questioned it due to sampling issues. They felt maybe we got a bit clever — we picked a sample of only bright students, so the sample might not have been representative. So that figure, in the official OECD PISA report, has a note saying it's not comparable because of sampling difficulty. Then look, even before COVID, after almost 10 years, 8-9 years into this education blueprint — reading is roughly the same, 414, 415. Maths went up slightly, 404, 440. These are the reasons that led to "let's bundle this up or not" — because when they made the education blueprint, when they did PISA and all that, they felt our kids were doing rote learning, lacking higher-order thinking skills, hence KBAT came about. But after Covid, it plunged back down. And according to the report, the loss of learning — meaning for our students post-Covid, as a result of Covid, I recall, was equivalent to losing 4 years of learning time. Meaning this — when comparing our students with Singaporean students at a certain age, the gap is 4 years due to Covid. That shows how severe our situation is. So, Radzi Din for example — don't think that because I always criticize Fadhlina, that means Radzi Din was much better. Even during Maszlee Malik's time, it wasn't much different either. So that's for PISA. Okay, next let's look at TIMSS. Besides PISA, we have another indicator called Trends in International Maths and Science Study. This one focuses on maths and science, grade 8, I think around 14 years old. It's run by a global body called the International Education Assessment (IEA). This is our latest result, I believe TIMSS 2019 — also bad, really bad. Compared with Singapore, the gap is up to 150 points. Japan, way ahead too. Okay, next. So viewers, please be patient — before we comment, let's not just jump into comments, we need to look at the numbers and what the data shows. This compares everything.
 
-**Haziq:** So this actually shows where we stand, our benchmarking and also our quality. The topmost bar, between 500 and 520 points, that's the NEB target, National Education Blueprint 2010-2025, which is to be in the top 30%.
+**Rafizi:** So this actually shows where we stand, our benchmarking and also our quality. The topmost bar, between 500 and 520 points, that's the NEB target, National Education Blueprint 2010-2025, which is to be in the top 30%.
 
 **Rafizi:** If we're in that band, that means we've achieved the target. Way off, aren't we. Far indeed. Right. Then, the second bar, roughly between 470 and 490, that's the world average PISA score. What does that mean? Not only have we missed our target, we're below average. Right. So I hope — I know when I say this some people will really attack me. Some will say teachers are angry at YB Rafizi because it seems like he's insulting teachers. I mean we have to accept this fact. And when I was Economy Minister, one of our long discussions was, as I mentioned earlier, about how to boost the economy. How do we raise our productivity? All of that depends on our human capital. And our human capital is the brain. And our brain is shaped by school. With this number, we're going to have a problem. And we have to accept, it's clear that we're below average. And not only are we below average, we're declining, and even the 2015 rise is disputed. Right? Otherwise, the 2015 sampling issue is questioned, it rose a bit until 2018, then it's been declining since. And Covid had a big impact on us. This is a fact and reality we need to accept, and I hope the Education Minister, leaders of our education institutions, teachers — we need to accept the fact that our quality will have a major impact on the country in the future. We've already started seeing that impact. But we can't talk about economic growth, about becoming a developed nation, if we don't focus on this. Okay, next slide.
 
@@ -298,7 +298,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 I'm not sure.
 
-**Farhan (Pa'an):** About 30 or so.
+**Haziq:** About 30 or so.
 
 **Haziq:** Even that's a lot.
 
@@ -314,15 +314,15 @@ I'm not sure.
 
 **Rafizi:** Yes, in economic terms, it's not about spending, it's about efficiency. It means we spend without effectiveness. It has many connotations. This is what I feel — okay, I need to touch on this a bit with Fadlina. Maybe because I was trained as an engineer, so the way we think and look at a problem, or problem-solving, is more methodical. So if the question is about efficiency, spending and implementation efficiency, there are a few core issues. Spending efficiency might mean we're spending at an expensive price to get something — a school that should cost RM20 million, we spend RM40 million. So because that spending ends up at a higher price, spending is not efficient. It takes away resources from things that are more needed — for example, teacher training, teaching aids, maybe good internet access, right? That's why spending efficiency is something we need to have a landing on. But throughout my 2.5 years in government, then now as a backbencher — have we ever heard the Education Minister touch on spending efficiency? No. If anything slips out, when I criticize Fadlina, she'll tweet and try to spread how good the Education Minister is — how many hundreds of millions have been spent on this, that many hundreds of millions on that. When we know, having gone through the details, it's not about the absolute amount, it's not about what is being spent — it's about spending efficiency. And as Education Minister, if you want to make sure that every single ringgit is spent efficiently so that you get results, you cannot run away from spending efficiency. So this matter is not touched on at all. I sent a question in Parliament about spending efficiency, but on infrastructure matters, physical matters. I hope she will answer it properly, give me the data. Because I'm not just trying to take a shot at her. I actually want to see discussion and discourse about spending efficiency. Because all this is staring right at us. So that's one, spending efficiency, right? But let's say spending efficiency is all fine — if the Education Ministry says, we're really spending well, if the score is RM5, we really spend RM5, but the results are still like this. What does that mean? The syllabus. Meaning the method, the way we teach, the syllabus and so on. Which brings me to the last slide. Okay, I read this during PLM — what's it called, this learning matrix, right? Learning matrix. What does P stand for? I can't see it anymore. Preliminary. No, wait.
 
-**Farhan (Pa'an):** Can you see it? Can't see it. Let's Google it.
+**Rafizi:** Can you see it? Can't see it. Let's Google it.
 
 **Rafizi:** Okay. This is another regional benchmarking exercise done by UNICEF. Pri— Primary Learning.
 
-**Farhan (Pa'an):** Primary Learning Metrics, not Preliminary.
+**Rafizi:** Primary Learning Metrics, not Preliminary.
 
 **Rafizi:** PLM, it's roughly similar to PISA, but it's for the Southeast Asian region. Six countries, YB.
 
-**Haziq:** Ah, and only these 6 countries took part.
+**Rafizi:** Ah, and only these 6 countries took part.
 
 **Rafizi:** Indonesia didn't join, Singapore didn't join. You know, when Singapore doesn't join, I feel like Singapore is basically insulting us. Because it's saying "I'm not in your league." And the fact that Malaysia is here means Malaysia acknowledges that we are in the league of Cambodia, Laos, Myanmar, the Philippines, Vietnam. And countries like these. Thailand didn't join either. So this is the latest one, 2024. The report is quite long — not much different from PISA and TIMSS. But one thing that's most important, and this was published 2 months ago — in November. I waited for it to explode into a big national issue. It didn't explode. Let's make it explode now. So we waited for when we'd present it on this podcast. But we waited for the right time. Rather than talking just to create an issue for its own sake, now I think is a good time to conclude on this. Let's look at the number of hours allocated for teaching mathematics. Different countries have different primary education durations — all 6 years except Vietnam, Vietnam finishes primary school in 5 years. Then they add up all the teaching hours throughout the primary school period. Let's look — Cambodia 4,100, then Laos 4,400. Malaysia, over the 6 years of study, students go through 4,800 hours of total teaching. What's most important? Let's look — I've seen 2, 3 education experts raise this issue, but it just dies. A report comes out, then dies — not picked up by politicians, let alone the Education Ministry. Even the Prime Minister didn't comment. Yet to me this is a very important matter because it goes right into the heart of reform. We've looked at whether resources are sufficient — okay, you can question spending efficiency. But this is something parents talk about, with varying views, but it has never been brought to the national level to show with a figure that we actually have a problem. Look at the number of mathematics teaching hours — we're the lowest in the region. What percentage is that?
 
@@ -330,9 +330,9 @@ I'm not sure.
 
 **Rafizi:** Meaning students from Year 1 to Year 6, we're busy talking about AI, artificial intelligence, wanting to do that. We're busy talking about STEM. Our primary school students only go through 16% mathematics instruction. We can't compare science because science is lumped into "other domain hours." What it actually measures is 3 categories — it measures language, language instruction in PLM, it measures maths. But science is included under other domains, meaning other subjects. So yes, we're only 16% maths. How are we going to score in PISA? How are we going to produce more engineers, more people who can create, with innovation and so on, if the maths foundation is this low? And the foundation of science is maths. You can't learn physics if your maths is weak. Chemistry also involves maths. Okay, biology maybe less so. But these two core subjects, let alone engineering — engineering is all derived from physics, whose foundation is maths. So by looking at these numbers, we know these kids are really pitiable, their foundation really isn't enough. So having looked at all that, now we move into the discussion about the RPM [Malaysia Education Plan]. Because there's no point discussing Malaysia's education plan, about starting school at age 6 and all that, if we don't start from where we are now. The diagnosis is where we are, and we know we spend as much as others. Our teacher ratio is comparable to others. We have as many schools as others. Average class size is as good as others. The only thing we lag behind others in is the syllabus. Meaning our subjects, our curriculum doesn't emphasize, isn't sufficient for mathematics, and I'm sure for STEM, for science, for engineering too — if compared and broken down, I'm sure we'd also be lower than other countries. The fact that we're lower than Cambodia and Laos is a national embarrassment.
 
-**Haziq:** Alright, YB. You just keep talking, I need to drink water, I'm tired.
+**Rafizi:** Alright, YB. You just keep talking, I need to drink water, I'm tired.
 
-**Rafizi:** Haziq, back in school did you study a lot of science and maths?
+**Farhan (Pa'an):** Haziq, back in school did you study a lot of science and maths?
 
 **Haziq:** Had to study it because it was there. But back then we understood that the non-STEM line subjects were more numerous.
 
@@ -348,7 +348,7 @@ I'm not sure.
 
 **Haziq:** And maybe when the RPM is mentioned, many associate it with the 13th Malaysia Plan since there are many things—
 
-**Rafizi:** Did it slip out, did it slip out? Oh, she says it's not.
+**Haziq:** Did it slip out, did it slip out? Oh, she says it's not.
 
 **Haziq:** It's not.
 
@@ -442,19 +442,19 @@ I asked a question: on average, how much does the Ministry of Education spend pe
 
 **Rafizi:** How long have we been going? Feels long. We've been at it for 2 hours 25 minutes.
 
-**Haziq:** Ha, okay, good.
+**Rafizi:** Ha, okay, good.
 
 **Rafizi:** Poor thing. Really, poor YB. You haven't told the story about wanting to resign yet. Okay.
 
 **Farhan (Pa'an):** There's still Sam. Sam. There's Sam, right, last one.
 
-**Rafizi:** Poor guy, standing for so long.
+**Haziq:** Poor guy, standing for so long.
 
 **Haziq:** Ha, poor thing standing outside for so long. But for me, YB has touched on a lot about the syllabus. And... finally, this is it, okay.
 
 **Rafizi:** We're actually arguing right now about the age 6 issue, about schools not being enough, all that. Actually that's just a physical challenge. That's just a logistical challenge, you know. The real reform is this. The syllabus.
 
-**Farhan (Pa'an):** Which is the content.
+**Rafizi:** Which is the content.
 
 **Rafizi:** What we talked about earlier is all hardware. Hardware, you know, we have to go through it. Do what needs to be done. I mean, it's easy for me to say, I'm not the minister. But if I were the minister, this is exactly what I'd do — I'd be pounding the table, calling and summoning everyone. I would cut other ministries' budgets to build schools, for example. I mean, that's what I would have done as Minister of Economy. "Sorry, your budget this year is cut, cut, cut, cut. That can't be done, this one can't be done, because we have to build 1000 new preschools," for example. But even if we succeed in doing that well, we still can't run away from the syllabus issue. Syllabus. From the teaching methodology, and that's closely tied to the teacher issue. So I hope that even though it wasn't announced in the Malaysia Education Plan (RPM), I hope what's already been included in the 13th Malaysia Plan (RMK13) — the reforms related to teacher training, skills, and education — will continue. And I'm hoping there will be new announcements. That's why I'm also waiting for the full document — has it come out yet or not? So far, no. We tried searching but couldn't find it. But it's strange — how can there be an executive summary but no full document?
 
@@ -462,11 +462,11 @@ I asked a question: on average, how much does the Ministry of Education spend pe
 
 **Rafizi:** Ha, they're supposed to circulate both, right? Like when we do a Malaysia Plan, it's this thick. But we give an executive summary because it's a pain for people to read the thick one. So this is the first time an executive summary came out and we're still searching for where the full document is.
 
-**Farhan (Pa'an):** Is it just me or does it really not exist yet?
+**Rafizi:** Is it just me or does it really not exist yet?
 
 **Rafizi:** So ultimately, the most sensitive matter, and this will test Fadlina or whoever becomes Education Minister after her, is the issue of syllabus reform, because syllabus reform is closely tied to teachers too. In terms of teacher quality, teacher recruitment, the teacher salary scale, opening up the teaching profession more broadly to everyone — all of that is politically explosive. Changing the syllabus will mean some subjects need to be reduced. Yes. Or the hours need to be reduced. That will cause a stir. Ha, right. Teachers, for example, if they need to go through new training or continuous certification — we call it CPE, Continuous Professional Education — teachers might not like it. Actually, one of the proposals by the Ministry of Economy in RMK13 that I eventually gave up on — we actually wanted an open and independent certification for teachers, just like doctors, lawyers, accountants. Meaning teachers every year would need to fulfill certain requirements to renew their certification to teach. Like a practicing license.
 
-**Farhan (Pa'an):** Like a practicing license.
+**Rafizi:** Like a practicing license.
 
 **Rafizi:** Without that practicing license, they can't teach. Because our proposal would also have helped the Ministry of Education manage the problem of problematic teachers — the ones who skip work and so on. But in the end, the Ministry of Education didn't want it. So never mind, I had to give in on that. But when it comes to what's next, you can't run away from the issue of syllabus quality and teaching quality. And on this, so far we don't have much information from the RPM, and we'll have to wait. I hope it's in the full document that will be published later, circulated later. If not, then we need to keep pushing. Because the facts speak for themselves earlier — in terms of PISA, in terms of the number of teaching hours, learning hours for mathematics. If those things aren't changed, then even starting Year 6, even starting at age 6, these kids will still suffer. It's still the same clock. But, YB, I have a question.
 
@@ -488,9 +488,9 @@ I asked a question: on average, how much does the Ministry of Education spend pe
 
 **Rafizi:** Oh, he's economy. The fact that we don't know. Do we know? Okay. Isn't it Saifuddin Abdullah?
 
-**Farhan (Pa'an):** Ah, that's higher education, right?
+**Haziq:** Ah, that's higher education, right?
 
-**Haziq:** Oh really?
+**Rafizi:** Oh really?
 
 **Rafizi:** I don't know. Who is it? Google, google. Hold on. Ha, that's right. Dato' Sri Saifuddin Abdullah.
 
@@ -508,11 +508,11 @@ I asked a question: on average, how much does the Ministry of Education spend pe
 
 **Rafizi:** They made a Rumah Bangsa. But it's quite obvious the most important thing to make Rumah Bangsa work is PAS. And most importantly, Dato' Seri Hadi Awang has said they will not be together with the "mute devil." So that's the end of that story. The house is closed, there's nothing there. Between IPR and Rumah Bangsa, where does YB see any prospects?
 
-**Haziq:** Neither.
+**Rafizi:** Neither.
 
 **Rafizi:** Neither. I think we're actually at a stalemate right now. Let's see. I try — well, if I say it now people won't believe it, and sometimes it becomes a self-fulfilling prophecy. We've already seen the data showing that voters are increasingly fed up with the existing parties, with the existing coalitions. Why are they fed up? Because of political behavior. As if today I curse you, tomorrow we can be friends, the day after we curse each other again. Anything goes for the sake of power. And to the point where people can no longer see the difference between one party and another. Today Anwar, yesterday Dato' Seri Anwar with Dato' Seri Hishammuddin, oh how happy they were. Why bring that up?
 
-**Haziq:** No, no, there's no story there.
+**Rafizi:** No, no, there's no story there.
 
 **Rafizi:** But what I mean is, things like this — to these politicians, for example wanting Rumah Bangsa, then inviting each other, proposing to each other, MIC, Tan Sri Muhyiddin said he's already submitted a form to join PN, UMNO says eh, not yet — in their eyes, all this is political strategy. Ha, this is all political strategy. But I think they don't see that things like this are exactly what makes the public more and more disgusted. Because one moment you're like this, then you're like that, and everything is just for the sake of gaining power. Very Machiavellian, you know. To the point where people will say, put them all in the same basket, they're all the same. So the more they focus on political strategy like this, the more they'll push the public away, because the public's concerns are ordinary issues. School issues, drain issues, road issues, prices of goods, all that. The more they focus their campaign on so-called political strategy, the more the public will... and that was my reasoning for returning to PKR in 2022. Stop all this talk about Anwar Ibrahim wanting to team up with Bersatu, with PAS, big tent, no big tent, because that will push the public further away. Focus on them. What they want to hear, what they want to see. Just focus on them. Winning or losing — leave that to them. Unfortunately, when we become political leaders, we don't do that, we feel like the world revolves around us. So I think it's good to see more of this. No more sulking. We can't be bothered to coax anyone anymore. I thought only I sulked — MCA and MIC are sulking too.
 
@@ -526,7 +526,7 @@ I asked a question: on average, how much does the Ministry of Education spend pe
 
 **Haziq:** We don't have Tan Sri Azam Baki because he's quite busy. So we have... his PR campaign.
 
-**Farhan (Pa'an):** Where is it? Ha, there.
+**Haziq:** Where is it? Ha, there.
 
 **Haziq:** Been standing there a while.
 
@@ -564,7 +564,7 @@ I asked a question: on average, how much does the Ministry of Education spend pe
 
 **Rafizi:** Eh, just say it, dragging it out. Trying to build suspense earlier. Eh, it's getting late, you know. Okay, okay, okay. Want to sleep, want to sleep, want to sleep.
 
-**Farhan (Pa'an):** Want to sleep lah.
+**Rafizi:** Want to sleep lah.
 
 **Haziq:** As it stands, I'll resign from there.
 

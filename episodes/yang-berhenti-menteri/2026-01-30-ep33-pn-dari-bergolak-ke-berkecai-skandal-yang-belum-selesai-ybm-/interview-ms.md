@@ -56,21 +56,21 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Wong Chen:** Oh, itu soalan yang bagus. Sebenarnya, kepada 1 juta penonton kita di luar — saya ingat saya menelefon anda. Masa itu saya rasa anda masih angkat panggilan. Kemudian saya ingat saya bercakap dengan Dato' Seri Anwar mengenai GST. Kemudian dia berkata, "Eh, kau tahu tak, aku ada penasihat ni yang cakap dia pro GST."
 
-**Haziq:** Awak pro GST?
+**Wong Chen:** Awak pro GST?
 
-**Rafizi:** Betul kah? Sebab saya cakap kepada dia ini regresif.
+**Wong Chen:** Betul kah? Sebab saya cakap kepada dia ini regresif.
 
 **Wong Chen:** Saya sosialis lah, brother. Jadi dia kata, tapi kau tahu—
 
 **Rafizi:** Saya akan bantah ini. Ini sama macam di mahkamah, kan, bila orang mendakwa sesuatu, kita akan bantah.
 
-**Haziq:** Tidak, tidak, tidak, saya faham sebabnya.
+**Wong Chen:** Tidak, tidak, tidak, saya faham sebabnya.
 
 **Wong Chen:** Ya, ya, ya, sebab ia efisien. Ia sistem yang sangat efisien, tapi kalau kau buat GST murah, okey. Jadi kali pertama saya bercakap dengan dia adalah di telefon. Kemudian saya rasa sebulan kemudian kita berjumpa kali pertama, saya rasa begitulah.
 
-**Haziq:** Boleh jadi lah.
+**Rafizi:** Boleh jadi lah.
 
-**Rafizi:** Eh, ini bila ah? 2009? Itu mesti 2009 lah.
+**Wong Chen:** Eh, ini bila ah? 2009? Itu mesti 2009 lah.
 
 **Haziq:** 2009.
 
@@ -80,11 +80,11 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Sebab saya ingat masa itu, itu kali pertama saya kena tipu oleh Anwar Ibrahim lah. Sebab janji dia masa dia minta saya berhenti kerja korporat saya dahulu ialah, awak tidak akan muncul di mana-mana, tidak ada politik, awak hanya buat kerja belakang tabir, fokus pada dasar semuanya. Jadi tiba-tiba kerajaan masa itu betul-betul mula memikirkan tentang mahu buat GST. Masa itu mungkin tidak ramai orang dalam PKR, dan Wong Chen belum berada dalam PKR sangat lagi.
 
-**Haziq:** Belum lagi kan.
+**Rafizi:** Belum lagi kan.
 
 **Rafizi:** Tidak ramai orang yang faham dan boleh bercakap tentang GST. Jadi dia perlukan wakil PKR dalam majlis, dalam forum semuanya. Itulah bagaimana saya mendapati diri saya secara tiba-tiba di atas pentas bersama Tony Pua, kali pertama itu.
 
-**Haziq:** Ah, betul, betul. Tony Pua, hero DAP lah masa itu.
+**Wong Chen:** Ah, betul, betul. Tony Pua, hero DAP lah masa itu.
 
 **Rafizi:** Jadi selepas itu — saya angkat panggilan.
 
@@ -94,11 +94,11 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Wong Chen:** Itulah bagaimana saya — saya pun kena tipu lah. Kita semua kena tipu.
 
-**Rafizi:** Kena tipu ramai-ramai. Okey.
+**Haziq:** Kena tipu ramai-ramai. Okey.
 
 **Haziq:** Baik, sebelum kita ke segmen yang lebih berat, kita akan pergi ke segmen yang mungkin agak ringan dahulu, tetapi cepat-cepat saja.
 
-**Rafizi:** Sebelum kita ke skandal, kita akan pergi ke segmen yang mungkin agak ringan, tetapi kita cepat-cepat saja.
+**Haziq:** Sebelum kita ke skandal, kita akan pergi ke segmen yang mungkin agak ringan, tetapi kita cepat-cepat saja.
 
 **Haziq:** Dan YB mungkin kena nilai juga sama ada perkara itu cukup "Beria."
 
@@ -114,11 +114,11 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Shamsul Iskandar. Saya tidak fikir Wong Chen — Wong Chen rasanya kabur ini apa dia ini. Saya tidak ada idea, kena bagi konteks kepada YB Wong Chen.
 
-**Haziq:** Adakah ini menteri atau Shamsul?
+**Wong Chen:** Adakah ini menteri atau Shamsul?
 
 **Rafizi:** Dua-dua. Ada Menteri Fadhlina dan juga Shamsul. Jadi kena bagi konteks.
 
-**Wong Chen:** Ini retreat wanita dan—
+**Haziq:** Ini retreat wanita dan—
 
 **Haziq:** —jemputannya sudah pastilah daripada saudara Shamsul Iskandar. Okey.
 
@@ -134,7 +134,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Wong Chen:** Apa yang saya mahu tahu adalah, ini rakaman langsung yang dia letak di internet?
 
-**Haziq:** Ia rakaman peribadi.
+**Wong Chen:** Ia rakaman peribadi.
 
 **Rafizi:** Dia boleh buat promo — ini klip promosi.
 
@@ -150,15 +150,15 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Apa-apa pun, okay.
 
-**Wong Chen:** Jadi, okey, nanti beria ke?
+**Rafizi:** Jadi, okey, nanti beria ke?
 
 **Rafizi:** Beria, beria.
 
-**Wong Chen:** Oh, Tun Def beria ini kan. Jadi penilaiannya macam mana? Nanti kita tengok 3, 4, dan kemudian kita pilih yang mana paling beria.
+**Rafizi:** Oh, Tun Def beria ini kan. Jadi penilaiannya macam mana? Nanti kita tengok 3, 4, dan kemudian kita pilih yang mana paling beria.
 
 **Rafizi:** Okey, okey, jadi itu satu.
 
-**Haziq:** Dia memang menepati ciri-ciri kriteria beria lah.
+**Rafizi:** Dia memang menepati ciri-ciri kriteria beria lah.
 
 **Rafizi:** Tetapi mari lihat yang lain, 2, 3 lagi lah. Okey, kita tengok yang lain — Izzah, Kamil Intim. Kena bagi konteks kepada Wong Chen tau. YB perasan tidak kalau ada promosi tentang konsert Siti Nurhaliza daripada Timbalan Presiden kita?
 
@@ -166,9 +166,9 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Farhan (Pa'an):** Sekejap, kita kena tanya Wong Chen, dia kenal tidak Intim itu siapa?
 
-**Rafizi:** Okay, soalan seterusnya.
+**Wong Chen:** Okay, soalan seterusnya.
 
-**Farhan (Pa'an):** Intim memang tidak kenal.
+**Wong Chen:** Intim memang tidak kenal.
 
 **Wong Chen:** Nama Inggeris tetapi pakai kopiah.
 
@@ -176,7 +176,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Wong Chen:** Kalau boleh masuk juara karaoke, boleh dapat nombor 50.
 
-**Rafizi:** Janganlah macam — tetapi saya fikir—
+**Haziq:** Janganlah macam — tetapi saya fikir—
 
 **Wong Chen:** Tidak, ia tidak buruk, suaranya—
 
@@ -202,15 +202,15 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Saya tidak — saya tidak faham. Jadi sudah pasti ini tidak menarik minat Wong Chen lah.
 
-**Haziq:** Adakah dia berkata dia kacak, atau tidak?
+**Wong Chen:** Adakah dia berkata dia kacak, atau tidak?
 
-**Wong Chen:** Tidak, itu hanya jenaka sampingan.
+**Haziq:** Tidak, itu hanya jenaka sampingan.
 
-**Haziq:** Oh, jenaka sampingan, okey, okey, tidak apa. Maaf eh, bro.
+**Wong Chen:** Oh, jenaka sampingan, okey, okey, tidak apa. Maaf eh, bro.
 
 **Rafizi:** Jadi dia beria lah, sebab masalah PKR sekarang ini ialah masalah substans. Orang mahu tengok apa pandangan tambahan daripada Timbalan Presiden, sekarang daripada Ketua AMK, tentang isu-isu besar negara. Bagaimanapun, kita berada dalam kerajaan kan. Tetapi mungkin caranya ialah dia mengelak, tidak mahu memberi reaksi, jadi dia pilih jalan yang macam ini dengan harapan yang ini "politik yang hebat." Mungkin dia ingat ini gaya Zohran Mamdani.
 
-**Haziq:** Retro lah, politik retro. Tetapi terlalu retro. Beria atau tidak?
+**Rafizi:** Retro lah, politik retro. Tetapi terlalu retro. Beria atau tidak?
 
 **Rafizi:** Okey, kita nanti tengok, kena buat penarafan.
 
@@ -218,15 +218,15 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Okey, seterusnya.
 
-**Haziq:** Oh, ada sepak.
+**Wong Chen:** Oh, ada sepak.
 
-**Wong Chen:** Siapa kerja keras?
+**Haziq:** Siapa kerja keras?
 
 **Haziq:** Ini juara lah — dia gear. Okey, walaupun—
 
 **Rafizi:** —saya sudah baca keseluruhannya. Ha, sebab yang ini pun mungkin yang beria sebenarnya netizen.
 
-**Haziq:** Okey, ha, yang beria.
+**Rafizi:** Okey, ha, yang beria.
 
 **Rafizi:** Sebab saya baca keseluruhan jawapan bertulis daripada Menteri Agama — dia tidak ada pun berkata "siapa kerja keras jadi gay." Tidak ada.
 
@@ -234,11 +234,11 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Ha, soalan itu ada bertanya adakah kajian yang menunjukkan apakah faktor-faktor yang menyebabkan gaya hidup gay semua ini. Jadi pada perenggan kedua, Menteri Agama memetik satu kajian lah — mungkin itu sahaja satu-satunya kajian yang ada sampel di Malaysia, oleh Sulaiman et al.
 
-**Haziq:** 2007, saya tidak tahu. Jadi ia — ia hanya satu komentar.
+**Rafizi:** 2007, saya tidak tahu. Jadi ia — ia hanya satu komentar.
 
 **Rafizi:** Gaya hidup, dan gaya hidup itu secara lanjutan tekanan kerja lah. Tetapi jawapan yang betul itu adalah dalam perenggan terakhir, iaitu jawapan rasmi jabatan — pada asasnya JAKIM lah kan. Jawapan rasmi JAKIM ialah persekitaran, keluarga, nilai semua — yang sebenarnya orang tidak akan buat bising lah. Tetapi entah kenapa netizen kita ini pun nakal juga lah, dia fokus kepada satu perkara itu saja. Hanya sebab — dan itu bukan dikatakan oleh Menteri Agama pun, itu adalah dapatan daripada satu kajian. Sebab soalannya, adakah kajian? Dia kata ada satu — ha, ini senarainya.
 
-**Haziq:** Tetapi dia pilih kajian itu tidak masuk logik juga.
+**Wong Chen:** Tetapi dia pilih kajian itu tidak masuk logik juga.
 
 **Wong Chen:** Jadi dia pilih yang salah. Tetapi mungkin itu satu-satunya yang ada.
 
@@ -276,13 +276,13 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Malulah Malaysia nanti. Tidak tahu lah kot. Mungkin sudah keluar kot. South China Morning Post sudah lah dia kan? Tetapi itulah bila keluar itu yang nakal itu, saya ingat kalau ada media antarabangsa yang mengambil, dia ambil sebab umpan klik yang membuat itu. Betul. Apa nama ini? Tekanan menyumbang kepada menjadi gay itu kan. Yang itu memang nakal lah siapa yang buat itu kan. Siapa yang cuba mahu mendapatkan kandungan viral, tetapi mengundang cemuhan daripada seluruh dunia lah.
 
-**Haziq:** Lama kita bercerita. Siapa lagi?
+**Rafizi:** Lama kita bercerita. Siapa lagi?
 
 **Rafizi:** Sebab bahaya tau. Kita orang kerja keras tau. Bongcian dengan saya. Kita kerja keras setiap hari, tanpa henti. Takut juga saya.
 
 **Haziq:** Yang ini? Umum dahulu, u-turn kemudian. Saya fikir ini tentang diagnostik, diagnostik. Yang ini masuk dalam beria?
 
-**Rafizi:** Ini siapa pula?
+**Wong Chen:** Ini siapa pula?
 
 **Farhan (Pa'an):** Sebab kita sudah ulas panjang tentang hal pendidikan podcast lepas. Saya fikir kita masuk beria lah kali ini.
 
@@ -308,11 +308,11 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Garis masa pilihan raya, contohnya kalau kita jadi Dato' Seri Anwar. Kalau ikut perancangan jangka panjang, mungkin KPM kata 2 tahun lagi, 3 tahun lagi.
 
-**Haziq:** 3 tahun lah.
+**Rafizi:** 3 tahun lah.
 
 **Rafizi:** Tapi kalau 3 tahun lagi, 2029.
 
-**Haziq:** Pilihan raya sudah tamat.
+**Wong Chen:** Pilihan raya sudah tamat.
 
 **Rafizi:** Pilihan raya sudah tamat, dia masuk pilihan raya, dia tidak ada apa hendak ditunjukkan. Kalau tidak dia boleh tunjuk yang ini saya sudah buat, yang ini saya sudah buat, yang ini saya sudah buat.
 
@@ -336,7 +336,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Tapi maksud saya sebelum itu, kalau kita hendak tumpu kepada ini. Sebab saya fikir sekarang cerita diagnostik ini sudah menjadi air di bawah jambatan. Ia tidak ada lagi. Jadi tanggapan saya, pengumuman ujian diagnostik ini keluar beberapa hari selepas pengumuman PM. Tanggapan saya selepas PM mengumumkan 2027, setahun lagi, KPM berkata, "Ayah, macam mana nak kawal, macam mana nak peringkatkan — jadi mereka perlu masukkan sesuatu," ujian diagnostik. Jadi bila reaksi teruk, seminggu kemudian PM membatalkannya pula. Tapi isunya tentang kapasiti dan sebagainya itu masih belum terjawab. Isu garis masa...
 
-**Wong Chen:** Masih lagi PM di parlimen masih 2027.
+**Rafizi:** Masih lagi PM di parlimen masih 2027.
 
 **Rafizi:** Ha, jadi wah, bagaimana hendak lakukannya? Terus jadi 55 budak. Yang ini ialah good luck Fadlina. Mungkin boleh panggil Shamsul Iskandar untuk membantu. Tapi tanggapan saya, saya tidak rasa pegawai-pegawai tinggi, pegawai-pegawai perancang di Kementerian Pendidikan, awal-awal lagi merancang dalam tempoh setahun kita bergegas masuk. Saya tidak fikir begitu. Mustahil. Mereka memang — kalau pun kami bertelagah, mungkin KPM kata kami memerlukan lima tahun, yang itu tidak, tidak, mungkin 3 tahun sahaja. Latihan guru. Tapi saya tidak fikir semasa mereka merancang semua itu, mereka merancangnya pada 2027 kerana ia tidak realistik. Sebab itu sejak awal memang perancangannya jelas, awak tumpu kepada pra-sekolah dahulu, tumpu kepada 1 atau 2, 3 tahun akan datang — pra-sekolah. Kemudian sekolah yang sudah ada pra-sekolah, secara semula jadi budak lima tahun itu masuk enam tahun. Tapi sekarang bila kita kata 2027 akan dimulakan, PM sudah berkata begitu, jadi KPM sedikit kelam-kabut. Jadi ini siapa yang salah? Siapa yang begitu bersungguh?
 
@@ -418,15 +418,15 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Memang PKR. Merebak sayapnya. Jadi habis semua bergaduh secara terbuka. Bersatu pun bergaduh secara terbuka. UMNO pun bergaduh secara terbuka. Sekarang PAS pun bergaduh secara terbuka. Kalau lah Shahir ini, ahli parlimen Bachok, kalau lah dia setegas ini semasa berlawan debat dengan saya dan tidak memberikan pantun, saya rasa dia menang lagi. Maksud saya, yang terbaru, si Wong Chen, saya fikir ia telah beralih daripada drama kepada benar-benar dagelan. Maksudnya Bersatu ini bermula daripada Perikatan Nasional. Bermula daripada Perlis. Kemudian daripada situ ia berjangkit kepada bergaduh dengan Bersatu. Dan sebagai tindak balas, Tan Sri Muhyiddin meletak jawatan. Dan PAS berkata akan melantik pengerusi PN yang baru. Kemudian ada satu mesyuarat di rumah Tan Sri Muhyiddin. Mula ada mesyuarat yang sepatutnya di tempat lain, tetapi dibatalkan pada saat-saat akhir. Kemudian mesyuarat itu diadakan pula di rumah Tan Sri Muhyiddin. Kemudian saya baca tadi ada media bertanya Dato' Seri Hamzah Zainuddin, dia kata bagaimana saya hendak pergi, saya tidak dijemput pun. Ah, sudah kan? Susah. Kemudian selepas mesyuarat itu, Tan Sri Muhyiddin mengeluarkan kenyataan, dalam surat menyatakan bahawa selepas ini tidak lagi ada jawatan pengerusi PN, tetapi ada dua badan. Satu ialah Majlis Presiden yang bertanggungjawab untuk menetapkan hala tuju dan dasar-dasar, yang itu akan diketuai oleh Bersatu. Satu lagi ialah Majlis Eksekutif — seperti dalam PAS dipanggil Dewan Harian — maksudnya ini pelaksana yang akan melaksanakan urusan harian, iaitu akan diketuai oleh PAS. Jadi satu hari itu kita lihat, seolah-olah telah selesai pergolakan dalam PN. Kemudian keluar pula pasal Ketua Pemuda PAS — kita satu pasukan bola. Kemudian dia kata penjaga gol meletak jawatan. Jurulatih memanggil pasukan berbincang hendak melantik penjaga gol baru. Tiba-tiba penjaga gol yang meletak jawatan minta tiang gol dimasukkan. Ah, sudah kan? Kemudian ia berjangkit sampai ke dalam PAS tahu. Hebat analoginya bola, tapi di parlimen tidak main bola pun.
 
-**Wong Chen:** PAS ada bola, dia tidak beri.
+**Rafizi:** PAS ada bola, dia tidak beri.
 
-**Rafizi:** Saya kapten dalam parlimen. Main bola.
+**Wong Chen:** Saya kapten dalam parlimen. Main bola.
 
 **Wong Chen:** Tidak ada pun seorang ini main bola.
 
 **Rafizi:** Kemudian mari pula soal Dr. Zudi ini pun bersabit sebenarnya. Dia lawak jugalah. Apa yang dicadangkan sebelum ini mengenai struktur Perikatan Nasional itu, iaitu ada Majlis Presiden yang menetapkan dasar dengan Majlis Eksekutif itu, ia sama dengan yang memang sudah ada dalam PAS. PAS ada Majlis Syura Ulama. Kemudian ada jawatankuasa tertinggi PAS. Siapa mempunyai kuasa di antara dua-dua? Kalau ikut perlembagaannya ialah PAS. Yang paling tinggi ialah Syura. Kerana struktur PAS ini mengikut Republik Islam Iran selepas 1979. Sebab itu ada Ayatullah Khamenei, sekarang Ali Khamenei. Dia ada supreme leader. Supreme leader ini maksudnya dia menetapkan dasar, tapi mereka adalah pemimpin tertinggi. Mereka tidak menguruskan hal-hal harian. Yang menguruskan itu ialah dewan harian ataupun jawatankuasa. Tetapi ini yang Zudi tonjolkan. Zudi tonjolkan ada satu pindaan perlembagaan PAS tahun 2024, baru-baru ini saya ingat. Walaupun saya ingat Dr. Zudi tidak menyebut secara terbuka, sebenarnya pindaan itu melemahkan kuasa Majlis Syura Ulama. Kerana keputusan pemecatan yang dibuat oleh jawatankuasa tertinggi PAS, iaitu AJK PAS pusat yang ketuanya ialah Presiden PAS, itu muktamad — tidak boleh rujuk lagi kepada Majlis Syura. Dan apa gunanya ada Majlis Syura? Dan sebenarnya yang berlaku sekarang ini, Dato' Seri Hadi Awang kena berlawan dua pertempuran. Dalam PAS dia kena berlawan pergeseran dengan Mursyidul Am, Ustaz Hashim Jasin. Sebab tahap kalau kita hendak bandingkan tahap Mursyidul Am sebelum ini, iaitu Tok Guru Nik Aziz dengan Ustaz Hashim Jasin ini agak jauh berbeza. Kalau seperti Tok Guru Nik Aziz dahulu sangat dihormati orang, memang hierarkinya lebih tinggi daripada Dato' Seri Hadi Awang. Tapi bila Tok Guru Nik Aziz sudah tidak ada, diganti dengan sekarang Ustaz Hashim Jasin daripada Perlis, maka struktur itu tidak lagi berfungsi, kerana semua kuasa itu bertumpu kepada Presiden PAS. Tapi dia bukan Mursyidul Am — sebab dia tidak mahu. Besar kemungkinan sama ada dia sendiri ataupun orang di sekelilingnya tidak mahu dia melepaskan jawatan Presiden PAS itu. Sebab kalau dia melepaskannya, akan bergaduh pula siapa hendak menggantinya. Jadi dalam PAS perkara itu berlaku. Dan sekarang hendak dilaksanakan pula dalam Perikatan Nasional yang ada Majlis Presiden, yang sebenarnya adalah Mursyidul Am. Jadi maksudnya kalau perkara itu diteruskan, Tan Sri Muhyiddin akan menjadi Mursyidul Am Perikatan Nasional — tanpa kuasa.
 
-**Wong Chen:** Baiklah, sekarang bergaduh. Kita belum tahu lagi. Kita belum tahu lagi.
+**Rafizi:** Baiklah, sekarang bergaduh. Kita belum tahu lagi. Kita belum tahu lagi.
 
 **Rafizi:** Jadi sebab itu saya rasa ia sudah menjadi dagelan. Bubarkan saja. Sebab mula-mula seronok, saya pun gembira mengikutinya selepas 1-1 ini, oh ada bahan bagi podcast lagi untuk kita. Sekarang ini saya fikir sudah menjadi sedikit kebudak-budakan. Kita yang dalam PKR pun sudah rasa agak malu, sebab paling kurang kita ada penyelesaian. Ini tidak habis-habis. Ia belum habis lagi. Episod terbaru tidak tahu apa lagi. Wong Chen yang tidak minat pun, Wong Chen rasa seperti...
 
@@ -464,7 +464,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Farhan (Pa'an):** Baik, saya nak kemukakan satu soalan kepada kedua-dua YB Raf dan YB Wong Chen.
 
-**Haziq:** Dengan pergolakan yang berlaku di PN ini, adakah ini satu kelebihan kepada PH dan BN? Tidak tahu, cuba tanya Wong Chen.
+**Farhan (Pa'an):** Dengan pergolakan yang berlaku di PN ini, adakah ini satu kelebihan kepada PH dan BN? Tidak tahu, cuba tanya Wong Chen.
 
 **Wong Chen:** Saya rasa tidak. Kem Bersatu itu, mereka sedang melihat banyak pilihan. Ada dua kem — kem Hamzah sedang melihat pilihan lain, yang memang dari segi politik Melayu ini apa-apa saja boleh terjadi. Mungkin pulang ke tanah air asal mereka, kemudian sesuatu yang berbeza. Kemudian bagaimana PAS akan bertindak? Sangat sukar untuk dibaca. Yang saya tahu, politik Melayu ini apa-apa saja boleh terjadi. Semua boleh. Jadi saya rasa kita perlu berhati-hati mengenai apa yang berlaku ini. Bagi saya, saya ada tempat lembut tadi — tempat lembut untuk Muhyiddin. Bukan apa, saya berkhidmat di bawah majlis COVID bersama Tan Sri Muhyiddin. Jadi saya selalu rasa dia — dia bercakap banyak logik, untuk berlaku adil. Saya rasa dia seorang negarawan yang cukup baik. Jadi saya tidak...
 
@@ -520,17 +520,17 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Wong Chen:** Eh, lebih.
 
-**Rafizi:** 19 bilion atau tidak?
+**Wong Chen:** 19 bilion atau tidak?
 
-**Wong Chen:** Lebih. Lebih daripada itu, sekitar 13.
+**Rafizi:** Lebih. Lebih daripada itu, sekitar 13.
 
-**Rafizi:** Jadi itu pun dengan tujuan yang sama?
+**Haziq:** Jadi itu pun dengan tujuan yang sama?
 
 **Wong Chen:** Bukan. Ia cukai yang lain tetapi konsep yang sama. Ia tidak hendak bayar balik — mengurangkan defisit lah. Masa itu pun mengurangkan defisit lah.
 
 **Rafizi:** Jadi perkara yang sama kita telah lalui tahun 2018. Kerajaan Dato' Sri Najib mengutip GST. Sepatutnya ia mengutip GST atas jualan, syarikat bayar kepadanya. Tetapi syarikat menuntut balik GST atas pembeliannya — yang itu ia tidak hendak bayar. Jadi ia terkumpul sampai saya rasa 30 bilion lebih, sehingga saya rasa Petronas kena berikan dividen khas.
 
-**Wong Chen:** Petronas kena berikan dividen khas.
+**Rafizi:** Petronas kena berikan dividen khas.
 
 **Rafizi:** 20 bilion lebih kan? 20 bilion untuk melunaskan perkara itu. Sama juga masa itu — masa itu kita hentam kita semua.
 
@@ -578,13 +578,13 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Haziq:** Dalam beberapa hari lagi.
 
-**Rafizi:** Sebelum kita ke isu yang lebih besar.
+**Haziq:** Sebelum kita ke isu yang lebih besar.
 
 **Haziq:** Ini yang dilaporkan oleh Bloomberg. Tapi mungkin tak ramai dapat baca. Kita kenal dua-dua wartawan,
 
 **Rafizi:** Penyiasat yang menyiasat ni lah. Seorang tu saya kenal, kita kenal dua-dua lah kan.
 
-**Haziq:** Dua-dua. Mai cuba bagi latar belakang sikit. Ha, sedikitlah.
+**Rafizi:** Dua-dua. Mai cuba bagi latar belakang sikit. Ha, sedikitlah.
 
 **Rafizi:** Tak ramai orang, sebab saya tengok lepas isu ni keluar dan dilaporkan di seluruh dunia, di Malaysia ni macam ada blackout.
 
@@ -628,7 +628,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Haziq:** Selamba dia tak isi kat aku. Ah, ini bila dah masuk tahun 2023, benda ni pun dibawa kepada kabinet. Ini apa yang Bloomberg cakaplah. Nanti takut saya kena saman. Apa yang dicakap oleh Bloomberg, dibawa kepada kabinet dan kabinet pun rasa kita perlu putuskan hubungan dengan BestiNet lah. Dah tak boleh lagi ada apa-apa deal. Tetapi ada pusingan 180 darjah, terbalik tahun 2024. Tiba-tiba kerajaan teruskan dengan menggunakan perkhidmatan dari BestiNet. Itulah berlaku. Itu yang anda akan perhatikan dulu lah.
 
-**Rafizi:** Sementara saya merenung.
+**Haziq:** Sementara saya merenung.
 
 **Wong Chen:** Yalah, anda dalam kabinet, anda kena renung lah. Perkara ni tentang Datuk Seri Amin lah. Anda tahu, semua orang tahu.
 
@@ -680,7 +680,7 @@ Jadi cara dia ialah dia kena berhutang di Bangladesh. Dia pinjam hutang untuk ba
 
 Jadi ada satu ruang besar yang menyebabkan sindiket. Dan kalau anda fikirkan, jumlah pekerja Bangladesh di Malaysia 785,000. Cuba anda kira — permit ni bukan sekali bagi, dia kena renew, renew lagi, renew lagi. Jadi cuba kau kira 785,000 kali 5,000.
 
-**Speaker ?:** Aku pun malas nak kira dah.
+**Rafizi:** Aku pun malas nak kira dah.
 
 **Rafizi:** 3.9 bilion. 4 bilion. Jumlah bayaran ni maksudnya boleh kutip 4 bilion tau. Rancangan asal 1.5 juta pekerja, itu 7 bilion, kan? Okey. Itu di satu bahagian, di proses untuk dia datang kat sini.
 
@@ -710,7 +710,7 @@ Tak cukup dengan itu, saya ingat macam Wong Chen, macam saya, dan saya ingat sem
 
 Kalau anda fikirkan, kalau betul kerajaan perlukan satu sistem digital semua, kenapa tidak melalui proses yang biasa? Biarlah sistem itu milik kerajaan. Kerajaan macam biasa nak buat sistem kita — kita ada keperluan pengguna kita, kita bagitahu kita nak satu dua proses dia gini, gini, gini. Kita buka tender, mana-mana syarikat yang boleh buat. Sekompleks manalah perisian ini?
 
-**Wong Chen:** Dan sekompleks manalah.
+**Rafizi:** Dan sekompleks manalah.
 
 **Rafizi:** Dia sebenarnya.
 
@@ -726,7 +726,7 @@ Jadi perkara itu berlarutan. Saya ingat COVID datang dan kita pun masuklah 2020.
 
 Jadi menjelang kita masuk 2022 itu, ini saya boleh katakan sebagai seorang individu lah — saya rasa dalam banyak-banyak senarai semak itu, satu senarai semak yang saya ada ialah memang ini mesti dihentikan. Dan untuk bersikap adil kepada Saifuddin, saya rasa dia berusaha sedaya upaya untuk menghentikannya. Dan memang laporan ini nampaknya tepat. Laporan ini menyebut bahawa — ini kita merujuk kepada laporan eh. Saya nak baca sikit laporan Bloomberg sebab berapa kerat sangat rakyat Malaysia baca laporan Bloomberg ini. Kesian mereka bersusah payah membuat siasatan, tenggelam begitu sahaja. Ini perenggan mana ni eh yang menyebut tentang keputusan kerajaan. Dan sekarang ini masalah kita — sebelum ini kita boleh menyalahkan kerajaan-kerajaan sebelum ini lah. Sekarang yang menyambung ini ialah—
 
-**Wong Chen:** Kerajaan kita. Kerajaan kita.
+**Rafizi:** Kerajaan kita. Kerajaan kita.
 
 **Rafizi:** Okey. Dan berpusing punya berpusing punya berpusing, ada tuduhan terhadap Tan Sri Azam Baki juga. Dan ini yang langsung tidak dilaporkan semua ini. Saya sedang mencari di mana ini dia punya — sekejap eh, sekejap, sabar ya, laporan ini panjang. Okey.
 
@@ -738,7 +738,7 @@ Jadi menjelang kita masuk 2022 itu, ini saya boleh katakan sebagai seorang indiv
 
 **Wong Chen:** Apa-apa pun, semasa awak sedang mencari, saya ceritakan sikit lah — biar Wong Chen ceritakan sikit. Jadi, bagi saya bila laporan ini keluar, saya baca, saya pun hairan kenapa tak ada orang bercakap, pembangkang. Jadi selepas 2, 3 hari bila perkara ini sudah reda sedikit, saya letakkan dalam Facebook saya.
 
-**Rafizi:** Ya, ya. Nampak.
+**Haziq:** Ya, ya. Nampak.
 
 **Wong Chen:** Tetapi pendirian saya sangat jelas. Kita pertama kena lihat, kena berjumpa dengan Suruhanjaya Tinggi Bangladesh — sebab Pesuruhjaya Tinggi ini baru, saya tak pernah berjumpa dia, jadi lawatan sopan lah. Jadi mengadakan pertemuan itu penting — apakah pendiriannya? Dan semasa saya pergi Dhaka tahun lalu, bulan 11, 12, saya berjumpa Profesor Yunus — Bank Grameen punya, dia penasihat ketua. Jadi dia bertanya kepada saya, apa yang sebenarnya berlaku? Sebab mereka bimbang. Dan saya ingat, pada masa itu — saya rasa setahun setengah lalu — ada permohonan pengekstradisian untuk orang ini dihantar balik ke Bangladesh. Jadi Profesor Yunus bertanya kepada saya, apa status mengenainya? Saya kata saya akan siasat untuknya. Kemudian, adakah keadaan sudah lebih baik atau tidak? Tetapi saya dapat rasa yang jelas dalam pertemuan itu — Profesor Yunus, dia seperti semua orang kerajaan Bangladesh ini, dia lebih mementingkan negara mereka yang sangat terdesak. Itu yang penting baginya, dia tak nak kacau sangat. Mereka mahu aliran pekerja diteruskan, sebab ini pendapatan besar untuk Bangladesh, penghantaran wang ini, kan? Jadi saya faham, niatnya adalah untuk mendapatkan lebih ramai rakyat Bangladesh bekerja, tetapi jangan buli sampai orang kita mati. Beri kami sedikit keadilan — saya rasa itulah intipati utamanya lah. Ya, Raf, awak—
 
@@ -762,7 +762,7 @@ Jadi menjelang kita masuk 2022 itu, ini saya boleh katakan sebagai seorang indiv
 
 **Wong Chen:** Setuju, setuju.
 
-**Rafizi:** Maaf, saya ada sedikit soalan tambahan lah.
+**Farhan (Pa'an):** Maaf, saya ada sedikit soalan tambahan lah.
 
 **Farhan (Pa'an):** Sebagai satu elemen — kerana skandal kewangan mudah dilihat, kerugian wang, jenayah lah. Tetapi dari segi skandal pemerdagangan manusia, apakah implikasinya kepada negara dalam konteks negara dan juga global?
 
@@ -780,7 +780,7 @@ Jadi menjelang kita masuk 2022 itu, ini saya boleh katakan sebagai seorang indiv
 
 **Rafizi:** Jadi, kesannya besar lah kan.
 
-**Wong Chen:** Ya. Tetapi syarikat yang pernah kena sekatan ini ada di Malaysia lah.
+**Haziq:** Ya. Tetapi syarikat yang pernah kena sekatan ini ada di Malaysia lah.
 
 **Rafizi:** Memanglah.
 
@@ -806,7 +806,7 @@ Jadi menjelang kita masuk 2022 itu, ini saya boleh katakan sebagai seorang indiv
 
 **Wong Chen:** Tiada impak politik.
 
-**Rafizi:** Ha, tiada impak.
+**Wong Chen:** Ha, tiada impak.
 
 **Wong Chen:** Tiada keuntungan bagi saya.
 
@@ -884,7 +884,7 @@ Jadi menjelang kita masuk 2022 itu, ini saya boleh katakan sebagai seorang indiv
 
 **Rafizi:** Jadi kalau begitu, maksudnya Amanah Melaka hanya boleh bertanding satu, Amanah Johor hanya boleh bertanding satu. Mereka rasa mereka patut bertanding sehingga 15, 20 kerusi begitu. Jadi kebimbangannya ialah, kalau Pakatan Harapan masuk bersama-sama dengan Barisan Nasional dan pakai formula itu, maksudnya Amanah akan pupus di Johor dan juga di Melaka. Jadi sebenarnya Amanah yang mula-mula menimbulkan soal perlu diberi kerusi — perlu diberi kerusi, sejenis pakatan pilihan raya. Bukanlah, maksudnya formula bahawa incumbent mesti bertanding.
 
-**Haziq:** Tak boleh pakai.
+**Rafizi:** Tak boleh pakai.
 
 **Rafizi:** Tak boleh pakai. Ironinya, ini juga hujah yang MIC, MCA pakai tentang DAP dahulu — DAP kena beri kerusi. DAP kata tidak, kami sudah menang, buat apa kami nak beri. Tapi sekarang UMNO kata perkara yang sama kepada Amanah — itukan formula kita, kalau kami sudah menang, buat apa aku nak beri kau bertanding di sini, kerusi kita punya. Sebab itulah, keadaan ini akan terus merumitkan Dato' Seri Anwar. Kita sudah lihat apa yang berlaku di Sabah — walaupun Nurul Izzah ada berunding kerusi dan sebagainya, walaupun saya rasa Dato' Seri Anwar ada harapan bahawa BN, GRS, PH ini akan mendengar pandangan dia dan berjaya merangkul semua, akhirnya semuanya terburai, jadi free for all. Episod yang sama telah bermula untuk pilihan raya negeri Johor dan Melaka. Dan apa jua yang berlaku dalam pilihan raya negeri Johor dan Melaka itu, ia akan direplikasi semasa pilihan raya umum nanti. Jadi kita nak lihat bagaimana Dato' Seri Anwar nak mengendalikan ini. Ia akan jadi free for all.
 
@@ -918,7 +918,7 @@ Jadi menjelang kita masuk 2022 itu, ini saya boleh katakan sebagai seorang indiv
 
 **Rafizi:** Dan saya tak rasa ada pandangan yang berbeza di dalam kepimpinan PKR sekarang. Dato' Seri Anwar kata kita semua akan pakai baju oren, mereka semua pakai baju oren.
 
-**Haziq:** Ada maksud lain. Jadi isu itu.
+**Rafizi:** Ada maksud lain. Jadi isu itu.
 
 **Rafizi:** Ha, ada maksud lain kan? Maksud aku pakai baju oren tu baju Amanah — bukan baju Shamsul Iskandar. Maksudnya satu-satunya parti yang Dato' Seri Anwar boleh perintahkan sekarang ialah PKR. Kita tak tahu apa strategi DAP. Saya rasa DAP akan terus memerhati — kalau dia rasa untuk memelihara kerusi dia, dia akan bertanding sendiri, DAP saja, bukan pun dengan PH. Dia akan buat begitu.
 
@@ -934,7 +934,7 @@ Jadi menjelang kita masuk 2022 itu, ini saya boleh katakan sebagai seorang indiv
 
 **Farhan (Pa'an):** Dia muncul wish Akmal selamat bersidang.
 
-**Haziq:** Oh, yeah, yeah.
+**Rafizi:** Oh, yeah, yeah.
 
 **Rafizi:** Jadi, selamat bersidang. Kemudian ada konsert intim, tendang-tendang. Jadi, begitulah. Tapi asasnya, kalau kita baca, perkara ini akan terus bermain tiap-tiap minggu dalam 2, 3 bulan akan datang. Jadi akhirnya mesej yang orang biasa akan perhatikan ialah Dato' Seri Anwar ini hanya boleh perintahkan PKR sahaja — itu pun sebab kami semua sudah dicampak. Jadi ia pandangan yang seragam. Tapi Amanah, yang dia anggap parti paling kecil pun, tak boleh didisiplinkan kerana Amanah pun sekarang tahu mereka perlu jaga diri sendiri. DAP jelas akan memerhatikan kombinasi terbaik. Apatah lagi UMNO — UMNO akan putuskan nanti sama ada bertanding sendiri atau dengan PAS. Sebab itu, pilihan raya akan datang ini adalah medan terbuka. Apa-apa boleh berlaku.
 
@@ -946,7 +946,7 @@ Jadi menjelang kita masuk 2022 itu, ini saya boleh katakan sebagai seorang indiv
 
 **Haziq:** Okey, kita tunggulah eh. Dan mungkin isu terakhir.
 
-**Wong Chen:** Ha, dan ini pula... ini skandal yang seterusnya.
+**Rafizi:** Ha, dan ini pula... ini skandal yang seterusnya.
 
 **Rafizi:** Sama juga, perkara ini perkara besar, tapi rakyat Malaysia ini rasanya sudah terlalu letih kot. Mereka bising kalau ada cerita tentang daging babi sahaja.
 
@@ -972,11 +972,11 @@ Jadi menjelang kita masuk 2022 itu, ini saya boleh katakan sebagai seorang indiv
 
 **Wong Chen:** Tidak, tidak. Bukan dia gazetkan sebagai rezab hutan — dikeluarkan daripada rezab hutan.
 
-**Rafizi:** Oh, patutlah. 100 tahun dahulu.
+**Wong Chen:** Oh, patutlah. 100 tahun dahulu.
 
 **Wong Chen:** 100 tahun dahulu dia keluarkan. Semasa British.
 
-**Rafizi:** Ha, semasa British.
+**Wong Chen:** Ha, semasa British.
 
 **Wong Chen:** Tapi dalam semua peta, kalau awak taip 1950, sebab kita buat penyelidikan, peta 1950 menunjukkan kawasan itu masih di bawah rezab hutan. Tapi sekarang kita dapati kerana Jamaliah beritahu kita ia sudah di-gazetkan lama, tapi dalam peta seolah-olah masih sebahagian daripadanya.
 
@@ -1010,7 +1010,7 @@ Jadi menjelang kita masuk 2022 itu, ini saya boleh katakan sebagai seorang indiv
 
 **Rafizi:** Saya mula bercakap. Apa pilihan yang anda ada? Sebab dari segi kewangan, kalau contohnya kerajaan negeri Selangor bersetuju nak beli balik, katakanlah habis 300 juta, dan mereka tak ada lebihan sebanyak itu — Selangor sebenarnya hasilnya tak banyak, dalam 2 bilion lebih sahaja. Jadi katakanlah dia kena beli 300 juta, tapi penduduk lain pula — penduduk di Pandan, penduduk di Selayang — pula kata, "Eh, kenapa habiskan 300 juta pergi beli tanah di Subang ini? 300 juta itu lebih baik diberikan kepada kita seluruh negeri, beri bakul ke, beri komputer percuma semua." Jadi kalau anda jadi MB, bagaimana anda nak buat? Sebab kalau anda tak beli, sebab tanah itu sudah dijual oleh MB-MB PKR sebelum ini. Kalau anda tak beli, dia serah perintah pembangunan untuk buat. Bila dia serah perintah pembangunan, kalau majlis tempatan — MBSJ kan?
 
-**Wong Chen:** Ya, betul. Majlis Bandaraya Subang Jaya.
+**Rafizi:** Ya, betul. Majlis Bandaraya Subang Jaya.
 
 **Rafizi:** Kalau MBSJ tak beri, mereka bawa ke mahkamah — kalau dia sudah cukup memenuhi syarat semua, maka pada asasnya kerajaan negeri akan kalah.
 
@@ -1086,11 +1086,11 @@ Jadi menjelang kita masuk 2022 itu, ini saya boleh katakan sebagai seorang indiv
 
 **Rafizi:** Masalahnya langsung tak ada tata kelola. Soal-soal macam mana transaksi tanah rakyat ini — tanah kerajaan ini tanah rakyat lah kan. Jadi kalau tidak, kita akan jadi generasi tua yang berseronok menggunakan harta generasi akan datang lah. Semua tanah kerajaan, jual, jual, jual, jual, jual. Selepas itu 30 tahun lagi kerajaan Selangor ke, kerajaan Negeri Sembilan ke, Melaka ke, tak ada tanah sebiji pun dah. Dan kemudian apa? Kemudian apa yang anda buat? Jadi tak apalah, kita tengok lah kan. Tapi kita bercerita tentang tanah ini, kami ahli parlimen ini, kami tak begitu bising sebab ia di bawah bidang kuasa kerajaan negeri. Betul, kerajaan negeri. Sepatutnya ADUN-ADUN lah yang mengetuk meja mengatakan kita nak letak rangka kerja macam mana selepas ini pengurusan tanah yang lebih bertanggungjawab kepada generasi akan datang. Ini jadi begini lah — tahun 2009, 2019 dijual, sekarang dah 2026, 2030, kita pening kepala. Orang marah dah kan.
 
-**Haziq:** Okey, baik. Jom kita balik ah, Onchan. Ada lagi tak?
+**Rafizi:** Okey, baik. Jom kita balik ah, Onchan. Ada lagi tak?
 
 **Wong Chen:** Tak tahu dah berapa jam dah.
 
-**Haziq:** Ha, ini dah dekat 2. Dah lah.
+**Rafizi:** Ha, ini dah dekat 2. Dah lah.
 
 **Wong Chen:** Itu saja lah kot. Almost 3 jam.
 
@@ -1108,13 +1108,13 @@ Jadi menjelang kita masuk 2022 itu, ini saya boleh katakan sebagai seorang indiv
 
 **Rafizi:** Ini biasa lah, dalam 2 jam 40 ini dikira episod mingguan biasa.
 
-**Wong Chen:** Tapi pada 2 jam 40 ini saya dah tak larat lah sebenarnya. Saya nak balik lah. Sama juga.
+**Rafizi:** Tapi pada 2 jam 40 ini saya dah tak larat lah sebenarnya. Saya nak balik lah. Sama juga.
 
 **Haziq:** Okey, jadi terima kasih banyak YB. Terima kasih banyak kerana menjemput kami.
 
 **Rafizi:** Kita ada apa-apa nak ucapkan lah.
 
-**Farhan (Pa'an):** Selamat Hari Thaipusam dulu.
+**Wong Chen:** Selamat Hari Thaipusam dulu.
 
 **Rafizi:** Ha, kepada yang merayakan, betul, yang menyambut — selamat menyambut Hari Thaipusam. Saya ada dalam 2, 3 hari untuk cuba menghafal ucapan dalam bahasa Tamil. Tengok boleh buat atau tidak lah. Tapi kalau ucapan saya nanti dalam bahasa Melayu pun, maksudnya saya gagal lah. Okey, kita tunggu.
 
@@ -1136,7 +1136,7 @@ Jadi menjelang kita masuk 2022 itu, ini saya boleh katakan sebagai seorang indiv
 
 **Wong Chen:** Harap-harap ada jualan lah, boleh naik sedikit. Saya bimbang tentang ekonomi tahu. Saya lihat ya lah, saya dengar semua ini kadar faedah, kadar pertukaran bagus semua — okey. Saya sedikit bimbang. Ya, anda tahu, saya sangat bimbang.
 
-**Rafizi:** Tak apa, kita tengok. Saya nak akhirinya dengan selamat Tahun Baru Cina, tapi tak—
+**Farhan (Pa'an):** Tak apa, kita tengok. Saya nak akhirinya dengan selamat Tahun Baru Cina, tapi tak—
 
 **Farhan (Pa'an):** Lambat.
 
@@ -1146,7 +1146,7 @@ Jadi menjelang kita masuk 2022 itu, ini saya boleh katakan sebagai seorang indiv
 
 **Rafizi:** Selamat raya. Baik, baik, terus selamat raya, Krismas.
 
-**Wong Chen:** Ho ho ho. Okey, bye.
+**Haziq:** Ho ho ho. Okey, bye.
 
 **Rafizi:** Okey, baik, terima kasih. Jom balik. Terima kasih. Terima kasih. Terima kasih.
 

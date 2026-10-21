@@ -64,9 +64,9 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Oh, really?
 
-**Haziq:** Yeah, asked me to include it. I don't even know his name — this Kamil is shorter than Akmal.
+**Rafizi:** Yeah, asked me to include it. I don't even know his name — this Kamil is shorter than Akmal.
 
-**Farhan (Pa'an):** Akmal, Akmal is tall.
+**Haziq:** Akmal, Akmal is tall.
 
 **Rafizi:**
 
@@ -112,7 +112,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** What does this have to do with Sanusi then? "Occupied by colonizers."
 
-**Haziq:** That's probably a typo, I think.
+**Rafizi:** That's probably a typo, I think.
 
 **Farhan (Pa'an):** Not a typo, because Penang is said to be a state—
 
@@ -126,7 +126,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Good, the more they fight the better. And actually the more beria this gets, the better it is for the Malaysian people.
 
-**Haziq:** And do they represent the Malays as a whole, YB?
+**Rafizi:** And do they represent the Malays as a whole, YB?
 
 **Rafizi:** No, you'd have to ask the voters about that. And if you look at the 2018 election, even 2013, actually the Malay vote has never stayed loyal to just one party. The last time the Malay vote was solidly behind UMNO Barisan Nasional or a single coalition was 2004. For example in 2008, even though UMNO Barisan Nasional still won and it was almost one-to-one, the Malay popular vote for Pakatan Rakyat at that time was around 43 to 45%. There was only a 5% deficit. Coming into GE13, it dropped slightly to 43%. Then coming into 2018, it had already split — the Malay vote had split into 3 coalitions: Barisan Nasional-UMNO, PAS, and then Pakatan Harapan at the time. And that's continued until now. So if anyone claims to represent the Malays in plurality now, based on the latest major election results — that is, the state elections — that would actually be PN. But we also know based on the latest information, data, and surveys, 42 to 52% of Malay voters feel that all these parties are the same. So if some people want to fight each other because each claims to represent the Malays, that's just politicians being stupid. But the fact that, for example, this issue is about divided Malays, this "divided Malays" narrative keeps being played out — the good thing is, whether it's PAS or Bersatu or UMNO, they seem to indirectly realize that none of them can truly claim to represent the Malays.
 
@@ -178,13 +178,13 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Haziq:** Which one is the top one?
 
-**Farhan (Pa'an):** Because he wore a hijab. I can't help it.
+**Rafizi:** Because he wore a hijab. I can't help it.
 
 **Rafizi:** So this one is definitely beria. The winner of this week's beria segment is — and and and and and — the man in the hijab! The man in the hijab. But I also want to say his boss is beria too. Why?
 
 **Farhan (Pa'an):** I think this should've been a private Instagram story, but it got posted on a public Instagram story instead.
 
-**Haziq:** Who's his boss?
+**Rafizi:** Who's his boss?
 
 **Rafizi:** Didn't his boss get arrested too?
 
@@ -208,7 +208,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** For now, yes. Actually the only strategy I see from UMNO at the moment is rebuilding their badly damaged image from 1MDB, from 2022, from the chain of scandals and controversies.
 
-**Haziq:** Okay. If you calculate it that way, that is indeed a sensible strategy.
+**Rafizi:** Okay. If you calculate it that way, that is indeed a sensible strategy.
 
 **Rafizi:** And to rebuild that image, they feel it's better to be in the government. Because being in government means having power. And UMNO is a party that was built on the need for resources. So if they're not in government, there are no resources, that's a problem, right? So that's their strategy. That strategy, in the current situation, isn't an out-of-the-box strategy in my view that could drastically boost Malay support for UMNO. But that doesn't mean UMNO has no chance to improve its position in the coming election. The problem is that opportunity will largely be influenced by factors outside UMNO's control. For example, if it's a one-on-one contest — meaning BN-PH against PN, if that situation persists, right — they'll depend on urban votes and also non-Malay votes and also educated Malays who were previously PH supporters. But that depends on vote transfer. And that also depends on whether it's one-on-one or not. If there's a new party, if suddenly Syed Saddiq manages to convince Muda to rise dramatically for example, then those votes will shift to another party. So the possibility that they'll benefit from being in the Madani government because they can use PH's votes — that possibility exists, but it's not very much within their control, not very much. That's the first point.
 
@@ -224,7 +224,7 @@ And what's more dangerous for UMNO is that this is based on one hypothesis: that
 
 **Haziq:** Unpredictable.
 
-**Rafizi:** Sorry, let me recap what you said. So, vote transfer from PH voters—
+**Farhan (Pa'an):** Sorry, let me recap what you said. So, vote transfer from PH voters—
 
 **Farhan (Pa'an):** To UMNO, no problem; to Barisan Nasional, no problem. It's just that BN voters don't vote for PH.
 
@@ -242,7 +242,7 @@ The difference is, for PKR in 2022, because the party election was held first, t
 
 **Rafizi:** I think so.
 
-**Haziq:** Oh. How can you just "think so"?
+**Rafizi:** Oh. How can you just "think so"?
 
 **Rafizi:** Not really.
 
@@ -316,7 +316,7 @@ Furthermore, if you look at it, even though Dato' Seri Anwar is limiting his ter
 
 **Haziq:** Alright, alright. 1 hour 10 minutes. Maybe we can look at — but that's actually quite fast.
 
-**Farhan (Pa'an):** Quite fast eh?
+**Haziq:** Quite fast eh?
 
 **Haziq:** Why, can I ask another question? Never mind.
 
@@ -336,11 +336,11 @@ Furthermore, if you look at it, even though Dato' Seri Anwar is limiting his ter
 
 **Rafizi:** Not former Chief of Defence Force, right?
 
-**Farhan (Pa'an):** Former Chief of Army.
+**Rafizi:** Former Chief of Army.
 
 **Rafizi:** Former Chief of Army. Ah, Chief of Army, COA.
 
-**Farhan (Pa'an):** The COA who was supposed to be appointed as the next Chief of Defence Force. But now has been—
+**Rafizi:** The COA who was supposed to be appointed as the next Chief of Defence Force. But now has been—
 
 **Rafizi:** —
 
@@ -350,7 +350,7 @@ Furthermore, if you look at it, even though Dato' Seri Anwar is limiting his ter
 
 **Farhan (Pa'an):** Ha, Caprice. Because Caprice — friend, neighbor—
 
-**Rafizi:** No, no, no, that's not it. Follow along.
+**Farhan (Pa'an):** No, no, no, that's not it. Follow along.
 
 **Farhan (Pa'an):** No, because I saw the term "yeh yeh."
 
@@ -366,11 +366,11 @@ Furthermore, if you look at it, even though Dato' Seri Anwar is limiting his ter
 
 **Farhan (Pa'an):** My grandfather is actually a retired lieutenant colonel. He told stories about his time in the army, but he never told stories about this kind of thing. Surely he wouldn't tell me he was into yeh-yeh.
 
-**Rafizi:** No, actually he'd — there'd be a van full of prostitutes. He'd bring them in.
+**Haziq:** No, actually he'd — there'd be a van full of prostitutes. He'd bring them in.
 
-**Haziq:** Are you sure it's prostitutes?
+**Rafizi:** Are you sure it's prostitutes?
 
-**Rafizi:** If it's yeh-yeh then—
+**Farhan (Pa'an):** If it's yeh-yeh then—
 
 **Haziq:** So it's said, stories that can't be verified.
 
@@ -414,7 +414,7 @@ Furthermore, if you look at it, even though Dato' Seri Anwar is limiting his ter
 
 **Rafizi:** Yes, for example what happened here is the armed forces themselves, but the ones investigating are also the armed forces. Investigating themselves. It's not like the system that exists, for instance, in the US. Even in Indonesia. Because their parliament — the Congress and Senate in the US, or in Indonesia the MPR, Majlis Perwakilan Rakyat — they have significant power and they initiate their own investigations. They will summon people. I know PSSC will also summon people, the select committee, but sometimes what select committees can ask and what information they can obtain is limited. Even more so when it involves the military, because that's all national security. But at the very least, I hope the investigation into this "yeye" culture can be conducted as transparently and openly as possible. And I hope the current leadership of the Armed Forces and MINDEF use this opportunity to fix the situation. I don't know the full extent — I don't have information on how widespread this is. Because this is really a culture inherited from the old British military. There really were officers who had their own mess, so of course they needed to socialize. When they socialized, in the old days there would typically be women present, but we've been independent for 70 years now. And if the socializing involves karaoke, it's probably best to karaoke among men only. No need to karaoke with women.
 
-**Haziq:** Just realized the MB got caught up in this. Oh really? Oh, he was doing karaoke with, yes?
+**Rafizi:** Just realized the MB got caught up in this. Oh really? Oh, he was doing karaoke with, yes?
 
 **Rafizi:** Yes. I'd suggest karaoke with men only. If you really want to sing that badly, just belt it out yourselves. Some will say this is an inherited culture with its own necessity. Sure, you want to let your hair down — soldiers can't be too uptight, they also need to socialize. But I think it must be within proper limits. And we don't know — but if we're told outside women were brought in, that's simply not allowed because that's a military camp. From a morality standpoint, especially if they're non-Muslim, even if she's a hostess it shouldn't be allowed. But from an even more dangerous, more serious angle — it's a matter of national security. She shouldn't be allowed in. Even a minister, I think, shouldn't be able to enter a military camp and do as he pleases — it has to be national security. So there are many things that have been exposed which require attention because of this "yeye" culture. And I hope when the investigation happens, we need to find out, for example, how deeply rooted this culture is. Is this something that happens rarely, a rare occasion — then that's easier to deal with. But if it has become entrenched as a culture, then the leadership of the Armed Forces needs to find a way to change it into something that fits within our cultural boundaries while also taking into account security needs and national security. It's actually not that different from, for example, ragging at universities. For instance, at fully residential schools, 20 years ago ragging was common because it was considered a culture to toughen kids up. Including at MCKK? Wait, hold on, I haven't gotten to the school part yet. Surely you had ragging too.
 
@@ -546,13 +546,13 @@ As for Tan Sri Muhyiddin — technically speaking, what Sanusi said earlier is i
 
 **Rafizi:** He can't even try to plan anymore — it's already landing time. Okay, good night.
 
-**Haziq:** After this, full time eh.
+**Rafizi:** After this, full time eh.
 
 **Rafizi:** I think I need to send you for training. I already said that, right?
 
 **Haziq:** Bye bye.
 
-**Farhan (Pa'an):** Okay, bye bye.
+**Haziq:** Okay, bye bye.
 
 **Rafizi:** The discussion on how to send him for training, we'll do that offline. Good night. Thank you.
 

@@ -150,7 +150,7 @@ That's actually the structural weakness of the government when it comes to J-KOM
 
 **Haziq:** Okay, understood, YB.
 
-**Rafizi:** Take the lesson, okay.
+**Haziq:** Take the lesson, okay.
 
 **Haziq:** Take the lesson.
 
@@ -180,7 +180,7 @@ That's actually the structural weakness of the government when it comes to J-KOM
 
 **Rafizi:** Then there's a picture — this is an AI picture of Ramanan. You guys used it because he has hair, but he doesn't have hair, right? He has no hair. Then "Ramanan missing from radar."
 
-**Haziq:** "Target not found." Status — old photo. Oh, old photo.
+**Rafizi:** "Target not found." Status — old photo. Oh, old photo.
 
 **Rafizi:** "Status missing, callsign unknown, location not detected. Ramanan cannot be located. Please try again. System message: search unsuccessful."
 
@@ -236,7 +236,7 @@ That's actually the structural weakness of the government when it comes to J-KOM
 
 **Rafizi:** Can they actually be sent back to Myanmar?
 
-**Haziq:** Why not? Myanmar — they're not recognized there.
+**Farhan (Pa'an):** Why not? Myanmar — they're not recognized there.
 
 **Rafizi:** Well, there are two levels to it. For example, one, even if he has Myanmar citizenship, if you want to send them back, that country must be willing to accept him. And when he returns, that means there's no risk to their life and safety. That's the simple, international rule. So in this case, that obviously can't happen yet, because there's still war, there's still ethnic cleansing in Rakhine State, which is where most of these Rohingya originally come from. There are about 130,000 Rohingya. About 80,000 are other Myanmar ethnicities. So there are many ethnicities — there are ethnic Myanmar, Chin, Shan, all sorts. Oh, I've been to Myanmar many times, you know. I'm digressing a bit here, but let me tell you — because most people commenting on this have probably never even been to Myanmar. So maybe only a small percentage of Malaysians have ever been to Myanmar. It's not called Yangon now, is it? Oh no, actually it is Yangon — it used to be called "Rangoon," now it's called Yangon. I never got to Naypyidaw. Because I used to manage the financial portfolio for upstream investment for all of Petronas's international ventures. One of Petronas's earliest ventures abroad was actually in Myanmar, because Myanmar has a gas field — I don't know if it's still there. So I have wonderful experiences with my Myanmar staff. And Petronas actually took in many Rohingya who were given scholarships at universities like UIA. But this was before the refugee story became what it is now — I remember it partly from Petronas's CSR when they were in Myanmar, taking in bright, educated Rohingya children. They got their education at UIA, then worked at Petronas. I remember I had two ACCA staff — one named Yahya, one named Kassim. So anyhow, coming back to this. The issue is, first, why not send them back — one, even if he has citizenship, if he is not accepted by his country of origin and is forcibly repatriated or deported, that violates international rules. Okay, we'll come back to that. People will say "why do we care about international rules" right. But regarding Rohingya, that's why the distinction between different ethnic groups matters — because if the ethnicity is Myanmar ethnicity, they have citizenship, but Rohingya don't have citizenship. They are stateless. Because they are indeed not recognized as Myanmar citizens. They are also not recognized as Bangladeshi citizens. So the Rohingya are a stateless people — not too different from Palestinians, meaning they have no state. So they can't go anywhere — there simply isn't one. Their homeland, which is Rakhine, is on the border between Bangladesh and Myanmar. But over the years, back in British colonial times, when they drew up the maps and so on, they didn't take any of this into account — ethnicity or otherwise. That's how there are Malays in southern Thailand, who are now part of Thailand. So it's a product of history. So the Myanmar government never accepted them as citizens from the start. Then I remember in 1982, there was a new citizenship law in Burma, and legally and officially, citizenship was denied to the Rohingya. So they are stateless. So that origin needs to be understood — from 100 years ago, they have had no citizenship. Then you ask the question, what's actually happening — to answer what Haziq asked earlier, why in Southeast Asia does Malaysia have the most Rohingya? So this is partly a historical product, and partly due to our current weaknesses, weaknesses of the country. I remember, I grew up in Kemaman in the 80s, and there were already Rohingya refugees. I remember one of them, he worked with my father for a while — his name was Maaruf or something like that. Then in the 90s, since chaos and persecution against the Rohingya has been happening constantly — it just has its spikes, every now and then, every decade there's a spike — in the 90s I remember there was a war and there was a spike. So the Malaysian government did take in Rohingya refugees from the 90s, and they were resettled in certain places. I remember, in Kemaman, in Seberang Bandi, there's a very rural area close to FELDA land, there's a Rohingya settlement there. Correct me if I'm wrong, especially people from Langkawi — in Langkawi there's a fairly large settlement. But at that time the scale of the war wasn't as overwhelming. If they took anyone in, it was maybe 100 people, 300 people — not a lot. There were actually many such settlements, but not on the scale we see now — relatively smaller than now, meaning 300 people here, 400 people there. What's happening now is because of the war — 10, 12 years ago, when the military junta seized power from Aung San Suu Kyi, there was a coup, and they waged war, essentially declared war on the Rohingya homeland. So in 2015 there was a massive influx. Just to put things in perspective — the majority of Rohingya refugees fled to Bangladesh, to Cox's Bazar. Cox's Bazar has about 1.2 million Rohingya refugees — it's actually the largest refugee camp in the world, the biggest one is in Cox's Bazar. And Bangladesh can't absorb all of them either, it has its own issues. So the second big group of refugees, who came by boat in large numbers, came to Malaysia. That's how Malaysia ended up with Rohingya. I don't know, the data is very sketchy — so we don't know which wave the 130,000 people currently here, especially in the Klang Valley, actually came from. I don't think they come from the 90s — I think they come from the last 10, 15 years, from the war in the mid-2010s to 2015, something like that. Now. So that's the problem in the context relating to refugees. Okay. In terms of classification or how we should categorize them, they do indeed meet the criteria or definition of international refugees. Then we have another problem — human trafficking. So this human trafficking that comes through our borders — if you recall about 7, 8 years ago, or maybe longer, the authorities found graves, Wang Kelian — there were more than 40 buried at Wang Kelian. So these syndicates are huge, and of course, when they arrive here, they will try to claim asylum or refugee status. But you know, it's very dicey because they are basically economic migrants — they are also economic migrants, but if you try to argue with them, "you are economic migrants." If they're Rohingya, it's flatly persecution. So how many enter every year as a result of human trafficking, we don't know either. That number, I remember, is sketchy too — even if you ask the Ministry of Home Affairs, the number they cite might just be the number they managed to track or catch, but the ones who slip through, we don't know. Okay, now, this understanding is important, because we have two groups here — one is the group that was, for lack of a better word, accepted by the government of the past. And I — there are people who criticize, when arguing about Rohingya, they start pointing fingers — saying this was Najib before, this was PAS. I think we should set that aside — I mean, I don't actually condone it if there were Rohingya rallies held before to gain Malay support, Anwar and PAS at that time. That, to me, is each person's own intention, answer for it later. But on humanitarian grounds, I don't think any government, before and after, past and present, could turn a blind eye 100%. So given the situation and severity of the conflict over the past 10-15 years, that was the decision made by the BN government at the time, and I think it's unfair for us to politicize it now. Okay now, the real issue is what has happened since then — because there are two major challenges that should be the government's focus. One is the matter of closing our borders so they aren't breached by human trafficking syndicates. And we really need to fight them — not fight the Rohingya who come here, but the ones who get rich off this, which are the criminal syndicates. That's why if people ask me, our problem is these criminals. That's why I'm very sensitive when it comes to organized crime, corporate mafia and so on, because many of the problems we have in this country are linked to them too. And they are very rich — they live in luxury, while the ones below are just small fry. And as long as we don't seriously fight and break up these syndicates, these mafias involved in human trafficking, this problem will continue. And every year as more people come, you can no longer tell which is which — because there are actually two different groups involved. So that's an ongoing problem every day, that should have action taken, and the current government, the incumbent government, whoever that government may be, needs to take responsibility for solving that problem. Another operational matter that needs to be addressed urgently is, what do you do with the 130,000 who are already here? Okay, so what do you do?
 
@@ -314,7 +314,7 @@ That's actually the structural weakness of the government when it comes to J-KOM
 
 **Rafizi:** Not PPR. That might be — actually you're right. I'm just not sure. I don't think it's officially PPR. Yeah, these are low-cost flats. People bought them all and then rent them out. That's rented out. That's the problem too, because the original local residents who had these flats — they didn't buy them. Maybe they couldn't afford to buy anyway. But because the original owners, when these low-cost flats were allocated for people to buy, the ones who got them weren't necessarily that poor — some were wealthier, higher-income people. So they used it as an investment. They rent it out, they don't live there themselves. So the ones who suffer are the 30% who genuinely bought them, who are poor, who are locals living there. They have to put up with it. I spent years trying to resolve this and it never really got resolved. For example, we tried working with the police. But how many times can the police realistically patrol that area? And the residents there eventually became scared, especially the women. They became afraid to go out to their cars, because sometimes they'd get threatened right in front of them. Eventually we tried to organize a neighborhood watch among residents there. But that's not really the solution, because even if we set up a guard post, every now and then the police come, then they take turns. But, you know, nobody should feel insecure or unsafe in their own neighborhood to the point they have to do security rounds. And the local landlords who rent out these units — that's one of the things we wanted to address in the Anti-Alibaba Act. Rent-seeking. Part of the Anti-Rent-Seeking Act was meant to handle issues like this. So that, for example, if a house was originally a low-cost house with a condition that it can't be rented to others, then if the owner rents it out, they'd be breaking the law. Similarly, for example, Malaysians lending their names to open bank accounts, get business licenses, rent shop premises. Every month they get 3-4,000 ringgit, but the actual business belongs to a foreigner — whether Bangladeshi or from anywhere else. That happens everywhere now. But there's actually no law against it. That's why we wanted to create the Alibaba Act, which who knows where it's ended up now, probably buried in some cave.
 
-**Farhan (Pa'an):** Was it really not received well when YB brought it forward?
+**Haziq:** Was it really not received well when YB brought it forward?
 
 **Rafizi:** No, it really did face opposition. So I didn't want — you know I can be stubborn — but I didn't want to kill it off entirely. So we had to buy time. We first brought the framework for the Alibaba Act in 2023. So I was hoping, okay, maybe things would calm down a bit and I could bring it back in 2026. Turns out by 2026 I'm unemployed. Didn't see that coming. The actual timeline was 2025, after we finished the 13th Malaysia Plan, and we included the Alibaba Act in the Plan. It's in there. Meaning the government has already agreed to implement the Alibaba Act, and we can push it forward. But never mind, that's another story for later. Coming back to this — so these issues become issues because once that community has grown large, and it's true the social problems are real, the crime problems are real, they're not made up. So we can't simply pass judgment purely based on international standards and so on. Okay. Now that we've discussed all this, we still haven't answered why this is happening now?
 
@@ -330,7 +330,7 @@ That's actually the structural weakness of the government when it comes to J-KOM
 
 **Rafizi:** Which one was the slapping incident? The one where he slapped his wife?
 
-**Haziq:** Slapped his real wife.
+**Farhan (Pa'an):** Slapped his real wife.
 
 **Rafizi:** Ah, slapped his wife.
 
@@ -414,7 +414,7 @@ That's actually the structural weakness of the government when it comes to J-KOM
 
 **Rafizi:** So how many more minutes do we have?
 
-**Multiple speakers:** About half an hour more or less.
+**Rafizi:** About half an hour more or less.
 
 **Haziq:** Let's finish this. We have a second topic — elections come, money comes.
 
@@ -444,9 +444,9 @@ That's actually the structural weakness of the government when it comes to J-KOM
 
 **Rafizi:** That's my story. I mean for other parties?
 
-**Haziq:** So we don't know either.
+**Rafizi:** So we don't know either.
 
-**Rafizi:** It's never been discussed openly.
+**Haziq:** It's never been discussed openly.
 
 **Farhan (Pa'an):** Apart from the caps that SPR [Election Commission] set.
 
@@ -472,7 +472,7 @@ That's actually the structural weakness of the government when it comes to J-KOM
 
 **Rafizi:** No way, Pa'an, what flyer costs 40, 50 sen these days. Which flyer is this?
 
-**Farhan (Pa'an):** No way, I think it does.
+**Rafizi:** No way, I think it does.
 
 **Rafizi:** I think you're talking about — if it's A5, it depends on the paper actually. But if you use ordinary glossy, thin paper, I think you can get it for less. Okay, let's put 50 sen — meaning all this combined. Okay, 50 sen, 10,000, how much? 5,000. Count it, how much so far?
 
@@ -488,7 +488,7 @@ That's actually the structural weakness of the government when it comes to J-KOM
 
 **Rafizi:** Flag poles, poles not yet bought. Okay, so how many poles do you want to put there? A pole per sponsor, 5,000 ringgit. Let's put 5,000 ringgit, so that's 40,000. Then, this is why people don't like working with me — I always pull a sour face, is this about spending money or me pulling a sour face, right? Then what else is a big so-called campaign expense? Program expenses, right. Doing high tea here, eating there, renting a hall. Campaign period 2 weeks, let's say for someone who's really diligent, every day there's say around 5 programs like that. So 2 weeks, 5 times 14, how much? 70. For one program how much do you want to put? 1,000. Okay that's 70 thousand. Remember, 70 thousand. What else?
 
-**Farhan (Pa'an):** Deposit isn't included there?
+**Haziq:** Deposit isn't included there?
 
 **Rafizi:** No, this is for the campaign.
 

@@ -47,7 +47,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Haziq:** Assalamualaikum dan selamat kembali ke Yang Berhenti Menteri podcast episod khas, episod ke-28. Sebelum saya membuat pengakuan, mungkin lebih baik untuk saya cakap Merry Christmas. Ho ho ho. Awkward.
 
-**Rafizi:** YB. Adakah anda menulis itu dalam skrip anda? Tak, tak ada.
+**Haziq:** YB. Adakah anda menulis itu dalam skrip anda? Tak, tak ada.
 
 **Iqbal:** Tapi saya diberitahu memang ni episod untuk Merry Christmas.
 
@@ -55,11 +55,11 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Farhan (Pa'an):** Dia main cakap macam tu. Dia main cakap macam tu. Ha, dia main cakap. Tapi yang kita minta berehat tu betullah. Minta berehat tu betul, tapi kesian kepada pendengar tu that's-
 
-**Rafizi:** Tak, tak betul. Tak. Oh, baik. Saya kesian.
+**Haziq:** Tak, tak betul. Tak. Oh, baik. Saya kesian.
 
 **Haziq:** Jadi untuk menyeimbangkan semuanya, untuk minggu ni kita buat sehari awal lah YB eh. Kita buat rakaman pada malam, bukan malam Krismas lah, tapi malam Krismas malam tu. Dia bukan, dia bukan Islam. Dia bukan.
 
-**Iqbal:** Ha, dia bukan Islam.
+**Haziq:** Ha, dia bukan Islam.
 
 **Rafizi:** Malam Jumaat. Mereka cuma bermula daripada maghrib. Mereka susul dengan ha.
 
@@ -103,7 +103,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Tak, yang saya ingat penyokong-penyokong di media sosial ni sekarang
 
-**Haziq:** tengah bersorak lah kan.
+**Rafizi:** tengah bersorak lah kan.
 
 **Rafizi:** Penyokong PH lah yang paling bersorak. Saya tengok yang paling ke depan bersorak ni Amanah. Okey. Sebab entah kenapa saya rasa dia ada perasaan persaingan dengan PAS tu kan. Sebab selalunya PAS akan kata mereka ini stabil, kemudian akan ikut kepimpinan. Mereka tidak mementingkan kuasa kan. Jadi memang kuasa boleh menjejaskan mana-mana pun dan dalam mana-mana parti. Malah negeri yang paling kecil di Malaysia pun, kuasa boleh menjejaskan kerana perebutan sesama mereka dan ia ada dimensi yang lebih besarlah kerana apa yang berlaku di Perlis ni, walaupun Perlis kecil dan orang mungkin rasa ia tak ada kesan kepada negara. Tapi apa yang berlaku di Perlis ini, saya rasa bukan sekadar retak menanti belah dah. Memang sudah terbelah hubungan di antara PAS dengan Bersatu. Dan tak ada jalan pulang untuk PAS dan Bersatu lah.
 
@@ -117,7 +117,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Iqbal:** 3 orang tu dah dah di-
 
-**Rafizi:** Dia dipecatlah, dipecat.
+**Iqbal:** Dia dipecatlah, dipecat.
 
 **Haziq:** Diberhentikan keahlian, dia sebut nam-
 
@@ -269,7 +269,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Haziq:** Slaid seterusnya. Tunjuklah slaid yang lain dulu tu.
 
-**Rafizi:** Kita tunjuk secara keseluruhan lah.
+**Haziq:** Kita tunjuk secara keseluruhan lah.
 
 **Haziq:** Walau bagaimanapun.
 
@@ -335,7 +335,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Saya rasa dalam PRN yang lepas 2020, DAP menang 6 kerusi, saya ingat.
 
-**Haziq:** 6 kerusi tahun 2020 itu kerana memakai logo Warisan.
+**Rafizi:** 6 kerusi tahun 2020 itu kerana memakai logo Warisan.
 
 **Rafizi:** Logo Warisan pun tidak betul. Walaupun saya ada rakan-rakan daripada Warisan, kalau Warisan merasakan bahawa dia mendapat undi Cina atas kekuatannya, itu pun tidak betul. Sebenarnya pengundi Cina memang menyokong DAP sebelum ini dalam 2020 — letakkan lambang apa pun. Lihat, letak lambang PH yang orang tidak kenal pun, lambang Star Trek itu, bukan roket pun — orang Cina tetap mengundi kalau mereka percaya. Jadi dalam tahun 2020 itu sebenarnya kekuatan itu memang kekuatan DAP oleh pengundi Cina bandar ini, bukan sangat soal logo. Jadi dengan pengembangan yang sama, contohnya PKR atau PH, memakai logo apa pun, tapi kalau orang sudah hilang kepercayaan, dan kepercayaan itu bergantung kepada beberapa perkara — contohnya mutu kepimpinan yang ada. Mutu kepimpinan Sabah yang ada itu — kalau kepimpinan Sabah PKR ini dilihat mengikut Nurul Izzah ke mana-mana untuk mengambil gambar, tidak boleh. Kalau mereka dilihat sebagai menurut arahan dan perlu menunggu daripada Putrajaya, pun tidak boleh. Jadi ia bermula dengan kualiti itu. Yang kedua, ia juga bergantung kepada naratif parti itu — jadi kalau PKR daripada Putrajaya dilihat sebagai menggunakan PKR Sabah ini sebagai satu sambungan (extension) sahaja, pun tidak boleh.
 
@@ -401,7 +401,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Farhan (Pa'an):** Ataupun DAP lah lepas 6 bulan. Jadi kita tak boleh jangka ada reformasi pendidikan rasanya, sebab setahun setengah mungkin terlampau pendek untuk reformasi pendidikan. Jadi untuk YB Fadlina ini, mungkin kalau anda berada dalam kedudukan dia — saya tak berada dalam kedudukan dia, syukur — kalau anda berada dalam kedudukan dia, apa yang anda akan buat?
 
-**Haziq:** Berundur. Tidak, okey, ia seperti...
+**Rafizi:** Berundur. Tidak, okey, ia seperti...
 
 **Rafizi:** Ya, anda tanya saya kalau saya tak berada dalam kedudukan dia. Tidak, kita pun kena fikir juga lah — kritikan kepada Fadlina ini tidak boleh disamakan kepada kritikan keseluruhan kepada Kementerian Pendidikan, KPM. Ada beberapa perkara yang telah digerakkan yang telah berlaku — maksudnya agenda reformasi pendidikan, pembaharuan pendidikan ini bukan lagi kawalan Kementerian Pendidikan 100%. Ia sekarang jadi sebahagian tugasan Majlis Pendidikan Negara — maksudnya majlis tertinggi mengenai pendidikan kerajaan yang telah ditubuhkan selepas RMK13. Maksudnya Perdana Menteri pun boleh mendorong, menteri lain pun boleh mendorong, kerana selalunya kalau majlis-majlis kabinet ini setiap 3 bulan dia akan bermesyuarat, kalau tak pun tiap-tiap 2 bulan begitu. Jadi akan ada arahan-arahan dan penilaian-penilaian mengenai prestasi. Jadi dalam erti kata itu akan ada tolakan luaran. Pada masa yang sama, Kementerian Pendidikan pun dia ada pelan dia sendiri — saya rasa tahun 2027 ini dia nak keluarkan sukatan pelajaran baru. Jadi dari segi pembaharuan ataupun reformasi itu saya rasa akan berlaku. Tetapi saya tak rasa kredit akan pergi kepada Fadlina. Jadi ia sudah menjadi air yang lalu di bawah jambatan untuk dia. Sebab 3 tahun ini, kalau di mana-mana di AS pun, midterm sangat penting dalam setiap penggal pemerintahan itu, kerana selepas midterm itu orang lebih kurang telah membuat keputusan mereka. Sebab 3 tahun itu, 2 tahun setengah itu, dia bermula dengan euforia — bila anda mula-mula ambil jawatan, orang ada jangkaan semua. Tapi sekali dia dah kecewa, untuk ia naik semula tidak mudah. Jadi dalam kes dia, saya harap kita akan dapat dengar lebih banyak tentang reformasi pendidikan. Dan saya tahu sesetengah perkara Kementerian Pendidikan memang telah bekerja walaupun sebelum dia datang ke jawatan dia. Tapi selepas semua yang telah berlaku, paling mungkin perkara itu tidak begitu mudah untuk dia, untuk orang ramai mengaitkan itu dengan dia. Pun dalam masa 3 tahun ini, dia tak pernah menghuraikan, menyampaikan visi dia — kita tak tahu. Satu-satunya perkara yang lekat dalam kepala kita itu — jangan kacau sekolah kami, jangan kacau guru kami. Itu. Kita tak dengar yang lain. Paling kurang orang maki saya, tapi saya telah bercakap tentang reformasi ekonomi, tentang reformasi struktur. Saya telah bercakap tentang gaji. Saya telah bercakap tentang subsidi. Anda suka atau anda tak suka, ada perkara-perkara tertentu yang dikaitkan dengan apa yang saya nak buat. Tapi dalam kes dia, saya rasa selain itu, yang lain semua operasi, dan selepas isu Zara, dia berundur secara senyap.
 
@@ -413,7 +413,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Haziq:** Ya, kita tengok yang nombor 5, YB — pemilihan PKR dan perpecahan. Ini tanya orang DAP lah — tapi muka YB kat situ. Itulah pasal. YB, sorry — mana ada? Saya tak ada janggut.
 
-**Iqbal:** DAP Terengganu — ini gambar buat mahkamah, tak silap.
+**Farhan (Pa'an):** DAP Terengganu — ini gambar buat mahkamah, tak silap.
 
 **Rafizi:** Ini gambar selepas — dilepaskan, bukan dilepaskan ke, selepas didakwa untuk Bafia. Saya rasa lepas didakwa. Oh, saya tak tahu.
 
@@ -459,7 +459,7 @@ Dan *untuk menambah buruk keadaan*, PKR ini adalah parti penghubung di dalam PH.
 
 Dan tidak ada *persamaan* kepada zaman Kuli. Sebab masa itu UMNO *adalah pemerintah mutlak* dalam kerajaan ini. *Mereka boleh putuskan apa-apa sahaja.* Jadi sebarang perpecahan di dalam UMNO masa itu tidak ada kesan kepada kerajaan atau keputusan pilihan raya dan seterusnya. *Ia berterusan seperti biasa.* Kalau nak tengok, tak banyak beza dengan contohnya beberapa pertembungan di dalam UMNO tahun 60-an masa Aziz — apa nama ini? — Menteri Pertanian dulu, Aziz Ishak.
 
-**Haziq:** Aziz Ishak. Adik Yusof Ishak. Tak tahu pula saya.
+**Iqbal:** Aziz Ishak. Adik Yusof Ishak. Tak tahu pula saya.
 
 **Rafizi:** *Boleh anda Google* Menteri Pertanian yang letak jawatan zaman Tunku Abdul Rahman? Dia letak jawatan kerana berbeza pandangan. Jadi benda itu pernah berlaku di dalam UMNO juga, dan selalunya *pemenang sentiasa terus hidup*. *Perdana Menteri sentiasa terus hidup.* Cuma keadaannya tak sama sekarang.
 
@@ -505,7 +505,7 @@ Kalau kita letak diri sebagai orang biasa, saya tak rasa semua rancangan itu —
 
 **Rafizi:** Dan lagi untuk menjadikan keadaan lebih teruk, dia ingat saya seorang saja yang gila. Sebenarnya, kita ni generasi yang berbeza. Kita dilahirkan daripada kekecewaan itu, kan. Dan kemudian Nick letak jawatan—
 
-**Haziq:** Dan akhirnya, saya rasa ia—
+**Rafizi:** Dan akhirnya, saya rasa ia—
 
 **Rafizi:** —sudah berlalu sampai sekaranglah.
 
@@ -535,13 +535,13 @@ Kami telan sahaja dalam 2022 sebab dah terlalu dekat dengan pilihan raya, kan. T
 
 **Rafizi:** Saya ni kalau nak banding dengan orang lain, saya seorang hippie politik lah kot. Generasi awak mungkin tak appreciate hippie lah kan, tapi saya seorang hippie politik. Maksudnya, saya tak ada reka bentuk besar dalam politik. Saya tidak. Biarkan saja pada saya, saya jauh lebih gembira hanya buat kerja saya. Cuma sekali-sekala, awak rasa kuat tentang sesuatu isu. Dan bila awak rasa kuat tentang sesuatu isu, awak tahu ada beberapa kemahiran yang kita ada. Jadi kalau awak tak sumbangkan, rugilah, kesianlah orang lain. Awak tak boleh harapkan orang lain untuk buat kan. Jadi masa zaman reformasi, saya rasa kuat tentang apa yang dibuat terhadap Dato' Seri Anwar, bagaimana institusi-institusi dimanipulasi. Jadi saya tampil ke depan dan mengisi perkara-perkara yang perlu dibuatlah — buat laman web reformasi, kempen untuk pembebasannya di luar negara semua kan. Sama juga masa jadi MP, semua 1MDB ini, saya kebetulan seorang akauntan, seorang orang kewangan kan. Jadi, pada peringkat kehidupan saya ini, menjelang pilihan raya akan datang saya akan berumur 50, 51 kan — dah agak hampir dengan umur persaraan. Sebahagian daripada objektif yang saya tetapkan pada awalnya dulu, saya rasa semua dah dicapai. Contohnya saya nak lihat satu pertandingan politik, satu persaingan yang bertenaga antara parti-parti. Dan untuk itu berlaku, UMNO kena kalah dan struktur kuasa Barisan Nasional perlu dibuat — itu dah tercapai. Saya nak lihat satu politik progresif yang lebih pelbagai kaum, yang berdasarkan idea, bagaimana untuk memperbaiki keadaan, bukan sekadar emosi — "saya memperjuangkan Islam, kalau tak sokong saya, masuk neraka" — saya tak suka itu. Itu pun setakat tertentu dah berlaku. Untuk melihat Dato' Seri Anwar jadi Perdana Menteri, saya nak lihat macam mana dia menyampaikan semua harapan, wawasan yang kita ada masa kita muda — itu telah berlaku. Jadi satu-satunya perkara yang tinggal untuk saya ialah pastikan apa-apa yang jadi dalam PRU akan datang, rakyat tak akan kecewa dengan politik progresif. Dan saya boleh main peranan ini — itulah sebabnya saya buat ini sekarang. Supaya kita tak ikut jalan itu macam ikut Pied Piper — "PH ni macam mana pun ikut saya, dia nanti jadi BN," "Najib, sokong Najib lah," habis masuk longkang. Bila masuk longkang, nak kembali balik itu lambat kan. Jadi saya nak pastikan apa-apa yang jadi kepada PKR, DAP, Amanah, Harapan semua ini — dan saya tak ada pengaruh tentang macam mana ia akan berlaku. Tapi paling kurang segmen signifikan daripada pengundi kita tahu bahawa kitalah yang menentukan. Kalau kumpulan ini tak menyampaikan apa yang kita nak, tak mengapa, ia satu proses — kita akan mula semula, ulang, jadi lebih baik dan lebih baik. Sebenarnya, itu sajalah peranan yang saya rasa selesa mainkan sekarang lah.
 
-**Haziq:** Baik, YB. Tak ada kena mengena dengan Tun Mahathir, "perjuangan mas belum selesai." Okey, baik itu. Pilihan perkataan awak kan?
+**Rafizi:** Baik, YB. Tak ada kena mengena dengan Tun Mahathir, "perjuangan mas belum selesai." Okey, baik itu. Pilihan perkataan awak kan?
 
 **Rafizi:** Struggle. Perjuangan.
 
 **Haziq:** Isu kelima, YB, panjang juga. Tapi kita ada isu yang keenam — mungkin saya tanya Iqbal dulu. Insiden serangan berakhir dengan banyak tanda tanya. Ini pun apa yang pendengar kita minat untuk ketengahkanlah. Iqbal, sekadar untuk bertanya pandangan awak tentang ini lah — yalah, hakikat bahawa benda ni berlaku berturutan dan antaranya kepada anak saudara Rafizi. Eh, anak saudara? Anak kepada YB Rafizi lah. Saya panggil YB saudara, faham tak? Rumit je. Okey, banyak blooper.
 
-**Rafizi:** Mereka terus ke intinya lah.
+**Haziq:** Mereka terus ke intinya lah.
 
 **Haziq:** Banyak blooper, anugerah pula. Kenapa? Apa yang menyebabkan orang tengok benda ni sangat signifikan? Adakah kerana tak ada orang yang dipertanggungjawabkan, atau kenapa?
 
@@ -665,7 +665,7 @@ Jadi ini yang bagi saya, tema sepunya dalam semua ke-10 isu ni ialah, kalau berm
 
 **Rafizi:** Ada. Resolusi baru yang dikitar semula daripada dulu, ada 2 — satu untuk kurus, dan dua untuk pakai tonik rambut.
 
-**Farhan (Pa'an):** Tonik rambut dah ada tapi tak pakai?
+**Haziq:** Tonik rambut dah ada tapi tak pakai?
 
 **Rafizi:** Ada, tapi saya, awak tahu — bukan berubah-ubah fikiran, aku ni tumpuan pendek. Aku pakai-pakai baik. Ada sebenarnya satu produk — lepas tu boleh bayar kat aku lah, Clear ni kan, syampu Clear tu kan. Ia mahal tahu, syampu dengan tonik rambut tu, satu pasang adalah sekitar RM150 tahu. Ia sangat mahal. Jadi awak sepatutnya mandi syampu semua dan kemudian pakai tonik rambut lah. Saya telah lakukan setiap kali sekali sekala, tapi sebab ia tak ada kesan, jadi aku give up.
 

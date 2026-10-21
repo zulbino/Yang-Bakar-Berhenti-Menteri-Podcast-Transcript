@@ -45,15 +45,15 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Haziq:** Facebook yang datang. Yap, semua okey, YB.
 
-**Rafizi:** Should be okey, dah test dan okey. Ya.
+**Haziq:** Should be okey, dah test dan okey. Ya.
 
 **Haziq:** Baik, assalamualaikum dan salam sejahtera, saudara-saudari. Saya mohon kerjasama sebelum kita memulakan sesi pada hari ini, penuhkan dahulu di hadapan supaya boleh beri ruang kepada orang yang akan datang sedikit lambat nanti untuk kelancaran sesi podcast kita pada malam ini. Punyalah bising kat atas ni.
 
-**Rafizi:** PA system okey
+**Haziq:** PA system okey
 
 **Haziq:** Kita dah semak tadi. Walaupun di atas, quiet. Baik. Kita mulakan. Okey. Oh, 5 minutes.
 
-**Rafizi:** Okey. Saya tunggu sikit. Minta kerjasama yang berdiri di tepi ni untuk penuhkan kerusi di hadapan supaya yang datang sedikit lambat tu boleh penuhkan di belakang dan melancarkan sesi podcast kita pada malam ini.
+**Haziq:** Okey. Saya tunggu sikit. Minta kerjasama yang berdiri di tepi ni untuk penuhkan kerusi di hadapan supaya yang datang sedikit lambat tu boleh penuhkan di belakang dan melancarkan sesi podcast kita pada malam ini.
 
 **Haziq:** Jadi. Ya. Baik, baik, baik. Minta tutup kipas atas ni. Okey. Ya. Alright. Faham. Selamat datang kepada yang baru sampai. Okey, saya mohon kerjasama untuk terus mengambil tempat dan penuhkan ruang-ruang kosong di hadapan. Penuhkan saf di hadapan. Kita bagi ruang kepada yang hadir lambat tu untuk memenuhkan di belakang. Jadi, yap.
 
@@ -65,7 +65,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Haziq:** Suara wekiat jemput ke depan. Oh. YB Akmal. Tak apalah, dia dah ada. Tak apalah.
 
-**Rafizi:** Sami tak nak duduk, dia tak nak duduk. Sami kerusi sudah tidak ada. Dah tak ada kerusi. Jadi sebab tu dia tak nak duduk. Untuk makluman saudara-saudari, kita akan menjalankan sesi podcast edisi khas Yang Bakar Menteri yang berhenti Menteri ini dengan beberapa soalan, dan kita akan buka ruang untuk saudara-saudari khusus yang hadir secara fizikal di dalam dewan yang cantik ini untuk bertanyakan beberapa soalan secara terus tanpa tapisan kepada YB Rafizi Ramli pada hari ini.
+**Haziq:** Sami tak nak duduk, dia tak nak duduk. Sami kerusi sudah tidak ada. Dah tak ada kerusi. Jadi sebab tu dia tak nak duduk. Untuk makluman saudara-saudari, kita akan menjalankan sesi podcast edisi khas Yang Bakar Menteri yang berhenti Menteri ini dengan beberapa soalan, dan kita akan buka ruang untuk saudara-saudari khusus yang hadir secara fizikal di dalam dewan yang cantik ini untuk bertanyakan beberapa soalan secara terus tanpa tapisan kepada YB Rafizi Ramli pada hari ini.
 
 **Haziq:** Jadi boleh start fikir soalan-soalan membakar yang nak ditanyakan, walaupun kita tak dapat buka banyak sebab kekangan masa. Tapi ada ruang juga untuk bertanya nanti. Kita akan pilih kepada siapa yang ada dalam dewan pada hari ini. Boleh start. Alright. Baik, bismillahirrahmanirrahim. Assalamualaikum warahmatullahi wabarakatuh dan salam sejahtera semua. Selamat malam. Khususnya kepada YB Rafizi Ramli. Apa khabar YB? Kucing-kucing YB sihat ke?
 

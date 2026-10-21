@@ -64,7 +64,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Okey, alright. Dia orang ni pun satu, hilang tak beritahu — dah kena tangkap ke?
 
-**Wan Afiq:** Ke dah kena beli?
+**Rafizi:** Ke dah kena beli?
 
 **Farhan (Pa'an):** Ah, lagi tak kot.
 
@@ -96,11 +96,11 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Kenapa muka dia macam Jamal Abdillah?
 
-**Multiple speakers:** Ha, itu Farhan nak tanya.
+**Wan Afiq:** Ha, itu Farhan nak tanya.
 
 **Farhan (Pa'an):** Saya minta dia share skincare routine.
 
-**Multiple speakers:** Skincare routine dia.
+**Rafizi:** Skincare routine dia.
 
 **Rafizi:** Nampak putih.
 
@@ -160,11 +160,11 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Dia orang Besut, ada darah Kelantan. Ni masalah orang Kelantan dengan orang Besut ni kan. Ni yang mana?
 
-**Wan Afiq:** Yang YB Melor.
+**Rafizi:** Yang YB Melor.
 
 **Rafizi:** Betul YB.
 
-**Wan Afiq:** YB Melor ni nama apa?
+**Rafizi:** YB Melor ni nama apa?
 
 **Amir Sahmat:** Wan Rahimi.
 
@@ -214,7 +214,7 @@ Berialah kalau nak kiranya, Rahmanan ialah Menteri Sumber Manusia. Sepatutnya di
 
 **Rafizi:** That's why lah saya takkan masuk kerajaan. Dia sebenarnya — dalam kerajaan tu bubble sebenarnya. Terutamanya kalau menteri, dia cepat panas kan. Jadi you akan buat — aku pernah buat laporan polis oleh kementerian sekali je.
 
-**Wan Afiq:** Ingat? Yang mana?
+**Rafizi:** Ingat? Yang mana?
 
 **Rafizi:** Bukan aku lah, maksudnya kementerian pernah buat laporan polis, sekali je.
 
@@ -266,7 +266,7 @@ Dan itu yang jadi beban kepada PH. Kerana dalam banyak-banyak tiga gabungan part
 
 **Rafizi:** Sebab dia sanggup jadi intern di Pandan eh. Okey, clear YB. So kita pergi hidup keras.
 
-**Wan Afiq:** Hidup keras kita ada 4 kan?
+**Rafizi:** Hidup keras kita ada 4 kan?
 
 **Rafizi:** Jadi kita nak kena kawal sikitlah mungkin. Kita ada masa banyak mana lagi? Kita udah 39 minit berlalu — 39 minit — so kita ada lebih kurang 2 jam lah. Lebih kurang setengah jam, setengah jam, setengah jam. Okeylah, topik minggu ni tak berat-berat. Baik.
 
@@ -300,7 +300,7 @@ Masa pelucutan jawatan Undang Sungai Ujong tu pun, saya ingat dia tak jadi berit
 
 **Rafizi:** Ha, dia buat live kan. Dan rentetan daripada itulah, dia mengheret Tok Min, Dato' Seri Aminuddin Harun sebagai Menteri Besar, kerana bermula apabila Undang yang 4 mengatakan bahawa Tok Min pun dah kena letak jawatan. Dan yang terakhir ialah apabila — itu bukan 19 ADUN Negeri Sembilan — oh, 19 ADUN tu campur dengan PN.
 
-**Amir Sahmat:** Yes, betul. 14 BN, 5 PN.
+**Rafizi:** Yes, betul. 14 BN, 5 PN.
 
 **Rafizi:** 5 PN — sehinggalah kepada ADUN BN lah buat — you nak panggil langkah apa ni, langkah Pertang ke langkah Jalaluddin?
 
@@ -382,9 +382,9 @@ Jadi akhirnya mesej yang berbeza-beza, kluk-klak ini semua akhirnya akan menyeba
 
 **Wan Afiq:** Maksudnya yang Negeri Sembilan ni, nak tak nak PKR adalah Menteri Besar sehingga 6 bulan akan datang. They have to defend the Menteri Besar sepatutnya.
 
-**Amir Sahmat:** Sepatutnya dia defend.
+**Wan Afiq:** Sepatutnya dia defend.
 
-**Wan Afiq:** Dia dah defend lah kot.
+**Rafizi:** Dia dah defend lah kot.
 
 **Amir Sahmat:** Oh, tu yang dia jumpa Zahid tu. Ada gambar. Ada gambar punya Farhan.
 
@@ -400,13 +400,13 @@ Jadi akhirnya mesej yang berbeza-beza, kluk-klak ini semua akhirnya akan menyeba
 
 **Wan Afiq:** Okey, YB, so kita move kepada topik seterusnya.
 
-**Rafizi:** Ini pun menarik.
+**Wan Afiq:** Ini pun menarik.
 
 **Wan Afiq:** So kita ada baki dalam sejam lebih lagi, YB.
 
 **Rafizi:** Boleh, boleh, boleh.
 
-**Wan Afiq:** Yang last tu sekejap je aku nak kena tangkap.
+**Rafizi:** Yang last tu sekejap je aku nak kena tangkap.
 
 **Rafizi:** Nak ulas panjang pun tak ada juga ha. Okey.
 
@@ -426,7 +426,7 @@ Jadi akhirnya mesej yang berbeza-beza, kluk-klak ini semua akhirnya akan menyeba
 
 **Rafizi:** Sebelum itu, I think latar belakang dia — ini hari apa? Hari Jumaat. Eh tak, hari Rabu — hari ni hari Jumaat lah. Maksudnya surat ni keluar I think hari Rabu. Surat sekarang ni dia hantar melalui e-mel, sekejap je dia viral satu Malaysia. Mengaku aku dapat surat kan. Surat dalam bahasa perbendaharaan lah, dia panggil sekatan perbelanjaan. Maksudnya ialah they put a cap lah, dan therefore you have to — kalaupun telah diluluskan belanjawan ataupun bajet lah kan, peruntukan, bahasanya ialah peruntukan. Katakanlah satu jabatan tu dia telah luluskan peruntukan 100 juta untuk 1 tahun belanja perbekalan, tapi kalau keluar arahan perbendaharaan untuk menyekat, berapa yang disekat tu kan, maksudnya tak boleh belanjalah, potong bajetlah kan. Dan sebelum kita komen pasal yang lain semua, kita kena faham yang itu — kerana saya tengok ada juga menteri-menteri kata ini rancangan. Eh tak, surat sekatan tu dah keluar kan. Jadi surat sekatan tu dah keluar, maksudnya potongan peruntukan ataupun pembekuan peruntukan itu memang arahan lah. Cuma prosesnya, budgeting ni dia ada top down and bottom up kan. Masa kita mula-mula nak buat bajet, bukan saja untuk kerajaan, dalam mana-mana organisasi besar lah kan, dia ada 2 peringkat. Satu ialah peringkat bawah itu — dia tengok perbelanjaan dia, apa nak buat, aktiviti dia, jadi dia bangunkan bajet dia and then dia submit ke atas — itu bottom up lah kan. Dekat top tu, dia pun dah tahu kalau negara contohnya nak berkembang 5%, 6% pertumbuhan ekonomi, kemudian hutang nak kena bayar berapa, sekian sekian sekian, kita hanya ada 400 billion sahaja, kutipan banyak ni gini gini gini gini, maka untuk kementerian kamu, top down nya kamu hanya ada 1 billion. So then you have 2 sets of budget kan, dan berdasarkan itulah dia akan diharmonikan dan yang ni potong-potong kan. Dia sama juga dalam proses untuk mengawal perbelanjaan yang macam berlaku sekarang lah — dia mengeluarkan sekatan, dan seperti yang telah dilaporkan, sasaran penjimatan kerajaan daripada peruntukan yang telah diluluskan untuk 2026 itu ialah 10 bilion. Dan arahan itu telah dikeluarkanlah — maksudnya kerajaan perlu memotong perbelanjaan sebanyak 10 bilion. Itu top down. Yang bottom up berlaku ini sekarang ialah daripada MOF potong pandai-pandai sap sap sap sap semua — dia memberi ruang kepada proses bottom up. Maksudnya setiap agensi kementerian, kamu diberi arahan dengan panduan-panduan berikut. Contohnya CLBG lah, agensi-agensi semua ni — agensi-agensi bawah kementerian yang bukan penjawat awam, banyaklah MDEC lah, itu semua dia panggil Companies Limited by Guarantee, agensi-agensi lah. Yang ini dia I think minta potong 20%. Kemudian kalau kementerian-kementerian, jabatan-jabatan, dia ada panduan-panduan dia lah. Jadi kementerian-kementerian kena tengok, okey yang ini yang kita dah ada peruntukan, yang kita dah nak plan semua ni, kita tengok macam mana untuk kita capai sasaran potongan yang dikehendaki oleh Kementerian Kewangan, kemudian dia akan submit balik, and that's how you get 10 billion kan. Jadi soalan tadi, terlambat ke apa semua kan — well, I think you have to see the total picture lah kan. Kalau nak kata terlambat ke tak terlambat ke, bagi saya itu soalan akademik lah, sebab dia berpunca lebih kepada soalan dasar. Dasarnya ialah kita tak bagi subsidi bersasar, kita bagi pukal. Dan keputusannya telah dibuat untuk buat keputusan populis. Malah Dato' Seri Anwar menurunkan lagi harga minyak daripada RM2.05 kepada RM1.99 kan, supaya orang dah tak boleh kutuk dia pasal kempen dia dulu — menang hari ini, saya ulang turun harga minyak. Itu tujuan dia kan. Tapi tujuan-tujuan itu tidak berlandaskan kepada perancangan ekonomi yang kukuhlah. Jadi kalau kita nak kata adakah ini terlambat ke apa, dia buat macam mana pun dia takkan boleh lari daripada kesan yang berlaku sekarang lah. Contohnya macam ini kan — kerajaan menganggarkan subsidi tahun ini 58 billion kan. 58 billion itu saya ingat yang diumumkan itu hanyalah untuk subsidi diesel dengan petrol saja tau. Itu tak masuk subsidi elektrik lagi, tak masuk subsidi LPG lagi. Ini 4 kategori paling besar — petrol, diesel, elektrik dengan LPG minyak masak kan, tu tak masuk lagi tu. Yang disebut saya rasa 58 tu hanya petrol dan diesel kan. Itu adalah yang paling tinggi dalam sejarah negara kita — 58 billion eh. Hasil kutipan cukai berapa? Amak. Cuba Google, sebab PM baru umum hasil paling tinggi tercapai — 220 mungkin? Google, ha. 203 billion.
 
-**Farhan (Pa'an):** Ha, tak sampai pun lagi 220 billion.
+**Rafizi:** Ha, tak sampai pun lagi 220 billion.
 
 **Rafizi:** 204 billion kan? So LHDN kutipan 204 billion kan. Bayangkan hasil kutipan cukai dalam negara kita 200 daripada cukai langsunglah yang di bawah LHDN lah. Ada satu lagi cukai tidak langsung tu dikutip oleh custom kan. Tapi kutipan cukai langsung yang kita bayar — PCB, potongan cukai berkala, kita bayar income tax, company bayar income tax semua kan — 203 billion. Lebih, apa nama ni, hampir satu per tiga, actually — kalau campur dengan subsidi elektrik, subsidi gas dengan LPG semua, memang satu per tiga lah kita bakar untuk minyak, supaya kita boleh beritahu bahawa minyak kita baiknyalah kerajaan, minyak kita ni terendah dalam dunia.
 
@@ -594,7 +594,7 @@ Let me ask you this. Silent majority ni jenis comment ke? Tak. Dia tak comment.
 
 **Rafizi:** The most dia akan buat apa dia? Dia akan observe, tengok.
 
-**Amir Sahmat:** Okey, observe tu satu, but the most dia like.
+**Rafizi:** Okey, observe tu satu, but the most dia like.
 
 **Rafizi:** Dia like. Yang penyokong kuat akan share. So therefore, it's not necessarily — in fact, comment tu sebenarnya bila Ceplos, Ceplos ni, then aku dah test dua tiga tau. That's why kau pernah notice aku pernah post out of nowhere dalam pukul 4, pukul 5 ke apa. Because Ceplos ni ikut timing. Dia kerja. Okey. Kalau kau post certain time, dia masuk kan. Lepas tu aku rasa dia pergi tidur ke, dia pergi makan. So rasa aku pernah post pukul 3 ke apa, just nak tengok kan. Memang komen tu tak ada ceplos langsung. Maksudnya dia tengah berehat kan. Okey, now. Yang satu benda yang diorang tak tahu ialah bila dia komen banyak, actually algorithm will see it sebagai engagement dia tinggi. Then they will show to more people. Dan orang akan lebih banyak. Walaupun network dia, effect dia, sama, dia tu tak ada kesan sangat. Tapi that posting sebenarnya ada engagement yang lebih tinggi. Yang paling penting untuk Facebook sebenarnya ialah, to me lah eh, dua metrics. Satu ialah like, satu ialah share. Sebab itu you may see komen Ceplos ni maki hamun berkarung-karung, and you know they are Ceplos dan komen Cyber Trooper sebab yang disebut itu conform kepada naratif yang dia nak sampaikan. So in my case, naratif dia tu dua tiga saja. Ini merajuk, menteri gagal, toton. Cetong, cetong, semua kan. Nyet-nyet-nyet-nyet kan. You know semua komen daripada 4, 5, 6 bulan lepas, benda yang sama. Kononnya benda tu akan lekat. Then dia tak faham juga by doing that automatically singling out all this sebenarnya sebagai coordinated inauthentic behavior. Then you tahulah dia buat macam mana kan. But yang penting is not necessarily the comment. Yang penting is actually likes dengan share. Sebab itu you notice kebanyakannya likes tu jauh lebih tinggi daripada komen. Betul. Sebab the silent majority actually akan just like and share, you can tell kalau bila pergi tengok kepada posting-posting pimpinan PN, share dia sangat rendah. Betul. They might like nampak tinggi, komen banyak kan, tapi share sangat rendah. So then you get the feeling that a lot of this is coordinated. A lot of these are basically cyber troopers. Kalau pergi tengok Dato' Seri Zahid Hamidi punya Facebook, selalunya dia punya consistent tau. Dia punya like semua kan, tapi share dia agak rendah. Kan. So all this maksudnya malangnya I would have expected orang-orang yang strategic communication semua ni understand all this, then design it. Itu yang nak menjawab yang kau nak tanya tadi lah. Kenapa contohnya J-KOM semua ni ada RTM semua bernama, tak semua yang kita ada, UKK ni nampaknya kurang berkesan. It's because of the lack of understanding sebenarnya of how socials work lah. And that is also applicable kepada PN dan BN. Ambil contoh, I went through this zaman 2022. So we come back, you know, aku balik bersara. So semua orang takut kepada Facebook Najib macam tu. Memang viral gila, takut gila. Tak ada orang berani nak sentuh kan, top kan. So tengoknya memang membimbangkanlah, 30,000 like semua ni kan. So I work with my data scientist team lah. Semua tu I kata okey, let's see sebenarnya what exactly this 30,000 like semua ni means lah kepada sokongan rakyat kan. Now that comes back kepada soal network effect eh. Apa beza contohnya ya? 30,000 like yang mana 30,000 itu datang daripada seluruh negara yang setiap kumpulan ada, tua ada, Melayu ada, Cina ada, di Kedah ada, Kelantan ada, semua tu like like like like 30,000. Berbeza dengan 30,000 like juga tapi daripada Kota Bharu saja. Unreachable. Beza kepada kesan undi.
 
@@ -602,7 +602,7 @@ Let me ask you this. Silent majority ni jenis comment ke? Tak. Dia tak comment.
 
 **Rafizi:** Okey.
 
-**Wan Afiq:** But then the direction tak stay.
+**Amir Sahmat:** But then the direction tak stay.
 
 **Rafizi:** Dia ada dua component tu kan. Satu is the network effect. Okey. Ambil contohnya posting-posting Najib kan. Posting Najib dululah, walaupun engagement like dia tinggi, tapi dia datang daripada profile demografi dan strata yang lebih kurang sama. Maksudnya Melayu, banyaknya Pantai Timur. Itu adalah kawasan-kawasan yang memang UMNO dah menang. Maka 30,000 pun dia takkan sampai dan ada kesan. And is a network effect kerana yang duk like semua tu ialah memang penyokong UMNO pun dan kumpulan dia memang kumpulan UMNO pun. Jadi akhirnya kehebatan kemarahan tu walaupun dia setia kat Najib, UMNO semua, dia tak boleh ada kesan untuk swing pandangan politik. Tapi di mata orang kata oh ni hebat ni kan. Sama juga yang berlaku dengan banyak pimpinan PAS. Pimpinan PAS memang dari segi sosial dia ada traction tinggi semua kan, tapi dia berlegar di kawasan ataupun di kalangan pengundi-pengundi yang memang macam itu, dan therefore sebab itu dia sampai ke sudah tak dapat ubah pengundi bukan Melayu because hardly any pengundi bukan Melayu yang ada kesan sebab dia tak ada that network effect. So you want to ask? Okey. Simple question.
 
@@ -626,7 +626,7 @@ Let me ask you this. Silent majority ni jenis comment ke? Tak. Dia tak comment.
 
 **Rafizi:** Dia beginilah kan. Mesyuarat kabinet ni kat di peringkat kerajaan, kira supremo komunikasi ni Fahmi lah. So itu tanggungjawab dia kan, dan kita ada portfolio masing-masing. Dan walaupun menteri tu dari segi kekananan politiknya berbeza-beza, macam saya lebih kanan, senior ke apa, kita tak boleh nak tegur masing-masing menteri. Dia — aku kan menteri juga, engkau siapa — dia macam tu kan.
 
-**Amir Sahmat:** Tak pernah jumpa YB untuk belajar ke?
+**Wan Afiq:** Tak pernah jumpa YB untuk belajar ke?
 
 **Rafizi:** Tak ada. Okay, that's coming to the second thing.
 
@@ -634,7 +634,7 @@ Let me ask you this. Silent majority ni jenis comment ke? Tak. Dia tak comment.
 
 **Rafizi:** Ha, dalam parti pula kan. Dalam parti masalahnya ialah banyak yang muda-muda ni dia memang melihat segala-galanya daripada lensa politik kan. Dia bukan "aku tak sokong dia maka aku tak belajar dengan dia."
 
-**Amir Sahmat:** Nasib lah kan.
+**Rafizi:** Nasib lah kan.
 
 **Rafizi:** Jadi masalahnya ialah bila dah jadi kerajaan tu dia ambil jalan pintas kan. Sebab kalau you look at sebelum 2018 sampai sekarang lah kan, sebenarnya PKR dan PH ni ialah parti yang dibina berdasarkan isu. Dia bukan parti personaliti, dia parti isu. Kenapa kandungan kita orang baca semua? Kerana dia memberi pencerahan. Baik soal anti rasuah ke, baik soal dasar ke, dia sebenarnya ada substance. Dia bukan soal slogan atau retorik. Dia sebenarnya ada sesuatu dan kita bentangkan hujah kemudian ada bukti, ada fakta kan. Benda tu penat nak buat. Benda tu kena baca, kena check. Kandungan saya sampai hari ni saya buat sendiri. So tak ada Ceplos-ceplos yang nak buat kandungan aku ni, semua aku buat sendiri. And the reason being is to me that's part and parcel of what it takes to menyampaikan maklumat. Dan I learn something new, I share with other people. It's out of my curiosity juga, I needed to know something new semua kan. But berapa ramai orang yang join politik tu bila dia dah jadi menteri semua tu nak buat?
 
@@ -686,7 +686,7 @@ Let me ask you this. Silent majority ni jenis comment ke? Tak. Dia tak comment.
 
 **Rafizi:** Tapi saya tak rasa Azam Baki peduli pun. Saya rasa dia sangat personal sekarang. Sampai kita Sogo tu pun dia komen. Kan. Benda yang patut dia tak komen, dia komen kan. Boleh, dia boleh reman.
 
-**Amir Sahmat:** Ha, dia ha so.
+**Rafizi:** Ha, dia ha so.
 
 **Rafizi:** Maximum 6 hari. By next week tu you cannot tell lah kan. Dulu masa 1MDB dulu last sekali saya kena tahan. Tapi masa tu bukan SPRM lah, masa tu PDRM. Masa tu dia reman 5 hari.
 

@@ -79,11 +79,11 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Because I think it might go to that stage.
 
-**Multiple speakers:** My cough. Hopefully not.
+**Rafizi:** My cough. Hopefully not.
 
 **Rafizi:** Waking up in the middle of sleep because of coughing. But YB has recovered.
 
-**Haziq:** Recovered. Much better.
+**Rafizi:** Recovered. Much better.
 
 **Iqbal:** Okay, after me, Haziq's turn next.
 
@@ -107,7 +107,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Yeah. Only came out the next day. Yeah. Oh, I didn't get it. This is a real daddy joke.
 
-**Haziq:** So lame. A bit lame.
+**Rafizi:** So lame. A bit lame.
 
 **Iqbal:** Went in at 11:58, came out in the new year. I watched the latest Avatar movie. Is Avatar now Avatar 3? The third one already.
 
@@ -119,7 +119,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Haziq:** Okay, YB, let's look at what we have this week in episode 29. First segment, "beria mat" (all fired up). We have a few, YB, right. First we have. Don't let it be flat, eh. Ha okay.
 
-**Rafizi:** InsyaAllah I'll try. Lost the KRT (Neighbourhood Committee) election, took back the donation.
+**Haziq:** InsyaAllah I'll try. Lost the KRT (Neighbourhood Committee) election, took back the donation.
 
 **Haziq:** Where is this? This is in Indonesia, Sulawesi. So what's happening here?
 
@@ -145,7 +145,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Haziq:** It's okay, YB, we have more. Next. Who's slacking?
 
-**Iqbal:** The old zeal, not the current one. There are 2 different stories here, YB. One is Apandi Ali commenting on 1MDB, and the other, as usual, is the Chief Commissioner of MACC also commenting on the 1MDB decision.
+**Haziq:** The old zeal, not the current one. There are 2 different stories here, YB. One is Apandi Ali commenting on 1MDB, and the other, as usual, is the Chief Commissioner of MACC also commenting on the 1MDB decision.
 
 **Rafizi:** This one can be called "fired up." Because he's also the one who was fired up back in 2015. He's the one who went and confirmed about the donation from Arabia, right. Look at this, you look at the Director of the Investigation Division of MACC, Datuk Azam Baki, when confirming the matter, said the meeting took place in a West Asian country recently. Meaning he got scammed, right. But at the same time, he's also the first one to congratulate the investigation and prosecution team for their hard work since 2015. If you think about it, the investigators who were involved in the 1MDB investigation should quietly, secretly actually resent Azam Baki. Because Azam Baki's statement in 2015 is what closed the case, you know. That's why in the end it was concluded it really was a donation and there's no case. I've said my piece. And there's another one, Apandi. Apandi is actually — well, commenting on him is hard. Because he speaks cryptically. It's hard to know what he means. Speculate and get it wrong, he'll sue you.
 
@@ -165,7 +165,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Partly, yes, because I think I've mentioned in previous podcasts, or even the last one, right. If you take Western countries, they took 500 years to slowly-
 
-**Iqbal:** Move away from feudalism.
+**Rafizi:** Move away from feudalism.
 
 **Rafizi:** The French Revolution is all about feudalism, right. And the Bolshevik revolution is about feudalism. And if you take Japan, the Meiji Restoration is about anti-feudalism. So at minimum other countries took 200 years, with different countries successively implementing political and cultural reforms, right. So eventually, more power and influence gets devolved to more groups, right. We actually haven't even reached 100 years yet. Because when we gained independence, we came from a monarchical system, and this monarchical system has nobility, right. Then when we gained independence from the British, the British granted independence while maintaining that system. Compare that, for example, with Indonesia, which moved completely to a presidential system, right. So in that sense we're indeed more "concentrated." That's why the corridor of power, by Malaysian standards, really does exist. So those who circulate within it will end up in situations like this. If I were Tan Sri Azam Baki, though, I might not be so quick to issue a statement congratulating people for their hard work since 2015. He could have said, well, I represent MACC, right. But at the same time, he's stirring up a situation that's this fired-up, because in 2015 he's also the one who confirmed there was a meeting regarding the donation from Saudi Arabia, right. And he's never commented on it since.
 
@@ -239,7 +239,7 @@ It's just that this has started spreading to many countries, and I think in Euro
 
 **Rafizi:** Some of that is a legal requirement. To run under a party's logo, you do need approval from that party's president. But in Malaysia, since we're not presidential, we're still parliamentary — a Westminster parliamentary system. But the notion that "oh, we have 8 million members so we'll be strong" — that's not necessarily true. If anything, DAP has proven that. DAP is a very weak grassroots party — DAP only has just over 100,000 members, but for all these years they've still been, over many years, the largest party. The reason is the narrative to the people. So I think going forward, this will open new horizons — because the view of Gen X, the older boomers, is still that building a party needs 100 million, since one division alone needs to pay 1 million a year. Actually, that's no longer true. And this — this is dramatic. Anything involving Bachok and his boss, Dato' Seri Hadi Awang, is dramatic.
 
-**Haziq:** More dramatic than Fuziah?
+**Farhan (Pa'an):** More dramatic than Fuziah?
 
 **Rafizi:** No way, no way. Can try again, but not yet. That's just not possible. You have to watch Fuziah's announcement to hit that quota — you can't get that out of your mind, how dramatic that was.
 
@@ -273,7 +273,7 @@ It's just that this has started spreading to many countries, and I think in Euro
 
 **Iqbal:** It's a position of authority, I would imagine.
 
-**Multiple speakers:** At least to make that first impression.
+**Haziq:** At least to make that first impression.
 
 **Rafizi:** You go to the office, then you go through briefings. There are several administrative matters that need to be completed — for example, whatever official secret documents you need to sign, you sign them. And usually, whether it's a ministry or a state, the SUK — the State Secretary — will prepare a basic welcoming pack. That welcoming pack usually, if you're a minister, includes the minister's code of conduct book and the relevant act, and also things like the minister's entitlements, administrative matters. But after that, in my case — in fact in my case it was worse — because I think, I don't know about others, but I think I had to represent the country and attend a meeting before I even took my oath. Because the oath was on a Monday, a working day. And coincidentally there was an OPEC meeting. OPEC meetings are always online, and they sometimes run until 2, 3 in the morning. So there was no minister, because the government had changed, and this OPEC meeting was chaired by Prince Abdul Aziz, who is the brother of Muhammad bin Salman. So it's a very high-powered meeting. So if there's no minister, the government would really panic. So I think they persuaded me, even though I hadn't taken the oath yet or something, that I had to attend. I was like, must I do this OPEC meeting? But I don't know about other people — my experience is that after taking the oath, you hit the ground running immediately.
 
@@ -283,7 +283,7 @@ It's just that this has started spreading to many countries, and I think in Euro
 
 **Rafizi:** I don't think—
 
-**Multiple speakers:** And why tug-of-war as the sport?
+**Farhan (Pa'an):** And why tug-of-war as the sport?
 
 **Rafizi:** I don't think Ustaz Syukri is friends with Abang Sado. Actually that's determined by each minister and chief minister themselves. So in my case before, for example, people really didn't like it because I gave absolutely no room to be celebrated or to celebrate becoming a minister — you hit the ground running. I'm the most anti-courtesy-visit person there is. I don't think there was any courtesy visit as a minister — "oh, congratulations on becoming minister" — I have a lot of work to do, I don't need that. Just send me an email. But usually, you also have to understand that when a politician becomes Chief Minister, minister, or even Prime Minister, that's the highest achievement in their career. So many people want to pay a courtesy visit, to offer congratulations, "we support you YB." And usually that depends on the chief minister or minister — they'll ask their office to arrange the schedule, and if their instruction is to prioritize this person's request for a courtesy visit, it turns out like this. It's just — what's the word — quite dramatic that of all the people wanting to pay courtesy visits, it's Abang Sado from the Tug-of-War Club. I can't go to Perlis after this.
 
@@ -309,7 +309,7 @@ It's just that this has started spreading to many countries, and I think in Euro
 
 **Rafizi:** It's fine, I don't know, let Iqbal do it. Give the honor to Iqbal. Among all of these, pick the most dramatic one.
 
-**Haziq:** Champion of the week.
+**Rafizi:** Champion of the week.
 
 **Iqbal:** The most dramatic one personally I think is the UMNO one — UMNO Puchong's. Beats Azam Baki.
 
@@ -375,7 +375,7 @@ So in the case of SRC and 1MDB, because of persistent questions and the peeling 
 
 **Rafizi:** Yeah, well, I think we were made for the time and the challenges of our time, and I think it's also — not really, and then, you know, it just so happened at the time. So for example we —
 
-**Iqbal:** There were people like me and Tony with —
+**Rafizi:** There were people like me and Tony with —
 
 **Rafizi:** That skill and experience. But to be fair too, I think we need to have trust in society because people like me and Tony Pua played our part in one segment of society, which is bringing it to the masses. But to be fair, there were also people like DH, the journalist, who actually quietly dug into it. So either way, for example, I would have imagined that even if Tony and I weren't there, journalists around Malaysia digging into stories about 1MDB, DH would have stumbled upon it and developed the story. Though most probably then a politician would pick it up from DH. So whether or not DH would be able to reach the masses — a different segment — that's debatable. But I'm sure once it reached the size of 1MDB, if not DH, Wall Street Journal would have done it. You cannot run away. It's not so much about myself, about Tony Pua, about other people. The sheer size — after all, by record, this is the largest financial scandal and embezzlement in the world. Once you reach that point, it will surface because if, for example, we were Reuters, or Wall Street Journal, or Bloomberg, or Al Jazeera now — it just doesn't make sense that it wouldn't. So the story would have run, and politicians would have picked it up.
 
@@ -383,7 +383,7 @@ So in the case of SRC and 1MDB, because of persistent questions and the peeling 
 
 **Rafizi:** You're referring to Dato' Seri Zahid, Dato' Sri Azalina, and then Datuk Khairy Jamaluddin. Then Datuk Tan Sri Azam Baki and all. PAS also spoke at one point.
 
-**Iqbal:** Oh, PAS was satisfied.
+**Rafizi:** Oh, PAS was satisfied.
 
 **Farhan (Pa'an):** And I think it also goes beyond that because there are several people within the professional world who also either turned a blind eye or allowed it — turned a blind eye or allowed it, the board of the company.
 
@@ -437,17 +437,17 @@ Maybe efforts like the Anti-Rent Seeking Act before — I don't think the Anti-R
 
 **Rafizi:** First, you have to define at what level something is rent seeking.
 
-**Iqbal:** What about a JV? What about a subcontractor?
+**Rafizi:** What about a JV? What about a subcontractor?
 
 **Rafizi:** Right, so you actually have to define it. You have to define what rent seeking is first. I mean, the general understanding is that rent seeking means you're profiteering without adding value.
 
-**Iqbal:** So in a corporate JV, for example — I get the tender, but I don't do anything, yet I get paid for everything.
+**Rafizi:** So in a corporate JV, for example — I get the tender, but I don't do anything, yet I get paid for everything.
 
 **Rafizi:** If 95% of the work is done by the company — it's quite obvious he's rent seeking, right? But if it's 70%, if it's 80%, if he says "I bring expertise because I know the Prime Minister, and that's my expertise" — so translating the concept we understand, the thing we're angry about regarding rent seeking, into codified law is not that straightforward. And we've checked with many countries — there's no specific Anti-Rent Seeking Act; it exists in different parts across different laws, and so we wanted to put it together. But I could feel from the start the resentment and resistance regarding anti-rent seeking. And I think it's quite universal because it would change the status quo 100%. It's not just within government, but businesses too — because the old way of doing business, with brokers, middlemen, "Alibaba" arrangements and so on, wouldn't be allowed anymore.
 
 **Farhan (Pa'an):** But I remember that public reaction — this has been an issue for a long time.
 
-**Rafizi:** Yes, that's true, that's true. Can we—
+**Farhan (Pa'an):** Yes, that's true, that's true. Can we—
 
 **Farhan (Pa'an):** Maybe, maybe. I remember the public reaction to the Anti-Alibaba Act was quite positive.
 
@@ -535,7 +535,7 @@ However, even if eventually PAS and Bersatu, and PN, are reconciled and they agr
 
 **Rafizi:** Don't ask me more. I don't want to be asked. You pay me, right. I'll only say what I want to say about this data. Everything else, please pay. Subscribe.
 
-**Haziq:** So, so, so please subscribe, right.
+**Rafizi:** So, so, so please subscribe, right.
 
 **Rafizi:** To OnlyFin. So, among the figures within PN, the most sellable as Prime Minister of the PN coalition is Tan Sri Muhyiddin with the Malays. And that's the most important thing for them, because their core votes are Malay. So the Prime Minister candidate must be the one most popular with their core, which is Malays, right? And it's actually Tan Sri Muhyiddin. The other alternative, Dato' Seri Hadi Awang, actually by quite a distance. Dato' Seri Hamzah Zainuddin even further. So they don't have another candidate, you know. So if PAS and PAS leadership are watching, at the very least I've said it upfront — at least I'm helping you, right. So if they make that egoistic and emotional decision to replace Tan Sri Muhyiddin with someone else, then actually they will suffer a few percentage points with Malay voters, you know. That's one. More than that, among all PN leaders, if there's anyone with a slight edge among non-Malay voters, it's still Tan Sri Muhyiddin. So they're quite jammed, you know. That's what I mean, this is actually paralysis. So whatever they decide, it actually won't give PN doubled strength or new strength, because the alternative, for example — first, if they put Dato' Seri Hadi Awang, then they have to pay that price. That's not even counting that Bersatu will start fighting more and more, so it doesn't solve the problem, right. So the alternative, say they suddenly have a eureka moment: actually yes, our best person is still Tan Sri Muhyiddin, right — then Muhyiddin gets a moral victory, his gamble pays off. And who gets laughed at by the whole world? PAS. PAS will be angry, right. So, I mean they dig a hole and fall into the hole they dug themselves now.
 
@@ -559,11 +559,11 @@ However, even if eventually PAS and Bersatu, and PN, are reconciled and they agr
 
 **Rafizi:** Okay, I mean, that's enough for a C grade. To get an A, you have to explain a bit deeper than that. What is it? The absence of major scandal?
 
-**Haziq:** No, no, no, no, no, no.
+**Rafizi:** No, no, no, no, no, no.
 
 **Rafizi:** Moderate Malay?
 
-**Haziq:** No, no, no, no, no, no.
+**Rafizi:** No, no, no, no, no, no.
 
 **Rafizi:** Ummah unity. Okay, right, the most emotional, most emotive thing that causes fence-sitting Malays to support PN is ummah unity. We want to see Malays united because we must reclaim Malay power, right. So what they like is they see PN as harmonious — PAS and Bersatu are each willing to sacrifice for the sake of ummah unity. Unlike UMNO, which is willing to abandon this ummah unity for power, to get out of some case or whatever. That's what made PN appear more appealing to fence-sitting Malay voters. Now when it turns out like this — not anymore, right. That's why at the very least they will lose Malay votes. It's just, what happens to those Malay votes that become disillusioned that this PAS-Bersatu ummah unity is all just talk, then it turns out they're the same too — "we're like fools supporting 3, 4 years of ummah unity, ummah unity." So it's like that, right.
 
@@ -619,7 +619,7 @@ So, the whole world right now, because Romania, even though it's Romania, they a
 
 **Rafizi:** Yes, that difference. But actually, part of it — if you look at Argentina's experience, at least economically, Javier Milei — actually within 6 months you could already see the impact. Okay, so you don't even need to wait.
 
-**Iqbal:** It hasn't even been a year.
+**Rafizi:** It hasn't even been a year.
 
 **Farhan (Pa'an):** Javier Milei took a very—
 
@@ -627,7 +627,7 @@ So, the whole world right now, because Romania, even though it's Romania, they a
 
 **Farhan (Pa'an):** —extreme approach with his chainsaw and all. So maybe some people—
 
-**Iqbal:** When he became president, his stance wasn't—
+**Rafizi:** When he became president, his stance wasn't—
 
 **Rafizi:** It's just that his policy prescription is indeed extreme. But actually economically, by now people have a lot more confidence in Javier Milei. I myself was like, is this guy crazy or what? I mean, some of the things he said weren't actually some brilliant eureka moment, but to do it in Argentina — good luck, right? But he actually managed to do it, and in his case he actually won the subsequent election — his party won even bigger in the local election. So in Argentina's case, we didn't hear about Argentina needing a bailout — otherwise people would think there'd be a bailout, and there'd be protests on the streets, things burning and all. But I suppose within a few months, if things work out well, then you'll hear a lot more about Romania.
 
@@ -655,7 +655,7 @@ So, the whole world right now, because Romania, even though it's Romania, they a
 
 **Rafizi:** Well, Malaysia had a lot of wait-and-see. We first started seeing the economic impact from the market side — meaning Bursa was picking up, the ringgit was holding, then growth seemed to be more secure. We only started seeing this in 2024. So, I don't think you can make an apple-to-apple comparison, because timing matters too. When Dato' Seri Anwar became PM, November 2022, there were still doubts about COVID globally at that time. Then there was the issue of the strength of the dollar — the dollar was very strong, and all currencies weakened around the world. There's also the spillover effect of global food inflation on inflation overall. Whereas with Ilie Bolojan, he's become PM in the past 1-2 months, when there's a lot more economic certainty globally — people feel like the worst is over, it's just a question of whether we can grow. Slightly different. So I don't think you can make an apple-to-apple comparison because there are many factors involved.
 
-**Haziq:** Okay Webby, I think that's it. He's already, he's already scared of getting scolded by me.
+**Rafizi:** Okay Webby, I think that's it. He's already, he's already scared of getting scolded by me.
 
 **Rafizi:** 2 hours 52 minutes. 2 hours 52 minutes as well?
 
@@ -665,10 +665,10 @@ So, the whole world right now, because Romania, even though it's Romania, they a
 
 **Haziq:** We really aimed for it to be shorter this time, right? It really should have been shorter. Alright, good night. Happy New Year.
 
-**Iqbal:** No one's saying ho ho.
+**Rafizi:** No one's saying ho ho.
 
 **Rafizi:** Santa Claus has already gone back to sleep, right?
 
 **Haziq:** It's New Year, right? Yeah, New Year. Let's head back too. See you again next week.
 
-**Rafizi:** Same to all of you.
+**Farhan (Pa'an):** Same to all of you.

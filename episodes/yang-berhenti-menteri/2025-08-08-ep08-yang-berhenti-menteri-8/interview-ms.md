@@ -45,13 +45,13 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 # Interview (Bahasa Melayu)
 
-**Haziq:** Assalamualaikum dan selamat datang. Podcast Yang Berhenti Menteri sudah episod kelapan sekarang. Jadi kita ucapkan terima kasih kepada panelis jemputan kita pada hari ini, di samping saudara Rafizi seperti biasa. Dr. Irwan daripada Universiti Islam Antarabangsa Malaysia. Apa khabar, doktor?
+**Rafizi:** Assalamualaikum dan selamat datang. Podcast Yang Berhenti Menteri sudah episod kelapan sekarang. Jadi kita ucapkan terima kasih kepada panelis jemputan kita pada hari ini, di samping saudara Rafizi seperti biasa. Dr. Irwan daripada Universiti Islam Antarabangsa Malaysia. Apa khabar, doktor?
 
 **Speaker ?:** Baik, alhamdulillah.
 
-**Haziq:** Doktor, mungkin kita nak kenal sikit doktor sebab bila saya check doktor, apa siapa doktor, yang cuma saya jumpa dekat komen adalah ini pensyarah saya terbaik, sempoi. Ramai sangat pelajar UIA tiba-tiba dekat komen.
+**Rafizi:** Doktor, mungkin kita nak kenal sikit doktor sebab bila saya check doktor, apa siapa doktor, yang cuma saya jumpa dekat komen adalah ini pensyarah saya terbaik, sempoi. Ramai sangat pelajar UIA tiba-tiba dekat komen.
 
-**Prof Madya Dr Muhammad Irwan Ariffin:** Oh ya ke? MasyaAllah.
+**Rafizi:** Oh ya ke? MasyaAllah.
 
 **Haziq:** Kalau boleh.
 
@@ -63,7 +63,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Hadi saya kat UIA dulu, most probably sekitar, mungkin sekitar masa yang sama. Cuma dia buat, saya rasa dia buat computing lah. Mungkin ICT lah. Ha, dia buat ICT masa tu.
 
-**Haziq:** Doktor Ekonomi, mungkin bidang pengkhususan tu macam mana?
+**Rafizi:** Doktor Ekonomi, mungkin bidang pengkhususan tu macam mana?
 
 **Prof Madya Dr Muhammad Irwan Ariffin:** Okey, baik. Pengkhususan ni kadang susah sikit nak cakap. Setakat ini saya rasa jujurnya, saya masih belum jumpa — untuk kata saya pakar dalam bidang tertentu. Jadi saya masih meneroka pelbagai bidang ekonomi, termasuklah ekonomi Islam. Jadi apa-apa saja biasanya saya cenderung melihat diri saya sebagai pengajar yang serba boleh. Jadi apa-apa saja yang ketua jabatan bagi tu saya sauk sajalah. Saya cubalah sebab saya betul-betul suka belajar. Bunyi macam Malaysia betul.
 
@@ -79,7 +79,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Haziq:** Baik, saya buat kerja saya balik. Untuk ni lah lebih.
 
-**Rafizi:** Sebab dia perbualan kan, doktor.
+**Haziq:** Sebab dia perbualan kan, doktor.
 
 **Haziq:** Baik, baik. Tapi mungkin saya boleh mula lah. Okey, ni baru mula betul-betul, tadi tu selit je. Doktor, soal RMK ni daripada RMK pertama sampai RMK ke-13 — yalah biasanya kalau kita tanya ChatGPT satu baris bagaimana RMK ni berevolusi, dia daripada pertanian, nak basmi kemiskinan, kepada perindustrian. Jadi sekarang ni untuk RMK ke-13, untuk meringkaskan, apa beza dia dengan RMK sebelum ni? Apa mesej utama RMK kali ni sebenarnya?
 
@@ -103,7 +103,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Prof Madya Dr Muhammad Irwan Ariffin:** — dalam Al-Quran pun biasa, dalam surah Al-Hasyr contohnya Allah sebut, "وَالَّذِينَ جَاءُ مِن بَعْدِهِمْ يَقُولُونَ رَبَّنَا اغْفِرْ لَنَا وَلِإِخْوَانِنَا الَّذِينَ سَبَقُونَا بِالْإِيمَانِ." Maknanya Allah sebut bahawa generasi-generasi akan datang ni, kalau orang-orang beriman ni, dia akan mendoakan. Maknanya dia kenang dengan baik generasi terdahulu — maknanya mereka telah menyumbang, mereka telah berkorban. Sebab tu lah dia doakan supaya Allah ampunkan mereka kan, mak ayah kita, datuk nenek kita. Kerana apa? Sebab antara lainnya, perkara yang kita nikmati hari ini hasil daripada perbuatan mereka. Jadi kita juga kena fikir. Sebab tu saya rasa kita kena mungkin boleh gunakan juga nilai-nilai yang dah ada dalam agama. Saya percaya perkara ini universal — sebab kita tengok secara budaya generasi kita, apa kita dapat lihat generasi ibu bapa kita terdahulu, mereka sanggup berkorban untuk kesenangan anak-anak. Jadi kenapa tidak — maknanya masyarakat kita ni telah pun dididik dengan nilai-nilai untuk sanggup berkorban dengan masa depan. Jadi cuma kita nak kena kaitkan, contohnya macam rasionalisasi subsidi ataupun rasionalisasi subsidi petrol. Bila adanya subsidi daripada kerajaan, kita tahu dalam teori ekonomi ia akan mengherotkan harga — maknanya harga yang dibayar tu tidak mencerminkan kos sebenar. Dan bila harga tu murah, ia sebenarnya akan membawa kepada penggunaan berlebihan. Bila kita gunakan berlebihan, ketersediaan petrol untuk generasi akan datang akan berkurang. Jadi sekiranya itu berlaku, generasi akan datang mungkin tidak dapat sebenarnya menikmati kesenangan seperti mana yang kita nikmati pada hari inilah. Jadi ia sepatutnya kembali kepada cara kita berfikir. Saya rasalah itu penting sebenarnya untuk mengubah pemikiran. Kalau kita kaji Al-Quran, contoh sebagai Muslim, Allah sentiasa mengingatkan kita untuk fikir manfaat jangka panjang kita. Kadang-kadang tidak mengapa untuk berkorban jangka pendek kerana lebih penting awak kena fikir kesejahteraan awak pada masa depan dalam jangka panjang. Jadi sepatutnya perkara itu kita kena fikir — kesejahteraan tidak sepatutnya berhenti apabila kita mati, tetapi ia sepatutnya meneruskan legasi kita kepada generasi akan datang lah.
 
-**Rafizi:** Saya rasa itu antara pendekatan berani yang saya nampak.
+**Prof Madya Dr Muhammad Irwan Ariffin:** Saya rasa itu antara pendekatan berani yang saya nampak.
 
 **Prof Madya Dr Muhammad Irwan Ariffin:** Jarang adalah kerajaan ataupun ahli politik yang sanggup — macam mana yang YB sebutlah, 2 tahun lagi nak pilihan raya pun, tapi sanggup mengambil risiko. Jadi ini antara yang saya secara peribadi benar-benar berikan penghargaan. Saya tahu ia tidak popular, memang tak popular, tapi kita kena tahu bahawa kadang-kadang kita kena tahan kesakitan demi manfaat masa depan lah.
 
@@ -111,7 +111,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Prof Madya Dr Muhammad Irwan Ariffin:** Nanti kalau saya bagi jawapan, mungkin saya pun akan sertai kumpulan jugalah, akan kena ni jugalah. Takpalah.
 
-**Rafizi:** Sekurang-kurangnya saya bukan ahli politik.
+**Prof Madya Dr Muhammad Irwan Ariffin:** Sekurang-kurangnya saya bukan ahli politik.
 
 **Prof Madya Dr Muhammad Irwan Ariffin:** Cuma mungkin cara — pendapat peribadi saya lah. Mungkin cara bila awak berikan cadangan awak, awak sebut tentang nombor, umur, mula sekolah awal dan kemudian bersara pada 65. Mungkin daripada semata-mata memberitahu nombor, mungkin awak boleh tekankan apakah sebenarnya kandungan ataupun input tersebut. Kenapa? Kenapa perlu mula lebih awal dan tamat lebih awal?
 
@@ -129,7 +129,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Sebab macam yang Haziq kata — pada pandangan saya, ambil masa untuk buang kebolehpasaran ini kan. Maksud saya tak ada gunanya memberitahu orang kita ada universiti yang hebat, yang kebolehpasarannya 98%. Sebab kalau pakai kebolehpasaran, underemployment masih dikira sebagai berjaya — asalkan ada kerja. Sama ada buat kerja jaga kaunter atau apa, masih lagi ada kerja kan? Yang kita mahukan seterusnya ialah kalau keluar sebagai jurutera, mesti dapat kerja yang betul dengan jalur gaji yang betul. Sebab itu kalau tengok dalam RMK, sasaran negara sekarang menjelang 2030 kita ada 72% saya rasa graduan yang mesti ada pekerjaan yang sepadan. Jadi untuk mereka yang bertanya — kami belajar bersusah payah, tak dapat kerja semua — bukannya perkara itu tercicir. Memang bila kita dah tahu bahawa kalau kita tak selesaikan masalah underemployment ini pun, ya, ia tidak akan mencapai sasaran.
 
-**Prof Madya Dr Muhammad Irwan Ariffin:** Baik, baik, baik. Jadi?
+**Rafizi:** Baik, baik, baik. Jadi?
 
 **Rafizi:** Lepas ini pensyarah semua akan dapat KPI baru, sebab akan ditapis daripada KPT.
 
@@ -145,7 +145,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Ya kan? Memang sebenarnya itu arahan saya. Saya baca semua RMK yang lepas-lepas, saya tahu kamu tulis sampai 500 muka surat ini, kesian kamu tulis panjang, orang tak baca. Jadi kita memang nak ringkaskan dan hanya fokus pada perkara-perkara penting. Sebab itu ada beberapa muka surat yang pada pandangan saya sebenarnya tak perlu baca semua, bagi orang yang nak baca RMK itu. Saya ingat dalam berapa — dulu dalam dekat 200 muka surat, saya rasa arahan saya dulu jangan lebih 200 muka surat. Yang penting ada satu rumusan — ada satu, kalau ringkasan, dokumen ringkasan dalam 10 muka surat itu. Muka surat terakhir ada ringkasan dalam satu gambar rajah, itu yang penting. Kalau pun tak baca keseluruhan, saya minta yang lain pergi muat turun, baca dulu. Sebab kembali kepada apa yang Prof kata tadi kan, satu diagnosis utama dalam RMK13 ini ialah kekecewaan kerana kegagalan kerajaan dan negara untuk memberi peluang mobiliti sosial. Itu sebenarnya sangat berbahaya kepada negara, terutamanya kepada generasi muda, dan tidak boleh marah mereka. Sebab zaman kami, agak pro-muda sedikit — zaman saya dulu kan, itu yang saya selalu cakap. Kenapa ada istilah "berkolok gadai" dalam bahasa Melayu ini kan? Sebab zaman dulu, termasuklah zaman saya membesar, awal 80-an semua kan — keluarga akan sanggup jual tanah, jual lembu, gadai semua. Zaman itu tak ada PTPTN pun tak ada, pinjaman pun tak ada — nak masuk universiti kena bayar yuran, beli semua kan. Dan itu satu beban besar, terutamanya kepada keluarga biasa. Tapi ibu bapa akan sanggup buat apa saja, dan anak-anak akan belajar bermati-matian sebab mereka tahu jika cemerlang di sekolah, kemudian jika ke universiti, bukan sahaja hidup mereka akan jadi baik, mereka akan berjaya menjaga keluarga dan meningkatkan kehidupan ibu bapa. Itu bukan lagi keadaannya sekarang. Dan kerana itu, ia menghasilkan generasi yang kita ada sekarang yang muda, yang seperti Prof sebut, nak salahkan mereka pun tidak boleh — kerana untuk berlaku adil kepada mereka, mereka dah buat semua yang patut mereka buat. Suruh dia buat SPM, dia skor. Kemudian pergi universiti, dia dapat ijazah, dia buat, dia keluar — keluar-keluar terpaksa bawa Grab. Kan? Fenomena itu adalah hasil rangkuman cabaran dan sebahagiannya kegagalan kerajaan, sistem kita dan juga masyarakat kita untuk memastikan ada mobiliti sosial. Jadi, itulah diagnosisnya. Sebab itu tunjang kedua ialah bagaimana dalam tempoh 5 tahun akan datang ini kita nak mengembalikan prospek mobiliti sosial itu dalam masyarakat.
 
-**Haziq:** Okey, nah YB, cuma saya —
+**Prof Madya Dr Muhammad Irwan Ariffin:** Okey, nah YB, cuma saya —
 
 **Prof Madya Dr Muhammad Irwan Ariffin:** Sila teruskan, mahukan semangat itu. Bila YB sebut mobiliti sosial, ya, memang kita nampak pendidikan akan menjadi kunci utama untuk sebenarnya memecahkan apa jua kitaran kemiskinan ini. YB telah menekankan pendidikan. Cuma mungkin satu perkara yang mungkin kalau YB boleh jawab — nampaknya kita dapat lihat bahawa ia seakan tidak simetri, tidak seimbang antara pertumbuhan ekonomi dengan gaji kita. Ha kan? Cuma bila saya tengok dalam RMK13 ini, ada — beberapa perkara yang YB alamatkan tentang gaji, upah semua ini. Tetapi mungkin itu belum cukup untuk memastikan pergerakan — sebab itu pun saya rasa antara yang generasi muda akan perhatikan, dalam laporan-laporan apa jua, KDNK kita macam sangat baik, inflasi seakan terkawal, negara kita kaya, maju, hasil banyak — tapi pergerakan gaji itu degil, tak nak bergerak. Jadi mungkin YB boleh —
 
@@ -157,7 +157,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Prof Madya Dr Muhammad Irwan Ariffin:** Mungkin saya nampak juga, tadi YB sebut struktur kan — cuma mungkin kita juga boleh fikirkan kita boleh turut menunggang budaya kita. Sebab dari kecil kita telah pun tahu dalam agama kita Islam, kita ada sektor ketiga. Saya rasa ini sesuatu yang unik kepada kita. Cuma memang ada — ini sesuatu yang unik kepada kita. Maknanya, kebanyakan sudah tentu RMK13, banyak petunjuk-petunjuk, ini pada asasnya kita ambil daripada Barat. Cuma mungkin dari segi rangka kerja Barat, sektor ketiga yang berasaskan sukarela, aktiviti filantropik mungkin kurang dinilai di sana. Tetapi dalam budaya kita ini, dari kecil kita memang sering dididik — kita perlu sentiasa tolong orang, bersedekah, filantropi semua ini, sukarela. Jadi mungkin kalau perkara ini — macam saya tahu ia ada dalam RMK13, bagus ia diletakkan di situ — tetapi mungkin ini alternatif yang sangat baik yang sebenarnya boleh melengkapi, seperti yang YB sebut tadi, untuk perkasakan semula gaji setimpal, semua peluang pekerjaan ini. Kenapa tidak, berbanding biar terbeban kepada — saya tengok pun cantik pembahagian sumbernya: 70 lebih kurang awam, 20 daripada swasta, dan 10 lagi kerjasama antara kedua-duanya. Jadi mungkin — PPP.
 
-**Rafizi:** Ya, daripada dibebankan kepada 70 itu, memandangkan kita —
+**Prof Madya Dr Muhammad Irwan Ariffin:** Ya, daripada dibebankan kepada 70 itu, memandangkan kita —
 
 **Prof Madya Dr Muhammad Irwan Ariffin:** — pun ini, cuma saya rasa perkara ini sedikit sebanyak tidak dilaporkan dengan betul, dan kadang-kadang, alhamdulillah, sekarang dah makin mendapat perhatian. Tetapi mungkin kita boleh sebenarnya menunggang ini — saya rasa ini adalah kekuatan yang jitu, filantropi ini kan, wakaf atau zakat. Saya rasa dalam budaya-budaya lain pun memang kita ini dididik untuk sentiasa bertimbang rasa, bantu orang lain yang lebih susah dan sebagainya.
 
@@ -181,7 +181,7 @@ Tetapi apa yang kami berjaya lakukan dengan RMK-13 ialah, sekurang-kurangnya, ke
 
 **Rafizi:** Bantuan langsung. Kerana, apa nama ni, secara psikologi, keluarga muda bila mereka nak berkahwin dan sudah ada anak, mereka tidak kira apa yang diberikan dalam bentuk in-kind ini. Mereka kira gaji aku 3000, 4000 sebulan, tolak untuk anak ini, tolak, tolak, aku tak boleh makan. Jadi sebenarnya insentif tunai, pada pendapat saya, Prof, adalah penting — sebab sebahagian daripada beban boleh kita alihkan daripada penyediaan perkhidmatan universal, terutamanya penjagaan kanak-kanak, sekarang ini. Prasekolah itu saya harap mereka akan buat — benda itu sudah ada dalam rancangan ini, jangan cuba-cuba konon selepas ini. Tetapi walaupun begitu, untuk adil kepada keluarga, sebenarnya benda seperti lampin, contohnya, pampers, susu — mahal. Dan ini sebenarnya, kalaulah ada bantuan anak, RM100, RM300 sebulan semua — walaupun ia tidak akan membantu 100%, sekurang-kurangnya kita mengelakkan — melembutkan sedikit.
 
-**Prof Madya Dr Muhammad Irwan Ariffin:** Ia mengelakkan halangan psikologi itu yang sudah—
+**Rafizi:** Ia mengelakkan halangan psikologi itu yang sudah—
 
 **Rafizi:** Berlaku di negara lain, yang mana — ia tidak menjadikan orang membuat analisis kos manfaat, "ada anak ini memang tidak menjadikan kehidupan viable," maka habislah.
 
@@ -255,7 +255,7 @@ Saya tidak tahu, sepatutnya perlu tanya Prof, dia guru, bukan saya. Saya dahulu 
 
 **Rafizi:** Kemudian ambil satu lagi contoh, terutamanya berkenaan cip ini — tarif 100%. Trump memang berterus terang, dia menganggap dirinya sebagai pembuat perjanjian. Lihat minggu ini, dia umumkan tarif 100% kepada cip, tetapi Apple tidak terkena, sebab Apple sudah umumkan pelaburan 100 bilion dolar untuk membawa balik operasi ke tanah air, membawa balik kilangnya. Kita ambil contoh FDI atau pengeluar cip yang kita ada, Intel ke, AMD ke — adakah mereka akan meneruskan pengembangan FDI yang kita sudah umumkan itu? Sukar hendak dijawab kan?
 
-**Prof Madya Dr Muhammad Irwan Ariffin:** Susah lah itu.
+**Rafizi:** Susah lah itu.
 
 **Rafizi:** Tetapi katakan itu pun dia tidak buat, tetapi dia kata "tidak apalah kita relokasi balik ke AS."
 
@@ -263,11 +263,11 @@ Saya tidak tahu, sepatutnya perlu tanya Prof, dia guru, bukan saya. Saya dahulu 
 
 **Rafizi:** Jadi eksport kita yang paling besar ialah cip dan semikonduktor. Kemudian dia ada satu lagi dimensi baru — impak kepada eksport kita. Apabila eksport rendah, kita ada masalah imbangan dagangan, dan lengkaplah lagi kita punya defisit berganda tahu.
 
-**Prof Madya Dr Muhammad Irwan Ariffin:** Ha, defisit kembar.
+**Rafizi:** Ha, defisit kembar.
 
 **Rafizi:** Defisit dagangan pun terkena. Jadi sebenarnya semua perancangan cantik ini boleh dikorbankan oleh satu perkara di luar kawalan kita. Ini yang kita panggil eksternaliti. Sebenarnya apa jua yang Trump buat itu boleh — bukan melumpuhkan, tetapi memang boleh melunturkan semua perancangan baik yang ada. Seperti Prof kata, kita hanya boleh berharap yang terbaik.
 
-**Prof Madya Dr Muhammad Irwan Ariffin:** Cuma pandangan saya, okey —
+**Rafizi:** Cuma pandangan saya, okey —
 
 **Rafizi:** Agak lain sedikit maksudnya. Sudah tentu untuk jangka pendek, sekarang kita perlu buat yang terbaik, tetapi janganlah sampai kena buli demi meminimumkan impak. Tetapi saya rasa kita juga perlu belajar daripada negara China.
 
@@ -283,7 +283,7 @@ Saya tidak tahu, sepatutnya perlu tanya Prof, dia guru, bukan saya. Saya dahulu 
 
 **Rafizi:** Kerana asasnya kukuh. Asas negara dia kuat, dan asas kuat itu mempunyai beberapa kelebihan. Satu, rakyat dia ramai.
 
-**Prof Madya Dr Muhammad Irwan Ariffin:** Pasaran dia besar. Besarlah.
+**Rafizi:** Pasaran dia besar. Besarlah.
 
 **Rafizi:** Tetapi tidak boleh dinafikan, contohnya sistem pendidikan dia sangat baik. Penyelidik terbaik di dunia sekarang ini daripada China. Apabila Meta hendak ke hadapan dalam perlumbaan AI, dia menyusun pasukan impian jurutera AI — semua China, tiada masalah, contohnya. Mereka mampu buat begitu kerana mereka tahu dalam persaingan dunia akan terus bersaing. Tidak ada gunanya menangis, kasihan diri tidak membantu — "oh kesiankan kita, oh kita tidak jadinya." Mereka tahu mereka perlu terima hakikat, bina dan kemudian asas yang kukuh. Sebab itu setiap kali ada kitaran begini, dia navigasi dan sentiasa jadi lebih baik dan lebih baik. Kita perlu belajar begitu. Sebab itu, walau apa pun kesan tarif semua ini, jangan sampai tergelincir bab-bab reformasi pendidikan. Pelaburan untuk masa depan sangat penting, sebab ia juga ada kesan sampingan yang tidak dijangka. Ini penggal kedua Trump. Penggal pertama Trump, dia sudah memulakan perang tarif dengan China pun. Sebenarnya pemenang terbesar daripada perang tarif yang pertama itu ialah Malaysia, Thailand — kerana apabila dia menekan China, syarikat China datang melabur di sini. Sebab itu untuk tempoh 15 tahun lepas kita lihat pelaburan besar China. Jadi kita belum tahu lagi apa kesan sampingan positif yang tidak dijangka daripada perang dagangan kali ini kepada Malaysia. Cuma kita hanya akan dapat manfaatkan peluang itu kalau kita ada bakat yang tepat, kalau kita ada asas yang baik. Jadi apa pun caranya, bukannya kita boleh lari daripada beberapa perkara yang perlu dibuat. Ini kembali kepada apa Prof kata tadi, kepada adik-adik — belajarlah hidup susah, hidup ini memang keras. Jadi ia seperti tidak ada jalan lain. Kita memang terpaksa lalui beberapa perubahan yang mungkin tidak selesa, tetapi ini penting untuk masa-masa akan datang.
 
@@ -299,7 +299,7 @@ Saya tidak tahu, sepatutnya perlu tanya Prof, dia guru, bukan saya. Saya dahulu 
 
 **Rafizi:** Tetapi itu juga — ia ada bahagian yang tidak diperkatakan.
 
-**Haziq:** Banyaklah sebab RMK ini tinggi sebal kan?
+**Rafizi:** Banyaklah sebab RMK ini tinggi sebal kan?
 
 **Rafizi:** Ada satu bahagian, cuma saya perasan Datuk Amizam ada sebut. Ada satu perkara buruk saya di dalam RMK ialah sebenarnya ketelusan harga. Sebabnya — dan ini bukan fiskal, bukan cukai — ia sebenarnya kerana dalam rantaian bekalan dan rantaian nilai negara kita ini, tidak ada ketelusan harga. Orang kita faham soal ketelusan harga ini sebagai "jihad melawan peraih", "jihad melawan orang tengah" — itu cakap orang biasa. Tetapi ia berasaskan asas ekonomi yang sebenar. Oleh kerana kita tidak ada ketelusan harga, tidak ada dasar, tidak ada perundangan, tidak ada rangka kerja untuk memaksa ketelusan harga. Sebenarnya peniaga di tengah itu, ia kotak hitam, kawan-kawan. Bila sampai kepada kita, kita tidak tahu. Tanya dia, dia kata "ah pemborong naikkan." Tanya pemborong, pemborong kata, "ah, pengilang naikkan." Pengilang kata, "ah, saya kena bayar GST." Kita tidak tahu pun dia kena bayar SST atau tidak kan.
 
@@ -307,7 +307,7 @@ Saya tidak tahu, sepatutnya perlu tanya Prof, dia guru, bukan saya. Saya dahulu 
 
 **Rafizi:** Kalau bab nuklear itu ambisius sebab — tetapi bila orang kata 10 tahun untuk memasang nuklear, SMR, small modular reactor ini — sebenarnya 10 tahun itu termasuk contohnya pengesahan perjanjian antarabangsa. Selalunya proses kita kalau hendak sahkan semua akta perjanjian antarabangsa ini, ia mengambil 2-3 tahun. Tetapi saya fikir itu boleh dipercepatkan. Maksudnya dalam tempoh setahun sepatutnya kita sudah sahkan. Dan saya fikir mereka sudah cuba buat begitu kan. Jadi maksudnya kalau kita boleh potong daripada sebahagian proses kepada 2-3 tahun di sana sini, dan kemudian teknologi untuk SMR menjadi lebih baik — tetapi ia di atas kertas, ia sangat, sangat ambisius untuk berjaya memperkenalkan nuklear ke dalam campuran tenaga kita dalam tempoh 6 tahun daripada sekarang. Walaupun begitu, apabila kita kata memperkenalkan nuklear itu, sebenarnya ia tentang pembinaan keupayaan kita. Maksudnya kalau kita mahu, kita boleh buat dalam 6 tahun. Sebab akhirnya ia masih lagi perlu melalui proses yang melibatkan kebolehlaksanaan perniagaan — kalau kita perkenalkan, adakah nuklear itu ekonomik untuk campuran tenaga kita dan sebagainya kan.
 
-**Haziq:** Kita harap—
+**Rafizi:** Kita harap—
 
 **Rafizi:** Ia memenuhi kriteria ekonomi. Tetapi yang kita tidak mahu berlaku ialah — kita perlukan ia memenuhi kriteria ekonomi, tetapi kita tidak bersedia sebab semua infrastruktur tidak ada, undang-undang tidak ada semua kan? Jadi saya fikir beberapa tahun akan datang ini lebih kepada pematuhan semua itu. Jadi itu, awak tahu—
 
@@ -319,7 +319,7 @@ Saya tidak tahu, sepatutnya perlu tanya Prof, dia guru, bukan saya. Saya dahulu 
 
 **Rafizi:** Dan yang UIA itu, kalau saya pergi, jangan tutup pagar ya. Pengalaman saya kali terakhir mahasiswa UIA jemput saya tahun bila ah, 2015 ke 2016.
 
-**Haziq:** Naik motor kan?
+**Prof Madya Dr Muhammad Irwan Ariffin:** Naik motor kan?
 
 **Rafizi:** Saya tidak dibenarkan masuk sampai saya kena diseludup naik motosikal. Kemudian tengah-tengah bercakap, terpaksalah siapalah jadi mangsa, kena jadi hero masa itu — dia datang rampas mikrofon. Jadi selepas itu sampai sekarang saya tidak pergi UIA lagi. Kita sembang saya di podcast sahajalah lepas ini. Jadi kalau saya pergi UIA lain kali, janganlah tutup pagar.
 
@@ -327,7 +327,7 @@ Saya tidak tahu, sepatutnya perlu tanya Prof, dia guru, bukan saya. Saya dahulu 
 
 **Rafizi:** Tidak, tidak, tidak pernah.
 
-**Haziq:** Ha, tidak pernah ya?
+**Prof Madya Dr Muhammad Irwan Ariffin:** Ha, tidak pernah ya?
 
 **Rafizi:** Saya sebagai menteri tidak pernah pergi mana-mana universiti agaknya.
 

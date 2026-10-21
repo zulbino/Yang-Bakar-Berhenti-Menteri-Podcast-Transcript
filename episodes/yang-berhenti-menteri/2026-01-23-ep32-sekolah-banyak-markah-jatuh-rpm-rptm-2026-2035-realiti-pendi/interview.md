@@ -52,7 +52,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Haziq:** Alah, YB baru nak rahsiakan guest kita malam ni. Okey, tapi sebelum tu, YB.
 
-**Rafizi:** Ada berita mengejutkan.
+**Haziq:** Ada berita mengejutkan.
 
 **Haziq:** Tengok, tada.
 
@@ -68,7 +68,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Haziq:** Komplain daripada orang.
 
-**Rafizi:** Pihak-pihak tertentu.
+**Farhan (Pa'an):** Pihak-pihak tertentu.
 
 **Haziq:** Pihak-pihak tertentu, dari kalangan orang politik yang agak besar juga. Jadi saya fikir yalah dia.
 
@@ -122,7 +122,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Apa beza perbekalan dengan pembekalan?
 
-**Haziq:** Tak sempat nak Google.
+**Rafizi:** Tak sempat nak Google.
 
 **Rafizi:** Rasanya perbekalan tu "supply bill" — yang berkaitan dengan rang undang-undang perbelanjaan. Kalau dalam konteks beras, ini maksudnya pembekalan. Jadi keseluruhan rejim pembekalan beras yang ada di negara kita ini, satu komponen utamanya ialah Bernas. Bernas itu ditubuhkan di zaman UMNO dahulu. Jadi ada yang mengatakan monopoli pembekalan dan import beras oleh Bernas menyumbang kepada keadaan sekarang; ada yang kata kita perlukan persaingan; ada yang kata rejim mengawal harga yang ada ini sudah tidak lagi bersesuaian. Itu semua peninggalan UMNO. Jadi kalau nak melahirkan sentimentaliti pasal UMNO, janganlah sebut "bila UMNO hilang kuasa, beras tempatan pun hilang." Sebab ini dah dekat 10 tahun UMNO hilang kuasa, aku masih lagi belum kurus — maksudnya beras masih ada, masih banyak. Tak, aku tak boleh makan, dah kurus dah.
 
@@ -140,13 +140,13 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Farhan (Pa'an):** Dia diundang untuk hadir ke Perhimpunan Agung UMNO hari tu. Ada ura-ura kata dia akan buat comeback, ada yang kata masih lagi belum boleh comeback. Dia pun dalam dilema juga.
 
-**Rafizi:** Ya, dia pun dah dilema juga.
+**Farhan (Pa'an):** Ya, dia pun dah dilema juga.
 
 **Farhan (Pa'an):** Dilema juga.
 
 **Rafizi:** Tapi yang ini bukan pasal KJ, ini pasal Kian Meng. Kalaupun KJ jadi Perdana Menteri nanti, kalau UMNO menerima dan dia jadi PM satu hari nanti, saya rasa masih lagi berliku jalannya untuk melantik seorang yang tidak ada apa-apa kedudukan politik untuk jadi menteri. Tidak semudah itu. Jadi Kian Ming boleh terus berharap, tapi langkah-langkahnya banyak. Satu, KJ kena masuk UMNO dahulu. Kemudian dia kena jadi presiden UMNO. Kemudian UMNO kena menang pilihan raya. Dan kemudian bila pun UMNO dah menang pilihan raya, dan kalau ditakdirkan saudara KJ jadi PM, dia kena cross the final hurdle iaitu mengambil seseorang yang tidak ada, atau bekas ahli politik yang sudah tidak lagi ada base politik, untuk menjadi menteri. Tapi saya tabik kerana beria-ia melobi — orang kata "hedging." Ini namanya hedging, melabur di masa akan datang dalam segala ketidaktentuan yang ada. Pelabur awal.
 
-**Haziq:** Pelabur awal. Ini memang pelabur awal ni.
+**Rafizi:** Pelabur awal. Ini memang pelabur awal ni.
 
 **Rafizi:** Kalau dalam startup, ini kira angel investor betul-betul. Belum ada kertas cadangan, pitching deck semua, dia dah sign check dah. Bagus.
 
@@ -194,9 +194,9 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Tak ada.
 
-**Haziq:** So tiba-tiba je lah.
+**Farhan (Pa'an):** So tiba-tiba je lah.
 
-**Farhan (Pa'an):** Tiba-tiba je lah. Tanyalah pandangan ahli-ahli parlimen.
+**Rafizi:** Tiba-tiba je lah. Tanyalah pandangan ahli-ahli parlimen.
 
 **Rafizi:** Kalau tidak pun, mungkin bincanglah dulu di jawatankuasa — jawatankuasa pilihan dengan ahli-ahli parlimen ini, kan. Memang betul speaker bertanggungjawab kepada parlimen, tetapi kuasa speaker itu datang juga daripada pilihan ahli-ahli parlimen. Dan parlimen itu ada jawatankuasa-jawatankuasa tertentu, jawatankuasa majlis, jawatankuasa yang menetapkan peraturan semua tu. Kalaupun akhirnya ia menjadi keputusan speaker, sepatutnya paling kurang lah tanyalah pandangan-pandangan ahli parlimen, kan. Sebab kami daripada PKR yang back benches ni, kami tak setuju — cakap terus terang.
 
@@ -254,7 +254,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Okey, Trump mula dia kata dia nak takluk. Kemudian dia nak annex. Kemudian dia nak beli. So apa yang berlaku selepas itu? NATO.
 
-**Haziq:** Letih ha, nak datang lain kali. NATO tak setuju.
+**Rafizi:** Letih ha, nak datang lain kali. NATO tak setuju.
 
 **Farhan (Pa'an):** Memang aku tanya. NATO tak setuju. European Union offload a lot of the US treasuries, if I'm not mistaken.
 
@@ -284,7 +284,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Ha, orang akan kata lepas Covid — "itu Covid" sebenarnya. Sebab itu budak-budak kan. Jadi kita tengok sejak education blueprint ini dibuat dalam tempoh 15 tahun itu, kalau tengok keputusan kita, tak berganjak. Mula-mula sekali Malaysia menyertai tahun 2009, nak masuk 2010 — membaca 414. Kemudian 2012 dia makin teruk, 398. 2015 tu angka itu dipersoalkan kerana sampling — ha, sebab itu tiba-tiba nampak melonjak daripada 398 dia melonjak ke 431, tetapi OECD mempersoalkan kerana masalah sampling. Dia rasa mungkin kita pandai sikit — kita pilih sample yang cerdik-cerdik semua, jadi sample itu mungkin tidak representative. Jadi angka itu dalam laporan rasmi OECD PISA, dia put that note — it's not comparable because of sampling difficulty. Kemudian tengok sebelum COVID pun tak berbeza selepas hampir 10 tahun, 8-9 tahun education blueprint ni — lebih kurang untuk membaca tu sama je, 414, 415. Maths naik sikit, 404, 440. Sebab-sebab inilah buat "kebat tak kebat" ni — sebab masa buat education blueprint, masa buat PISA semua, dirasakan budak kita rote learning, tak ada kemahiran berfikir aras tinggi, tu yang keluar KBAT tu. Tapi lepas Covid, dia merudum balik. Dan kalau ikut laporan, loss of learning — maksudnya untuk pelajar-pelajar kita selepas Covid tu, akibat Covid tu, saya ingat, bersamaan dengan hilang 4 tahun masa belajar. Maksudnya begini — bila dibandingkan pelajar kita dengan pelajar Singapura pada umur tertentu, bezanya tu 4 tahun akibat daripada Covid. Tu nak tunjukkan parahnya keadaan kita. Jadi, Radzi Din contohnya — janganlah kerana saya selalu hentam Fadhlina, itu tak bermakna Radzi Din lagi hebat. Nak kata Maszlee Malik pun masa zaman dia pun tak banyak beza sangat. So ini untuk PISA. Okey, next kita tengok TIMSS. Selain daripada PISA, kita ada satu lagi indicator dipanggil Trends in International Maths and Science Study. Yang ini fokus kepada maths and science, gred 8, saya ingat 14 tahun macam itu. Dia dibuat oleh satu badan dunia namanya International Education Assessment (IEA). Ini keputusan terakhir kita, saya ingat TIMSS 2019 — parah juga, parah. Dengan Singapore beza sampai 150 mata. Japan, jauh lah kan. Okey, next. So penonton-penonton bersabar ya — kita sebelum kita nak komen, jangan kita main komen saja, kita kena tengok angka dan datanya menunjukkan apa. Ini compare semua.
 
-**Haziq:** So ini sebenarnya untuk menunjukkan di mana kita, benchmarking kita dan juga mutu kita. Bar yang paling atas tu antara mata 500 ke 520, itu adalah sasaran NEB, National Education Blueprint 2010-2025, iaitu perlu berada dalam 30% teratas.
+**Rafizi:** So ini sebenarnya untuk menunjukkan di mana kita, benchmarking kita dan juga mutu kita. Bar yang paling atas tu antara mata 500 ke 520, itu adalah sasaran NEB, National Education Blueprint 2010-2025, iaitu perlu berada dalam 30% teratas.
 
 **Rafizi:** Kalau kita ada dalam band tu, maksudnya kita dah capai sasaran lah. Ke laut kita ha. Jauh mo. Kan. Kemudian, bar yang kedua itu antara 470 ke 490 lah lebih kurang, itu adalah purata markah PISA satu dunia. Maksudnya apa? Bukan sahaja kita tersasar dari segi sasaran kita, kita ni below average. Kan. Jadi saya harap, saya tahulah bila saya sebut ni akan ada yang hentam betul-betullah. Ada orang kata cikgu-cikgu marah dekat YB Rafizi sebab dia macam menghina cikgu. I mean we have to accept this fact lah. Dan masa saya Menteri Ekonomi dulu, antara yalah perbincangan panjang kita ialah tadi masa sebut soal macam mana kita nak melonjakkan ekonomi. Produktiviti kita tu nak naik macam mana kan. Itu semua bergantung kepada modal human capital kita. Dan human capital kita ialah otak. Dan otak kita ialah sekolah. With this number, kita akan ada masalah. And we have to accept, it's clear yang kita below average. Dan bukan sahaja kita below average, kita makin menurun, dan tahun 2015 yang naik itu pun dipersoalkan. Kan? Kalau tak, 2015 tu sampling tu dipersoalkan, dia naik sikit sampai 2018, lepas tu dia turun-turunlah kan. Dan Covid ada kesan yang besar pada kitalah. Ini adalah fakta dan realiti yang kita kena terima, yang saya harap Menteri Pendidikan, pimpinan institusi pendidikan kita, guru-guru — kita kena terima hakikat bahawa mutu kita ini akan ada kesan yang besar kepada negara di masa akan datang. Kita dah mula nampak pun kesan itu. Tapi kita tak boleh bercakap pasal pertumbuhan ekonomi, nak jadi negara maju kalau kita tak fokus kepada perkara inilah kan. Okey, next slide.
 
@@ -296,7 +296,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Okey, dekat Lembah Klang gilalah kan? Ada yang 50, 40. Tapi kalau kat kawasan luar bandar, sekolah-sekolah lain? Saya tak pasti.
 
-**Farhan (Pa'an):** 30 macam tu.
+**Haziq:** 30 macam tu.
 
 **Haziq:** Tu pun banyak.
 
@@ -312,15 +312,15 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Ya, dalam bahasa ekonomi maksudnya it's not about spending tau, it's about efficiency. Maksudnya kita berbelanja dengan tidak berkesan. Dia akan ada banyak konotasi lah kan. Yang ini yang bagi sayalah — okey, nak kena sentuh Fadlina sedikitlah, kan. Ini mungkin sebab saya dilatih sebagai engineer, jadi cara kita berfikir dan melihat kepada sesuatu soal masalah ataupun problem solving itu lebih methodical kan. So kalau soalannya ialah soal efficiency, kecekapan berbelanja dan pelaksanaan, dia ada beberapa perkara pokoklah. Spending efficiency mungkin bermakna kita berbelanja pada harga yang mahal untuk mendapat sesuatu — sekolah yang sepatutnya 20 juta, kita belanja 40 juta. So oleh kerana spending itu habis pada harga yang lebih mahal, spending is not efficient. It takes away the resources daripada perkara-perkara yang lebih diperlukan — contohnya mungkin latihan guru, mungkin bahan bantuan pengajaran, mungkin internet access yang bagus kan? Sebab itu spending efficiency is something that we need to have a landing. Tapi sepanjang 2 tahun setengah saya dalam kerajaan, kemudian sekarang sebagai backbencher — pernah tak kita dengar daripada Menteri Pendidikan menyentuh mengenai spending efficiency? Tak ada. Kalau ceplos-ceplos ni pun, bila saya kritik Fadlina, dia akan tweet dan cuba sebarkan bagusnya Menteri Pendidikan — sebanyak berapa ratus juta sekian-sekian telah dibelanjakan, ini ratus juta sekian-sekian. When we know, having gone through the details, it's not about the absolute amount, it's not about what is being spent — it's about spending efficiency. Dan menjadi Menteri Pendidikan itu, if you want to make sure that every single ringgit is spent efficiently supaya you get the result, you cannot run away from spending efficiency. So perkara itu tak disentuh langsung. Saya ada hantar soalan dekat parlimen mengenai spending efficiency, tapi perkara-perkara infrastruktur lah, perkara-perkara physical. I hope she will answer it properly lah, give me the data. Because saya bukan nak tembak saja. I actually want to see perbincangan and discourse about spending efficiency. Because all this is staring right at us. So that's one, spending efficiency kan? Tapi katakanlah spending efficiency semua okey — kalau Kementerian Pendidikan kata, memang kita belanjakan cukup bagus, kalau markah itu ialah RM5, memang RM5 kita belanjakan, tapi result masih lagi macam ni. Maksudnya apa dia? The syllabus. Maksudnya kaedah, cara kita mengajar, syllabus and so on lah. Which brings me to the last slide. Okey, yang ini saya baca masa PLM ini — apa nama ni, dia panggil apa ni, learning matrix kan? Learning matrix. P stands for what? Tak nampak dah. Preliminary. Tak, kejap.
 
-**Farhan (Pa'an):** Nampak ke? Tak nampak. Bolehlah Google eh.
+**Rafizi:** Nampak ke? Tak nampak. Bolehlah Google eh.
 
 **Rafizi:** Okey. Ini adalah satu lagi benchmarking serantau yang dibuat oleh UNICEF eh. Pri— Primary Learning.
 
-**Farhan (Pa'an):** Primary Learning Metrics, not Preliminary eh.
+**Rafizi:** Primary Learning Metrics, not Preliminary eh.
 
 **Rafizi:** PLM, dia sama lebih kurang macam PISA jugalah, tapi dia di rantau Asia Tenggara ini. 6 negara tu, YB.
 
-**Haziq:** Ah, dan dia 6 negara ni je yang turut serta.
+**Rafizi:** Ah, dan dia 6 negara ni je yang turut serta.
 
 **Rafizi:** Indonesia tak join, Singapore tak join kan. You know, bila Singapore tak join kan, aku rasa macam Singapore menghina kita je. Because dia kata I'm not in your league. Dan fakta bahawa Malaysia ada kat sini, maksudnya Malaysia sedar diri bahawa we are in the league of Cambodia, Laos, Myanmar, Philippines, Vietnam. Dan negara-negara seperti inilah kan. Thailand pun tak join kan. So ini yang terbarulah, 2024 eh. Panjanglah juga report dia — tak banyak beza daripada PISA dengan TIMSS lah. Tapi satu perkara yang paling penting, dan benda ni disiarkan dalam 2 bulan lepas kan — bulan November kan. Saya tunggu tau supaya dia meletup menjadi isu besar di negara. Tak meletup. Jom meletup kan. Ha, so kita tunggulah bila kita nak bentangkan dekat podcast ni kan. Tapi kita tunggu masa yang sesuai lah. Daripada bercakap semata-mata untuk buat isu on its own, now I think is a good time untuk conclude eh. Cuba kita tengok jumlah jam yang diperuntukkan untuk pengajaran matematik eh. Negara yang berlainan, dia ada tempoh masa pendidikan rendah yang berlainanlah — semua 6 tahun kecuali Vietnam tau, Vietnam 5 tahun dah habis sekolah rendah eh. Kemudian dia campurkan semua jumlah jam pengajaran sepanjang tempoh sekolah rendah tu kan. Kita tengok Cambodia 4100, kemudian Laos 4400. Malaysia, sepanjang 6 tahun belajar itu, murid-murid akan melalui 4800 jam jumlah pengajaran. Apa yang penting sekali? Cuba tengok — saya tengoklah ada 2, 3 orang pakar-pakar pendidikan yang melontarkan isu ini, tapi dia mati macam tu je. Keluar satu report, mati — tak diambil oleh ahli politik, apatah lagi oleh Kementerian Pendidikan. Perdana Menteri pun tak komen kan. Sedangkan bagi saya ini adalah perkara yang cukup penting because it goes right into the heart of reform. Kita dah tengok dari segi sumber mencukupi — okay, you can question about spending efficiency. Tapi yang ini yang ibu bapa cakap-cakap ada pandangan yang berbeza-beza tapi tidak pernah dibawa ke peringkat nasional untuk tunjukkan with a figure that sebenarnya kita ada masalah. Cuba tengok jumlah jam pengajaran matematik — kita paling corot di rantau ini. Berapa peratus tu je? Tak sampai 20%.
 
@@ -328,9 +328,9 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Maksudnya pelajar-pelajar darjah 1 sampai darjah 6, kita duk sibuk cakap AI, artificial intelligence, nak buat. Kita duk sibuk cakap pasal STEM. Pelajar sekolah rendah kita 16% je dia melalui pengajaran mathematics. Sains kita tak boleh nak bandingkan kerana sains tu dimasukkan dalam other domain hours tu. Dia sebenarnya mengukur 3 kategori — dia mengukur bahasa, pengajaran bahasa PLM ni, dia mengukur maths. Tapi sains tu dimasukkan di bawah other domains, maksudnya subjek-subjek lain lah. So, yalah kita 16% saja maths. Macam mana kita nak skor PISA? Macam mana kita nak melahirkan lebih banyak engineers, lebih banyak orang yang boleh mencipta, ada inovasi semua, kalau asas mathsnya itu begitu rendah? Dan sains itu asasnya adalah maths. You tak boleh belajar physics kalau your maths is weak. Chemistry pun ada maths. Okey, bio maybe kurang sikit lah kan. But these two core subjects, let alone engineering — engineering is all derived daripada physics yang asasnya adalah maths. So by looking at angka-angka ini, kita tahu memang kesian kat budak-budak ni, asasnya memang tak cukuplah, kan. Jadi kita dah tengok semua tu, maka now kita nak masuk perbincangan pasal RPM lah. Sebab kita tak guna nak bincang pasal rancangan pendidikan Malaysia, pasal umur 6 tahun semua ni, kalau kita tak bermula dari segi where we are now. Diagnosisnya ialah where we are, dan kita tahu kita spend banyak macam orang lain. Cikgu kita ratio banyak macam orang lain. Sekolah banyak macam orang lain. Average class bagus macam orang lain. Satu-satunya yang kita corot daripada orang lain ialah dari segi syllabus. Maksudnya mata pelajaran kita, subjek-subjek kita tidak menekankan, tidak cukup untuk mathematics, dan saya pasti untuk STEM, untuk science, untuk engineering pun memang kalau dibandingkan dan dipecahkan, saya pasti dia juga akan lebih corot daripada negara-negara lain. The fact that kita lagi corot daripada Cambodia and Laos is a national embarrassment.
 
-**Haziq:** Baik, YB. Kau sembang je, aku nak minum air, penat.
+**Rafizi:** Baik, YB. Kau sembang je, aku nak minum air, penat.
 
-**Rafizi:** Haziq, masa sekolah dulu banyak belajar sains dengan maths tak?
+**Farhan (Pa'an):** Haziq, masa sekolah dulu banyak belajar sains dengan maths tak?
 
 **Haziq:** Kena belajar lah sebab ada. Tapi tu lah memang masa tu kita faham lah kan subjek non-STEM line tu lebih banyak.
 
@@ -346,7 +346,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Haziq:** Dan mungkin bila disebut RPM ini, ramai yang kaitkan dengan RMK ke-13 sebab banyak benda-benda yang—
 
-**Rafizi:** Ceplos tak, ceplos tak. Oh, kata bukan.
+**Haziq:** Ceplos tak, ceplos tak. Oh, kata bukan.
 
 **Haziq:** Bukan.
 
@@ -440,19 +440,19 @@ Saya tanya soalan: satu bilik darjah ni, Kementerian Pendidikan belanja secara p
 
 **Rafizi:** Kita dah lama mana? Rasa lama. Kita dah 2 jam 25 minit.
 
-**Haziq:** Ha, okey, baguslah.
+**Rafizi:** Ha, okey, baguslah.
 
 **Rafizi:** Kesian kat aku. Betul, kesian kat YB. Kau tak cerita lagi kau nak resign ni. Okey.
 
 **Farhan (Pa'an):** Ada Sam lagi. Sam. Ha, ada Sam kan last sekali kan.
 
-**Rafizi:** Kesian dia berdiri lama-lama.
+**Haziq:** Kesian dia berdiri lama-lama.
 
 **Haziq:** Ha, kesian berdiri kat luar lama. Saya tapi saya ni, YB dah sentuh banyaklah tentang syllabus kan. Dan... finally inilah, okey ya.
 
 **Rafizi:** Kita sebenarnya sekarang duk bergaduh cerita umur 6 tahun, cerita sekolah tak cukuplah, cerita tu. Sebenarnya itu hanyalah physical challenge. Itu hanya logistical challenge tau. The real reform ialah ini. Syllabus.
 
-**Farhan (Pa'an):** Which is the content.
+**Rafizi:** Which is the content.
 
 **Rafizi:** Yang kita cakap tadi tu semua hardware, kan. Hardware, you know, we have to go through it lah, kan. Buatlah apa yang patut, kan. I mean, easy for me to say lah, aku bukan menteri. Tapi kalau aku menteri memang macam ni lah, aku duk ketuk meja lah kan, semua kan. And I will call and summon everyone. Aku akan potong bajet kementerian lain untuk bina sekolah, contohnya. I mean, that's what I would have done sebagai Menteri Ekonomi. Minta maaf tahun ini bajet kamu potong, potong, potong, potong. Yang tu tak boleh, yang ni sebab we have to build 1000 new preschool, contohnya kan. But kalau kita berjaya buat yang itu dengan baik pun, we cannot run away daripada soal syllabus. Syllabus. Dari soal kaedah pendidikan, and that berkait rapat dengan soal guru. So saya berharap walaupun tidak diumumkan di dalam Rancangan Pendidikan Malaysia, RPM ni, saya berharap apa yang telah dimasukkan di dalam RMK 13, iaitu reformasi berkaitan dengan latihan, kemahiran dan pendidikan guru itu perlulah diteruskan. And I'm hoping akan ada pengumuman-pengumuman baru. Sebab itu saya duk tunggu juga dokumen penuh ni — dah keluar ke belum? So far tak juga. Kita cari pun tak dapat kan? Tapi peliklah, macam mana ada ringkasan eksekutif tak ada dokumen penuh?
 
@@ -460,11 +460,11 @@ Saya tanya soalan: satu bilik darjah ni, Kementerian Pendidikan belanja secara p
 
 **Rafizi:** Ha, dia circulate dua-dua sepatutnya kan? Macam kita buat RMK kan tebal macam ni kan. Tapi kita bagi ringkasan eksekutif tu sebab kesian orang nak baca tebal. So ini kali pertama yang keluar ringkasan eksekutif, kita duk mencari-cari mana dokumen penuh.
 
-**Farhan (Pa'an):** Is it just me or memang tak ada lagi kan?
+**Rafizi:** Is it just me or memang tak ada lagi kan?
 
 **Rafizi:** So akhirnya satu perkara yang paling sensitif dan ini akan mengujilah Fadlina ataupun mana-mana Menteri Pendidikan selepas ini ialah soal reformasi silibus, kerana reformasi syllabus itu berkaitan rapat juga dengan guru-guru. Dari segi mutu guru, pengambilan guru, tangga gaji guru, pembukaan profession guru lebih meluas kepada semua kan? Kerana itu semua politically explosive. Tukar syllabus akan ada mata pelajaran yang perlu dikurangkan. Yes. Ataupun waktu yang perlu dikurangkan. Yang itu akan buat hal. Ha kan. Guru contohnya, kalau perlu melalui latihan baru ke ataupun perlu melalui pensijilan berterusan, kita panggil CPE lah, Continuous Professional Education, mungkin guru tak suka. Sebenarnya salah satu cadangan oleh Kementerian Ekonomi dalam RMK 13 yang akhirnya saya mengalahlah. Sebenarnya kita nak ada certification, open and independent certification of cikgu sama macam doktor, lawyer, accountant semua. Maksudnya guru-guru setiap tahun dia kena melalui, yalah, memenuhi syarat-syarat tertentu untuk dia memperbaharui sijil dia mengajar. Macam practicing license.
 
-**Farhan (Pa'an):** Macam practicing license.
+**Rafizi:** Macam practicing license.
 
 **Rafizi:** Kalau tak ada practicing license itu, maka dia tak boleh mengajar. Kerana cadangan kami itu juga membantu Kementerian Pendidikan menguruskan masalah guru-guru bermasalah, yang ponteng tak ponteng semua ni. Tapi sampai ke sudahlah Kementerian Pendidikan tak nak. Jadi tak apalah, saya terpaksa mengalah bab itulah. But when it comes to what is next kan, you tak boleh lari dari segi soal mutu silibus dan mutu pengajaran. Dan yang ini juga setakat ini kita tak ada banyak maklumatlah daripada RPM dan kita kena tunggulah. Saya harap ada dalam dokumen penuh yang akan diterbitkan nanti, diedarkan nanti. Kalau tak ada, then kita kena terus tekan. Because the facts speak for itself lah tadi dari segi Pisa, dari segi jumlah waktu mengajar, waktu pembelajaran untuk mathematics kan. Kalau perkara-perkara itu tak diubah, mula darjah 6 pun, mula umur 6 tahun pun kesian juga budak-budak ni. Jam juga dia. Tapi, YB, saya ada satu soalan lah.
 
@@ -486,9 +486,9 @@ Saya tanya soalan: satu bilik darjah ni, Kementerian Pendidikan belanja secara p
 
 **Rafizi:** Eh, dia ekonomi. The fact that kita tak tahu. Tahu. Okey. Bukan Saifuddin Abdullah ke?
 
-**Farhan (Pa'an):** Ah, tu pendidikan tinggi eh.
+**Haziq:** Ah, tu pendidikan tinggi eh.
 
-**Haziq:** Oh ya ke?
+**Rafizi:** Oh ya ke?
 
 **Rafizi:** I don't know. Siapa? Google, google. Jap. Ha, betul. Dato' Sri Saifuddin Abdullah.
 
@@ -506,11 +506,11 @@ Saya tanya soalan: satu bilik darjah ni, Kementerian Pendidikan belanja secara p
 
 **Rafizi:** Dia buatlah rumah bangsa. Tapi it's quite obvious yang paling penting untuk menjayakan rumah bangsa tu ialah PAS. Dan paling penting juga ialah Dato' Seri Hadi Awang dah kata mereka tidak akan bersama-sama dengan syaitan bisu. So habislah cerita. Rumah tu tutup lah, tak ada. IPR dengan Rumah Bangsa ni, mana lagi ada prospek pada YB tengok?
 
-**Haziq:** Dua-dua tak ada.
+**Rafizi:** Dua-dua tak ada.
 
 **Rafizi:** Dua-dua tak ada. I think kita sebenarnya stalemate sekarang. Tengoklah. Cuba... saya nak, tapi kalau saya kata nanti orang tak percayalah, kadang-kadang dia jadi self-fulfilling prophecy. Kita dah nampak datanya mengatakan bahawa pengundi-pengundi ni semakin muak dengan parti-parti yang sedia ada, dengan gabungan-gabungan yang sedia ada kan? Kenapa dia muak? Kerana gelagat politiklah. Seolah-olah hari ni aku maki engkau, esok aku boleh berkawan, lusa kita maki balik. Anything goes demi kuasa kan? Dan sehingga orang dah tak boleh nampak perbezaan di antara satu parti ke satu parti kan. Hari ni Anwar semalam, Dato' Seri Anwar dengan Dato' Seri Hishamuddin, oh happy nya kan. Kenapa dia cerita ke pasal tu?
 
-**Haziq:** Tak, tak ada cerita ha.
+**Rafizi:** Tak, tak ada cerita ha.
 
 **Rafizi:** Tapi maksudnya benda-benda macam ini kan, bagi mereka ahli politik ni, contohnya nak rumah bangsa, kemudian jemput menjemput, pinang meminang, MIC, Tan Sri Muhyiddin kata dah hantar borang nak masuk PN, UMNO kata eh belum lagi kan. Di mata mereka ini semua strategi politik. Ha, ini semua strategi politik kan. Tapi saya ingat mereka tak nampak bahawa perkara-perkara seperti inilah yang menyebabkan rakyat semakin menyampah, kan? Kerana sekejap kau macam ini, lepas tu kau macam itu, dan segala-galanya ialah asalkan dapat kuasa. Sangat Machiavelli tau kan. Jadi sehingga orang akan kata letak dalam bakul yang sama, semua sama saja kan. Jadi lebih banyak mereka menumpukan kepada strategi politik seperti ini, lebihlah dia menjauhkan rakyat, kerana isu rakyat ialah isu biasa. Isu sekolah ni, isu longkang, isu jalan, isu harga barang, semua kan. The more they focus on their campaign on so-called political strategy, the more lah rakyat akan... dan itulah masa saya kembali ke PKR tahun 2022. That was my reasoning. Hentikan semua ni cerita Anwar Ibrahim nak dengan Bersatu, dengan PAS, dengan khemah besar, tak khemah besar, kerana itu akan menjarakkan rakyat. Focus on them. Apa yang dia nak dengar, apa yang dia nak tengok. Just focus on them. Menang kalah itu leave it to them, kan. Unfortunately, bila kita jadi pimpinan ahli politik, kita tak macam itulah, kan, kita rasa macam dunia ini berlegar di sekitar kita. So I think baguslah lebih banyak, apa nama, tengok ni. Jangan merajuk lagi. Kita tak larat nak pujuk. Aku ingat aku je merajuk — MCA dengan MIC pun merajuk juga.
 
@@ -524,7 +524,7 @@ Saya tanya soalan: satu bilik darjah ni, Kementerian Pendidikan belanja secara p
 
 **Haziq:** Kita tak ada Tan Sri Azam Baki lah kerana agak sibuk. Jadi kita ada... Kempen PR dia.
 
-**Farhan (Pa'an):** Mana ya? Ha, ya.
+**Haziq:** Mana ya? Ha, ya.
 
 **Haziq:** Sudah diri lama.
 
@@ -562,7 +562,7 @@ Saya tanya soalan: satu bilik darjah ni, Kementerian Pendidikan belanja secara p
 
 **Rafizi:** Eh, cakap jelah, dia punya tarik. Tadi nak buat suspense. Eh, dah lambat tau. Okey, okey, okey. Nak tidur, nak tidur, nak tidur.
 
-**Farhan (Pa'an):** Nak tidur lah.
+**Rafizi:** Nak tidur lah.
 
 **Haziq:** Setakat ini, saya akan resign daripada sanalah.
 

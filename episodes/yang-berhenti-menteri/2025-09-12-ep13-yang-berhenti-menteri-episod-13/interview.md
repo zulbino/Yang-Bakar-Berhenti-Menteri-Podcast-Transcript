@@ -112,7 +112,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Haziq:** Baik, kita takkan layan lagi.
 
-**Multiple speakers:** Okey, next time eh.
+**Haziq:** Okey, next time eh.
 
 **Haziq:** Okey, last sekali kot.
 
@@ -162,7 +162,7 @@ Jadi kita juga kena tengok antara supply dan demand. Kalau demand untuk kursus-k
 
 Dan akhir sekali, saya ingat perkara ini timbul kerana ada rasa ketidakpercayaan terhadap sistem — kerana yang bukan Melayu akan terus merasakan bahawa mereka diketepikan. Jadi ketelusan, transparency itu penting, dan transparency itu mestilah berasaskan sistem yang boleh diterima oleh rakyat. Contohnya, kalau merit ni sampai 1000 orang dapat 100% merit, macam mana bell curve-nya? Macam mana kita menyediakan kriteria sehinggakan kalau nak ambil 85 saja, ada 1000 orang yang perfect score? Sistem itu perlu dilihat balik. Saya bagi contoh, di beberapa negara top universiti mereka ada 2 tapisan — satu dari segi permohonan, mereka tengok result trial ke apa sebelum buat offer. Kemudian bagi mereka yang disenarai pendek, kena pergi interview. Memang biasa nak masuk universiti kena interview.
 
-**Haziq:** Kat Malaysia kena interview tak?
+**Rafizi:** Kat Malaysia kena interview tak?
 
 **Rafizi:** Certain course lah.
 
@@ -226,7 +226,7 @@ Bayangkan kalau kita jadi rakyat Nepal, dan Nepal hanya menjadi demokrasi ni tak
 
 Jadi itu ingatan juga kepada ahli-ahli politik di Malaysia. Kita banyak menjanjikan perubahan, baik di peringkat PH ke, BN ke, PAS sebelum ni ke, selepas ni ke. Kalau rakyat ini ditekan dan sampai ke satu peringkat di mana perubahan itu tidak datang, dan lebih teruk lagi, kamu pula menggantikan — dia jadi macam Animal Farm. Kau baca tak George Orwell, Animal Farm?
 
-**Haziq:** Okey, kena baca.
+**Rafizi:** Okey, kena baca.
 
 **Rafizi:** Baik, saya baca. George Orwell, Animal Farm ni dia cerita pasal binatang dengan manusia. Masa manusia menjadi tuan, binatang ni duk dalam kandang kan. Binatang ni rasa tak puas hati kerana mereka dilayan sedemikian rupa — kena sembelih semua untuk jadi makanan. Jadi ada satu kumpulan — kumpulan babi. Mereka berjanji dan berkempen kita mesti buang manusia supaya kita mentadbir sesama kita, tak ada tuan dalam rumah tu, maka hidup kita lebih baik. Jadi binatang-binatang semua ni memberontak, akhirnya tuan rumah tu pun lari, tinggallah sesama mereka. Tak lama lepas itu, babi-babi tadi pula yang duduk dalam rumah tu, dia jadi tuan, dia pula jadi bos kan.
 

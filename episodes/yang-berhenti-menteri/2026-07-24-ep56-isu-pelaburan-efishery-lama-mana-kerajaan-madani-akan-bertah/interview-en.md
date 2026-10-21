@@ -74,7 +74,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Haziq:** Minister, episode 56 as usual with Brother Fizi and Chopper
 
-**Rafizi:** who keeps barking away I smiled because just now I called Chopper's name, he responded, and then he wouldn't stop responding. YB, how was it after HQ opened last week? Alhamdulillah, we've moved as fast as possible. Last Monday I sat down with the candidates who ran together with us in the recent Johor state election, and we agreed on follow-up steps so that the joint service and role offered to the people of Johor at the grassroots level can continue to be rolled out. God willing, in the near future we will start opening one — I don't like to call it an office, we'll call the place a "shared space" [ruang bersama]. Then last Wednesday, an initial meeting to prepare for the Melaka state election was started, and God willing after this there will be developments every week that we'll update the public on, as well as introducing candidates as early as possible. So for anyone from Melaka, make sure that you were born in Melaka or your address is in Melaka — meaning you're a Melaka voter — for those who haven't yet applied to be an open candidate. Because joint candidates, as we've shown in Johor, come from two groups. One is the group of activists/movers who have had political experience and community service experience. The other is open candidates from among professionals, from among young people — those who step forward to offer service, to contribute to society. For those who haven't yet applied to be a candidate, you can go to bersama.org, click "Join Us." There you can apply to be a candidate, get interviewed and screened like the other candidates went through. Today the Kancil app has started operating for Android users — that's usually how it goes, the Play Store is usually faster than the Apple Store, so for BERSAMA members using Android, you can start downloading it now. It's live, Kancil is live, and through that process you can see how we intend to use digital strength to manage BERSAMA members. Our hope is that, from time to time, we will introduce new features that not only help grassroots BERSAMA members step forward to offer to run programmes, to help expand BERSAMA in their respective areas, but also to distinguish the contributions of members who are working hard right now. So that's the process for us to cultivate a new kind of politics that must be based on merit. That's why we don't want to make any leadership appointments for now, to allow this process to happen first, so that BERSAMA members can get to know each other based on track record, and when the time is right, with a proper yardstick, a nationwide selection will be held to choose leaders. From there, my hope is that the Kancil app will provide a form of transparency so that BERSAMA members can assess who deserves to be entrusted with leadership. We're still waiting for the Apple Store to approve it.
+**Haziq:** who keeps barking away I smiled because just now I called Chopper's name, he responded, and then he wouldn't stop responding. YB, how was it after HQ opened last week? Alhamdulillah, we've moved as fast as possible. Last Monday I sat down with the candidates who ran together with us in the recent Johor state election, and we agreed on follow-up steps so that the joint service and role offered to the people of Johor at the grassroots level can continue to be rolled out. God willing, in the near future we will start opening one — I don't like to call it an office, we'll call the place a "shared space" [ruang bersama]. Then last Wednesday, an initial meeting to prepare for the Melaka state election was started, and God willing after this there will be developments every week that we'll update the public on, as well as introducing candidates as early as possible. So for anyone from Melaka, make sure that you were born in Melaka or your address is in Melaka — meaning you're a Melaka voter — for those who haven't yet applied to be an open candidate. Because joint candidates, as we've shown in Johor, come from two groups. One is the group of activists/movers who have had political experience and community service experience. The other is open candidates from among professionals, from among young people — those who step forward to offer service, to contribute to society. For those who haven't yet applied to be a candidate, you can go to bersama.org, click "Join Us." There you can apply to be a candidate, get interviewed and screened like the other candidates went through. Today the Kancil app has started operating for Android users — that's usually how it goes, the Play Store is usually faster than the Apple Store, so for BERSAMA members using Android, you can start downloading it now. It's live, Kancil is live, and through that process you can see how we intend to use digital strength to manage BERSAMA members. Our hope is that, from time to time, we will introduce new features that not only help grassroots BERSAMA members step forward to offer to run programmes, to help expand BERSAMA in their respective areas, but also to distinguish the contributions of members who are working hard right now. So that's the process for us to cultivate a new kind of politics that must be based on merit. That's why we don't want to make any leadership appointments for now, to allow this process to happen first, so that BERSAMA members can get to know each other based on track record, and when the time is right, with a proper yardstick, a nationwide selection will be held to choose leaders. From there, my hope is that the Kancil app will provide a form of transparency so that BERSAMA members can assess who deserves to be entrusted with leadership. We're still waiting for the Apple Store to approve it.
 
 **Haziq:** How long does that take?
 
@@ -84,7 +84,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** So we started with Android first, and we pray that within a week or two the Apple Store will also approve it. Those are the plans being made now.
 
-**Haziq:** Alright, alright, alright. Okay, YB. One question, six minutes.
+**Rafizi:** Alright, alright, alright. Okay, YB. One question, six minutes.
 
 **Rafizi:** YB will answer.
 
@@ -104,9 +104,9 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** No, no. I think we do it like this — this, do it like this — maybe just 10 metres. But make sure we race the same distance like that. Work smart. Work smart. So in terms of efficiency, that's more efficient, more efficient, right? It can actually work. We're actually planning to do a kind of. what is it. not a game, but an activity for the public that has actually become a trend in other countries. So it's in the form of an obstacle course, but that obstacle course tests a skill at each obstacle. And that's what we want to try to bring too. So we could design it, maybe one of them could be this. So I'll wait right at the front, then I'll run before this.
 
-**Haziq:** Okay, alright. Why is this related to beria? What does it have to do with beria?
+**Rafizi:** Okay, alright. Why is this related to beria? What does it have to do with beria?
 
-**Rafizi:** Beria lah, he made it short, YB.
+**Haziq:** Beria lah, he made it short, YB.
 
 **Haziq:** But how exactly is this? Giving a new idea? But now since it's like — people are getting formal about running and all that, YB is getting fit — has YB not joined any of those paid runs?
 
@@ -116,7 +116,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Of course it was. It's just that maybe some people continuously pick up running. I've completely let it slide because of BERSAMA and politics too. Previously, after I resigned last year in June, July, it picked up quite okay. I can't stretch like before, so my running pace is a lot slower compared to before because my maximum heart rate is different now. But after that, after the fasting month, after the Ramadan holidays a month after the fasting month, while planning to launch BERSAMA, it's been in tatters until now — I haven't exercised at all.
 
-**Haziq:** Which month was the fasting month?
+**Rafizi:** Which month was the fasting month?
 
 **Rafizi:** It's about to be 3 months now going into month 4, 3 months. Alright, YB. Let's look at the next one. You guys just went and grabbed these and brought them here. It didn't register at all with you guys that you said this marathon suits Rafizi.
 
@@ -136,7 +136,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Well, I don't know. Someone from PAS will probably answer outside. So, what's the story here — supposedly the beria of someone. if it's true, that's beria. If it's not true, well that's beria too — this person just made it up for a moment. This isn't beria, this is called stupid. Stupid.
 
-**Haziq:** Hai. Yeah, that's why I doubt such a person actually exists.
+**Rafizi:** Hai. Yeah, that's why I doubt such a person actually exists.
 
 **Rafizi:** I doubt it too. I don't know. Surely no one is that ignorant. Maybe it doesn't exist? Maybe it doesn't exist. Beria on whoever made up this story, to the point that Dr. Zulkifli had to go and reply to it.
 
@@ -160,7 +160,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** That's why I think politics is a prolonged process, because politics is supposed to be a process of enlightenment. We want to make people smarter, and we want to stop practices that, although they feel comfortable, are actually not good for society. This is one of them. Because those who receive it like it — he says he was never asked, but I think, actually, where did they get this money from? If he gave me RM200 to go back — say from Penang to Kota Tinggi — Puan Nur Sofia Izatul Ain, she's quite pretty too with all her flowers — the recipient will surely feel that it's their right, since he's already offering it. I remember back in the village, when people used to scatter money — there were answers people in the village gave, like: "he's already offering it, if he doesn't give it, wouldn't it be better if he did?" Haa. What they don't realise is — first, they should actually ask where that money came from, because politicians don't have that much money. So the money must come from a questionable source. He can't use government money, because government money is easily exposed, it lands you in prison. So that money is under-the-table money. Under-the-table money is very likely bribery money. So if we're being rational, this is a development, a process that will keep continuing in our society — there will be people who feel, "as long as I get it, I don't care where he got it from, bribery money doesn't concern me." But they don't realise that this is exactly why, once corruption takes root, they're also the ones who complain — "oh why is the toll so expensive, why is this so expensive" — about everything the government spends on. A project that should cost 100 million becomes 120 million, because they need to cover that. And if we peel back the layers, morally, on a deeper level — it's quite serious if I say.
 
-**Haziq:** But actually that's taking away someone else's rights?
+**Rafizi:** But actually that's taking away someone else's rights?
 
 **Rafizi:** Taking away someone else's rights? Yes, if we accept bribes, it takes away someone else's rights, because that money was stolen, that money should have gone to someone else who deserves it more. So if you ask me, voting is indeed our responsibility, and we need to understand that if we don't vote, and the leader or government that gets chosen does something we don't like, that's our own fate, our own fault. So it's every citizen's responsibility to vote, to be able to choose a government that truly serves our interests, not one that gives us money. If it's like this, then there's no need for political parties at all — just let the richest people become politicians, they scatter money, they win. But it's true, when you look at this beria, I don't understand why the people sharing this don't feel it's wrong at all — "vote in Batu Pahat, live in JB, vote in Batu Pahat, get your RM50, guys." Wow.
 
@@ -196,7 +196,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Talking about that, I mean, yeah, but people don't care, people don't care. It's the same here — things that we say are very important because they symbolize competency or professionalism — if even something like this can't be done properly, but that thing isn't important to voters at all. So in the end, this week's winner is us, eagerly commenting on things nobody else knows about. I think this week's "eager" award is a bit nerdy.
 
-**Multiple speakers:** But. there's supposed to be one more, YB. But. maybe it shouldn't be included.
+**Haziq:** But. there's supposed to be one more, YB. But. maybe it shouldn't be included.
 
 **Rafizi:** Why is that prn9.com?
 
@@ -304,9 +304,9 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Haziq:** Hound.
 
-**Rafizi:** What? No, brought in?
+**Farhan (Pa'an):** What? No, brought in?
 
-**Haziq:** Yeah, but that's much later, he came in 2024, that Syarif Hamdan.
+**Rafizi:** Yeah, but that's much later, he came in 2024, that Syarif Hamdan.
 
 **Rafizi:** Right, his work, yes, VC firm, Bullhound Capital, right. But the earlier ones that were quite popular in Malaysia were Gobi Partners and 500 Global. 500 Global is a VC firm based in Silicon Valley, but its fund focus is Southeast Asia, including Malaysian companies, Malaysian startups. On record, at the time there was MetCap — Malaysia Venture Capital, a Malaysian government agency — that had indeed invested in 500 Global, which we can't confirm. well, was indirectly involved with e-fishery. Because the way venture capital works, there are two terms — one called GP, one called LP. GP is general partner, GP is firms like these — Bullhound Capital, what's this, 500 Global, Gobi Partners. They take money from investors, and the investor is called a limited partner, LP. So MetCap was an LP that put money — I can't remember how much — into a fund set up by 500 Global, and 500 Global would take a percentage to manage that fund, and they're also the ones who decide where to invest. So in 2018 there was already indirect involvement of Malaysian funds — through 500 Global. So, Kuwait started investing in e-fishery in July 2023 — that was for Series D, for 200 million. So if it's 200 million, that means Kuwait put in around 20%, right — 40 times 5, 200 million, right, they put in roughly 41 [million], about 20%. Besides Kuwait, there was also Temasek, SoftBank, 500 Global, North Star, right. Okay. No — how could this happen? How could the fraud happen? We'll come back to Kuwait's involvement, because then I think it would be fairer for people to be able to see, is this misappropriation or fraud, right. So but back to Gibran and back to our earlier discussion about startups — why they have to scale up, why they have to kill everyone off, fundraising, right. So what actually happened until e-fishery became like this? Gibran made a confession in a Bloomberg interview — that happened a while ago, that was after some talk events.
 

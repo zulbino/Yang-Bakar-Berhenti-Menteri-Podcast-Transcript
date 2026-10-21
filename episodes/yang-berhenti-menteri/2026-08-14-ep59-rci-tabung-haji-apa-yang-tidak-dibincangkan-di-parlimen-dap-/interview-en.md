@@ -426,7 +426,7 @@ I don't think, even though the government says 70% has been implemented, I don't
 
 **Farhan (Pa'an):** A conditional audit report.
 
-**Rafizi:** Yes, or a report with reprimands. "Berteguran."
+**Farhan (Pa'an):** Yes, or a report with reprimands. "Berteguran."
 
 **Haziq:** A conditional statement.
 

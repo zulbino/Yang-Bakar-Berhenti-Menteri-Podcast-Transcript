@@ -64,7 +64,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Okay, alright. These guys are something else too, disappearing without telling us — did he get caught by something?
 
-**Wan Afiq:** Or has he already bought something?
+**Rafizi:** Or has he already bought something?
 
 **Farhan (Pa'an):** Ah, not yet I think.
 
@@ -96,11 +96,11 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Why does his face look like Jamal Abdillah?
 
-**Multiple speakers:** Ha, that's what Farhan wants to ask.
+**Wan Afiq:** Ha, that's what Farhan wants to ask.
 
 **Farhan (Pa'an):** I asked him to share his skincare routine.
 
-**Multiple speakers:** His skincare routine.
+**Rafizi:** His skincare routine.
 
 **Rafizi:** He looks fairer.
 
@@ -160,11 +160,11 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** He's from Besut, has Kelantanese blood. This is the issue between Kelantanese and Besut people. Which one is this?
 
-**Wan Afiq:** The one about the Melor state assemblyman.
+**Rafizi:** The one about the Melor state assemblyman.
 
 **Rafizi:** Correct, YB.
 
-**Wan Afiq:** What's the Melor assemblyman's name?
+**Rafizi:** What's the Melor assemblyman's name?
 
 **Amir Sahmat:** Wan Rahimi.
 
@@ -214,7 +214,7 @@ If we're going to count it, Rahmanan is the Minister of Human Resources. He's su
 
 **Rafizi:** That's exactly why I'll never go into government. It's actually — inside government it's really a bubble. Especially if you're a minister, you get riled up quickly. So you'll make — I once had a ministry file a police report, only once.
 
-**Wan Afiq:** Remember? Which one?
+**Rafizi:** Remember? Which one?
 
 **Rafizi:** Not me, I mean a ministry once filed a police report, only once.
 
@@ -266,7 +266,7 @@ And that's the burden on PH. Because among the three main coalition parties, the
 
 **Rafizi:** Because he's willing to be an intern in Pandan huh. Okay, clear YB. So let's go to "Hidup Keras."
 
-**Wan Afiq:** We have 4 for "Hidup Keras," right?
+**Rafizi:** We have 4 for "Hidup Keras," right?
 
 **Rafizi:** So we need to control it a bit maybe. How much time do we have left? We're 39 minutes in — 39 minutes — so we have about 2 hours left. About half an hour, half an hour, half an hour. Okay, this week's topics aren't too heavy. Good.
 
@@ -300,7 +300,7 @@ At the time the Undang of Sungai Ujong was stripped of his position, I remember 
 
 **Rafizi:** Right, he did it live. And following on from that, it dragged in Tok Min, Dato' Seri Aminuddin Harun as the Chief Minister, because it started when the 4 Undang said that Tok Min had also been asked to step down. And the last thing was when — that's not the 19 Negeri Sembilan state assemblymen — oh, the 19 assemblymen combined with PN.
 
-**Amir Sahmat:** Yes, correct. 14 BN, 5 PN.
+**Rafizi:** Yes, correct. 14 BN, 5 PN.
 
 **Rafizi:** 5 PN — until the BN assemblymen made — what do you want to call this move, the Pertang move or the Jalaluddin move?
 
@@ -382,9 +382,9 @@ So ultimately these mixed, flip-flopping messages will end up getting UMNO troll
 
 **Wan Afiq:** Meaning, in Negeri Sembilan, whether they like it or not, PKR is the Menteri Besar for the next 6 months. They have to defend the Menteri Besar as they should.
 
-**Amir Sahmat:** They should defend him.
+**Wan Afiq:** They should defend him.
 
-**Wan Afiq:** I think he's already defending him.
+**Rafizi:** I think he's already defending him.
 
 **Amir Sahmat:** Oh, that's why he met Zahid. There's a photo. There's a photo from Farhan.
 
@@ -400,13 +400,13 @@ So ultimately these mixed, flip-flopping messages will end up getting UMNO troll
 
 **Wan Afiq:** Okay, YB, so let's move to the next topic.
 
-**Rafizi:** This is interesting too.
+**Wan Afiq:** This is interesting too.
 
 **Wan Afiq:** We still have a bit more than an hour left, YB.
 
 **Rafizi:** Sure, sure, sure.
 
-**Wan Afiq:** I just need to catch that last bit quickly.
+**Rafizi:** I just need to catch that last bit quickly.
 
 **Rafizi:** There's not much more to add on it either. Okay.
 
@@ -426,7 +426,7 @@ So ultimately these mixed, flip-flopping messages will end up getting UMNO troll
 
 **Rafizi:** Before that, I think the background — what day is it? Friday. Oh no, Wednesday — today is Friday. I mean this letter came out I think on Wednesday. This letter is now sent via email, and within a short time it went viral across Malaysia. Admit it, you got the letter, right. The letter is in Treasury language, they call it an expenditure restriction. What it means is they put a cap, and therefore you have to — even if the budget or allocation has been approved, the term is "allocation" (peruntukan). Let's say a department has been approved a 100 million allocation for 1 year of supply expenditure, but if the Treasury issues an instruction to restrict, however much is restricted, meaning you can't spend it, the budget is cut. And before we comment on everything else, we need to understand that — because I've seen some ministers say this is just a plan. No, the restriction letter has already been issued. So the restriction letter has been issued, meaning the cut or freeze in allocation is indeed an instruction. It's just that the process — budgeting has a top-down and bottom-up aspect. When we first start making a budget, not just for government, in any large organization, there are 2 levels. One is the lower level — they look at their expenditure, what they need to do, their activities, so they develop their budget and then submit it upward — that's bottom-up. At the top, they already know that if the country, for example, wants to grow by 5%, 6% economic growth, then how much debt needs to be paid, and so on, we only have 400 billion, collections are like this, so for your ministry, top-down you only get 1 billion. So then you have 2 sets of budgets, and based on that they get reconciled and things get cut. It's the same in the process of controlling expenditure as is happening now — they issue restrictions, and as has been reported, the government's savings target from the approved allocation for 2026 is 10 billion. And that instruction has been issued — meaning the government needs to cut spending by 10 billion. That's top-down. What's happening now bottom-up is that MOF didn't just arbitrarily cut here and there — they gave room for a bottom-up process. Meaning every ministry agency is given instructions with the following guidelines. For example CLBG, all those agencies — agencies under ministries that aren't civil servants, many like MDEC, those are called Companies Limited by Guarantee, agencies. For these, I think they asked for a 20% cut. Then for ministries and departments, they have their own guidelines. So ministries need to look, okay this is what we already have allocated, what we're already planning, we see how to achieve the cut target required by the Ministry of Finance, then they submit it back, and that's how you get 10 billion. So back to the earlier question, is it too late or not — well, I think you have to see the total picture. Whether it's too late or not, to me that's an academic question, because it stems more from a policy issue. The policy is that we don't give targeted subsidies, we give blanket ones. And the decision was made to make a populist decision. In fact Dato' Seri Anwar even lowered the fuel price further from RM2.05 to RM1.99, so that people can no longer criticize him over his old campaign promise — win today, I'll repeat, lower fuel prices. That was his purpose. But those purposes were not grounded in sound economic planning. So if we ask whether this is too late or not, whatever they do they can't escape the impact that's happening now. For example, like this — the government estimated this year's subsidy at 58 billion. That 58 billion, I recall, announced was only for diesel and petrol subsidies, mind you. That doesn't include electricity subsidy yet, doesn't include LPG subsidy yet. These are the 4 biggest categories — petrol, diesel, electricity, and LPG cooking gas — that's not included yet. The 58 mentioned, I think, is only petrol and diesel. That is the highest in our country's history — 58 billion, wow. What's the tax collection amount? Wow. Try Googling it, because the PM just announced the highest revenue achieved — maybe 220? Google it.
 
-**Farhan (Pa'an):** Ha, it hasn't even reached 220 billion.
+**Rafizi:** Ha, it hasn't even reached 220 billion.
 
 **Rafizi:** 204 billion, right? So LHDN collected 204 billion. Imagine our country's direct tax collection under LHDN alone is 200-something. There's another indirect tax collected by Customs. But the direct tax collection that we pay — PCB, scheduled tax deductions, we pay income tax, companies pay income tax — 203 billion. More than, what's it called, almost one-third actually — if you add electricity subsidy, gas and LPG subsidies altogether, we're really burning about one-third of it on fuel, so that we can be told how good our government is, that our fuel is among the cheapest in the world.
 
@@ -594,7 +594,7 @@ Let me ask you this. Does the silent majority comment? No. They don't comment.
 
 **Rafizi:** The most they'll do is what? Observe, watch.
 
-**Amir Sahmat:** Okay, observing is one thing, but the most they'll do is like.
+**Rafizi:** Okay, observing is one thing, but the most they'll do is like.
 
 **Rafizi:** They like. The strong supporters will share. So therefore, it's not necessarily — in fact, comments, when it's these paid commenters, paid commenters — I've tested this two or three times, you know. That's why you might have noticed I've posted at random times, like 4 or 5 in the afternoon. Because these paid commenters work on a schedule. They're on the clock. Okay. If you post at a certain time, they show up. Then I think they go to sleep or go eat. So I think I once posted around 3 o'clock, just to test it. There wasn't a single paid comment. Meaning they were on a break. Okay, now. One thing they don't realize is that when they comment a lot, the algorithm actually sees it as high engagement. Then it'll show the post to more people. And more people will see it. Even though the network, the effect, stays the same, it doesn't have much impact on its own. But that post actually ends up with higher engagement. What matters most for Facebook, to me, are two metrics. One is likes, one is shares. That's why you'll see paid-commenter comments full of insults by the truckload, and you know they're paid commenters and cyber troopers because what they say conforms to the narrative they want to push. So in my case, there are only two or three narratives. This one's sulking, the minister has failed, all that nonsense. Same buzzwords over and over. All the comments from 4, 5, 6 months ago, the same stuff. They think that'll stick. Then they also don't realize that by doing that, they're automatically flagging themselves as coordinated inauthentic behavior. Then you know how they operate. But what matters isn't necessarily the comments. What matters is actually the likes and shares. That's why you'll notice the likes are usually far higher than the comments. True. Because the silent majority will actually just like and share — you can tell, if you go look at posts from PN leaders, their share count is very low. True. Their likes might look high, lots of comments, but shares are very low. So then you get the feeling that a lot of this is coordinated, that a lot of these are basically cyber troopers. If you go look at Dato' Seri Zahid Hamidi's Facebook, it's usually consistent — his likes are consistently there, but his shares are rather low. Right. So all this — unfortunately, I would have expected people in strategic communications to understand all this and then design around it. That's the answer to what you asked earlier. Why is it that J-KOM, RTM, all named that way, all these UKK setups we have, seem less effective? It's because of a lack of understanding of how social media actually works. And that applies to PN and BN too. Take, for example — I went through this back in 2022. So we go back — I retired then. So everyone was scared of Najib's Facebook back then. It really went viral, people were genuinely scared. No one dared touch it, from the top down. So it looked concerning, 30,000 likes and all that. So I worked with my data science team. I said okay, let's actually see what these 30,000 likes really mean in terms of public support. Now that comes back to the question of network effect. What's the difference, for example? 30,000 likes where those 30,000 come from all over the country, every group represented — old people, Malays, Chinese, in Kedah, in Kelantan, all liking it — 30,000. Versus 30,000 likes too, but all just from Kota Bharu. Unreachable elsewhere. There's a difference in effect on votes.
 
@@ -602,7 +602,7 @@ Let me ask you this. Does the silent majority comment? No. They don't comment.
 
 **Rafizi:** Okay.
 
-**Wan Afiq:** But then the direction doesn't hold steady.
+**Amir Sahmat:** But then the direction doesn't hold steady.
 
 **Rafizi:** There are two components there. One is the network effect. Okay. Take Najib's posts, for example. Najib's old posts, even though engagement and likes were high, came from a demographic profile and social stratum that was more or less the same. Meaning Malay, mostly East Coast. Those are areas UMNO had already won. So even 30,000 likes wouldn't reach further and have real effect. And it's a network effect because the people liking are mostly UMNO supporters already, and their circle is already an UMNO circle. So ultimately, the intensity of that anger, even though it's loyal to Najib, UMNO, and all that, can't have an effect to swing political opinion elsewhere. But to outsiders it looks impressive. The same thing happens with a lot of PAS leaders. PAS leaders do have high social traction, but it circulates among voters who are already like that, and therefore, in the end, they can't shift non-Malay voters because hardly any non-Malay voters are affected since there's no network effect there. So, did you want to ask something? Okay. Simple question.
 
@@ -626,7 +626,7 @@ Let me ask you this. Does the silent majority comment? No. They don't comment.
 
 **Rafizi:** It's like this. At the cabinet meeting level, at the government level, the communications supremo, so to speak, is Fahmi. So that's his responsibility, and each of us has our own portfolios. And even though ministers differ in political seniority — I'm more senior, for example — we can't just go around correcting other ministers. It's like, "I'm a minister too, who are you to tell me" — that's the attitude.
 
-**Amir Sahmat:** Have you never met to discuss and learn from each other?
+**Wan Afiq:** Have you never met to discuss and learn from each other?
 
 **Rafizi:** No, there hasn't been that. Okay, that brings us to the second thing.
 
@@ -634,7 +634,7 @@ Let me ask you this. Does the silent majority comment? No. They don't comment.
 
 **Rafizi:** Right, within the party then. The problem within the party is that a lot of the younger members view everything through a political lens. It's not "I don't support him therefore I won't learn from him" —
 
-**Amir Sahmat:** Well, that's just how it is.
+**Rafizi:** Well, that's just how it is.
 
 **Rafizi:** So the problem is, once you become government, people take shortcuts. Because if you look from before 2018 up until now, actually PKR and PH are parties built on issues. They're not personality-based parties, they're issue-based parties. Why did people read our content? Because it provided clarity. Whether it's anti-corruption or policy matters, it actually had substance. It wasn't about slogans or rhetoric. There was actually something there, and we'd lay out the argument backed by evidence, by facts. That takes effort to produce. It requires reading, requires checking. To this day, I still write my own content. So there are no paid ghostwriters writing my content, I do it all myself. And the reason is, to me, that's part and parcel of what it takes to deliver information properly. And I learn something new, I share it with other people. It's also out of my own curiosity, wanting to know something new. But how many people who join politics, once they become ministers, are willing to still do that?
 
@@ -686,7 +686,7 @@ Let me ask you this. Does the silent majority comment? No. They don't comment.
 
 **Rafizi:** But I don't think Azam Baki cares at all. I think he's very personal about this now. Even the Sogo thing, he commented on that. Right. Something he shouldn't comment on, he comments on. Sure, he can remand me.
 
-**Amir Sahmat:** Ha, he can, so.
+**Rafizi:** Ha, he can, so.
 
 **Rafizi:** Maximum 6 days. By next week you cannot tell. Back during 1MDB, the last time I was detained — but that wasn't the MACC, that was the police. That time they remanded me for 5 days.
 

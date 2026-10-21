@@ -45,13 +45,13 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 # Interview (English)
 
-**Haziq:** Assalamualaikum and welcome. The podcast Yang Berhenti Menteri is now on its eighth episode. So we'd like to thank our guest panelist today, alongside Brother Rafizi as usual. Dr. Irwan from the International Islamic University Malaysia. How are you, doctor?
+**Rafizi:** Assalamualaikum and welcome. The podcast Yang Berhenti Menteri is now on its eighth episode. So we'd like to thank our guest panelist today, alongside Brother Rafizi as usual. Dr. Irwan from the International Islamic University Malaysia. How are you, doctor?
 
 **Speaker ?:** Fine, alhamdulillah.
 
-**Haziq:** Doctor, perhaps we should get to know you a little, because when I checked you up, all I found in the comments was "this is my best lecturer, cool guy." So many IIUM students suddenly in the comments.
+**Rafizi:** Doctor, perhaps we should get to know you a little, because when I checked you up, all I found in the comments was "this is my best lecturer, cool guy." So many IIUM students suddenly in the comments.
 
-**Prof Madya Dr Muhammad Irwan Ariffin:** Oh really? MasyaAllah.
+**Rafizi:** Oh really? MasyaAllah.
 
 **Haziq:** If you don't mind.
 
@@ -63,7 +63,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** I was at IIUM too, most probably around, maybe around the same time, eh. Except he did, I think he did computing. Maybe ICT. Yeah, he did ICT at that time.
 
-**Haziq:** Doctor of Economics — perhaps what was your specialization?
+**Rafizi:** Doctor of Economics — perhaps what was your specialization?
 
 **Prof Madya Dr Muhammad Irwan Ariffin:** Okay, well. This specialization thing is a bit hard to say sometimes. So far, to be honest, I still couldn't find — I mean I can't say I'm an expert in a specific area. So I'm still exploring different fields of economics, including Islamic economics. So whatever comes my way, I tend to look at myself as a versatile teacher. So whatever the head of department assigns me, I just scoop it up. I try, because I really love to learn. Sounds very Malaysian, doesn't it.
 
@@ -79,7 +79,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Haziq:** Alright, I'll get back to my job. For this, more so.
 
-**Rafizi:** Because it's conversational, doctor.
+**Haziq:** Because it's conversational, doctor.
 
 **Haziq:** Okay, okay. But perhaps I can start. Okay, this is really the actual start now, that earlier bit was just a slip-in. Doctor, on the topic of the Malaysia Plans — from the first Malaysia Plan to the 13th — well, usually if we ask ChatGPT to summarize in one line how the Malaysia Plans have evolved, it would say: from agriculture, to eradicating poverty, to industrialization. So now, for RMK 13, to summarize, what's the difference between this and the previous plans? What is the main message of this RMK, really?
 
@@ -103,7 +103,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Prof Madya Dr Muhammad Irwan Ariffin:** — even in the Quran, it's commonly mentioned, in Surah Al-Hajj for instance, Allah says: "وَالَّذِينَ جَاءُ مِن بَعْدِهِمْ يَقُولُونَ رَبَّنَا اغْفِرْ لَنَا وَلِإِخْوَانِنَا الَّذِينَ سَبَقُونَا بِالْإِيمَانِ." Meaning, Allah mentions that future generations, if they are believers, will pray for [those before them]. That means they remember the previous generation fondly — meaning they contributed, they sacrificed. That's why they pray for Allah to forgive them, our parents, our grandparents. Why? Because among other things, what we enjoy today is the fruit of their actions. So we too need to think this way. That's why I feel we could perhaps also use values that already exist within religion. I believe this is universal — because culturally, if we look at our generation, what we can see from our parents' generation, they were willing to sacrifice for the comfort of their children. So why not — meaning our society has already been raised with values of being willing to sacrifice for the future. It's just that we need to link it — for example, subsidy rationalization, or petrol subsidy rationalization. When there's a government subsidy, we know in economic theory it will distort the price — meaning the price paid doesn't reflect the true cost. And when the price is low, it will actually lead to overconsumption. When we overconsume, the availability of petrol for future generations will diminish. So if that happens, the future may not be able to enjoy the same comfort we enjoy today. So it should go back to how we think. I feel that's important, actually, to change the mindset. If we study the Quran, for example as Muslims, Allah always reminds us to think about our long-term benefit. Sometimes it's okay to sacrifice in the short term because, more importantly, we need to think about our well-being in the future, in the long run. So we should think that our well-being should not stop when we die, but should continue our legacy into future generations.
 
-**Rafizi:** I think that's among the bold approaches I see.
+**Prof Madya Dr Muhammad Irwan Ariffin:** I think that's among the bold approaches I see.
 
 **Prof Madya Dr Muhammad Irwan Ariffin:** It's rare for a government or politicians to be willing — as YB mentioned, with an election coming up in 2 years, yet still willing to take this risk. So this is among the things I personally really give credit to. I know it's not popular, it's really not popular, but we need to understand that sometimes we need to endure the pain for the sake of future benefit.
 
@@ -111,7 +111,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Prof Madya Dr Muhammad Irwan Ariffin:** If I give an answer, maybe I'll end up joining that group too and get attacked as well. Never mind.
 
-**Rafizi:** At least I am not a politician.
+**Prof Madya Dr Muhammad Irwan Ariffin:** At least I am not a politician.
 
 **Prof Madya Dr Muhammad Irwan Ariffin:** It's just maybe the way — my personal opinion. Maybe the way when you put your suggestion, you mention numbers, age, start school early and then retire at 65. Perhaps rather than simply stating the number, perhaps you can highlight what the actual content or rationale is. Why? Why does it need to start early and end early?
 
@@ -129,7 +129,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Because as Haziq said — in my opinion, it took time to remove marketability as a measure. I mean there's no point telling people we have great universities with 98% marketability. Because under marketability, underemployment still counts — as long as you have a job. Whether you work at a counter or whatever, you still have a job, right? What we want going forward is that if you graduate as an engineer, you must get the right job with the right salary band. That's why if you look in the RMK, the country's current target is that by 2030 we want 72%, I think, of graduates to have matched employment. So for those who ask — we studied so hard and still can't get jobs — it's not that the issue has been overlooked. We already know that if we don't fix the underemployment problem, we won't hit the target.
 
-**Prof Madya Dr Muhammad Irwan Ariffin:** Alright, alright, alright. So?
+**Rafizi:** Alright, alright, alright. So?
 
 **Rafizi:** After this, lecturers will get new KPIs, because it will be filtered down from KPT.
 
@@ -145,7 +145,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Right? That was actually my instruction. I read all the previous RMKs, I know you all wrote up to 500 pages, poor you writing so long, people don't read it. So we really wanted to make it concise and just focus on the important things. That's why there are several pages that I feel actually don't need to be read in full, for those who want to read the RMK. I remember it's around — mine before was about 200 pages, I think my instruction back then was no more than 200 pages. What's important is that there's a summary — a summary document of about 10 pages. The last page has a summary in one diagram, that's the important one. Even if you don't read the whole thing, I'd ask others to at least go download it and read that first. Going back to what Prof said earlier, one main diagnosis in RMK13 is disillusionment due to the failure of the government and the country to provide opportunities for social mobility. That's actually very dangerous for the country, especially for the younger generation, and we can't blame them. Because in our time, being a bit pro-youth — in my generation, that's what I always say. Why is there the Malay term "berkolok gadai" (pawning everything)? Because back then, including in my own upbringing in the early 80s — families would be willing to sell land, sell cattle, pawn everything. Back then there was no PTPTN, no loans — to enter university you had to pay fees, buy everything yourself. And it was a big burden, especially for ordinary families. But parents would be willing to do anything, and children would study extremely hard because they knew if you excel in school, then if you go to university, not only would your own life improve, you would succeed in taking care of your family and improving your parents' lives. That's no longer the case though. And because of that, it has produced the generation of young people we have now, who, as Prof said, we can't even blame — because to be fair to them, they've done everything they were supposed to do. Told to do well in SPM, they scored. Then they went to university, got a degree, graduated — and ended up driving for Grab. Right? That phenomenon is the result of a combination of challenges, and partly the failure of the government, our system, and also our society to ensure there is social mobility. So that's the diagnosis. That's why the second pillar is about how, over the next 5 years, we want to restore the prospects of social mobility in society.
 
-**Haziq:** Okay, alright YB, just —
+**Prof Madya Dr Muhammad Irwan Ariffin:** Okay, alright YB, just —
 
 **Prof Madya Dr Muhammad Irwan Ariffin:** Please go ahead, let's have this energy. When YB mentions social mobility, yes, we can indeed see that education would be the good key to actually break whatever poverty cycle there is. You've been emphasizing education. It's just that perhaps one thing you can answer — it seems that we can see there is an asymmetry, an imbalance, between economic growth and our salaries. Right? When I look at RMK13, there are a few things you address on salary and wages. But perhaps it's not sufficient yet to actually ensure that movement — because I think that's also among the things the younger generation notices, in reports and whatnot, our GDP looks very good, inflation seems under control, we're a rich, developed country, high revenue — but wage movement is stubborn, it refuses to move. So perhaps YB can —
 
@@ -157,7 +157,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Prof Madya Dr Muhammad Irwan Ariffin:** Perhaps I can also see — YB just mentioned structure — but perhaps we can also think about riding along with our culture. Because from young, we've always known in our religion, Islam, we have a third sector. I think this is something unique to us. It's just that — this is something unique to us. Meaning, most of course RMK13, many of the indicators, these are basically things we take from the West. It's just that perhaps in terms of the Western framework, the third sector based on voluntary, philanthropic activities might be undervalued there. But in our culture, from young we're constantly taught — we must always help people, give charity, philanthropic activities, voluntary work. So perhaps if this thing — I know it's there in RMK13, it's good that it's included — but perhaps this is a very good alternative that can actually complement, as YB said earlier, strengthening fair wages and all these employment opportunities. Why not, rather than leaving it burdened on — I looked at the division, distribution of the sources, it's nicely laid out: roughly 70% public, 20% private, and another 10% would be collaboration between the two. So maybe — PPP.
 
-**Rafizi:** Right, rather than burdening that 70%, since we —
+**Prof Madya Dr Muhammad Irwan Ariffin:** Right, rather than burdening that 70%, since we —
 
 **Prof Madya Dr Muhammad Irwan Ariffin:** — this too, I just feel this thing isn't really reported properly, and sometimes, alhamdulillah, now it's getting more attention. But perhaps we can actually ride along with this — I think this is a strong point, the philanthropic side, waqf, zakat. I think in other cultures too we're taught to always be considerate, help others who are less fortunate and so on.
 
@@ -181,7 +181,7 @@ But what we managed to achieve with the 13th Malaysia Plan (RMK-13) is that, at 
 
 **Rafizi:** It's a handout. Because, psychologically, when a young family wants to marry and already has children, they don't count what is given in kind. They calculate: my salary is RM3,000, RM4,000 a month, deduct this, deduct that for the child, and I can't even eat. So actually, cash incentive, in my opinion, Prof, is important — because some of the burden can be removed through the provision of universal services, especially childcare, now. That preschool one, I hope they will do it — it's already in there, don't let anyone try to pretend otherwise later. But even so, to be fair to the family, things like diapers, for example, and formula milk — they're expensive. And if there were a child benefit — RM100, RM300 a month — even though it won't help 100%, at least we avoid — it cushions things a bit.
 
-**Prof Madya Dr Muhammad Irwan Ariffin:** It avoids that psychological barrier that has—
+**Rafizi:** It avoids that psychological barrier that has—
 
 **Rafizi:** Happened in other countries — which is, it prevents people from doing a cost-benefit analysis where "having a child just doesn't make business sense," and then you're done.
 
@@ -255,7 +255,7 @@ I don't know, you should really ask Prof, he's the teacher, not me. I was just a
 
 **Rafizi:** Then take another example, especially on chips — 100% tariff. Trump is indeed straightforward; he considers himself a dealmaker. Look at this week — he announced 100% tariff on chips, but Apple wasn't hit, because Apple had already announced a 100 billion dollar investment for onshoring, bringing its factories back. Take the example of FDI or chip manufacturers we have, like Intel or AMD — will they continue the FDI expansion we've already announced? Hard to answer, right?
 
-**Prof Madya Dr Muhammad Irwan Ariffin:** That's tough.
+**Rafizi:** That's tough.
 
 **Rafizi:** But say even if they don't do that, he says "never mind, we'll just relocate back to the US."
 
@@ -263,11 +263,11 @@ I don't know, you should really ask Prof, he's the teacher, not me. I was just a
 
 **Rafizi:** So our biggest export is chips and semiconductors. Then he has another new dimension — the impact on our exports. When exports are low, we have trade balance problems, and that adds to our twin deficit issue, you know.
 
-**Prof Madya Dr Muhammad Irwan Ariffin:** Right, twin deficit.
+**Rafizi:** Right, twin deficit.
 
 **Rafizi:** The trade deficit gets hit too. So actually all these beautiful plans can be sacrificed by one thing outside our control. This is what we call externality. Actually whatever Trump does can — not paralyze — but can definitely erode all the good plans in place. Like Prof said, we can only hope for the best.
 
-**Prof Madya Dr Muhammad Irwan Ariffin:** Just my view, okay —
+**Rafizi:** Just my view, okay —
 
 **Rafizi:** It's a bit different, meaning — of course for the short term, right now we need to do our best, but let's not get bullied to the point of just minimizing the impact. But I think we also need to learn from China.
 
@@ -283,7 +283,7 @@ I don't know, you should really ask Prof, he's the teacher, not me. I was just a
 
 **Rafizi:** Because the foundation is strong. Their national foundation is strong, and having a strong foundation comes with several advantages. One, their population is large.
 
-**Prof Madya Dr Muhammad Irwan Ariffin:** Their market is big. Big indeed.
+**Rafizi:** Their market is big. Big indeed.
 
 **Rafizi:** But you cannot deny, for example, their education system is very good. The top researchers in the world right now are from China. When Meta wanted to get ahead in the AI race, they assembled a dream team of AI engineers — all Chinese, no problem at all, for example. They're able to do it because they know that in global competition, competition will continue. There's no point crying, self-pity doesn't help you — "oh, poor us, oh we didn't make it." They know they have to bite the bullet, build, and then have a strong foundation. That's why every time there's a cycle like this, they navigate it and keep getting better and better. We need to learn to do the same. That's why, whatever the impact of all these tariffs, we must not let education reform slip. Investment for the future is very important, because it also has unintended consequences. This is Trump's second term. In Trump's first term, he already started the tariff war with China. Actually, the biggest winners from the first tariff war were Malaysia, Thailand — because when he squeezed China, Chinese companies came to invest here. That's why over the past 15 years we've seen huge Chinese investment. So we don't yet know what unintended positive consequences this trade war might bring to Malaysia. It's just that we'll only be able to capitalize on that opportunity if we have the right talents, if we have a good foundation. So either way, it's not as if you can run away from certain things that need to be done. This goes back to what Prof said earlier, to the young ones — learn to endure hardship, life is indeed tough. So there's no two ways about it. We really have to go through some changes that may be uncomfortable, but this is important for the times ahead.
 
@@ -299,7 +299,7 @@ I don't know, you should really ask Prof, he's the teacher, not me. I was just a
 
 **Rafizi:** But that's also — there's a part that isn't discussed.
 
-**Haziq:** So there are many reasons why RMK13 is under such heavy scrutiny, right?
+**Rafizi:** So there are many reasons why RMK13 is under such heavy scrutiny, right?
 
 **Rafizi:** There's one part — I noticed Datuk Amizan mentioned it. There's one bad thing in RMK13, which is actually price transparency. The reason why — and this isn't fiscal, it's not tax — is because in our country's supply chain and value chain, there is no price transparency. Our people understand price transparency as "jihad against profiteers," "jihad against middlemen" — that's how ordinary people put it. But it's grounded on real economic basis. Because we don't have price transparency, there's no policy, no legislation, no framework to enforce price transparency. Actually the traders in the middle, it's a black box, guys. By the time it reaches us, we don't know. Ask the retailer, they say "ah, the wholesaler raised it." Ask the wholesaler, they say "ah, the manufacturer raised it." The manufacturer says "ah, I have to pay GST." We don't even know if they're paying SST or not.
 
@@ -307,7 +307,7 @@ I don't know, you should really ask Prof, he's the teacher, not me. I was just a
 
 **Rafizi:** On the nuclear part, it is ambitious, but — when people say 10 years for putting in nuclear, SMR, small modular reactors — actually that 10 years includes, for example, ratification of international treaties. Usually our process for ratifying all these international treaty acts takes an extra 2-3 years. But I think that can be fast-tracked. Meaning within a year we should already have ratified it. And I think they've been trying to do that. So meaning if you can cut some of these processes down to 2-3 years here and there, and then SMR technology gets better — but on paper, it is very, very ambitious to pull off introducing nuclear into our energy mix within 6 years from now. Having said that, when we talk about introducing nuclear, it's actually about our capability building. Meaning if we want to, we can do it within 6 years. Because ultimately it still has to go through a process involving business viability — if we introduce it, is nuclear economical for our energy mix and so on?
 
-**Haziq:** We hope that—
+**Rafizi:** We hope that—
 
 **Rafizi:** It meets the economic criteria. But what we don't want to happen is — we need it to meet economic criteria, but we're not ready because all the infrastructure isn't there, the laws aren't there, right? So I think the next few years is more about getting all that compliance in place. So that, you know—
 
@@ -319,7 +319,7 @@ I don't know, you should really ask Prof, he's the teacher, not me. I was just a
 
 **Rafizi:** And at UIA, if I go there, don't close the gates, okay. My experience the last time UIA students invited me — what year was it, 2015 or 2016.
 
-**Haziq:** Rode in on a motorbike, right?
+**Prof Madya Dr Muhammad Irwan Ariffin:** Rode in on a motorbike, right?
 
 **Rafizi:** I wasn't allowed in until I had to be smuggled in on a motorbike. Then in the middle of speaking, someone had to become the victim, had to become the hero at that moment — someone came and snatched the mic. So after that, until now I haven't gone back to UIA. Let's just chat on my podcast instead after this. So if I go to UIA next time, please don't close the gates.
 
@@ -327,7 +327,7 @@ I don't know, you should really ask Prof, he's the teacher, not me. I was just a
 
 **Rafizi:** No, no, never.
 
-**Haziq:** Oh, never, huh?
+**Prof Madya Dr Muhammad Irwan Ariffin:** Oh, never, huh?
 
 **Rafizi:** As a minister, I don't think I ever went to any university.
 

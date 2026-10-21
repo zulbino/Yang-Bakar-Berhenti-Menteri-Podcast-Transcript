@@ -423,7 +423,7 @@ Saya tak rasa, walaupun kerajaan sebut 70% telah dilaksanakan, saya tak rasa soa
 
 **Farhan (Pa'an):** Laporan audit bersyarat.
 
-**Rafizi:** Ya, ataupun laporan audit berteguran. Berteguran.
+**Farhan (Pa'an):** Ya, ataupun laporan audit berteguran. Berteguran.
 
 **Haziq:** Penyata bersyarat.
 

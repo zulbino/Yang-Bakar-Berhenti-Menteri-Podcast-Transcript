@@ -107,9 +107,9 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Adil adil semua. So far UMNO dah ada, PKR dah ada, sekarang PAS.
 
-**Haziq:** Cat kau orang cakap.
+**Rafizi:** Cat kau orang cakap.
 
-**Rafizi:** Hadi Parlimen Jasin dan Harakah dah bertaubat.
+**Haziq:** Hadi Parlimen Jasin dan Harakah dah bertaubat.
 
 **Haziq:** Dah bertaubat. Ini yalah dia dah disaman, tetapi di pertengahan jalan tu dia selesaikan secara baiklah, minta maaf dan hanya membayar kos sebanyak RM15,000. Tak apalah menteri kaya.
 
@@ -189,9 +189,9 @@ Saya berharap juga PAS janganlah berkira-kira "lepas ni kita kaya, ada 40 juta, 
 
 **Rafizi:** Billboard ni kalau dekat masa kempen pilihan raya tu mungkinlah boleh dipertimbangkan, sebab itu kempen pilihan raya kan. Tapi kalau tiap-tiap hari pergi kerja macam ini kan, stress aku sebenarnya.
 
-**Haziq:** Inilah strategi awal mereka, YB. And then saya baru perasan sebab dia ada logo Jata Negara dengan Malaysia Madani.
+**Farhan (Pa'an):** Inilah strategi awal mereka, YB. And then saya baru perasan sebab dia ada logo Jata Negara dengan Malaysia Madani.
 
-**Farhan (Pa'an):** Yalah, ni agensi ni bawah.
+**Haziq:** Yalah, ni agensi ni bawah.
 
 **Rafizi:** Maksudnya dibayar oleh agensi. Ha, agensi bawah Cosuma ni. Ya Allah, kesian lunyai Cosuma. Hari tu hamper — kotak makanan agihkan. Sekarang billboard pula. Anwar tolonglah telefon, janganlah bazirkan duit rakyat negara macam ini. Ini betul eh, nampak atas tu — black.
 
@@ -221,7 +221,7 @@ Jadi sebab itu bagi saya, sendu tak sendu tu tak penting. Yang penting ialah isu
 
 **Rafizi:** Bukan, no, I mean I subscribe to some of the views lah, iaitu syarikat kapitalis besar ni yang memangsakan beli murah-murah daripada negara-negara miskin, jual mahal-mahal, kemudian corporate greed semua kan. Dan satu lagi, because aku ketagih demo lah, kan. Tak apa, esok ada. Even in London back then kan, demo-demo paling besar selalunya dibuat yang bersabit dengan Palestin dan juga anti-war lah, kan. Demo di London best tau — you jalan satu London, dia tutup jalan tu. Selalunya daripada Trafalgar Square right at the center. Trafalgar Square tu lebih kurang satu kilometer je daripada number 10 Downing Street tau. So daripada Trafalgar Square tu dengan speech, lepas tu kau berarak pusing sampai ke Hyde Park. Memang best lah kan. Without a protest, macam mana you boleh — cara dia festival tau, kan. Jadi, but even then, maksudnya kalau nak menjawab yang Pa'an kata kita tak ada budaya itu kan — protest culture ni memang ada di negara barat. British daripada zaman 60s, anti nuclear, France, memang ada all the time. Diorang ada strike culture, protest culture. Even then, protes paling besar 5,000, 10,000 kan. So, sekarang lagilah dengan zaman social media semua ni, saya tak rasalah kita perlu ambil port sangat dengan serangan-serangan ceplos yang "oh ni sendu lah", "itulah", "inilah" kan. But I think lah, seperti saya sebutlah, focus on satu mesej. Kedua, focus on the impact. Dan hari ini, semalam memang Yang Dipertuan Agong telah bertitah keluarkan kenyataan, kan. Jadi maksudnya dalam tempoh 2-3 bulan daripada tangkap Azam Baki yang pertama — yang itu bila tu? Dalam minggu ketiga Februari kan, Chinese New Year, dekat-dekat Chinese New Year kan, kita ambil weekend Chinese New Year kan, orang Cina balik tak ada semua kan. So if you think dalam tempoh 2 bulan, impactnya ialah isu Azam Baki ini refuse to go away. Bayangkan eh, kalau budak-budak ini tak sakitkan tangkap Azam Baki, maka tidak ada demo yang pertama, dan dalam keadaan semua parti-parti politik PH, BN, PN ni buat diam macam tak ada jadi apa-apa, maksudnya isu itu akan senyap begitu dan Azam Baki akan disambung untuk kali keempatlah. Tapi walaupun orang nak kata "sendu" kan, maksudnya sumbangan aktivis-aktivis muda ini sudah ada kesan kerana isu Azam Baki ini refuse to go sehingga dia menjadi isu besar negara, sehingga Dato' Seri Anwar menjadi defensif. Dan kalau kita baca dan hadam titah Yang Dipertuan Agong semalam kan — ya, ya, ya — kalau ikut laporannya, maksudnya Tan Sri Azam Baki tidak lagi akan disambunglah. Jadi bukankah itu maksudnya sudah ada kesan yang besar? Kalaupun bukan 100,000 orang turun esok pun, sebahagian daripada matlamat itu telah pun dicapai. And I think it's kudos to penganjur-penganjur. Dan dia menjadi isu besar yang berpanjangan itu bukan kerana demo sebelum Tahun Baru Cina, bukan kerana demo yang ini — kerana dari segi minat rakyat terus mengikuti isu itu di sosial media, dan dia berterusan kan. Jadi saya ingat esoklah. Esok kita berdoalah seberapa ramai yang hadir. Macam saya katalah, treat it as open house raya lah. Datang bawalah almond mafia kan semua — apa lagi kuih yang kau cakap itu eh? Almond mafia, kuih karpet tak ada. Hari tu banyak je orang bagi cadangan-cadangan nama kan yang bersabit dengan mafia korporat kan. Tapi tak apalah, so datang esok.
 
-**Haziq:** Kena pakai baju Melayu ke?
+**Farhan (Pa'an):** Kena pakai baju Melayu ke?
 
 **Rafizi:** Tak adalah, aku gurau je. Ada orang tanya nak pakai baju apa, ikut sukalah asalkan pakai baju, kan. Sebab dia tak macam Bersih dululah — Bersih yang ini tidak dianjurkan secara rasmi oleh Bersih, yang ini dibuat oleh Sekretariat Tangkap Azam Baki. Saya pakai baju hitam dulu kalau nak menjawab a bacuklah Shahir kan — saya sebenarnya kalau tengok sepanjang masa sebaik yang mungkin memang saya pakai baju gelap, baju hitam. Kat rumah saya tu ada berpuluh-puluh semua hitam. Sebabnya baju hitam tak nampak sangat perut boroi, tu je sebenarnya. Baju hitam, benda-benda gelap ni dia tak nampak kita gemuk sangat kan. Tapi tengoklah pakai je lah baju apa-apa.
 
@@ -275,7 +275,7 @@ Yang itu pihak kerajaan sekarang ini mengatakan ia melanggar perlembagaan, keran
 
 **Rafizi:** So cerita menua ni sepatutnya aku selalu bising sebab aku boleh rasa aku tua. Mata pun tak nampak, kena pakai spek. Tapi rabun dekat je kan?
 
-**Haziq:** Raban dekat lah.
+**Rafizi:** Raban dekat lah.
 
 **Rafizi:** Tapi orang kata memang bila you dah late 40s, early 50s, memang you rabun dekat.
 
@@ -333,7 +333,7 @@ Okey, so that's kita tahu profile penduduk kita, dan kita tak jauh dah — dia m
 
 **Rafizi:** Okey, before we go to that lah. So, hopefully by now, kita cakap panjang lebar ni kan, saya harap orang ramai boleh menghargai kenapa saya duk memekak dan mungkin saya seorang sahaja yang duk sibuk cerita negara menua, negara menua, negara menua. Kerana masalah itu adalah masalah generasi dan masalah negara yang cukup besar, tetapi kita langsung tak ambil tahu. Tapi nak cakap kat rakyat ni pun tak bolehlah, bukan kerja dia — bukan rakyat ni tiap-tiap hari tanggungjawab dia nak fikir apa nak jadi 20, 30 tahun. Itu tanggungjawab pemimpin dan tanggungjawab kerajaan dan pembangkang. Tapi pembangkang pun tak bertanggungjawab.
 
-**Haziq:** Itu yang masalah.
+**Rafizi:** Itu yang masalah.
 
 **Rafizi:** Suruh keluarkan KWSP je. Ini yang kita cuba berkongsi dan memberi pencerahan kepada orang ramailah. Kalau tengok kenapa saya konsisten dalam beberapa perkara — contohnya jangan setuju dengan langkah jangka pendek makan Panadol ni, yang keluarkan EPF untuk hidup senang sekarang, ataupun jangan nak popular, kita janjikan harga minyak rendah sampai bila-bila — kerana we have this asteroid coming. Now the bigger issue is this, eh. Katakanlah semua orang terima, semua orang bersetuju — kerajaan, ahli politik semua bersetuju — ini adalah masalah generasi yang kita kena tangani sekarang. Dia macam kau pernah tengok 2012 tak?
 
