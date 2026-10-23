@@ -85,7 +85,7 @@ the video before quoting anyone.
 - Sejarah harga minyak mentah dunia dan formula APM (Automatic Pricing Mechanism)
 - Isu kepimpinan tua vs muda dalam politik Melayu (Anwar, Mahathir, Muhyiddin, KJ)
 - Perpaduan kaum dan polarisasi masyarakat Melayu-Cina-India
-- Penukaran skim Padu kepada Budi
+- Penukaran skim PADU kepada Budi
 - Penggunaan Akta Hasutan 1948 terhadap pengkritik kerajaan dan janji manifesto PH untuk memansuhkannya
 - Isu bekalan beras tempatan dan telur di kawasan bandar
 
@@ -234,7 +234,7 @@ the video before quoting anyone.
 - Latar belakang dan perjalanan DSA membina akaun TikTok selepas Covid
 - Hubungan Rafizi dengan media semasa dan selepas menjadi menteri
 - RMK13 dan proses penggubalan Rancangan Malaysia Kelima Belas
-- Skim Padu dan pertikaian dasar bantuan tunai bersasar dengan Kementerian Kewangan
+- Skim PADU dan pertikaian dasar bantuan tunai bersasar dengan Kementerian Kewangan
 - Inisiatif Kemudahan Rakyat (IKR) berbanding saluran permohonan ICU/Majlis Daerah tradisional
 - Proses kitaran belanjawan dan permohonan peruntukan kementerian
 - Ketelusan pengumuman projek kerajaan persekutuan kepada wakil rakyat dan rakyat
@@ -527,7 +527,7 @@ the video before quoting anyone.
 - Kontroversi kerosakan hiasan kolam Deepavali di Penang
 - Cadangan kerajaan Selangor memperkenalkan sukan pickleball di sekolah
 - Soalan parlimen tentang reformasi pendidikan RMK ke-13: prasekolah 5 tahun dan sekolah rendah 6 tahun
-- Perkembangan sistem Padu dan penggunaannya dalam agihan subsidi bersasar RON95
+- Perkembangan sistem PADU dan penggunaannya dalam agihan subsidi bersasar RON95
 - Tuduhan 'Memali' oleh YB Kota Bharu (Takiyuddin Hassan) dan reaksi PAS
 - Isu tuntutan 40% hasil Sabah dan keputusan Mahkamah Tinggi Kota Kinabalu
 - Teguran PMX kepada pemaju perumahan mega berkaitan penyediaan sekolah dan tadika
@@ -1121,7 +1121,7 @@ the video before quoting anyone.
 - Beria: Fuziah dan Setiausaha Agung PKR berebut kerusi Parlimen Batu
 - Beria: Poster KSN ''reformasi satu kemestian'' dan kelewatan laporan Jawatankuasa Kawan-Kawan
 - Pengkelasan T20, M40, B40 dan cadangan kaedah pendapatan boleh belanja bersih (net disposable income)
-- Sistem Padu dan Perbelanjaan Asas Keluarga Kehidupan Wajar (PAKW)
+- Sistem PADU dan Perbelanjaan Asas Keluarga Kehidupan Wajar (PAKW)
 - Percanggahan dalaman kerajaan (MOF, DAP) tentang menyasarkan semula subsidi minyak kepada golongan T20
 - Struktur cukai kereta (import duty, excise duty, sales tax) dan sebab harga kereta tidak boleh diturunkan serta-merta
 - Dasar MITI mengehadkan import EV CBU murah dan kesannya kepada industri automotif tempatan (Proton, Perodua) dan pengguna
@@ -1518,3 +1518,23 @@ the video before quoting anyone.
 - Projek-projek besar belanjawan: TNB grid upgrade, UEM Lestra, EMR dan sovereign AI di bawah SKMM
 - Isu struktural yang tertinggal: MTLM pekerja asing, zon ekonomi khusus (JS-SEZ) dan dasar penuaan penduduk
 - Spekulasi tarikh pilihan raya umum akan datang berdasarkan tarikh kuat kuasa pengumuman dan peruntukan SPR
+
+## YBhM ep68 &mdash; 2026-10-16
+
+[Kerajaan Bertukar, Amalan Masih Sama? | YBM #68](https://www.youtube.com/watch?v=lqNf_P99B-I) &middot; [raw](episodes/yang-berhenti-menteri/2026-10-16-ep68-kerajaan-bertukar-amalan-masih-sama-ybm-68/raw.md) &middot; [mixed](episodes/yang-berhenti-menteri/2026-10-16-ep68-kerajaan-bertukar-amalan-masih-sama-ybm-68/interview.md) &middot; [EN](episodes/yang-berhenti-menteri/2026-10-16-ep68-kerajaan-bertukar-amalan-masih-sama-ybm-68/interview-en.md) &middot; [MS](episodes/yang-berhenti-menteri/2026-10-16-ep68-kerajaan-bertukar-amalan-masih-sama-ybm-68/interview-ms.md)
+
+- Segmen Beria: bas dua tingkat RapidKL dan pengalaman menaiki pengangkutan awam
+- Bantuan khas RM1,000 kepada pemandu teksi dan isu peruntukan belanjawan 2027 sebelum diluluskan
+- Kenyataan Nik Abduh, Eric See-To dan double standard PAS/UMNO dengan DAP
+- Cabaran dakwaan semula 47 pertuduhan DNAA Dato' Sri Zahid Hamidi
+- Kritikan Hamzah Zainuddin terhadap PH/PKR dan kepentingan belanjawan bayangan dalam demokrasi
+- Kenyataan Anwar Ibrahim 'cari Perdana Menteri lain' dan isu 1MDB/Tabung Haji/FELDA
+- Latar belakang MyEG/Zetrix dan hutang RM314 juta kepada JPJ
+- Kroni kapitalisme: hubungan Zetrix, Farhash, Rosetta Partners dan kontrak HeiTech Padu RM1 bilion (NIISe)
+- Pegangan saham bersama TS Wong/Zetrix dan Farhash dalam HeiTech Padu, Excel Force MSC dan Cuscapi Berhad
+- Projek MyDigital ID, direct award kepada MIMOS tanpa tender terbuka dan penglibatan Zetrix
+- Kejatuhan saham Zetrix 90% dan kerugian EPF, KWAP serta Urusharta Jamaah (UJSB)
+- Isu kewangan Excel Force MSC dan penerbitan saham baru akibat kekurangan tunai
+- Perbincangan tentang budaya kroni kapitalisme dan keperluan Political Funding Act
+- Kenyataan Hassan Karim menyesali sokongan kepada Nurul Izzah dalam pemilihan PKR dan isu penipuan pemilihan parti
+- Dinamik politik UMNO-PAS-Bersatu-PH/DAP pasca PRU dan hala tuju BERSAMA
