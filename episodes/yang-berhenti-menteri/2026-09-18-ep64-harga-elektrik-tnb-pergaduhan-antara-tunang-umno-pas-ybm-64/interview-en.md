@@ -86,7 +86,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** It's because it's not neutral. If, for example, we want to invite a panel, other panel members, you know. It might not be suitable to go to the Bersama headquarters for a podcast. You know. So, but today due to logistical reasons, it's fine—we have the giant Kancil as our background.
 
-**Haziq:** The giant logo, yes. Okay, okay. Alright YB, let's check out what's trending before we look at what people are angry about this week. We have some news. First of all. First of all, we have Ceplos instead of explaining.
+**Haziq:** The giant logo, yes. Okay, okay. Alright YB, let's check out what's trending before we look at what people are angry about this week. We have some news. First of all. First of all, we have ceplos instead of explaining.
 
 **Rafizi:** What's wrong? What did they do this time?
 
@@ -100,7 +100,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Haziq:** It started in July, right? I don't remember episode two being before July yet.
 
-**Rafizi:** But they hadn't announced RP4 yet at that time. They were just about to—so. That thing is set by the government, and if I were a TNB staff member, I'd say Ceplos is really overdoing it. Since you so casually throw TNB under the bus as if TNB decided this on their own and washed your hands of it, therefore we will also make a point of not voting for PKR. Oh. A daring incitement. So, so that's how "functional" those Ceplos are. Okay, right, right, right. Didn't they go quiet already?
+**Rafizi:** But they hadn't announced RP4 yet at that time. They were just about to—so. That thing is set by the government, and if I were a TNB staff member, I'd say ceplos is really overdoing it. Since you so casually throw TNB under the bus as if TNB decided this on their own and washed your hands of it, therefore we will also make a point of not voting for PKR. Oh. A daring incitement. So, so that's how "functional" those ceplos are. Okay, right, right, right. Didn't they go quiet already?
 
 **Haziq:** Well, to be fair, not many people tried to touch on it. But when they did touch on it, they blamed TNB.
 
@@ -120,7 +120,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Haziq:** YB should just let it be.
 
-**Haziq:** Nah, Ceplos isn't even worth much. Ah yes. Okay. So now he's helping Dato' Seri Anwar Ibrahim by taking on the hatred from TNB staff instead.
+**Haziq:** Nah, ceplos isn't even worth much. Ah yes. Okay. So now he's helping Dato' Seri Anwar Ibrahim by taking on the hatred from TNB staff instead.
 
 **Rafizi:** A good strategy. Okay, right. Next, YB. We have. ah, the Negeri Sembilan throne issue a little bit. Solving it by saying one thing to your face, another behind your back, doing something else, and announcing something else. Looks like there's a U-turn again, huh?
 
@@ -258,7 +258,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Haziq:** Congratulations to the new Formula King.
 
-**Rafizi:** The new Formula King. Brother Shahrir. Okay, alright. Statement about the rakyat being angry, YB. First, regarding the TNB bills. Why didn't you just go ask that Ceplos just now? He kena. Surely we don't need to explain this as well?
+**Rafizi:** The new Formula King. Brother Shahrir. Okay, alright. Statement about the rakyat being angry, YB. First, regarding the TNB bills. Why didn't you just go ask that ceplos just now? He kena. Surely we don't need to explain this as well?
 
 **Haziq:** But to be honest, we don't hear from the others either.
 
@@ -298,7 +298,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Haziq:** Yeah, yeah, yeah. Maybe we will—yalah.
 
-**Rafizi:** I even—I don’t remember all of it either. There are so many figures, right? Yes, absolutely. But this one—even if TNB has already raised electricity prices twice, we are the ones who have to help explain. We have to explain. The least they could do is sponsor us. Not even a "thank you" to the folks from TNB who are watching, right? We already explained it the first time around. Yeah, yeah. So, I always end up playing the victim because Ceplos-Ceplos doesn’t work. And the Communications Minister is even more dysfunctional. So every time there’s an issue about electricity prices or tariffs, we are the ones who get hassled to explain it. People think our job is literally just doing research all the time. So next time, TNB, the least you could do is sponsor us, right? Alright. So what do you want to ask about?
+**Rafizi:** I even—I don’t remember all of it either. There are so many figures, right? Yes, absolutely. But this one—even if TNB has already raised electricity prices twice, we are the ones who have to help explain. We have to explain. The least they could do is sponsor us. Not even a "thank you" to the folks from TNB who are watching, right? We already explained it the first time around. Yeah, yeah. So, I always end up playing the victim because ceplos-ceplos doesn’t work. And the Communications Minister is even more dysfunctional. So every time there’s an issue about electricity prices or tariffs, we are the ones who get hassled to explain it. People think our job is literally just doing research all the time. So next time, TNB, the least you could do is sponsor us, right? Alright. So what do you want to ask about?
 
 **Haziq:** Okay, right YB. Let's start with what's actually in our bill. Maybe, if I recall correctly from before—
 

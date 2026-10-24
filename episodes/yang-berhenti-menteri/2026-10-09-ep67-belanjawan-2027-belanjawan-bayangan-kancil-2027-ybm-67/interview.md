@@ -87,7 +87,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Sum Dek Joe:** Dan itu berniat jahat, sebab gang of four ni memainkan peranan yang utama dalam. Membodek Mao Zedong dan juga initiate Cultural Revolution, yang menyebabkan ramai orang kematian.
 
-**Rafizi:** Sebenarnya, kalau dalam konteks Malaysia sekarang, Gang of Four ni peranan dia dulu adalah peranan Ceplos. Tapi dalam PKR, dia tak boleh jadi Gang of Four, dia kena jadi Gang of Ceplos. Banyak dia orang.
+**Rafizi:** Sebenarnya, kalau dalam konteks Malaysia sekarang, Gang of Four ni peranan dia dulu adalah peranan ceplos. Tapi dalam PKR, dia tak boleh jadi Gang of Four, dia kena jadi Gang of ceplos. Banyak dia orang.
 
 **Haziq:** Last sekali, tak ada belanjawan alternatif, tak apa, kami dah ada banyak pelan induk.
 

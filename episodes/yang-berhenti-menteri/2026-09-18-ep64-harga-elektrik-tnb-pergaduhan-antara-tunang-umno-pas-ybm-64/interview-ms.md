@@ -78,7 +78,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Dia kerana dia tak neutral lah. Kalau lah contohnya kita nak panggil panel, ahli panel yang lain. Kan. Dia mungkin tidak sesuai untuk pergi ke ibu pejabat bersama untuk satu podcast. Kan. Jadi, tapi hari ini atas sebab-sebab logistik, maka tak apalah kita berlatarbelakangkan Kancil gegasi.
 
-**Haziq:** Logo ha yang gegasi. Okey, okey. Baik YB, kita check dulu apa yang ada beria sebelum kita tengok apa yang orang marah mi- pada minggu ini. Kita ada beria. Yang pertama. Yang pertama sekali, kita ada Ceplos daripada menjelaskan.
+**Haziq:** Logo ha yang gegasi. Okey, okey. Baik YB, kita check dulu apa yang ada beria sebelum kita tengok apa yang orang marah mi- pada minggu ini. Kita ada beria. Yang pertama. Yang pertama sekali, kita ada ceplos daripada menjelaskan.
 
 **Rafizi:** Apa hal? Dia buat apa pula tu?
 
@@ -92,7 +92,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Haziq:** Ju- Dimulai Julai kan? Saya tidak ingat episod kedua belum Julai lagi.
 
-**Rafizi:** Tapi dia dia dah, dia belum umum RP4 lagi masa tu. Baru nak ni ha. Jadi benda tu ditetapkan oleh kerajaan dan kalau saya jadi kakitangan TNB, saya kata beria betul Ceplos ni. Oleh sebab engkau selamba je baling kat TNB seolah-olah TNB pandai-pandai buat ni. Dan cuci tangan, maka oleh itu kita juga akan beria tidak akan undi PKR. Oh. Satu hasutan berani. Jadi aah, jadi itulah betapa berfungsinya Ceplos-ceplos yang ada. Okey, baik-baik-baik. Bukan dia orang dah senyap ke?
+**Rafizi:** Tapi dia dia dah, dia belum umum RP4 lagi masa tu. Baru nak ni ha. Jadi benda tu ditetapkan oleh kerajaan dan kalau saya jadi kakitangan TNB, saya kata beria betul ceplos ni. Oleh sebab engkau selamba je baling kat TNB seolah-olah TNB pandai-pandai buat ni. Dan cuci tangan, maka oleh itu kita juga akan beria tidak akan undi PKR. Oh. Satu hasutan berani. Jadi aah, jadi itulah betapa berfungsinya ceplos-ceplos yang ada. Okey, baik-baik-baik. Bukan dia orang dah senyap ke?
 
 **Haziq:** Jadi untuk jujur lah, tak ramai pun aah yang cuba sentuh. Tapi yang bila sentuh, dia salahkan TNB lah.
 
@@ -112,7 +112,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Haziq:** YB kena tak payah lah.
 
-**Rafizi:** Tak adalah, tidak ada hargalah Ceplos ni. Ha ya. Okey. Jadi sekarang dia membantu Dato' Seri Anwar Ibrahim dengan charge kemen- kebencian daripada kakitangan TNB pula.
+**Rafizi:** Tak adalah, tidak ada hargalah ceplos ni. Ha ya. Okey. Jadi sekarang dia membantu Dato' Seri Anwar Ibrahim dengan charge kemen- kebencian daripada kakitangan TNB pula.
 
 **Haziq:** Strategi yang baik. Okey baik. Selanjutnya YB. Kita ada. ha isu takhta Negeri Sembilan sedikit. Penyelesaian depan cakap lain, belakang cakap lain, buat lain, umum lain. Kan dah ada U-turn pula kan?
 
@@ -242,7 +242,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Haziq:** Tahniah Raja Formula yang baru.
 
-**Rafizi:** Raja Formula yang baru. Saudara Shahrir. Okey, baik. *Statement* rakyat marah YB. Pertama berkaitan dengan bil TNB. Kenapa tak pi tanya si Ceplos tadi je? Dia kena. Takkan yang ini pun kita nak kena *explain* juga?
+**Rafizi:** Raja Formula yang baru. Saudara Shahrir. Okey, baik. *Statement* rakyat marah YB. Pertama berkaitan dengan bil TNB. Kenapa tak pi tanya si ceplos tadi je? Dia kena. Takkan yang ini pun kita nak kena *explain* juga?
 
 **Haziq:** Tapi kita tak dengar daripada yang lain pun, secara jujurnya.
 
@@ -282,7 +282,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Haziq:** Ya, ya, ya. Mungkin kita akan yalah.
 
-**Rafizi:** Saya pun nak ke- saya pun tak ingat semua. Dia banyak angka kan. Ya, betul. Tapi yang ini TNB kalau ya pun dah dua kali dah kita TNB harga elektrik naik, kita yang nak kena tolong *explain*. Kena tolong *explain*. Kalau ya pun tolonglah *sponsor*. Terima kasih pun tidak kan kepada orang-orang TNB yang menonton kan. Dah kali pertama dulu tu kita dah *explain* dah. Ya, ya. Jadi, saya selalu jadi mangsa oleh kerana Ceplos Ceplos tidak berfungsi. Dan juga Menteri Komunikasi pun lagilah tidak berfungsi. Jadi setiap kali ada isu pasal harga elektrik ke tarif elektrik, kitalah yang kena kacau untuk *explain* kan. Jadi orang ingat memang kerja kita orang ni kerjanya buat *research* banyak masa kan. Jadi lain kali TNB ke paling kurang pun *sponsor*lah ya tak? Baik. Jadi kau nak tanya pasal apa?
+**Rafizi:** Saya pun nak ke- saya pun tak ingat semua. Dia banyak angka kan. Ya, betul. Tapi yang ini TNB kalau ya pun dah dua kali dah kita TNB harga elektrik naik, kita yang nak kena tolong *explain*. Kena tolong *explain*. Kalau ya pun tolonglah *sponsor*. Terima kasih pun tidak kan kepada orang-orang TNB yang menonton kan. Dah kali pertama dulu tu kita dah *explain* dah. Ya, ya. Jadi, saya selalu jadi mangsa oleh kerana ceplos ceplos tidak berfungsi. Dan juga Menteri Komunikasi pun lagilah tidak berfungsi. Jadi setiap kali ada isu pasal harga elektrik ke tarif elektrik, kitalah yang kena kacau untuk *explain* kan. Jadi orang ingat memang kerja kita orang ni kerjanya buat *research* banyak masa kan. Jadi lain kali TNB ke paling kurang pun *sponsor*lah ya tak? Baik. Jadi kau nak tanya pasal apa?
 
 **Haziq:** Okey, baik YB. Kita mula dengan apa yang ada dekat dalam bil kita tu lah. Mungkin kalau sebelum ini, yang saya ingatlah sebelum.
 
@@ -372,7 +372,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Tidak, tidak, tidak, tidak. Kenapa perlu ada dua tier satu, tier dua? Yalah, aku tak salahkan koranglah. Ini hanya beberapa orang dalam rakyat Malaysia yang tahu.
 
-**Rafizi:** Yang tahu. Ini pun tak pernah dibentangkan. Itu pun satu Ceplos ni. Kamu tak terangkan macam mana dikira semua kan. Jadi orang kalau naik harga dia marahlah. Dia bukan tahu daripada mana gas tu datang semua. Kenapa ada satu tier harga dia 30, harga maksimum dia 35 per MMBTU. MMBTU tu ialah Unit Terma British. Satu lagi ialah 46 ringgit. Sebab punca asal gas ni berlainan. Tier 1 itu ialah gas daripada Semenanjung Malaysia. Dulu-dulu, 30, 40 tahun yang lepas, kita banyak gas. Dan perindustrian kita ni tak cukup tinggi lagilah. Jadi masa itu gas ini digunakan untuk menjana elektrik. Saya ingat masa saya muda-mudalah, ini dalam 30 tahun, baiklah hampir 26, 27 tahun yang lepas kan. Harga gas untuk menjana elektrik di Malaysia, di Semenanjung di Semenanjung, ialah RM6.40 per MMBTU. Kan. Gas banyak masa tu. Banyak. Tak apa. Bakar, bakar, bakar buat jana elektrik kan. Masa itulah ramai semua nak buat IPP. Ha, kerana gas murah kan. Lama-lama permintaan untuk gas itu makin tinggi. Kan. Jadi contohnya kalau di Semenanjung Malaysia, saya ingat penggunaan setiap hari lebih kurang 2100 ke 2200 mscaf setiap hari. Dan oleh kerana permintaan yang tinggi, maka ini dalam tahun 2007, 2008 lah, dia mula jadi isu lah. Daripada kita bakar gas tu untuk menjana elektrik semata-mata, gas itu boleh menghasilkan lebih banyak hasil kepada negara, baik dari segi penciptaan nilai, baik dari segi cukai, kalau kita jual kepada industri. Contoh-contoh industri kita jual kepada petrokimia lah, kita jual kepada kilang-kilang, semualah.
+**Rafizi:** Yang tahu. Ini pun tak pernah dibentangkan. Itu pun satu ceplos ni. Kamu tak terangkan macam mana dikira semua kan. Jadi orang kalau naik harga dia marahlah. Dia bukan tahu daripada mana gas tu datang semua. Kenapa ada satu tier harga dia 30, harga maksimum dia 35 per MMBTU. MMBTU tu ialah Unit Terma British. Satu lagi ialah 46 ringgit. Sebab punca asal gas ni berlainan. Tier 1 itu ialah gas daripada Semenanjung Malaysia. Dulu-dulu, 30, 40 tahun yang lepas, kita banyak gas. Dan perindustrian kita ni tak cukup tinggi lagilah. Jadi masa itu gas ini digunakan untuk menjana elektrik. Saya ingat masa saya muda-mudalah, ini dalam 30 tahun, baiklah hampir 26, 27 tahun yang lepas kan. Harga gas untuk menjana elektrik di Malaysia, di Semenanjung di Semenanjung, ialah RM6.40 per MMBTU. Kan. Gas banyak masa tu. Banyak. Tak apa. Bakar, bakar, bakar buat jana elektrik kan. Masa itulah ramai semua nak buat IPP. Ha, kerana gas murah kan. Lama-lama permintaan untuk gas itu makin tinggi. Kan. Jadi contohnya kalau di Semenanjung Malaysia, saya ingat penggunaan setiap hari lebih kurang 2100 ke 2200 mscaf setiap hari. Dan oleh kerana permintaan yang tinggi, maka ini dalam tahun 2007, 2008 lah, dia mula jadi isu lah. Daripada kita bakar gas tu untuk menjana elektrik semata-mata, gas itu boleh menghasilkan lebih banyak hasil kepada negara, baik dari segi penciptaan nilai, baik dari segi cukai, kalau kita jual kepada industri. Contoh-contoh industri kita jual kepada petrokimia lah, kita jual kepada kilang-kilang, semualah.
 
 **Haziq:** Maksudnya nilai dia lebih tinggi?
 

@@ -81,11 +81,11 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [10:08] Sum Dek Joe: Membodek Mao Zedong dan juga Initiate, Cultural Revolution Yang menyebabkan Ramai orang kematian
 
-[10:16] Rafizi: Sebenarnya, kalau dalam konteks Malaysia sekarang Gang of Four ni, peranan dia dulu Adalah peranan Ceplos
+[10:16] Rafizi: Sebenarnya, kalau dalam konteks Malaysia sekarang Gang of Four ni, peranan dia dulu Adalah peranan ceplos
 
 [10:23] Haziq: Betul
 
-[10:25] Rafizi: Tapi dalam PKR, dia tak boleh jadi Gang of Four Dia kena jadi Gang Gang of Ceplos Banyak dia orang
+[10:25] Rafizi: Tapi dalam PKR, dia tak boleh jadi Gang of Four Dia kena jadi Gang Gang of ceplos Banyak dia orang
 
 [10:35] Haziq: Baik, tahniah Last sekali... Tak ada belanjawan alternatif, tak apa. Kami dah ada banyak pelan Induk.
 

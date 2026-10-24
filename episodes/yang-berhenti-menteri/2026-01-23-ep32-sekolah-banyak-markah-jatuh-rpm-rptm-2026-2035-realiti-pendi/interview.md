@@ -274,7 +274,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Haziq:** Okey, baik, YB clear. Kita ke topik yang lebih berat. Ini pun berat tapi kita tengoklah lepas ni — tak lain tak bukan berkaitan dengan Rancangan Pendidikan Malaysia, yang mungkin kita akan ambil masa sikit, YB.
 
-**Rafizi:** Hari ni saya minta maaflah kepada penonton-penonton, hari ni memang berat — banyak angka, banyak data. Tapi kalau tiap-tiap minggu kita komen pasal Ceplos je, bosan juga. Dan memang kita susun supaya topik pada minggu ini berat, supaya Ceplos cabut awal — dia tak tahan mendengar benda-benda berat ni. So sebab dia berat ni, kita akan ada slide. Jadi bagi mereka yang nak mengikuti slide itu, kalau tidak dia dengar lepas satu angka, satu angka, boleh imbas kod QR untuk dapatkan slide itu, yang boleh dirujuk semasa kita bincang lepas ini.
+**Rafizi:** Hari ni saya minta maaflah kepada penonton-penonton, hari ni memang berat — banyak angka, banyak data. Tapi kalau tiap-tiap minggu kita komen pasal ceplos je, bosan juga. Dan memang kita susun supaya topik pada minggu ini berat, supaya ceplos cabut awal — dia tak tahan mendengar benda-benda berat ni. So sebab dia berat ni, kita akan ada slide. Jadi bagi mereka yang nak mengikuti slide itu, kalau tidak dia dengar lepas satu angka, satu angka, boleh imbas kod QR untuk dapatkan slide itu, yang boleh dirujuk semasa kita bincang lepas ini.
 
 **Haziq:** Dan yalah, kita tahu pun baru-baru ini Dato' Seri Anwar dah melancarkan Rancangan Pendidikan Malaysia 2026 sehingga 2035, dan mungkin YB nak kongsi dulu dari perspektif — sebelum kita tengok lebih dalam, kita dekat mana sebenarnya through angka-angka yang ada. Dan kita terus yang pertama.
 
@@ -346,11 +346,11 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Haziq:** Dan mungkin bila disebut RPM ini, ramai yang kaitkan dengan RMK ke-13 sebab banyak benda-benda yang—
 
-**Haziq:** Ceplos tak, ceplos tak. Oh, kata bukan.
+**Haziq:** ceplos tak, ceplos tak. Oh, kata bukan.
 
 **Haziq:** Bukan.
 
-**Farhan (Pa'an):** Kebijaksanaan Falina. Ceplos tak kan.
+**Farhan (Pa'an):** Kebijaksanaan Falina. ceplos tak kan.
 
 **Rafizi:** Yalah, kita nak mula, I suppose you want to start there lah kan. Kadang-kadang yalah ceplos politik ni pun... Patut kalau jumpa tepi jalan lempang je. Ini bukan soal mainan siapa lebih hebat, siapa lebih pandai. Ini pasal budak-budak ni, maksudnya ini pasal anak-anak kita. Dan antara banyak-banyak benda dalam negara ni, yang paling penting ialah pendidikan. Even economy is a byproduct of pendidikan. You fix the school, you fix the classroom, you fix everything, kan. Jadi dia bukan soal ambil kredit. All we want to see is perkara itu diperbaiki. Saya tak rasa akan ada seorang yang boleh baiki semua because the task is humongous. Tengoklah kan, lawaklah aku duk baca semua ni. Ya Allah, orang sepatutnya bincang pasal intipati dan masalah, dekat mana masalah kita, what we are going to do — tapi dia duk sibuk cerita siapa yang lagi cerdik, siapa yang mula semua dulu. Tapi tak apalah, that's why kita buat podcast malam ini. We dia dry sikit, dia berat sikit, so that saya harap ibu bapa semua, guru-guru, rakyat keseluruhannya — kita perlu mula di suatu tempat untuk betul-betul serius menangani masalah reformasi pendidikan ini beyond politics, beyond sentimen kita, beyond perasaan kita.
 

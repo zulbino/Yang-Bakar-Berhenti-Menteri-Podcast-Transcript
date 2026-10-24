@@ -274,7 +274,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Haziq:** Okay, good, YB, that's clear. Let's move to a heavier topic. This one's also heavy but we'll see how it goes — none other than related to the Malaysia Education Blueprint, which might take us a while, YB.
 
-**Rafizi:** Today I apologize to the viewers, today is really heavy — lots of numbers, lots of data. But if every week we just comment on Ceplos, it gets boring too. And we actually arranged it so that this week's topic would be heavy, so that Ceplos leaves early — he can't stand listening to heavy stuff like this. So because it's heavy, we'll have slides. So for those who want to follow along with the slides, otherwise you'll be hearing one figure after another, you can scan the QR code to get the slides, which you can refer to as we discuss this further.
+**Rafizi:** Today I apologize to the viewers, today is really heavy — lots of numbers, lots of data. But if every week we just comment on ceplos, it gets boring too. And we actually arranged it so that this week's topic would be heavy, so that ceplos leaves early — he can't stand listening to heavy stuff like this. So because it's heavy, we'll have slides. So for those who want to follow along with the slides, otherwise you'll be hearing one figure after another, you can scan the QR code to get the slides, which you can refer to as we discuss this further.
 
 **Haziq:** And indeed, we know that recently Dato' Seri Anwar launched the Malaysia Education Blueprint 2026 to 2035, and perhaps YB wants to share first from the perspective — before we look deeper, where we actually stand through the existing figures. And let's go straight to the first one.
 

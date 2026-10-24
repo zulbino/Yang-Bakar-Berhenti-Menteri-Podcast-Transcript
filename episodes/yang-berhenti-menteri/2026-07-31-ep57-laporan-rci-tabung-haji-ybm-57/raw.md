@@ -67,7 +67,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [05:15] Haziq: Yeah.
 
-[05:15] Rafizi: Ha, maka Ceplos dan juga Kamil dan juga AMK kepit beg ni.
+[05:15] Rafizi: Ha, maka ceplos dan juga Kamil dan juga AMK kepit beg ni.
 
 [05:23] Haziq: Kepit beg.
 
@@ -391,7 +391,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [1:11:10] Haziq: Nanti aku jawab.
 
-[1:11:12] Rafizi: Nanti aku jawab kan. Okey ah. Ini menjawab yang Akmal Saleh juga. Akmal Saleh dan juga kita nak panggil apa eh yang geng-geng UMNO ni? Kalau PKR kita panggil Ceplos. Aku pun ya Allahu akbar. Ada oranglah tag aku dekat, ada ada orang hantar mesej, dia forward satu posting. Dia kata YB ni banyak sabar ya. Sebabnya kalau saya jadi YB eh, saya dah putus asa dengan rakyat Malaysia ni. Sebab dengan segala dah keluar RCI ni, dia boleh jawab, eh, kenapa pula aa Tabung Haji bermasalah? Kan masa itu dia bayar ba- banyak bayar dividen. Dividen banyak maksudnya untunglah. Sama juga macam perbahasan saya dekat parlimen Mac 2016 lah.
+[1:11:12] Rafizi: Nanti aku jawab kan. Okey ah. Ini menjawab yang Akmal Saleh juga. Akmal Saleh dan juga kita nak panggil apa eh yang geng-geng UMNO ni? Kalau PKR kita panggil ceplos. Aku pun ya Allahu akbar. Ada oranglah tag aku dekat, ada ada orang hantar mesej, dia forward satu posting. Dia kata YB ni banyak sabar ya. Sebabnya kalau saya jadi YB eh, saya dah putus asa dengan rakyat Malaysia ni. Sebab dengan segala dah keluar RCI ni, dia boleh jawab, eh, kenapa pula aa Tabung Haji bermasalah? Kan masa itu dia bayar ba- banyak bayar dividen. Dividen banyak maksudnya untunglah. Sama juga macam perbahasan saya dekat parlimen Mac 2016 lah.
 
 [1:12:08] Haziq: Yes.
 

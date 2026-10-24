@@ -67,7 +67,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [03:32] Haziq: Okey, itu.
 
-[03:33] Rafizi: Jadi, apa nama ni, kalau saya jadi Ceplos Ceplos, saya bimbanglah. Maksudnya Ceplos Ceplos pun sekarang ini telah terdedah kepada ancaman pekerja asing. Kan? Kalau tak selama ni kita ingat ni pekerja-pekerja dekat ladang kelapa sawit ke apa. Sekarang cyber trooper pun terdedah kepada pekerja asing.
+[03:33] Rafizi: Jadi, apa nama ni, kalau saya jadi ceplos ceplos, saya bimbanglah. Maksudnya ceplos ceplos pun sekarang ini telah terdedah kepada ancaman pekerja asing. Kan? Kalau tak selama ni kita ingat ni pekerja-pekerja dekat ladang kelapa sawit ke apa. Sekarang cyber trooper pun terdedah kepada pekerja asing.
 
 [03:59] Haziq: Beria weh.
 
@@ -155,7 +155,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [14:53] Haziq: Tangkap a- tangkap gambar.
 
-[14:55] Rafizi: Yang ni beria Ceplos bersusun-susun menjawab dan menghentamlah.
+[14:55] Rafizi: Yang ni beria ceplos bersusun-susun menjawab dan menghentamlah.
 
 [15:00] Haziq: YB, saya selaku entah siapa-siapa nak bagi pandangan a atau nak menekalah kenapa YB buat macam ni. Sebab ramai yang kata a alah YB takkanlah nak petty sangat benda macam ni. Tapi saya, saya, saya awal-awal tengok kan, eh, apa hal Rafizi macam ni. Tapi bila saya fikir bila saya teringat YB banyak cakap kan. Ah, kita terlalu banyak apa ni, ah, apa ni menyembunyikan perkara-perkara yang sebenarnya tak baik, tabiat yang buruk dengan benda-benda yang bagus. Contohnya, YB pernah bagi contoh dalam podcast episod kelima ke keenam tentang hadiah hari guru kan. Kononnya kita nak hargai orang itu. Ah, hari guru tapi kita dah instill budaya bode. Yalah nakkan sesuatu dengan bagi benda dari awal. Ah, dan besar, dan besar-besar lagi teruklah. Macam ni saya tengok ini pseudo intelek. Mungkinlah.
 
