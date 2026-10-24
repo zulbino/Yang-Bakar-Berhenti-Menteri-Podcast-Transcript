@@ -23,6 +23,12 @@
     {"acronym": null, "name": "Kementerian Sumber Manusia", "english": "Ministry of Human Resources", "source": "https://en.wikipedia.org/wiki/Cabinet_of_Malaysia"},
     {"acronym": null, "name": "Kementerian Digital", "english": "Ministry of Digital", "source": "https://en.wikipedia.org/wiki/Cabinet_of_Malaysia"},
     {"acronym": null, "name": "Kementerian Komunikasi", "english": "Ministry of Communications", "source": "https://en.wikipedia.org/wiki/Cabinet_of_Malaysia"},
+    {
+      "acronym": "KPKT",
+      "name": "Kementerian Perumahan dan Kerajaan Tempatan",
+      "english": "Ministry of Housing and Local Government",
+      "source": "https://www.kpkt.gov.my/"
+    },
     {"acronym": null, "name": "Kementerian Pertahanan", "english": "Ministry of Defence", "source": "https://en.wikipedia.org/wiki/Cabinet_of_Malaysia"},
     {"acronym": "KPKM", "name": "Kementerian Pertanian dan Keterjaminan Makanan", "english": "Ministry of Agriculture and Food Security", "source": "https://www.kpkm.gov.my/bm/utama"},
     {"acronym": null, "name": "Kementerian Pengangkutan", "english": "Ministry of Transport", "source": "https://en.wikipedia.org/wiki/Cabinet_of_Malaysia"},
