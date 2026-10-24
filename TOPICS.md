@@ -1538,3 +1538,22 @@ the video before quoting anyone.
 - Perbincangan tentang budaya kroni kapitalisme dan keperluan Political Funding Act
 - Kenyataan Hassan Karim menyesali sokongan kepada Nurul Izzah dalam pemilihan PKR dan isu penipuan pemilihan parti
 - Dinamik politik UMNO-PAS-Bersatu-PH/DAP pasca PRU dan hala tuju BERSAMA
+
+## YBhM ep69 &mdash; 2026-10-23
+
+[Mafia Korporat- Saman Ke Tak Saman | YBM #69](https://www.youtube.com/watch?v=PYCjpi1DUEw) &middot; [raw](episodes/yang-berhenti-menteri/2026-10-23-ep69-mafia-korporat-saman-ke-tak-saman-ybm-69/raw.md) &middot; [mixed](episodes/yang-berhenti-menteri/2026-10-23-ep69-mafia-korporat-saman-ke-tak-saman-ybm-69/interview.md) &middot; [EN](episodes/yang-berhenti-menteri/2026-10-23-ep69-mafia-korporat-saman-ke-tak-saman-ybm-69/interview-en.md) &middot; [MS](episodes/yang-berhenti-menteri/2026-10-23-ep69-mafia-korporat-saman-ke-tak-saman-ybm-69/interview-ms.md)
+
+- Segmen Beria: Skim Lindungan 24 Jam PERKESO dan tuntutan gigitan kucing
+- Segmen Beria: Akmal Saleh, Teresa Kok dan isu saman defamasi
+- Segmen Beria: Jawapan ''kona baring'' PM Anwar Ibrahim di Parlimen tentang mafia korporat dan rampasan aset AMLA
+- Segmen Beria: Kontroversi aplikasi TuJu menggantikan Waze dan isu tadbir urus LLM-ProSignal
+- Segmen Beria: Kritikan Ustaz Wan Ji dan budaya politik ''Rafizi seorang je yang betul
+- Skandal mafia korporat: laporan Bloomberg, SPRM dan kartel penguatkuasaan undang-undang
+- Kronologi kes mafia korporat: Tan Sri Azam Baki, perlanjutan kontrak SPRM dan demo Tangkap Azam Baki
+- Perebutan syarikat NexG/Datasonic antara Victor Chin, Farhash dan Mr. R (Ruben)
+- Dakwaan Ramanan menerima RM9.5 juta dan sidang media balasnya
+- Kaitan Zetrix AI, TS Wong, HeiTech Padu dan MyDigital ID dengan rangkaian mafia korporat
+- Perbandingan skandal mafia korporat dengan 1MDB dan NFC serta akauntabiliti Perdana Menteri Anwar Ibrahim
+- Tuduhan dendam peribadi terhadap Anwar Ibrahim dan isu kewangan politik/budaya rasuah dalam parti
+- Kes peribadi Nik Nazmi: pengakuan, permohonan maaf dan keputusan BERSAMA merehatkannya selama tiga bulan
+- Dakwaan Yayasan Hijau dan isu tadbir urus NGO/agensi kerajaan berkaitan Nik Nazmi
