@@ -939,7 +939,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [1:25:50] Faiz Ahmad: Sebut nama.
 
-[1:25:51] Rafizi: Ya. Aku pun tak ingat nama dia orang ni. Dia orang duk panggil Ceplos. Aku pun tak faham Ceplos ni apa dia kan. Jangan rendahkan akal rakyat. Okey. Kalau pun kita sokong parti kita, kita tak boleh ambil holier than thou.
+[1:25:51] Rafizi: Ya. Aku pun tak ingat nama dia orang ni. Dia orang duk panggil ceplos. Aku pun tak faham ceplos ni apa dia kan. Jangan rendahkan akal rakyat. Okey. Kalau pun kita sokong parti kita, kita tak boleh ambil holier than thou.
 
 [1:26:09] Haziq: Okey.
 

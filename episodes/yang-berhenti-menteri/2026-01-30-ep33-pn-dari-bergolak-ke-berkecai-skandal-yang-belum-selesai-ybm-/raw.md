@@ -375,11 +375,11 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [25:18] Rafizi: Sebab apa yang berianya? Beria umum dulu ke apa?
 
-[25:21] Haziq: Dia ada a few lah. I think kalau tengok dekat social media pun Ceplos punya pertahankan perlu ada ujian ni sangat kuatlah. Tiba-tiba dia can cancel.
+[25:21] Haziq: Dia ada a few lah. I think kalau tengok dekat social media pun ceplos punya pertahankan perlu ada ujian ni sangat kuatlah. Tiba-tiba dia can cancel.
 
-[25:32] Rafizi: So yang beria tu ialah Ceplos lah.
+[25:32] Rafizi: So yang beria tu ialah ceplos lah.
 
-[25:34] Farhan (Pa'an): Yang beria adalah Ceplos, aa dikatakan o- boleh dikatakan menteri juga sebab menteri kata perlu ada ujian diagnostik semua tu. Tiba-tiba PM tarik balik.
+[25:34] Farhan (Pa'an): Yang beria adalah ceplos, aa dikatakan o- boleh dikatakan menteri juga sebab menteri kata perlu ada ujian diagnostik semua tu. Tiba-tiba PM tarik balik.
 
 [25:50] Rafizi: Saya ada, saya ada teka-teki lah rasanya apa yang berlaku ni.
 
@@ -771,11 +771,11 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [1:01:05] Wong Chen: And there's no punishment no. Dia tak ada kata, you know, some censure from parliament if you fail. Tak ada. So I think we have to go back and revisit properly.
 
-[1:01:15] Rafizi: Dia cuma yalah this issue ni, Kalau tengok jawapan-jawapan daripada Ceplos.
+[1:01:15] Rafizi: Dia cuma yalah this issue ni, Kalau tengok jawapan-jawapan daripada ceplos.
 
 [1:01:26] Haziq: 40 billion.
 
-[1:01:26] Rafizi: Ha, dan jawapan Ceplos tu bukan jawapan yang diorang datang sendiri tu. Dia tak faham pun semua ni. So kalau tengok jawapan itu ialah jawapan copy paste.
+[1:01:26] Rafizi: Ha, dan jawapan ceplos tu bukan jawapan yang diorang datang sendiri tu. Dia tak faham pun semua ni. So kalau tengok jawapan itu ialah jawapan copy paste.
 
 [1:01:36] Wong Chen: Dia kata apa?
 
@@ -921,7 +921,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [1:15:03] Wong Chen: Betul.
 
-[1:15:04] Rafizi: Sebab kalau pun dia- Our legacy. And our legacy kan. Sebab kalaupun dia kembali sebagai Perdana Menteri untuk penggal kedua 2028, dia nak pergi ke parlimen, dia nak bentangkan 3% tu, kalau tax refund masih lagi 30, 40 billion, memang dia kena lawak satu dunia. Because orang kata you fudge the numbers, man. It's not 3%. Macam-macam cerita kan. Tapi kalau bertukar kerajaan, lagilah dia kena lanyak. Kerana kerajaan baru akan kata, saya dengan kesal mengatakan bahawa kita mewarisi defisit yang lebih tinggi daripada yang sebenarnya dilaporkan sebelum ini. Oleh sebab itu, Akta FRA ini tidak berguna. Ini yang Anwar Ibrahim sebelum ini sebut sebagai bukti tata kelola kami semua. Sebenarnya itu hanyalah mainan semata-mata, silap mata saja. Jadi sebenarnya tak payah buatlah. So, nanti we come back from the future lah kita sebut kan. Ha kan. Jadi sebab itu kita tunggulah apa. Dia bolehlah bagi jawapan yang kita dah boleh nampaklah bibit-bibit jawapan daripada Ceplos ni kan. Dia cuba nak kelirukan oh sebenarnya ada 40 billion yang belum dikutip gitu-gitu gini. Tapi yalah Ceplos ni dia tak ada syarikat. Dia mana pernah bayar cukai syarikat semua ni. Dia bukan faham. But if you run your company and sekarang individual pun dah dapat CP500. Ada orang biasa pun, contohnya macam kita ada income sewa. Kita ada property yang kita kutip sewa. Semua orang yang ada apa nama ni income aa bukan BE lah kan BE kan. Eh, sorry, apa ni? Aa dia ada kategori dia, form dia aa BE lah kan. Maksudnya you ada income selain daripada employment, rent ke dividend, semua dah dapat CP500. Dah dah kena buat estimate semualah. Jadi yang yang kalau sebelum ini hanya syarikat-syarikat sahaja yang terasa, lepas ni individu pun terasa tau. And then unless we, the next question lah yang kita kena tanya, okey, dia tak boleh nak deny 33.3 billion ni. The next question is berapa you akan bayar setiap tahun? And the moment they commit that, then you have to reflect in your deficit number lah, hutang dan sebagainya lah kan.
+[1:15:04] Rafizi: Sebab kalau pun dia- Our legacy. And our legacy kan. Sebab kalaupun dia kembali sebagai Perdana Menteri untuk penggal kedua 2028, dia nak pergi ke parlimen, dia nak bentangkan 3% tu, kalau tax refund masih lagi 30, 40 billion, memang dia kena lawak satu dunia. Because orang kata you fudge the numbers, man. It's not 3%. Macam-macam cerita kan. Tapi kalau bertukar kerajaan, lagilah dia kena lanyak. Kerana kerajaan baru akan kata, saya dengan kesal mengatakan bahawa kita mewarisi defisit yang lebih tinggi daripada yang sebenarnya dilaporkan sebelum ini. Oleh sebab itu, Akta FRA ini tidak berguna. Ini yang Anwar Ibrahim sebelum ini sebut sebagai bukti tata kelola kami semua. Sebenarnya itu hanyalah mainan semata-mata, silap mata saja. Jadi sebenarnya tak payah buatlah. So, nanti we come back from the future lah kita sebut kan. Ha kan. Jadi sebab itu kita tunggulah apa. Dia bolehlah bagi jawapan yang kita dah boleh nampaklah bibit-bibit jawapan daripada ceplos ni kan. Dia cuba nak kelirukan oh sebenarnya ada 40 billion yang belum dikutip gitu-gitu gini. Tapi yalah ceplos ni dia tak ada syarikat. Dia mana pernah bayar cukai syarikat semua ni. Dia bukan faham. But if you run your company and sekarang individual pun dah dapat CP500. Ada orang biasa pun, contohnya macam kita ada income sewa. Kita ada property yang kita kutip sewa. Semua orang yang ada apa nama ni income aa bukan BE lah kan BE kan. Eh, sorry, apa ni? Aa dia ada kategori dia, form dia aa BE lah kan. Maksudnya you ada income selain daripada employment, rent ke dividend, semua dah dapat CP500. Dah dah kena buat estimate semualah. Jadi yang yang kalau sebelum ini hanya syarikat-syarikat sahaja yang terasa, lepas ni individu pun terasa tau. And then unless we, the next question lah yang kita kena tanya, okey, dia tak boleh nak deny 33.3 billion ni. The next question is berapa you akan bayar setiap tahun? And the moment they commit that, then you have to reflect in your deficit number lah, hutang dan sebagainya lah kan.
 
 [1:17:29] Wong Chen: Spend less lah, fight corruption more lah. That's the only way out.
 

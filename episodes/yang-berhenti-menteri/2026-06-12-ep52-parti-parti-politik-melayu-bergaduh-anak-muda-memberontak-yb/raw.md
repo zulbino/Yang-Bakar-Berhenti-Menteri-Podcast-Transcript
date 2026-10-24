@@ -789,15 +789,15 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [39:51] Zaim Zulkifli: Oh, rakyat ju- rakyat Johor bukan 4.2 juta?
 
-[39:54] Rafizi: No. No, no, no, no, no. Okey. Kenapa Zaleha aa sampai tersasul 90 juta bahagi 4.2 juta dapat 20 juta. Kenapa dia sampai tersasul? Sebabnya dia bukanlah seorang yang biasa berceramah. Dia tak pernah berceramah. Pernah aku tengok Zaleha sebelum kita letak dia jadi calon di Sekijang tahun 2022. Ada tak rakyat Malaysia ni yang kenal Zaleha ni sebagai terkedepan?
+[39:54] Rafizi: No. No, no, no, no, no. Okey. Kenapa Zaliha aa sampai tersasul 90 juta bahagi 4.2 juta dapat 20 juta. Kenapa dia sampai tersasul? Sebabnya dia bukanlah seorang yang biasa berceramah. Dia tak pernah berceramah. Pernah aku tengok Zaliha sebelum kita letak dia jadi calon di Sekijang tahun 2022. Ada tak rakyat Malaysia ni yang kenal Zaliha ni sebagai terkedepan?
 
 [40:27] Haziq: Tak ada. Tak nampak dekat trak YB dah.
 
-[40:29] Rafizi: Ha, pasal nampak dekat trak YB, trak aku kan, dekat Sekijang kan. Jadi dia tak pernah berada di depan. Jadi bila dia tak pernah berada di depan, dia tak pernah kena bagi ucapan macam ini. Dia kemahiran dia ialah doktor setempatlah. Dia kalau sembang semua tu okeylah. Tapi you campak dia suruh bagi ceramah yang sebagai pimpinan utama. Memang tersasul lah dia. Dia bukan biasa pengucapan awam ceramah ni. Jadi sebenarnya yang salah bukan Zaleha. Yang beria tu ialah PKR pergi letak dia. Sepatutnya PKR memang dah tahu. Itu aku kata hebat.
+[40:29] Rafizi: Ha, pasal nampak dekat trak YB, trak aku kan, dekat Sekijang kan. Jadi dia tak pernah berada di depan. Jadi bila dia tak pernah berada di depan, dia tak pernah kena bagi ucapan macam ini. Dia kemahiran dia ialah doktor setempatlah. Dia kalau sembang semua tu okeylah. Tapi you campak dia suruh bagi ceramah yang sebagai pimpinan utama. Memang tersasul lah dia. Dia bukan biasa pengucapan awam ceramah ni. Jadi sebenarnya yang salah bukan Zaliha. Yang beria tu ialah PKR pergi letak dia. Sepatutnya PKR memang dah tahu. Itu aku kata hebat.
 
 [41:16] Zaim Zulkifli: Dia punya analisis.
 
-[41:18] Rafizi: Sebenarnya kesianlah Zaleha jadi mangsalah. You letak orang yang bukan ahli dia untuk tiba-tiba mengetuai pilihan raya negeri. Yang dia tidak pernah ada rekod yang berceramah panjang. Dia pun tidak ada pengikut yang besar kerana ceramah yang, yang berpengaruh sebelum itu kan. Jadi dia punya learning curve tu kena sangat cepat, habis tersasul keluar 20 juta lah. Jadi yang ini nak kena tanyalah pimpinan-pimpinan PKR, kenapa dia tak letakkan Rahmanan untuk berceramah ni? Kan ha.
+[41:18] Rafizi: Sebenarnya kesianlah Zaliha jadi mangsalah. You letak orang yang bukan ahli dia untuk tiba-tiba mengetuai pilihan raya negeri. Yang dia tidak pernah ada rekod yang berceramah panjang. Dia pun tidak ada pengikut yang besar kerana ceramah yang, yang berpengaruh sebelum itu kan. Jadi dia punya learning curve tu kena sangat cepat, habis tersasul keluar 20 juta lah. Jadi yang ini nak kena tanyalah pimpinan-pimpinan PKR, kenapa dia tak letakkan Rahmanan untuk berceramah ni? Kan ha.
 
 [41:56] Haziq: Rasa lebih better ke?
 
@@ -805,7 +805,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [42:06] Haziq: Tarikan untuk anak muda.
 
-[42:07] Rafizi: Tapi itulah. So ini cabaran-cabaran yang PKR kena berdepanlah. Sebab selain daripada Dato' Seri Anwar dan juga Saifuddin Nasution, PKR akan ada masalah tau berceramah. Sebab gap antara Nas- Sa- Saifuddin dengan Dato' Seri Anwar dengan the next line of leadership tu, tak ada seorang pun yang memang sebab ceramah sekit ni dia sebenarnya macam rock artist. Dia orang yang mengikuti penceramah ni, dia ikut 10, 15 tahun. Dia macam rock band lah, tour the country kan. Dia ada grupi semua kan. Jadi you you you need to take that long. Dia bukan macam pergi bagi ceramah dalam majlis kementerian merasmikan sesuatu. You are a story. Kau kena ada kemahiran storyteller. Kau kena ada kemahiran stand up comedy. And you certainly have to know how to work the crowd. Dia sama macam rock band lah. Nyanyi-nyanyi lagu, alamak orang tak respond. Dia pun buka bajulah. So, pimpinan PKR yang ada sekarang ni termasuklah juga Zaleha, dia memang tidak pernah melalui aa training itu dan sepatutnya pimpinan PKR perlu tahulah.
+[42:07] Rafizi: Tapi itulah. So ini cabaran-cabaran yang PKR kena berdepanlah. Sebab selain daripada Dato' Seri Anwar dan juga Saifuddin Nasution, PKR akan ada masalah tau berceramah. Sebab gap antara Nas- Sa- Saifuddin dengan Dato' Seri Anwar dengan the next line of leadership tu, tak ada seorang pun yang memang sebab ceramah sekit ni dia sebenarnya macam rock artist. Dia orang yang mengikuti penceramah ni, dia ikut 10, 15 tahun. Dia macam rock band lah, tour the country kan. Dia ada grupi semua kan. Jadi you you you need to take that long. Dia bukan macam pergi bagi ceramah dalam majlis kementerian merasmikan sesuatu. You are a story. Kau kena ada kemahiran storyteller. Kau kena ada kemahiran stand up comedy. And you certainly have to know how to work the crowd. Dia sama macam rock band lah. Nyanyi-nyanyi lagu, alamak orang tak respond. Dia pun buka bajulah. So, pimpinan PKR yang ada sekarang ni termasuklah juga Zaliha, dia memang tidak pernah melalui aa training itu dan sepatutnya pimpinan PKR perlu tahulah.
 
 [43:31] Zaim Zulkifli: Oh, tapi bukan macam ada Izzah, Amiruddin Shari apa semua, Kamil, dia orang tak boleh ceramah?
 

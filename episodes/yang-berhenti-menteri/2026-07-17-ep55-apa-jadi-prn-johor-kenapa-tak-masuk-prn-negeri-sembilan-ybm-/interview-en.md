@@ -219,7 +219,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** So it's fine, at least it gives our live streams a bit of breathing room, otherwise our live streams get attacked by them every single night. So now let BN feel it.
 
-**Haziq:** But it's true, Ceplos has really gone all-out against them too. Really heartbroken, huh?
+**Haziq:** But it's true, ceplos has really gone all-out against them too. Really heartbroken, huh?
 
 **Rafizi:** But yeah, I think we—
 

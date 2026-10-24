@@ -635,11 +635,11 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [1:44:49] Haziq: Jadi soalan.
 
-[1:44:50] Rafizi: Eh, jangan lari no. Tengok sampai ke sudah. Korang ni kadang-kadang bila benda-benda berat ni bosanlah dia nak tahu pasal Ceplos saja.
+[1:44:50] Rafizi: Eh, jangan lari no. Tengok sampai ke sudah. Korang ni kadang-kadang bila benda-benda berat ni bosanlah dia nak tahu pasal ceplos saja.
 
 [1:44:59] Haziq: Ha, dia nak tahu gosip.
 
-[1:45:01] Rafizi: Ceplos itu cili saja kan. Nak bagi perasa saja. Negara kita ni kalau nak selesai, a lebih baik, kita tak boleh larilah daripada benda-benda macam ni kan. Ya.
+[1:45:01] Rafizi: ceplos itu cili saja kan. Nak bagi perasa saja. Negara kita ni kalau nak selesai, a lebih baik, kita tak boleh larilah daripada benda-benda macam ni kan. Ya.
 
 [1:45:14] Haziq: Dan di hujung nanti akan ada tentang Papa Gomo. Tapi sebelum itu dengarkan Neta dulu. Cuma YB, mungkin saya nak sentuh sikitlah a sikap a semua oranglah. Bila YB cakap a kita nak cakap tentang Neta semua ni. Aa mungkin ramai penonton dan mangsa-mangsa scammer yang mendengar ni pada malam ni nak dengar yalah benda-benda yang panaslah. Tapi YB pula nak selit benda ilmiah. Ini sebenarnya dah melawan hukum alam politician, YB. Nak bercakap benda yang tak hot semua ni.
 
@@ -845,7 +845,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [2:57:34] Haziq: 2, 2 jam 57 minit.
 
-[2:57:36] Rafizi: Okey, 2 minit terakhir. Sebab kita kena sebelum 3 jam lah kan. Jadi saya nak tutup beginilah kan. Sekarang ini naratif yang dibina oleh kerajaan Madani, oleh orang keliling Dato' Seri Anwar ni, dia dari segi pendekatannya sama seperti zaman Dato' Sri Najib. Dari segi contentnya sama. Pendekatan dia gunakan kaedah cyber trooper, bot semua ni kan, telah dibuktikan pun. Kemudian kita pun tahu ada Ceplos berbayar semua ni kan. Jadi bila benda tu tak organik, maka dia memerlukan arahan dan juga aa skrip. Dan skrip itu yang diulang tiap-tiap hari kepada orang macam saya, diserang tiap-tiap hari, merajuk, meroyan, nyek nyek nyek, menteri gagal. Sampai bila-bila. Sebenarnya benda tu tak ada kesan. Dan untuk PM pula, kalau kita tengok naratif dan skripnya ialah PMS terbaik, PMS terbaik. Allah kesian PMS. PMS tak ambil gaji kan semua kan. Orang mungkin mereka lupa zaman Najib dulu itulah yang dibuatnya. Aku tiap-tiap hari memang kena maki termasuklah oleh Papa Gomo ni. Apa yang diorang tak kutuk? Fitnah, gay, semua dia sebut kan. Dan akhirnya benda tu orang boleh nampak yang ini semuanya adalah dia panggil apa? Coordinated inauthentic behavior. Ini semua cyber trooper, Ceplos semua ni kan. Dan yang duk kata PMM terbaik, PMX terbaik, PMX terbaik. Zaman Najib dulu macam tu lah. Malu apa bosku? Bosku terbaik.
+[2:57:36] Rafizi: Okey, 2 minit terakhir. Sebab kita kena sebelum 3 jam lah kan. Jadi saya nak tutup beginilah kan. Sekarang ini naratif yang dibina oleh kerajaan Madani, oleh orang keliling Dato' Seri Anwar ni, dia dari segi pendekatannya sama seperti zaman Dato' Sri Najib. Dari segi contentnya sama. Pendekatan dia gunakan kaedah cyber trooper, bot semua ni kan, telah dibuktikan pun. Kemudian kita pun tahu ada ceplos berbayar semua ni kan. Jadi bila benda tu tak organik, maka dia memerlukan arahan dan juga aa skrip. Dan skrip itu yang diulang tiap-tiap hari kepada orang macam saya, diserang tiap-tiap hari, merajuk, meroyan, nyek nyek nyek, menteri gagal. Sampai bila-bila. Sebenarnya benda tu tak ada kesan. Dan untuk PM pula, kalau kita tengok naratif dan skripnya ialah PMS terbaik, PMS terbaik. Allah kesian PMS. PMS tak ambil gaji kan semua kan. Orang mungkin mereka lupa zaman Najib dulu itulah yang dibuatnya. Aku tiap-tiap hari memang kena maki termasuklah oleh Papa Gomo ni. Apa yang diorang tak kutuk? Fitnah, gay, semua dia sebut kan. Dan akhirnya benda tu orang boleh nampak yang ini semuanya adalah dia panggil apa? Coordinated inauthentic behavior. Ini semua cyber trooper, ceplos semua ni kan. Dan yang duk kata PMM terbaik, PMX terbaik, PMX terbaik. Zaman Najib dulu macam tu lah. Malu apa bosku? Bosku terbaik.
 
 [2:59:31] Haziq: Respect my PM.
 
@@ -853,7 +853,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [3:00:05] Haziq: Habislah YB, dia orang dengar podcast ni nanti kan dia orang tukar strategi.
 
-[3:00:09] Rafizi: Setakat ini selepas 1 tahun masih lagi belum berjaya tukar strategi lah. Sebab aa mereka bergantung kepada Ceplos-Ceplos. Dan sebab itu aku tak pernah setuju kalau ada pasal cybertrooper semua ni. Kerana kalau otak tu dah letak kat lutut, kan, you ajar macam mana pun akhirnya yang keluar macam itulah. Dan orang yang waras dan rakyat biasa ni dia akan rasa ini semua ni, ini semua mainan politik dan dia shutdown terus. Apa you terangkan pun, dia tak nak dengar. Baik.
+[3:00:09] Rafizi: Setakat ini selepas 1 tahun masih lagi belum berjaya tukar strategi lah. Sebab aa mereka bergantung kepada ceplos-ceplos. Dan sebab itu aku tak pernah setuju kalau ada pasal cybertrooper semua ni. Kerana kalau otak tu dah letak kat lutut, kan, you ajar macam mana pun akhirnya yang keluar macam itulah. Dan orang yang waras dan rakyat biasa ni dia akan rasa ini semua ni, ini semua mainan politik dan dia shutdown terus. Apa you terangkan pun, dia tak nak dengar. Baik.
 
 [3:00:44] Haziq: Baik.
 

@@ -91,7 +91,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Sum Dek Joe:** Sucking up to Mao Zedong and also initiating the Cultural Revolution, which caused many deaths.
 
-**Rafizi:** Actually, in the context of Malaysia today, the Gang of Four's role back then was the role of Ceplos. But in PKR, he can't be the Gang of Four, he has to be the Gang of Ceplos. There are many of them.
+**Rafizi:** Actually, in the context of Malaysia today, the Gang of Four's role back then was the role of ceplos. But in PKR, he can't be the Gang of Four, he has to be the Gang of ceplos. There are many of them.
 
 **Haziq:** Lastly, there's no alternative budget, but that's okay, we already have plenty of master plans.
 

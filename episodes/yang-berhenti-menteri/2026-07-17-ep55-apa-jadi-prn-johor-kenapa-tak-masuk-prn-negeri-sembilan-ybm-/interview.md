@@ -219,7 +219,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Rafizi:** Jadi tak apalah, dia bagi bernafas sikit kita punya live, kalau tidak kita punya live tiap-tiap malam kena serang dengan diorang ni kan. So sekarang BN rasakan.
 
-**Haziq:** Tapi betul lah, Ceplos pun memang all-out lah dengan diorang kan. Sakit hati betul?
+**Haziq:** Tapi betul lah, ceplos pun memang all-out lah dengan diorang kan. Sakit hati betul?
 
 **Rafizi:** Tapi yalah, saya ingat kita lah kalau—
 

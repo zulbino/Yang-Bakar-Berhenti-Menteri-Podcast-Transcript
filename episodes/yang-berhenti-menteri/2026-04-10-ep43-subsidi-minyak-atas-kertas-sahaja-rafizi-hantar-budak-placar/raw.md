@@ -23,11 +23,11 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [00:00] Rafizi: Lah kan, dari segi sumbangan daripada parti, dari segi standing dia dengan rakyat, daripada latar belakang dialah. Tapi saya selalulah juga yang memainkan peranan ini dulu-dulu-dululah kan. Sebab saya dijadikan salah seorang yang perlu menelefon ketua cabang itu untuk memberitahu, minta maaflah kau tak jadi calon. Jadi saya fahamlah soal-soal watikah semua ni kan. Dan terpaksalah mendengar ketua cabang itu dan yalah ada kes-kes yang mana dia tak dapatlah walaupun cal- cabang itu kuat, aktif macam mana pun kan.
 
-[00:40] Haziq: Besar peranan YB dalam apa berkaitan dengan calon-calon ni lah. Sebab sebab Ceplos bila keluar cerita Dato' Seri Anwar pegang lutut YB, dia orang tak percaya. Ish, watik- presiden yang keluarkan watikah. Kenapa apa perlu nak pegang lutut YB?
+[00:40] Haziq: Besar peranan YB dalam apa berkaitan dengan calon-calon ni lah. Sebab sebab ceplos bila keluar cerita Dato' Seri Anwar pegang lutut YB, dia orang tak percaya. Ish, watik- presiden yang keluarkan watikah. Kenapa apa perlu nak pegang lutut YB?
 
 [00:57] Rafizi: Tapi kempen itu jentera pengarah pilihan raya yang pusing negara kan. Kalau ingat, aa Dato' Seri Anwar pun pada ketika itu memang menyedarilah bahawa aa dari rekod 2018 pilihan raya semua itu, maksudnya saya ada peranan sayalah. Dan saya ingat ketika itu Dato' Seri Anwar tahu bahawa saya selalunya lantang. Kalau saya tak setuju dan ada pandangan, saya cakap. Dan masalahnya bila pihak media tanya sebab saya tak reti pusing. Aku tak reti tipu sebenarnya. Kalau orang tanya setuju ke tak setuju, tak setuju. Jadi itulah yang dia sangat-sangat berharap, saya ingat ketika itu, kerana dia tahu memang pandangan saya terhadap Ramanan, rekod, ada beberapa perkara yang saya timbulkan itu maksudnya saya memang tidak bersetujulah. Jadi kebimbangan dia takut masuk pilihan raya oleh kerana saya tak bersetuju dan saya akan jelaskan secara terbuka, dia bimbang itu akan ada kesan kepada kempen keseluruhan PKR ketika itulah.
 
-[02:10] Haziq: Ha, tu cerita dia. Okey, Okey Bey. Beria. Wah. Cakap tentang Ceplos dan calon baru. Kita ke seterusnya. Profesor Betina.
+[02:10] Haziq: Ha, tu cerita dia. Okey, Okey Bey. Beria. Wah. Cakap tentang ceplos dan calon baru. Kita ke seterusnya. Profesor Betina.
 
 [02:22] Rafizi: Profesor Bet- dia eja profesor tu, dia mem- mem- tak, dia maksudnya dia memang tak reti mengeja ke atau dia buat-buat ke apa dia?
 
@@ -37,11 +37,11 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [02:43] Haziq: Tas dia ketua cabang paya besar, YB.
 
-[02:46] Rafizi: Dia ni ketua Ceplos lah.
+[02:46] Rafizi: Dia ni ketua ceplos lah.
 
-[02:48] Haziq: Oh, ketua Ceplos.
+[02:48] Haziq: Oh, ketua ceplos.
 
-[02:48] Rafizi: Ketua Ceplos yang paling ke depan lah kan. Saya dah sebut dululah, saya kenal dia ni lama. Tapi masa saya kenal dia, dia tak adalah gila macam ini kan. Jadi aku tak tahu mungkin bila dah jadi kerajaan orang jadi gila kan. Saya satu yang saya tak faham lah kan, yang dia beria-ia ni memaki hamun, guna bahasa kesat semua ni sebelum kita sampai ke soal profesor betina tu kan. Ya, ya, ya. Saya pun tak faham apa yang dia dapat sebenarnya. Nak kata dia ni dapat tempat diangkat dan dipandang oleh pimpinan parti, memang tak ada orang pandang dia daripada dulu. Malah kalau dulu pun yang melayannya pun saya je lah yang melayan dia. Sebenarnya pimpinan parti kanan yang yang pusat ni memang tak layan dia sangatlah. Dan baru-baru ni pun baru dia jadi ketua cabang itu pun baru menang tanpa bertanding kan. Jadi saya tak pasti yang dia beria-ia sangat ni sehingga tiap-tiap hari aa memaparkan perangai di media sosial yang kita kalau orang tua ni agak malu lah kot kan. Dah umur tua semua kan. Saya tak pasti apa yang dia dapatlah. Cuma saya sebelum ini malas nak melayan semualah kan. Tapi apabila dia menghina seorang, ni Dr. Nur Aisyah.
+[02:48] Rafizi: Ketua ceplos yang paling ke depan lah kan. Saya dah sebut dululah, saya kenal dia ni lama. Tapi masa saya kenal dia, dia tak adalah gila macam ini kan. Jadi aku tak tahu mungkin bila dah jadi kerajaan orang jadi gila kan. Saya satu yang saya tak faham lah kan, yang dia beria-ia ni memaki hamun, guna bahasa kesat semua ni sebelum kita sampai ke soal profesor betina tu kan. Ya, ya, ya. Saya pun tak faham apa yang dia dapat sebenarnya. Nak kata dia ni dapat tempat diangkat dan dipandang oleh pimpinan parti, memang tak ada orang pandang dia daripada dulu. Malah kalau dulu pun yang melayannya pun saya je lah yang melayan dia. Sebenarnya pimpinan parti kanan yang yang pusat ni memang tak layan dia sangatlah. Dan baru-baru ni pun baru dia jadi ketua cabang itu pun baru menang tanpa bertanding kan. Jadi saya tak pasti yang dia beria-ia sangat ni sehingga tiap-tiap hari aa memaparkan perangai di media sosial yang kita kalau orang tua ni agak malu lah kot kan. Dah umur tua semua kan. Saya tak pasti apa yang dia dapatlah. Cuma saya sebelum ini malas nak melayan semualah kan. Tapi apabila dia menghina seorang, ni Dr. Nur Aisyah.
 
 [04:17] Haziq: Ya, itulah dia refer lah.
 
@@ -259,7 +259,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [31:37] Haziq: Okey.
 
-[31:37] Rafizi: Ha, tahyul betul ikut kalau kalau saya tengok tu kan. Dan malangnya ialah kerajaan tidak berjaya menerangkan dengan baik. Ah, daripada Menteri Komunikasi kepada Menteri Kewangan, kepada Menteri Ekonomi. Berani. Mungkin Menteri Ekonomi ingat tak apalah aku duk diam-diam. Kan. Ah, sampailah kepada J-KOM, sampailah kepada Ceplos. Dia tak boleh terangkan dan menangkis perkara-perkara tahyul yang sekarang ini berlegar-legar kan. Dan dia bukan soal menyokong kerajaan ke, dia soal soal beri panadol kepada Dato' Seri Anwar. Kut lepas ni ada orang kata, tengok tu Rafizi dah sokong Anwar balik. Ha, dia membela Anwar. Tak ada. Fakta adalah fakta. Hakikat adalah hakikat. Kalau memang kita dah sakit kanser, nak tipu kot macam mana lagi? Kanser kanser lah kan? Dan dengan menerima hakikat dan juga mengetahui fakta-fakta diagnosis itu, barulah aa masyarakat boleh buat keputusan yang lebih baik. Dan bila masyarakat buat keputusan yang lebih baik itu, aa masyarakat nanti boleh memilih pemimpin-pemimpin kerajaan yang nampak betul-betul berupaya untuk menyelesaikan masalah ini kan. Jadi apa tahyul-tahyul ataupun salah faham yang yang saya duk dengar lah kan. Ya. Yang ini yang duk curah minyak jadi bakar besar ni kan. Satu yang popular tu saya tengok Hisham Jalil lah kan. Betul. Hisham Jalil bercerita konon dia dulu ni lah yang menetapkan semua masa dia dekat EPU. EPU. Tahun 2008.
+[31:37] Rafizi: Ha, tahyul betul ikut kalau kalau saya tengok tu kan. Dan malangnya ialah kerajaan tidak berjaya menerangkan dengan baik. Ah, daripada Menteri Komunikasi kepada Menteri Kewangan, kepada Menteri Ekonomi. Berani. Mungkin Menteri Ekonomi ingat tak apalah aku duk diam-diam. Kan. Ah, sampailah kepada J-KOM, sampailah kepada ceplos. Dia tak boleh terangkan dan menangkis perkara-perkara tahyul yang sekarang ini berlegar-legar kan. Dan dia bukan soal menyokong kerajaan ke, dia soal soal beri panadol kepada Dato' Seri Anwar. Kut lepas ni ada orang kata, tengok tu Rafizi dah sokong Anwar balik. Ha, dia membela Anwar. Tak ada. Fakta adalah fakta. Hakikat adalah hakikat. Kalau memang kita dah sakit kanser, nak tipu kot macam mana lagi? Kanser kanser lah kan? Dan dengan menerima hakikat dan juga mengetahui fakta-fakta diagnosis itu, barulah aa masyarakat boleh buat keputusan yang lebih baik. Dan bila masyarakat buat keputusan yang lebih baik itu, aa masyarakat nanti boleh memilih pemimpin-pemimpin kerajaan yang nampak betul-betul berupaya untuk menyelesaikan masalah ini kan. Jadi apa tahyul-tahyul ataupun salah faham yang yang saya duk dengar lah kan. Ya. Yang ini yang duk curah minyak jadi bakar besar ni kan. Satu yang popular tu saya tengok Hisham Jalil lah kan. Betul. Hisham Jalil bercerita konon dia dulu ni lah yang menetapkan semua masa dia dekat EPU. EPU. Tahun 2008.
 
 [33:22] Haziq: Pun yang tu pun ada cerita juga?
 
@@ -697,7 +697,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [2:11:16] Haziq: Oh ya.
 
-[2:11:17] Rafizi: Haa, Ceplos tengah tepuk tangan. Ye, akhirnya dia akan dibuang daripada PKR.
+[2:11:17] Rafizi: Haa, ceplos tengah tepuk tangan. Ye, akhirnya dia akan dibuang daripada PKR.
 
 [2:11:23] Haziq: Akhirnya adakah saudara Rafizi akan dipecat? Aaa, YB baru dapat surat daripada Pejabat Lembaga Disiplin. Surat tunjuk sebab lah ya, YB. Dengan macam-macam yang mungkin YB akan go through sendirilah. Cuma YB, saya selaku rakyat jelata biasa ni tertanya-tanya a- Kau
 

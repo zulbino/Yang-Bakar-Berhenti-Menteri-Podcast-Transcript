@@ -107,7 +107,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Haziq:** Okay, alright YB. Let's move on to the segment.
 
-**Rafizi:** Chin Chong is a bit unlucky today, because he's been invited — since this schedule was actually set in advance, but the issues that come up can't be predetermined, it follows whatever happened last week. Last week was intense. So Chin Chong has to attend the podcast session on a hot topic day. After this he'll have to chase after Ceplos.
+**Rafizi:** Chin Chong is a bit unlucky today, because he's been invited — since this schedule was actually set in advance, but the issues that come up can't be predetermined, it follows whatever happened last week. Last week was intense. So Chin Chong has to attend the podcast session on a hot topic day. After this he'll have to chase after ceplos.
 
 **Lee Chean Chung:** No worries. YB ready?
 
@@ -137,7 +137,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Haziq:** And maybe people also wonder, because it's often become a topic of debate on Twitter, retweets using Datuk Seri Anwar's official account. Sometimes he tweets things that also come from cyber troopers. Who does it, I wonder?
 
-**Rafizi:** I don't know. We can't say for sure, we don't even know how many people have access to his account, right. But there are 2 possibilities. I know he's hands-on when it comes to his accounts — WhatsApp, Twitter, all of it. Before, he was the one who checked it constantly, meaning back then he personally handled Twitter, though he was less into Facebook. That was before. Now, God knows, with TikTok and everything I don't know, right. But there are two possibilities: one, it's him personally; the other, even if it's someone else, but once it becomes an issue because some of what he retweets comes from Ceplos or from cyber troopers. When people have had enough — I think Malaysiakini even reported on the PM himself retweeting this. If it were me, if I had a team, since I also have other people with access to my account — if someone on my team went and retweeted something I didn't agree with, they'd really get an earful from me. Listen up. That's really how it should be. That's why, basically, you'll notice I never retweet or share anything. But if someone misused it, dared to do something I didn't agree with, they'd really get told off. So either way, whether Dato' Seri Anwar himself retweeted or reposted it, or someone else did — but it means he doesn't mind that his official account is spreading things that some of our citizens are uncomfortable with. Don't make me comment on this alone, Chin Chong should weigh in too.
+**Rafizi:** I don't know. We can't say for sure, we don't even know how many people have access to his account, right. But there are 2 possibilities. I know he's hands-on when it comes to his accounts — WhatsApp, Twitter, all of it. Before, he was the one who checked it constantly, meaning back then he personally handled Twitter, though he was less into Facebook. That was before. Now, God knows, with TikTok and everything I don't know, right. But there are two possibilities: one, it's him personally; the other, even if it's someone else, but once it becomes an issue because some of what he retweets comes from ceplos or from cyber troopers. When people have had enough — I think Malaysiakini even reported on the PM himself retweeting this. If it were me, if I had a team, since I also have other people with access to my account — if someone on my team went and retweeted something I didn't agree with, they'd really get an earful from me. Listen up. That's really how it should be. That's why, basically, you'll notice I never retweet or share anything. But if someone misused it, dared to do something I didn't agree with, they'd really get told off. So either way, whether Dato' Seri Anwar himself retweeted or reposted it, or someone else did — but it means he doesn't mind that his official account is spreading things that some of our citizens are uncomfortable with. Don't make me comment on this alone, Chin Chong should weigh in too.
 
 **Lee Chean Chung:** I'm scared of it now. To me, that also represents — even if used by someone else with that account, right, but it represents the originality of that person, so it becomes his stance too, representing his position as well. So if it's not him, then something needs to be done — otherwise it gives the impression this is from the Prime Minister himself, the owner of the account.
 
@@ -183,15 +183,15 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Haziq:** If you sue, YB, you could open two more shops with that.
 
-**Rafizi:** Useless. These people, honestly, I don't know. Because if you want to sue, the problem with suing people is that it takes a lot of time — we'd have to pay lawyers, then we'd have to sit and prepare everything. So it's not worth it. And whoever we'd sue would just be — well, whoever gets sued gets sued. But if every level of cyber trooper has become "Ceplos" level now, making conjectures that are truly irrational conjectures — well, the rest, they'll bear that in the afterlife.
+**Rafizi:** Useless. These people, honestly, I don't know. Because if you want to sue, the problem with suing people is that it takes a lot of time — we'd have to pay lawyers, then we'd have to sit and prepare everything. So it's not worth it. And whoever we'd sue would just be — well, whoever gets sued gets sued. But if every level of cyber trooper has become "ceplos" level now, making conjectures that are truly irrational conjectures — well, the rest, they'll bear that in the afterlife.
 
 **Lee Chean Chung:** YB, I think the reason he's going all out is maybe because he's still new in PKR.
 
-**Rafizi:** So he needs to become an even bigger Ceplos.
+**Rafizi:** So he needs to become an even bigger ceplos.
 
 **Lee Chean Chung:** Right, he needs to show he's out front. And meanwhile, I've noticed the older members of the party regarding this case — many of them are actually staying quiet because they know what actually happened. So they don't want to add to their sins, so to speak, over this matter.
 
-**Farhan (Pa'an):** Actually, Qian Chun has a good point. The ones echoing a lot about the 1.1 billion are actually Ceplos and the newer members.
+**Farhan (Pa'an):** Actually, Qian Chun has a good point. The ones echoing a lot about the 1.1 billion are actually ceplos and the newer members.
 
 **Rafizi:** Who are "the old ones"? Examples of the old ones — Nurul Izzah, Nurul Izzah hasn't commented on anything at all, the old grassroots.
 

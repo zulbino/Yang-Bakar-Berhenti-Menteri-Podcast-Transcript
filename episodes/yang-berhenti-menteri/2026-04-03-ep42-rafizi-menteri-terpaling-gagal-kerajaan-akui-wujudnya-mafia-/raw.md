@@ -629,7 +629,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [1:31:37] Haziq: YB, kita nak pergi tengok Power Rangers sorang-sorang ni ke ataupun kita- Tak adalah.
 
-[1:31:42] Rafizi: I mean this one ni, apa nama ni, saya tak tahu siapa penasihat media or political strategist kepada PKR or yalah yang saya tak tahu siapa yang menyusunnya, sama ada Fahmi Fadzil sendiri ke apa kan. I think it backfires big time sebab satunya bila mereka dah mula bertukar kepada dia nak kena correct semua segala jenis manusia ni, the signal is that whatever they were doing before doesn't work. It has failed miserably. Sebelum ini ialah saya tengok dia dah ada beberapa fasa kan. Mula dia gunakan Ceplos untuk serang tiap-tiap hari. So nampak macam itu tak berjayalah. Ada satu peringkat Dato' Seri Anwar sendiri yang reply. Ha, dia dia sindir lah, nyek nyek nyek lah, itu semua pun tak jalan. Ya. So kita dah masuk fasa ketiga. Cuma bila dia buat begini, dia jadi lawaklah kerana orang-orang yang dipilih ni kredibilitinya sangatlah rendah. You know, you ambil Eng Lam Yong.
+[1:31:42] Rafizi: I mean this one ni, apa nama ni, saya tak tahu siapa penasihat media or political strategist kepada PKR or yalah yang saya tak tahu siapa yang menyusunnya, sama ada Fahmi Fadzil sendiri ke apa kan. I think it backfires big time sebab satunya bila mereka dah mula bertukar kepada dia nak kena correct semua segala jenis manusia ni, the signal is that whatever they were doing before doesn't work. It has failed miserably. Sebelum ini ialah saya tengok dia dah ada beberapa fasa kan. Mula dia gunakan ceplos untuk serang tiap-tiap hari. So nampak macam itu tak berjayalah. Ada satu peringkat Dato' Seri Anwar sendiri yang reply. Ha, dia dia sindir lah, nyek nyek nyek lah, itu semua pun tak jalan. Ya. So kita dah masuk fasa ketiga. Cuma bila dia buat begini, dia jadi lawaklah kerana orang-orang yang dipilih ni kredibilitinya sangatlah rendah. You know, you ambil Eng Lam Yong.
 
 [1:32:57] Haziq: Eng Lam Yong.
 
@@ -865,11 +865,11 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [2:24:21] Haziq: 0 tambah 0 tambah 0 tambah 0 tambah 0. Lepas tu bahagikan dengan subjek. Jadi bila dihimpunkan semua manusia-manusia berbilion-bilion tu, kita dapatlah average tu kan. Jadi maksudnya kalau ramai orang yang straight A plus, rendahlah dia punya apa point tu. Macam tu.
 
-[2:24:39] Rafizi: So dia tunjukkanlah ni kan. Kemudian dia tunjukkan cemerlang A. Sebenarnya cemerlang A plus, A dengan A minus tu kurang tau. Daripada 13,779. Berkurang. Berbanding dengan 13,827 lah kan. But in fact percentage wise eh, kalau you ambil percentage 2025 banding dengan 2024 kan, yang dapat straight A ni 13,779 over 366,000 tu. Percentage is even lower lah kan. Kemudian adalah yang lain-lain tu. Tapi masalahnya to be fair lah, I don't think it's Fadlina ke Kementerian Pendidikan. Masalahnya Ceplos-Ceplos.
+[2:24:39] Rafizi: So dia tunjukkanlah ni kan. Kemudian dia tunjukkan cemerlang A. Sebenarnya cemerlang A plus, A dengan A minus tu kurang tau. Daripada 13,779. Berkurang. Berbanding dengan 13,827 lah kan. But in fact percentage wise eh, kalau you ambil percentage 2025 banding dengan 2024 kan, yang dapat straight A ni 13,779 over 366,000 tu. Percentage is even lower lah kan. Kemudian adalah yang lain-lain tu. Tapi masalahnya to be fair lah, I don't think it's Fadlina ke Kementerian Pendidikan. Masalahnya ceplos-ceplos.
 
 [2:25:24] Haziq: Okey.
 
-[2:25:25] Rafizi: Ha, Ceplos-Ceplos duk lambung ialah ini keputusan terbaik dalam sejarah. Peradaban dunia. Dia tak cerita sebenarnya dia punya running number tu daripada 2021. Most probably itu, itu kali pertam- bukan kali pertamalah. Itu mungkin cara dia revise macam mana GPK dikira dan dia masa itu ialah sekarang dia panggil apa? Kurikulum.
+[2:25:25] Rafizi: Ha, ceplos-ceplos duk lambung ialah ini keputusan terbaik dalam sejarah. Peradaban dunia. Dia tak cerita sebenarnya dia punya running number tu daripada 2021. Most probably itu, itu kali pertam- bukan kali pertamalah. Itu mungkin cara dia revise macam mana GPK dikira dan dia masa itu ialah sekarang dia panggil apa? Kurikulum.
 
 [2:25:50] Haziq: KSSR.
 
@@ -881,7 +881,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [2:26:01] Haziq: Curriculum standard sekolah menengah. Kalau R rendah. Ah ya, ni menengah.
 
-[2:26:04] Rafizi: So sebab KSSM tu dia mula pakai 2021. Ya. So sebenarnya running number dia bermula 2021 lah. So tapi Ceplos semua ni duk lambunglah ini ialah keputusan SPM terbaik lah. Jadi Fadlina ni orang duk hentam-hentam dia semua tengok ni terbaik kan. What's the problem dengan PG- GPK semua ni?
+[2:26:04] Rafizi: So sebab KSSM tu dia mula pakai 2021. Ya. So sebenarnya running number dia bermula 2021 lah. So tapi ceplos semua ni duk lambunglah ini ialah keputusan SPM terbaik lah. Jadi Fadlina ni orang duk hentam-hentam dia semua tengok ni terbaik kan. What's the problem dengan PG- GPK semua ni?
 
 [2:26:29] Haziq: Dia average lah. Maksudnya the de- the devil is in the detail. Ha, jadi bila tengok tu barulah tahu. Kau gelak eh.
 
