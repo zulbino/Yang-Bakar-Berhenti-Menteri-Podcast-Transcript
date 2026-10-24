@@ -7254,3 +7254,18 @@ DeepSeek's own API would test the model itself.
 - Quality, measured by `gate_rewrite.attribution_agreement` (an independent matcher): mean 83.6% ->
   84.9% over 75 episodes; 4 episodes dropped by under 1.1 points (about one turn each). The owner's
   ep33 rulings ("Kena scam ramai-ramai", "Sebelum kita ke scandal") now hold in the interview files.
+
+### 2.38: ep69 raw.md, and the work moved before the owner's review copy (owner, 2026-10-24)
+
+- Pipeline labels against the owner's ear: 83 of 21,070 words differ (99.6%), 56 of them Pa'an's
+  turns labelled Rafizi. The owner's time went to words, not labels: about 400 garbled words and names.
+- Owner's rule: fact-check names and terms, and resolve `loops.json` flags, BEFORE the review copy.
+  What found them, in order of yield: reading every lowercase word rare in the rest of the corpus (90
+  garbles in 210 words), aligning the YouTube caption (80 fixes; it wrote "babi" for YB once, kept as YB),
+  a full read of the text (102), and web checks for names (TuJu, Waze, Zaliha, Iswardy, Ta Kin Yan).
+  Four `Terima kasih kerana menonton` lines were flagged by `detect_whisper_loops.py` and reached the
+  owner unread; on 8 s clips neither ASR model heard them.
+- `...` marks a pause and is now written at every pause of 1 s or more inside a block
+  (`mai_camera_raw.with_pause_dots()`); Whisper had marked 185 of 5,048 joins.
+- `fix_proper_nouns.py` entries take an optional episode tag; `move_hanging_words.py` no longer refuses
+  when a whole-block move renames the header of a block that also gives a tail (ep69 11:20).

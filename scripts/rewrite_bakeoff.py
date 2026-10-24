@@ -304,7 +304,7 @@ def names_for(video_id):
     """Confirmed spellings, taken from the reviewed correction map so the two never drift."""
     import fix_proper_nouns as F
     names = ["Rafizi Ramli", "Haziq", "Farhan (Pa'an)"]
-    for _, replacement, _ in F.CORRECTIONS:
+    for _, replacement, *_ in F.CORRECTIONS:
         parts = replacement.split()
         if parts and all(p[:1].isupper() or p[:1].isdigit() for p in parts):
             names.append(replacement)

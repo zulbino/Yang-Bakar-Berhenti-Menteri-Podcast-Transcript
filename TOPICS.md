@@ -611,7 +611,7 @@ the video before quoting anyone.
 - Kompaun SPRM dan pelarian Datuk Adam Radlan dalam kes Jana Wibawa
 - Kontroversi tulisan bahasa Cina di batu asas Kedah Rubber City dan politik Exco Kedah
 - Perjanjian ARM (Arm Holdings IP) dan cita-cita chip buatan Malaysia sendiri
-- Tuduhan rasuah dan fitnah cyber trooper PKR (Ceplos) terhadap Rafizi dan bekas pegawainya James
+- Tuduhan rasuah dan fitnah cyber trooper PKR (ceplos) terhadap Rafizi dan bekas pegawainya James
 - Agreement on Reciprocal Trade (ART) dengan Amerika Syarikat dan perbandingan dengan Cambodia
 - Isu kedaulatan negara dan status 'comprehensive strategic partner' dengan AS
 - Kesan ART terhadap nilai ringgit dan pasaran saham
@@ -673,7 +673,7 @@ the video before quoting anyone.
 
 - Segmen Beria: lelaki bagi duit RM100 lambai tangan di Klebang, Melaka
 - Beria: Abang Grab tolong bersihkan longkang tersumbat
-- Fenomena Ceplos dan kisah Wan Fadzuddin menyerang Rafizi
+- Fenomena ceplos dan kisah Wan Fadzuddin menyerang Rafizi
 - Beria: kereta parking automatik lawan budaya ''chop parking'' di Malaysia
 - Beria: kurangnya budi bahasa di coach wanita LRT/MRT
 - Beria: papan amaran tanah runtuh yang dialih dan tragedi berkaitan
@@ -681,7 +681,7 @@ the video before quoting anyone.
 - Kes MP Padang Serai dan kesan kepada imej anti-rasuah PH/PKR
 - Kontroversi UEC (Unified Examination Certificate) dan sejarah sekolah vernakular Cina
 - Keperluan Malaysia menjadi masyarakat trilingual (Melayu, Inggeris, Mandarin)
-- Naratif Rafizi 'merajuk' dan serangan peribadi Ceplos/narsisis terhadap Rafizi
+- Naratif Rafizi 'merajuk' dan serangan peribadi ceplos/narsisis terhadap Rafizi
 - Perbandingan sejarah pemecatan Anwar Ibrahim 1998 dengan kritikan Rafizi kini
 - Sejarah kejayaan dan kejatuhan kewangan FELDA sejak era Najib, hutang FELDA dan FGV
 - Konflik tanah FELDA dengan kerajaan negeri Terengganu (isu premium tanah)
@@ -701,7 +701,7 @@ the video before quoting anyone.
 - Kedudukan Steven Sim, Ramanan dan reaksi penyokong PH
 - Nasib MCA dan MIC dalam rombakan kabinet dan Barisan Nasional
 - Perlantikan pimpinan muda (Akmal, Syed Ibrahim) dan dinamik dalaman PKR
-- Penggantian Dr Naim dan Dr Zaleha, prestasi Kementerian Agama dan Kesihatan
+- Penggantian Dr Naim dan Dr Zaliha, prestasi Kementerian Agama dan Kesihatan
 - Cabaran birokrasi kerajaan dan pengalaman Rafizi menteraju reform
 - Krisis dalaman Bersatu: Muhyiddin, Datuk Seri Hamzah dan Azmin Ali
 - Kestabilan PAS dan sejarah perbandingan dengan pergolakan Pakatan Rakyat 2014-2015
@@ -899,7 +899,7 @@ the video before quoting anyone.
 
 [Rafizi Dapat Surat Dari PKR, Azam Baki Semakin Ditekan, Memahami Gen Z & Millenials | YBM #37](https://www.youtube.com/watch?v=cZQPDnfu4Go) &middot; [raw](episodes/yang-berhenti-menteri/2026-02-27-ep37-rafizi-dapat-surat-dari-pkr-azam-baki-semakin-ditekan-memaha/raw.md) &middot; [mixed](episodes/yang-berhenti-menteri/2026-02-27-ep37-rafizi-dapat-surat-dari-pkr-azam-baki-semakin-ditekan-memaha/interview.md) &middot; [EN](episodes/yang-berhenti-menteri/2026-02-27-ep37-rafizi-dapat-surat-dari-pkr-azam-baki-semakin-ditekan-memaha/interview-en.md) &middot; [MS](episodes/yang-berhenti-menteri/2026-02-27-ep37-rafizi-dapat-surat-dari-pkr-azam-baki-semakin-ditekan-memaha/interview-ms.md)
 
-- Segmen Beria: kekeliruan peranan Pengerusi Backbenchers Club (BBC) Zaleha Zainal
+- Segmen Beria: kekeliruan peranan Pengerusi Backbenchers Club (BBC) Zaliha Zainal
 - Kenyataan Fuziah Salleh mewakili DAP tentang kestabilan kerajaan perpaduan
 - Isu Dr. Akmal Saleh belum letak jawatan Exco selepas ugutan DAP 'he goes or we go
 - Kenyataan calon PN Terengganu 'GDP tak penting, janji kita bahagia' dan kritikan ideologi PAS terhadap kemiskinan
@@ -1048,7 +1048,7 @@ the video before quoting anyone.
 - National Energy Transition Roadmap (NETA) dan reformasi struktur pasaran tenaga TNB
 - Konsep kepimpinan performatif vs substantif dengan contoh Churchill, Deng Xiaoping, Lee Kuan Yew
 - Kelambatan tindakan terhadap Azam Baki selepas laporan siasatan integriti diserahkan ke kabinet
-- Kritikan naratif komunikasi kerajaan Madani dan penggunaan cyber trooper/Ceplos
+- Kritikan naratif komunikasi kerajaan Madani dan penggunaan cyber trooper/ceplos
 - Pendedahan Rafizi mengenai kes Papa Gomo dan syarikat Invoke Solutions
 - Seruan perhimpunan tuntut tindakan terhadap Azam Baki pada 25 April di Dataran Merdeka
 
@@ -1087,7 +1087,7 @@ the video before quoting anyone.
 - Kesan pemotongan bajet kepada Kementerian Kesihatan, Pendidikan Tinggi dan dividen Petronas
 - Sikap DAP dan parti kerajaan terhadap subsidi bersasar kerana takut kalah pilihan raya
 - Strategi media sosial politik Malaysia: konsep ''network effect'', platform Facebook/TikTok/YouTube/X
-- Kritikan terhadap J-KOM, Ceplos dan cyber trooper kerajaan Madani
+- Kritikan terhadap J-KOM, ceplos dan cyber trooper kerajaan Madani
 - Siasatan SPRM ke atas Rafizi berkaitan perjanjian dengan Arm Holdings dan proses undang-undang Akta SPRM
 
 ## YBhM ep47 &mdash; 2026-05-08
@@ -1104,7 +1104,7 @@ the video before quoting anyone.
 - Perjanjian kerjasama ARM bernilai RM1.1 bilion dan pembangunan industri semikonduktor Malaysia
 - Inisiatif KL20 Action Plan dan usaha menarik pelaburan teknologi antarabangsa
 - Perebutan kredit antara Kementerian Ekonomi, MITI dan Kementerian Kewangan dalam deal ARM
-- Tuduhan motif politik di sebalik siasatan SPRM dan peranan Ceplos/Perkasa/PPIM
+- Tuduhan motif politik di sebalik siasatan SPRM dan peranan ceplos/Perkasa/PPIM
 - Kebocoran senarai tier kerusi PKR untuk PRU akan datang dan spekulasi kerusi Anwar Ibrahim
 - Strategi pilihan raya PKR/PH: pengalaman PRU 2022 dan analisis pengundi atas pagar
 - Cabaran DAP selepas kekalahan Sabah dan isu Tiong King Sing
@@ -1135,7 +1135,7 @@ the video before quoting anyone.
 
 - Pengenalan status baharu Rafizi dan Nik Nazmi selepas letak jawatan dan tidak lagi jadi YB
 - Segmen Beria: respons AMK, Anthony Loke dan Tony Pua (DAP), dan PAS terhadap pengunduran Rafizi dan Nik Nazmi
-- Black ops dan cyber trooper Ceplos PKR termasuk isu 'like Vietnam' dan Wan Hadi
+- Black ops dan cyber trooper ceplos PKR termasuk isu 'like Vietnam' dan Wan Hadi
 - Kenyataan Amiruddin Shaari dan sejarah Sheraton Move di Selangor
 - Perbandingan statistik follower dan live viewers Facebook/YouTube Rafizi berbanding Anwar Ibrahim
 - Tindakan disiplin PKR terhadap Rafizi dan Nik Nazmi serta dinamik dalaman PKR sebelum penubuhan Bersama

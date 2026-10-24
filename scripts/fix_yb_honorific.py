@@ -35,7 +35,11 @@ from pathlib import Path
 # lesson generalises past this variant: a text fix applied corpus-wide does not survive a
 # later re-transcription of one episode, so re-run this after any raw.md regeneration.
 GARBLES = ["baby", "WB", "obi", "ovi", "oibi", "ubi", "waibi", "abby", "abie", "bibi",
-           "yobi", "bobby", "wabi", "abi", "fabi"]
+           "yobi", "bobby", "wabi", "abi", "fabi", "wibi", "ebi"]
+# "wibi" and "ebi" added 2026-10-24 from ep69, the only episode holding either: `Wibi jawab dia
+# bernasib baik` (2:57:42) and `Bukit Gasing ni apa Ebi untuk penonton` (Haziq to Rafizi).
+# The owner fixed ep69's `vi` (01:16, `Ok takpe YB`) by hand; `vi` is NOT listed, because
+# the corpus also holds `Vi- Victor Chin` and other cut-off words starting with vi.
 # "fabi" added 2026-09-10, owner-caught in ep61's "Okey, baik. Habis Fabi, masa untuk pilih."
 # All 5 occurrences in the corpus sit in the vocative slot addressed to Rafizi -- ep61 raw x1
 # and ep62 x4, where the raw and all three published files read "Yang ni yang first, Fabi."
@@ -69,6 +73,8 @@ KEEP = [
                                      # translation has to be too.
     r"\bObi-Wan\b",                  # ep68 1:36:05, Star Wars: "Darth Vader. Kau ingat kan,
                                      # Obi-wan kata, you are the chosen one"
+    r"\bkira\s+baby\s+lagi\b",       # ep69 1:07:07, owner's ear 2026-10-24: "isu ni... ini
+                                     # kira baby lagi lah", the issue is only 6 months old
     r"\bdeliver\s+our\s+baby\b",    # ep21 interview-en, a real birth: "my wife was
                                      # still in hospital about to deliver our baby"
 ]

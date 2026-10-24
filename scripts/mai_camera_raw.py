@@ -70,7 +70,7 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 
 import common  # noqa: E402
-from fix_proper_nouns import CORRECTIONS  # noqa: E402
+from fix_proper_nouns import CORRECTIONS, in_scope  # noqa: E402
 from lib_locate import Doc, tokens  # noqa: E402
 from split_mixed_blocks import BLOCK_RE, fmt, secs, smooth, snap_to_sentences  # noqa: E402
 
@@ -92,10 +92,32 @@ CAMERA_NAME = {"Farhan": "Farhan (Pa'an)"}
 
 class W(str):
     """A word that remembers its time; smooth()/snap_to_sentences() see a plain str."""
-    def __new__(cls, text, t):
+    def __new__(cls, text, t, end=None):
         obj = super().__new__(cls, text)
         obj.t = t
+        obj.end = t if end is None else end
         return obj
+
+
+# Owner 2026-10-24: "that dot ... is actually useful to show gaps while them speaking", and
+# "if we do use ..., do use it extensively across, not just on selected block". Whisper wrote
+# `...` at 185 of ep69's 5,048 phrase joins (median pause 1.48 s) and skipped 1,037 other
+# pauses of 1 s or more. So every pause this long inside one speaker's block gets `...`,
+# unless the word already ends a sentence or already carries `...`.
+PAUSE_DOTS_S = 1.0
+
+
+def with_pause_dots(words):
+    out = []
+    for a, b in zip(words, words[1:] + [None]):
+        # Whisper also writes `......` (owner 2026-10-24: "use ..."); a pause is one `...`.
+        s = re.sub(r"\.{4,}(?=\w)", "... ", str(a))
+        s = re.sub(r"\.{4,}", "...", s)
+        if (b is not None and b.t - a.end >= PAUSE_DOTS_S and not s.endswith(("...", ".", "?", "!"))
+                and not str(b).startswith("...")):
+            s = s.rstrip(",;:") + "..."
+        out.append(s)
+    return " ".join(out)
 
 
 def mai_turns(video_id):
@@ -107,7 +129,9 @@ def mai_turns(video_id):
         d = json.loads(Path(p).read_text(encoding="utf-8"))
         base = d["_chunk_start_s"]
         for ph in d["phrases"]:
-            words = [W(w["text"], base + w["offsetMilliseconds"] / 1000) for w in ph.get("words", [])]
+            words = [W(w["text"], base + w["offsetMilliseconds"] / 1000,
+                       base + (w["offsetMilliseconds"] + w.get("durationMilliseconds", 0)) / 1000)
+                     for w in ph.get("words", [])]
             if not words:
                 continue
             # Without diarization every phrase has speaker None; then a phrase is the turn,
@@ -424,9 +448,11 @@ def main():
         sys.exit(f"REFUSING: {backwards} block stamps run backwards")
 
     # Corrections first, then the splice: the owner's own bytes are never rewritten.
-    body = "\n\n".join(f"[{fmt(r['t0'])}] {r['n']}: {' '.join(r['w'])}" for r in runs_out)
+    body = "\n\n".join(f"[{fmt(r['t0'])}] {r['n']}: {with_pause_dots(r['w'])}" for r in runs_out)
     corrections = Counter()
-    for rx, rep, _ in CORRECTIONS:
+    for rx, rep, _, *scope in CORRECTIONS:
+        if not in_scope(scope[0] if scope else None, episode_raw):
+            continue
         body, n = re.subn(rx, rep, body)
         if n:
             corrections[rep] += n

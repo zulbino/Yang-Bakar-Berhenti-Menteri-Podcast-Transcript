@@ -91,7 +91,9 @@ def check(raw_path):
         if n:
             fails.append(f"[{stamp}] YB garble x{n}: {words.strip()[:120]}")
     body = "\n".join(words for _, _, words in turns)
-    for rx, rep, why in fix_proper_nouns.CORRECTIONS:
+    for rx, rep, why, *scope in fix_proper_nouns.CORRECTIONS:
+        if not fix_proper_nouns.in_scope(scope[0] if scope else None, raw_path):
+            continue
         for m in re.finditer(rx, body):
             if m.group(0) != rep:
                 ctx = " ".join(body[max(0, m.start() - 50):m.end() + 30].split())

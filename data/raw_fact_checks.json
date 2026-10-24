@@ -28,5 +28,10 @@
   "raw_sha256": "69fba8374553fbffc35e621e2f0c42bb5c7d366a5b1c7c60784112b643020e29",
   "date": "2026-10-18",
   "reviewed": 344
+ },
+ "ep69": {
+  "raw_sha256": "af80190e38c5e52fca3417948495d6397f1336f80c43d8fd0491643aa5db73d1",
+  "date": "2026-10-24",
+  "reviewed": 279
  }
 }

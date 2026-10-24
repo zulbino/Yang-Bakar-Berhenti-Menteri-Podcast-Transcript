@@ -312,6 +312,9 @@ def main():
         return
 
     out = text
+    # A block that takes a whole block keeps its words but loses its own header, so a
+    # tail move out of it must anchor on the new one (ep69 11:20 -> 11:24 -> 17:34).
+    rewritten = {}
     for st, who, said, nxt, who_next, _ in wholes:
         # One atomic replace: the block line, its blank separator and the next block's
         # header all become the next speaker's header carrying these words first. The
@@ -320,11 +323,15 @@ def main():
         if out.count(old) != 1:
             sys.exit(f"REFUSING: the block pair at [{st}] is not unique")
         out = out.replace(old, f"[{st}] {who_next}: {said} ")
+        rewritten[(nxt, who_next)] = f"[{st}] {who_next}: {said} "
     # Last move first. When two moves chain (block B receives A's tail AND gives its
     # own tail to C), applying A's move first rewrites B's header, so B's anchor is
     # gone by the time its own move runs. ep11 1:30:24 -> 1:30:31 -> 1:30:42 was that.
     for _, st, who, head, tail, nxt, who_next, _ in reversed(moves):
-        old_a = f"[{st}] {who}: {head} {tail}"
+        if (st, who) in [(s, w) for s, w, *_ in wholes]:
+            sys.exit(f"REFUSING: [{st}] both gives a whole block and a tail")
+        header_a = rewritten.get((st, who), f"[{st}] {who}: ")
+        old_a = f"{header_a}{head} {tail}"
         old_b = f"[{nxt}] {who_next}: "
         if out.count(old_a) != 1:
             sys.exit(f"REFUSING: {old_a[:60]!r} is not unique")
@@ -332,7 +339,7 @@ def main():
         # A one-word tail such as `Dia` can match an earlier `dia` nearer the block's stamp
         # (ep67 1:36:05 took 1:36:03). The tail cannot start before its own block does.
         stamp = fmt(max(when[0], secs(st))) if when else nxt
-        out = out.replace(old_a, f"[{st}] {who}: {head}")
+        out = out.replace(old_a, f"{header_a}{head}")
         idx = out.index(old_b)
         out = out[:idx] + f"[{stamp}] {who_next}: {tail} " + out[idx + len(old_b):]
 

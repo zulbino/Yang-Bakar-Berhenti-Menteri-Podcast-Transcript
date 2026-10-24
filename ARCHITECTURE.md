@@ -126,6 +126,12 @@ seconds, or from this episode's camera seconds if fewer than 50 clips exist else
 takes the nearest profile at its ASR time (1.6 s windows every 1 s, 3-window majority). The
 window embeddings are cached in `data/_voice/<vid>_windows.npz`.
 
+Before the copy, fact-check names and terms (owner, 2026-10-24; CLAUDE.md rule 1): run
+`check_raw_facts.py <tag>`, `check_agencies.py` and `check_names.py`, web-verify each flagged
+name, add the fixes to `fix_proper_nouns.py` (4th field `"<tag>"` scopes an entry to one
+episode), apply with `--write`, and list what stays unresolved in
+`data/_<tag>_review/review_notes.txt`.
+
 Then hand the owner a copy of raw.md to review against the video, and wait. After their
 edit:
 

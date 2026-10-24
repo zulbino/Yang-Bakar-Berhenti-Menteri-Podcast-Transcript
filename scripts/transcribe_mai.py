@@ -133,7 +133,7 @@ def bias_phrases(extra=()):
     # a corpus-wide correction, never an episode's own bias term.
     phrases = list(extra) + ["Rafizi Ramli", "Rafizi", "Haziq", "Farhan",
                               "Yang Bakar Menteri", "Yang Berhenti Menteri", "YBM"]
-    for _, replacement, _ in F.CORRECTIONS:
+    for _, replacement, *_ in F.CORRECTIONS:
         # A bias term has to be a NAME. The map also holds whole-phrase repairs -- "Water
         # assets through WASIA", "Kan keychain ada pakai" -- and biasing recognition toward
         # a full sentence would push the model to hear that sentence. So require every word

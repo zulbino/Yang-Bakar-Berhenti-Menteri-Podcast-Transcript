@@ -1098,6 +1098,71 @@ CORRECTIONS = [
      "given by the owner 2026-10-04). ep26 and ep41."),
     (r"\bIzam\b", "Ezam",
      "Ezam Mohd Nor, the same person (ep26, ep41). No other Izam exists in the corpus."),
+    # ep69 fact-check, 2026-10-24. Owner-confirmed: Ramanan, 1MDB, Rafizi, Tony Pua,
+    # Shahrizat Jalil, Akmal Saleh, Kementerian Kesihatan. The rest web-verified.
+    (r"\b(?:ramanan|Rahmanan|Rahmanen)\b", "Ramanan",
+     "ep69: Datuk Seri R. Ramanan, the minister the episode is about (YouTube description; "
+     "FMT, Malay Mail 2026-10-23). Owner confirmed. Scoped: `Rahmanan` occurs ~150 times in "
+     "22 other episodes and lowercase `ramanan` in ep44-ep60, none of it read yet.", "ep69"),
+    (r"\bUMDB\b", "1MDB", "ep69 1:30:45, owner confirmed.", "ep69"),
+    (r"\bRafi Zee\b", "Rafizi", "ep69 37:58, owner confirmed.", "ep69"),
+    (r"\bTony Poir\b", "Tony Pua", "ep69 2:16:15, owner confirmed.", "ep69"),
+    (r"\bSyarizat Jalil\b", "Shahrizat Jalil", "ep69 1:01:58, owner confirmed.", "ep69"),
+    (r"\b(?:Akhmar Saleh|(?<=PMX )Ahmad Saleh)\b", "Akmal Saleh",
+     "ep69 05:10 and 52:04, owner confirmed.", "ep69"),
+    (r"\bKementerian Kesehatan\b", "Kementerian Kesihatan",
+     "ep69, owner confirmed; check_agencies.py, the Indonesian spelling.", "ep69"),
+    (r"\b(?:Suhaili|Sohailini)\b", "Shuhaily",
+     "ep69 54:48: Datuk Seri Mohd Shuhaily Mohd Zain, AKPS Director-General, charged on "
+     "Wednesday 21 Oct 2026 as the speaker says (utusan.com.my, bharian.com.my).", "ep69"),
+    (r"\bSyabudin Embun\b", "Shahbudin Embun",
+     "ep69 2:21:43: the pro-Najib UMNO commentator (malay.today author page).", "ep69"),
+    (r"\bYaakob Maksam\b", "Yaacob Md Sam",
+     "ep69 1:40:30: former Court of Appeal judge, a lawyer since Oct 2024, as the speaker "
+     "says (utusan.com.my 2024-10).", "ep69"),
+    (r"\bObs Viking\b", "Op Viking",
+     "ep69 1:10:14: the police AMLA operation against Victor Chin (hmetro.com.my).", "ep69"),
+    (r"\bSandar Ruben\b", "Sandraruben",
+     "ep69 1:23:26: Sandraruben Neelamagham, the 'Mr R' Rafizi named "
+     "(themalaysianreserve.com 2026-03-27).", "ep69"),
+    (r"\bSan Sri Azzam Baki\b", "Tan Sri Azam Baki",
+     "ep69 1:23:26; spelled Azam at 11:24 in the same raw.md.", "ep69"),
+    (r"\bBukit Segambar\b", "Bukit Segambut",
+     "ep69 2:37:26; spelled Segambut at 22:15 in the same raw.md.", "ep69"),
+    (r"\b(?:Ta Kinyan|Tansrita Kinian)\b", "Ta Kin Yan",
+     "ep69 1:59:38, owner confirmed: Tan Sri Ta Kin Yan, Waz Lian founder, died 2024-06-15 "
+     "(thestar.com.my), as the speaker says he has died.", "ep69"),
+    (r"\bTansrita ni\b", "Tan Sri Ta ni", "ep69 2:01:41, the same person.", "ep69"),
+    (r"\bSekpur\b", "SekPol", "ep69 2:21:43, owner confirmed.", "ep69"),
+    (r"\bYesan Hijab\b", "Yayasan Hijau",
+     "ep69 2:58:42, owner confirmed: the NRE foundation in the Nik Nazmi case "
+     "(hmetro.com.my 2026-10).", "ep69"),
+    (r"\bSimpsonsen\b", "Sim Tze Tzin",
+     "ep69 09:31 'Siapa pengarah strategi PKR sekarang ni?': Sim Tze Tzin, PKR strategy "
+     "director (utusan.com.my 2025-07). Whisper turbo heard 'Sim Sezin'.", "ep69"),
+    (r"\bTris balik sama Najib\b", "trace balik zaman Najib",
+     "ep69 2:22:05: Whisper turbo and malaysian-whisper-medium-v2 both hear 'trace balik "
+     "zaman Najib' on a 12 s clip.", "ep69"),
+    (r"\bDato' Seranoah\b", "Dato' Seri Anwar",
+     "ep69 25:58, owner confirmed by ear 2026-10-24; both Whisper models heard one name "
+     "('Seranoah', 'Seranua').", "ep69"),
+    (r"\bCeplos(?=(?:nya)?\b)", "ceplos",
+     "Owner 2026-10-24: 'no capital for ceplos'. Slang for PKR's online defenders, a common "
+     "noun, so lowercase even at a sentence start; 322 capitalised in raw.md before this."),
+    (r"\bZaleha\b", "Zaliha",
+     "Owner 2026-10-24: Datuk Seri Dr. Zaliha binti Mustafa, Health Minister 2022-2023 "
+     "(parlimen.gov.my id=4180; X @DrZalihaMustafa). 'Zaleha' sat in 30 files."),
+    (r"\bWanji\b", "Wan Ji",
+     "Owner 2026-10-24: Ustaz Wan Ji (Wan Ji Wan Hussin), two words. ep69 held the only 10."),
+    (r"\bpaan\b", "Pa'an", "ep69 03:50 'kucing paan', owner confirmed.", "ep69"),
+    (r"\b(?:[Pp]ekeso|[Pp]erkeso)\b", "PERKESO",
+     "ep69 02:48-04:26, owner confirmed (Pertubuhan Keselamatan Sosial, perkeso.gov.my). "
+     "Scoped: 19 `Perkeso` in 7 other episodes are not changed.", "ep69"),
+    (r"\bsyaruman\b", "caruman",
+     "ep69 04:24, owner confirmed: caruman, the PERKESO contribution.", "ep69"),
+    (r"\bSyaruman\b", "Caruman", "ep69, as above.", "ep69"),
+    (r"\bhari Senin\b", "hari Isnin",
+     "ep69 08:57: Monday 20 Oct, Anwar's Dewan Rakyat answer; Senin is Indonesian.", "ep69"),
 ]
 
 # DELIBERATELY NOT CORRECTED, verified against sources 2026-08-29. Recorded so the
@@ -1120,6 +1185,13 @@ CORRECTIONS = [
 # majority vote. The majority form was WRONG for Fuziah and RIGHT for Akmal.
 
 
+def in_scope(scope, path):
+    """An optional 4th field scopes an entry to one episode tag, e.g. "ep69": ep69's
+    `ramanan` is the minister, while ep44-ep60 hold lowercase hits not yet read. The tag is
+    matched in the path, so an episode folder and a review copy (data/_ep69_review/) both count."""
+    return not scope or re.search(rf"(?<![A-Za-z0-9]){scope}(?![0-9])", str(path)) is not None
+
+
 def targets():
     return (sorted(ROOT.glob("episodes/*/*/raw.md"))
             + sorted(ROOT.glob("episodes/*/*/interview.md"))
@@ -1132,7 +1204,8 @@ def main():
     ap.add_argument("--write", action="store_true")
     args = ap.parse_args()
 
-    compiled = [(re.compile(rx), rep, why) for rx, rep, why in CORRECTIONS]
+    compiled = [(re.compile(rx), rep, scope[0] if scope else None)
+                for rx, rep, why, *scope in CORRECTIONS]
     for rx, rep, _ in compiled:
         # A pattern that lost its escapes matches nothing and reports a clean zero, so
         # prove it is intact before trusting any count below.
@@ -1175,7 +1248,9 @@ def main():
         original = path.read_text(encoding="utf-8")
         text, marks = mask_quoted_titles(original)
         hits = {}
-        for rx, rep, _ in compiled:
+        for rx, rep, scope in compiled:
+            if not in_scope(scope, path):
+                continue
             text, n = rx.subn(rep, text)
             if n:
                 hits[rep] = hits.get(rep, 0) + n
