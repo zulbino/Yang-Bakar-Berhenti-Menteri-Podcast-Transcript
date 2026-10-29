@@ -401,9 +401,9 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [48:26] Rafizi: ecosystem infrastructure dan inovasi seperti R&D chip AI melalui VC Silicon
 
-[48:32] Dr. Rais Hussin: dan kerjasama dengan pemain global seperti ARM.
+[48:32] Dr. Rais Hussin: dan kerjasama dengan pemain global seperti Arm.
 
-[48:34] Haziq: ARM. Yes.
+[48:34] Haziq: Arm. Yes.
 
 [48:36] Rafizi: Dulu MITI lah yang paling tak setuju tu dengan Silicon Vision, dengan ha. Sebab tu sebut Silicon Vision. Hah? Tak apalah.
 

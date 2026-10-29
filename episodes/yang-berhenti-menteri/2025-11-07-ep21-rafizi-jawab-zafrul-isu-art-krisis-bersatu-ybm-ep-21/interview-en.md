@@ -241,7 +241,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Dr. Rais Hussin:** Their answer mentions Silicon Vision. It says at the same time.
 
-**Rafizi:** Silicon Vision? Ecosystem infrastructure and innovation such as AI chip R&D through VC Silicon and cooperation with global players like ARM. Previously MITI was the one most opposed to Silicon Vision. Never mind. But yeah, good that Suhaizan asked this question, because questions like this should actually spark more discourse in society, so that we don't just accept whatever's communicated through official channels at face value. Alright, okay YB.
+**Rafizi:** Silicon Vision? Ecosystem infrastructure and innovation such as AI chip R&D through VC Silicon and cooperation with global players like Arm. Previously MITI was the one most opposed to Silicon Vision. Never mind. But yeah, good that Suhaizan asked this question, because questions like this should actually spark more discourse in society, so that we don't just accept whatever's communicated through official channels at face value. Alright, okay YB.
 
 **Rafizi:** We have one more question, from Pagoh, from Tan Sri.
 

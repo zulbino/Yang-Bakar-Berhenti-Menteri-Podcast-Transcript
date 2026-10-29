@@ -697,7 +697,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [1:02:32] Faiz Ahmad: Okey.
 
-[1:02:33] Rafizi: 95% daripada chip di dalam mobile device lah, apa-apalah, telefon, 95% adalah ARM. Cuma business model dia berbanding dengan Intel dulu, dia buat kajian semua. Bila dia dah ada blueprint dia dan teknologi tu, dia jual kat kita, kita dapat IP tu. Kemudian setiap satu yang dijual, setiap satu chip yang dijual itu, dia ada percentage dia. 20% ke 30% kan. Jadi dengan revolusi smartphone yang berlaku dalam 20 tahun yang lepas, model business itulah yang berjaya berbanding dengan model tradisional macam Intel, AMD dulu. Intel, AMD semua dulu dia buat dalaman, dia pasang sendiri, kemudian beli chip dia kan.
+[1:02:33] Rafizi: 95% daripada chip di dalam mobile device lah, apa-apalah, telefon, 95% adalah Arm. Cuma business model dia berbanding dengan Intel dulu, dia buat kajian semua. Bila dia dah ada blueprint dia dan teknologi tu, dia jual kat kita, kita dapat IP tu. Kemudian setiap satu yang dijual, setiap satu chip yang dijual itu, dia ada percentage dia. 20% ke 30% kan. Jadi dengan revolusi smartphone yang berlaku dalam 20 tahun yang lepas, model business itulah yang berjaya berbanding dengan model tradisional macam Intel, AMD dulu. Intel, AMD semua dulu dia buat dalaman, dia pasang sendiri, kemudian beli chip dia kan.
 
 [1:03:17] Faiz Ahmad: Okey.
 
@@ -705,7 +705,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [1:03:28] Faiz Ahmad: Ya.
 
-[1:03:28] Rafizi: Jadi sebab itu kita bekerjasama dengan ARM supaya teknologi IP tu diberikan dan mereka juga akan membantu untuk menghasilkan cip kita. Yang itu yang sekarang ni proses itu sedang berlaku. Because bila benda tu berlaku, maksudnya bentuk pekerjaan yang dihasilkan bukan lagi engineer kualiti yang tengok pemasangan chip lah. Dia jadi engineer yang design the chip. Gaji dia tu beza tau.
+[1:03:28] Rafizi: Jadi sebab itu kita bekerjasama dengan Arm supaya teknologi IP tu diberikan dan mereka juga akan membantu untuk menghasilkan cip kita. Yang itu yang sekarang ni proses itu sedang berlaku. Because bila benda tu berlaku, maksudnya bentuk pekerjaan yang dihasilkan bukan lagi engineer kualiti yang tengok pemasangan chip lah. Dia jadi engineer yang design the chip. Gaji dia tu beza tau.
 
 [1:03:56] Faiz Ahmad: Okey, YB, kita masuk tentang FDI pula. Sebab sekarang ni, ah, PMX dikenali dekat media sosial adalah bapa potensi. Bapa FDI, bapa potensi. So sebenarnya FDI ni yalah pengumuman tu adalah dikatakan sebagai apa nama dia, dia bukan realize lagi kan? Tapi potensi, potential FDI. So, macam mana rakyat nak menyemak benda tu supaya maklumat tu sampai?
 

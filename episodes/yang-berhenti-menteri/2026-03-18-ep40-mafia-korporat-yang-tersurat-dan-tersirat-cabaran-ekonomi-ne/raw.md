@@ -309,7 +309,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [41:00] Haziq: Ya.
 
-[41:00] Rafizi: Dia sebutkan dasar-dasar. Dasar-dasar ekonomi yang telah dilaksanakan setakat ini. Majoriti dasar-dasar ekonomi itu ialah yang dimulakan oleh Kementerian Ekonomi. Dia sebut contohnya tentang fokus kepada peralihan tenaga melalui National Energy Transition Roadmap kan. Dia sebut juga mengenai fokus kepada menaik taraf nilai tambah dalam industri semikonduktor. Contohnya yang mengenai ARM kan. Kemudian dia bagi contoh JSSIZ.
+[41:00] Rafizi: Dia sebutkan dasar-dasar. Dasar-dasar ekonomi yang telah dilaksanakan setakat ini. Majoriti dasar-dasar ekonomi itu ialah yang dimulakan oleh Kementerian Ekonomi. Dia sebut contohnya tentang fokus kepada peralihan tenaga melalui National Energy Transition Roadmap kan. Dia sebut juga mengenai fokus kepada menaik taraf nilai tambah dalam industri semikonduktor. Contohnya yang mengenai Arm kan. Kemudian dia bagi contoh JSSIZ.
 
 [41:38] Haziq: Yes.
 
@@ -541,7 +541,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [1:20:10] Haziq: Sedikit kuliah money laundering bersama saudara Rafizi Ramli.
 
-[1:20:13] Rafizi: Ah, lepas ni akan keluar cerita begitulah sebenarnya Rafizi telah mencuci duit arm 1 billion. Dia memang tahu semua ni. Tak pasal-pasal aku kena lagi kan. Tak, saya yang menonton, saya auditor. Itu memang kerja sayalah kan. Jadi sebagai auditor, I'm a chartered accountant. People often forget that lah kan. Jadi sebagai auditor semua, you tahulah semua ni macam mana sebab you nak kena audit. Then you must understand what are the risks, bagaimana so that you build around it lah.
+[1:20:13] Rafizi: Ah, lepas ni akan keluar cerita begitulah sebenarnya Rafizi telah mencuci duit Arm 1 billion. Dia memang tahu semua ni. Tak pasal-pasal aku kena lagi kan. Tak, saya yang menonton, saya auditor. Itu memang kerja sayalah kan. Jadi sebagai auditor, I'm a chartered accountant. People often forget that lah kan. Jadi sebagai auditor semua, you tahulah semua ni macam mana sebab you nak kena audit. Then you must understand what are the risks, bagaimana so that you build around it lah.
 
 [1:20:48] Haziq: Okey, YB. Kenyataan dalam video promo YB, YB nak menceritakan sedikit rahsia lah. Tentang isu ini juga. Tentang Peter Chin dan mungkin aa kita belum dengar lagi aa apa ni secara spesifik bagaimana aa am apa ni PDRM apa ni menggunakan AMLA untuk menekan orang semua. Mungkin YB ada perkongsian juga?
 
