@@ -1044,7 +1044,7 @@ the video before quoting anyone.
 - Sistem TURAP oleh BestiNet dan Aminul Islam (Amin Bangla) dalam pengambilan pekerja asing
 - Laporan Bloomberg mengenai monopoli dan rasuah dalam sistem FWCMS/pekerja asing Bangladesh
 - Dasar pengurangan pergantungan pekerja asing: MTLM, Akademi Dalam Industri (ADI), sasaran RMK-13
-- Kritikan terhadap pertukaran menteri Kesuma dan peranan Steven Sim serta Ramanan Ramakrishnan
+- Kritikan terhadap pertukaran menteri KESUMA dan peranan Steven Sim serta Ramanan Ramakrishnan
 - National Energy Transition Roadmap (NETA) dan reformasi struktur pasaran tenaga TNB
 - Konsep kepimpinan performatif vs substantif dengan contoh Churchill, Deng Xiaoping, Lee Kuan Yew
 - Kelambatan tindakan terhadap Azam Baki selepas laporan siasatan integriti diserahkan ke kabinet
@@ -1373,7 +1373,7 @@ the video before quoting anyone.
 - Pertumbuhan KDNK 6% suku kedua 2026 vs jurang GDP-GNI akibat repatriasi dividen syarikat asing
 - Compensation of Employee dan wage compression akibat kenaikan gaji minimum
 - Pergantungan pekerja asing dan Multi-Tier Levy Management berbanding dasar Singapura
-- Program Akademi Dalam Industri dan Kesuma/Kesom menggalakkan pekerja tempatan
+- Program Akademi Dalam Industri dan KESUMA/Kesom menggalakkan pekerja tempatan
 - Reformasi pasaran buruh dan dasar gaji progresif yang diperam kerajaan Madani
 
 ## YBhM ep61 &mdash; 2026-08-28

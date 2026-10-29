@@ -265,7 +265,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [27:24] Haziq: Lebih banyak daripada biasa.
 
-[27:25] Farhan (Pa'an): Ya. Ada menteri-menteri yang dikatakan perform tetapi ditukarkan portfolio. Ada menteri-menteri yang dikatakan tak beberapa perform, di-retain. Seperti yang dimention oleh orang ramai, yang paling gemparlah adalah perletakan Steven Sim di KUSKOP dan ah Ramanan di Kesuma. Itu antara benda yang dipersoalkanlah dan juga also Hanayo. Hanayo. Yang dipindahkan ke Kementerian Wilayah. Zaliha di drop. Ada mungkin YB boleh bagi pandangan tentang this reshuffling steps.
+[27:25] Farhan (Pa'an): Ya. Ada menteri-menteri yang dikatakan perform tetapi ditukarkan portfolio. Ada menteri-menteri yang dikatakan tak beberapa perform, di-retain. Seperti yang dimention oleh orang ramai, yang paling gemparlah adalah perletakan Steven Sim di KUSKOP dan ah Ramanan di KESUMA. Itu antara benda yang dipersoalkanlah dan juga also Hanayo. Hanayo. Yang dipindahkan ke Kementerian Wilayah. Zaliha di drop. Ada mungkin YB boleh bagi pandangan tentang this reshuffling steps.
 
 [28:12] Rafizi: Shuffle macam dance on the floor ke?
 
@@ -329,7 +329,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [49:43] Haziq: Okey.
 
-[49:44] Rafizi: Mustafa Sakmun memang dikenali sebagai aa yang rapat dengan saya. Kerana aa dia bukan daripada Sepanggar. Aa yang yang berkeras untuk bagi dia kerusi parlimen, dan aa sehingga dia jadi ahli parlimen daripada Kota Belud ke Sepanggar itu ialah keputusan-keputusan yang saya buat masa dalam PRU 2022 lah. Sama juga dengan cadangan untuk dia menjadi Timbalan Menteri sebelum itu, Timbalan Menteri Kesuma kan, Timbalan Menteri KPT kan. Jadi Mustafa Sakmud tu bagi sebahagian daripada PKR di bawah, dia melihat sebagai orang yang yang yang maksudnya jalan politik itu lebih lebih lebih cenderung kepada sayalah. Yang mana kita ada contohnya aa CM.
+[49:44] Rafizi: Mustafa Sakmun memang dikenali sebagai aa yang rapat dengan saya. Kerana aa dia bukan daripada Sepanggar. Aa yang yang berkeras untuk bagi dia kerusi parlimen, dan aa sehingga dia jadi ahli parlimen daripada Kota Belud ke Sepanggar itu ialah keputusan-keputusan yang saya buat masa dalam PRU 2022 lah. Sama juga dengan cadangan untuk dia menjadi Timbalan Menteri sebelum itu, Timbalan Menteri KESUMA kan, Timbalan Menteri KPT kan. Jadi Mustafa Sakmud tu bagi sebahagian daripada PKR di bawah, dia melihat sebagai orang yang yang yang maksudnya jalan politik itu lebih lebih lebih cenderung kepada sayalah. Yang mana kita ada contohnya aa CM.
 
 [50:38] Haziq: CM Q.
 

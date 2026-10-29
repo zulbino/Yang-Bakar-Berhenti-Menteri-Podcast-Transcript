@@ -169,7 +169,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [09:40] Iswardy Morni: Calculation.
 
-[09:41] Rafizi: Contohnya, TNB bagi pihak kerajaan lah eh. Ya. TNB kena beli pada harga yang dah naik 14%. Kenapa harga naik 14%? Adakah TNB akan kaya raya? Sebab orang marah TNB ni. Kenapa dia untung berbilion-bilion TNB? Sila bagi rebate percuma kat aku lepas ni sebab aku nak puji TNB. Orang marah TNB setiap kali naik kan. Tak guna punya TNB untung berbilion-bilion, tapi kenapa tarif naik juga. Sebenarnya yang ini melibatkan Kementerian Ekonomi, dia juga melibatkan Petra, Suruhanjaya Tenaga sebenarnya. The two main kementerian yang terlibat, Petra dan Kementerian Ekonomi.
+[09:41] Rafizi: Contohnya, TNB bagi pihak kerajaan lah eh. Ya. TNB kena beli pada harga yang dah naik 14%. Kenapa harga naik 14%? Adakah TNB akan kaya raya? Sebab orang marah TNB ni. Kenapa dia untung berbilion-bilion TNB? Sila bagi rebate percuma kat aku lepas ni sebab aku nak puji TNB. Orang marah TNB setiap kali naik kan. Tak guna punya TNB untung berbilion-bilion, tapi kenapa tarif naik juga. Sebenarnya yang ini melibatkan Kementerian Ekonomi, dia juga melibatkan PETRA, Suruhanjaya Tenaga sebenarnya. The two main kementerian yang terlibat, PETRA dan Kementerian Ekonomi.
 
 [10:24] Haziq: Okey.
 
@@ -229,9 +229,9 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [25:36] Rafizi: Ha, maksudnya solar potential dekat Malaysia ni kita takkan dapat penuhi kalau kita bergantung kepada large scale solar farm yang ada macam sekarang. Yang pakai 100 ekar, 200 ekar. Kita kena secara cepat beralih kepada rooftop solar kerana satu, dia membantu dari segi kelangsungan bekalan elektrik negara. Keduanya, dia sebenarnya membantu orang kerana tiba-tiba rumah dia boleh jana pendapatanlah. So unless we push it dan untuk itu berlaku, ada banyak step dialah. Kita perlukan satu pasaran. Pasaran itu dan the question, do people sell to TNB ataupun do people sell to an exchange market kan? Yang itu yang insyaAllah lepas ini kita kena tanya berkali-kali lagilah. And I hope to see lah dalam tempoh 3 4 tahun ini, benda ni dah mula boleh berlaku lah because once kita dah boleh unlock rooftop solar, then paling kurang kita boleh cepatkan peningkatan komposisi penjanaan daripada solar.
 
-[26:40] Iswardy Morni: Kepada siapa kita nak tanya ni? Petra.
+[26:40] Iswardy Morni: Kepada siapa kita nak tanya ni? PETRA.
 
-[26:42] Rafizi: Kepada Petra, kepada Kementerian Ekonomi.
+[26:42] Rafizi: Kepada PETRA, kepada Kementerian Ekonomi.
 
 [26:46] Iswardy Morni: Kementerian Ekonomi, whoever he is. Siapa jadi menteri.
 
