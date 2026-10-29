@@ -863,7 +863,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [1:17:44] Iqbal: Periut nasi ditutup.
 
-[1:17:45] Rafizi: Ha, jadi, jadi sebab itu bila nak laksana saja apa nama ni PADU tu, dia banyak tentangan. Ada juga tentangan yang rasa kalau buat penyiasaran semula subsidi ni kita akan kalah pilihan raya. Jadi DAP contohnya mati-matian tak bersetuju.
+[1:17:45] Rafizi: Ha, jadi, jadi sebab itu bila nak laksana saja apa nama ni PADU tu, dia banyak tentangan. Ada juga tentangan yang rasa kalau buat penyasaran semula subsidi ni kita akan kalah pilihan raya. Jadi DAP contohnya mati-matian tak bersetuju.
 
 [1:18:03] Iqbal: Okey, Jas. Ni mungkin soalan noob sikit. So contohnya this is a very concrete example off the top of my head. Kalau katakan saya nak bantuan. Dan saya boleh letak saya punya pendapatan, saya boleh kemaskini maklumat tu sendiri. Saya mungkin ada business sendiri yang setiap bulan gaji saya 10 ribu, tapi then saya cakap gaji sebulan saya, pendapatan sebulan saya 1000. Dan tak ada cara nak, nak check benda tu sebab mungkin saya freelance. Ya. saya buat business.
 

@@ -160,7 +160,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 **Faiz Ahmad:** YB tak habiskan masa jadi Menteri Ekonomi. Pembahagian klasifikasi masyarakat T15, lepas tu apa? Saya mencari-cari yang sekarang.
 
-**Rafizi:** Benda tu, benda tu sebenarnya semua data semua tu sudah pun ada, sudah pun siap. Cuma oleh kerana dia bermula dengan pengumuman Perdana Menteri lah yang sebarang penyiasaran semula subsidi tidak akan melibatkan 85%. Okey. Jadi orang nak tahulah T15 ni apa. Dia bermula daripada situ. Okey. Dari segi klasifikasi secara statistik, secara isi rumah, semua data tu dah ada. Tetapi oleh kerana dia berkait dengan kenyataan. T15 kenyataan tu, yang itu perlukan kelulusan kabinet. Kabinet tak bersetuju sampai sekarang.
+**Rafizi:** Benda tu, benda tu sebenarnya semua data semua tu sudah pun ada, sudah pun siap. Cuma oleh kerana dia bermula dengan pengumuman Perdana Menteri lah yang sebarang penyasaran semula subsidi tidak akan melibatkan 85%. Okey. Jadi orang nak tahulah T15 ni apa. Dia bermula daripada situ. Okey. Dari segi klasifikasi secara statistik, secara isi rumah, semua data tu dah ada. Tetapi oleh kerana dia berkait dengan kenyataan. T15 kenyataan tu, yang itu perlukan kelulusan kabinet. Kabinet tak bersetuju sampai sekarang.
 
 **Faiz Ahmad:** Maksudnya PMX menyebut tu tanpa ada sokongan dokongan data ataupun main sebut saja atau macam mana?
 

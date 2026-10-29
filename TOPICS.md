@@ -158,7 +158,7 @@ the video before quoting anyone.
 - Tuduhan 'merajuk' dan respons Rafizi terhadap naratif tersebut
 - Isu 'not a team player' dan budaya yes-man dalam parti dan kerajaan
 - Perbezaan mandat rakyat (ahli parlimen) dengan lantikan menteri oleh PM
-- Pencapaian dasar Kementerian Ekonomi: peralihan tenaga, gaji progresif, subsidi bersasar, GSSEZ, RMK13
+- Pencapaian dasar Kementerian Ekonomi: peralihan tenaga, gaji progresif, subsidi bersasar, JS-SEZ, RMK13
 - Prestasi ekonomi Malaysia 2024: pertumbuhan, inflasi, pasaran saham
 - Isu kekangan bersuara menteri kabinet (collective responsibility dan kerahsiaan)
 - Konsep 'third sector' dalam masyarakat sebagai alternatif kepada sektor awam dan swasta

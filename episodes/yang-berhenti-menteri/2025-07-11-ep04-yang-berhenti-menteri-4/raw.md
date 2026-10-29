@@ -261,7 +261,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [21:07] Faiz Ahmad: YB tak habiskan masa jadi Menteri Ekonomi. Pembahagian klasifikasi masyarakat T15, lepas tu apa?
 
-[21:13] Rafizi: Saya mencari-cari yang sekarang. Benda tu, benda tu sebenarnya semua data semua tu sudah pun ada, sudah pun siap. Cuma oleh kerana aa dia bermula dengan pengumuman Perdana Menteri lah yang sebarang aa aa penyiasaran semula subsidi tidak akan melibatkan aa 85%.
+[21:13] Rafizi: Saya mencari-cari yang sekarang. Benda tu, benda tu sebenarnya semua data semua tu sudah pun ada, sudah pun siap. Cuma oleh kerana aa dia bermula dengan pengumuman Perdana Menteri lah yang sebarang aa aa penyasaran semula subsidi tidak akan melibatkan aa 85%.
 
 [21:40] Faiz Ahmad: Okey.
 
