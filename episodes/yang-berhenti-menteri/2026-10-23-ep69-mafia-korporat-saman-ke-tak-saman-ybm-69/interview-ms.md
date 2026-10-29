@@ -33,6 +33,14 @@ model: z-ai/glm-5.3@low
 note: Terjemahan penuh Bahasa Melayu bagi interview.md (versi gaya akhbar dwibahasa), diterjemah segmen demi segmen.
 ---
 
+<!-- nav -->
+**Yang Berhenti Menteri episode 69 — Mafia Korporat- Saman Ke Tak Saman**  
+23 October 2026 · 3h 8m · [watch on YouTube](https://www.youtube.com/watch?v=PYCjpi1DUEw)
+
+This episode: [verbatim raw transcript](raw.md) · [interview, original mixed language](interview.md) · [interview in English](interview-en.md) · **interview in Bahasa Melayu**  
+The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../README.ms.md) · [how these were made](../../../METHODOLOGY.md)
+<!-- /nav -->
+
 # Interview (Bahasa Melayu)
 
 **Haziq:** Assalamualaikum dan salam sejahtera. Podcast Yang Berhenti Menteri. Episod ke-69. Macam biasa, bersama saudara Rafizi Ramli. Ya. Keluarga 69. Dan ini episod khas. Episod Ramanan.
@@ -247,7 +255,7 @@ Dan pada masa itu juga, 24 Mac, dalam dia siarkan semua tu, dia menyebut bagaima
 
 **Haziq:** Yang dia suruh YB jual aiskrim kat eskimo.
 
-**Rafizi:** Iya ke? Orang tak sebut nama dia pun, dia dengan confidentnya tampil, menafikan bahawa dia ahli parlimen itu, dan mencabar sesiapa yang berani menamakan dia, dia akan saman. Salah cabar. Itulah bermulanya. Sebulan lepas itu, kita ulas, kita yang dedahkan siapa Ruben tu, Sandraruben semua. Kita yang tolong Ramanan memberi penjelasan bahawa Mr. R dan yang ambil 9.5 juta tu dua individu yang berbeza. Mr. R yang dinamakan di dalam dossier ialah Victor Chin. Kesian Vincent, aku ada kawan nama Vincent, sorry Vincent, entah bagaimana nama kau yang terlintas kepalaku. Victor Chin itu sebenarnya ialah Ruben, peguam kepada Farhash. Yang dapat 9.5 juta itu bukan Mr. R, itu dinamakan sebagai Ramanan. Pumpang, pumpang, pumpang tak ke mana. Dalam semua yang meletup ni pasal mafia korporat, nama Farhash keluar nama NexG, kemudian seorang lagi nama yang dikaitkan dengan Dato' Seri Anwar, Datuk Ishak, muncul sebagai satu lagi kumpulan rival yang akan mengambil alih NexG. Pumpang, pumpang, pumpang kecoh satu Malaysia. Dato' Seri Anwar, kalau ikut beritanya dan maklumat dalaman kita, akan terus menamakan dan menyambung kontrak Tan Sri Azam Baki. Untuk kali ke? Empat. Dia dah sambung tiga kali. Siasatan tak keluar walaupun maklumatnya ialah pemilikan saham itu telah melanggar peraturan. Allahu Akbar, masih lagi akan disambung. Jadi kita meneruskan dengan kempen. 25 April 2026, kita teruskan dengan demo tangkap Azam Baki yang kedua, yang lebih besar, dan saya ingat sehari ke dua hari selepas itu barulah keluar titah Tuanku Agong.
+**Rafizi:** Iya ke? Orang tak sebut nama dia pun, dia dengan confidentnya tampil, menafikan bahawa dia ahli parlimen itu, dan mencabar sesiapa yang berani menamakan dia, dia akan saman. Salah cabar. Itulah bermulanya. Sebulan lepas itu, kita ulas, kita yang dedahkan siapa Ruben tu, Sandraruben semua. Kita yang tolong Ramanan memberi penjelasan bahawa Mr. R dan yang ambil 9.5 juta tu dua individu yang berbeza. Mr. R yang dinamakan di dalam dossier ialah Victor Chin. Kesian Vincent, aku ada kawan nama Vincent, sorry Vincent, entah bagaimana nama kau yang terlintas kepalaku. Victor Chin itu sebenarnya ialah Ruben, peguam kepada Farhash. Yang dapat 9.5 juta itu bukan Mr. R, itu dinamakan sebagai Ramanan. Pumpang, pumpang, pumpang tak ke mana. Dalam semua yang meletup ni pasal mafia korporat, nama Farhash keluar nama NexG, kemudian seorang lagi nama yang dikaitkan dengan Dato' Seri Anwar, Dato' Ishak, muncul sebagai satu lagi kumpulan rival yang akan mengambil alih NexG. Pumpang, pumpang, pumpang kecoh satu Malaysia. Dato' Seri Anwar, kalau ikut beritanya dan maklumat dalaman kita, akan terus menamakan dan menyambung kontrak Tan Sri Azam Baki. Untuk kali ke? Empat. Dia dah sambung tiga kali. Siasatan tak keluar walaupun maklumatnya ialah pemilikan saham itu telah melanggar peraturan. Allahu Akbar, masih lagi akan disambung. Jadi kita meneruskan dengan kempen. 25 April 2026, kita teruskan dengan demo tangkap Azam Baki yang kedua, yang lebih besar, dan saya ingat sehari ke dua hari selepas itu barulah keluar titah Tuanku Agong.
 
 **Haziq:** Saya rasa sebelum demo, dia nak redakan.
 
