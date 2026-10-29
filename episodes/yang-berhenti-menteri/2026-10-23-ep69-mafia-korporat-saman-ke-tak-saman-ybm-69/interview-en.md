@@ -79,7 +79,7 @@ note: Full English translation of interview.md (the mixed-language newspaper-sty
 
 **Rafizi:** Not exactly stale; I think he's like a trend. He's like a K-pop trend. I'm not a K-pop follower; I usually watch K-dramas, although it's been a long time since I watched Korean dramas. He has his seasons — fighting season, this season, that season. I have a feeling that this thing seems to have passed its peak a little. So it's not easy for a performative political approach tied to issues that tug at voters' emotions — sock issues, flags, all that — to blow up or shake things like before. So I feel that if we overreact, we're the ones prolonging that performative culture. The ones getting worked up are you all.
 
-**Haziq:** We'll win this time. Hopefully. Okay, next, YB. Now we've moved into the Corporate Mafia issue. This is the scripted answer prepared by the PM and repeated over and over by Ceplos. Congratulations, PMX, how firm.
+**Haziq:** We'll win this time. Hopefully. Okay, next, YB. Now we've moved into the Corporate Mafia issue. This is the scripted answer prepared by the PM and repeated over and over by ceplos. Congratulations, PMX, how firm.
 
 **Rafizi:** Presumably over the weekend, for weeks they had been arranging things so that when Prime Minister Dato' Seri Anwar went to Parliament this past Monday to answer on the corporate mafia, it would supposedly kill the issue once and for all. Unfortunately, it turned into something else. I think they need to find a strategy director. Who is PKR's strategy director now?
 

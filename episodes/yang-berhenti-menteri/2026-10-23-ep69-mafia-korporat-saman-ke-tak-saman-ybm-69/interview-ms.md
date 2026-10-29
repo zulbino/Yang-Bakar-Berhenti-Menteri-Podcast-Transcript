@@ -79,7 +79,7 @@ note: Terjemahan penuh Bahasa Melayu bagi interview.md (versi gaya akhbar dwibah
 
 **Rafizi:** Bukanlah mula basi, saya rasa dia macam trend. Dia macam trend K-pop lah. Aku bukan pengikut K-pop; aku selalu kalau tengok pun K-drama, walaupun dah lama aku tak tengok drama Korea. Dia ada musim-musim dia — musim gaduh, musim ini, musim itu. Aku ada rasa benda itu nampaknya musim dah reda sedikit. Jadi tidak mudah untuk satu pendekatan politik yang berbentuk performatif yang bersabit dengan isu-isu yang mencuit emosi pengundi — soal stokin lah, soal bendera semua tu — untuk pecah ataupun goyang macam dulu. Jadi aku rasa kalau kita pula lebih-lebih, kita memanjangkan budaya performatif itu. Yang beria adalah korang.
 
-**Haziq:** Kita menang satulah kali ni. Harapnya. Okay seterusnya, YB. Ini dah masuk isu Mafia Korporat. Ini jawapan daripada skrip yang disediakan oleh PM dan diulang-ulang oleh Ceplos. Tahniah, PMX tegas.
+**Haziq:** Kita menang satulah kali ni. Harapnya. Okay seterusnya, YB. Ini dah masuk isu Mafia Korporat. Ini jawapan daripada skrip yang disediakan oleh PM dan diulang-ulang oleh ceplos. Tahniah, PMX tegas.
 
 **Rafizi:** Agaknya sepanjang hujung minggu itu, berminggu-minggu mereka menyusun supaya bila Perdana Menteri Dato' Seri Anwar pergi ke Parlimen hari Isnin baru ini menjawab pasal mafia korporat, kononnya untuk mematikan terus isu itu. Malangnya ia jadi benda lain. Saya rasa mereka kena cari pengarah strategi. Siapa pengarah strategi PKR sekarang ini?
 
