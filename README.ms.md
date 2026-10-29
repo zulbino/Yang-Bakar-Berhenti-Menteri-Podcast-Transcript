@@ -150,9 +150,6 @@ Hanya episod penuh sepanjang satu jam atau lebih daripada [playlist](https://www
 
 Dokumen berikut dalam Bahasa Inggeris:
 
-- [ARCHITECTURE.md](ARCHITECTURE.md): aliran kerja, persediaan dan arahan.
-- [ENGINEERING_LOG.md](ENGINEERING_LOG.md): setiap kegagalan yang ditemui dan pembetulannya.
-- [MODEL_LANDSCAPE.md](MODEL_LANDSCAPE.md): model pertuturan dinilai pada audio Malaysia.
 
 Susun aturnya mengikut [Lenny's Podcast Transcripts](https://github.com/ChatPRD/lennys-podcast-transcripts).
 

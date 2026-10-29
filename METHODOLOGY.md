@@ -169,9 +169,6 @@ content.
 Measured 2026-09-28: 18 of 74 recordings carry at least one flag, and 6 findings are reviewed
 as harmless, with reasons in `data/qa_reviewed.json`.
 
-[ARCHITECTURE.md](ARCHITECTURE.md) describes the pipeline. [ENGINEERING_LOG.md](ENGINEERING_LOG.md)
-records every failure in full.
-
 ## How to report an error
 
 Open an issue at

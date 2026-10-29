@@ -148,9 +148,6 @@ Only full episodes of an hour or more from the [playlist](https://www.youtube.co
 
 `python scripts/qa_check.py` writes `QA_CHECKLIST.md`. A clean row means no known failure was found, not that the episode is verified.
 
-- [ARCHITECTURE.md](ARCHITECTURE.md): the pipeline, setup and commands.
-- [ENGINEERING_LOG.md](ENGINEERING_LOG.md): every failure found and its fix.
-- [MODEL_LANDSCAPE.md](MODEL_LANDSCAPE.md): speech models scored on Malaysian audio.
 
 The layout follows [Lenny's Podcast Transcripts](https://github.com/ChatPRD/lennys-podcast-transcripts).
 
