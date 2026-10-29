@@ -610,7 +610,7 @@ the video before quoting anyone.
 - Segmen Beria: roundup berita viral mingguan
 - Kompaun SPRM dan pelarian Datuk Adam Radlan dalam kes Jana Wibawa
 - Kontroversi tulisan bahasa Cina di batu asas Kedah Rubber City dan politik Exco Kedah
-- Perjanjian ARM (Arm Holdings IP) dan cita-cita chip buatan Malaysia sendiri
+- Perjanjian Arm (Arm Holdings IP) dan cita-cita chip buatan Malaysia sendiri
 - Tuduhan rasuah dan fitnah cyber trooper PKR (ceplos) terhadap Rafizi dan bekas pegawainya James
 - Agreement on Reciprocal Trade (ART) dengan Amerika Syarikat dan perbandingan dengan Cambodia
 - Isu kedaulatan negara dan status 'comprehensive strategic partner' dengan AS
@@ -887,8 +887,8 @@ the video before quoting anyone.
 - Isu 'tebuk Facebook' dan pengambilalihan media sosial Bersatu
 - Kemas kini Ayuh Malaysia: sistem sumbangan FlexiMart dan Kesum untuk Ramadan
 - Program Mind Your Mandarin dan Pinjam Gadget di bawah Ayuh Malaysia
-- Perjanjian ARM dan strategi front-end semikonduktor Malaysia
-- Pertembungan Kementerian Ekonomi dengan MITI/Tengku Zafrul soal kredit ARM
+- Perjanjian Arm dan strategi front-end semikonduktor Malaysia
+- Pertembungan Kementerian Ekonomi dengan MITI/Tengku Zafrul soal kredit Arm
 - Tuduhan salah guna kuasa RM1.1 bilion oleh SPRM/Azam Baki terhadap Rafizi
 - Kontroversi Neta, Itramas, Invoke dan konflik kepentingan Lee Chean Chung
 - Ancaman saman fitnah Rafizi terhadap Caprice
@@ -928,8 +928,8 @@ the video before quoting anyone.
 - Kontroversi Tan Sri Azam Baki: dakwaan pemilikan saham, korporat mafia, dan laporan Bloomberg
 - Dakwaan konspirasi menjatuhkan kerajaan melibatkan Toh Puan Naimah dan keluarga Tun Daim
 - Naratif konspirasi Zionis/Yahudi dalam politik Malaysia dan sejarah Free Anwar Campaign
-- Siasatan SPRM terhadap James Chai berkaitan perjanjian ARM (Advanced Micro/semiconductor) bernilai 1.1 bilion
-- Latar belakang dan justifikasi perjanjian kerajaan-ARM untuk membangunkan industri semikonduktor Malaysia
+- Siasatan SPRM terhadap James Chai berkaitan perjanjian Arm (Advanced Micro/semiconductor) bernilai 1.1 bilion
+- Latar belakang dan justifikasi perjanjian kerajaan-Arm untuk membangunkan industri semikonduktor Malaysia
 - Kesan kontroversi James Chai terhadap sokongan politik dalam kalangan Gen Z dan pengundi bandar
 
 ## YBhM ep39 &mdash; 2026-03-13
@@ -1003,7 +1003,7 @@ the video before quoting anyone.
 - Kebebasan media di Malaysia: sejarah tekanan, self-censorship dan Majlis Media Malaysia
 - Sustainability kewangan industri media dan cadangan anti-SLAPP law
 - Pelaksanaan PADU dan subsidi bersasar diesel/RON95 semasa Rafizi jadi Menteri Ekonomi
-- Kontroversi perjanjian ARM Holdings dan siasatan SPRM terhadap James Tsai
+- Kontroversi perjanjian Arm Holdings dan siasatan SPRM terhadap James Tsai
 - Isu lantikan semula Ketua SPRM Tan Sri Azam Baki
 - Kifarah Langkah Kajang 2014 dan integriti Tan Sri Khalid Ibrahim
 - Serangan 'Menteri Paling Gagal' oleh Ramanan dan rekod dasar upah/pekerja asing Kementerian Ekonomi
@@ -1101,9 +1101,9 @@ the video before quoting anyone.
 - Minister of the Week: RTM dan hak siaran Piala Dunia FIFA 2026 vs pemotongan peruntukan KKM
 - Beria: kenyataan Jalaluddin ''nak tebuk atap'' dan krisis politik Negeri Sembilan
 - Hidup Keras: pengalaman Rafizi disoal siasat SPRM dan prosedur Seksyen 23 Akta SPRM
-- Perjanjian kerjasama ARM bernilai RM1.1 bilion dan pembangunan industri semikonduktor Malaysia
+- Perjanjian kerjasama Arm bernilai RM1.1 bilion dan pembangunan industri semikonduktor Malaysia
 - Inisiatif KL20 Action Plan dan usaha menarik pelaburan teknologi antarabangsa
-- Perebutan kredit antara Kementerian Ekonomi, MITI dan Kementerian Kewangan dalam deal ARM
+- Perebutan kredit antara Kementerian Ekonomi, MITI dan Kementerian Kewangan dalam deal Arm
 - Tuduhan motif politik di sebalik siasatan SPRM dan peranan ceplos/Perkasa/PPIM
 - Kebocoran senarai tier kerusi PKR untuk PRU akan datang dan spekulasi kerusi Anwar Ibrahim
 - Strategi pilihan raya PKR/PH: pengalaman PRU 2022 dan analisis pengundi atas pagar
