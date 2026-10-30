@@ -45,7 +45,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [02:27] Rafizi: Belum apa-apa lagi Dah keluar Ramadhan
 
-[02:30] Haziq: KPIB... RR saman RR Ini selepas YB memaklumkan yang Pasukan Punggungan YB akan menyaman Saudara Ramadhan lah Dan jawapan yang diberi macam kita semua tahu
+[02:30] Haziq: KPIB... RR saman RR Ini selepas YB memaklumkan yang Pasukan Punggungan YB akan menyaman Saudara Ramanan lah Dan jawapan yang diberi macam kita semua tahu
 
 [02:43] Rafizi: Ini yang
 
