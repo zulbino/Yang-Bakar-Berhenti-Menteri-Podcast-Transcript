@@ -1557,3 +1557,20 @@ the video before quoting anyone.
 - Tuduhan dendam peribadi terhadap Anwar Ibrahim dan isu kewangan politik/budaya rasuah dalam parti
 - Kes peribadi Nik Nazmi: pengakuan, permohonan maaf dan keputusan BERSAMA merehatkannya selama tiga bulan
 - Dakwaan Yayasan Hijau dan isu tadbir urus NGO/agensi kerajaan berkaitan Nik Nazmi
+
+## YBhM ep70 &mdash; 2026-10-29
+
+[BERSAMA Melangkah ke PRN Melaka | YBM #70](https://www.youtube.com/watch?v=yKRMf9JUK74) &middot; [raw](episodes/yang-berhenti-menteri/2026-10-29-ep70-bersama-melangkah-ke-prn-melaka-ybm-70/raw.md) &middot; [mixed](episodes/yang-berhenti-menteri/2026-10-29-ep70-bersama-melangkah-ke-prn-melaka-ybm-70/interview.md) &middot; [EN](episodes/yang-berhenti-menteri/2026-10-29-ep70-bersama-melangkah-ke-prn-melaka-ybm-70/interview-en.md) &middot; [MS](episodes/yang-berhenti-menteri/2026-10-29-ep70-bersama-melangkah-ke-prn-melaka-ybm-70/interview-ms.md)
+
+- Saman Rafizi terhadap Ramanan dan reaksi PC Ramanan
+- Isu REE (Rare Earth Elements) dan kenyataan Dato' Seri Sanusi di Forum SG4
+- Kempen calon Gen Z PKR dan isu pengecualian kompaun Kamil Munim
+- Kenyataan AMK/Amira Alias menuduh PKR sebagai 'kaki kencing
+- Demonstrasi 'Macai For Rent' (Faizan) dan budaya geng Roro dalam PKR
+- Isu mafia korporat, pembekuan aset 409 juta dan kaitan Farhash/Ramanan
+- Kenyataan Kamil Rozman tentang penggunaan dana KWAP untuk asrama
+- Drama walk-out MCA dan hubungan MCA-UMNO dalam BN
+- Penggantungan dan pemecatan Shuhaily daripada AKPS
+- Persediaan dan strategi parti Bersama untuk PRN Melaka berbanding PRN Johor
+- Analisis sokongan pengundi mengikut kategori totok dan atas pagar di Melaka
+- Pelancaran manifesto Bersama dan rancangan kempen (town hall presidential, kuali appearance, sukan)
