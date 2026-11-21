@@ -1,5 +1,5 @@
 ---
-title: 'Mafia Korporat- Saman Ke Tak Saman | YBM #69'
+title: 'Rafizi Jawab Ramanan PMX Sekaligus - Isu Mafia Korporat, Nik Nazmi | YBM #69'
 video_id: PYCjpi1DUEw
 youtube_url: https://www.youtube.com/watch?v=PYCjpi1DUEw
 channel: Rafizi Ramli
@@ -12,7 +12,7 @@ note: 'Raw transcript from openai/whisper-large-v3-turbo run locally, verbatim s
 ---
 
 <!-- nav -->
-**Yang Berhenti Menteri episode 69 — Mafia Korporat- Saman Ke Tak Saman**  
+**Yang Berhenti Menteri episode 69 — Rafizi Jawab Ramanan PMX Sekaligus - Isu Mafia Korporat, Nik Nazmi**  
 23 October 2026 · 3h 8m · [watch on YouTube](https://www.youtube.com/watch?v=PYCjpi1DUEw)
 
 This episode: **verbatim raw transcript** · [interview, original mixed language](interview.md) · [interview in English](interview-en.md) · [interview in Bahasa Melayu](interview-ms.md)  

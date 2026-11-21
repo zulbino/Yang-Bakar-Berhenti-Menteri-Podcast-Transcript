@@ -1,5 +1,5 @@
 ---
-title: 'Kerajaan Bertukar, Amalan Masih Sama? | YBM #68'
+title: 'Dari Umno ke PKR: Zetrix - Kerajaan Bertukar, Kroni Berpindah? | YBM #68'
 video_id: lqNf_P99B-I
 youtube_url: https://www.youtube.com/watch?v=lqNf_P99B-I
 channel: Rafizi Ramli
@@ -35,7 +35,7 @@ note: Terjemahan penuh Bahasa Melayu bagi interview.md (versi gaya akhbar dwibah
 ---
 
 <!-- nav -->
-**Yang Berhenti Menteri episode 68 — Kerajaan Bertukar, Amalan Masih Sama?**  
+**Yang Berhenti Menteri episode 68 — Dari Umno ke PKR: Zetrix - Kerajaan Bertukar, Kroni Berpindah?**  
 16 October 2026 · 3h 14m · [watch on YouTube](https://www.youtube.com/watch?v=lqNf_P99B-I)
 
 This episode: [verbatim raw transcript](raw.md) · [interview, original mixed language](interview.md) · [interview in English](interview-en.md) · **interview in Bahasa Melayu**  

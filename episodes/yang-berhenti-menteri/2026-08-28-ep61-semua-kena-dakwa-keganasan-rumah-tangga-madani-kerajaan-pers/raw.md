@@ -1,5 +1,5 @@
 ---
-title: 'NEGERI MISKIN SEBAB DIANAKTIRI, KEGANASAN RUMAH TANGGA DALAM KERAJAAN MADANI | YBM #61'
+title: 'Semua Kena Dakwa: Keganasan Rumah Tangga Madani, Kerajaan Persekutuan & Negeri | YBM #61'
 video_id: 2AytMmKIU7w
 youtube_url: https://www.youtube.com/watch?v=2AytMmKIU7w
 channel: Rafizi Ramli
@@ -12,7 +12,7 @@ note: 'Raw transcript from MAI-Transcribe-2 via the Azure Speech API, verbatim s
 ---
 
 <!-- nav -->
-**Yang Berhenti Menteri episode 61 — NEGERI MISKIN SEBAB DIANAKTIRI, KEGANASAN RUMAH TANGGA DALAM KERAJAAN MADANI**  
+**Yang Berhenti Menteri episode 61 — Semua Kena Dakwa: Keganasan Rumah Tangga Madani, Kerajaan Persekutuan & Negeri**  
 28 August 2026 · 2h 54m · [watch on YouTube](https://www.youtube.com/watch?v=2AytMmKIU7w)
 
 This episode: **verbatim raw transcript** · [interview, original mixed language](interview.md) · [interview in English](interview-en.md) · [interview in Bahasa Melayu](interview-ms.md)  
