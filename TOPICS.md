@@ -1378,7 +1378,7 @@ the video before quoting anyone.
 
 ## YBhM ep61 &mdash; 2026-08-28
 
-[NEGERI MISKIN SEBAB DIANAKTIRI, KEGANASAN RUMAH TANGGA DALAM KERAJAAN MADANI | YBM #61](https://www.youtube.com/watch?v=2AytMmKIU7w) &middot; [raw](episodes/yang-berhenti-menteri/2026-08-28-ep61-semua-kena-dakwa-keganasan-rumah-tangga-madani-kerajaan-pers/raw.md) &middot; [mixed](episodes/yang-berhenti-menteri/2026-08-28-ep61-semua-kena-dakwa-keganasan-rumah-tangga-madani-kerajaan-pers/interview.md) &middot; [EN](episodes/yang-berhenti-menteri/2026-08-28-ep61-semua-kena-dakwa-keganasan-rumah-tangga-madani-kerajaan-pers/interview-en.md) &middot; [MS](episodes/yang-berhenti-menteri/2026-08-28-ep61-semua-kena-dakwa-keganasan-rumah-tangga-madani-kerajaan-pers/interview-ms.md)
+[Semua Kena Dakwa: Keganasan Rumah Tangga Madani, Kerajaan Persekutuan & Negeri | YBM #61](https://www.youtube.com/watch?v=2AytMmKIU7w) &middot; [raw](episodes/yang-berhenti-menteri/2026-08-28-ep61-semua-kena-dakwa-keganasan-rumah-tangga-madani-kerajaan-pers/raw.md) &middot; [mixed](episodes/yang-berhenti-menteri/2026-08-28-ep61-semua-kena-dakwa-keganasan-rumah-tangga-madani-kerajaan-pers/interview.md) &middot; [EN](episodes/yang-berhenti-menteri/2026-08-28-ep61-semua-kena-dakwa-keganasan-rumah-tangga-madani-kerajaan-pers/interview-en.md) &middot; [MS](episodes/yang-berhenti-menteri/2026-08-28-ep61-semua-kena-dakwa-keganasan-rumah-tangga-madani-kerajaan-pers/interview-ms.md)
 
 - Terapi overclaim: alat hidrogen/nebulizer dan kawalan Medical Device Authority
 - Fenomena 'Malaysia Mamdani' dan perbandingan sistem Datuk Bandar New York dengan PBT Malaysia
@@ -1521,7 +1521,7 @@ the video before quoting anyone.
 
 ## YBhM ep68 &mdash; 2026-10-16
 
-[Kerajaan Bertukar, Amalan Masih Sama? | YBM #68](https://www.youtube.com/watch?v=lqNf_P99B-I) &middot; [raw](episodes/yang-berhenti-menteri/2026-10-16-ep68-kerajaan-bertukar-amalan-masih-sama-ybm-68/raw.md) &middot; [mixed](episodes/yang-berhenti-menteri/2026-10-16-ep68-kerajaan-bertukar-amalan-masih-sama-ybm-68/interview.md) &middot; [EN](episodes/yang-berhenti-menteri/2026-10-16-ep68-kerajaan-bertukar-amalan-masih-sama-ybm-68/interview-en.md) &middot; [MS](episodes/yang-berhenti-menteri/2026-10-16-ep68-kerajaan-bertukar-amalan-masih-sama-ybm-68/interview-ms.md)
+[Dari Umno ke PKR: Zetrix - Kerajaan Bertukar, Kroni Berpindah? | YBM #68](https://www.youtube.com/watch?v=lqNf_P99B-I) &middot; [raw](episodes/yang-berhenti-menteri/2026-10-16-ep68-dari-umno-ke-pkr-zetrix-kerajaan-bertukar-kroni-berpindah-yb/raw.md) &middot; [mixed](episodes/yang-berhenti-menteri/2026-10-16-ep68-dari-umno-ke-pkr-zetrix-kerajaan-bertukar-kroni-berpindah-yb/interview.md) &middot; [EN](episodes/yang-berhenti-menteri/2026-10-16-ep68-dari-umno-ke-pkr-zetrix-kerajaan-bertukar-kroni-berpindah-yb/interview-en.md) &middot; [MS](episodes/yang-berhenti-menteri/2026-10-16-ep68-dari-umno-ke-pkr-zetrix-kerajaan-bertukar-kroni-berpindah-yb/interview-ms.md)
 
 - Segmen Beria: bas dua tingkat RapidKL dan pengalaman menaiki pengangkutan awam
 - Bantuan khas RM1,000 kepada pemandu teksi dan isu peruntukan belanjawan 2027 sebelum diluluskan
@@ -1541,7 +1541,7 @@ the video before quoting anyone.
 
 ## YBhM ep69 &mdash; 2026-10-23
 
-[Mafia Korporat- Saman Ke Tak Saman | YBM #69](https://www.youtube.com/watch?v=PYCjpi1DUEw) &middot; [raw](episodes/yang-berhenti-menteri/2026-10-23-ep69-mafia-korporat-saman-ke-tak-saman-ybm-69/raw.md) &middot; [mixed](episodes/yang-berhenti-menteri/2026-10-23-ep69-mafia-korporat-saman-ke-tak-saman-ybm-69/interview.md) &middot; [EN](episodes/yang-berhenti-menteri/2026-10-23-ep69-mafia-korporat-saman-ke-tak-saman-ybm-69/interview-en.md) &middot; [MS](episodes/yang-berhenti-menteri/2026-10-23-ep69-mafia-korporat-saman-ke-tak-saman-ybm-69/interview-ms.md)
+[Rafizi Jawab Ramanan PMX Sekaligus - Isu Mafia Korporat, Nik Nazmi | YBM #69](https://www.youtube.com/watch?v=PYCjpi1DUEw) &middot; [raw](episodes/yang-berhenti-menteri/2026-10-23-ep69-rafizi-jawab-ramanan-pmx-sekaligus-isu-mafia-korporat-nik-na/raw.md) &middot; [mixed](episodes/yang-berhenti-menteri/2026-10-23-ep69-rafizi-jawab-ramanan-pmx-sekaligus-isu-mafia-korporat-nik-na/interview.md) &middot; [EN](episodes/yang-berhenti-menteri/2026-10-23-ep69-rafizi-jawab-ramanan-pmx-sekaligus-isu-mafia-korporat-nik-na/interview-en.md) &middot; [MS](episodes/yang-berhenti-menteri/2026-10-23-ep69-rafizi-jawab-ramanan-pmx-sekaligus-isu-mafia-korporat-nik-na/interview-ms.md)
 
 - Segmen Beria: Skim Lindungan 24 Jam PERKESO dan tuntutan gigitan kucing
 - Segmen Beria: Akmal Saleh, Teresa Kok dan isu saman defamasi
@@ -1574,3 +1574,23 @@ the video before quoting anyone.
 - Persediaan dan strategi parti Bersama untuk PRN Melaka berbanding PRN Johor
 - Analisis sokongan pengundi mengikut kategori totok dan atas pagar di Melaka
 - Pelancaran manifesto Bersama dan rancangan kempen (town hall presidential, kuali appearance, sukan)
+
+## YBhM ep71 &mdash; 2026-11-20
+
+[Lepas 2 Pilihan Raya Negeri, BERSAMA Didesak Bubar | YBM #71](https://www.youtube.com/watch?v=BNrERf-ApvU) &middot; [raw](episodes/yang-berhenti-menteri/2026-11-20-ep71-lepas-2-pilihan-raya-negeri-bersama-didesak-bubar-ybm-71/raw.md) &middot; [mixed](episodes/yang-berhenti-menteri/2026-11-20-ep71-lepas-2-pilihan-raya-negeri-bersama-didesak-bubar-ybm-71/interview.md) &middot; [EN](episodes/yang-berhenti-menteri/2026-11-20-ep71-lepas-2-pilihan-raya-negeri-bersama-didesak-bubar-ybm-71/interview-en.md) &middot; [MS](episodes/yang-berhenti-menteri/2026-11-20-ep71-lepas-2-pilihan-raya-negeri-bersama-didesak-bubar-ybm-71/interview-ms.md)
+
+- Segmen Beria: isu PACA bergaji dan ''gig economy'' dalam PRN Melaka
+- Permintaan MC Pa'an untuk bermain GTA VI
+- Pantun dan surat permohonan maaf Ahmad Maslan kepada Anwar Ibrahim
+- Kenyataan Perdana Menteri Anwar Ibrahim tentang pengampunan Najib Razak
+- Krisis jawatan Menteri Besar Negeri Sembilan dan Dato' Ismail Lasim
+- Kenyataan Mat Sabu mengenai kelemahan PH dan gaya kepimpinan Anwar
+- Rate of the week: insiden Ahmad Zahid Hamidi dan anaknya
+- Reaksi tuntutan pembubaran parti BERSAMA selepas PRN Melaka
+- Perbandingan jangkaan survey BERSAMA dengan keputusan sebenar PRN Melaka
+- Analisis peratusan undi BERSAMA mengikut kerusi Melayu, campuran dan bukan Melayu
+- Perbandingan prestasi BERSAMA dengan PAS, DAP, Muda dan Pejuang secara sejarah
+- Dinamik polarisasi politik antara UMNO-PAS dan DAP serta kesannya kepada pengundi Melayu
+- Strategi dan budaya berkempen (ceramah) BERSAMA berbanding parti lain
+- Lima faktor pembinaan parti BERSAMA: prinsip, electioneering, keberadaan akar umbi, kualiti calon, jentera
+- Ketidaktentuan politik akan datang: calon PM UMNO, hubungan PAS-PN-UMNO, nasib PH
