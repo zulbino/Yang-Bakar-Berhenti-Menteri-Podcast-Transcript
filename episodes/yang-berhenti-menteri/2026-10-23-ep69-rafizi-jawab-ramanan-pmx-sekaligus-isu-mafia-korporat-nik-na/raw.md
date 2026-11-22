@@ -197,7 +197,7 @@ The archive: [all episodes](../../../README.md) · [in Bahasa Melayu](../../../R
 
 [37:21] Haziq: TuJu suruh masuk
 
-[37:22] Rafizi: Teo Nie Ching Kan yang apa namanya Tuju...
+[37:22] Rafizi: Teo Nie Ching Kan yang apa namanya TuJu...
 
 [37:27] Haziq: Jambatan tak siap tu
 

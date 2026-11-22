@@ -151,7 +151,7 @@ Ini bukan kali pertama aku rasa dia terlepas cakap. Aku pernah melaluinya sebaga
 
 **Farhan (Pa'an):** Malaysia. Aku pun baru tahu, sebab yang muda-muda dalam team letak gambar dia.
 
-**Rafizi:** Kau pun tanya soalan yang sama lah. Siapa dia ni. Tapi tunggu content yang tengah viral sekarang ni, content apa namanya, Jumanji tu kan. Lawak. Ada Anthony Loke, ya, Ong Kian Ming, Teo Nie Ching, kan yang apa namanya Tuju—
+**Rafizi:** Kau pun tanya soalan yang sama lah. Siapa dia ni. Tapi tunggu content yang tengah viral sekarang ni, content apa namanya, Jumanji tu kan. Lawak. Ada Anthony Loke, ya, Ong Kian Ming, Teo Nie Ching, kan yang apa namanya TuJu—
 
 **Haziq:** Jambatan tak siap tu?
 
