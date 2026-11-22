@@ -1571,9 +1571,9 @@ the video before quoting anyone.
 - Kenyataan Kamil Rozman tentang penggunaan dana KWAP untuk asrama
 - Drama walk-out MCA dan hubungan MCA-UMNO dalam BN
 - Penggantungan dan pemecatan Shuhaily daripada AKPS
-- Persediaan dan strategi parti Bersama untuk PRN Melaka berbanding PRN Johor
+- Persediaan dan strategi parti BERSAMA untuk PRN Melaka berbanding PRN Johor
 - Analisis sokongan pengundi mengikut kategori totok dan atas pagar di Melaka
-- Pelancaran manifesto Bersama dan rancangan kempen (town hall presidential, kuali appearance, sukan)
+- Pelancaran manifesto BERSAMA dan rancangan kempen (town hall presidential, kuali appearance, sukan)
 
 ## YBhM ep71 &mdash; 2026-11-20
 
