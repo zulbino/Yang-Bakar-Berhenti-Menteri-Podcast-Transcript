@@ -1594,3 +1594,22 @@ the video before quoting anyone.
 - Strategi dan budaya berkempen (ceramah) BERSAMA berbanding parti lain
 - Lima faktor pembinaan parti BERSAMA: prinsip, electioneering, keberadaan akar umbi, kualiti calon, jentera
 - Ketidaktentuan politik akan datang: calon PM UMNO, hubungan PAS-PN-UMNO, nasib PH
+
+## YBhM ep72 &mdash; 2026-11-27
+
+[SBP Sudah Tersasar? Menteri BN Lebih Berprestasi Daripada Menteri PH? | YBM #72](https://www.youtube.com/watch?v=aLxtin3F35c) &middot; [raw](episodes/yang-berhenti-menteri/2026-11-27-ep72-sbp-sudah-tersasar-menteri-bn-lebih-berprestasi-daripada-men/raw.md) &middot; [mixed](episodes/yang-berhenti-menteri/2026-11-27-ep72-sbp-sudah-tersasar-menteri-bn-lebih-berprestasi-daripada-men/interview.md) &middot; [EN](episodes/yang-berhenti-menteri/2026-11-27-ep72-sbp-sudah-tersasar-menteri-bn-lebih-berprestasi-daripada-men/interview-en.md) &middot; [MS](episodes/yang-berhenti-menteri/2026-11-27-ep72-sbp-sudah-tersasar-menteri-bn-lebih-berprestasi-daripada-men/interview-ms.md)
+
+- Segmen Beria: soalan KBAT SPM tentang hukuman rasuah
+- Segmen Beria: kontroversi LOD Syarikat Air Kelantan (AKSB) dan firma guaman AWAS
+- Segmen Beria: posting Ahli Parlimen PAS Baling tentang ''nasi bungkus'' dan elaun kehadiran ahli Parlimen
+- Isu pelarian Rohingya ke Turkiye dan u-turn kapal, serta performative politics Dato' Seri Zahid Hamidi
+- Kemelut perletakan jawatan Anthony Loke dan DAP dalam kerajaan Anwar
+- Pertimbangan laporan jawatankuasa pemilikan saham KP SPRM oleh Dato' Azalina
+- Segmen Beria: kenyataan Ramanan (PKR) memaki Malaysiakini sebagai tabloid
+- Sejarah penubuhan MCKK dan sistem sekolah berasrama penuh British (public school)
+- Penyata Razak dan penubuhan SBP serta MRSM di bawah RMK2
+- Evolusi masyarakat, kelas menengah Melayu dan penerimaan ibu bapa terhadap SBP/MRSM
+- Perbandingan class size, kualiti guru dan ketidaksamaan akses pendidikan antara SBP dengan sekolah harian
+- Pemansuhan UPSR/PT3 dan sistem permohonan kemasukan SBP/MRSM (PKSK) yang semakin kompleks
+- Rangka kerja menilai prestasi menteri: structural shift, performance delivery, value for money, stakeholders, outcome
+- Kritikan terhadap budaya performative politics dan KPI kerajaan Madani berbanding dakwaan menteri BN lebih perform
